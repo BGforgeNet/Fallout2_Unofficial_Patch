@@ -10,7 +10,6 @@
   or (obj_pid(get_armor(x)) == PID_HARDENED_POWER_ARMOR) \
   or (obj_pid(get_armor(x)) == PID_ADVANCED_POWER_ARMOR) \
   or (obj_pid(get_armor(x)) == PID_ADVANCED_POWER_ARMOR_MK2) \
-  or (obj_pid(get_armor(x)) == PID_ENVIRONMENTAL_ARMOUR) \
 )
 
 #endif  // COMMAND_EXTRA_H
