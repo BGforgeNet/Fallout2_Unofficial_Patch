@@ -90,7 +90,6 @@ procedure Lock_Door;
 procedure Set_Lock;
 procedure Set_Lockpick_Lock;
 procedure Set_Trap;
-procedure Pry_Door;
 procedure Damage_Critter;
 
 
@@ -142,6 +141,8 @@ variable Book_Annoy_Count;
    first entered. Any initial information that needs to be set up
    should be placed in here.
 *******************************************************************/
+
+#include "../template/gdoor.ssl"
 
 procedure start begin
    book_obj1 := self_obj;

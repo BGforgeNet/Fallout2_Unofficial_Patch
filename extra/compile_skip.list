@@ -6,6 +6,7 @@ vault13/waypnt.ssl
 
 template/emitter.ssl
 template/ffeild.ssl
+template/gdoor.ssl
 template/generic.ssl
 template/genffld.ssl
 template/peasant.ssl

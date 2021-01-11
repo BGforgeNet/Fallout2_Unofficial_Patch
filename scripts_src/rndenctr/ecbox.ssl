@@ -100,7 +100,6 @@ procedure Set_Lock;
 procedure Set_Lockpick_Lock;
 procedure Super_Set_Lockpick_Lock;
 procedure Set_Trap;
-procedure Pry_Door;
 procedure Damage_Critter;
 procedure GetZone;
 procedure CreateContents;
@@ -144,6 +143,8 @@ variable Traps_Roll;
    first entered. Any initial information that needs to be set up
    should be placed in here.
 *******************************************************************/
+
+#include "../template/gdoor.ssl"
 
 procedure start begin
 end

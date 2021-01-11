@@ -102,7 +102,6 @@ procedure Lock_Door;
 procedure Set_Lock;
 procedure Set_Lockpick_Lock;
 procedure Set_Trap;
-procedure Pry_Door;
 procedure Damage_Critter;
 procedure checkPartyMembers;
 procedure Super_Lockpick_Lock;
@@ -150,6 +149,8 @@ variable last_source_obj;
    first entered. Any initial information that needs to be set up
    should be placed in here.
 *******************************************************************/
+
+#include "../template/gdoor.ssl"
 
 procedure start begin
    i_cell_door_obj := self_obj;
