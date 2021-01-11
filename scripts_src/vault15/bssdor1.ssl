@@ -152,6 +152,7 @@ variable last_source_obj;
    should be placed in here.
 *******************************************************************/
 
+#define custom_Lockpick_Door
 #include "../template/gdoor.ssl"
 
 procedure start begin

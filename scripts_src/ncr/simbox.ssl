@@ -87,7 +87,6 @@ procedure Skill_Disarm_Traps;
 procedure Disarm_Traps;
 procedure Unlock_Lock;
 procedure Lockpick_Lock;
-procedure Lockpick_Door;
 procedure Lock_Door;
 procedure Set_Lock;
 procedure Set_Lockpick_Lock;
@@ -1238,52 +1237,7 @@ procedure Super_Lockpick_Lock begin
 
    call Lockpick_Door;
 end
-/***************************************************************************
-   This procedure will check against the roll_vs_lockpick to see if the
-   source_object will unlock the door and display the appropriate messages
-***************************************************************************/
 
-procedure Lockpick_Door begin
-   if (is_success(Locks_Roll)) then begin
-       set_local_var(LVAR_Locked, STATE_INACTIVE);              // Door is unlocked
-       obj_unlock(self_obj);                                    // engine unlock door
-
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(170));
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(173));
-       end
-
-       if (local_var(LVAR_Gave_Locks_XP) == 0) then begin
-           set_local_var(LVAR_Gave_Locks_XP,1);
-           give_xp(Lockpick_Exp);
-       end
-   end
-
-   else if (is_critical(Locks_Roll)) then begin
-       jam_lock(self_obj);
-
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(171));
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(174));
-       end
-   end
-
-   else begin
-       if (source_obj == dude_obj) then begin
-           display_msg(mstr(172));
-       end
-
-       else begin
-           display_msg(obj_name(source_obj)+mstr(175));
-       end
-   end
-end
 
 /***************************************************************************
    This procedure will allow the source_obj to lock the door that he had

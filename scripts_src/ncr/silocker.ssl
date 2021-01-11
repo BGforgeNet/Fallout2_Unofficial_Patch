@@ -138,6 +138,7 @@ variable Traps_Roll;
    should be placed in here.
 *******************************************************************/
 
+#define custom_Lockpick_Door
 #include "../template/gdoor.ssl"
 
 procedure start begin
