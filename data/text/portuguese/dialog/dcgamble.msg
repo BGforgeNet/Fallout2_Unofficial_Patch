@@ -86,4 +86,4 @@
 {601}{}{Por que você fez isso?}
 {602}{}{Fugir!}
 {603}{}{Pare com isso, eu sou frágil.}
-{604}{}{I wouldn't do that to you.}
+{604}{}{Eu não faria isso com você.}

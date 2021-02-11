@@ -1,9 +1,27 @@
 *.int
 *.tmp
 *.err
+*.exe
 *.log
+*.zip
+*.dat
+
+# used to build dat files
+file.list
+
+translations/*/text
+data/text/english/cuts_female
+
+release/ddraw.dll
+release/ddraw.ini
+release/sfall-mods.ini
+release/translations/
+release/mods/
+
 extra/bin/*
 !extra/bin/dat2.exe
 scripts_src/sfall
 translations/*.dat
 extra/inno/Output
+extra/inno/release
+extra/inno/translations

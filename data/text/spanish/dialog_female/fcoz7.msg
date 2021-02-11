@@ -20,7 +20,7 @@
 {119}{}{::su voz se endurece:: Entonces no veo razón por la que deberías ser admitida aquí. Buenos días.}
 {120}{}{¡Eh!}
 {121}{}{Muy bien. Pero date prisa: es un hombre muy ocupado.}
-{122}{}{De acuerdo.}
+{122}{}{Vale.}
 {123}{}{Este no es lugar abierto a recorridos turísticos aleatorios. Buenos días.}
 {124}{}{[HECHO]}
 {125}{}{¡Excelente! Entra, entra. Habla con Juan Cruz y Vikki Goldman: son celebridades, ya sabes, pero ellos hablarán CONTIGO.}

@@ -23,18 +23,18 @@
 {122}{}{Wirst du gezwungen, hier zu bleiben?}
 {123}{}{Bist du gern hier?}
 {124}{}{Bist du hier sicher?}
-{125}{}{Na, ist ja egal. Tschüß.}
-{126}{}{Ja. Meine Mama sagt mir immer, wo ich hin darf und wo nicht. Sie sagt mir, wo ich spielen darf, wann ich essen muß, wann ich schlafen gehn oder auf Toilette soll, wann ich zur Schule muß und alles. Ich find es ungerecht, daß sie tun darf, was sie will und ich immer das tun muß, was sie sagt.}
+{125}{}{Na, ist ja egal. Tschüss.}
+{126}{}{Ja. Meine Mama sagt mir immer, wo ich hin darf und wo nicht. Sie sagt mir, wo ich spielen darf, wann ich essen muss, wann ich schlafen gehn oder auf Toilette soll, wann ich zur Schule muss und alles. Ich find es ungerecht, dass sie tun darf, was sie will und ich immer das tun muss, was sie sagt.}
 {127}{}{OK.}
-{128}{}{Ich gehn muß.}
+{128}{}{Ich gehn muss.}
 {129}{}{Verstehe.}
-{130}{}{Ich glaub, ich hab genug gehört. Tschüß.}
-{131}{}{Glaub schon. Ich hätt gern Spielkameraden. Aber Mama sagt, das ändert sich bald. Sie meint, daß andere Kinder hierher ziehen. Bis dahin spiel ich gern mit Valdis. Er ist lustig und spielt mit mir Hoppereiter. Mama sagt, ich soll Valdis in Ruhe lassen. Er ist beschäftigt und hat keine Zeit zum Spielen. Aber er spielt immer mit mir, wenn ich ihn frage. Ich erzähl es Mama aber nicht mehr.}
+{130}{}{Ich glaub, ich hab genug gehört. Tschüss.}
+{131}{}{Glaub schon. Ich hätt gern Spielkameraden. Aber Mama sagt, das ändert sich bald. Sie meint, dass andere Kinder hierher ziehen. Bis dahin spiel ich gern mit Valdis. Er ist lustig und spielt mit mir Hoppereiter. Mama sagt, ich soll Valdis in Ruhe lassen. Er ist beschäftigt und hat keine Zeit zum Spielen. Aber er spielt immer mit mir, wenn ich ihn frage. Ich erzähl es Mama aber nicht mehr.}
 {132}{}{Hoppe-... (Verwirrter Welpenblick)}
 {133}{}{Ich gehen.}
 {134}{}{Das ist schön.}
 {135}{}{OK, bis dann.}
-{136}{}{Ja, Mama paßt auf mich auf und Valdis würd nicht zulassen, daß mir jemand weh tut. Ich bin hier sicher.}
+{136}{}{Ja, Mama passt auf mich auf und Valdis würd nicht zulassen, dass mir jemand weh tut. Ich bin hier sicher.}
 {137}{}{OK. Ich jetzt gehn.}
 {138}{}{Gut, ich geh dann.}
 {139}{}{Hey.}

@@ -66,7 +66,7 @@ end
 
 //added by killap
 procedure map_enter_p_proc begin
-   if (self_pid != -1) then begin
+   if self_exists then begin
        FIELD_PTR:=self_obj;
    end
 
@@ -74,7 +74,7 @@ procedure map_enter_p_proc begin
    if (local_var(LVAR_Timed_Event) == 1) then begin
        set_local_var(LVAR_Timed_Event,0);
        set_map_var(FIELD_STATUS,FIELD_ENABLED);
-       if (self_pid != -1) then begin
+       if self_exists then begin
            set_self_visible;                  // vis
        end
    end
@@ -82,7 +82,7 @@ end
 //end added
 
 procedure map_update_p_proc begin
-   if (self_pid != -1) then begin
+   if self_exists then begin
        Field1a_Ptr:=self_obj;
    end
 
@@ -99,7 +99,7 @@ procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
        set_local_var(LVAR_Timed_Event,0);
        set_map_var(FIELD_STATUS,FIELD_ENABLED);
-       if (self_pid != -1) then begin
+       if self_exists then begin
            set_self_visible;                  // vis
        end
    end

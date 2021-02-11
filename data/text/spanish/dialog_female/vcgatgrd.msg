@@ -104,7 +104,7 @@
 {203}{}{Oh, de acuerdo. Puedes registrarme.}
 {204}{}{Entonces olvídalo. No necesito entrar en Ciudad Refugio siendo maltratado.}
 {205}{}{Lo siento, no se permite entrar disponiendo de estos artículos. Las drogas y el alcohol no están permitidos en Ciudad Refugio. Deshazte de ellos y regresa, ¿de acuerdo?}
-{206}{}{De acuerdo.}
+{206}{}{Vale.}
 {207}{}{Muy bien, parece que estás limpia. Puedes entrar.}
 {208}{}{Gracias.}
 {209}{}{Sí. Vooy}

@@ -1,4 +1,4 @@
 {100}{}{Du siehst ein altes Tagebuch.}
-{101}{}{The old diary is too frail to keep handling. The information has been
- downloaded into the Pip-Boy.}
-{102}{}{The diary is stored in the Pip-Boy.}
+{101}{}{Das alte Tagebuch ist in einem zu schlechten Zustand, um es weiter zu gebrauchen. Die Informationen wurden
+ in den PIPBoy heruntergeladen.}
+{102}{}{Das Tagebuch ist im PIPBoy gespeichert.}

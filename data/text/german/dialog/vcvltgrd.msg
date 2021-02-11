@@ -1,17 +1,17 @@
-{100}{}{Du siehst einen pflichtbewußt dreinschauenden Wachmann. Der Wachmann trägt eine
+{100}{}{Du siehst einen pflichtbewusst dreinschauenden Wachmann. Der Wachmann trägt eine
  Metallrüstung und ein schweres Gewehr.}
 {101}{}{Du siehst eine Wache von Vault City.}
 {102}{}{Ja? Was gibt es?}
 {103}{}{Ick gehn in gross LOCK in Seite von Higel.}
 {104}{}{Ich möchte gerne in die Vault.}
 {105}{}{Nichts. Entschuldige die Störung.}
-{106}{}{Es ist schon nach 18 Uhr. Du mußt gehen.}
-{107}{}{Okay. I'm leaving.}
+{106}{}{Es ist schon nach 18 Uhr. Du musst gehen.}
+{107}{}{OK, ich hau ab.}
 {108}{}{OK. Nur noch eine Minute, bitte.}
 {109}{}{Ich hab noch was zu erledigen. Ich gehe, wenn ich soweit bin.}
 {110}{}{Umag Nak!?! Umag NAK!}
 {111}{}{Ich rufe die Wache, damit sie dich rausbringen.}
-{112}{}{Okay. Let's go.}
+{112}{}{OK, gehen wir.}
 {113}{}{Brog Frup}
 {114}{}{Keine Sorge. Ich find schon allein raus..}
 {115}{}{Tut mir leid, aber ich habe meine Befehle.}
@@ -72,7 +72,7 @@
 {166}{}{Dein Kampf gegen die Enklave hat selbst der Erstbürgerin beeindruckt.}
 {167}{}{Ich habe gehört, du bist bis ganz runter in den Süden gereist, bis nach San Francisco.
  Stimmt das?}
-{168}{}{Stimmt es, daß die Vereinigten Staaten den Krieg immer noch weitergeführt haben?}
+{168}{}{Stimmt es, dass die Vereinigten Staaten den Krieg immer noch weitergeführt haben?}
 {169}{}{Du solltest deine Reisen im Computer von Vault City dokumentieren.}
 {170}{}{Bleib hier in Vault City, so lange du willst.}
 {171}{}{Du solltest deine Heldentaten gegen die Enklave aufschreiben und auf dem Listenserver

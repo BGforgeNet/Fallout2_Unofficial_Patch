@@ -622,16 +622,16 @@
 {2649}{}{Nuestros ancestros están sedientos de tu alma.}
 {2650}{}{¡Mi hoja está sedienta!}
 {2651}{}{¡Bebamos de la copa de la batalla!}
-{2660}{}{Tus ojos están nublados de odio.}
-{2661}{}{Tus espíritus te han abandonado.}
-{2662}{}{¡Nuestra magia funciona!}
-{2663}{}{¡Mi magia me hace invencible!}
-{2664}{}{¡Tu fuerza vital se debilita!}
-{2665}{}{El miedo es el asesino de la mente}
-{2666}{}{¡Mi canción de batalla funciona!}
-{2667}{}{¡Nuestros hijos sabrán más de la batalla!}
-{2668}{}{Has conocido la paz durante demasiado tiempo.}
-{2669}{}{¿Todos los de tu tribu sois tan débiles?}
+{2660}{}{ Tus ojos están nublados de odio.}
+{2661}{}{ Tus espíritus te han abandonado.}
+{2662}{}{ ¡Nuestra magia funciona!}
+{2663}{}{ ¡Mi magia me hace invencible!}
+{2664}{}{ ¡Tu fuerza vital se debilita!}
+{2665}{}{ El miedo es el asesino de la mente}
+{2666}{}{ ¡Mi canción de batalla funciona!}
+{2667}{}{ ¡Nuestros hijos sabrán más de la batalla!}
+{2668}{}{ Has conocido la paz durante demasiado tiempo.}
+{2669}{}{ ¿Todos los de tu tribu sois tan débiles?}
 {2700}{}{¡Refuerzos!}
 {2701}{}{Me harán un consejo de guerra.}
 {2702}{}{¡Médico!}

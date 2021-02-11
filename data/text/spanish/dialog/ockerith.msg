@@ -7,14 +7,14 @@
 {106}{}{¿Quién padre de Garras?}
 {107}{}{Puerta jodida. ¿Por qué?}
 {108}{}{¿Quién hizo habitación de nido?}
-{109}{}{Marcho ahora.}
+{109}{}{Yo irme ahora.}
 {110}{}{Así que, ¿eres la Garra mortal madre?}
 {111}{}{¿Quién es el Garra mortal padre?}
 {112}{}{¿Qué le pasó a la puerta? Parece haber tenido días mejores.}
 {113}{}{¿Quién construyó este criadero?}
 {114}{}{Me iré ahora.}
 {115}{}{Sí. Actualmente soy la madre de la manada. Cuando mis huevos hayan eclosionado, las otras madres tendrán su turno.}
-{116}{}{De acuerdo.}
+{116}{}{Vale.}
 {117}{}{Otras madres?}
 {118}{}{Ya veo.}
 {119}{}{¿Existen otras madres?}
@@ -38,9 +38,9 @@
 {132}{}{Tengo más preguntas.}
 {133}{}{Su nombre es Matt, y está prisionero aquí. Personalmente, lo prefiero muerto... pero Gruthar no lo permitiría. No veo la lógica en esto, pero la palabra de Gruthar es ley y debe obedecerse. Si hablas con este humano, ten cuidado. ¡No puede confiarse en él!}
 {134}{}{¿Cómo hizo con el guardia de fuera?}
-{135}{}{De acuerdo.}
+{135}{}{Vale.}
 {136}{}{¿Cómo consiguió esta persona sortear al guardia de ahí afuera?}
-{137}{}{De acuerdo.}
+{137}{}{Vale.}
 {138}{}{El guardia lo pusimos después de ocurrir el incidente. Entonces éramos más confiados. Ahora somos más cuidadosos.}
 {139}{}{¿Qué pasó a humano?}
 {140}{}{Lo pillo.}

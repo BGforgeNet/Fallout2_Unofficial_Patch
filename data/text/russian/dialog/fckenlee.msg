@@ -76,12 +76,12 @@
 {175}{}{Да. Пока.}
 {176}{}{Очень хотелось бы увидеть результат вашей попытки. Удачного дня.}
 {177}{}{Доброго вам дня.}
-{178}{}{Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say there is no submarine.}
+{178}{}{Ругаю? Любому идиоту, который удосужится раскрыть глаза пошире, должно быть ясно, что Ши-таун построен из обломков подводной лодки. Бесполезно спорить с теми, кто считает, что никакой лодки не было.}
 {179}{}{Вы, должно быть, очень сдержанный человек.}
 {180}{}{Несомненно. А я сталкиваюсь с такими людьми каждый день. Увы!}
 {181}{}{Ну, у меня есть еще вопросы.}
 {182}{}{Эх, бедолага. Ну, пока.}
-{183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.}
+{183}{}{Вы определенно достойны того, чтобы получить от нас горючее. Я верю, что могу доверить вам наши тайны. Силовое поле возле большого компьютера в задней комнате отключено. Наберите пароль: "CSPDMSHR-Shih-huang-ti-X9372" - и вы подключитесь к компьютеру-Императору. Император сможет переправить топливо туда, куда вам нужно.}
 {184}{}{Спасибо.}
 {185}{}{Стража! Враг среди нас! Стража!}
 {186}{}{Что, правда? А вы не хотели бы повернуть свое оружие против них? Обещаю вам нашу полную поддержку, если вы согласитесь убить НИК-9.}

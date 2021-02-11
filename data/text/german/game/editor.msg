@@ -3,7 +3,7 @@
 {102}{}{ABBRECHEN}
 {103}{}{DRUCKEN}
 {104}{}{ALTER}
-{105}{}{GESCHLECHT}
+{105}{}{GESCHL.}
 {106}{}{NAME}
 {107}{}{MÄNNLICH}
 {108}{}{WEIBLICH}
@@ -16,7 +16,7 @@
 {115}{}{Nächster Level:}
 {116}{}{  FIGURENPUNKTE}
 {117}{}{FÄHIGKEITEN}
-{118}{}{Du mußt alle Figurenpunkte verwenden,}
+{118}{}{Du musst alle Figurenpunkte verwenden,}
 {119}{}{ um mit dem Spiel zu beginnen!}
 {120}{}{Figurenpunkte}
 {121}{}{Anzahl der freien Figurenpunkte, die zu einem Grundwert hinzugefügt werden können.}
@@ -74,14 +74,14 @@
 {301}{}{Aktionspunkte}
 {302}{editor}{Rüstung}
 {303}{}{Schaden ohne Bewaffnung}
-{304}{}{Schaden im Nahkampf}
+{304}{}{Nahkampf-Sch.}
 {305}{}{Verletz.-Res.}
 {306}{}{Giftresistenz}
 {307}{}{Strahlungsres.}
 {308}{editor}{Reaktion}
 {309}{editor}{Heilung}
-{310}{editor}{Kritische Treffer}
-{311}{editor}{Tragekapazität}
+{310}{editor}{Krit. Treffer}
+{311}{editor}{Tragekapaz.}
 {312}{}{Vergiftet}
 {313}{}{Verstrahlt}
 {314}{}{Augenverletzung}
@@ -91,7 +91,7 @@
 {318}{}{Beinverletz. (links)}
 {400}{}{Deine Figur wurde vergiftet. Gift schadet dem Organismus eine gewisse Zeitlang, bis es neutralisiert oder ausgeschieden wird.}
 {401}{}{Deine Figur leidet an einer beträchtlichen Strahlenvergiftung. Je höher die Verstrahlung, desto tödlicher der Effekt.}
-{402}{}{Dies bedeutet, daß deine Figur schwer an einem oder beiden Augen getroffen wurde. Dies beeinträchtigt deine Wahrnehmung.}
+{402}{}{Dies bedeutet, dass deine Figur schwer an einem oder beiden Augen getroffen wurde. Dies beeinträchtigt deine Wahrnehmung.}
 {403}{}{Der rechte Arm wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Wurde ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
 {404}{}{Der linke Arm deiner Figur wurde schwer verletzt und kann nicht mehr richtig benutzt werden. Wurde ein Arm verletzt, kannst du keine zweihändigen Waffen mehr nutzen. Sind beide Arme betroffen, kannst du nicht mit Waffen angreifen.}
 {405}{}{Deine Figur hat ein verstümmeltes rechtes Bein.}
@@ -113,7 +113,7 @@
 {602}{}{IN DATEI DRUCKEN}
 {603}{}{LÖSCHEN}
 {604}{}{[Fertig]}
-{605}{}{Bist du sicher, daß du}
+{605}{}{Bist du sicher, dass du}
 {606}{}{die aktuelle Figur löschen willst?}
 {607}{}{ wurde gespeichert.}
 {608}{}{ wurde geladen.}
@@ -163,20 +163,20 @@
 {653}{}{ ::: Fähigkeiten :::                ::: Opfer :::}
 {654}{}{ ::: Inventar :::}
 {655}{}{                                      Gesamtgewicht:}
-{656}{}{ ::: Reliances :::}
+{656}{}{ ::: Abhängigkeiten :::}
 {657}{}{ ::: Ansehen :::}
 {1000}{}{Ansehen (Allgemein) }
 {1001}{}{Berserker}
 {1002}{}{Champion}
 {1003}{}{Kindermörder}
-{1004}{}{Nuka Cola reliance}
-{1005}{}{Buffout reliance}
-{1006}{}{Mentats reliance}
-{1007}{}{Psycho reliance}
-{1008}{}{RadAway reliance}
-{1009}{}{Alcohol reliance}
-{1010}{}{Jet reliance}
-{1011}{}{Tragic reliance}
+{1004}{}{Nuka-Cola Abhängigkeit}
+{1005}{}{Buffout Abhängigkeit}
+{1006}{}{Mentats Abhängigkeit}
+{1007}{}{Psycho Abhängigkeit}
+{1008}{}{RadAway Abhängigkeit}
+{1009}{}{Alkohol Abhängigkeit}
+{1010}{}{Jet Abhängigkeit}
+{1011}{}{Tragische Abhängigkeit}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Sexperte}
 {1014}{}{Preisboxer}
@@ -191,20 +191,20 @@
 {1023}{}{Mafioso: Mordino}
 {1024}{}{Mafioso: Wright}
 {1025}{}{Getrennt}
-{1100}{}{Dies ist ein Wert, der dein allgemeines Ansehen darstellt. Je höher der Wert, desto bekannter und respektierter bist du. Ist dein Ansehen negativ, wirst du von manchen wegen deiner bösartigen Handlungen gehaßt.}
+{1100}{}{Dies ist ein Wert, der dein allgemeines Ansehen darstellt. Je höher der Wert, desto bekannter und respektierter bist du. Ist dein Ansehen negativ, wirst du von manchen wegen deiner bösartigen Handlungen gehasst.}
 {1101}{}{Du hast ein viele Menschen getötet. Hierdurch bekannt zu werden ist im allgemeinen kein Vorteil. Menschen aus dem falschen Lager werden dich aber etwas mehr mögen.}
 {1102}{}{Durch deine Handlungen zeigst du dich als Wohltäter der Menschen. Dein Krieg gegen das Böse und Schlechte ist weithin bekannt. Ehrenwerte Menschen respektieren dich noch mehr.}
 {1103}{}{Du hast Kinder getötet, die Jugend des Ödlands. Dies wird als wirklich schlimm angesehen. Du böser, böser Mensch.}
 {1104}{}{Du vergötterst Nuka-Cola, die Limonade der postnuklearen Welt.}
-{1105}{}{You are reliant to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
-{1106}{}{You are suffering from Mentat reliant. You must take this particular drug or suffer withdrawal.}
-{1107}{}{You have a drug addict. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become reliant on RadAway. While not life threatening, you must take it regularly.}
+{1105}{}{Du bist von der Droge Buffout abhängig. Du musst es ständig nehmen, sonst leidest du an Entzugserscheinungen.}
+{1106}{}{Du leidest an einer Mentats-Abhängigkeit. Du musst es nehmen, sonst leidest du an Entzugserscheinungen.}
+{1107}{}{Du hast eine Drogenabhängigkeit. Wenn du Psycho nicht regelmäßig nimmst, leidest du. Ansonsten leiden andere.}
+{1108}{}{Dein Körper ist abhängig von RadAway. Das ist zwar nicht lebensbedrohlich, doch du musst es regelmäßig nehmen.}
 {1109}{}{Du hast ein Alkoholproblem. Genaugenommen hast du viele Probleme mit deinen Trinkgewohnheiten.}
-{1110}{}{You have a drug addict. You must take Jet on a regular basis.}
-{1111}{}{Tragically, you are reliant on the Garnering. You are constantly in search of new expansions.}
+{1110}{}{Du hast eine Drogenabhängigkeit. Du musst regelmäßig Jet einnehmen.}
+{1111}{}{Tragischerweise bist du abhängig vom Sammeln. Du bist ständig auf der Suche nach neuen Erweiterungen.}
 {1112}{}{TEMPORÄR - Was ist das?}
-{1113}{}{Du kennst dich mit Sex aus. Du weißt, was ein Vorspiel ist. Du kannst einen Sexualpartner des anderen Geschlechts so befriedigen, daß er mehr will.}
+{1113}{}{Du kennst dich mit Sex aus. Du weißt, was ein Vorspiel ist. Du kannst einen Sexualpartner des anderen Geschlechts so befriedigen, dass er mehr will.}
 {1114}{}{Du bist Schwergewichtsmeister von Nordkalifornien. Du hast Ruhm, Respekt und die Liebe Tausender erlangt...und außerdem einen Bonus für deine Härte und Schlagkraft ohne Waffen.}
 {1115}{}{Jetzt mal ganz ehrlich: Du schläfst mit allem, was zwei Beine hat. Und manchmal achtest du noch nicht mal darauf.}
 {1116}{}{"Die sind tot, denen ist es egal," ist zu deinem Leitspruch geworden. Die Überreste anderer auszugraben ist zu mehr als einem Hobby für dich geworden.}
@@ -222,15 +222,15 @@
 {2002}{}{Akzeptiert}
 {2003}{}{Neutral}
 {2004}{}{Antipathie}
-{2005}{}{Gehaßt}
+{2005}{}{Gehasst}
 {2006}{}{Verachtet}
 {2100}{}{Jeder in der Gegend würde gerne mit dir tauschen. Du bist der Liebling der ganzen Stadt und giltst als leuchtendes Beispiel dafür, was jemand aus sich machen kann.}
 {2101}{}{Die Leute winken dir zu und grüßen dich, egal wohin du auch kommst. Jeder in der Gegend hat schon von dir gehört und ist begeistert von dem, was man sich erzählt.}
-{2102}{}{Obwohl du in der Gegend nicht gerade mit offenen Armen empfangen wirst, nicken dir die meisten Leute doch zumindest zu. Du paßt ganz gut in die hiesige Gesellschaft.}
-{2103}{}{Obwohl die Leute in der Gegend Fremden gegenüber meistens mißtrauisch sind, sind sie sich über dich noch nicht völlig im klaren.}
+{2102}{}{Obwohl du in der Gegend nicht gerade mit offenen Armen empfangen wirst, nicken dir die meisten Leute doch zumindest zu. Du passt ganz gut in die hiesige Gesellschaft.}
+{2103}{}{Obwohl die Leute in der Gegend Fremden gegenüber meistens misstrauisch sind, sind sie sich über dich noch nicht völlig im klaren.}
 {2104}{}{Du bist einfach einer von vielen Fremden in der Stadt und führst wahrscheinlich nichts Gutes im Schilde.}
-{2105}{}{Du hast den Leuten aus der Gegend bewiesen, daß ihr anfängliches Mißtrauen dir gegenüber gerechtfertigt war. Es ist bekannt, daß du nichts Gutes im Schilde führst.}
-{2106}{}{Manche Leute wechseln unter Geflüster und bösen Blicken die Straßenseite, damit sie nicht in deiner Nähe gehen müssen. Alle wissen, daß du mit zu den schlimmsten Gestalten zählst.}
+{2105}{}{Du hast den Leuten aus der Gegend bewiesen, dass ihr anfängliches Misstrauen dir gegenüber gerechtfertigt war. Es ist bekannt, dass du nichts Gutes im Schilde führst.}
+{2106}{}{Manche Leute wechseln unter Geflüster und bösen Blicken die Straßenseite, damit sie nicht in deiner Nähe gehen müssen. Alle wissen, dass du mit zu den schlimmsten Gestalten zählst.}
 {3000}{}{Retter der Verdammten}
 {3001}{}{Wächter des Ödlands}
 {3002}{}{Schild der Hoffnung}
@@ -241,9 +241,9 @@
 {3007}{}{Geißel des Ödlands}
 {3008}{}{Teufelsbrut}
 {4000}{}{Ansehen}
-{4001}{}{Reliance}
+{4001}{}{Abhängigkeit}
 {4100}{}{Stellt dein Ansehen für einen bestimmten Ort dar.}
-{4101}{}{Things you have become reliant to.}
+{4101}{}{Dinge, von denen du abhängig bist.}
 {5000}{}{Bedaure, Drucken der }
 {5001}{}{Figur geht nur in der Vollversion.}
 {5002}{}{Bedaure, Speichern der}

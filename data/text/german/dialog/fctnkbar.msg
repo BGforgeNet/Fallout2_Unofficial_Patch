@@ -7,7 +7,7 @@
 {106}{}{Nein, ich gehen.}
 {107}{}{Ich brauche einige Informationen.}
 {108}{}{Klar, zeig mir was du hast.}
-{109}{}{Nichts, ich muﬂ weiter.}
+{109}{}{Nichts, ich muss weiter.}
 {110}{}{Informationen, h‰? Ich bin keine Bibliothek, okay, und dies hier ist kein Computerraum. Trink was oder verschwinde. Willste 'n Drink oder nich'? }
 {111}{}{Ja.}
 {112}{}{Nein.}
@@ -17,7 +17,7 @@
 {116}{}{War's das?}
 {117}{}{Ja.}
 {118}{}{Nein.}
-{119}{}{Later then.}
+{119}{}{Dann sp‰ter.}
 {120}{}{}
 {121}{}{OK.}
 {122}{}{Na, wieder da? Willste noch 'n Drink?}

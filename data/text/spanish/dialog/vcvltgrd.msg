@@ -27,7 +27,7 @@
 {125}{}{Lo siento, pero sólo se permite entrar en el Refugio a Ciudadanos. Estoy seguro de que lo
  entiendes.}
 {126}{}{Sólo pueden entrar Ciudadanos. Ahora vete.}
-{127}{}{De acuerdo.}
+{127}{}{Vale.}
 {128}{}{Umgh}
 {129}{}{Por supuesto. Pasa, por favor.}
 {130}{}{¡Agradezco yo!}

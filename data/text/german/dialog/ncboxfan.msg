@@ -25,7 +25,7 @@
 {252}{}{}
 {253}{}{Ich höre }
 {254}{}{Oh mein Gott! }
-{255}{}{Schlag mich! Schlag mich! Ich will meinen Kindern sagen können, daß du mich geschlagen hast!}
+{255}{}{Schlag mich! Schlag mich! Ich will meinen Kindern sagen können, dass du mich geschlagen hast!}
 {256}{}{Du bist die Beste, }
 {257}{}{töte ihn, }
 {258}{}{Du bist die Beste, }
@@ -50,7 +50,7 @@
 {285}{}{}
 {286}{}{Ich höre }
 {287}{}{Oh mein Gott! }
-{288}{}{Schlag mich! Schlag mich! Ich will meinen Kindern sagen können, daß du mich geschlagen hast!}
+{288}{}{Schlag mich! Schlag mich! Ich will meinen Kindern sagen können, dass du mich geschlagen hast!}
 {289}{}{Du bist der Beste }
 {290}{}{töte ihn, }
 {291}{}{Du bist die Beste, }
@@ -79,7 +79,7 @@
 {350}{}{}
 {351}{}{Ich habe etwas Schweiß von dir in einem Glas zu Hause.}
 {352}{}{Oh mein Gott! }
-{353}{}{Schlag mich! Schlag mich! Ich will meinen Kindern sagen können, daß du mich geschlagen hast!}
+{353}{}{Schlag mich! Schlag mich! Ich will meinen Kindern sagen können, dass du mich geschlagen hast!}
 {354}{}{Du bist der Beste }
 {355}{}{Du bist die Beste, }
 {356}{}{Geh und hol ihn dir, }
@@ -99,7 +99,7 @@
 {383}{}{::Sie scheint der Ohnmacht nahe als du mit ihr sprichst::}
 {384}{}{Ich habe etwas Schweiß von dir in einem Glas zu Hause.}
 {385}{}{Oh mein Gott! }
-{386}{}{Schlag mich! Schlag mich! Ich will meinen Kindern sagen können, daß du mich geschlagen hast!}
+{386}{}{Schlag mich! Schlag mich! Ich will meinen Kindern sagen können, dass du mich geschlagen hast!}
 {387}{}{Du bist der Beste }
 {388}{}{töte ihn!}
 {389}{}{Du bist die Beste, }

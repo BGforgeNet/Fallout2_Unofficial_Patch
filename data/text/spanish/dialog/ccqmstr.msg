@@ -6,7 +6,7 @@
 {105}{}{¿Por qué no llevas puesto el uniforme, soldado?}
 {106}{}{¡Muere!}
 {107}{}{Uh, sé...}
-{108}{}{Uh...}
+{108}{}{Eh...}
 {109}{}{Yo nuevo aquí.}
 {110}{}{¡No uno de tus soldados!}
 {111}{}{Eh, bien...}

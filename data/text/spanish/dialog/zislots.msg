@@ -112,7 +112,7 @@
 {2280}{}{(Ves una máquina tragaperras. Su estructura brillante y su palanca dorada resplandecen seductoramente bajo las luces de Nuevo Reno. Su ranura para las monedas te atrae, y sientes cómo te ruborizas por la expectación. Mientras la miras, te guiña uno de sus tres ojos. Escuchas una voz grave susurrando desde la ranura para monedas). *¡Vaya, vaya! Hoooola, cielo. ¿Le harás pasar a esta nena un buen rato?*}
 {2281}{}{(Ves una máquina tragaperras. Su fuerte y tosca estructura y su palanca dorada brillan como el sol bajo las luces de Nuevo Reno. Su ranura para las monedas te atrae seductoramente, y sientes que los muslos te arden por la excitación. Mientras la miras, de repente una fuerte voz masculina susurra desde la ranura para monedas). *Jamás he visto a una mujer tan hermosa como tú antes, señorita. ¿Quieres una oportunidad conmigo?*}
 {2282}{}{::Te pellizcas::}
-{2283}{}{Uh... hello?}
+{2283}{}{Eh... ¿hola? ¿}
 {2284}{}{::Respiras profundamente, y te vas.::}
 {2300}{}{*Sigo aquí, preciosa.* (La máquina baja el tono de voz). *Venga, vamos… ¿quieres hacer una apuesta?*}
 {2301}{}{*Todavía estoy aquí, cielo.* (La máquina baja el tono de voz). *Eres todo un hombre, ¿sabes? Venga… ¿no quieres meter unas monedas en mi pequeña ranura?*}

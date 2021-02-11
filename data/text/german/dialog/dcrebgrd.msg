@@ -9,7 +9,7 @@
 {212}{}{Du kannst beruhigt sein. Diebstahl wird hier absolut nicht geduldet.}
 {213}{}{Innerhalb dieser Wände bist du sicher.}
 {214}{}{Rebecca hat die besten Drinks.}
-{215}{}{Rebecca ist der beste Boß, den ich je hatte.}
+{215}{}{Rebecca ist der beste Boss, den ich je hatte.}
 {216}{}{Glaubst du, du hast heute Glück? Ich spiele Black Jack.}
 {217}{}{Becky ist da drüben, wenn du was brauchst.}
 {218}{}{An Rebeccas Tischen wird nicht betrogen, du kannst Dein Glück also versuchen.}

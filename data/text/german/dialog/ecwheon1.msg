@@ -3,7 +3,7 @@
  Sie scherzt und lacht mit den anderen, die bei ihr sind.}
 {102}{}{Du siehst eine weibliche, weiﬂe Heldenfigur. Sie macht Witze und lacht.}
 {103}{}{Du siehst eine weibliche, weiﬂe Heldenfigur. Sie macht Witze und lacht.}
-{104}{}{Ich muﬂte mal eine stehlende Figur sein.}
+{104}{}{Ich musste mal eine stehlende Figur sein.}
 {105}{}{Mein Spieler versuchte, jeden zu bestehlen...und es ging auch glatt, MEISTENS.}
 {106}{}{Aber oh-lala, wenn es schief ging...}
 {107}{}{Ich hab noch nie so viele Speicher- und Neuladeaktionen erlebt. Ts! Dann doch lieber 'n

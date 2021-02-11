@@ -24,7 +24,7 @@
 {123}{}{Bueno... no, no quiero hacerlo. Vale, no iré, ¡pero no es justo!}
 {124}{}{Smoke estará bien. Adiós.}
 {125}{}{¡Has encontrado a Smoke! ¡Gracias! Smoke, ¡perro malo!}
-{126}{}{De nada. Gracias.}
+{126}{}{De nada. Adiós.}
 {127}{}{Gracias de nuevo. ¡Espero que tu viaje sea verdaderamente divertido!}
 {128}{}{Hecho de menos a Smoke. ¿Por qué no pudiste salvarle? Eres el Elegido.}
 {129}{}{Estoy ocupado, idiota. Ve a jugar a otro lado.}

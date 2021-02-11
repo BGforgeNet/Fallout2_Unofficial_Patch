@@ -21,7 +21,7 @@
 {120}{}{Así que le digo, "Mira", le digo...}
 {121}{}{Prueba la rata topo tostada. Es lo mejor de por aquí.}
 {122}{}{Hola. ¿Cuál es tu signo?}
-{123}{}{If you're looking for work, stranger, go down to the Stockman's.}
+{123}{}{Si estás buscando trabajo, extranjero, ir a la de Vaquero.}
 {124}{}{¡Mierda! ¿Has visto eso?}
 {125}{}{Oh, amigo, voy a enfermar.}
 {126}{}{Nada más para mí.}

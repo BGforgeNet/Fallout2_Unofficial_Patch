@@ -6,7 +6,7 @@
 {105}{}{Uh, ¿quién tú?}
 {106}{}{¿Qué haces aquí?}
 {107}{}{Pareces guardia.}
-{108}{}{Marcho ahora.}
+{108}{}{Yo irme ahora.}
 {109}{}{Sólo quería saludar.}
 {110}{}{¿Quién eres?}
 {111}{}{¿Qué estás haciendo?}

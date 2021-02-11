@@ -49,13 +49,13 @@
 {401}{}{Veamos: tengo náuseas… palpitaciones… fiebre. Esto va a ser veneno.}
 {402}{}{Eh… no… aguantaré… mucho… más… veneno… esparciéndose…}
 {403}{}{¿Podría alguien por favor succionarme este veneno?}
-{410}{}{Is that me glowing? Give me some Rad-X next time we dick around in radiation zones, okay?}
-{411}{}{I need some RadAway before the radiation eats my Gnads-away.}
+{410}{}{Es que me brillantes? Me dan algunos Rad-X, la próxima vez que nos polla en zonas de radiación, ¿de acuerdo?}
+{411}{}{Necesito un poco de RadAway antes de la radiación come mi Gnads de distancia.}
 {412}{}{¿Por qué simplemente no nos bebemos porquería radiactiva la próxima vez? ¡Al menos moriremos más rápido!}
 {413}{}{Podría dar energía a todo Nuevo Reno con la radiación de mi cuerpo.}
-{414}{}{I'm glowing brighter than New Reno at midnight. Anybody got some RadAway?}
+{414}{}{Estoy brillando más brillante de New Reno a la medianoche. Nadie tiene algunos RadAway?}
 {415}{}{Genial. Un poco de radiación, y me convierto en linterna humana.}
-{416}{}{Somebody let me hold the RadAway. I won't use all of it. I promise.}
+{416}{}{Alguien me deja pulsado el RadAway. No voy a utilizar todo eso. Te lo prometo.}
 {425}{}{¿Por qué no volvemos al primer nivel de la mazmorra, donde están todos esos kobolds?}
 {426}{}{Lo bueno es que jugar a D&D todo estos años me ha enseñado unas cuantas cosas sobre el coraje.}
 {427}{}{Pásame los esteroides. Creo que pronto lo voy a necesitar.}
@@ -193,8 +193,8 @@
 {682}{}{Olvídalo. Cambiando de tema…}
 {683}{}{Ya veo a dónde lleva esto. No importa, Myron.}
 {690}{myn109}{Ah, Cristo. Bien... cuando me crucé en el camino de la Familia Mordino, estaban cultivando peyote para intentar venderlo a los turistas como 'la experiencia Reno'. Una gilipollez de primera.}
-{691}{}{Sigue.}
-{692}{}{Forget this. I had some other questions...}
+{691}{}{Continúa.}
+{692}{}{Olvidarse de esto. Yo tenía algunas otras preguntas...}
 {693}{}{Olvida que lo he mencionado.}
 {700}{myn110}{Quiero decir, ¿peyote? Venga, hombre. No es ni la mitad de fuerte que, digamos, el viejo y bueno LSD.}
 {701}{}{Eh, ¿sobre el Jet --?}
@@ -258,7 +258,7 @@
 {882}{}{Myron, eres más despreciable que la sombra de una serpiente. Matar a humanos para testear drogas… eso es lo peor que he oído nunca.}
 {883}{}{Myron, ¿mataste a un centenar de seres humanos con el fin de hacer pruebas de drogas? ¿Te lobotomizaron la conciencia cuando eras niño?}
 {884}{}{Y que lo digas. Los precios de los esclavos siguen subiendo. Si los humanos criasen más rápido... en todo caso, tenía algunas preguntas más…}
-{885}{}{I... see. Look, I had some other questions...}
+{885}{}{Yo... a ver. Mira, yo tenía otras preguntas...}
 {886}{}{Creo que ya he oído bastante.}
 {887}{}{Oh, bueno, entonces ESO lo soluciona todo. Ya he oído bastante. Me largo de aquí.}
 {890}{myn128}{¿Me vas a hacer llorar por un montón de esclavos? Oye, teníamos que asegurarnos de que el Jet no matase a nuestros clientes.}
@@ -319,7 +319,7 @@
 {1050}{myn145a}{Eh, primero voy a necesitar algún saco de veneno de escorpión rad. Irónico, ¿verdad?}
 {1051}{myn145b}{Oh, bien, me encantariiiiia, ricura, pero necesito colas de escorpión rad. Oh, es lo que hay.}
 {1052}{}{¿Puedes fabricar alguna otra droga?}
-{1053}{}{Forget it then. I had some questions...}
+{1053}{}{Olvida entonces. Yo tenía algunas preguntas...}
 {1060}{myn146a}{Hmmm, no debería ser demasiado difícil. ¿Cuántas botellas de antídoto quieres?}
 {1061}{myn146b}{Ah, ya vienes llorando. ¿Alguna ves has pensado en que sería más fácil simplemente el mantenerse lejos de los malditos escorpiones, genio? ¡¿Cuántas quieres esta vez?!}
 {1062}{myn146c}{Lo que sea por ti, ricura. ¡Ja ja! ¿Cuántas quieres?}
@@ -334,7 +334,7 @@
 {1085}{}{Gracias. Oye, tenía algunas preguntas más…}
 {1086}{}{Gracias, Myron. Resultas verdaderamente útil.}
 {1095}{myn148}{Lo siento, no tengo las "materias primas" que necesito... y de cualquier forma no querrías conseguirlas.}
-{1097}{}{Forget it then. I had some other questions...}
+{1097}{}{Olvida entonces. Yo tenía algunas otras preguntas...}
 {1098}{}{Está bien. Muchísimas gracias, Myron.}
 {1105}{myn149a}{Pan comido. ¿Cuántos estimulantes quieres?}
 {1106}{myn149b}{Oye, genio. ¿Alguna vez te ha pasado por la cabeza que sería más fácil simplemente mantenerse alejado de los problemas, eh? Está bien, ¿cuántos?}
@@ -546,7 +546,7 @@
 {1675}{myn240}{Desde luego haces un montón de malditas preguntas. La respuesta es sí, quizá... oye, ¿donde aprendiste todo esto, de todas formas? ¿Eres de Ciudad Refugio, o algo así?}
 {1676}{}{Para responder a tu pregunta, sí... QUIZÁ. ¿Dónde aprendiste TÚ todas esas cosas?}
 {1677}{}{No exactamente. Sólo mejoré la base. En realidad es bastante simple.}
-{1678}{}{No. Look, I had some other questions...}
+{1678}{}{No. Mira, yo tenía otras preguntas...}
 {1679}{}{Ciudad Refugio. ¿Dónde está eso?}
 {1680}{}{Dejaré que te lo preguntes. Ya me has contado todo lo que necesito saber.}
 {1685}{myn241a}{Sí, sigue fanfarroneando, listillo. Yo podría oxidizar círculos a tu alrededor. Soy natural. Autodidacta. Nada de esa actitud gilipollesca de 'más puro-que-tú' de Ciudad Refugio, ¿vale?}

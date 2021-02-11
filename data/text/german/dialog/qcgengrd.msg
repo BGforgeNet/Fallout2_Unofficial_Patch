@@ -26,7 +26,7 @@
 {125}{}{Mein Füße bringen mich *um*.}
 {126}{}{Kennst du den über den neuen zweiten Leutnant?}
 {127}{}{Hier passiert ja doch nie was.}
-{128}{}{Ich wünsch mir wirklich, daß mal was Aufregendes passiert.}
+{128}{}{Ich wünsch mir wirklich, dass mal was Aufregendes passiert.}
 {129}{}{Ich hab gehört, der Vizepräsident ist richtig krank, im Kopf.}
 {130}{}{Du schläfst doch nicht?}
 {131}{}{Funktest. Test, Test. Hört ihr mich?}

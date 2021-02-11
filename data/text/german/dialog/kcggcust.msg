@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen Kneipengast, der dich anschaut.}
-{101}{}{Du siehst einen Kneipengast, der Schnetzelfleisch ißt.}
+{101}{}{Du siehst einen Kneipengast, der Schnetzelfleisch isst.}
 {102}{}{Du siehst einen Kneipengast, der einen Krug Bier trinkt.}
 {103}{}{Du siehst einen Kneipengast.}
 {104}{}{Du siehst einen schmuddeligen Kneipengast. Möglicherweise ein Fallensteller.}
@@ -18,14 +18,14 @@
 {119}{}{96 Krüge Pisse an der Wand, 96 Krüge Pisse....}
 {120}{}{Ich geh in den Süden, nach Den. Viel Arbeit da.}
 {121}{}{Mehr Gecko-Pisse hier, Salvadore!}
-{122}{}{Das Fallenstellen läuft in letzter Zeit nicht mehr so recht. Es muß einen einfacheren Weg geben, Geld zu machen.}
+{122}{}{Das Fallenstellen läuft in letzter Zeit nicht mehr so recht. Es muss einen einfacheren Weg geben, Geld zu machen.}
 {123}{}{Ich bin nich so bemunkn wie du trenkst.}
 {124}{}{Hey, Alter, sehen die Würfel vielleicht geladen aus? (Klapper, klapper)}
 {125}{}{Frag die Duntons oder den Barmann nach Arbeit, mein Junge.}
 {126}{}{Du hast dir den richtigen Ort zum Trinken ausgesucht, mein Freund.}
 {127}{}{Nein, Bishop, nicht schon wieder das Ding mit dem Messer.}
 {128}{}{Möchte jemand würfeln?}
-{129}{}{Schön, daß Aldo die Luft hier nicht verpestet.}
+{129}{}{Schön, dass Aldo die Luft hier nicht verpestet.}
 {130}{}{Schon mal Brahmin genommen, die dir nicht gehören?}
 {131}{}{Nimm dich in acht vor dem wandelnden Geist!}
 {132}{}{Es gibt einen Geist in einem Canyon östlich von hier.}
@@ -65,7 +65,7 @@
 {172}{}{Mehr Pisse für alle!}
 {173}{}{Das hab ich gebraucht. Danke.}
 {174}{}{Tausend Dank!}
-{175}{}{Lieber laß ich mir das Gehirn amputieren...}
+{175}{}{Lieber lass ich mir das Gehirn amputieren...}
 {176}{}{Goldene Pisse!}
 {177}{}{Gut!}
 {178}{}{Ich liebe diese Pisse.}

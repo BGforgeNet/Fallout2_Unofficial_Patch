@@ -11,13 +11,13 @@
 {200}{}{¡Aléjate de mi!}
 {201}{}{¡Déjame!}
 {202}{}{¡No me toques!}
-{203}{}{¡Para!}
+{203}{}{¡Déjalo!}
 {204}{}{¿Qué estás haciendo?}
 {300}{}{Lo siento, ahora no puedo hablar.}
 {301}{}{¿A dónde iba yo ahora?}
 {302}{}{Hola.}
 {303}{}{Perdona.}
-{304}{}{Buenas.}
+{304}{}{Hola.}
 {305}{}{El local de Becky es el mejor, y no sólo por los precios.}
 {306}{}{¿Estás aquí por las bebidas o por las mesas?}
 {307}{}{Ahora todo lo que nos hace falta son algunos trovadores.}

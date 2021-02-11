@@ -7,7 +7,7 @@
 {106}{}{Soy }
 {107}{}{Basta de charla. Tienes ciertos papeles que el señor Merk quiere. Entrégalos y nadie saldrá herido.}
 {108}{}{¿Has oído hablar en alguna ocasión de un lugar llamado el Enclave?}
-{109}{}{Nadie que te importe.}
+{109}{}{No es asunto tuyo.}
 {110}{}{Hmm, desarrollo craneal por debajo de la media... retraso del desarrollo intelectual. Aunque no hay ninguna mutación física. No, simplemente no lo harás, me temo. Buenos días.}
 {111}{}{¿El Elegido? Por supuesto, eso tiene sentido. Interesante... me temo que no puedo ayudarte. Fui asignado a investigación ciber-genética, no al Proyecto de Comportamiento de Refugio.}
 {112}{}{¿De qué estás hablando?}

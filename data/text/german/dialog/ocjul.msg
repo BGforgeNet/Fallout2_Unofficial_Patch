@@ -22,7 +22,7 @@
 {120}{}{Ich gehn.}
 {121}{}{Bewachen Mutter wichtig. Du wichtig.}
 {122}{}{Ich bin}
-{123}{}{Als Bewacher der Mutter hast du groﬂe Verantwortung. Du muﬂt ein wichtiges Mitglied des Rudels sein.}
+{123}{}{Als Bewacher der Mutter hast du groﬂe Verantwortung. Du musst ein wichtiges Mitglied des Rudels sein.}
 {124}{}{Ich geh jetzt besser.}
 {125}{}{Du warten. Ich Mutter fragen.}
 {126}{}{OK.}
@@ -32,7 +32,7 @@
 {130}{}{Du glauben? Ich noch nie so gesehn. Mich freun. Mir gefallen. Danke.}
 {131}{}{Bitte. Ich jetzt gehn.}
 {132}{}{Ich sprechen Mutter.}
-{133}{}{Gern geschehen. Ich muﬂ jetzt gehn.}
+{133}{}{Gern geschehen. Ich muss jetzt gehn.}
 {134}{}{Kann ich mit der Mutter sprechen?}
 {135}{}{Echsenvieh... Oh, alles klar. Ha, ha! Jetzt du kriegen. Ich wachen hier, weil ich gemeinster, st‰rkster, r¸cksichtslosester Hurensohn von verdammte Vault. Wenn du mit mir anlegen, dich anlegen mit Bestem. Jetzt du gehen, oder ich dir Kopf abreiﬂen und du mir zusehen, wenn ich dir in Hals sch...}
 {136}{}{Ich mach mich dann mal auf den Weg.}

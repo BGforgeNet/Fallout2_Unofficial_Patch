@@ -8,7 +8,7 @@
 {107}{}{Kommst du von westlich des Wassers?}
 {108}{}{Ich würd ja mit dir flirten, aber du interessierst mich nicht.}
 {109}{}{::Sarkastisch:: Gibt sicher 'ne Menge starker Frauen hier, wa?}
-{110}{}{Du erwartest doch wohl nicht, daß ich mich für dich hinlege? Da kannst du lange warten.}
+{110}{}{Du erwartest doch wohl nicht, dass ich mich für dich hinlege? Da kannst du lange warten.}
 {111}{}{Ich bin einzigartig! Genau wie jeder andere!}
 {112}{}{Mitunter ödet mich dieser weltmüde Zynismus an.}
 {113}{}{Nächstes Mal suche ich einen gotischen Stamm.}
@@ -16,14 +16,14 @@
 {115}{}{Diese Shi sehen wirklich lustig aus.}
 {116}{}{Ich bin aufgeschlossen, ne?}
 {117}{}{Guck dir nur all diese neuen Vagabunden an. Angeber!}
-{118}{}{AHS-9 hat uns betrogen und er wird auch dich betrügen, wenn du ihn läßt.}
+{118}{}{AHS-9 hat uns betrogen und er wird auch dich betrügen, wenn du ihn lässt.}
 {119}{}{Der nächste Penner, der mich "Schlampe" nennt, kriegt eins auf die Nase.}
 {120}{}{Wie war's denn so, es von einem Mutanten besorgt zu kriegen?}
 {121}{}{Hat dieser riesige Mutant Francis dir weh getan?}
-{122}{}{Mich wundert's, daß du überhaupt noch laufen kannst, nachdem Francis dich durchgezogen
+{122}{}{Mich wundert's, dass du überhaupt noch laufen kannst, nachdem Francis dich durchgezogen
  hat.}
-{123}{}{Du mußt doch immer noch bluten nach Francis.}
-{124}{}{Ich kann nicht glauben, daß du Chip nicht geholfen hast.}
+{123}{}{Du musst doch immer noch bluten nach Francis.}
+{124}{}{Ich kann nicht glauben, dass du Chip nicht geholfen hast.}
 {125}{}{Egoistisches Schwein! Chip hätte dir bestimmt geholfen. }
 {126}{}{Chip war bei allen beliebt. Dich mag keiner mehr.}
 {127}{}{Du bist ja ein ganz schöner Mistkerl!}
@@ -37,7 +37,7 @@
 {135}{}{Ob Chip sich wohl jemals wieder ganz erholt?}
 {136}{}{Chip ist der Beste!}
 {137}{}{Auch ohne Milz, mit Chip mach ich's jederzeit!}
-{138}{}{Danke, daß du versucht hast, Chips Milz zurückzubekommen.}
+{138}{}{Danke, dass du versucht hast, Chips Milz zurückzubekommen.}
 {139}{}{Du hast dein Bestes für Chip versucht.}
 {140}{}{Schon wieder so eine Platitüde über Chip.}
 {141}{}{Ob die Milz geschmeckt hat?}
@@ -54,7 +54,7 @@
 {152}{}{Susi is' zurück...Mist!}
 {153}{}{Susi war immer echt klasse zu mir.}
 {154}{}{Ich mag Susi.}
-{155}{}{Danke, daß du sie gerettet hast.}
+{155}{}{Danke, dass du sie gerettet hast.}
 {156}{}{Einige müssen erst lernen, nicht herumzustreunen.}
 {157}{}{Wer weiß?}
 {158}{}{Armer Dachs. Vielleicht braucht er jemanden, der ihn tröstet.}
@@ -84,7 +84,7 @@
 {182}{}{Dachs war eine richtige Märchenprinzessin.}
 {183}{}{Du Höllenhund. Wieso hast du ihn umgebracht?}
 {184}{}{Glaubst du, wir werden uns jetzt den Hubologen anschließen?}
-{185}{}{Du dämlicher Idiot, du läßt dich herumschieben und benutzen!}
+{185}{}{Du dämlicher Idiot, du lässt dich herumschieben und benutzen!}
 {186}{}{Die Hubologen werden auch dich betrügen.}
 {187}{}{Fahr zur Hölle! Fahr zur Hölle und stirb!}
 {188}{}{Ich hasse dich.}

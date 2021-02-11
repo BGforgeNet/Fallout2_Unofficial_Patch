@@ -26,7 +26,7 @@
 {124}{}{Bien, tengo otras preguntas para ti.}
 {125}{}{Suena genial. Adiós.}
 {126}{}{Promete no reírte.}
-{127}{}{De acuerdo.}
+{127}{}{Vale.}
 {128}{}{No, olvídalo.}
 {129}{}{La reclutadora, Vikki Goldman. Vi una de sus películas en Canadá, y supe que ella se enamoraría de mí. Aún no ha sucedido, pero estoy trabajando en ello.}
 {130}{}{Me lo apunto. Tengo algunas preguntas más.}

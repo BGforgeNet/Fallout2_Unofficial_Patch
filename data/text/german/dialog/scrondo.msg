@@ -9,4 +9,4 @@
 {107}{}{Das ist Privateigentum hier, wenn's nichts ausmacht.}
 {108}{}{Ich hab momentan schon genug Arbeit, klar?}
 {109}{}{Hey, Bastard. Du solltest dich nicht mit den Rangers anlegen.}
-{110}{}{Berühre meinen Kram nochmal und ich werde dich ein bißchen mit meiner alten Bessy bearbeiten.}
+{110}{}{Berühre meinen Kram nochmal und ich werde dich ein bisschen mit meiner alten Bessy bearbeiten.}

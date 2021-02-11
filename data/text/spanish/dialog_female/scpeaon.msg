@@ -5,7 +5,7 @@
 {104}{}{Lo siento. No lo volveré a hacer.}
 {105}{}{Ya me marchaba.}
 {106}{}{¡Guardias, ha vuelto!}
-{107}{}{Por favor, déjame solo.}
+{107}{}{Por favor, déjame tranquilo.}
 {108}{}{Mira, yo tampoco quiero estar cerca de ti.}
 {109}{}{Eres malvada. Por favor, no me hables.}
 {110}{}{Deja tranquilos a nuestros hijos.}

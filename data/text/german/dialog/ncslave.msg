@@ -26,7 +26,7 @@
 {181}{}{Du siehst eine unter Jet stehende Sklavin. Sie kichert vor sich hin und an ihren Mundwinkeln sind Reste von Blut zu erkennen.}
 {182}{}{Du siehst eine unter Jet stehende Sklavin. Auf ihrem Arm befinden sich blaue Flecken und die Spuren von Peitschenhieben.}
 {183}{}{Du siehst eine unter Jet stehende Sklavin. Sie blinzelt schnell, als seien ihre Augen zu trocken.}
-{184}{}{Du siehst eine unter Jet stehende Sklavin. Sie kratzt so heftig ihre Handrücken, daß die Haut reißt.}
+{184}{}{Du siehst eine unter Jet stehende Sklavin. Sie kratzt so heftig ihre Handrücken, dass die Haut reißt.}
 {185}{}{Du siehst eine unter Jet stehende Sklavin. Auf ihrem Hemd befinden sich Flecken von Erbrochenem und sie riecht schwach nach Terpentin.}
 {190}{}{Du siehst einen dünnen Mann. Sein Körper ist mit den Malen von Peitschenhieben bedeckt. Er starrt dumpf zu Boden, als erwarte er Befehle.}
 {191}{}{Du siehst einen Sklaven, der verprügelt wurde.}
@@ -68,10 +68,10 @@
 {251}{}{Ich gut ich schlecht ich gut ich schlecht}
 {252}{}{Doppelt gut}
 {260}{}{Ja, ich gehöre schon jemanden. Mein Meister hat die Papiere.}
-{261}{}{Laß mich bitte in Ruhe. Ich gehöre bereits jemand anderem.}
+{261}{}{Lass mich bitte in Ruhe. Ich gehöre bereits jemand anderem.}
 {262}{}{Ich bitte dich: hast du zwei Kinder gesehen, dunkles Haar…? Sie wurden von anderen Sklavenhändlern gefangen und nördlich von hier verkauft, ist so zwei Jahre her.}
 {263}{}{Bitte, es ist mir nicht gestattet mit jemanden zu reden.}
-{264}{}{Please... let me be. My master will be back soon.}
+{264}{}{Bitte... lass mich in Ruhe. Mein Meister wird bald zurück sein.}
 {265}{}{Wenn mich mein Meister erwischt, wie ich mit einem Sklavenhändler spreche, werde ich geschlagen.}
 {266}{}{Ich habe schon einen Meister. Sie wird nicht erfreut sein, wenn wir weiter miteinander reden.}
 {267}{}{Ich kann nicht mit Dir sprechen. Ich habe Verpflichtungen.}
@@ -83,14 +83,14 @@
 {282}{}{Sie testen neues Jet an uns. Manches davon ist giftig.}
 {283}{}{Mein Meister ist... wie ein Gott für mich.}
 {284}{}{Mein Meister hat mir gesagt, dass ich nicht mit anderen Reden soll.}
-{285}{}{Bitte laß mich... ich darf nicht mit dir sprechen.}
+{285}{}{Bitte lass mich... ich darf nicht mit dir sprechen.}
 {286}{}{Bitte lass mich in Ruhe. Mein Meister wird bald zurück sein.}
 {287}{}{Wenn mich mein Meister erwischt, wie ich mit dir spreche, wird er mich schlagen.}
 {288}{}{Mein Meister ist gut. Er schlägt mich nicht oft.}
 {289}{}{Ich vermisse meine Familie nicht. Mein Meister ist nett.}
-{290}{}{I was taken from a tribal village north of here. Life is much... better here.}
+{290}{}{Ich wurde von einem Stammesdorf nördlich von hier entführt. Das Leben hier ist viel... besser.}
 {291}{}{Ich wurde in Den gefangen.}
-{292}{}{Ich kann nicht mit Dir sprechen. Ich muß arbeiten.}
+{292}{}{Ich kann nicht mit Dir sprechen. Ich muss arbeiten.}
 {293}{}{Ich muss meine Pflichten erfüllen, bevor mein Meister zurück ist.}
 {294}{}{Sprechen verstößt gegen die Regeln.}
 {295}{}{Bitte geh weg. Ich bitte dich. Du bringst mir bloß Ärger.}

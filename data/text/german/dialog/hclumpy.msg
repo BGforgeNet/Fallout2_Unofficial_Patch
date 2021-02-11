@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen Ghul. Momentan liegt er unter Deiner vorderen Stoßstange.}
-{101}{}{Du siehst Lumpy. Du hoffst, daß es ihm gut geht.}
+{101}{}{Du siehst Lumpy. Du hoffst, dass es ihm gut geht.}
 {102}{}{Du siehst einen Ghul, der ziemliche Schmerzen zu haben scheint. Das wäre vielleicht nicht
  passiert, wenn Deine Fahrfertigkeiten besser wären.}
 {103}{}{Oooooh! Das tut weh!}
@@ -18,13 +18,13 @@
 {116}{}{Oh, alles paletti. Abgesehen von ein paar Brüchen und einem Abdruck von der Motorhaube
  auf meinem Hintern ist bei mir alles in Butter.}
 {117}{}{Ohhh. Brauchst Du Hilfe?}
-{118}{}{Gut. Tschüß dann.}
+{118}{}{Gut. Tschüss dann.}
 {119}{}{In Ordnung, entspann Dich. Brauchst Du meine Hilfe?}
 {120}{}{Gott sei Dank. Ich dachte schon, Du wärst in echten Schwierigkeiten. Na dann bis später.}
 {121}{}{[Lumpy schaut Dir ruhig direkt in die Augen. Er blinzelt. Er zwinkert noch einmal.]}
 {122}{}{Ohhh... blöde Frage. Ja?}
 {123}{}{Ich nehme das als ein Ja.}
-{124}{}{Du hast verdammt recht, Ja! Ich kann mich kaum bewegen! Paß auf, ich werde nicht heulen,
+{124}{}{Du hast verdammt recht, Ja! Ich kann mich kaum bewegen! Pass auf, ich werde nicht heulen,
  ich hatte schon schlimmere Kratzer. Das ist gar nichts verglichen mit meinem Zusammenstoß vor
  ein paar Jahren mit einem Cola-Lastwagen etwas weiter südlich die Straße runter. Mann, das
  hättest Du sehen sollen! Überall lagen Flaschendeckel verstreut!}

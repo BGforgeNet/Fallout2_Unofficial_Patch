@@ -18,7 +18,7 @@
 {116}{}{¿Cuánto tiempo tú aquí?}
 {117}{}{¿Garras malas?}
 {118}{}{¿Por qué estás aquí?}
-{119}{}{Marcho ahora.}
+{119}{}{Yo irme ahora.}
 {120}{}{¿A quién está dedicado este santuario?}
 {121}{}{¿Cuánto hace que estás aquí?}
 {122}{}{¿Qué puedes contarme de las Garras mortales?}

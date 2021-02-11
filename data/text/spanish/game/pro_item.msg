@@ -159,7 +159,7 @@
 {8000}{}{Libro de primeros auxilios}
 {8001}{}{Un libro de estudio sobre los conceptos y la práctica de los primeros auxilios.}
 {8100}{}{Pincho de iguana}
-{8101}{}{A cooked iguana, roasted in its own skin.}
+{8101}{}{Una iguana asada en su propia piel.}
 {8200}{}{Llave}
 {8201}{}{Una llave. Una llave que abrirá una cerradura en particular.}
 {8300}{}{Llavero}
@@ -377,19 +377,19 @@
 {18900}{}{Taquilla}
 {18901}{}{Una taquilla.}
 {19000}{}{Disco sobre VEF}
-{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
+{19001}{}{Un holotape que contiene la información médica. Puede ser utilizado para introducir información en tu Pip-Boy.}
 {19100}{}{Disco de seguridad}
-{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
+{19101}{}{Un holodisco con una etiqueta que pone "Identificador de Seguridad". Puedes usarlo para copiar esos datos en tu Pip-Boy 2000.}
 {19200}{}{Disco del experimento Alfa}
 {19201}{}{En la etiqueta de este holodisco pone: "Registro del experimento Alfa".}
 {19300}{}{Disco del experimento Delta}
 {19301}{}{En la etiqueta de este holodisco pone: "Registro del experimento Delta".}
 {19400}{}{Disco del experimento de Vree}
-{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
+{19401}{}{Este holotape ha sido actualizado con la evidencia médica de Vree de la BoS. Se puede utilizar para transferir los datos a tu Pip-Boy.}
 {19500}{}{Código de Honor de la Hermandad}
-{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
+{19501}{}{Un holotape, con una áspera símbolo de la Hermandad de Acero inscrito en él. Utilice la cinta para transferir los datos a tu Pip-Boy.}
 {19600}{}{Transmisiones mutantes}
-{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
+{19601}{}{Este holotape parece que fue configurado para grabar datos de audio de una radio. El uso de la cinta de transferencia de la información a tu Pip-Boy.}
 {19700}{}{Caja}
 {19800}{}{Caja}
 {19900}{}{Caja}
@@ -419,7 +419,7 @@
 {21400}{}{Escritorio}
 {21401}{}{Un escritorio. Tras observarlo detenidamente, decides que sigue siendo un escritorio.}
 {21500}{}{Historia de la Hermandad}
-{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
+{21501}{}{Una holocinta que contiene información relativa a la Hermandad del Acero. Puede utilizarse para introducir información en tu Pip-Boy 2000.}
 {21600}{}{Historia de Maxson}
 {21700}{}{Diario de Maxson}
 {21800}{}{Curación ligera}
@@ -918,7 +918,7 @@
 {47100}{}{"La Flor de Lavanda"}
 {47101}{}{Parece ser algún tipo de novela romántica escrita por Dorothy Rixon. La portada muestra a una mujer en el borde de una cama, cubierta por cientos de flores.}
 {47200}{}{Holodisco Hubologista}
-{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
+{47201}{}{Holodiscos es con la etiqueta "Hubology: La Verdad Detrás de las Mentiras". Parece que funciona con tu Pip-Boy.}
 {47300}{}{Dedo mutado del pie}
 {47301}{}{Ves tu sexto dedo. Es una pequeña parte mutada de ti mismo. Por alguna razón, notas una terrible sensación de pérdida cuando miras al pequeño dedo amputado.}
 {47400}{}{Margaritas}
@@ -932,7 +932,7 @@
 {47800}{}{Holodisco de misión Sierra}
 {47801}{}{En la etiqueta pone: "Estado de Misión".}
 {47900}{}{Circuito CompNav}
-{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
+{47901}{}{Estas son las piezas de equipo que parece que la ranura en el interior de una máquina. El hecho de que dicen "Poseidon Aceite" y "Equipo de Navegación" en la que llevar a creer que encajan en un Poseidon Aceite del Ordenador de Navegación.}
 {48000}{}{Bono +1 Agilidad}
 {48100}{}{Bono +1 Inteligencia}
 {48200}{}{Bono +1 Fuerza}

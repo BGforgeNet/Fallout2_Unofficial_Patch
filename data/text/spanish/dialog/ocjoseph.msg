@@ -30,7 +30,7 @@
 {125}{}{¿Puedes irte si quieres?}
 {126}{}{¿Qué sabes de Garras?}
 {127}{}{¿Cómo vienes aquí?}
-{128}{}{Marcho ahora.}
+{128}{}{Yo irme ahora.}
 {129}{}{¿Eres prisionero aquí?}
 {130}{}{¿Puedes marcharte si lo deseas?}
 {131}{}{¿Qué puedes contarme de las Garras mortales?}

@@ -54,7 +54,7 @@
 {201}{}{No, quiero información.}
 {202}{}{Tengo que irme. Adiós.}
 {203}{}{¿Qué tal si tú y yo nos enrollamos?}
-{204}{}{De acuerdo.}
+{204}{}{Vale.}
 {205}{}{Ni aunque fueras el último hombre no mutante del planeta.}
 {206}{}{Er, no... Creo que no. Necesito otra cosa.}
 {207}{}{Volverás.}

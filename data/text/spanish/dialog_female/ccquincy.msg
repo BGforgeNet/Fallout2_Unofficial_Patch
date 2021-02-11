@@ -11,8 +11,8 @@
 {110}{}{¿Qué es este lugar?}
 {111}{}{Yo busco planos de v-vertibirds. ¿Dónde hay?}
 {112}{}{Técnico dijo que yo encuentro planos de v-vertibirds aquí.}
-{113}{}{Marcho ahora.}
-{114}{}{¿Qué es este lugar?}
+{113}{}{Yo irme ahora.}
+{114}{}{¿Qué lugar es éste?}
 {115}{}{Estoy buscando los planos de los vertibirds. ¿Sabes dónde puedo encontrarlos?}
 {116}{}{Un técnico me dijo que podría encontrar los planos de los vertibirds aquí.}
 {117}{}{Bueno, tengo que irme.}

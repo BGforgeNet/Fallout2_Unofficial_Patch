@@ -1,4 +1,4 @@
-{100}{}{You see an elderly, frail man.}
+{100}{}{Du siehst einen betagten, gebrechlichen Mann.}
 {101}{}{Das ist Vizepräsident Carlson.}
 {102}{}{Zwar ist er körperlich nicht mehr ganz auf der Höhe, doch aus seinen Augen spricht eine
  enorme moralische Stärke und Entschlossenheit.}

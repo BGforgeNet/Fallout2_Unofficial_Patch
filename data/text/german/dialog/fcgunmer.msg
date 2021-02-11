@@ -20,7 +20,7 @@
 {118}{}{Nein. Wiedersehn}
 {119}{}{Brauchst du sonst noch was?}
 {120}{}{Ich kaufen!}
-{121}{}{Nein. Tschüß.}
+{121}{}{Nein. Tschüss.}
 {122}{}{Ich hätte gern einige Waffen.}
 {123}{}{Erzähl mir was über diesen Ort.}
 {124}{}{Vergiss es.}
@@ -34,13 +34,13 @@
 {129}{}{Die Welt verändern? Inwiefern?}
 {130}{}{Was passiert hier noch so in der Stadt?}
 {131}{}{Aha. Interessant. Ich habe noch weitere Fragen.}
-{132}{}{Danke. Tschüß.}
+{132}{}{Danke. Tschüss.}
 {133}{}{Ich weiß nicht. Sie reden mit niemandem über ihre Geheimnisse.}
 {134}{}{Aha. Was passiert hier noch so in der Stadt?}
 {135}{}{Aha. Ich habe noch weitere Fragen.}
-{136}{}{Danke. Tschüß.}
+{136}{}{Danke. Tschüss.}
 {137}{}{Wir haben zwei rivalisierende Kampfsportler in der Stadt. Der eine ist Lo Pan, der liebt
- sich selbst, der andere ist der Drache, der liebt andere. Man sagt, daß derjenige, der gewinnt,
+ sich selbst, der andere ist der Drache, der liebt andere. Man sagt, dass derjenige, der gewinnt,
  die Zukunft des Kampfsports bestimmen wird.}
 {138}{}{Ich verstehe. Sonst noch was los in der Stadt?}
 {139}{}{Aha. Ich habe noch weitere Fragen.}
@@ -51,12 +51,12 @@
  haben.}
 {142}{}{Sonst noch Neuigkeiten?}
 {143}{}{Aha. Ich habe noch weitere Fragen.}
-{144}{}{Danke. Tschüß.}
+{144}{}{Danke. Tschüss.}
 {145}{}{Die Wissenschaftler erzählen, jemand habe das Sicherheitssystem ihres Computers
  durchbrochen und unsere Geheimnisse gestohlen.}
 {146}{}{Sonst noch Neuigkeiten?}
 {147}{}{Aha. Ich habe noch weitere Fragen.}
-{148}{}{Danke. Tschüß.}
+{148}{}{Danke. Tschüss.}
 {149}{}{Das ist alles, was mir im Augenblick einfällt. Auf Wiedersehen.}
 {150}{}{Auf Wiedersehen.}
 {151}{}{Du bist ein Dieb, ein Mörder und ein Schurke. Ich fürchte, ich werde dich töten müssen.}

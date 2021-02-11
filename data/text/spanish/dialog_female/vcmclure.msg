@@ -38,7 +38,7 @@
 {137}{}{Aquí está el disco del reactor de Gecko. ¿Puedes optimizarlo?}
 {138}{}{Hoy nada, gracias.}
 {139}{}{Soy el Alto Concejal McClure. ¿Y tú eres...?}
-{140}{}{Nadie que te importe.}
+{140}{}{No es asunto tuyo.}
 {141}{}{. Encantada de conocerte.}
 {142}{}{Realmente debo irme. Tal vez podamos hacer las presentaciones en algún otro momento.}
 {143}{}{Presupongo ese tipo de rudeza en una errante, no en una Ciudadana. Soy miembro del Consejo de Ciudad Refugio, y me mostrarás el debido respeto, o haré anular tu Ciudadanía. ¿Me has entendido?}
@@ -155,7 +155,7 @@
 {254}{}{¿Puedo hacerte alguna otra pregunta?}
 {255}{}{Claro.}
 {256}{}{Es una noticia triste, necesitamos encontrar la forma de detener esto. Si continúa, nuestros suministros de mineral terminarán en nada. Por favor, ayúdanos.}
-{257}{}{Veré lo que puedo hacer.}
+{257}{}{Sé lo que podemos hacer.}
 {258}{}{¿Él lo tiene? ¿Entonces que estás haciendo aquí? ¡Llévaselo a Doc Johnson en Redding! Él podría encontrar la forma de administrárselo a los mineros.}
 {259}{}{Lo sé, ya me lo has contado. Por favor, llévalo a Redding para ver si puedes ayudarlos.}
 {260}{}{Antes de irme, ¿puedo hacerte alguna otra pregunta?}

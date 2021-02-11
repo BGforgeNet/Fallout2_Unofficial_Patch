@@ -6,7 +6,7 @@
 {105}{}{Sie wollen mich umbringen!}
 {106}{}{Bitte! Sie werden mich umbringen!}
 {107}{}{Halt sie auf! Aaaaah!}
-{108}{}{Hat Dachs dich geschickt? Ich wuﬂte es. Ich bin ja so erleichtert.}
+{108}{}{Hat Dachs dich geschickt? Ich wusste es. Ich bin ja so erleichtert.}
 {109}{}{Aaaarg.}
 {110}{}{Was hast du da unten gemacht?}
 {111}{}{Ja. Folge mir.}

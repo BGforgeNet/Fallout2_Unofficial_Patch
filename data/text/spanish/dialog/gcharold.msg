@@ -86,7 +86,7 @@
 {185}{hld26}{¿Su mejor interés? ¿Qué quieres decir?}
 {186}{}{Bueno, de acuerdo con ciertos datos económicos que conseguí de Ciudad Refugio, sería mucho mejor si os ayudaran a reparar vuestra central nuclear.}
 {187}{}{Quiero decir que siempre es mejor intentar llevarse bien con los demás.}
-{188}{}{Eh, nada.}
+{188}{}{Oh, nada.}
 {189}{}{Caramba, es mucho más tarde de lo que pensaba. Mejor me marcho. Adiós.}
 {190}{hld27}{¿Datos económicos? No les diste esa información q-que Gordon larga por esa bocaza, ¿verdad?}
 {191}{}{Eh, pues sí que lo hice. ¿Por qué?}

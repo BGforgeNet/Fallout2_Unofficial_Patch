@@ -60,7 +60,7 @@
 {159}{}{Je ne fais pas partie du problème. Je suis républicain.}
 {160}{}{C'est bien ce que je dis, tu fais partie du problème.}
 {161}{}{Ah, je vois. Eh bien, tu sais, après y avoir bien réfléchi, je crois qu'il est temps que la race humaine entre dans le système solaire.}
-{162}{}{On n'est pas déjà un peu dans le.... Euh, pour aller *où* ?}
+{162}{}{Aren't we already in the... Uh, to go *where*?}
 {163}{}{Et comment ferait-on ça ?}
 {164}{}{Je pense que Mars serait un bon choix car Mars suit à peu près la même orbite... Mars est à quelque chose près à la même distance du soleil, ce qui est très important. Nous avons vu des images montrant ce qui ressemble à des canaux et à de l'eau. S'il y a de l'eau, il y a de l'oxygène. S'il y a de l'oxygène, on peut respirer.}
 {165}{}{Je ne m'attendais pas à, euh, une réponse aussi *complète*.}

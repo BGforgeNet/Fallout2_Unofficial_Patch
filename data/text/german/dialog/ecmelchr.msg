@@ -1,5 +1,5 @@
 {100}{}{Du siehst ein seltsames Wesen.}
-{101}{}{Du siehst einen Supermutanten, der ein bißchen irre aussieht.}
+{101}{}{Du siehst einen Supermutanten, der ein bisschen irre aussieht.}
 {102}{}{Halt!}
 {103}{}{Komm nicht näher! Melchior der Großartige befiehlt es dir!}
 {104}{}{Halt ein, ich bin der größte Zauberer der Welt!}

@@ -176,7 +176,7 @@
 {1008}{}{RadAway reliance}
 {1009}{}{Alcohol reliance}
 {1010}{}{Jet reliance}
-{1011}{}{Tragic reliance}
+{1011}{}{Привыкание к Трэджику}
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Секс-эксперт}
 {1014}{}{Профессиональный боец}

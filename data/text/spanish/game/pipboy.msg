@@ -82,7 +82,7 @@
 {603}{}{Archivos}
 {604}{}{Alarma Reloj}
 {605}{}{Doo da doo da dum dee dee doodly doo dum dum dum doo da doo da doo da doo da doo da doo da doo}
-{606}{}{Welcome to the RobCo Pip-Boy 2000.}
+{606}{}{Bienvenido al RobCo Pip-Boy 2000.}
 {607}{}{Hasta la vista.}
 {608}{}{Despierta.}
 {700}{}{Refugio 13}
@@ -108,7 +108,7 @@
 {750}{}{Necrópolis}
 {751}{}{Destruir a los Super Mutantes en el Watershed.}
 {752}{}{Fijar la bomba de agua de Necrópolis.}
-{760}{}{El Eje}
+{760}{}{Eje}
 {761}{}{Destruir las Garras mortales.}
 {762}{}{Eliminar a Jain.}
 {763}{}{Eliminar al comerciante.}
@@ -341,8 +341,8 @@
 {10026}{}{Informe de Misión 2077}
 {10027}{}{Debido a un déficit de personal entrenado, Sierra}
 {10028}{}{será modificada como una base de defensa automatizada.}
-{10029}{}{personnel are to be relocated to neighboring}
-{10030}{}{installations or sent to the front line.}
+{10029}{}{el personal se trasladó a la vecina}
+{10030}{}{instalaciones o enviados a la línea de frente.}
 {10031}{}{**END-DISK**}
 {11000}{}{Galaxy News Network}
 {11001}{}{Transcripción de Emisión, 11 de Enero de 2073}
@@ -746,16 +746,16 @@
 {14004}{}{los siguientes elementos entre sus pertenencias:}
 {14005}{}{}
 {14006}{}{1.Suministro de raciones en conserva de Ciudad Refugio.}
-{14007}{}{  ¡Nunca comas ningún alimento ofrecido por un extraño,}
-{14008}{}{  ya que introducirías partículas radiactivas o bacterias}
-{14009}{}{  tu sistema!}
+{14007}{}{   ¡Nunca comas ningún alimento ofrecido por un extraño,}
+{14008}{}{   ya que introducirías partículas radiactivas o bacterias}
+{14009}{}{   tu sistema!}
 {14010}{}{}
 {14011}{}{2.Contador Geiger. ¡Asegúrate siempre de monitorizar los}
-{14012}{}{  niveles de radiación ambiental donde quiera que viajes!}
+{14012}{}{   niveles de radiación ambiental donde quiera que viajes!}
 {14013}{}{}
 {14014}{}{3.Al menos dos estimulantes a la vez. ¡El más ligero}
-{14015}{}{  corte o rasguño puede introducir bacterias dañinas en}
-{14016}{}{  tu sistema!}
+{14015}{}{   corte o rasguño puede introducir bacterias dañinas en}
+{14016}{}{   tu sistema!}
 {14017}{}{**END-PAR**}
 {14018}{}{REDDING: Pequeña comunidad minera situada al Oeste de}
 {14019}{}{Ciudad Refugio. Redding comercia mineral de oro a cambio}
@@ -910,7 +910,7 @@
 {16051}{}{¡Esclavistas, mutantes no reformados, criminales famo-}
 {16052}{}{sos, y otros indeseables no son bienvenidos!}
 {16053}{}{**END-PAR**}
-{16054}{}{BUT WHAT IF MY ENTIRE TOWN WANTS TO JOIN?}
+{16054}{}{PERO, ¿Y SI TODA MI PUEBLO QUIERE UNIRSE?}
 {16055}{}{Dependiendo de donde se sitúe tu ciudad, la RNC acepta}
 {16056}{}{solicitudes de pueblos, ciudades, bases, estados, inclu-}
 {16057}{}{so pequeños reinos, para su anexión por la RNC.}
@@ -936,7 +936,7 @@
 {17005}{}{enviado estoy seguro de poder impedir, si no frustrar,}
 {17006}{}{cualquier lejano intento de alianza de la RNC con Reno.}
 {17007}{}{**END-PAR**}
-{17008}{}{Solo puedo garantizarte que si todo sale como yo}
+{17008}{}{    Sólo puedo asegurarles que si se les da a mi manera, como yo }
 {17009}{}{espero, no habrá más interferencias o provocaciones}
 {17010}{}{de la RNC en cualquier asunto de Ciudad Refugio.}
 {17011}{}{Yo, sobretodo, respeto vuestra soberanía, y no coincido}
@@ -1021,8 +1021,8 @@
 {20010}{}{decisiva para el progreso de nuestra investigación.}
 {20011}{}{**END-PAR**}
 {20012}{}{Hemos descubierto que el VEF no estaba originalmente}
-{20013}{}{designed to be used as an agent for the creation of}
-{20014}{}{super-soldiers. Initially, it appears, the F.E.V. was }
+{20013}{}{diseñado para ser utilizado como un agente para la creación de}
+{20014}{}{super-soldados. Inicialmente, parece, la F. E. V. fue }
 {20015}{}{diseñó como toxina vírica. Solo posteriormente el virus}
 {20016}{}{VEF se manipuló en un intento de crear supersoldados.}
 {20017}{}{**END-PAR**}

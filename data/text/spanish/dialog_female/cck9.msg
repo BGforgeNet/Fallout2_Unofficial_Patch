@@ -34,22 +34,22 @@
 {133}{}{Vale. Marcho.}
 {134}{}{Probaré ahí. Si no la encuentro, la buscaré.}
 {135}{}{Entonces déjame en paz.}
-{136}{}{De acuerdo.}
+{136}{}{Vale.}
 {137}{}{Me parece bien.}
 {138}{}{Las funciones vitales de mi amo han terminado. ¿Eres tú mi nuevo amo?}
-{139}{}{De acuerdo.}
+{139}{}{Vale.}
 {140}{}{No.}
 {141}{}{De acuerdo.}
 {142}{}{No, gracias.}
 {143}{}{No eres mi amo. No puedo hablar contigo. Adiós.}
-{144}{}{De acuerdo.}
+{144}{}{Vale.}
 {145}{}{Hola ama. ¿Has encontrado mi unidad motriz?}
 {146}{}{No, busco más.}
 {147}{}{Sí. Encontré.}
 {148}{}{No, aún la estoy buscando.}
 {149}{}{La tengo aquí mismo.}
 {150}{}{Esperaré a tu regreso, ama.}
-{151}{}{De acuerdo.}
+{151}{}{Vale.}
 {152}{}{Entonces, ¡por favor instala la pieza, ama! ¡Por favor, ama!}
 {153}{}{Vale. Cálmate.}
 {154}{}{Parece que ahora soy completamente funcional. ¿Debo unirme a ti?}
@@ -195,7 +195,7 @@
 {300}{}{Yo triste. No puedo arreglar a tú.}
 {301}{}{Lo siento, no puedo arreglarte.}
 {400}{}{Parece faltar una pieza.}
-{410}{}{Eso no hizo nada.}
+{410}{}{Eso no hace nada.}
 {420}{}{Eso no encaja.}
 {800}{}{Has arreglado a K-9.}
 {1000}{}{¿Sí, ama?}

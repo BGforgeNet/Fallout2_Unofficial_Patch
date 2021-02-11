@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen von Bishops Männern.}
-{150}{}{Du siehst einen rauhen Mann in Lederrüstung. Eine Menge Narben und Schußwunden bedecken seinen Körper.}
+{150}{}{Du siehst einen rauhen Mann in Lederrüstung. Eine Menge Narben und Schusswunden bedecken seinen Körper.}
 {151}{}{Du siehst einen von Bishops Männern. Er beobachtet die Gegend und fingert an seiner Waffe herum.}
 {200}{}{Hey! }
 {201}{}{::Gut gemacht::}
@@ -42,7 +42,7 @@
 {281}{}{Du warst echt Klasse in Great Balls for Hire.}
 {282}{}{Du warst spitze in Good Will Humping.}
 {283}{}{Ich bin ein großer Fan deiner Arbeit in Pokeahotass.}
-{284}{}{Loved "Vault Sex-Teen." It was inspiring. A cinematic tour-de-force.}
+{284}{}{Ich liebte deine Arbeit in "Vault Sex-Teen". Es war inspirierend. Eine cineastische Tour de Force.}
 {285}{}{::Pfeift::}
 {295}{}{Willst du ein Grab in Golgatha, Sklavenhändler? Nimm die Waffe runter.}
 {296}{}{Nimm die Waffe runter, Sklavenhändler, oder ich benutzte dich als Zielübung.}
@@ -65,26 +65,26 @@
 {321}{}{Willst du und dein Mutantenfreund hier, erschossen werden? Hau ab.}
 {322}{}{Dieser Mutant verschwindet hier besser, oder wir hängen seinen Kopf an der Wand auf.}
 {325}{}{Den Kampf letzte Nacht mitgekriegt?}
-{326}{}{Du mußt Reno lieben...}
+{326}{}{Du musst Reno lieben...}
 {330}{}{Ich dachte, der Präsident wär ein Mythos, so 'n Schreckmonster, mit dem man Kindern Angst macht.}
 {331}{}{Du siehst aus als wärst du einmal zur Hölle und zurück gereist. Entspann dich ein wenig. Du verdienst es.}
 {332}{}{Sie wollten irgend einen neuen Virus freisetzen? Bastarde. Ich hoffe du hast ein paar für mich abgeknallt.}
 {333}{}{Willst du das Spiel noch einmal mit einem anderen Charakter durchspielen?}
 {334}{}{Du hast ganz schön Nerven, der Enklave so einzuheizen.}
 {335}{}{Wanderst noch ein wenig umher, obwohl das Spiel fertig ist, willst wohl ein paar extra EXPs sammeln, was? Gut, aber bitte erschieß mich nicht, Ok?}
-{336}{}{New Reno wurde von Chris Avellone entworfen und das Skript ist von Tom French. Man munkelt, daß die beiden bald heiraten wollen.}
+{336}{}{New Reno wurde von Chris Avellone entworfen und das Skript ist von Tom French. Man munkelt, dass die beiden bald heiraten wollen.}
 {337}{}{Ich hoffe ich werde mal ein wichtiger Charakter in Fallout 3, wie Tandi oder Ian. Ein Gangster zu sein stinkt mir.}
 {338}{}{Ich bin mal mit Tandi ausgegangen. Als sie noch jung war natürlich.}
 {339}{}{Lynette müsste man es mal wieder richtig besorgen, oder?}
-{340}{}{Hab gehört, daß du die Enklave im Süden unten hochgenommen hast. Ganz schön mutig.}
+{340}{}{Hab gehört, dass du die Enklave im Süden unten hochgenommen hast. Ganz schön mutig.}
 {350}{}{Hey, }
 {351}{}{Jo, }
 {352}{}{Hey, }
 {353}{}{Ich habe gehört, dass Tommy the Balls zurück in der Stadt ist, pass lieber auf ihn auf.}
 {354}{}{Wenn du Tommy den Ball siehst, gehe im lieber aus dem Weg.}
 {355}{}{Legst du für mich ein gutes Wort bei Bishop ein?}
-{356}{}{Nicht schlecht. Ich wünschte, ich hätte auch einen Fuß in der Tür vom Boß.}
-{357}{}{Soll ich dir irgendwas holen, Boß?}
+{356}{}{Nicht schlecht. Ich wünschte, ich hätte auch einen Fuß in der Tür vom Boss.}
+{357}{}{Soll ich dir irgendwas holen, Boss?}
 {358}{}{Die Familie Bishop war immer gut zu mir.}
 {359}{}{John Bishop wird diese Stadt regieren.}
 {360}{}{Ist alles ziemlich ruhig heute.}
@@ -102,7 +102,7 @@
 {372}{}{Die Tochter von Bishop bedeutet Ärger.}
 {373}{}{Ich habe gehört, dass einer der Jungs Bishops Tochter abgefüllt hatte, und Mr. Bishop hat ihm die Haut abgezogen.}
 {374}{}{Wenn du mit Bishop redest, bleib weg von seiner Frau und seiner Tochter, die bringen nur Ärger.}
-{380}{}{Hab gehört, daß Mrs. Bishop dich sucht. Paß auf, Freund.}
+{380}{}{Hab gehört, dass Mrs. Bishop dich sucht. Pass auf, Freund.}
 {381}{}{Ich habe gehört Bishops Tochter hat Interesse an dir. Pass auf, die bringt nur Ärger.}
 {382}{}{Du siehst gar nicht so zäh aus, Mr. Preiskämpfer.}
 {383}{}{Du weißt, die Familie Bishop könnte jemanden wie dich gut gebrauchen. Zäh. Kompromisslos.}
@@ -116,10 +116,10 @@
 {391}{}{Wo trainierst du?}
 {392}{}{Pass auf den Masticator auf. Er steht auf Ohren.}
 {393}{}{Ich würd dir nen Drink spendieren, wenn ich nicht mein ganzes Geld auf deinen Gegner gesetzt hätte.}
-{394}{}{Wanna wrestle?}
+{394}{}{Willste ringen?}
 {395}{}{Du siehst gar nicht so zäh aus, Meister des linken Haken.}
 {396}{}{Kann ich mal deine Bauchmuskel sehen?}
-{400}{}{Hab gehört, daß Mrs. Bishop dich sucht. Paß auf, Freund.}
+{400}{}{Hab gehört, dass Mrs. Bishop dich sucht. Pass auf, Freund.}
 {401}{}{Kannste mir 'n Job besorgen, Freund? Komm schon. Ich bin der König der Hengste.}
 {402}{}{Ich liebe deine Filme, }
 {403}{}{Du warst echt Klasse in Great Balls for Hire.}
@@ -135,7 +135,7 @@
 {413}{}{Kannst du kurz bei mir zum Kaffee trinken vorbeischauen?}
 {414}{}{Hey, wirste heute Abend hier tanzen?}
 {415}{}{Du siehst umwerfend aus, Süße.}
-{416}{}{Wollen wir uns nicht ein bißchen in der Besenkammer vergnügen.}
+{416}{}{Wollen wir uns nicht ein bisschen in der Besenkammer vergnügen.}
 {420}{}{Wie läuft's denn so oben in Den?}
 {421}{}{Das Sklavenhändlerbrandmal tut weh, wenn es eingebrannt wird oder?}
 {422}{}{Ich hatte mir auch überlegt Sklavenhändler zu werden, aber ich verabscheue die ganze Rumreiserei.}
@@ -171,10 +171,10 @@
 {471}{}{Verpiss dich, bevor ich dich für Zielübungen benutzte.}
 {472}{}{Suchst du Ärger? Rede ruhig mit mir weiter, und warte ab was passiert.}
 {473}{}{Ich bin noch nit betrunken genug. Geh weg.}
-{474}{}{Du bist der häßlichste Wilde den ich je gesehen hab.}
-{475}{}{Mach das du hier raus kommst oder ich mache dich noch häßlicher als du schon bist.}
+{474}{}{Du bist der hässlichste Wilde den ich je gesehen hab.}
+{475}{}{Mach das du hier raus kommst oder ich mache dich noch hässlicher als du schon bist.}
 {476}{}{Geh und mache jemanden an, der betrunkener ist als ich.}
-{490}{}{*Dachte* ich mir doch, daß es hier nach Moder riecht. Schaff diesen Ghul hier raus.}
+{490}{}{*Dachte* ich mir doch, dass es hier nach Moder riecht. Schaff diesen Ghul hier raus.}
 {491}{}{Bring sofort diesen stinkenden Ghul hier raus.}
 {492}{}{Wenn dieser Ghul hier nich' in 'ner Minute draußen is', isser noch toter als jetz' schon.}
 {1200}{}{! Was 'ne Art, der Enklave eins überzuziehen!}
@@ -187,10 +187,10 @@
 {1228}{}{ -Familie ist 'n Haufen Schlaffis. Was hältst du davon?}
 {1229}{}{. Sofort.}
 {1230}{}{. Wird deine Familie dich nicht vermissen?}
-{1231}{}{ hatten Zeit, noch viel mehr zu tun, als ihrem Boß in den Hintern zu kriechen.}
+{1231}{}{ hatten Zeit, noch viel mehr zu tun, als ihrem Boss in den Hintern zu kriechen.}
 {1236}{}{ -Familie is' 'n Haufen Schlaffis. Jetzt weiß ich, dass es wahr ist.}
 {1252}{}{! Du kannst hier drin keine Waffen sehen lassen, OK?}
-{1260}{}{. Paßt du auch gut auf dich auf?}
+{1260}{}{. Passt du auch gut auf dich auf?}
 {1261}{}{. Was issn los?}
 {1266}{}{! Du kannst hier drin keine Waffen sehen lassen, OK?}
 {1267}{}{! Tu die Waffe weg.}

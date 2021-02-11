@@ -17,11 +17,11 @@
 {114}{}{Não.}
 {115}{}{Quem é você? O que você está fazendo aqui?}
 {116}{}{O que?}
-{117}{}{Uh... I'm new here?}
+{117}{}{Uh... eu sou novo aqui?}
 {118}{}{Peek-a-boo!}
 {119}{}{Quem é você? O que você está fazendo aqui?}
 {120}{}{O que?}
-{121}{}{Uh... I'm new here?}
+{121}{}{Uh... eu sou novo aqui?}
 {122}{}{Peek-a-boo!}
 {123}{}{O que você quer dizer? Este terno está funcionando bem! Você vai assinar os papéis ou não?}
 {124}{}{Eu não estou entendendo uma palavra sobre isso.}

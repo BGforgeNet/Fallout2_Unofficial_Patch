@@ -31,7 +31,7 @@
 {280}{}{Bien, hay una iglesia al este de aquí. Metzger tiene a alguna gente vigilando lo que quiera que haya dentro. Averigua qué es y te pagaré 200 dólares.}
 {281}{}{Eso es fácil. Ya sé qué es.}
 {282}{}{Claro.}
-{283}{}{Veré lo que puedo hacer.}
+{283}{}{Sé lo que podemos hacer.}
 {290}{}{Gracias. No te metas en peleas... todavía. Tengo un plan.}
 {291}{}{No hay problema.}
 {292}{}{Volveré.}
@@ -56,11 +56,11 @@
 {370}{}{Necesito que averigües si a Metzger le parecería bien que Tyler y yo arreglamos algunos viejos asuntos. Él lo entenderá.}
 {371}{}{¿Por qué quieres que yo se lo pregunte?}
 {372}{}{Lo haré si tengo la oportunidad.}
-{373}{}{De acuerdo.}
+{373}{}{Vale.}
 {380}{}{Porque no quiero que Tyler vea a nadie de mi gente hablando con Metzger. No quiero decubrir nuestras cartas.}
 {381}{}{¿No lo entiendes? Si Tyler me ve de repente hablando con Metzger podría sospechar que algo huele a podrido.}
 {382}{}{Ya veremos.}
-{383}{}{De acuerdo.}
+{383}{}{Vale.}
 {390}{}{¿Has averiguado qué hay dentro?}
 {391}{}{Componentes químicos en bruto metidos en grandes cajas.}
 {392}{}{Unos grandes contenedores que contienen alguna clase de productos químicos.}
@@ -82,7 +82,7 @@
 {443}{}{Considéralo hecho.}
 {450}{}{Te daremos 150 dólares. No hay forma de que podamos acercarnos lo suficiente como para averiguarlo por nosotros mismos.}
 {451}{}{Me pondré con ello.}
-{452}{}{De acuerdo.}
+{452}{}{Vale.}
 {460}{}{No lo sé. Por eso te estoy pidiendo ayuda.}
 {461}{}{Lo intentaré.}
 {462}{}{Esto es inútil.}
@@ -99,7 +99,7 @@
 {493}{}{Dame un momento para prepararme.}
 {494}{}{De ninguna manera. ¡Guárdate tu dinero!}
 {500}{}{Vale, pero tenemos que actuar pronto, así que no te retrases o arruinarás el plan.}
-{501}{}{De acuerdo.}
+{501}{}{Vale.}
 {510}{}{No tienes que luchar. Es dinero fácil.}
 {511}{}{Bien, ¿has cambiado de idea?}
 {512}{}{Vamos. Estoy lista.}

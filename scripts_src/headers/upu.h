@@ -96,5 +96,23 @@ end
 #define rep_positive (effective_rep >= 0) // ok, "almost positive". In line with has_title.
 #define rep_negative (effective_rep < 0)
 
+#define self_exists (self_pid != -1)
+
+procedure closest_party_member(variable obj) begin
+  variable who, cur_distance, min_distance = -1, closest_who = false;
+  // only dude
+  if len_array(party_member_list_critters) == 1 then return false;
+
+  foreach who in party_member_list_critters begin
+    if who != dude_obj then begin
+      cur_distance = tile_distance_objs(obj, who);
+      if (min_distance == -1) or (cur_distance < min_distance) then begin
+        min_distance = cur_distance;
+        closest_who = who;
+      end
+    end
+  end
+  return closest_who;
+end
 
 #endif  // UPU_H

@@ -4,7 +4,7 @@
  Einer wie der fackelt nicht lange rum.}
 {103}{}{Willkommen in der NCR, Fremdling. Ich bin Dumont - Sheriff Dumont. Ich wünsch dir einen
  angenehmen und friedlichen Aufenthalt hier.}
-{104}{}{Laß dir einen guten Rat von Sheriff Dumont geben, Fremdling - solche wie dich schätzt man
+{104}{}{Lass dir einen guten Rat von Sheriff Dumont geben, Fremdling - solche wie dich schätzt man
  in dieser Stadt nicht besonders. Wenn's irgendwelchen Ärger gibt, greif ich knallhart durch.
  Also, kann ich irgendwas für dich tun?}
 {105}{}{Sieh einer an, du wieder. Kann ich irgendwas für dich tun?}
@@ -14,7 +14,7 @@
 {109}{}{Hast du ein GECK?}
 {110}{}{Ich bin auf der Suche nach ehrlicher Arbeit. Kannst du mir helfen?}
 {111}{}{Bestens. Alles läuft super.}
-{112}{}{Bißchen beschränkt, wie? Du. Fragen? Frag mich. Klar?}
+{112}{}{Bisschen beschränkt, wie? Du. Fragen? Frag mich. Klar?}
 {113}{}{Vault 13?}
 {114}{}{GECK?}
 {115}{}{OK.}
@@ -25,18 +25,18 @@
 {119}{}{Na, wunderbar. Wiedermal mein sprichwörtliches Glück... Danke.}
 {120}{}{Hör mal zu, ich führe ein sauberes und gesundes Leben! Ich hab kein GECK oder irgendwas
  in der Richtung.}
-{121}{}{So-rry! What do you know about Vault 13?}
-{122}{}{Vergiß die Frage. Ich verschwinde ja schon.}
+{121}{}{Was weißt du über Vault 13?}
+{122}{}{Vergiss die Frage. Ich verschwinde ja schon.}
 {123}{}{Ich hätte da schon zwei, drei Sachen auf Lager, wenn du wirklich interessiert bist.}
-{124}{}{Das soll wohl ein Witz sein? Nach allem, was du mit Jack angestellt hast? Sieh zu, daß du
+{124}{}{Das soll wohl ein Witz sein? Nach allem, was du mit Jack angestellt hast? Sieh zu, dass du
  einen ordentlichen Job kriegst.}
 {125}{}{Wie zum Beispiel?}
-{126}{}{Nein, laß uns einfach das Thema wechseln.}
+{126}{}{Nein, lass uns einfach das Thema wechseln.}
 {127}{}{Egal, ich hab's mir anders überlegt. Bis dann.}
 {128}{}{Nix Vault 13. Vault 15, ja.}
 {129}{}{Fünf-zehn?}
 {130}{}{Nein. Drei-zehn!}
-{131}{}{Ja, 15! Du reden mit Tandi. Großes Boß von NCR. Tandi kennen Vault. Brauchen Leute. Du
+{131}{}{Ja, 15! Du reden mit Tandi. Großes Boss von NCR. Tandi kennen Vault. Brauchen Leute. Du
  gehen zu Tandi.}
 {132}{}{Tandi?}
 {133}{}{Nix gehen. Will 13!}
@@ -68,23 +68,26 @@
 {152}{}{Danke. Werd ich tun.}
 {153}{}{Weißt du was von einem GECK?}
 {154}{}{Ist ja furchtbar nett von dir, Fremdling - und auch verdammt frech. Ich hab überhaupt
- keine Ahnung, wer du bist und woher du kommst und ich muß sagen, rein äußerlich gefällst du mir
- ganz und gar nicht. Ich empfehle dich überhaupt niemandem. Und jetzt muß ich weiterarbeiten.}
-{155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
-{156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
+ keine Ahnung, wer du bist und woher du kommst und ich muss sagen, rein äußerlich gefällst du mir
+ ganz und gar nicht. Ich empfehle dich überhaupt niemandem. Und jetzt muss ich weiterarbeiten.}
+{155}{}{Da wäre dieser Duppo bei den Viehzüchtern. Der stellt die Leute für die Brahmin-Touren
+ ein. Und dann gäbe es da noch Mr. Westin. Kannst ihm sagen, dass ich dich geschickt habe. Sogar
+ Präsidentin Tandi sucht nach Leuten.}
+{156}{}{Duppo beim Viehzüchter-Verband sucht händeringend nach Leuten für die Brahmin-Touren.
+ Versuch's mal bei ihm.}
 {157}{}{Westin?}
 {158}{}{Präsidentin Tandi?}
-{159}{}{Muß los.}
+{159}{}{Muss los.}
 {160}{}{Roger Westin. Seine Ranch liegt direkt vor dem Westtor. Der hat ein Problem mit
  Schädlingen. Normalerweise kümmert er sich selber um so was, aber er ist nicht mehr so fit wie
  früher. Das Herz, meint Doktor Jubilee.}
 {161}{}{Ja?}
 {162}{}{Gibt's in dieser Stadt irgendwo Arbeit?}
 {163}{}{Schon gut. Ich gehe.}
-{164}{}{Paß nur schön auf, daß es auch so bleibt. Mach's gut.}
+{164}{}{Pass nur schön auf, dass es auch so bleibt. Mach's gut.}
 {165}{}{Das mit dem alten Jack, das war wirklich verdammt gute Arbeit, Fremdling. Als Sheriff
  weiß ich so was zu schätzen.}
-{166}{}{Ich überlaß ihn dir.}
+{166}{}{Ich überlass ihn dir.}
 {167}{}{Wie sieht's mit einer Belohnung aus?}
 {168}{}{Ich hab kein Geld für eine Belohnung übrig. Wirst dich wohl mit meinem Dank begnügen
  müssen.}
@@ -93,7 +96,7 @@
 {171}{}{Tut mir leid, ich hab jetzt keine Zeit. Ich komm schon zu spät zur gerichtsmedizinischen
  Untersuchung. Für mich ist die Sache ziemlich eindeutig.}
 {172}{}{Tut mir leid, für was andres als Verbrechen hab ich keine Zeit.}
-{173}{}{Wüstenratten. Du mußt verstehen - die Ursprünge dieser Stadt gehen auf Vault 15 zurück.
+{173}{}{Wüstenratten. Du musst verstehen - die Ursprünge dieser Stadt gehen auf Vault 15 zurück.
  Es hat da offensichtlich vor langer Zeit Auseinandersetzungen gegeben und die Überlebenden haben
  Shady Sands gegründet. Vault 15 ist also unser rechtmäßiges Eigentum. Vor ein paar Jahren haben
  sich da Siedler eingenistet und seitdem gibt es ständig Probleme. Am besten, du redest mit Tandi
@@ -101,6 +104,9 @@
 {174}{}{Tandi?}
 {175}{}{Ich nehm das mal so als Hinweis.}
 {176}{}{Ich weiß nichts von mehr Arbeit.}
-{177}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.}
+{177}{}{Duppo vom Viehzüchter-Verband behandelt die Sachen zwecks Brahmin-Trieb. Präsidentin
+ Tandi sucht Hilfe.}
 {178}{}{Würde jeder eurer Statur, die Stadt verlassen, gäbs weniger Suche nach Arbeit.}
-{179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}
+{179}{}{Duppo vom Viehzüchter-Verband behandelt die Sachen zwecks Brahmin-Trieb. Versuchs bei
+ Ihm. Dann ist da noch Mr. Westin. Wenn du mit Ihm sprechen solltest, sag ihm, das ich dich 
+ geschickt habe.}

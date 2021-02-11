@@ -6,7 +6,7 @@
 {105}{}{¿Qué puedo hacer por ti?}
 {106}{}{¡Ooh! ¡Ooh! ¡Aah!}
 {107}{}{¿Quién eres?}
-{108}{}{¿Qué es este lugar?}
+{108}{}{¿Qué lugar es éste?}
 {109}{}{¿Quién está al mando?}
 {110}{}{Nada. Adiós.}
 {111}{}{Hmm. No, lo siento, no puedo ayudarte con eso. Quizá deberías probar con algún otro.}

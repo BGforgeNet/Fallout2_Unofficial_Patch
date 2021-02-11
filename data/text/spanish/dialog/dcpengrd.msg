@@ -14,7 +14,7 @@
 {232}{}{Espero que te guste el gremio.}
 {233}{}{Espero que te salga todo bien.}
 {234}{}{¿Qué tal te fue la última cacería?}
-{235}{}{Buenas.}
+{235}{}{Hola.}
 {236}{}{Eres la clase de chicas que me gustan.}
 {237}{}{Una chica esclavista... Respeto eso.}
 {238}{}{Hola.}

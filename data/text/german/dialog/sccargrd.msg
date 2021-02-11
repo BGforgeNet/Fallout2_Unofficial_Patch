@@ -1,6 +1,6 @@
-{100}{}{Noch eine Wache. Irgendwo muß hier ein Nest sein. Einer sieht wie der andere aus.}
+{100}{}{Noch eine Wache. Irgendwo muss hier ein Nest sein. Einer sieht wie der andere aus.}
 {101}{}{Noch eine Wache. Ist wahrscheinlich nicht sonderlich gut auf dich zu sprechen.}
-{102}{}{Du siehst ihn dir genauer an und kommst zu dem Schluß, daß er eine Wache ist.}
+{102}{}{Du siehst ihn dir genauer an und kommst zu dem Schluss, dass er eine Wache ist.}
 {103}{}{Du bist nicht befugt, dich hier aufzuhalten.}
 {104}{}{Dürfte ich mal deinen Ausweis sehen?}
 {105}{}{Du befindest dich hier auf Regierungsgelände. Entferne dich, Fremdling.}

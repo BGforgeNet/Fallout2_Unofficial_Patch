@@ -28,7 +28,7 @@
 {125}{}{Gracias. Hablaré contigo más tarde.}
 {126}{}{No, no lo soy. Estoy aquí por voluntad propia y me gusta. Creo que este será un lugar seguro para
  que me quede por un tiempo.}
-{127}{}{De acuerdo.}
+{127}{}{Vale.}
 {128}{}{Adiós.}
 {129}{}{De acuerdo.}
 {130}{}{Ya veo. Bueno, seguiré entonces.}

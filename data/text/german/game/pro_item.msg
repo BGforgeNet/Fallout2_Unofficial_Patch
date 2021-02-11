@@ -13,15 +13,15 @@
 {700}{}{Speer}
 {701}{}{Stab mit einer messerscharfen Spitze. Der Stab ist aus Holz und die Spitze aus bearbeitetem Stahl. Mindest-ST: 4.}
 {800}{}{10mm Pistole}
-{801}{}{Selbstlader vom Typ Colt 6520, 10mm. Bei jedem Schuß lädt die Waffe automatisch nach, bis das Magazin leer ist.  Nur Einzelschuß. Mindest-ST: 3.}
+{801}{}{Selbstlader vom Typ Colt 6520, 10mm. Bei jedem Schuss lädt die Waffe automatisch nach, bis das Magazin leer ist.  Nur Einzelschuss. Mindest-ST: 3.}
 {900}{}{10mm MP}
-{901}{}{H&K MP9 - 10mm Maschinenpistole. Handfeuerwaffe mittlerer Größe für Einzelschuß oder Dauerfeuer.   Mindest-ST: 4.}
+{901}{}{H&K MP9 - 10mm Maschinenpistole. Handfeuerwaffe mittlerer Größe für Einzelschuss oder Dauerfeuer.   Mindest-ST: 4.}
 {1000}{}{Jagdgewehr}
-{1001}{}{Halbautomatisches Gewehr Colt Rangemaster, Kaliber .223. Nur Einzelschuß. Mindest-ST: 5.}
+{1001}{}{Halbautomatisches Gewehr Colt Rangemaster, Kaliber .223. Nur Einzelschuss. Mindest-ST: 5.}
 {1100}{}{Flammenwerfer}
 {1101}{}{Flammenwerfer vom Modell Flambe 450, Varmiter-Modell. Feuert einen Strahl extrem heißer, brennbarer Flüssigkeit ab. Mindest-ST: 6.}
 {1200}{}{Kleingeschütz}
-{1201}{}{Kleingeschütz vom Typ Rockwell CZ53. Maschinengewehr mit mehreren Läufen. Feuert über 60.000 Schuß pro Minute ab. Mindest-ST: 7.}
+{1201}{}{Kleingeschütz vom Typ Rockwell CZ53. Maschinengewehr mit mehreren Läufen. Feuert über 60.000 Schuss pro Minute ab. Mindest-ST: 7.}
 {1300}{}{Raketenwerfer}
 {1301}{}{Raketenwerfer vom Typ Rockwell BigBazooka. Mit schwerem Deluxe-Abzug. Mindest-ST: 6.}
 {1400}{}{Sprengrakete}
@@ -41,9 +41,9 @@
 {2100}{}{Schlagring}
 {2101}{}{Schlagring aus gehärtetem Stahl. Schützt die eigene Hand und kann im unbewaffneten Kampf großen Schaden anrichten. Mindest-ST: 1.}
 {2200}{}{14mm Pistole}
-{2201}{}{14mm Selbstlader vom Typ Sig-Sauer. Große Handfeuerwaffe mit Einzelschuß. Hervorragende Verarbeitung. Mindest-ST: 4.}
+{2201}{}{14mm Selbstlader vom Typ Sig-Sauer. Große Handfeuerwaffe mit Einzelschuss. Hervorragende Verarbeitung. Mindest-ST: 4.}
 {2300}{}{Sturmgewehr}
-{2301}{}{Sturmgewehr vom Typ AK-112, 5mm. Ein älteres Militärmodell, das seit der Kriegszeit nicht mehr eingesetzt wurde. Einzelschuß oder Dauerfeuer.     Mindest-ST: 5.}
+{2301}{}{Sturmgewehr vom Typ AK-112, 5mm. Ein älteres Militärmodell, das seit der Kriegszeit nicht mehr eingesetzt wurde. Einzelschuss oder Dauerfeuer.     Mindest-ST: 5.}
 {2400}{}{Plasmapistole}
 {2401}{}{Plasmapistole vom Typ Glock 86, hergestellt von Gaston Glock AI. Feuert einen kleinen Strahl hocherhitzten Plasmas ab.   Mindest-ST: 4.}
 {2500}{}{Splittergranate}
@@ -77,7 +77,7 @@
 {3900}{}{Fusionszelle}
 {3901}{}{Energieerzeugende Einheit mittlerer Größe. Ein in sich geschlossener Fusionsreaktor.}
 {4000}{}{Stimpak}
-{4001}{}{A healing drug. When injected, the drug provides immediate healing of minor wounds.}
+{4001}{}{Heilpräparat. Kleine Wunden heilen unmittelbar nach der Injektion.}
 {4100}{}{Geld}
 {4101}{}{Legales Zahlungsmittel im Ödland.}
 {4200}{}{Kühlschrank}
@@ -99,11 +99,11 @@
 {5000}{}{Reserveobjekt}
 {5001}{}{Dies ist ein Reserveobjekt. NICHT VERWENDEN.}
 {5100}{}{Dynamit}
-{5101}{}{A high explosive, consisting of nitroglycerin mixed with the absorbent substance kieselguhr. Includes a timer.}
+{5101}{}{Hochempfindlicher Sprengstoff aus Nitroglyzerin, vermischt mit Kieselguhr als Absorptionsmittel. Mit Timer.}
 {5200}{}{Geigerzähler}
 {5201}{}{Geigerzähler Wattz Electronics C-Radz. Ermittelt Existenz und Stärke von Strahlungsfeldern.}
 {5300}{}{Mentats}
-{5301}{}{A pillbox of mind-altering drugs. Increases memory related functions, and speeds other mental processes. Highly addictive.}
+{5301}{}{Pillenschachtel mit bewusstseinsverändernden Drogen. Verbessert gedächtnisrelevante Funktionen und beschleunigt andere mentale Vorgänge. Wirkt stark suchterzeugend.}
 {5400}{}{Stealth Boy}
 {5401}{}{Persönliche Tarnkappe RobCo Stealth Boy 3001. Erzeugt ein Modulationsfeld, das reflektiertes Licht von einer Seite auf die andere überträgt.}
 {5500}{}{Steuerchip}
@@ -113,7 +113,7 @@
 {5700}{}{Wanze}
 {5701}{}{Miniaturmikrophon und -übertragungsgerät.}
 {5800}{}{Band}
-{5801}{}{Holodisk-Band der Marke Wattz Electronics. Dieses Band scheint in sehr schlechtem Zustand zu sein.}
+{5801}{}{Holo-Disk-Band der Marke Wattz Electronics. Dieses Band scheint in sehr schlechtem Zustand zu sein.}
 {5900}{}{Bewegungssensor}
 {5901}{}{Bewegungssensor von Wattz Electronics, Modell C-U. Stellt Bewegungen biologischer Materie mit Hilfe eines getunten Radarempfängers über eine Entfernung von mehreren Metern fest. Wenn du einen in deinem Inventar hast, kannst du auch Begegnungen im Freien vermeiden (+20% auf Naturbursche).}
 {6000}{}{Regal}
@@ -141,7 +141,7 @@
 {7100}{}{Obst}
 {7101}{}{Sonderbares Obst. Ohne Konservierungsstoffe und zusätzliche Farbstoffe.}
 {7200}{}{Aktentasche}
-{7201}{}{Eine Aktentasche aus Leder mit einem Etikett "Made in USA". Guter Zustand, aber das Zahlenschloß ist kaputt.}
+{7201}{}{Eine Aktentasche aus Leder mit einem Etikett "Made in USA". Guter Zustand, aber das Zahlenschloss ist kaputt.}
 {7300}{}{Fachlexika}
 {7301}{}{Verschiedene Bücher mit Informationen zu unterschiedlichen Bereichen der Wissenschaft.}
 {7400}{}{Lederjacke}
@@ -159,9 +159,9 @@
 {8000}{}{Erste-Hilfe-Buch}
 {8001}{}{Lehrbuch über Theorie und Praxis der Ersten Hilfe.}
 {8100}{}{Leguan am Spieß}
-{8101}{}{A cooked iguana, roasted in its own skin.}
+{8101}{}{Gebratener Leguan, in der Haut geröstet.}
 {8200}{}{Schlüssel}
-{8201}{}{Ein Schlüssel. Mit einem Schlüssel wird ein bestimmtes Schloß geöffnet.}
+{8201}{}{Ein Schlüssel. Mit einem Schlüssel wird ein bestimmtes Schloss geöffnet.}
 {8300}{}{Schlüsselbund}
 {8301}{}{Ring mit verschiedenen Schlüsseln.}
 {8400}{}{Dietriche}
@@ -179,7 +179,7 @@
 {9000}{}{Rucksack}
 {9001}{}{Normaler Rucksack mit optionalen Tragriemen.}
 {9100}{}{Arzttasche}
-{9101}{}{This brown bag contains instruments and drugs used by doctors in the application of their trade.}
+{9101}{}{Diese braune Tasche enthält Instrumente und Präparate, die Ärzte bei der Ausübung ihres Berufs benötigen.}
 {9200}{}{Skorpionschwanz}
 {9201}{}{Der abgetrennte Schwanz eines Radskorpions.}
 {9300}{}{Tasche}
@@ -193,11 +193,11 @@
 {9700}{}{Blaue Karte}
 {9701}{}{Elektronischer Sicherheitsschlüssel, blaue Farbkodierung.}
 {9800}{}{Schrott}
-{9801}{}{Ein Haufen Schrott. Ein bißchen was von allem.}
+{9801}{}{Ein Haufen Schrott. Ein bisschen was von allem.}
 {9900}{}{Goldmedallion}
 {9901}{}{Ein wertvolles Goldmedallion.}
 {10000}{}{Funkgerät}
-{10001}{}{Funkgerät vom Modell 2043B von Wattz Electronics. Verläßlich, robust und unauffällig. Mit optionaler RS 121-Schnittstelle.}
+{10001}{}{Funkgerät vom Modell 2043B von Wattz Electronics. Verlässlich, robust und unauffällig. Mit optionaler RS 121-Schnittstelle.}
 {10100}{}{Feuerzeug}
 {10101}{}{Silbernes Butanfeuerzeug, in gutem Zustand.}
 {10200}{}{Kugeln und Kanonen}
@@ -215,7 +215,7 @@
 {10800}{}{Knochen}
 {10801}{}{Eine Sammlung seltsamer Knochen}
 {10900}{}{Rad-X}
-{10901}{}{Anti-radiation drugs to be taken before exposure. No known side effects.}
+{10901}{}{Antistrahlenmittel zum Einnehmen vor der Strahlungsaussetzung. Nebenwirkungen sind nicht bekannt.}
 {11000}{}{Psycho}
 {11001}{}{Einzigartiges Präparat, das seltsame, unbekannte chemische Substanzen enthält, die vermutlich militärischen Ursprungs sind. Soll die Kampffähigkeiten eines Soldaten verbessern.}
 {11100}{}{.44-VMG}
@@ -223,7 +223,7 @@
 {11200}{}{Urne}
 {11201}{}{Wunderschöne Goldurne, auf deren Vorderseite der Name "Harriet" eingraviert ist. Gefüllt mit Asche.}
 {11300}{}{Robe}
-{11301}{}{Robes from the Children of the Cathedral.}
+{11301}{}{Roben von den Children of the Cathedral.}
 {11400}{}{Tanglers Hand}
 {11401}{}{Kybernetisches Greifwerkzeug in Form einer Hand. Wurde durch unsachgemäße Entfernung beschädigt.}
 {11500}{}{Superhammer}
@@ -235,7 +235,7 @@
 {11800}{}{Lasergewehr}
 {11801}{}{Leistungsstarkes Wattz 2000-Lasergewehr mit verlängertem Lauf für eine größere Reichweite. Mindest-ST: 6.}
 {11900}{}{Halskette}
-{11901}{}{Teuer wirkende Halskette aus Silber, Gold und gepreßten Diamanten.}
+{11901}{}{Teuer wirkende Halskette aus Silber, Gold und gepressten Diamanten.}
 {12000}{}{Alien Blaster}
 {12001}{}{Seltsame Pistole, die offensichtlich von Außerirdischen stammt. Mindest-ST: 2.}
 {12100}{}{9mm-Kugeln}
@@ -325,7 +325,7 @@
 {16300}{}{Luftgewehrgeschosse}
 {16301}{}{Pack Luftgewehrgeschosse von vor dem Krieg. Ausgezeichneter Zustand. Edelstahl.}
 {16400}{}{Band der Brotherhood}
-{16401}{}{Eine Holodisk über die Brotherhood of Steel.}
+{16401}{}{Eine Holo-Disk über die Brotherhood of Steel.}
 {16500}{}{Echsenstand}
 {16501}{}{Bobs Echsengrill. Wer ist nicht verrückt nach frischgerösteten Leguanen?}
 {16600}{}{Tisch}
@@ -377,19 +377,19 @@
 {18900}{}{Spind}
 {18901}{}{Ein Spind.}
 {19000}{}{FEV-Disk}
-{19001}{}{A holotape containing medical information. Can be used to enter information into your Pip-Boy.}
+{19001}{}{Holoband mit medizinischen Informationen. Hiermit können Informationen in deinen PIPBoy eingegeben werden.}
 {19100}{}{Sicherheits-CD}
-{19101}{}{A holotape with the writing "Security Log" on the label. You can use it to transfer the data it contains to your Pip-Boy.}
+{19101}{}{Ein Holoband mit der Beschriftung "Sicherheitsprotokoll". Die darauf enthaltenen Daten können auf deinen PIPBoy übertragen werden.}
 {19200}{}{Alpha-Experiment-Disk}
 {19201}{}{Die Beschriftung auf diesem Holoband heißt: "Protokoll Alpha-Experiment"}
 {19300}{}{Delta-Experiment-Disk}
 {19301}{}{Die Beschriftung auf diesem Holoband lautet: "Protokoll Delta-Experiment "}
 {19400}{}{Vrees Experiment-Disk}
-{19401}{}{This holotape has been updated with medical evidence from Vree of the BoS. It can be used to transfer the data to your Pip-Boy.}
+{19401}{}{Auf diesem Holoband wurden die neuesten medizinischen Erkenntnisse von Vree von der Brotherhood of Steel gespeichert. Die darauf enthaltenen Daten können auf deinen PIPBoy übertragen werden.}
 {19500}{}{Ehrencodex der Brotherhood}
-{19501}{}{A holotape, with a rough symbol of the Brotherhood of Steel inscribed on it. Use the tape to transfer the data to your Pip-Boy.}
+{19501}{}{Ein Holoband mit einem groben Symbol der Brotherhood of Steel als Inschrift. Übertrage die darauf enthaltenen Daten auf deinen PIPBoy.}
 {19600}{}{Mutantenübertragungen}
-{19601}{}{This holotape looks like it was set to record audio data from a radio. Use the tape to transfer the information to your Pip-Boy.}
+{19601}{}{Dieses Holoband wurde wahrscheinlich dafür verwendet, Audiodaten von einem Funkgerät aufzuzeichnen. Übertrage die darauf enthaltenen Daten auf deinen PIPBoy.}
 {19700}{}{Kiste}
 {19800}{}{Kiste}
 {19900}{}{Kiste}
@@ -401,7 +401,7 @@
 {20500}{}{Leuchtrakete}
 {20501}{}{Leuchtrakete. Erzeugt für kurze Zeit Licht. Das Papier ist etwas verwittert, ansonsten ist sie in gutem Zustand. Sie leuchtet.}
 {20600}{}{Dynamit}
-{20601}{}{A high explosive, consisting of nitroglycerin mixed with the absorbent substance kieselguhr. Includes a timer, which is ticking.}
+{20601}{}{Hochempfindlicher Sprengstoff aus Nitroglyzerin, vermischt mit Kieselguhr als Absorptionsmittel. Mit tickendem Timer.}
 {20700}{}{Geigerzähler}
 {20701}{}{Geigerzähler Wattz Electronics C-Radz. Ermittelt Existenz und Stärke von Strahlungsfeldern. Er ist eingeschaltet.}
 {20800}{}{Bewegungssensor}
@@ -417,9 +417,9 @@
 {21300}{}{Überreste von Gizmo}
 {21301}{}{Gizmo, der ehemalige Oberverbrecher von Junktown, ist tot. Und riecht ziemlich streng.}
 {21400}{}{Schreibtisch}
-{21401}{}{Ein Schreibtisch. Nach näherer Untersuchung entscheidest du, daß es immer noch ein Schreibtisch ist.}
+{21401}{}{Ein Schreibtisch. Nach näherer Untersuchung entscheidest du, dass es immer noch ein Schreibtisch ist.}
 {21500}{}{Geschichte der Brotherhood}
-{21501}{}{A holotape containing information relating to the Brotherhood of Steel. Can be used to enter information into your Pip-Boy 2000.}
+{21501}{}{Ein Holoband, das Informationen über die Brotherhood of Steel enthält. Kann zur Eingabe von Informationen in deinen PIPBoy 2000 verwendet werden.}
 {21600}{}{Maxsons Geschichte}
 {21700}{}{Maxsons Tagebuch}
 {21800}{}{Leichte Heilung}
@@ -445,7 +445,7 @@
 {22800}{}{Technische Anleitung}
 {22801}{}{Eine Reparaturanleitung für die Powerrüstung T-51b.}
 {22900}{}{Kleines Maschinenteil}
-{22901}{}{A damaged piece of Power Armor. It's very clean and could be a trophy of some kind.}
+{22901}{}{Eine beschädigte Powerrüstung. Sie wirkt einwandfrei und könnte eine Art Trophäe sein.}
 {23000}{}{Vaultaufzeichnungen}
 {23001}{}{Zusammenstellung von Ereignissen und wichtigen Aufzeichnungen eines Vault-Computersystems. Möglicherweise beschädigt.}
 {23100}{}{Sicherheitscode der Militärbasis}
@@ -495,11 +495,11 @@
 {25300}{}{Brennstoff-Steuerung}
 {25301}{}{Dieser Chip steuert den Fluß des Kraftstoffs in den Elektromotor eines Autos. Bei vielen Fahrern ist der Chip schnell durchgebrannt, weil sie zu oft zu schnell beschleunigen. Kann dennoch ganz nützlich sein - wenn man nur ein Auto hätte, in das man den Chip einbauen könnte.}
 {25400}{}{Brennstoffzellenregler}
-{25401}{}{Einige Autobesitzer haben diesen Regulator eingebaut, mit dem sich die Kilometerleistung bis zum nächsten Laden verdoppeln läßt. Den meisten Autobesitzern ist es aber egal, wieviel ihr Wagen verbraucht, da Strom nicht teuer und reichlich vorhanden ist, also was soll's.}
+{25401}{}{Einige Autobesitzer haben diesen Regulator eingebaut, mit dem sich die Kilometerleistung bis zum nächsten Laden verdoppeln lässt. Den meisten Autobesitzern ist es aber egal, wieviel ihr Wagen verbraucht, da Strom nicht teuer und reichlich vorhanden ist, also was soll's.}
 {25500}{}{Tagesausweis}
 {25501}{}{Dieses leicht zerknitterte Stück Papier gewährt dir Zugang zu allen Gebieten von Vault City mit Ausnahme der Vault selbst. Nur während der Tagesstunden gültig.}
 {25600}{}{"Bürgerschaftspapiere"}
-{25601}{}{Gefälschte Bürgerschaftspapiere. Sie sehen ziemlich echt aus, aber du bezweifelst, daß sie eine sorgfältige Kontrolle überstehen würden.}
+{25601}{}{Gefälschte Bürgerschaftspapiere. Sie sehen ziemlich echt aus, aber du bezweifelst, dass sie eine sorgfältige Kontrolle überstehen würden.}
 {25700}{}{Cornelius' goldene Uhr}
 {25701}{}{Altertümlicher Zeitmesser, auch als Taschenuhr bekannt. Für dieses gute Stück ist die Zeit schon lange stehengeblieben.}
 {25800}{}{Hydroelektrisches Teil}
@@ -553,7 +553,7 @@
 {28200}{}{Cliftons Auge}
 {28201}{}{Ein kleines Glas, in dem ein menschliches Auge in einer Flüssigkeit schwimmt. Auf dem Etikett steht General Clifton.}
 {28300}{}{Tommy-Gewehr}
-{28301}{}{Diese MP Thompson M1928 ist eine finster wirkende Waffe; wenn du sie hältst, verspürst du den Drang, einen Schlapphut aufzusetzen und mit den Fingern zu knacken. Das Thompson wird von einem Trommelmagazin mit 50 Schuß versorgt. Mindest-ST: 6.}
+{28301}{}{Diese MP Thompson M1928 ist eine finster wirkende Waffe; wenn du sie hältst, verspürst du den Drang, einen Schlapphut aufzusetzen und mit den Fingern zu knacken. Das Thompson wird von einem Trommelmagazin mit 50 Schuss versorgt. Mindest-ST: 6.}
 {28400}{}{Schnetzelfleisch}
 {28401}{}{Diese geräucherten und getrockneten Fleischstücke bleiben auch nach vielen Jahren noch ein echt nahrhaftes Kauerlebnis.}
 {28500}{}{Radskorpion-Teile}
@@ -561,7 +561,7 @@
 {28600}{}{Feuerholz}
 {28601}{}{Ein Haufen Feuerholz und Zunder.}
 {28700}{}{Jagdgewehr mit ZF}
-{28701}{}{Es gibt nichts Schöneres als das überraschte Gesicht deines Ziels. Das Ziel- fernrohr mit 20facher Vergrößerung an diesem Jagdgewehr macht alles viel leichter. Zielgenau vom ersten bis zum letzten Schuß, egal, auf welche Art von Ziel du schießt. Mindest-ST: 5.}
+{28701}{}{Es gibt nichts Schöneres als das überraschte Gesicht deines Ziels. Das Ziel- fernrohr mit 20facher Vergrößerung an diesem Jagdgewehr macht alles viel leichter. Zielgenau vom ersten bis zum letzten Schuss, egal, auf welche Art von Ziel du schießt. Mindest-ST: 5.}
 {28800}{}{Brennstoffzelle für das Auto}
 {28801}{}{Eine Brennstoffzelle für das Auto.}
 {28900}{}{Schaufel}
@@ -574,25 +574,25 @@
 {29201}{}{Ein Paar Boxhandschuhe, die leicht nach Schweiß riechen. Sie scheinen einiges miterlebt zu haben: Viele alte Blutflecken sind zu sehen.}
 {29300}{}{Plattierte Boxhandschuhe}
 {29301}{}{Jemand hat "aus Versehen" Metallplatten in diese Boxhandschuhe geschoben. Technisch gesehen könnte das als Betrug angesehen werden, doch du wertest es als verstärkte Möglichkeit, knochensplitternde Verletzungen zuzufügen.}
-{29400}{}{Holodisk von Vault 13}
-{29401}{}{Eine Holodisk, auf der angeblich der Standort von Vault 13 verzeichnet ist.}
+{29400}{}{Holo-Disk von Vault 13}
+{29401}{}{Eine Holo-Disk, auf der angeblich der Standort von Vault 13 verzeichnet ist.}
 {29500}{}{Käse-Chips}
 {29501}{}{Eine Schachtel Chips mit Käsegeschmack. Außerordentlich lecker.}
 {29600}{}{H&K P90c}
-{29601}{}{Die Heckler & Koch P90c kam erst zu Beginn des Krieges auf. Durch das Bullpup-Layout sowie das kompakte Design der Waffe ist sie leicht zu handhaben. Die robuste P90c wird oft für ihre Zuverlässigkeit sowie Schußkraft trotz des kurzen Laufes gelobt. Mindest-ST: 4.}
+{29601}{}{Die Heckler & Koch P90c kam erst zu Beginn des Krieges auf. Durch das Bullpup-Layout sowie das kompakte Design der Waffe ist sie leicht zu handhaben. Die robuste P90c wird oft für ihre Zuverlässigkeit sowie Schusskraft trotz des kurzen Laufes gelobt. Mindest-ST: 4.}
 {29700}{}{Metallstab}
 {29701}{}{Das ist ein langer Metallstab. Was hattest du denn gedacht?}
 {29800}{}{Trapperstadtschlüssel}
 {29801}{}{Ein gewöhnlicher Schlüssel, den du in der Nähe von Vault 15 gefunden hast.}
 {29900}{}{Rohrgewehr}
-{29901}{}{Dies ist ein handgefertigtes Gewehr für einen Schuß. Mindest-ST: 5.}
+{29901}{}{Dies ist ein handgefertigtes Gewehr für einen Schuss. Mindest-ST: 5.}
 {30000}{}{Zip-Pistole}
-{30001}{}{Eine handgefertigte Pistole für einen Schuß. Mindest-ST: 4.}
+{30001}{}{Eine handgefertigte Pistole für einen Schuss. Mindest-ST: 4.}
 {30100}{}{Klemmbrett}
 {30101}{}{Dies ist ein Klemmbrett mit einem Kühlmittelbericht.}
-{30200}{}{Gecko-Holodisk}
+{30200}{}{Gecko-Holo-Disk}
 {30201}{}{Die Beschriftung auf diesem Holoband lautet: "Wirtschaftsdaten Gecko." Die Auslegung der ganzen technischen Diagramme, Tabellen und Formeln ist recht schwierig, aber es sieht so aus, als sollten die Vorteile eines Bündnisses zwischen Vault City und Gecko betont werden.}
-{30300}{}{Reaktor-Holodisk}
+{30300}{}{Reaktor-Holo-Disk}
 {30301}{}{Die Beschriftung auf diesem Holoband lautet: "Reaktorleistungsdaten Gecko." Auf dieser Disk befindet sich eine Reihe von Zahlen, mit denen du nichts anfangen kannst. Bestimmt enthält die Disk wichtige Informationen, die irgend jemandem sehr viel bedeuten.}
 {30400}{}{Kartenspiel "Tragic"}
 {30401}{}{Dies ist ein Päckchen Sammelkarten. Könnte wohl ein teueres Hobby sein, wenn man mal angebissen hat.}
@@ -613,7 +613,7 @@
 {31200}{}{Ersatzteilantrag}
 {31201}{}{Dies ist ein Ersatzteilantrag.}
 {31300}{}{44er Magnum-Revolver}
-{31301}{}{Im Hinblick darauf, daß dies die stärkste Handfeuerwaffe der Welt ist, die deinen Kopf einfach wegblasen kann, solltest du dich fragen, ob du Glück gehabt hast. Also, was ist? Mindest-ST: 5.}
+{31301}{}{Im Hinblick darauf, dass dies die stärkste Handfeuerwaffe der Welt ist, die deinen Kopf einfach wegblasen kann, solltest du dich fragen, ob du Glück gehabt hast. Also, was ist? Mindest-ST: 5.}
 {31400}{}{Kondom (Blaue Packung)}
 {31401}{}{Ein echtes Jimmy Hats, sehr zuverlässig. Dieses ist zur Erhöhung ihres Vergnügens gerippt.}
 {31500}{}{Kondom (Grüne Packung)}
@@ -645,7 +645,7 @@
 {32800}{}{Magische 8er-Kugel}
 {32801}{}{Diese schwarze Kugel ist ein seltsames Vorhersagegerät... Ein Fensterchen an der Oberseite scheint die Zukunft vorhersagen zu können. Die Menschen vor dem Krieg müssen wahre Genies gewesen sein!}
 {32900}{}{Mutationsserum}
-{32901}{}{Seltsam aussehendes organisches Gebräu, daß vermutlich den Mutationsfaktor in Menschen umkehren könnte.}
+{32901}{}{Seltsam aussehendes organisches Gebräu, dass vermutlich den Mutationsfaktor in Menschen umkehren könnte.}
 {33000}{}{Vertibird-Wrack}
 {33001}{}{Wrack eines Vertibirds. Scheint vor Monaten hier abgestürzt zu sein.}
 {33100}{}{Cat's Paw Nummer 5}
@@ -660,15 +660,15 @@
 {33501}{}{Thomas Moore hat dich gebeten, seine Aktentasche aus Brahminleder zur Familie Bishop in New Reno zu bringen. Sie ist fest verschlossen, und du kannst sie wohl nicht öffnen.}
 {33600}{}{Moores Aktentasche}
 {33601}{}{Thomas Moore hat dich gebeten, seine Aktentasche aus Brahminleder zur Familie Bishop in New Reno zu bringen. Sie ist fest verschlossen, und du kannst sie wohl nicht öffnen.}
-{33700}{}{Lynettes Holodisk}
-{33701}{}{Das ist die Holodisk, die du von Lynette bekommen hast.}
-{33800}{}{Westins Holodisk}
-{33801}{}{Das ist die Holodisk, die du von Westin bekommen hast.}
-{33900}{}{NCR-Spion-Holodisk}
-{33901}{}{Diese Holodisk enthält Berichte über die Termine der NCR-Karawane sowie Sicherheitsinformationen. Sie ist an Darion adressiert und mit "F" abgezeichnet. Es ist klar, wie die Gangster mit dieser Info ihrer Gefangennahme aus dem Weg gehen konnten.}
+{33700}{}{Lynettes Holo-Disk}
+{33701}{}{Das ist die Holo-Disk, die du von Lynette bekommen hast.}
+{33800}{}{Westins Holo-Disk}
+{33801}{}{Das ist die Holo-Disk, die du von Westin bekommen hast.}
+{33900}{}{NCR-Spion-Holo-Disk}
+{33901}{}{Diese Holo-Disk enthält Berichte über die Termine der NCR-Karawane sowie Sicherheitsinformationen. Sie ist an Darion adressiert und mit "F" abgezeichnet. Es ist klar, wie die Gangster mit dieser Info ihrer Gefangennahme aus dem Weg gehen konnten.}
 {34000}{}{Arztpapiere}
 {34001}{}{Mehrere äußerst detailgenaue Pläne für eine Wacheinheit mit kybernetischen Hunden. Damit und den geeigneten Instrumenten kann jemand eventuell einen Robodog bauen.}
-{34100}{}{Präsidentenpaß}
+{34100}{}{Präsidentenpass}
 {34101}{}{Der Träger dieses Dokuments besitzt laut Ermächtigung der Präsidentin der New California Republic Sicherheitsbefugnis A erster Klasse. Unterschrieben von Präsidentin Tandi.}
 {34200}{}{Rangerabzeichen}
 {34201}{}{Dieses Abzeichen weist dich als offiziellen NCR-Ranger aus. Sieh mal, es hat sogar ein Code-Rädchen!}
@@ -750,9 +750,9 @@
 {38600}{}{Louisville Slugger}
 {38601}{}{Dieser typisch amerikanische Baseballschläger aus Hartholz schlägt nicht nur den Ball weit übers Feld hinaus.    Mindest-ST: 4.}
 {38700}{}{M60}
-{38701}{}{This relatively light machine gun was prized by militaries around the world for its high rate of fire. This reliable, battlefield-proven design, was used on vehicles and for squad level fire-support. Min ST: 7.}
+{38701}{}{Dieses recht leichte Maschinengewehr wird von Militärs weltweit für seine große Schusskraft gelobt. Das verlässliche, kampferprobte Design wurde auf Fahrzeugen montiert und zum Feuerschutz für Schwadronen verwendet. Mindest-ST: 7.}
 {38800}{}{Nadelpistole}
-{38801}{}{Du vermutest, daß diese Bringham-Nadelpistole einst für wissen- schaftliche Feldstudien eingesetzt wurde. Ihre Munition besteht aus kleinen harten Kunststoffpfeilen. Mindest-ST: 3.}
+{38801}{}{Du vermutest, dass diese Bringham-Nadelpistole einst für wissen- schaftliche Feldstudien eingesetzt wurde. Ihre Munition besteht aus kleinen harten Kunststoffpfeilen. Mindest-ST: 3.}
 {38900}{}{Kleingeschütz Avenger}
 {38901}{}{Rockwell baute den Avenger als Ersatz für das allmählich aus der Mode kommende Kleingeschütz CZ53. Zu den Verbesserungen am Design des Avengers zählen gekühlte und mit Chrom ausgelegte Läufe. Hierdurch werden Reichweite und tödliche Wirkung noch gesteigert. Mindest-ST: 7.}
 {39000}{}{Solar Scorcher}
@@ -780,7 +780,7 @@
 {40100}{}{Lasergewehr (Erw. Kap.)}
 {40101}{}{Bei dem Lasergewehr Wattz 2000 wurde das Ladesystem aufgerüstet sowie ein spezieller Recyclingchip installiert. Dadurch kann die Abnutzung der Mikrofusionszelle um 50% vermindert werden. Mindest-ST: 6.}
 {40200}{}{Magneto-Laserpistole}
-{40201}{}{Die Laserpistole Wattz 1000 ist mit einem Zielsuchsystem über ein magnetisches Feld aufgerüstet worden. Dadurch wird der Laserstrahl gebündelt, so daß die Waffe zusätzliche Durchschlagkraft erhält. Mindest-ST: 3.}
+{40201}{}{Die Laserpistole Wattz 1000 ist mit einem Zielsuchsystem über ein magnetisches Feld aufgerüstet worden. Dadurch wird der Laserstrahl gebündelt, so dass die Waffe zusätzliche Durchschlagkraft erhält. Mindest-ST: 3.}
 {40300}{}{FN FAL (Nachtsicht)}
 {40301}{}{Diese Waffe ist häufiger von kämpfenden Truppen eingesetzt worden als jede andere. Zuverlässig - unabhängig von Terrain und taktischer Lage. Sie wurde mit einem Nachtsichtgerät erweitert, um die Zielgenauigkeit bei Nacht zu erhöhen. Mindest-ST: 5.}
 {40400}{}{Desert Eagle (Erw. Mag.)}
@@ -788,13 +788,13 @@
 {40500}{}{Sturmgewehr (Erw. Mag.)}
 {40501}{}{Dieses Sturmgewehr hat einen erweiterten, militärtauglichen Munitionsclip. Durch die erweiterte Magazinkapazität hat man im Kampf Spaß wie nie zuvor.     Mindest-ST: 5.}
 {40600}{}{Plasmapistole (Erw. Kap.)}
-{40601}{}{Bei der Plasmapistole Glock 86 wurde die Magnetkammer neu ausgerichtet, um die Abnutzung der Energiezelle zu minimieren. Die Effizienz wird dadurch verdoppelt, so daß mit einer Batterieladung mehr Schüsse abgegeben werden können. Mindest-ST: 4.}
+{40601}{}{Bei der Plasmapistole Glock 86 wurde die Magnetkammer neu ausgerichtet, um die Abnutzung der Energiezelle zu minimieren. Die Effizienz wird dadurch verdoppelt, so dass mit einer Batterieladung mehr Schüsse abgegeben werden können. Mindest-ST: 4.}
 {40700}{}{Superpower-Faust}
 {40701}{}{Die Powerfaust "Big Frigger" von BeatCo. Von vielen als ultimatives Hilfsmittel im unbewaffneten Kampf angesehen. Dieses Exemplar hat durch aufgerüstete Power- Servos noch höhere Schlagkraft. Benötigt kleine Energiezellen. Mindest-ST: 1.}
 {40800}{}{Koffer für Feldärzte}
 {40801}{}{Kleiner Koffer, der grundlegende medizinische Ausrüstung enthält. Bandagen, Verbände, Desinfektionsspray usw.}
 {40900}{}{Sanitätertasche}
-{40901}{}{This bag contains instruments and drugs used by paramedics in the field. The tools contained are specifically designed for high trauma and emergency cases.}
+{40901}{}{Diese Tasche enthält Instrumente und Präparate, die Sanitäter im Feld einsetzen. Die Instrumente sind speziell für schwere Trauma- und Notfälle ausgelegt.}
 {41000}{}{Großer Dietrichsatz}
 {41001}{}{Der große Dietrichsatz enthält alle notwendigen Haken und Spann- schlüssel zum Öffnen konventioneller Stift– u. Zuhaltungsschlösser. Dieser Satz enthält auch Spezialwerkzeug für schwierigere Schließmechanismen.}
 {41100}{}{Elektr. Dietrich MKII}
@@ -802,7 +802,7 @@
 {41200}{}{Ölkanister}
 {41201}{}{Du siehst einen Kanister Armor-Go. Ein polymerisiertes Schmiermittel des Raumfahrtzeitalters für Powerrüstungen.}
 {41300}{}{Stall-Kennmarke}
-{41301}{}{Temporärer Ausweis mit rotem Streifen, der vermutlich angibt, daß du ein "Forscher der Ställe" bist.}
+{41301}{}{Temporärer Ausweis mit rotem Streifen, der vermutlich angibt, dass du ein "Forscher der Ställe" bist.}
 {41400}{}{Barackenschlüssel}
 {41401}{}{Ein gewöhnlicher Schlüssel, den du in der Nähe von Vault 15 gefunden hast.}
 {41500}{}{Brille}
@@ -814,7 +814,7 @@
 {41800}{}{Gifttank}
 {41801}{}{Dieser Tank ähnelt auf verdächtige Weise einem Sauerstofftank, doch auf der Unterseite ist ein Totenkopf eingraviert. Hättest du ihn nicht genau untersucht, hättest du das Symbol nicht gesehen.}
 {41900}{}{Minenteile}
-{41901}{}{Du siehst einen Haufen Teile mit der deutlichen Beschriftung "GX-9-Luftreiniger". Mit deiner unvergleichlichen Kombinationsgabe entscheidest du, daß es sich vermutlich um Ersatzteile für einen kaputten Luftreiniger handelt.}
+{41901}{}{Du siehst einen Haufen Teile mit der deutlichen Beschriftung "GX-9-Luftreiniger". Mit deiner unvergleichlichen Kombinationsgabe entscheidest du, dass es sich vermutlich um Ersatzteile für einen kaputten Luftreiniger handelt.}
 {42000}{}{Morningstar-Gutschein}
 {42001}{}{Dieser kleine Gutschein wird vermutlich zur Bezahlung der Minenarbeiter der Morningstar-Mine verwendet.}
 {42100}{}{Heilige Handgranate}
@@ -824,7 +824,7 @@
 {42300}{}{Goldnugget}
 {42301}{}{Ein Goldklumpen.}
 {42400}{}{Monumentsplitter}
-{42401}{}{Ein Stück des schlecht gelaunten Steinmonuments, das du draußen in der Wüste gefunden hast. Viele aus deinem Dorf würden es sicher als heilige Reliquie ansehen, aber irgendwie hast du das Gefühl, daß du reingelegt wurdest.}
+{42401}{}{Ein Stück des schlecht gelaunten Steinmonuments, das du draußen in der Wüste gefunden hast. Viele aus deinem Dorf würden es sicher als heilige Reliquie ansehen, aber irgendwie hast du das Gefühl, dass du reingelegt wurdest.}
 {42500}{}{Steinkopf}
 {42501}{}{Riesiges Steinmonument.}
 {42600}{}{Uranerz}
@@ -854,7 +854,7 @@
 {43801}{}{Ein Schlüssel zur Tür des Tempels von Arroyo.}
 {43900}{}{Taschenfussel}
 {43901}{}{Fussel, die du in einer Tasche gefunden hast.}
-{44000}{}{Biomed Gel}
+{44000}{}{Biomed-Gel}
 {44001}{}{Eine Flasche Bio-Gel,   das in der Biomedizin eingesetzt wird.}
 {44100}{}{Blondies Dogtags}
 {44101}{}{Bei diesen Marken wurde der Name des Besitzers weggekratzt und der Name "Blondie" auf die Rückseite geschmiert. Unter dem Namen steht eine "11".}
@@ -868,8 +868,8 @@
 {44501}{}{Abzeichen, das der Sheriff einer Stadt trägt.}
 {44600}{}{Vertibird-Pläne}
 {44601}{}{Pläne für den Bau von Vertibirds.}
-{44700}{}{Bishops Holodisk}
-{44701}{}{Diese Holodisk enthält belastende Infor- mationen aus Bishops geheimen Verhandlungen mit der NCR. Offensicht- lich hat Bishop Söldner angestellt, die Vault City angreifen sollten, damit Vault City mili- tärische Unterstützung aus der NCR anfordert. Diese Holodisk hat nur Audiofunktionen. Vault City könnte daran interessiert sein.}
+{44700}{}{Bishops Holo-Disk}
+{44701}{}{Diese Holo-Disk enthält belastende Infor- mationen aus Bishops geheimen Verhandlungen mit der NCR. Offensicht- lich hat Bishop Söldner angestellt, die Vault City angreifen sollten, damit Vault City mili- tärische Unterstützung aus der NCR anfordert. Diese Holo-Disk hat nur Audiofunktionen. Vault City könnte daran interessiert sein.}
 {44800}{}{Buchhaltungsbuch}
 {44801}{}{Dieses Buchhaltungsbuch listet eine Reihe monatlicher Zahlungen an die Söldnergang durch die Familie Bishop aus New Reno auf. Die Zahlungen hängen stark davon ab, wieviel "Druck" die Söldner auf Vault City ausüben. Vault City könnte daran interessiert sein.}
 {44900}{}{Unbenutzt}
@@ -887,24 +887,24 @@
 {45500}{}{Kofferraum}
 {45501}{}{Der Kofferraum ist ideal für die Unterbringung deiner Sachen.}
 {45600}{}{Zellenschlüssel}
-{45601}{}{Dieser Schlüssel paßt auf die Zellentür in Broken Hills.}
+{45601}{}{Dieser Schlüssel passt auf die Zellentür in Broken Hills.}
 {45700}{}{Feldbericht der Hubologin}
 {45701}{}{Feldbericht für die Mitglieder des wahren Glaubens.}
-{45800}{}{M.B.-Holodisk 5}
+{45800}{}{M.B.-Holo-Disk 5}
 {45801}{}{Auf dem Etikett steht: Nachricht an CHQ - Vertraulich.}
-{45900}{}{M.B.-Holodisk 1}
-{45901}{}{The label reads: Radio transmission log checkpoint 1.}
-{46000}{}{M.B.-Holodisk 2}
+{45900}{}{M.B.-Holo-Disk 1}
+{45901}{}{Auf dem Etikett steht: Protokoll der Funkübertragung am Kontrollpunkt 1.}
+{46000}{}{M.B.-Holo-Disk 2}
 {46001}{}{Auf dem Etikett steht: Protokoll der Funkübertragung am zweiten Kontrollpunkt.}
-{46100}{}{M.B.-Holodisk 3}
+{46100}{}{M.B.-Holo-Disk 3}
 {46101}{}{Auf dem Etikett steht: Protokoll der Funkübertragung am dritten Kontrollpunkt.}
-{46200}{}{M.B.-Holodisk 4}
+{46200}{}{M.B.-Holo-Disk 4}
 {46201}{}{Auf dem Etikett steht: Protokoll der Funkübertragung des Forschungsteams.}
-{46300}{}{Evakuierungs-Holodisk}
+{46300}{}{Evakuierungs-Holo-Disk}
 {46301}{}{Auf dem Etikett steht: Evakuierungsbefehl der Basis.}
-{46400}{}{Experiment-Holodisk}
+{46400}{}{Experiment-Holo-Disk}
 {46401}{}{Auf dem Etikett steht: Forschungsprotokoll.}
-{46500}{}{Medizinische Holodisk}
+{46500}{}{Medizinische Holo-Disk}
 {46501}{}{Auf dem Etikett steht: Medizinisches Protokoll.}
 {46600}{}{Kennwortpapier}
 {46601}{}{Ein gefaltetes Blatt Papier, auf dem das Wort "TSCHAIKOWSKY" steht.}
@@ -912,13 +912,13 @@
 {46800}{}{Smittys Essen}
 {46801}{}{Eine Art Salat und ein Sandwich mit etwas, das wie Brahminfleisch aussieht und mit einer dicken dunkelgelben Sauce bedeckt ist. Als Beilage gibt es auch noch ein seltsam aussehendes, eingemachtes Gemüse.}
 {46900}{}{Rachenputzer}
-{46901}{}{Du beschließt, daß es sich um ein sehr starkes alkoholisches Getränk oder ein Reinigungs-   mittel handeln muß.}
+{46901}{}{Du beschließt, dass es sich um ein sehr starkes alkoholisches Getränk oder ein Reinigungs-   mittel handeln muss.}
 {47000}{}{Ballknebel}
-{47001}{}{Fragwürdiges Hilfsmittel für Sexspielchen. Wenn du nach dem Zweck fragen mußt, willst du die Antwort gar nicht wissen.}
-{47100}{}{"The Lavender Flower"}
+{47001}{}{Fragwürdiges Hilfsmittel für Sexspielchen. Wenn du nach dem Zweck fragen musst, willst du die Antwort gar nicht wissen.}
+{47100}{}{"Die Lavendelblüte"}
 {47101}{}{Sieht nach einem Liebesroman von Dorothy Rixon aus. Auf dem Titelbild liegt eine Frau umgeben von Hunderten von Blüten auf einem Bett.}
-{47200}{}{Hubologen-Holodisk}
-{47201}{}{This holodisk is labeled "Hubology: The Truth Behind the Lies". It looks like it works with your Pip-Boy.}
+{47200}{}{Hubologen-Holo-Disk}
+{47201}{}{Auf dieser Holo-Disk steht "Hubologie: Die Wahrheit hinter den Lügen". Sie sieht aus, als würde sie mit deinem PIPBoy funktionieren.}
 {47300}{}{Mutierter Zeh}
 {47301}{}{Du siehst deinen sechsten Zeh. Er ist ein kleiner mutierter Teil von dir. Aus unbestimmten Gründen empfindest du einen schrecklichen Verlust, als du den kleinen amputierten Zeh ansiehst.}
 {47400}{}{Gänseblümchen}
@@ -927,25 +927,25 @@
 {47501}{}{Unbenutzt}
 {47600}{}{Brief der Erleuchteten}
 {47601}{}{Bericht, der an AHS-9 in San Francisco adressiert ist. Sehr trocken - Tabellen über Ausrichtungen, Spesenabrechnungen und anderes Zeugs, mit dem du deine Zeit nicht zu verschwenden brauchst.}
-{47700}{}{Übertragungs-Holodisk}
+{47700}{}{Übertragungs-Holo-Disk}
 {47701}{}{Auf dem Etikett steht: "Galaxy News Network."}
-{47800}{}{Sierra-Missions-Holodisk}
+{47800}{}{Sierra-Missions-Holo-Disk}
 {47801}{}{Auf dem Etikett steht: "Missionsbericht."}
 {47900}{}{NavCom-Teile}
-{47901}{}{These are computer parts that look like they slot into the interior of a machine. The fact that they say "Poseidon Oil" and "Navigation Computer" on them lead you to believe they fit into a Poseidon Oil Navigation Computer.}
+{47901}{}{Computerteile, die aussehen, als gehörten sie ins Innere eines Computers. Weil "Poseidon-Öl" und "Navigationscomputer" darauf steht, denkst du dir, dass sie in einen Poseidon-Öl Navigationscomputer passen könnten.}
 {48000}{}{Bonus +1 Beweglichkeit}
 {48100}{}{Bonus +1 Intelligenz}
 {48200}{}{Bonus +1 Stärke}
 {48300}{}{Fallout 2 Lösungsbuch}
 {48301}{}{Tja, wenn du DAS mal zu Anfang des verdammten Spiels gehabt hättest, was?}
 {48400}{}{Ohr des Spielers}
-{48401}{}{Das ist dein Ohr. Der Beißer hat es während des Kampfes abgebissen und auf deinen bewußtlosen Körper gespuckt. Wenn du dies liest, lädst du wahrscheinlich bald neu. Vielleicht hat dieses Objekt ja auch einen besonderen Wert für dich.}
+{48401}{}{Das ist dein Ohr. Der Beißer hat es während des Kampfes abgebissen und auf deinen bewusstlosen Körper gespuckt. Wenn du dies liest, lädst du wahrscheinlich bald neu. Vielleicht hat dieses Objekt ja auch einen besonderen Wert für dich.}
 {48500}{}{Ohr des Beißers}
-{48501}{}{Dies ist das Ohr des Beißers. Du hast es abgebissen, nachdem du ihn bewußtlos geprügelt hast. Herzlichen Glückwunsch, daß du ihn besiegt hast. Er ist einer der zähesten unter den inaktiven Figuren im Spiel, besonders dann, wenn du keine Waffen oder Rüstung hast.}
+{48501}{}{Dies ist das Ohr des Beißers. Du hast es abgebissen, nachdem du ihn bewusstlos geprügelt hast. Herzlichen Glückwunsch, dass du ihn besiegt hast. Er ist einer der zähesten unter den inaktiven Figuren im Spiel, besonders dann, wenn du keine Waffen oder Rüstung hast.}
 {48600}{}{Veredeltes Uranerz}
 {48601}{}{Ein Stück Uranerz. Dieses Erz scheint irgendwie bearbeitet worden zu sein. Es kommt dir so schwer vor.}
 {48700}{}{Zettel von Francis}
-{48701}{}{"Zaius, Marcus tut nichts gegen diesen Mutanten-Hasser Jacob und deren Komplizen. Ich hab die geheimen Tunnel entdeckt, die sie als Treffpunkt benutzen. Wenn man da unten ein oder zwei Leichen plaziert, könnte man  das Jacob anhängen.  Laß mich wissen, wenn  du mitmachen willst."     - Unterschrift, Francis}
+{48701}{}{"Zaius, Marcus tut nichts gegen diesen Mutanten-Hasser Jacob und deren Komplizen. Ich hab die geheimen Tunnel entdeckt, die sie als Treffpunkt benutzen. Wenn man da unten ein oder zwei Leichen plaziert, könnte man  das Jacob anhängen.  Lass mich wissen, wenn  du mitmachen willst."     - Unterschrift, Francis}
 {48800}{}{K-9-Motivator}
 {48801}{}{Antriebsmechanismus für einen Roboter der Serie K-9.}
 {48900}{}{Spezielle Boxerwaffe}
@@ -955,7 +955,7 @@
 {49101}{}{Du siehst eine kleine Puppe mit einer großen roten Nase. Aus irgendwelchen Gründen traust du diesem unschuldig aussehenden Kinderspielzeug nicht.}
 {49200}{}{Tanker-SHS}
 {49201}{}{Codierter Passierschlüssel, mit dem du Zugang zu Hochsicherheitsbereichen erhältst.}
-{49300}{}{Holodisk mit Lehren}
+{49300}{}{Holo-Disk mit Lehren}
 {49301}{}{Auf dem Etikett steht: "Lehre der Hubologen."}
 {49400}{}{Kokoweef-Gutschein}
 {49401}{}{Dieser kleine Gutschein wird vermutlich zur Bezahlung der Minenarbeiter der Kokoweef-Mine verwendet.}
@@ -968,7 +968,7 @@
 {49800}{}{Duale Plasmakanone}
 {49801}{}{Nur für Verwendung in  Geschützturm.}
 {49900}{}{PIPBoy-Powerfunktion "Sprache"}
-{49901}{}{Die PIPBoy-Powerfunktion "Sprache" besteht aus einer Speicher-Holodisk, einem Mikrofaserkabel, Kopfhörern sowie einem optischen Sensor, mit dem das rechte Auge des Benutzers abgedeckt wird. Bei Aktivierung überträgt ein optischer Blitz ein gesamtes Wörterbuch ins Gedächtnis des Benutzers, so daß dessen Ausdrucksfähigkeit dauerhaft verbessert wird.}
+{49901}{}{Die PIPBoy-Powerfunktion "Sprache" besteht aus einer Speicher-Holo-Disk, einem Mikrofaserkabel, Kopfhörern sowie einem optischen Sensor, mit dem das rechte Auge des Benutzers abgedeckt wird. Bei Aktivierung überträgt ein optischer Blitz ein gesamtes Wörterbuch ins Gedächtnis des Benutzers, so dass dessen Ausdrucksfähigkeit dauerhaft verbessert wird.}
 {50000}{}{FN FAL HPFA}
 {50001}{}{Dieses Gewehr wurde im Lauf der Geschichte häufiger von kämpfenden Truppen eingesetzt als jedes andere. Eine zuverlässige Waffe, unabhängig von Terrain oder der taktischen Situation. Das HPFA ist durchschlagskräftiger als das normale FN FAL. Mindest-ST: 5.}
 {50100}{}{Wandsafe}
@@ -994,13 +994,13 @@
 {51400}{}{Pool-Billard-Tisch}
 {51500}{}{Pool-Billard-Tisch}
 {51600}{}{PIPBoy-Powerfunktion "Medizin"}
-{51601}{}{Die PIPBoy-Powerfunktion "Medizin" besteht aus einer Speicher-Holodisk, einem Mikrofaserkabel, Kopfhörern sowie einem optischen Sensor, mit dem das rechte Auge des Benutzers abgedeckt wird. Bei Aktivierung überträgt ein optischer Blitz ein gesamtes Wörterbuch von Arztfähigkeiten und medizinischen Kenntnissen in das Gedächtnis des Benutzers, so daß seine Fähigkeiten als Arzt dauerhaft verbessert werden.}
+{51601}{}{Die PIPBoy-Powerfunktion "Medizin" besteht aus einer Speicher-Holo-Disk, einem Mikrofaserkabel, Kopfhörern sowie einem optischen Sensor, mit dem das rechte Auge des Benutzers abgedeckt wird. Bei Aktivierung überträgt ein optischer Blitz ein gesamtes Wörterbuch von Arztfähigkeiten und medizinischen Kenntnissen in das Gedächtnis des Benutzers, so dass seine Fähigkeiten als Arzt dauerhaft verbessert werden.}
 {51700}{}{"Little Jesus"}
 {51701}{}{Diese bösartig aussehende Klinge gehörte einmal Lil' Jesus Mordino. Auf der Oberfläche sind zahlreiche Kratzer und Dellen, aber die Klinge ist scharf wie ein Rasiermesser. In den Griff ist "Little Jesus" eingeritzt.}
 {51800}{}{Duales Kleingewehr}
 {51801}{}{Nur für Verwendung in automatischer Kanone.}
 {51900}{}{Deckel}
-{51901}{}{Dies sind wertlose Deckel. Du hast gehört, daß sie früher als Zahlungsmittel verwendet wurden, aber du hältst das eher für ein Märchen.}
+{51901}{}{Dies sind wertlose Deckel. Du hast gehört, dass sie früher als Zahlungsmittel verwendet wurden, aber du hältst das eher für ein Märchen.}
 {52000}{}{Schweres duales Kleingewehr}
 {52001}{}{Nur für Verwendung in automatischer Kanone.}
 {52100}{}{Sammelbüchse}

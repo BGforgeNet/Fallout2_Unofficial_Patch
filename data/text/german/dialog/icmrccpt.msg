@@ -13,11 +13,11 @@
 {215}{}{Wir sollten schnellstens diese Killer-Kommandos rufen...}
 {216}{}{Das Bravo-Team ist gerade ein paar Kilometer südlich von Vault City...Die verfolgen immer noch die Karawane.}
 {217}{}{Dieser Wüstenneuling sollte sich besser schnell wieder einkriegen... so was läuft hier einfach nicht.}
-{218}{}{Zeit, daß einige Männer für die Kontrolle der Grenze abkommandiert werden...}
+{218}{}{Zeit, dass einige Männer für die Kontrolle der Grenze abkommandiert werden...}
 {219}{}{Wenn wir nur die Laserkanonen von Vault City sabotieren könnten...}
-{220}{}{Bishop muß noch zustimmen...}
-{221}{}{Schon eine Woche her, daß Bishop einen Boten geschickt hat.}
-{222}{}{Ich rechne damit, daß die nächste Karawane von der NCR nach Vault City geht...}
+{220}{}{Bishop muss noch zustimmen...}
+{221}{}{Schon eine Woche her, dass Bishop einen Boten geschickt hat.}
+{222}{}{Ich rechne damit, dass die nächste Karawane von der NCR nach Vault City geht...}
 {223}{}{Wir müssen jeden Moment für den Abzug bereit sein.}
 {224}{}{Ich hoffe, die Jungs haben die Fallen gecheckt.}
 {225}{}{Sind das Alpha- und das Bravo-Team wieder zurück?}

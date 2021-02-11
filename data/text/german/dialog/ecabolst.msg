@@ -12,26 +12,26 @@
 {302}{}{Ich lauf hier nur rum.}
 {303}{}{Eigentlich nichts. Und was machst du hier draußen?}
 {304}{}{Nach Leuten Ausschau halten, die ich töten kann.}
-{305}{}{Nichts. Tschüß.}
+{305}{}{Nichts. Tschüss.}
 {306}{}{häh?}
-{307}{}{Hm, Ich glaub, ich muß jetzt los. Tschüß.}
-{310}{}{Ich würd dir gern helfen, aber ich wandere jetzt schon so lang  hier rum, daß ich nicht mehr genau weiß, wo was ist.}
+{307}{}{Hm, Ich glaub, ich muss jetzt los. Tschüss.}
+{310}{}{Ich würd dir gern helfen, aber ich wandere jetzt schon so lang  hier rum, dass ich nicht mehr genau weiß, wo was ist.}
 {311}{}{Und warum läufst du hier so rum?}
 {312}{}{Was machst du hier draußen?}
 {313}{}{Na denn, viel Glück.}
-{314}{}{Na, dir auch. Ach, im übrigen: Paß auf in Den. Die verkaufen dort gern Menschen.}
+{314}{}{Na, dir auch. Ach, im übrigen: Pass auf in Den. Die verkaufen dort gern Menschen.}
 {315}{}{In Den?}
 {316}{}{Verkaufen Menschen?}
-{317}{}{Klar, was auch immer. Tschüß.}
+{317}{}{Klar, was auch immer. Tschüss.}
 {320}{}{Die Menschen hier in der Gegend halten sich halt gern Sklaven. Meine Aufgabe ist es, die Sklaven zu befreien. Und wenn dabei ein oder zwei Sklavenhändler draufgehn, ist's nicht schade drum.}
-{321}{}{Was ist so schlimm dran, Sklaven zu halten? Ich hätt sicher auch welche, wenn ich wüßt, wo's welche gibt.}
+{321}{}{Was ist so schlimm dran, Sklaven zu halten? Ich hätt sicher auch welche, wenn ich wüsst, wo's welche gibt.}
 {322}{}{Ich halt nach diesen Schweinehunden Ausschau.}
 {323}{}{Töten ist nie gerechtfertigt.}
 {324}{}{Töten? Ich helf dir dabei.}
-{330}{}{Wirklich? Prima! Ich muß dann mal los und weitere Sklaven finden, die ich befreien kann.}
+{330}{}{Wirklich? Prima! Ich muss dann mal los und weitere Sklaven finden, die ich befreien kann.}
 {331}{}{Viel Glück.}
-{335}{}{Nein, manchmal muß man ein paar Leute töten, um viele zu retten. Opfer fürs Gemeinwohl. Außerdem sind das ja Sklavenhändler und keine richtigen Menschen.}
-{336}{}{Ja, du hast recht. Also, ich muß jetzt los.}
+{335}{}{Nein, manchmal muss man ein paar Leute töten, um viele zu retten. Opfer fürs Gemeinwohl. Außerdem sind das ja Sklavenhändler und keine richtigen Menschen.}
+{336}{}{Ja, du hast recht. Also, ich muss jetzt los.}
 {337}{}{Wirklich? Tja, für mich bist du totes Fleisch.}
 {338}{}{Wie du meinst. Bis dann. }
 {340}{}{Du Schweinehund! Dafür leg ich dich um!}

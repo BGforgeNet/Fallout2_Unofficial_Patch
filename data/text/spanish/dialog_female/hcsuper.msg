@@ -7,7 +7,7 @@
 {106}{}{No sé.}
 {107}{}{Tengo un poco de mineral para refinar.}
 {108}{}{¿Quién eres?}
-{109}{}{¿Qué es este lugar?}
+{109}{}{¿Qué lugar es éste?}
 {110}{}{Quiero algo de uranio.}
 {111}{}{Nada.}
 {112}{}{Olvídalo. Adiós.}
@@ -19,13 +19,13 @@
 {118}{}{Es un trato.}
 {119}{}{1.000 dólares? Eso es ridículo. Olvídalo.}
 {120}{}{Soy el supervisor de esta refinería. ¿Qué quieres?}
-{121}{}{¿Qué es este lugar?}
+{121}{}{¿Qué lugar es éste?}
 {122}{}{Quiero un poco de mineral refinado.}
 {123}{}{Quiero algo de uranio.}
 {124}{}{Nada.}
 {125}{}{Esta es la refinería de Broken Hills. Aquí es donde purificamos el mineral en bruto de la mina. ¿Qué
  quieres?}
-{126}{}{¿Qué es este lugar?}
+{126}{}{¿Qué lugar es éste?}
 {127}{}{Quiero un poco de mineral refinado.}
 {128}{}{Quiero algo de uranio.}
 {129}{}{Nada.}

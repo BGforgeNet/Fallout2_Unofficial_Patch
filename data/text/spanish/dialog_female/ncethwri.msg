@@ -235,6 +235,6 @@
 {1251}{}{. Tenía algunas preguntas acerca de Nuevo Reno…}
 {1415}{}{(Da un respingo). ¡Oh, Dios! (Te mira con los ojos entrecerrados y frunce los labios en señal de desaprobación). ¡Vaya, nunca lo habría creído! }
 {1430}{}{(Se sobresalta). ¡Oh, Dios! }
-{1431}{}{(Squints at you, then her gaze becomes glacial.) }
+{1431}{}{(Entrecierra los ojos en usted, entonces su mirada se vuelve glacial.) }
 {1480}{}{¿La destruirás? Yo... bien, de acuerdo… (Parece llena de energía). }
 {1530}{}{. Me aseguraré de que la familia Wright se mantenga en el buen camino de ahora en adelante.}

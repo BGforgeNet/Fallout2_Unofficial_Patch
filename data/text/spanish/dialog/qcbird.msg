@@ -60,7 +60,7 @@
 {159}{}{Yo no soy parte del problema. Yo soy republicano.}
 {160}{}{Como acabo de decir, parte del problema.}
 {161}{}{Ah, ya veo. Bueno, como ya sabrás, hace mucho tiempo que pienso que ya es hora de que la raza humana viaje al sistema solar.}
-{162}{}{Todos no estamos listos para… eh, ¿ir a *dónde*?}
+{162}{}{No estamos ya en el... Uh, ir *donde*?}
 {163}{}{¿Cómo lo haríamos?}
 {164}{}{Creo que quizá Marte estaría bien porque Marte está esencialmente en la misma órbita... Marte está casi a la misma distancia del Sol, lo que es muy importante. Hemos visto fotografías en las que hay canales, o eso creemos, y agua. Si hay agua, eso significa que hay oxígeno. Si hay oxígeno, significa que podemos respirar.}
 {165}{}{No esperaba una, eh, respuesta *completa*.}

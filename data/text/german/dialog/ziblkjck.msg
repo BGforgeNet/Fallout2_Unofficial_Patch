@@ -22,7 +22,7 @@
 {120}{}{Der Croupier hat: }
 {121}{}{[weiter]}
 {122}{}{[Beim Neumischen] Willst du weiterspielen?}
-{123}{}{Tut mir leid, ich glaub, du hast hier dein Limit erreicht. Ich muﬂ dich auffordern, zu
+{123}{}{Tut mir leid, ich glaub, du hast hier dein Limit erreicht. Ich muss dich auffordern, zu
  gehn.}
 {124}{}{Du gewinnst die Runde.}
 {125}{}{Der Croupier gewinnt die Runde.}

@@ -6,7 +6,7 @@
 {105}{}{Das Große Rad wird dich überrollen!}
 {106}{}{Du stehst vor AHS-9, dem Großen und Schrecklichen. Was ist dein Begehr?}
 {107}{}{Ack ar nu, AHS!}
-{108}{}{Ich suche mein Volk. Ich hörte, daß sie in fliegenden Schiffen hier vorbeigekommen sind.}
+{108}{}{Ich suche mein Volk. Ich hörte, dass sie in fliegenden Schiffen hier vorbeigekommen sind.}
 {109}{}{Ich habe viele Fragen an dich, AHS-9.}
 {110}{}{Ich soll für die Erleuchtete in der NCR einen Brief abgeben. Sie sagte was von 'ner Belohnung...?}
 {111}{}{Ich soll für die Erleuchtete in der NCR einen Brief abgeben. Hier ist er.}
@@ -15,23 +15,23 @@
 {114}{}{Nichts, entschuldige.}
 {115}{}{Ja, mein Kind?}
 {116}{}{Hinschoof? [Kannst du mich verstehen?]}
-{117}{}{Aagga diggel duudel duh! [Oh, Gott sei Dank. Ich suche mein Volk. Ich muß das Große Wasser überqueren.]}
-{118}{}{Pupshose! [Danke, daß du dir die Zeit genommen hast. Ich muß jetzt weiter. Es war mir ein Vergnügen, mit dir zu sprechen.]}
+{117}{}{Aagga diggel duudel duh! [Oh, Gott sei Dank. Ich suche mein Volk. Ich muss das Große Wasser überqueren.]}
+{118}{}{Pupshose! [Danke, dass du dir die Zeit genommen hast. Ich muss jetzt weiter. Es war mir ein Vergnügen, mit dir zu sprechen.]}
 {119}{}{Ich kann kein einziges Wort verstehen. Vielleicht solltest du Juan oder Vikki wegen einer Anpassung aufsuchen.}
 {120}{}{Anke!}
-{121}{}{Natürlich, mein Kind. Die Anpassung hat deine Basis-Neurodyne gereinigt und sie mit meinen und den Speichen des Großen Rades angepaßt. Was ist dein Anliegen?}
-{122}{}{Aagga diggel duudel duh! [Oh, Gott sei Dank. Ich suche mein Volk. Ich muß das Große Wasser überqueren.]}
-{123}{}{B-b-b-enni [Nichts, danke. Es ist einfach nur nett, mit dir zu reden. Tschüß!]}
+{121}{}{Natürlich, mein Kind. Die Anpassung hat deine Basis-Neurodyne gereinigt und sie mit meinen und den Speichen des Großen Rades angepasst. Was ist dein Anliegen?}
+{122}{}{Aagga diggel duudel duh! [Oh, Gott sei Dank. Ich suche mein Volk. Ich muss das Große Wasser überqueren.]}
+{123}{}{B-b-b-enni [Nichts, danke. Es ist einfach nur nett, mit dir zu reden. Tschüss!]}
 {124}{}{Wenn du mir einen Gefallen erweist, dann werde ich dir helfen, mein Kind.}
 {125}{}{Oink? [Worum geht's? Ich werde dir gern behilflich sein.]}
 {126}{}{Nein!}
-{127}{}{Mein Rivale, der Kaiser von Shi-Town, hat mir das Leben immer schwer gemacht. Darum sollst du seines beenden. Als Gegenleistung werde ich dafür sorgen, daß du überall hinkommst, wo du willst.}
+{127}{}{Mein Rivale, der Kaiser von Shi-Town, hat mir das Leben immer schwer gemacht. Darum sollst du seines beenden. Als Gegenleistung werde ich dafür sorgen, dass du überall hinkommst, wo du willst.}
 {128}{}{Ais! [Ich mach's.]}
 {129}{}{Nein!}
-{130}{}{Laß es mich wissen, wenn du deine Meinung änderst. Denk dran, ich könnte deine einzige Chance sein, deine Familie wiederzufinden.}
+{130}{}{Lass es mich wissen, wenn du deine Meinung änderst. Denk dran, ich könnte deine einzige Chance sein, deine Familie wiederzufinden.}
 {131}{}{OK. [Was für ein Gefallen?]}
 {132}{}{Ditscheruh! [Danke, Ich möchte niemandem etwas schulden. Bis dann!]}
-{133}{}{Gut. Laß mich wissen, wenn du es getan hast, und ich werde Nachforschungen darüber anstellen, wie wir auch dein Ziel erreichen können. Leb wohl, mein Kind.}
+{133}{}{Gut. Lass mich wissen, wenn du es getan hast, und ich werde Nachforschungen darüber anstellen, wie wir auch dein Ziel erreichen können. Leb wohl, mein Kind.}
 {134}{}{W'ersehn! [Bis dann, AHS-9. Du bist ein großer Mann.]}
 {135}{}{Hast du deine Aufgabe erfüllt? Deine Zukunft und die des Rades auf diesem Planeten hängen davon ab.}
 {136}{}{Unh-uh [Noch nicht. Ich wollte nur mal Hallo sagen.]}
@@ -39,7 +39,7 @@
 {138}{}{Noch nicht. Ich melde mich dann bei dir.}
 {139}{}{Sei auch du gegrüßt. Jetzt beende bitte deine Aufgabe, damit ich dir helfen kann.}
 {140}{}{Ng! Ng! [Ja, Herr!]}
-{141}{}{Ich sehe an deiner Ausstrahlung daß es dir gelungen ist, die Welt von den schädlichen Neurodynen des Kaisers zu befreien.}
+{141}{}{Ich sehe an deiner Ausstrahlung dass es dir gelungen ist, die Welt von den schädlichen Neurodynen des Kaisers zu befreien.}
 {142}{}{Dschirsa! [Ja, das habe ich. Und wie geht's mit deinem Teil der Abmachung voran?]}
 {143}{}{Ja, das habe ich. Jetzt brauche ich deine Hilfe, um meine Sippe zu retten.}
 {144}{}{Geh zu den Docks in Shi-Town, dort wirst du die PHS Valdez finden. Geh an Bord. Halte dich rechts und geh hoch zur Brücke. Drück den Startknopf und der Tanker wird dich zu deinem Ziel bringen.}
@@ -49,10 +49,10 @@
 {148}{}{Enklave? Welche Enklave?}
 {149}{}{Vertrau mir, mein Sohn, du meinst die Enklave.}
 {150}{}{Ja, OK. Wie finde ich sie?}
-{151}{}{Die Enklave ist ein Überbleibsel aus der Vergangenheit - ein Neurodyn, das noch angepaßt werden muß. Sie haben ihre Basen überall unter den Trümmern des alten Kalifornien versteckt und ihre Hochburg liegt im Westen, hinter dem Wasser.}
+{151}{}{Die Enklave ist ein Überbleibsel aus der Vergangenheit - ein Neurodyn, das noch angepasst werden muss. Sie haben ihre Basen überall unter den Trümmern des alten Kalifornien versteckt und ihre Hochburg liegt im Westen, hinter dem Wasser.}
 {152}{}{Wie komme ich dahin?}
 {153}{}{Woher weißt du das alles?}
-{154}{}{Das, mein Sohn, mußt du schon selbst herausfinden. Frag dich durch und du wirst die Wahrheit finden.}
+{154}{}{Das, mein Sohn, musst du schon selbst herausfinden. Frag dich durch und du wirst die Wahrheit finden.}
 {155}{}{Sehr hilfreich. Ich habe weitere Fragen.}
 {156}{}{Woher weißt du das alles?}
 {157}{}{Wie du meinst. Bis dann. }
@@ -71,24 +71,24 @@
 {170}{}{Stell AHS-7 deine Fragen. Ich bin AHS-9, der Große und Schreckliche und ich bin sehr beschäftigt, also störe mich nicht, Felgenfleisch.}
 {171}{}{Wenn du auf meine Fragen nicht antwortest, wirst du vielleicht auf meine Waffen antworten...}
 {172}{}{Wie du willst.}
-{173}{}{Ah, ein Brief meiner Agentin im Außendienst. Bedauerlicherweise nennt sie sich selbst "Die Erleuchtete" - das zeigt, daß sie kein bißchen erleuchtet ist. Ich danke dir.}
+{173}{}{Ah, ein Brief meiner Agentin im Außendienst. Bedauerlicherweise nennt sie sich selbst "Die Erleuchtete" - das zeigt, dass sie kein bisschen erleuchtet ist. Ich danke dir.}
 {174}{}{Kein Problem. Ich hab da allerdings noch ein oder zwei Fragen.}
 {175}{}{Toll. Bis dann.}
 {176}{}{Ja, mein Kind?}
 {177}{}{Wann hebt das Raumschiff ab?}
 {178}{}{Hast du irgendwelche Aufgaben für mich?}
 {179}{}{Wohin fließt das ganze Geld, das wir beschaffen?}
-{180}{}{Oh, nichts. Vergiß es.}
-{181}{}{Mein Rivale, der Kaiser von Shi-Town, hat mir das Leben immer schwer gemacht. Darum sollst du seines beenden. Als Gegenleistung werde ich dafür sorgen, daß du überall hinkommst, wo du willst.}
-{182}{}{Alles klar, Boß. Bis dann. }
+{180}{}{Oh, nichts. Vergiss es.}
+{181}{}{Mein Rivale, der Kaiser von Shi-Town, hat mir das Leben immer schwer gemacht. Darum sollst du seines beenden. Als Gegenleistung werde ich dafür sorgen, dass du überall hinkommst, wo du willst.}
+{182}{}{Alles klar, Boss. Bis dann. }
 {183}{}{Lieber nicht.}
 {184}{}{Mach Dachs ausfindig, der mit seiner Schleimspur diese traurigen Tankervagabunden zusammenhält. Befreie unsere anständige Stadt von ihm. Wenn du das getan hast, suche AHS-7 auf.}
-{185}{}{Alles klar, Boß. Bis dann. }
+{185}{}{Alles klar, Boss. Bis dann. }
 {186}{}{Lieber nicht.}
 {187}{}{Das war keineswegs als Bitte zu verstehen, mein Sohn. Töte ihn!}
 {188}{}{Nein.}
 {189}{}{Also gut, ich tu's.}
-{190}{}{Du mißachtest die Befehle von AHS-9, dem Großen und Schrecklichen? Dafür sollst du sterben.}
+{190}{}{Du missachtest die Befehle von AHS-9, dem Großen und Schrecklichen? Dafür sollst du sterben.}
 {191}{}{Na los doch.}
 {192}{}{Warte, ich habe meine Meinung geändert.}
 {193}{}{Zu spät, Felgenfleisch. Du hast dich als nicht vertrauenswürdig erwiesen. Stirb!}
@@ -98,18 +98,18 @@
 {197}{}{Hm. Bis dann.}
 {198}{}{Die HSS Quetzel wird starten, sobald die Sterne richtig stehen.}
 {199}{}{Alles klaro. Ich habe weitere Fragen.}
-{200}{}{Danke. Tschüß.}
-{201}{}{Deine zerrissene Aura verrät mir, daß du nichts Gutes im Schilde führst. Sag, mein Sohn, möchtest du etwa aus deinem Unternehmen Profit schlagen?}
+{200}{}{Danke. Tschüss.}
+{201}{}{Deine zerrissene Aura verrät mir, dass du nichts Gutes im Schilde führst. Sag, mein Sohn, möchtest du etwa aus deinem Unternehmen Profit schlagen?}
 {202}{}{Ja.}
 {203}{}{Nein.}
-{204}{}{Nein, ich will nur, daß du stirbst.}
+{204}{}{Nein, ich will nur, dass du stirbst.}
 {205}{}{Dann schlage ich dir folgenden Handel vor: Kehre zurück zu den Shi und beseitige Ken Lee und den Kaiser. Ich werde dir zum Lohn mehr Geld geben, als du dir je hast träumen lassen.}
 {206}{}{Nein, ich glaube nicht.}
 {207}{}{OK, schlag ein, Fettsack.}
 {208}{}{Dann geh und zerschmettere diese lästigen Seelen. Ich warte auf die Kunde deines Sieges. [Er lächelt selig.]}
 {209}{}{Machs gut.}
 {210}{}{Nein, warte, ich habe meine Meinung geändert. Ich will dich tot sehen.}
-{211}{}{Oh, mein Kind, wie konntest du nur so vom Pfade der Tugend abkommen? Deine Aura verrät mir, daß du mich töten willst. Ich bin maßlos enttäuscht. Maßlos. Was soll's. Fahren wir fort.}
+{211}{}{Oh, mein Kind, wie konntest du nur so vom Pfade der Tugend abkommen? Deine Aura verrät mir, dass du mich töten willst. Ich bin maßlos enttäuscht. Maßlos. Was soll's. Fahren wir fort.}
 {212}{}{Einverstanden. Stirb!}
-{213}{}{Vergiß nicht, du mußt AHS-7 aufsuchen, wenn du deine Aufgabe erledigt hast.}
+{213}{}{Vergiss nicht, du musst AHS-7 aufsuchen, wenn du deine Aufgabe erledigt hast.}
 {214}{}{All unsere Bedürfnisse sind gedeckt. Jetzt wird es Zeit für mich zu meditieren.}

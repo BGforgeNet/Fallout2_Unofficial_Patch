@@ -16,7 +16,7 @@
 {114}{}{OK.}
 {115}{}{Ihr alle gleich. Ich gehn.}
 {116}{}{Ich}
-{117}{}{Verstehe. Ich muﬂ gehn.}
+{117}{}{Verstehe. Ich muss gehn.}
 {118}{}{Ich bin}
 {119}{}{Kapiert.}
 {120}{}{Krieger! Ha! Guter Witz, hast du noch mehr auf Lager!}
@@ -33,7 +33,7 @@
 {131}{}{Ah.}
 {132}{}{Gruthar hat recht. Ihr solltet alle versuchen, euch weiterzubilden.}
 {133}{}{Kapiert.}
-{134}{}{Du bist also so dumm, daﬂ ein anderer dich zwingen muﬂ, was zu lernen. Wie nett.}
+{134}{}{Du bist also so dumm, dass ein anderer dich zwingen muss, was zu lernen. Wie nett.}
 {135}{}{Hallo. Du Rudelfreund.}
 {136}{}{Grrrrrrrrr! Argggggghhhh.}
 {137}{}{.}

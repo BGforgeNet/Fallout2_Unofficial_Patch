@@ -5,7 +5,7 @@
 {104}{}{Nimma ardle ah!}
 {105}{}{Du Arbeit?}
 {106}{}{Ich suche Arbeit.}
-{107}{}{Ich muß etwas kaufen.}
+{107}{}{Ich muss etwas kaufen.}
 {108}{}{Was kannst du mir über Chad erzählen?}
 {109}{}{Tut mir leid mit Chad. Er hat's wohl herausgefordert.}
 {110}{}{Euer Karawanenmeister Chad steckt jetzt ganz schön in der Krise, was?}
@@ -34,12 +34,12 @@
  für die Bezahlung zuständig. Ich plane die Karawanenrouten und kümmere mich um die Verpflegung.
  Leute stelle ich auch ein, wenn es Arbeit gibt. Und ich bin zuständig für die Einheits-Patrouillen.}
 {130}{}{Arbeit? Was für Arbeit?}
-{131}{}{Danke. Tschüß dann!}
+{131}{}{Danke. Tschüss dann!}
 {132}{}{Alles klar. Dann leg mal los.}
 {133}{}{Kein Interesse? Alles klar. Du kannst ja wiederkommen, wenn ich was für dich tun kann.}
 {134}{}{Okay!}
 {135}{}{Hmm, ich suche eigentlich was anderes.}
-{136}{}{Tschüß.}
+{136}{}{Tschüss.}
 {137}{}{Alles klar. Also nach Gecko. Komm am 1. des Monats wieder, dann geht's los. Sonst noch
  was?}
 {138}{}{Ja.}
@@ -50,15 +50,15 @@
  noch was?}
 {142}{}{Was willst du?}
 {143}{}{Ich suche Arbeit.}
-{144}{}{Ich muß etwas kaufen.}
+{144}{}{Ich muss etwas kaufen.}
 {145}{}{Was kannst du mir über Chad erzählen?}
 {146}{}{Tut mir leid mit Chad. Er hat's wohl herausgefordert.}
 {147}{}{Euer Karawanenmeister steckt jetzt wohl ganz schön in der Krise, was?}
 {148}{}{Wer bist du?}
 {149}{}{War nett, mit dir zu plaudern. Willst du sonst noch was von mir?}
 {150}{}{Tut mir leid. Das wird nichts. Willst du sonst noch was von mir?}
-{151}{}{Nein. Tschüß dann!}
-{152}{}{Schon fertig? Na prima. Hier sind deine $100 und wenn du sonst noch was brauchst, laß es
+{151}{}{Nein. Tschüss dann!}
+{152}{}{Schon fertig? Na prima. Hier sind deine $100 und wenn du sonst noch was brauchst, lass es
  mich wissen.}
 {153}{}{Hör mal, komm in ein oder zwei Stunden wieder, dann verkauf ich dir gerne was. Jetzt bin
  ich gerade mit diesen Brahmin hier beschäftigt. Wolltest du sonst noch was?}
@@ -70,11 +70,11 @@
 {156}{}{Ich brauche noch ein paar Sachen.}
 {157}{}{OK, verstehe. Das wär alles, danke.}
 {158}{}{Ob ich ihm traue? Ja, sicher ... bis zu einem gewissen Grad. Ich vertraue ihm die
- Durchführung meiner Karawanen an. Er ist vielleicht ein bißchen zwielichtig, aber wenn er mir
+ Durchführung meiner Karawanen an. Er ist vielleicht ein bisschen zwielichtig, aber wenn er mir
  keinen Grund gibt, meine Meinung zu ändern, werde ich ihm auch weiter trauen.}
 {159}{}{Ich hab noch einige Fragen.}
 {160}{}{Ich brauche noch ein paar Sachen.}
-{161}{}{Super. Vielen Dank, daß du dir Zeit für mich genommen hast.}
+{161}{}{Super. Vielen Dank, dass du dir Zeit für mich genommen hast.}
 {162}{}{Puhhh, also er kam direkt aus der Wüste nach Broken Hills. Außer seinen fünf Sinnen hatte
  er nicht viel dabei. Er sah so aus, als ob er von jemandem verfolgt würde, aber er hat nicht
  gesagt, von wem. Über seine Vergangenheit hat er eigentlich nie viel erzählt. Und dann... 
@@ -85,7 +85,7 @@
 {166}{}{Ich hab jetzt frei. Sprich mich noch mal darauf an, wenn ich bei der Arbeit bin. }
 {167}{}{Er hat es herausgefordert? Du kleines Stück Dreck, Geld ist doch keinen Mord wert. Jetzt
  hau ab aus meinem Laden, aber dalli.}
-{168}{}{Tschüß.}
+{168}{}{Tschüss.}
 {169}{}{Wenn er in Schwierigkeiten ist, hat er sich das wohl selbst zuzuschreiben. Eigentlich
  schade... er war ein toller Karawanenmeister. Brauchst du sonst noch was?}
 {170}{}{Raus aus meinem Laden. Ich will dich hier nicht mehr sehen.}
@@ -128,9 +128,9 @@
 {193}{}{Du bist ja ein Fachmann in der Exkremententsorgung geworden!}
 {194}{}{Deine Sprechfähigkeit hat sich um 5% verbessert.}
 {195}{}{Ich nehme eine Karawane.}
-{196}{}{Du hast aber schon gesagt, daß du am 1. des Monats mit nach Gecko reisen würdest.}
-{197}{}{Du hast aber schon gesagt, daß du am 11. des Monats in die NCR reisen würdest.}
-{198}{}{Du hast aber schon gesagt, daß du am 21. des Monats mit nach Vault City reisen würdest.}
+{196}{}{Du hast aber schon gesagt, dass du am 1. des Monats mit nach Gecko reisen würdest.}
+{197}{}{Du hast aber schon gesagt, dass du am 11. des Monats in die NCR reisen würdest.}
+{198}{}{Du hast aber schon gesagt, dass du am 21. des Monats mit nach Vault City reisen würdest.}
 {200}{}{Ich würde gern die Karawane wechseln.}
 {201}{}{Ja, klar. Macht nichts.}
 {202}{}{Du dreckiger Bastard! Du hast die gottverdammte Karawane verlassen! Hau bloß ab hier!}
@@ -144,4 +144,4 @@
 {210}{}{Danke.}
 {211}{}{[Fortfahren]}
 {212}{}{Tut mir leid, aber jetzt wo Chad nicht mehr ist, um beim Personalmanagement zu helfen, komme ich mit der Arbeitsvergabe einfach nicht richtig zurecht. Der arme Hund wird mir fehlen. Im Ödland zu verrecken wie ein verwundetes Brahmin.}
-{213}{}{Tut mir leid. Tschüß.}
+{213}{}{Tut mir leid. Tschüss.}

@@ -1,7 +1,7 @@
 {100}{}{Du siehst einen großen, schlanken Mann.}
 {101}{}{Du siehst Matt.}
 {102}{}{Du siehst einen großen, schlanken Mann mit kurzem Haar und einem wilden Blick. Du spürst,
- daß er zurückstarrt.}
+ dass er zurückstarrt.}
 {103}{}{Kann ich dir behilflich sein, Fremdling?}
 {104}{}{Ich Fragen stellen?}
 {105}{}{Nein. Tschüssi.}
@@ -36,7 +36,7 @@
  darstellen. Sie müssen eliminiert werden!}
 {128}{}{Hmm. Klingt logisch.}
 {129}{}{Ich glauben, du nicht recht.}
-{130}{}{Ich bin zwar auch der Meinung, daß sie eine potentielle Gefahr sind, aber ich traue
+{130}{}{Ich bin zwar auch der Meinung, dass sie eine potentielle Gefahr sind, aber ich traue
  ihnen.}
 {131}{}{Du hast recht. Was sollen wir tun?}
 {132}{}{Allein hab ich keine Chance. Aber gemeinsam können wir uns einen Weg hier raus bahnen.
@@ -45,7 +45,7 @@
 {134}{}{Nein.}
 {135}{}{Ach! Du bist ein Dummkopf, ihnen zu trauen. Wenn du deine Meinung ändern solltest, komm
  zurück und hol mich.}
-{136}{}{Tschüß.}
+{136}{}{Tschüss.}
 {137}{}{Hast du deine Meinung geändert? Wirst du mir helfen, hier rauszukommen?}
 {138}{}{Ja.}
 {139}{}{Nein.}
@@ -58,7 +58,7 @@
 {145}{}{Warum?}
 {146}{}{Wenn der Großrechner offline ist, wird die Vault irgendwann nicht mehr funktionieren.
  Ohne Nahrung oder Wasser werden die Deathclaws gezwungen sein, das Land der Menschen zu
- überfallen, um zu überleben. So werden sie entdeckt werden und jemand wird dafür sorgen, daß sie
+ überfallen, um zu überleben. So werden sie entdeckt werden und jemand wird dafür sorgen, dass sie
  nicht länger eine Gefahr für die Menschheit darstellen.}
 {147}{}{Andere hier. Brauchen Essen, Wasser. Du nicht Sorgen?}
 {148}{}{Was ist mit den andern, die hier leben? Kümmern die dich nicht?}

@@ -15,16 +15,16 @@
 {114}{}{Yo irme.}
 {115}{}{¿Quién eres?}
 {116}{}{¿Qué haces aquí?}
-{117}{}{¿Qué es este lugar?}
+{117}{}{¿Qué lugar es éste?}
 {118}{}{¿Por qué esta habitación está insonorizada?}
 {119}{}{¿Por qué tienes un Garra mortal en la otra habitación?}
 {120}{}{¿Qué le ocurre al perro de la puerta?}
 {121}{}{Debo irme.}
 {122}{}{Mi nombre es Schreber, doctor Schreber. Soy el médico de la base, entre otras cosas. No me importa tu nombre, soldado. Todos los reclutas parecéis iguales con esa armadura.}
-{123}{}{De acuerdo.}
-{124}{}{Entiendo.}
+{123}{}{Vale.}
+{124}{}{Entendido.}
 {125}{}{Trabajo como médico de la base pero eso es sólo algo secundario, un hobby. Realmente, soy un genetista.}
-{126}{}{¿Lo qué?}
+{126}{}{Qué ser eso?}
 {127}{}{¿Qué es un genetista?}
 {128}{}{Creo que no tienes la capacidad intelectual suficiente para entender mi trabajo, soldado. Digamos que yo modifico a la gente y a los animales.}
 {129}{}{Sí... claro.}
@@ -83,7 +83,7 @@
 {182}{}{Ya veo.}
 {183}{}{¿Se puede arreglar?}
 {184}{}{Oh, sí. Le retiré el circuito de la unidad motriz y se lo dí a Raúl, en Mantenimiento. Siempre podría volver a ponérselo. Quizás algún día lo haga para ver si ha cambiado de actitud.}
-{185}{}{De acuerdo.}
+{185}{}{Vale.}
 {186}{}{De acuerdo.}
 {187}{}{¿Eres un civil?}
 {188}{}{Este es el laboratorio médico. La armería esta en el pasillo, recto y a tu izquierda.}

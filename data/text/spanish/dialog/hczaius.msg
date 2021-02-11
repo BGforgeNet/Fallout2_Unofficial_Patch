@@ -59,7 +59,7 @@
 {146}{}{¿Estás de broma? Ni hablar.}
 {147}{}{ dólares. ¿Qué tal suena?}
 {148}{}{A tacañería, suena. Quiero más.}
-{149}{}{Suena bien.}
+{149}{}{Me parece bien.}
 {150}{}{Olvídalo. Me largo.}
 {151}{}{¡Genial! Por supuesto, necesitarás las piezas de recambio. Ve a Nuevo Reno y busca a Renesco. Tiene herramientas
  por toda la tienda. Dile que Zaius te envía. Dile que yo he dicho, "El canario estiró la

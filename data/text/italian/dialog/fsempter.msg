@@ -35,7 +35,7 @@
 {134}{}{Probabilita' che il lancio dell'astronave hubologista fallisca = 95%. Cause: Mancanza di carburante, sigillatura inadatta, incapacita' dei leader, mancanza di iniziativa.}
 {135}{}{Probabilita' che il "Prescelto" riesca nella sua missione = 15%.}
 {136}{}{I dati indicano che l'"Enclave" e' molto piu' potente di quanto ritenuto in precedenza; si consiglia di tenersi alla larga.}
-{137}{}{Possibilita' che un sottomarino ricompaia in questo gioco = 0%}
+{137}{}{Chances of submarine reappearing in this game: 0%}
 {138}{}{Probabilita' che i vagabondi della petroliera si liberino, senza aiuti esterni, delle creature che infestano la loro stiva = 0%. Calcolo dei vantaggi di un eventuale intervento in corso.}
 {139}{}{Dati attuali: Petroliera Poseidon Oil inadatta a navigare. Ulteriori dati richiesti.}
 {140}{}{Funzione non attiva. Ulteriori dati richiesti.}

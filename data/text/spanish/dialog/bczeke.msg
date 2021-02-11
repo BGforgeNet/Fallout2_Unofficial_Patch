@@ -27,7 +27,7 @@
 {126}{}{¿Hay algo más por aquí cerca?}
 {127}{}{Supongo que eso es todo. Me marcho.}
 {128}{}{Si, lo hago. Actúo como intermediario entre él y la gente de aquí. No estoy feliz con esto, ahora que sé lo que se trama.}
-{129}{}{De acuerdo.}
+{129}{}{Vale.}
 {130}{}{Ya veo.}
 {131}{}{Nada. Ellos tienen las armas, controlan el agua y la comida. Eso significa que están al cargo. Punto. No tenemos medios ni forma de subsistir sin el respaldo de Darion. ¿Cómo podríamos volvernos contra él? Estamos a su merced.}
 {132}{}{Hmm. Veo.}
@@ -49,7 +49,7 @@
 {148}{}{Excelente. Buena suerte, y gracias.}
 {149}{}{Hecho.}
 {150}{}{Bien, tómate tu tiempo para pensarlo, pero debes saber esto... hasta que Darion no esté fuera del mapa, no tengo otra elección que mantener las cosas como están por aquí. Es por la seguridad de todos. Eso significa que no hay trato y que continúas siendo persona non grata. ¿Entiendes?}
-{151}{}{De acuerdo.}
+{151}{}{Vale.}
 {152}{}{Hola. Aún estoy esperando a que le des una solución a nuestros problemas. En otras palabras, ¡patéale el culo a Darion!}
 {153}{}{Hecho.}
 {154}{}{¡Lo has conseguido, amigo! Ya no estaremos más bajo el yugo de Darion. ¡Gracias! Estoy listo para aceptar tu trato con la RNC. Tan sólo diles que envíen a uno de sus representantes y sellaré el trato.}

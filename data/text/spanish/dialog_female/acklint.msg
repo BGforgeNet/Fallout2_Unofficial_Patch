@@ -3,13 +3,13 @@
 {102}{}{Ves a un hombre musculoso y muy seguro de sí mismo.}
 {103}{}{Que tengas un buen día, }
 {104}{}{. No has completado la prueba de la Anciana y no puedes pasar.}
-{105}{}{Uh...}
+{105}{}{Eh...}
 {106}{}{Necesito volver al pueblo.}
 {107}{}{Tengo algunas preguntas para ti.}
 {108}{}{Está bien, voy a hacer la prueba.}
 {109}{}{(suspira) }
 {110}{}{. Ve al templo. Haz la prueba. No vuelvas aquí hasta que hagas la prueba. Obedece a la Anciana. ¡Vamos!}
-{111}{}{Me voy, yo.}
+{111}{}{Yo ir.}
 {112}{}{Perdona, }
 {113}{}{, pero no puedo dejarte pasar. Si deseas volver al pueblo, tendrás que pasar la prueba.}
 {114}{}{Ya veo. Supongo que no me queda más remedio.}

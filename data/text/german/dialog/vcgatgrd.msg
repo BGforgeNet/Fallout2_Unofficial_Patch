@@ -1,5 +1,5 @@
 {100}{}{Du siehst eine der Torwachen von Vault City.}
-{101}{}{Du siehst einen pflichtbewußt dreinschauenden Wachmann. Der Wachmann trägt eine
+{101}{}{Du siehst einen pflichtbewusst dreinschauenden Wachmann. Der Wachmann trägt eine
  Metallrüstung und hat ein gefährlich wirkendes Gewehr bei sich.}
 {102}{}{Hey! Geh da weg!}
 {103}{}{Wir haben dich gewarnt...}
@@ -25,7 +25,7 @@
 {123}{}{Dein Kampf gegen die Enklave hat selbst der Erstbürgerin beeindruckt.}
 {124}{}{Ich habe gehört, du bist bis ganz runter in den Süden gereist, bis nach San Francisco.
  Stimmt das?}
-{125}{}{Stimmt es, daß die Vereinigten Staaten den Krieg immer noch weitergeführt haben?}
+{125}{}{Stimmt es, dass die Vereinigten Staaten den Krieg immer noch weitergeführt haben?}
 {126}{}{Du solltest deine Reisen im Computer von Vault City dokumentieren.}
 {127}{}{Bleib hier in Vault City, so lange du willst.}
 {128}{}{Du solltest deine Heldentaten gegen die Enklave aufschreiben und auf dem Listenserver
@@ -37,13 +37,13 @@
 {132}{}{Gülli Knemigu?}
 {133}{}{Verzieh dich}
 {134}{}{Gültige Genehmigung?}
-{135}{}{Dann vergiß es.}
-{136}{}{Schau mal an: Mal wieder einer von diesen inzestgeschädigten Außenweltlern. Mach, daß du
- wegkommst, du Mißgeburt, bevor dir was zustößt. Alles klar?}
+{135}{}{Dann vergiss es.}
+{136}{}{Schau mal an: Mal wieder einer von diesen inzestgeschädigten Außenweltlern. Mach, dass du
+ wegkommst, du Missgeburt, bevor dir was zustößt. Alles klar?}
 {137}{}{IG NIX GEE!}
 {138}{}{Verzieh dich}
 {139}{}{Genau, "gültige Genehmigung".}
-{140}{}{Wenn du nach Vault City reinwillst, mußt du mit Wallace, dem Zollvorsteher sprechen.
+{140}{}{Wenn du nach Vault City reinwillst, musst du mit Wallace, dem Zollvorsteher sprechen.
  Er kann dir einen Tagesausweis ausstellen.}
 {141}{}{Wo finde ich Wallace?}
 {142}{}{Einen Tagesausweis? Was ist das denn?}
@@ -51,11 +51,11 @@
 {144}{}{Wallace ist im Zollgebäude da drüben.}
 {145}{}{Und jetzt verzieh dich. Ich habe keine Zeit um mit Außenweltlern zu quatschen.}
 {146}{}{Was ist das, ein Tagesausweis?}
-{147}{}{Danke, daß du dir Zeit für mich genommen hast. Mach's gut.}
+{147}{}{Danke, dass du dir Zeit für mich genommen hast. Mach's gut.}
 {148}{}{Mit einem Tagesausweis kommst du in die Stadt rein... wenn du da was zu tun hast.}
 {149}{}{Und jetzt verzieh dich. Ich habe keine Zeit um mit Außenweltlern zu quatschen.}
 {150}{}{Wo finde ich Wallace?}
-{151}{}{Danke, daß du dir Zeit für mich genommen hast. Mach's gut.}
+{151}{}{Danke, dass du dir Zeit für mich genommen hast. Mach's gut.}
 {152}{}{Du brauchst einen Tagesausweis, wenn du in die Stadt willst.}
 {153}{}{Besorg dir einen Tagesausweis, dann kann ich dich reinlassen.}
 {154}{}{Weg vom Tor!}
@@ -67,7 +67,7 @@
 {160}{}{So, so. Ein Bürger, hm? Zeig mir deine Papiere.}
 {161}{}{Ähh, ich hab sie aber jetzt nicht dabei.}
 {162}{}{OK, auf geht's.}
-{163}{}{Äh, was ich meinte, war: Was muß ich anstellen, um Bürger zu werden?}
+{163}{}{Äh, was ich meinte, war: Was muss ich anstellen, um Bürger zu werden?}
 {164}{}{Entschuldige, Bürger. Ich wollte dich nicht beleidigen. Du kannst eintreten.}
 {165}{}{Na schön.}
 {166}{}{ Hör mal, "Bürger", du brauchst einen Tagesausweis, wenn du hier reinwillst, alles klar?
@@ -77,12 +77,12 @@
  schon mal gesehen zu haben.}
 {169}{}{Vielleicht solltest du einfach mal die Augen besser aufhalten. Ich habe einen Termin beim
  Erstbürger und er wird sicher schon ungeduldig.}
-{170}{}{Ich hoffe, daß du mich wenigstens nächstes Mal gleich erkennst.}
+{170}{}{Ich hoffe, dass du mich wenigstens nächstes Mal gleich erkennst.}
 {171}{}{Aber ja. Ich bin Bürger aller Vaults.}
 {172}{}{Wir haben uns wahrscheinlich zufällig noch nie gesehen. Sehr erfreut, dich
  kennenzulernen.}
 {173}{}{Oh, wirklich? Hör zu: Ich weiß zwar nicht, wer du bist, aber bestimmt kein Bürger. Gib
- mir die Papiere und mach, daß du weggkommst. Wenn du reinwillst, brauchst du einen Tagesausweis
+ mir die Papiere und mach, dass du weggkommst. Wenn du reinwillst, brauchst du einen Tagesausweis
  von Wallace, genau wie alle anderen.}
 {174}{}{Du willst die Papiere? Dann hol sie dir doch!}
 {175}{}{Wo finde ich Wallace?}
@@ -100,14 +100,14 @@
 {187}{}{Alles klar. Bevor du reingehst, müssen wir erst noch deine Sachen durchsuchen.}
 {188}{}{Oh, ok.}
 {189}{}{Wozu?}
-{190}{}{Dann vergiß es.}
+{190}{}{Dann vergiss es.}
 {191}{}{Bleib sofort stehen. Nach Einbruch der Dunkelheit haben Außenweltler in Vault City
  nichts zu suchen.}
 {192}{}{Aber ich habe einen Ausweis.}
 {193}{}{Aber ich bin Bürger!}
 {194}{}{Tut mir leid. Ich geh' ja schon.}
 {195}{}{So, so... inzwischen bist du also Bürger, was? So wie letztes Mal? Gib mir den
- "Bürgerausweis" und mach, daß du weggkommst.}
+ "Bürgerausweis" und mach, dass du weggkommst.}
 {196}{}{Du willst die Papiere? Dann hol sie dir doch!}
 {197}{}{Schon gut, schon gut.}
 {198}{}{Geh zu Wallace, dem Zollvorsteher. Und jetzt verschwinde.}
@@ -116,7 +116,7 @@
 {201}{}{OK, OK.}
 {202}{}{Manchmal versuchen Außenweltler, Jet und Alkohol hier einzuschmuggeln.}
 {203}{}{OK, OK. Durchsuch mich ruhig.}
-{204}{}{Dann vergiß es. So dringend muß ich nun auch wieder nicht nach Vault City.}
+{204}{}{Dann vergiss es. So dringend muss ich nun auch wieder nicht nach Vault City.}
 {205}{}{Tut mir leid, wir können dich damit nicht hier rein lassen. Jet und Alkohol sin in
  Bürgerstadt verboten. Schmeiß es weg und komm dann zurück, OK?}
 {206}{}{OK.}

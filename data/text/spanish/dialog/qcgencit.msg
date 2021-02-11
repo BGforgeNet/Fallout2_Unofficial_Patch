@@ -34,7 +34,7 @@
 {133}{}{¿Otro taladro?}
 {134}{}{Me pareció oír disparos.}
 {135}{}{Oye, ¿quién eres?}
-{136}{}{¡Alto! ¿Quién anda ahí?}
+{136}{}{¡Alto! ¿Quién está ahí?}
 {137}{}{Me estoy cansando de esos taladros.}
 {138}{}{Vaya, podría haber un intruso.}
 {139}{}{No te preocupes por eso.}

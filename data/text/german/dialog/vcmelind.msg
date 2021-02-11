@@ -7,17 +7,17 @@
 {104}{}{Ist dieser eingezäunte Bereich die Stadt?}
 {105}{}{Ich suche die Vault.}
 {106}{}{Wer bist du?}
-{107}{}{Nein danke. Tschüß.}
+{107}{}{Nein danke. Tschüss.}
 {108}{}{Dis Valt Citeee?}
-{109}{}{Nein, nein...laß dich nicht durch die Umgebung täuschen. Du befindest
+{109}{}{Nein, nein...lass dich nicht durch die Umgebung täuschen. Du befindest
  dich im Moment im Vorhof. Die eigentliche Stadt liegt weiter nördlich.}
 {110}{}{Was ist der Unterschied zwischen den beiden Bereichen?}
 {111}{}{Kann ich dich noch etwas anderes fragen?}
 {112}{}{Danke für die Hilfe. Auf Wiedersehen.}
 {113}{}{Dan-ki!}
-{114}{}{Unsere Vault? Die liegt in der Stadt. Ich muß dir allerdings mitteilen,
- daß nur Bürger die Vault betreten dürfen.}
-{115}{}{Ich muß in die Vault.}
+{114}{}{Unsere Vault? Die liegt in der Stadt. Ich muss dir allerdings mitteilen,
+ dass nur Bürger die Vault betreten dürfen.}
+{115}{}{Ich muss in die Vault.}
 {116}{}{Kann ich dich noch etwas anderes fragen?}
 {117}{}{Danke für die Hilfe. Auf Wiedersehen.}
 {118}{}{Wie ich heiße? Naja, ich heiße Melinda. Ich bin die Haupt-Begrüßungsoffizierin von
@@ -36,9 +36,9 @@
  Sein Büro liegt am Nordende des Vorhofes.}
 {127}{}{Kann ich dich noch etwas anderes fragen?}
 {128}{}{Danke für die Hilfe. Auf Wiedersehen.}
-{129}{}{Meine Arbeit ist für Vault City von Nutzen und hat den Vorzug, daß ich
+{129}{}{Meine Arbeit ist für Vault City von Nutzen und hat den Vorzug, dass ich
  mit Reisenden über den Ruhm unserer Stadt reden kann.}
-{130}{}{Ah komm... manchmal ist es doch bestimmt ein *bißchen* langweilig.}
+{130}{}{Ah komm... manchmal ist es doch bestimmt ein *bisschen* langweilig.}
 {131}{}{Kann ich dich noch etwas anderes fragen?}
 {132}{}{Danke für die Hilfe.}
 {133}{}{Um bessere Lebensbedingungen für alle zu schaffen, müssen wir uns gegen Einflüsse

@@ -7,7 +7,7 @@
 {130}{}{Du siehst einen zerlumpt wirkenden Mann.}
 {131}{}{Dieser sieht ziemlich kräftig aus. }
 {140}{}{Du siehst einen Mann in zerfetzter Kleidung.}
-{141}{}{He moves with suggesting speed.}
+{141}{}{Seine Bewegungen deuten auf Schnelligkeit hin.}
 {150}{}{Du siehst eine sehr finstere Frau.}
 {151}{}{Sie sieht aus, als hätte sie noch nie gebadet.}
 {160}{}{Du siehst eine eher große Frau.}
@@ -20,7 +20,7 @@
 {210}{}{Dafür wirst Du mir büßen!}
 {211}{}{Verdammte Sklavenhändler!}
 {212}{}{Dafür werdet ihr bezahlen!}
-{220}{}{Laß mich alleine!}
+{220}{}{Lass mich alleine!}
 {221}{}{Tu mir nicht weh!}
 {222}{}{Ich tue dir nicht weh!}
 {223}{}{Ich kämpfe nicht!}
@@ -43,7 +43,7 @@
 {264}{}{Diese Sklavenhändler werden dafür zahlen.}
 {265}{}{Kein Sklavenhändler wird meine Familie kriegen.}
 {270}{}{Sie mich nicht finden.}
-{271}{}{Muß mich verstecken. Muß mich verstecken.}
+{271}{}{Muss mich verstecken. Muss mich verstecken.}
 {272}{}{Warum sie wollen verletzen.}
 {273}{}{Ich Angst haben.}
 {274}{}{Ich nicht kämpfen.}
@@ -75,10 +75,10 @@
 {314}{}{Lauf!}
 {315}{}{Das nicht tun!}
 {320}{}{Rennt um Euer Leben!}
-{321}{}{Laßt Euch nicht fangen!}
+{321}{}{Lasst Euch nicht fangen!}
 {322}{}{Sklavenhändler! Lauft weg!}
 {323}{}{Hilft uns jemand! Bitte!}
 {324}{}{Lauf weg, Marty!}
 {325}{}{Ahhh!}
 {326}{}{Stoppt diesen Wahnsinn!}
-{327}{}{Wir haben nichts verbrochen! Laßt und in Frieden!}
+{327}{}{Wir haben nichts verbrochen! Lasst und in Frieden!}

@@ -8,7 +8,7 @@
 {153}{}{[Der Hund scheint ausgesprochen aufgeregt zu sein.]}
 {154}{}{Gutes Hundchen.}
 {155}{}{Weißt du wo Jonny ist, Alter?}
-{156}{}{Stay here, Laddie.}
+{156}{}{Bleib hier, Laddie.}
 {157}{}{Komm, wir suchen Jonny.}
 {158}{}{Ist Jonny in den Brunnen gefallen, Laddie?}
 {159}{}{Was ist denn los, Alter, willst du mir etwas sagen?}

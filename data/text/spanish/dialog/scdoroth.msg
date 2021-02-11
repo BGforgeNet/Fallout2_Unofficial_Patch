@@ -5,7 +5,7 @@
 {104}{}{¿Uh? ¿Dos?}
 {105}{}{¿Qué pasa?}
 {106}{}{Tú vienes. Detienes al hombre malo. Lo paras, no romper máquina. ¿Vale?}
-{107}{}{De acuerdo.}
+{107}{}{Vale.}
 {108}{}{No, no voy.}
 {109}{}{Oh, Dios, es Jack. Está amenazando con volar la central eléctrica. No hay tiempo, tienes que detenerle. Puedes hacerlo, ¿verdad?}
 {110}{}{Deja de hacerme perder el tiempo. Guíame.}

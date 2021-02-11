@@ -8,13 +8,13 @@
 {156}{}{Ves a una prostituta. Parece como si pudiera matar a sus compañeras y devorarlas.}
 {157}{}{Ves a una prostituta. Te está valorando como si fuera una joyera.}
 {158}{}{Ves a una prostituta. Su ropa harapienta cubre seductoramente su cuerpo.}
-{175}{}{Oh my... it's him.}
+{175}{}{Oh mi... es él.}
 {176}{}{Eres el mayor machote del mundo.}
 {177}{}{::Se desmaya::}
 {178}{}{Qué grande, }
 {179}{}{::Aplausos::}
 {180}{}{::Brindis::}
-{181}{}{Oh my... it's her.}
+{181}{}{Oh, Dios… es ella. }
 {182}{}{¡Bravo, muchacha!}
 {183}{}{::Te hace una seña con el pulgar hacia arriba::}
 {190}{}{No podrías pagarme las fichas necesarias para conseguir que me lo hiciera contigo con ESO.}
@@ -283,7 +283,7 @@
 {457}{}{¿Dónde está el fuego, esclavista?}
 {458}{}{Esa esclavista es una zorra astuta.}
 {459}{}{Esa esclavista hace titilar mi contador Geiger.}
-{460}{}{I guarantee I'm better in the sack than that robot following you around.}
+{460}{}{Te garantizo que soy mejor en la cama que el robot siguiendo los alrededores.}
 {461}{}{¿Ese robot es TOTALMENTE funcional?}
 {462}{}{¿Eso que te sigue es alguna clase de máquina tragaperras?}
 {463}{}{¿Eso es una robo-máquina tragaperras?}

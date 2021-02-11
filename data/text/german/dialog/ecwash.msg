@@ -12,7 +12,7 @@
 {111}{}{Du siehst BlueCross, ein Mitglied der Ungewaschenen Dorflinge.}
 {113}{}{Du siehst Buffy, eine besonders schöne, intelligente und flotte Cheerleaderin. Sie ist
  die Erste Vorsitzende der Ungewaschenen Dorflinge.}
-{114}{}{Du siehst Doombot, Klanggöttin und Schwester von Buffy. Sie sieht ein bißchen aus wie
+{114}{}{Du siehst Doombot, Klanggöttin und Schwester von Buffy. Sie sieht ein bisschen aus wie
  Marie Osmond.}
 {115}{}{Du siehst Panoply, ein elfenhaftes Mädchen, deren Augen eine Spur von Wahnsinn verraten.}
 {116}{}{Du siehst Lerk, den Anführer des SWAT Teams - Künstler der Ungewaschenen Dorflinge -
@@ -54,28 +54,28 @@
 {300}{}{Seife? Wir brauchen keine klebrige Seife!}
 {301}{}{Versammelt Euch, Ungewaschene! Zerstört den Spammer!}
 {302}{}{Tod den Spammern!}
-{303}{}{Das hast Du davon, daß Du das Leben anderer Leute bedrohst!}
-{304}{}{Now you will die, Grim Reaper.}
+{303}{}{Das hast Du davon, dass Du das Leben anderer Leute bedrohst!}
+{304}{}{Stirb jetzt, Grim Reaper.}
 {305}{}{Du gehst zurück, Australier!}
 {306}{}{Der Genpool braucht etwas Chlor.}
 {307}{}{Zeit zum Zurückzahlen!}
 {308}{}{Jetzt kannst Du was erleben.}
 {309}{}{Die ungewaschenen Dorflinge sind hier, um die Menschen vor Abschaum wie Dir zu beschützen!}
-{310}{}{Laß die Menschen in Ruhe!}
+{310}{}{Lass die Menschen in Ruhe!}
 {311}{}{Die Kraft des Drecks!}
 {312}{}{Wir mögen zwar ungewaschen sein, aber wir sind hier, um aufzuräumen!}
 {313}{}{Diesmal entkommst Du uns nicht!}
 {314}{}{Beschützt den Auserwählten von den Hirngespinsten des Spammers!}
 {315}{}{Auserwähltes Wesen! Komm zu uns!}
 {316}{}{Die Rache der Ungewaschenen!}
-{317}{}{You will never be 'Unwashed', childish fool!}
+{317}{}{Du wirst niemals ein Ungewaschenes Wesen sein, Du Dummkopf!}
 {318}{}{Du hast keine Chance!}
 {319}{}{Wir sind noch nicht fertig!}
 {320}{}{Auf diesen Tag habe ich seeeehr lange gewartet.}
-{400}{}{Das ist dafür, daß Du mich bedroht hast!}
-{401}{}{Like I'm sure! You wouldn't hurt a girl, would you?}
+{400}{}{Das ist dafür, dass Du mich bedroht hast!}
+{401}{}{Da bin ich ganz sicher! Du würdest einem Mädchen nicht weh tun, oder?}
 {402}{}{'Rache wird am besten kalt serviert.'}
-{403}{}{I'm Buffy... you're toast.}
+{403}{}{Ich bin Buffy... du bist erledigt.}
 {405}{}{Keiner wagt es, Doombot zu bedrohen!}
 {406}{}{Grim Buster!}
 {410}{}{Nur ein guanaban kann man mit dem Geschmack dieses Sieges vergleichen...}
@@ -90,4 +90,4 @@
 {442}{}{Nicht das Gesicht, nicht das Gesicht!}
 {445}{}{Die Hölle, in die ich Dich jetzt schicken werde, hat Dante nicht beschrieben...}
 {450}{}{Gewehre! Gewehre! Gewehre! Wo sind meine Gewehre!}
-{451}{}{Ok, Ja. Ich bin verrückt. Damit mußt Du zurecht kommen.}
+{451}{}{Ok, Ja. Ich bin verrückt. Damit musst Du zurecht kommen.}

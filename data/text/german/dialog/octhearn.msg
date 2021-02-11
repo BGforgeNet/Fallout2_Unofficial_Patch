@@ -15,7 +15,7 @@
 {113}{}{Ich Thearn. Wer du?}
 {114}{}{Ich}
 {115}{}{Ich gehn.}
-{116}{}{Ich muß gehn.}
+{116}{}{Ich muss gehn.}
 {117}{}{Freut mich, dich kennenzulernen, Thearn. Ich bin}
 {118}{}{Kapiert.}
 {119}{}{Wenn ich mir's so recht überlege, interessiert's mich nicht die Bohne, wer du bist.}

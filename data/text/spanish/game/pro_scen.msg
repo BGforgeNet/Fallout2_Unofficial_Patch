@@ -398,9 +398,9 @@
 {20700}{}{Colchón viejo}
 {20701}{}{Incluso si te atrevieras en esta cosa, no lo harías sólo.}
 {20800}{}{Cama}
-{20801}{}{A makeshift bed. The material was scavenged from some other source.}
+{20801}{}{Una improvisada cama. El material fue recolectado de alguna otra fuente.}
 {20900}{}{Cama}
-{20901}{}{A makeshift bed. The material was scavenged from some other source.}
+{20901}{}{Una improvisada cama. El material fue recolectado de alguna otra fuente.}
 {21000}{}{Cama}
 {21001}{}{Esta cama ha visto mejores días (y probablemente noches, también).}
 {21100}{}{Cama}
@@ -2596,12 +2596,12 @@
 {169400}{}{Sombra}
 {169500}{}{Sombra}
 {169600}{}{Sombra}
-{169700}{}{Strange machine, crashed}
-{169800}{}{Strange machine, crashed}
-{169900}{}{Strange machine, crashed}
-{170000}{}{Strange machine, crashed}
-{170100}{}{Strange machine, crashed}
-{170200}{}{Strange machine, crashed}
+{169700}{}{Máquina extraña, se estrelló}
+{169800}{}{Máquina extraña, se estrelló}
+{169900}{}{Máquina extraña, se estrelló}
+{170000}{}{Máquina extraña, se estrelló}
+{170100}{}{Máquina extraña, se estrelló}
+{170200}{}{Máquina extraña, se estrelló}
 {170300}{}{Sombra}
 {170400}{}{Sombra}
 {170500}{}{Sombra}

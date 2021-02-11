@@ -19,15 +19,15 @@
 {118}{}{Du da, so was darf man hier nicht anhaben.}
 {119}{}{Ich trage meine Rüstung, wo ich will.}
 {120}{}{Oh, tut mir leid, Sir. Ich gehe lieber.}
-{121}{}{Ach ja? Dann muß ich dich wohl melden.}
+{121}{}{Ach ja? Dann muss ich dich wohl melden.}
 {122}{}{Nur zu. Macht mir nichts.}
 {123}{}{Oh, bitte nicht. Ich gehe auch schon. Auf Wiedersehen.}
 {124}{}{Ich bin Tom Murray, Leiter der Atomenergiekommission. Ich leite unser Atomkraftwerk
  hier. Wer bist du, und was tust du hier?}
 {125}{}{Was willst du denn jetzt?}
-{126}{}{Ich muß deinen Atomreaktor stillegen.}
+{126}{}{Ich muss deinen Atomreaktor stillegen.}
 {127}{}{Ich wollte nur wissen, wie dein Reaktor so funktioniert.}
-{128}{}{Ich muß dich auslöschen.}
+{128}{}{Ich muss dich auslöschen.}
 {129}{}{Hilfe! Helft mir! Hilfe!}
 {130}{}{Eindringlinge! Alarm!}
 {131}{}{Lauft um euer Leben! Die Wilden sind los!}
@@ -36,34 +36,34 @@
 {134}{}{Stillegen? Bist du wahnsinnig. *Meinen* Reaktor legst du nicht still.}
 {135}{}{Oh doch. Du sagst mir jetzt lieber wie, oder ich lege dich still, für immer.}
 {136}{}{Sagte ich stillegen? Tut mir leid, ich wollte nur wissen, wie der Reaktor funktioniert.}
-{137}{}{Ach, das ist deiner? Tut mir leid, das wußte ich nicht. Naja, Tschüß dann.}
-{138}{}{Paß auf, ich mach's für dich. Aber wenn du ihn zu schnell abschaltest, überhitzt er.}
+{137}{}{Ach, das ist deiner? Tut mir leid, das wusste ich nicht. Naja, Tschüss dann.}
+{138}{}{Pass auf, ich mach's für dich. Aber wenn du ihn zu schnell abschaltest, überhitzt er.}
 {139}{}{Macht mir gar nichts. Schalte den Reaktor aus, oder ich nehm dich aus wie einen Fisch.}
-{140}{}{Das klingt ja gefährlich. Also gut, vergiß es. Tschüß.}
+{140}{}{Das klingt ja gefährlich. Also gut, vergiss es. Tschüss.}
 {141}{}{Du bluffst. Das würdest du nicht wagen.}
 {142}{}{Und ob! Wenn du mir nicht hilfst, bist du tot.}
 {143}{}{Du hattest eine Chance, zu kooperieren, aber du wolltest ja nicht. Naja, ich kann nicht
- zulassen, daß du Alarm schlägst. }
+ zulassen, dass du Alarm schlägst. }
 {144}{}{He, war nur Spaß. Wie funktioniert denn der Reaktor?}
-{145}{}{Ja, hast wohl recht. Bleib trotzdem noch 'ne Zeitlang still, wenn ich weg bin. Tschüß.}
+{145}{}{Ja, hast wohl recht. Bleib trotzdem noch 'ne Zeitlang still, wenn ich weg bin. Tschüss.}
 {146}{}{OK, OK. Ich mach's. Ganz ruhig. Aber ich sag dir was: Sobald ich die Steuerstäbe
  herunterlasse, wird er überhitzen. Wenn wir so eine schnelle Stillegung durchziehen, müssen wir
  hier schnell abhauen, sonst müssen wir bald Chinesisch lernen.}
 {147}{}{Ja, egal. Schalt das blöde Ding jetzt einfach aus!}
 {148}{}{Das klingt gefährlich. Vielleicht sollte ich nach einer anderen Möglichkeit suchen. Ich
- möchte nicht, daß irgend jemandem was passiert. Tschüß.}
+ möchte nicht, dass irgend jemandem was passiert. Tschüss.}
 {149}{}{Ich werde nicht das Leben der Leute hier aufs Spiel setzen. Keine Chance. }
-{150}{}{Tut mir leid für dich. Dann muß ich dich wohl umlegen. Nimm's nicht persönlich.}
+{150}{}{Tut mir leid für dich. Dann muss ich dich wohl umlegen. Nimm's nicht persönlich.}
 {151}{}{Wieso würde das das Leben der Leute hier aufs Spiel setzen? Wie funktioniert denn der
  Reaktor?}
-{152}{}{Ich muß wohl doch eine andere Möglichkeit finden, den Strom abzustellen. Bleib bloß
- ruhig, wenn ich hier weg bin. Tschüß.}
+{152}{}{Ich muss wohl doch eine andere Möglichkeit finden, den Strom abzustellen. Bleib bloß
+ ruhig, wenn ich hier weg bin. Tschüss.}
 {153}{}{Also gut. OK, äh, das hier in den grünen Bereich. [Er fummelt einige Minuten am
  Schaltpult herum und redet dabei mit sich selber.] OK, das war's, aber er bleibt sicher nicht
  lange stabil.}
-{154}{}{Das war eine weise Entscheidung. Jetzt muß ich weg. Du bleib lieber weiter ruhig hier.}
-{155}{}{Gut gemacht. Jetzt muß ich dich umlegen. Sorry, aber ich kann keine Zeugen brauchen.}
-{156}{}{Ich muß los. Tschüß.}
+{154}{}{Das war eine weise Entscheidung. Jetzt muss ich weg. Du bleib lieber weiter ruhig hier.}
+{155}{}{Gut gemacht. Jetzt muss ich dich umlegen. Sorry, aber ich kann keine Zeugen brauchen.}
+{156}{}{Ich muss los. Tschüss.}
 {157}{}{So viele Reaktoraktivitäten kontrolliere ich nicht. Der Zentralrechner nördlich vom Reaktor
  steuert die meisten Kraftwerksfunktionen. Wenn der nicht wäre, hätten wir gar keinen Strom.}
 {158}{}{Gar keinen Strom?}
@@ -75,6 +75,6 @@
  sich, wenn das passiert. Nichts auf der Welt kann die öffnen, wenn sie durch so einen
  Stromausfall geschlossen werden. Sicherheitsmaßnahme.}
 {162}{}{Interessant. Eines wollte ich aber noch wissen.}
-{163}{}{Mehr muß ich nicht wissen. Danke, du warst eine große Hilfe. Bleib lieber ruhig, wenn ich
+{163}{}{Mehr muss ich nicht wissen. Danke, du warst eine große Hilfe. Bleib lieber ruhig, wenn ich
  weg bin.}
-{164}{}{Danke. Nur schade, daß du das nicht mehr erleben wirst. Tschüß.}
+{164}{}{Danke. Nur schade, dass du das nicht mehr erleben wirst. Tschüss.}

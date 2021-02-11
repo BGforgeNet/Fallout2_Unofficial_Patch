@@ -4,7 +4,7 @@
 {102}{}{Du siehst Martin.}
 {103}{}{Du siehst einen Mann mit schlaff herabhängendem Unterkiefer, der fortwährend hektisch
  blinzelt.}
-{104}{}{Danke, daß du uns gere-re-re-rettet hast. Es hat sich bis hi-hi-hi-hierher
+{104}{}{Danke, dass du uns gere-re-re-rettet hast. Es hat sich bis hi-hi-hi-hierher
  rumgesp-gesp-gesprochen.}
 {105}{}{Hi-Hilfe! Einbrecher!}
 {106}{}{Ein Mu-mu-muta-ta-tant! Hilfe!}
@@ -34,7 +34,7 @@
 {130}{}{Du ha-ha-ha-hast mich zu Tode ersch-sch-sch-schrocken.}
 {131}{}{Ajiiiiee! Ajiiiiee!}
 {132}{}{Tut mir leid, ich wollte dir keine Angst machen.}
-{133}{}{We-we-wenn du ein bi-bi-bißchen aufpassen würdest, was um dich herum vorgeht, w-w-würdest du
+{133}{}{We-we-wenn du ein bi-bi-bisschen aufpassen würdest, was um dich herum vorgeht, w-w-würdest du
  uns ALLEN keinen solchen Sch-Schrecken einjagen, Kumpel.}
 {134}{}{Scho-schon gut.}
 {135}{}{Tu-tut mir la-leid.}
@@ -43,14 +43,14 @@
 {138}{}{(Tut mir leid. Es kommen nicht sehr häufig Leute in die Vault.)}
 {139}{}{Was machst du hier?}
 {140}{}{Kannst du mir sagen, wo der Vaultzentralcomputer ist?}
-{141}{}{Oh. War nett, mit dir zu plaudern. Tschüß dann.}
+{141}{}{Oh. War nett, mit dir zu plaudern. Tschüss dann.}
 {142}{}{Er ste-ste-steht da-da drüben. Der sp-sp-sprechende Compuh-puh-pjuter ist es.}
 {143}{}{(Er steht da drüben. Der sprechende Computer ist es.)}
 {144}{}{Was machst du hier?}
 {145}{}{Vielen Dank. Auf Wiedersehn.}
-{146}{}{Gib a-a-aber auf die Sachen acht, di-di-die hier gela-la-lagert werden. Sieh z-z-zu, daß
+{146}{}{Gib a-a-aber auf die Sachen acht, di-di-die hier gela-la-lagert werden. Sieh z-z-zu, dass
  alle Türen verschlo-schlo-schlossen b-bleiben.}
-{147}{}{(Gib aber auf die Sachen acht, die hier gelagert werden. Sieh zu, daß alle Türen
+{147}{}{(Gib aber auf die Sachen acht, die hier gelagert werden. Sieh zu, dass alle Türen
  verschlossen bleiben.)}
 {148}{}{Hast du einen Schlüssel?}
 {149}{}{Was lagert ihr hier unten denn so alles?}
@@ -87,7 +87,7 @@
 {178}{}{(Tut mir leid. Ich hör ja schon auf.)}
 {179}{}{Also...was machst du hier noch mal?}
 {180}{}{Gut. Tu der Menschheit einen Gefallen und sei still.}
-{181}{}{D-D-Du mu-mu-mußt sta-sta-still sein! P-P-Psssssst!}
+{181}{}{D-D-Du mu-mu-musst sta-sta-still sein! P-P-Psssssst!}
 {182}{}{Schulligung}
 {183}{}{Wa-wa-was machst d-du hier u-u-unten?!}
 {184}{}{GEK}

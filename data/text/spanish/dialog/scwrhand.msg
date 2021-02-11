@@ -6,7 +6,7 @@
 {105}{}{Estoy harto de brahmines.}
 {106}{}{He oído que los Bishop entraron por nuestro jefe.}
 {107}{}{Si quieres hablar con alguien, habla con el capataz, Felix.}
-{108}{}{You ain't with the Bishops, are you?}
+{108}{}{Es que no estás con los Obispos, que son?}
 {109}{}{Sabemos que fue un asesinato. Si atrapamos a la serpiente, su muerte no será rápida.}
 {110}{}{Felix asegura que los Bishop están detrás de esto. Dice que hay dinero de por medio para alguien.}
 {111}{}{Bien, supongo que es hora de moverse. Las cosas se han ido al infierno por aquí.}

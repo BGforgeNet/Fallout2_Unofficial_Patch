@@ -28,7 +28,7 @@
 {600}{}{ Flaschen Bier am Klavier...}
 {601}{}{ Flaschen Bier...}
 {602}{}{Nimm eine weg...}
-{603}{}{Laß sie rumgehen...}
+{603}{}{Lass sie rumgehen...}
 {605}{}{}
 {700}{}{Ruder ruder ruder}
 {701}{}{Immerzu dein Boot}
@@ -42,27 +42,27 @@
 {803}{}{Jet-Gegenmittel.}
 {804}{}{}
 {900}{}{Gib mir}
-{901}{}{Einen Kuß, damit ich träumen kann}
-{902}{}{Einen Kuß, daß meine Phantasie}
+{901}{}{Einen Kuss, damit ich träumen kann}
+{902}{}{Einen Kuss, dass meine Phantasie}
 {903}{}{Mich weit hinfortträgt}
 {904}{}{Mmmmm}
 {905}{}{Mein Schatz,}
 {906}{}{Nur das eine will ich noch von dir:}
-{910}{}{Bevor du fortgehst einen Kuß}
-{912}{}{Den Kuß, nach dem mein Herz sich so verzehrt}
-{913}{}{Nur einen Kuß noch, eh du gehst...}
+{910}{}{Bevor du fortgehst einen Kuss}
+{912}{}{Den Kuss, nach dem mein Herz sich so verzehrt}
+{913}{}{Nur einen Kuss noch, eh du gehst...}
 {915}{}{Und wenn ich dann bin allein}
 {916}{}{Werd in Gedanken ich bei dir sein}
 {917}{}{Wiiiiiieder bei dir sein und duuuuu bei mir}
 {918}{}{Im Taumel der Glückseligkeit}
 {919}{}{Die nie vorübergeht}
-{920}{}{Oh, laß mich deine Lippen kosten, dieses letzte Mal}
-{921}{}{Gib mir den Kuß, der nie vergeht...}
+{920}{}{Oh, lass mich deine Lippen kosten, dieses letzte Mal}
+{921}{}{Gib mir den Kuss, der nie vergeht...}
 {923}{}{Gib mir, was nur du mir geben kannst}
 {925}{}{::Maultrommel::}
-{930}{}{I'll... be with yoooou}
+{930}{}{Wiiiiiieder bei dir sein und duuuuu bei mir}
 {933}{}{Ohhhh}
-{935}{}{Ein Kuß, ein Augenblick}
+{935}{}{Ein Kuss, ein Augenblick}
 {937}{}{Der nie vorübergeht}
 {941}{}{}
 {1200}{}{! Unser Superheld! Irgendwelche Wünsche? Vielleicht 'nen kleinen Song, hm?}

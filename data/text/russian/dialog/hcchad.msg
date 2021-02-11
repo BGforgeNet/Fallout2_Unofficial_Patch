@@ -25,9 +25,7 @@
 {138}{}{Звучит чертовски скучно.}
 {139}{}{У меня есть еще вопросы.}
 {140}{}{Спасибо. Пока.}
-{141}{}{Tell you about Broken Hills? Well... I moved here a few years back. Got a job with the Bill --
- that's the Outfitter -- and moved up to where I am now. I report to Marcus and the Bill, but I'm
- responsible for the livelihood of the town.}
+{141}{}{Рассказать тебе о Брокен Хиллс? Ну... я перебрался сюда несколько лет назад. Нашел работу у Билла -- он местный снабженец -- и постепенно стал тем, кем я стал. Я подчиняюсь Маркусу и Биллу, но от меня зависит благосостояние города.}
 {142}{}{У меня есть еще вопросы.}
 {143}{}{Пока.}
 {144}{}{Типа каких?}

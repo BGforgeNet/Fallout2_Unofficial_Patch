@@ -38,7 +38,7 @@
 {137}{}{Ich sollte jetzt wirklich weiter. War nett mit dir Bekanntschaft zu machen.}
 {138}{}{Vielleicht sehen wir uns wieder.}
 {139}{}{Ich möchte noch vor Sonnenuntergang in der nächsten Stadt sein. Ich geh besser.}
-{140}{}{I'd be going.}
+{140}{}{Ich geh dann besser.}
 {141}{}{Hinterhalt!}
 {142}{}{Heutzutage kann man niemandem trauen.}
 {143}{}{Du hast die Regeln des Reisens gebrochen.}

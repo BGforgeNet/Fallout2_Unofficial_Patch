@@ -17,10 +17,10 @@
 {157}{}{Hilfe!}
 {158}{}{Verschwinde!}
 {159}{}{Mein Kopf schmerzt so schon genug!}
-{160}{}{Laß mich in Ruhe.}
+{160}{}{Lass mich in Ruhe.}
 {200}{}{Wow, du hast ein unheimliches, dunkles Glühen...}
 {201}{}{Meine Güte, bist du eine Niete.}
-{202}{}{Sag ihnen nicht, daß wir wissen, daß dort nichts ist.}
+{202}{}{Sag ihnen nicht, dass wir wissen, dass dort nichts ist.}
 {203}{}{Ahhh...}
 {204}{}{Siehst du mich?}
 {205}{}{Sei danz, danz still. Ich jage Taninchen.}
@@ -47,14 +47,14 @@
 {226}{}{Ich brauch Jet.}
 {227}{}{Ich kann nicht warten, ich brauch es jetzt.}
 {228}{}{Nimmst du meinen Tabak?}
-{229}{}{Ach, laß mich in Ruhe.}
+{229}{}{Ach, lass mich in Ruhe.}
 {230}{}{Mann, ich hab ein ziemlich übles Zittern.}
 {231}{}{Ich hasse diesen Teil.}
 {232}{}{Ich will einfach nur sterben.}
 {233}{}{Ich brauch was, echt!.}
 {234}{}{Ich halte das nicht länger aus.}
 {235}{}{Ich glaub, ich hab Fieber.}
-{236}{}{Ich glaub, ich muß kotzen.}
+{236}{}{Ich glaub, ich muss kotzen.}
 {237}{}{Vielleicht wenn ich einfach schlafe...}
 {238}{}{Ich hab ein ziemlich übles Zittern, Lady.}
 {300}{}{Ist das Blut?}
@@ -65,7 +65,7 @@
 {305}{}{Ich blute... glaub ich.}
 {306}{}{Oh, dieser Schmerz.}
 {307}{}{Jetzt brauch ich wirklich Jet.}
-{308}{}{Laß mich einfach nur sterben.}
+{308}{}{Lass mich einfach nur sterben.}
 {350}{}{Ahhhh...}
 {351}{}{Ich schwebe...}
 {352}{}{Ich habe die Kraft!}
@@ -89,7 +89,7 @@
 {370}{}{Hol mehr...}
 {371}{}{Da? Nein.}
 {372}{}{Nein. Kann es nicht finden.}
-{373}{}{Mach, daß es aufhört!}
+{373}{}{Mach, dass es aufhört!}
 {374}{}{Agh.}
 {375}{}{Oh, dieser Schmerz.}
 {376}{}{<hust> <hust> <hust>}

@@ -33,7 +33,7 @@
 {132}{gate8b}{¡Alto! Tú de nuevo. Y veo que sigues con tu grupo. (poniendo la mano en el arma) Te sugiero que abandones la instalación inmediatamente y no vuelvas por ahí. ¿Está claro?}
 {133}{}{Sargo.}
 {134}{}{Sí.}
-{135}{gate9}{¡Alto! De nuevo aquí, ¿eh? Será mejor que esta vez tengas el pase o te sepas la contraseña. Bien, estoy esperando.}
+{135}{gate9}{Alto! -- De nuevo, ¿eh? Es mejor que tener tu pase o saber la contraseña de este tiempo. Bueno, estoy esperando?}
 {136}{}{Uh... no sé. Yo vuelvo.}
 {137}{}{Te den. Paso sobre cadáver tuyo.}
 {138}{}{Mira, he perdido mi pase...}

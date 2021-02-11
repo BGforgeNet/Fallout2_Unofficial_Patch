@@ -4,7 +4,7 @@
  Den.}
 {201}{}{Schwarzes Brett von Den: Geführt von Rebeccas Kasino-Bar...}
 {202}{}{[Jemand hat etwas an den Rand dieses Aushangs gekritzelt.]}
-{203}{}{[Du siehst, daß ein Teil dieses Aushangs abgerissen wurde.]}
+{203}{}{[Du siehst, dass ein Teil dieses Aushangs abgerissen wurde.]}
 {204}{}{Sklavenhändlergilde}
 {205}{}{Bars & Spiele}
 {206}{}{Speisen}
@@ -17,7 +17,7 @@
 {325}{}{[Zwei sind aufgeführt.]}
 {350}{}{Rebeccas Kasino-Bar bietet sowohl Spiele als auch großartige, erschwingliche Getränke an.}
 {375}{}{Du findest uns östlich von hier. Wir sind das erste Gebäude links, wenn du in die Stadt
- kommst. Du mußt einfach mal vorbeikommen!}
+ kommst. Du musst einfach mal vorbeikommen!}
 {400}{}{Becky is eine Prostatauierte und ihre Getrenke sind ferdünt! Sie ist eine Gaunerin und
  eine Lühgnerin! [Die Schrift ist kaum lesbar.]}
 {401}{}{[Der Aushang, der hier hing, wurde sauber entfernt.]}

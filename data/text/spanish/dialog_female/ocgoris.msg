@@ -4,7 +4,7 @@
  en su apariencia, pero no sabes exactamente qué es.}
 {103}{}{Hola, soy Goris. No te reconozco, ¿eres nueva aquí?}
 {104}{}{Yo }
-{105}{}{Me voy, yo.}
+{105}{}{Yo ir.}
 {106}{}{Sí, ¿y qué?}
 {107}{}{Hola. Soy }
 {108}{}{Hola, Goris. Gruthar me dijo que te buscase. Parece que cree que eres el tipo que conoce las
@@ -18,11 +18,11 @@
  pareces distinto. Pareces más 'experimentado', si entiendes a que me refiero. Seguro que has estado por ahí
  haciendo un poco de todo. ¿Estoy en lo cierto?}
 {114}{}{Eh... '¿experimentada?'}
-{115}{}{Me voy, yo.}
+{115}{}{Yo ir.}
 {116}{}{Lo siento, creo que debo irme.}
 {117}{}{Sí, he vivido algunas aventuras. Bueno, si no te importa responder unas preguntas, te
  contaría algunas de mis aventuras a cambio.}
-{118}{}{Nadie que te importe.}
+{118}{}{No es asunto tuyo.}
 {119}{}{¿Te importa si te algo algunas preguntas?}
 {120}{}{¡Trato hecho! Me encantaría escuchar cualquier cosa que puedas contarme.}
 {121}{}{Además, no puedo rechazar a un amigo de Gruthar.}
@@ -107,7 +107,7 @@
 {185}{}{Sí, ya sabes, muy viajado... con conocimientos... experimentado... no tienes ni idea de lo que estoy
  hablando, ¿verdad? }
 {186}{}{Comida condimentada, no yo.}
-{187}{}{Marcho ahora.}
+{187}{}{Yo irme ahora.}
 {188}{}{Oh oh. Bueno, puede que tu cociente intelectual sea menor que tu medida de zapato, pero obviamente tienes algo
  que hace que hayas sobrevivido en ese mundo todo este tiempo... Vale, intentémoslo. Quiero dejar este lugar,
  viajaré contigo. ¿De acuerdo?}
@@ -115,7 +115,7 @@
  hayas sobrevivido en ese mundo todo este tiempo... debe ser ese lado oscuro que percibo en ti. Oh,
  en fin. Adiós.}
 {190}{}{Eh... vale.}
-{191}{}{Me voy, yo.}
+{191}{}{Yo ir.}
 {192}{}{Lo siento, no pretendía entrometerme en tus asuntos privados.}
 {193}{}{Ya, bueno, ¡no lo hagas de nuevo!}
 {194}{}{Lo que sea. Pero necesito algo de información.}
@@ -147,7 +147,7 @@
 {217}{}{Así que el Enclave comenzó a experimentar con un virus, o algo parecido, y se lo inyectó a las Garras mortales. Se sabía que ese virus mutaba a los humanos en súper criaturas, así que el Enclave quería ver si daba el mismo resultado con las Garras mortales. Bien, el resultado fue una camada de Garras tan inteligentes que pudieron ver que su destino era la esclavitud. Así que ocultaron su inteligencia hasta que pudieron obtener su libertad. ¡Y aquí están!}
 {218}{}{Estoy en contra de atacar a cualquier Garra mortal.}
 {219}{}{Percibo de pronto que mi manada está en problemas. Siento dejarte, pero debo ver a mis hermanos.}
-{220}{}{De acuerdo.}
+{220}{}{Vale.}
 {221}{}{Las cámaras de seguridad han registrado lo ocurrido. Deberías ir a comprobarlo.}
 {222}{}{Ves una Garra mortal gris. Es Goris.}
 {223}{}{Ves una figura humanoide que viste una túnica larga con capucha. Es Goris.}

@@ -75,14 +75,14 @@
 {351}{}{Haupttor}
 {360}{}{Hafen}
 {361}{}{Gefängnis}
-{362}{}{Boß des Viertels}
+{362}{}{Boss des Viertels}
 {363}{}{Kaserne}
 {364}{}{Präsidenten Bereich}
 {365}{}{Reaktor}
 {366}{}{Fallenraum}
-{370}{}{Error:Blank}
-{380}{}{Error:Blank}
-{390}{}{Error:Blank}
+{370}{}{Fehler:Leer}
+{380}{}{Fehler:Leer}
+{390}{}{Fehler:Leer}
 {400}{}{Die Geisterstadt}
 {401}{}{Haupthöhle}
 {402}{}{Unterirdischer See}
@@ -163,8 +163,8 @@
 {1001}{}{Mountains}
 {1002}{}{City}
 {1003}{}{Coast}
-{1004}{}{Unknown}
-{1500}{}{You gained 10,000 experience points!}
+{1004}{}{Unbekannt}
+{1500}{}{Du erhälst 10,000 Erfahrungspunkte!}
 {1501}{}{Ruins}
 {1502}{}{Das Auto hat keinen Strom mehr.}
 {1503}{}{Ein Auto. Es sieht nicht so aus, als ob es funktionieren würde.}
@@ -210,7 +210,7 @@
 {3316}{}{Einer Gruppe Ratten.}
 {3317}{}{Einer Jagdtruppe im Kampf gegen Kannibalen.}
 {3318}{}{Einer Gruppe von Ameisen.}
-{3319}{}{A hunting party fighting some radscorpions.}
+{3319}{}{Einer Jagdgruppe im Kampf gegen Skorpione.}
 {3320}{}{Einer kleinen Gruppe Schweineratten.}
 {3321}{}{Einer kleinen Gruppe Radskorpione.}
 {3322}{}{Einer kleinen Gruppe Ameisen.}
@@ -240,7 +240,7 @@
 {3369}{}{Einer Gruppe Ratten.}
 {3370}{}{Einer Jagdtruppe im Kampf gegen Kannibalen.}
 {3371}{}{Einer Gruppe von Ameisen.}
-{3372}{}{A hunting party fighting some radscorpions.}
+{3372}{}{Einer Jagdgruppe im Kampf gegen Skorpione.}
 {3373}{}{Einer kleinen Gruppe Schweineratten.}
 {3374}{}{Einer kleinen Gruppe Radskorpione.}
 {3375}{}{Einer kleinen Gruppe Ameisen.}
@@ -272,7 +272,7 @@
 {3416}{}{Einer Gruppe Ratten.}
 {3417}{}{Einer Jagdtruppe im Kampf gegen Kannibalen.}
 {3418}{}{Einer Gruppe von Ameisen.}
-{3419}{}{A hunting party fighting some radscorpions.}
+{3419}{}{Einer Jagdgruppe im Kampf gegen Skorpione.}
 {3420}{}{Einer kleinen Gruppe Schweineratten.}
 {3421}{}{Einer kleinen Gruppe Radskorpione.}
 {3422}{}{Einer kleinen Gruppe Ameisen.}
@@ -355,8 +355,8 @@
 {3574}{}{Einigen Banditen, die Obdachlose in einen Hinterhalt locken.}
 {3575}{}{Einigen Obdachlosen, die Farmer abschlachten.}
 {3576}{}{Einigen Banditen, die Bauern angreifen.}
-{3577}{}{Some farmers fending off some radscorpions.}
-{3578}{}{Some trappers fighting some radscorpions.}
+{3577}{}{Einigen Bauern, die Skorpione abwehren.}
+{3578}{}{Einigen Fallenstellern im Kampf gegen Skorpione.}
 {3579}{}{Einigen Fallenstellern, die Schweineratten angreifen.}
 {3580}{}{Einigen Bauern, die ein Nest von Schweineratten ausheben.}
 {3581}{}{Einigen Bauern.}
@@ -392,8 +392,8 @@
 {3621}{}{Einigen Banditen, die Obdachlose in einen Hinterhalt locken.}
 {3622}{}{Einigen Obdachlosen, die Farmer abschlachten.}
 {3623}{}{Einigen Banditen, die Bauern angreifen.}
-{3624}{}{Some farmers fending off some radscorpions.}
-{3625}{}{Some trappers fighting some radscorpions.}
+{3624}{}{Einigen Bauern, die Skorpione abwehren.}
+{3625}{}{Einigen Fallenstellern im Kampf gegen Skorpione.}
 {3626}{}{Einigen Fallenstellern, die Schweineratten angreifen.}
 {3627}{}{Einigen Bauern, die ein Nest von Schweineratten ausheben.}
 {3628}{}{Einigen Bauern.}
@@ -422,8 +422,8 @@
 {3669}{}{Einer Familie von Maulwurfsratten.}
 {3670}{}{Einigen Banditen.}
 {3671}{}{Einer Truppe Fallensteller, die versuchen, Goldgeckos zu fangen.}
-{3672}{}{Some radscorpions fighting some golden geckos.}
-{3673}{}{Some radscorpions attacking some molerats and pig rats.}
+{3672}{}{Einigen Skorpionen im Kampf gegen Goldgeckos.}
+{3673}{}{Einigen Skorpionen, die Maulwurfs- und Schweineratten angreifen.}
 {3674}{}{Einigen Fallenstellern und einer Händlergruppe, die sich gegen Banditen wehren.}
 {3675}{}{Einigen Geckos.}
 {3676}{}{Einigen Fallenstellern im Kampf gegen Maulwurfs- und Schweineratten.}
@@ -550,7 +550,7 @@
 {3900}{}{Einigen Wegelagerern und Räubern.}
 {3901}{}{Einigen Straßenräubern.}
 {3902}{}{Einem großen Rudel Goldgeckos.}
-{3903}{}{Some radscorpions hiding in the spore plants.}
+{3903}{}{Einigen Skorpionen, versteckt zwischen Sporenpflanzen.}
 {3904}{}{Ein paar Kopfgeldjägern.}
 {3905}{}{Ein paar Kopfgeldjägern.}
 {3906}{}{Ein paar Kopfgeldjägern.}
@@ -560,7 +560,7 @@
 {3910}{}{Ein paar Kopfgeldjägern.}
 {3911}{}{Ein paar Kopfgeldjägern.}
 {3912}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
-{3913}{}{Some robbers fighting some radscorpions.}
+{3913}{}{Einigen Räubern im Kampf gegen Skorpione.}
 {3914}{}{Einigen Räubern.}
 {3915}{}{Einer Gruppe von Kaufleuten, die von Wegelagerern angegriffen wird.}
 {3916}{}{Einer Gruppe von Kaufleuten, die von Räubern überfallen wird.}
@@ -1474,7 +1474,7 @@
 {5867}{}{Einem Mann, der eine Brücke bewacht.}
 {5868}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {5900}{}{Einer Söldnerbande.}
-{5901}{}{Einer Preßpatrouille.}
+{5901}{}{Einer Presspatrouille.}
 {5902}{}{Einer Herde Deathclaws.}
 {5903}{}{Einer Schar Feuergeckos.}
 {5904}{}{Ein paar Kopfgeldjägern.}
@@ -1488,10 +1488,10 @@
 {5912}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5913}{}{Einem Haufen Aliens.}
 {5914}{}{Hubologen, die gegen Söldner kämpfen.}
-{5915}{}{Hubologen, die sich gegen eine Preßpatrouille verteidigen.}
+{5915}{}{Hubologen, die sich gegen eine Presspatrouille verteidigen.}
 {5916}{}{Hubologen.}
 {5950}{}{Einer Söldnerbande.}
-{5951}{}{Einer Preßpatrouille.}
+{5951}{}{Einer Presspatrouille.}
 {5952}{}{Einer Herde Deathclaws.}
 {5953}{}{Einer Schar Feuergeckos.}
 {5954}{}{Ein paar Kopfgeldjägern.}
@@ -1505,12 +1505,12 @@
 {5962}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {5963}{}{Einem Haufen Aliens.}
 {5964}{}{Hubologen, die gegen Söldner kämpfen.}
-{5965}{}{Hubologen, die sich gegen eine Preßpatrouille verteidigen.}
+{5965}{}{Hubologen, die sich gegen eine Presspatrouille verteidigen.}
 {5966}{}{Hubologen.}
 {5967}{}{Einem Mann, der eine Brücke bewacht.}
 {5968}{}{Den Rittern der Tafelrunde im Kampf gegen eine Ratte.}
 {6000}{}{Einer Söldnerbande.}
-{6001}{}{Einer Preßpatrouille.}
+{6001}{}{Einer Presspatrouille.}
 {6002}{}{Einer Herde Deathclaws.}
 {6003}{}{Einer Schar Feuergeckos.}
 {6004}{}{Ein paar Kopfgeldjägern.}
@@ -1524,7 +1524,7 @@
 {6012}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
 {6013}{}{Einem Haufen Aliens.}
 {6014}{}{Hubologen, die gegen Söldner kämpfen.}
-{6015}{}{Hubologen, die sich gegen eine Preßpatrouille verteidigen.}
+{6015}{}{Hubologen, die sich gegen eine Presspatrouille verteidigen.}
 {6016}{}{Hubologen.}
 {6050}{}{Einer Giftmülldeponie.}
 {6051}{}{Einem einsamen überlebenden Hund.}
@@ -1539,12 +1539,12 @@
 {6060}{}{Ein paar Kopfgeldjägern.}
 {6061}{}{Ein paar Kopfgeldjägern.}
 {6062}{}{ Einer Bande von Raufbolden - angeführt von einem der Morton-Brüder.}
-{6063}{}{Einer Preßpatrouille.}
+{6063}{}{Einer Presspatrouille.}
 {6064}{}{Einer Herde Deathclaws.}
 {6065}{}{Einer Schar Feuergeckos.}
 {6066}{}{Einem Haufen Aliens.}
 {6067}{}{Hubologen, die gegen Söldner kämpfen.}
-{6068}{}{Hubologen, die sich gegen eine Preßpatrouille verteidigen.}
+{6068}{}{Hubologen, die sich gegen eine Presspatrouille verteidigen.}
 {6069}{}{Hubologen.}
 {6070}{}{Den Überresten eines Wals.}
 {6071}{}{Einem riesigen Steinkopf.}

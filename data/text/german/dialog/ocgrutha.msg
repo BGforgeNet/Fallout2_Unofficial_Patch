@@ -1,7 +1,7 @@
 {100}{}{Du siehst eine große Deathclaw. Sie besteht aus Muskelpaketen, scharfen Zähnen und
  Krallen.}
 {101}{}{Du siehst Gruthar, den Anführer der Deathclaws.}
-{102}{}{Du siehst die beeindruckendste Deathclaw, die du dir vorstellen kannst. Die Kreatur muß
+{102}{}{Du siehst die beeindruckendste Deathclaw, die du dir vorstellen kannst. Die Kreatur muss
  auch unter ihresgleichen einzigartig sein.}
 {103}{}{Fürchte dich nicht, Mensch; Ich werde dir nichts tun. Ich bin Gruthar, Anführer dieses
  Deathclawrudels. Was ist dein Begehr?}
@@ -33,7 +33,7 @@
  Vaultbibliothek.}
 {121}{}{Danke. Ich freu mich auf ein Treffen mit Goris.}
 {122}{}{Ich bin nicht daran interessiert, meinen Freundeskreis um Deathclaws zu erweitern.
- Tschüß.}
+ Tschüss.}
 {123}{}{Also gut.}
 {124}{}{Sie sind fort, Mensch. Wir haben sie nicht getötet, um dann ihr Zuhause einzunehmen. Es
  ist nicht unsere Art zu töten. Du magst es nicht glauben, aber ich hoffe, du beurteilst mich
@@ -45,18 +45,18 @@
  leid, aber ich weiß nicht, was ein GECK ist, oder wo du es finden kannst.}
 {129}{}{Ja, ich glaube, das hast du schon einmal erwähnt. Ich weiß nicht, was ein GECK ist, oder
  wo man es finden kann.}
-{130}{}{Läßt du mich rein, um danach zu suchen?}
+{130}{}{Lässt du mich rein, um danach zu suchen?}
 {131}{}{He, das mit der kleinen Echse war echt witzig. Ist das ein Verwandter von euch?}
-{132}{}{Es ist offensichtlich, daß Reden mit dir reine Zeitverschwendung ist. Gehab dich wohl.}
+{132}{}{Es ist offensichtlich, dass Reden mit dir reine Zeitverschwendung ist. Gehab dich wohl.}
 {133}{}{Um ehrlich zu sein, ich weiß selbst nicht genau, was es ist. Wärst du damit
  einverstanden, wenn ich hier danach suche?}
 {134}{}{Bedaure, aber ich kann nicht einfach jedem gestatten, unsere Hallen zu durchstreifen. Ich
- bin für die Sicherheit aller verantwortlich und muß Vorsichtig walten lassen. Ich werde jedoch
+ bin für die Sicherheit aller verantwortlich und muss Vorsichtig walten lassen. Ich werde jedoch
  nach diesem GECK suchen und es doch wissen lassen, wenn ich es finde.}
 {135}{}{Bedaure, aber ich kann nicht einfach jedem gestatten, unsere Hallen zu durchstreifen. Ich
- bin für die Sicherheit aller verantwortlich und muß Vorsichtig walten lassen.}
-{136}{}{Also, paß mal auf, dieser Ort ist ja schließlich nicht dein Eigentum. Vielleicht seh ich
- mich um, ob es dir paßt oder nicht.}
+ bin für die Sicherheit aller verantwortlich und muss Vorsichtig walten lassen.}
+{136}{}{Also, pass mal auf, dieser Ort ist ja schließlich nicht dein Eigentum. Vielleicht seh ich
+ mich um, ob es dir passt oder nicht.}
 {137}{}{Ich verstehe Gruthar und ich respektiere deinen Wunsch nach Privatsphäre.}
 {138}{}{Ich kann deine Bedenken verstehen. Du kennst mich nicht gut genug, um mir zu trauen. Kann
  ich dir nicht irgendwie helfen und im Gegenzug erlaubst du mir, mich hier umzusehen?}
@@ -67,7 +67,7 @@
  Angebot eingehe.}
 {141}{}{Danke.}
 {142}{}{Schön, ich glaube, eine Kugel ist eine gute Lösung für jedes Problem.}
-{143}{}{Schade, daß du so denkst, Gruthar.}
+{143}{}{Schade, dass du so denkst, Gruthar.}
 {144}{}{Ich geh dann mal.}
 {145}{}{Hier gibt es viele Maschinen, die von Menschen gebaut wurden. Die Hände der Deathclaws
  können sie nicht bedienen. Aber es gibt eine Maschine, die Fragen versteht. Ich beauftrage sie,
@@ -78,51 +78,51 @@
  kann ich meine Leute wieder ernähren und die Überfälle einstellen. Würdest du das tun?}
 {146}{}{Tut mir leid, ich hab keine Ahnung, wie so ein Ding repariert wird.}
 {147}{}{Ich bin kein Techniker, aber ich versuch's mal.}
-{148}{}{Hmm... hört sich an, als wär das Modul für die Stimmerkennung kaputt gegangen. Laß mich
+{148}{}{Hmm... hört sich an, als wär das Modul für die Stimmerkennung kaputt gegangen. Lass mich
  mal sehen.}
-{149}{}{Ich hab meine Meinung geändert. Ich muß noch mal drüber nachdenken.}
+{149}{}{Ich hab meine Meinung geändert. Ich muss noch mal drüber nachdenken.}
 {150}{}{Ich werd für dich tun, was ich kann.}
 {151}{}{Ich weigere mich, Deathclaws zu helfen.}
 {152}{}{Danke. Die Maschine ist im Vaultkontrollzentrum, auf der dritten Ebene. Wenn du sie
  reparieren kannst, tu das bitte. Ich setze all meine Hoffnung auf dich. Bitte enttäusche mich
  nicht. Du bist hier willkommen.}
-{153}{}{Ich laß dich nicht im Stich Gruthar. Du hast mein Wort.}
+{153}{}{Ich lass dich nicht im Stich Gruthar. Du hast mein Wort.}
 {154}{}{Danke. Ich werd mich dran machen.}
 {155}{}{Trottel sterben doch wirklich nie aus...}
-{156}{}{Verstehe... Tja, Deathclaws sind von Natur aus gefährlich und man muß vorsichtig sein,
- wenn man ihnen in der Wildnis begegnet. Aber ich bin sicher, du hast bemerkt, daß wir eine
+{156}{}{Verstehe... Tja, Deathclaws sind von Natur aus gefährlich und man muss vorsichtig sein,
+ wenn man ihnen in der Wildnis begegnet. Aber ich bin sicher, du hast bemerkt, dass wir eine
  Ausnahme sind. Mein Rudel stellt keine Gefahr für euch Menschen dar. Wir haben uns anders als
  unsere primitiven Verwandten entwickelt und möchten einfach in Ruhe gelassen werden.}
 {157}{}{Äh...ja.}
 {158}{}{Euer hoher Intellekt könnte euch zu einer noch größeren Gefahr machen als eine
  durchschnittliche Deathclaw, Gruthar.}
-{159}{}{Ich sehe, daß ihr keine gefährlichen Killer seid wie es von Deathclaws allgemein
+{159}{}{Ich sehe, dass ihr keine gefährlichen Killer seid wie es von Deathclaws allgemein
  bekannt ist.}
-{160}{}{Ich habe diese Dinge in vielen schlaflosen Nächten erwogen. Ich bin zu dem Schluß
- gekommen, daß die Last der Verantwortung mit der Gabe der Intelligenz einhergeht. Ein denkendes
+{160}{}{Ich habe diese Dinge in vielen schlaflosen Nächten erwogen. Ich bin zu dem Schluss
+ gekommen, dass die Last der Verantwortung mit der Gabe der Intelligenz einhergeht. Ein denkendes
  Wesen hat nur zwei Möglichkeiten: Das Leben so zu akzeptieren wie es ist und das beste für mich
  und andere daraus zu machen, oder aufhören zu existieren. Ich habe mich entschieden, die
  Herausforderungen des Lebens anzunehmen. Wenn dies mich zu einer Bedrohung für die Menschen
  macht, dann bedauere ich den kleinmütigen Geist, der so empfindet...}
 {161}{}{Äh, naja... vielleicht hab ich einen kleinen Geist, aber ich hab auch eine GROSSE Waffe.}
-{162}{}{Ich stimme dir vollkommen zu. Ich glaube nicht, daß du eine Gefahr bist, Gruthar.}
+{162}{}{Ich stimme dir vollkommen zu. Ich glaube nicht, dass du eine Gefahr bist, Gruthar.}
 {163}{}{Äh... ja. Wie du meinst.}
-{164}{}{[Gruthar hält inne und scheint seine Antwort gut zu überlegen.] Es tut mir leid, daß ich
+{164}{}{[Gruthar hält inne und scheint seine Antwort gut zu überlegen.] Es tut mir leid, dass ich
  die Überfälle auf das Land der Menschen angeordnet habe. Ich bin für das Leben vieler hier
  verantwortlich. Uns gehen Nahrung, Wasser und andere Vorräte aus. Bis ich die Situation wieder
- im Griff habe, muß ich mir nehmen, worum ich als Deathclaw keinen Menschen bitten kann.}
+ im Griff habe, muss ich mir nehmen, worum ich als Deathclaw keinen Menschen bitten kann.}
 {165}{}{Nun, da ich weiß, woher die Überfälle kommen, werde ich die Wurzel des Übels einfach
  beseitigen!}
 {166}{}{Tut mir leid, das zu hören. Kann ich dir irgendwie helfen, damit du die Überfälle stoppen
  kannst?}
 {167}{}{Ich hab genug gehört. Ich brauch jetzt etwas Zeit zum Nachdenken.}
 {168}{}{Ich verstehe...}
-{169}{}{Deine Entscheidung mißfällt mir, aber ich akzeptiere sie. Du kannst gehen, aber komm
+{169}{}{Deine Entscheidung missfällt mir, aber ich akzeptiere sie. Du kannst gehen, aber komm
  wieder, falls du es dir anders überlegst.}
 {170}{}{OK.}
 {171}{}{Hallo}
 {172}{}{Nein, aber ich werd mich dranmachen.}
-{173}{}{Tut mir leid Gruthar. Das Stimmerkennungsmodul ist kaputt. Ich muß ein neues besorgen.}
+{173}{}{Tut mir leid Gruthar. Das Stimmerkennungsmodul ist kaputt. Ich muss ein neues besorgen.}
 {174}{}{Ich hab keine Ahnung, wie solche Dinge funktionieren, aber ich vertraue dir,}
 {175}{}{OK.}
 {176}{}{Ich komme wieder, du hast mein Wort.}
@@ -136,14 +136,14 @@
 {183}{}{Ja, ich suche nach dem GECK. Mir wurde gesagt, ich könnte es hier finden. Weißt du, wo es
  ist?}
 {184}{}{Nein danke. Ich habe alles, was ich brauche.}
-{185}{}{Yes, there was a geck in the vault storage room. It is yours with many thanks.}
-{186}{}{Ja, da war ein GECK im Vaultlagerraum. Aber es ist verschwunden. Tut mir leid, daß ich
+{185}{}{Ja, da war ein GECK im Lagerraum des Tresors. Er gehört dir mit großem Dank.}
+{186}{}{Ja, da war ein GECK im Vaultlagerraum. Aber es ist verschwunden. Tut mir leid, dass ich
  es dir nicht als Belohnung für deine großzügige Hilfe geben kann.}
 {187}{}{Danke auch!}
 {188}{}{Äh... das ist schon OK. Ich werd versuchen, woanders eins zu finden.}
 {189}{}{Hallo, Mensch. Ich hoffe, du versuchst nicht, mich zum Narren zu halten.}
 {190}{}{Ich möcht mich entschuldigen und noch mal neu anfangen, Gruthar.}
-{191}{}{Tut mir leid, ich muß gehn.}
+{191}{}{Tut mir leid, ich muss gehn.}
 {192}{}{Äh, mir leid.}
 {193}{}{Sei gegrüßt, Mensch. Hast du es dir überlegt? Hilfst du mir?}
 {194}{}{Grundgütiger, nein. Ich wollt mir nur noch mal anhören, wie du unsere Sprache verunstaltest.}
@@ -159,11 +159,11 @@
 {204}{}{}
 {205}{}{Ich habe keinen Ärger mit dir, Mensch und ich will auch keinen. Ich versuche, mich
  zivilisiert zu verhalten. Bitte tu du mir denselben Gefallen.}
-{206}{}{OK, laß uns reden.}
+{206}{}{OK, lass uns reden.}
 {207}{}{Du bist eine Deathclaw und das ist ein Todesurteil... für dich!}
-{208}{}{Tut mir leid, Gruthar. Laß uns reden.}
-{209}{}{Whatever. I'm gone.}
-{210}{}{Nein, ich bin hier derjenige, der entscheidet. Wenn dir das mißfällt, kannst du in das
+{208}{}{Tut mir leid, Gruthar. Lass uns reden.}
+{209}{}{Was auch immer, ich bin hier raus.}
+{210}{}{Nein, ich bin hier derjenige, der entscheidet. Wenn dir das missfällt, kannst du in das
  Land der Menschen zurückkehren!}
 {211}{}{Boa, ey!}
 {212}{}{OK, ich geh jetzt.}
@@ -175,7 +175,7 @@
 {217}{}{Hör mit dieser kultivierten Tour auf. Das zieht bei mir nicht.}
 {218}{}{[Gruthar gibt einige Knurrlaute von sich.] Es ist vielleicht nicht mein Grund und Boden,
  Mensch, aber es ist mein Zuhause und das Zuhause anderer, für die ich verantwortlich bin. Bring
- mich nicht so weit, daß einer von uns dieses Zusammentreffen bereut!}
+ mich nicht so weit, dass einer von uns dieses Zusammentreffen bereut!}
 {219}{}{Tut mir leid. Ich war unhöflich und hab meine Grenzen überschritten.}
 {220}{}{Fahrt zur Hölle, du und deine verunstaltete Sippschaft!}
 {221}{}{Boa! Mir reicht's. Ich verzieh mich.}
@@ -183,8 +183,8 @@
 {223}{}{Ist so gut wie gemacht!}
 {224}{}{}
 {225}{}{Du bist hier momentan nicht willkommen. Geh!}
-{226}{}{Tschüß.}
-{227}{}{Tschüß.}
+{226}{}{Tschüss.}
+{227}{}{Tschüss.}
 {228}{}{OK.}
 {229}{}{Entschuldigung angenommen, Mensch. Schönen Tag noch.}
 {230}{}{OK.}

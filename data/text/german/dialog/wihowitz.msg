@@ -1,5 +1,5 @@
 {100}{}{Du siehst eine Haubitze vom Typ SIAD-BG.}
-{101}{}{Sie sieht ein bißchen klapprig aus. Du glaubst, daß sie trotzdem noch einsatzfähig ist.
+{101}{}{Sie sieht ein bisschen klapprig aus. Du glaubst, dass sie trotzdem noch einsatzfähig ist.
  Wenn du doch bloß eine Granate finden könntest.}
 {102}{}{Der Zündmechanismus klemmt. Diese Haubitze taugt bestenfalls noch zum Briefbeschwerer.}
 {200}{}{Die Haubitze ist bereits geladen.}

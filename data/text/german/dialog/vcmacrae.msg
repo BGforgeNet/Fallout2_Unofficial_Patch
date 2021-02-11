@@ -11,7 +11,7 @@
 {110}
 {110}{}{Was hast du für Drinks auf Lager?}
 {111}{}{Irgendetwas interessantes passiert?}
-{112}{}{Danke für die Beschreibung. Tschüß.}
+{112}{}{Danke für die Beschreibung. Tschüss.}
 {113}{}{Nur das Standardzeug. Bier für $20, Whisky für $30. Nichts besonderes. Willst du etwas?}
 {114}{}{Du kennst die Vault?}
 {115}{}{Ich nehm ein Bier.}
@@ -23,7 +23,7 @@
 {120}{}{Was hast du für Drinks auf Lager?}
 {121}{}{Weißt du etwas über die Vault?}
 {122}{}{So schlimm kann es doch auch nicht sein.}
-{123}{}{Nichts. Tschüß.}
+{123}{}{Nichts. Tschüss.}
 {124}{}{Ah... ich merk schon, als Kind zu oft auf den Kopf gefallen. Tut mir leid, ich spreche kein Idiotisch.}
 {125}{}{Auf geht's. Trink aus. Das ist der einzige Spaß den du in diesem gottverdammten Ort finden wirst.}
 {126}{}{So schlimm kann es doch auch nicht sein.}
@@ -51,7 +51,7 @@
 {146}{}{Geh mir aus dem Weg.}
 {147}{}{Wie geht's?}
 {148}{}{Heile dich.}
-{149}{}{Du mußt hier warten, bis ich wieder da bin.}
+{149}{}{Du musst hier warten, bis ich wieder da bin.}
 {150}{}{Du! Ooyag!}
 {151}{}{Das wär's dann vorerst mal.}
 {152}{}{OK, alle zusammengetackert. Los geht's.}

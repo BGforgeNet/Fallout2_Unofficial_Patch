@@ -4,16 +4,16 @@
 {103}{}{Kann ich dir irgendwie helfen?}
 {104}{}{Dagi nuh?}
 {105}{}{Du wer?}
-{106}{}{Ich habe gehört, daß du die Milz von jemandem hast.}
+{106}{}{Ich habe gehört, dass du die Milz von jemandem hast.}
 {107}{}{Wer bist du?}
 {108}{}{Was machst du hier?}
 {109}{}{Nein danke. Das ist alles.}
-{110}{}{Ich muß gestehen, daß ich deine Sprache nicht spreche. Vielleicht solltest du mit Ken Lee
+{110}{}{Ich muss gestehen, dass ich deine Sprache nicht spreche. Vielleicht solltest du mit Ken Lee
  sprechen, er beherrscht viele Sprachen.}
 {111}{}{Aagh!}
 {112}{}{Ich bin Dr. Wong. Ich bin der Chefwissenschaftler dieser Einrichtung.}
 {113}{}{Noch Fragen, bitte.}
-{114}{}{Danke. Tschüß.}
+{114}{}{Danke. Tschüss.}
 {115}{}{Ich leite die wissenschaftlichen Experimente, die wir hier planen und durchführen.
  Außerdem bin ich für das Computernetzwerk verantwortlich.}
 {116}{}{Was plant ihr gerade?}
@@ -23,16 +23,16 @@
 {120}{}{Tja, wenn ich dir von unseren Plänen erzähle, dann wird jeder davon erfahren. Bis auf
  weiteres sind unsere Pläne geheim, tut mir leid.}
 {121}{}{Nun gut. Ich habe noch weitere Fragen.}
-{122}{}{Danke. Tschüß.}
+{122}{}{Danke. Tschüss.}
 {123}{}{Und wenn ich dir eine Knarre unter die Nase halte und dich zwinge, es mir zu sagen?}
 {124}{}{Naja, man lernt, wie man sich in den Computer hackt oder wie man sich mit meinen
  Mitarbeitern anfreundet.  Das mit dem Hacken war natürlich ein Scherz. Beim geringsten Versuch
- würde ich einen Killer auf dich ansetzen. [Er lächelt, um zu zeigen, daß er es nicht böse meint.]}
+ würde ich einen Killer auf dich ansetzen. [Er lächelt, um zu zeigen, dass er es nicht böse meint.]}
 {125}{}{Würdest du mich wirklich umbringen lassen?}
 {126}{}{Du hättest also eigentlich nichts dagegen, wenn ich auf den Computer zugreife?}
 {127}{}{Ich hab noch ein paar Fragen.}
 {128}{}{Ganz bestimmt. Bis dann.}
-{129}{}{Dann müßte ich das als eine Drohung ansehen und dich darauf hinweisen, daß eine solche
+{129}{}{Dann müsste ich das als eine Drohung ansehen und dich darauf hinweisen, dass eine solche
  Handlungsweise deiner Gesundheit nicht zuträglich wäre.}
 {130}{}{Lassen wir's drauf ankommen.}
 {131}{}{Das war nur ein Scherz. Ich habe noch mehr Fragen.}
@@ -46,9 +46,9 @@
 {138}{}{Toll. Ich habe noch weitere Fragen.}
 {139}{}{Hm. Na gut. Also, bis dann.}
 {140}{}{Oh, ja! In der Tat. Ich werde sie mit Saubohnen zubereiten, dazu einen guten Chianti...}
-{141}{}{Hast du sie noch? Gut. Chip muß sie wiederhaben.}
+{141}{}{Hast du sie noch? Gut. Chip muss sie wiederhaben.}
 {142}{}{Das ist eine menschliche Milz, du perverser Mistkerl!}
-{143}{}{Du weißt doch sicher, daß man zu diesem Wein Leber serviert und nicht Milz, oder?}
+{143}{}{Du weißt doch sicher, dass man zu diesem Wein Leber serviert und nicht Milz, oder?}
 {144}{}{Das ist eine menschliche Milz, weißt du?}
 {145}{}{Wer ist dieser Chip? Jetzt ist es meine Milz und ich werde sie heute zu Abend essen.}
 {146}{}{Chip ist der ursprüngliche Eigentümer der Milz. Er hat sie Lao Chou verkauft, als er
@@ -56,18 +56,18 @@
 {147}{}{Er braucht sie zum Überleben. Schließlich ist sie ein Teil seines Körpers.}
 {148}{}{Dann sollte ich dich wohl umbringen, um sie zu kriegen.}
 {149}{}{Geschäft ist Geschäft. Er kann sie nicht wiederhaben. Tut mir leid, aber wir hatten einen
- Handel und daß Chip es jetzt bedauert, bedeutet nicht, daß er ihn rückgängig machen kann.}
+ Handel und dass Chip es jetzt bedauert, bedeutet nicht, dass er ihn rückgängig machen kann.}
 {150}{}{[Mehr]}
 {151}{}{Eine menschliche Milz? Das hat mir Lao Chou verschwiegen.}
 {152}{}{Weil sich allerdings der Bote so unverschämt verhalten hat, werde ich wohl auf diesem
  Handel bestehen und statt dessen damit herumexperimentieren.}
-{153}{}{Sag deinem Freund, daß er morgen bei mir vorbeikommen soll, dann werde ich sie ihm gerne
+{153}{}{Sag deinem Freund, dass er morgen bei mir vorbeikommen soll, dann werde ich sie ihm gerne
  zurückgeben. Ich hoffe nur, du findest einen Weg, sie ihm rechtzeitig wieder einzusetzen.}
 {154}{}{Na schön.}
 {155}{}{Ha ha! Ja, ich habe diesen alten Film auch gesehen. Moment... was sagst du da? Du sagst,
- daß...?}
+ dass...?}
 {156}{}{Ja, es ist eine menschliche Milz.}
-{157}{}{Genaugenommen hätte ich etwas dagegen. Du hast nicht gerade bewiesen, daß du einen guten
+{157}{}{Genaugenommen hätte ich etwas dagegen. Du hast nicht gerade bewiesen, dass du einen guten
  Charakter hast. Warum rede ich überhaupt mit dir? Wiedersehn.}
 {158}{}{[Erledigt]}
 {159}{}{Aargh! Wachen! Der Lao Wai ist hier!}

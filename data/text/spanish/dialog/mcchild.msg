@@ -6,7 +6,7 @@
 {151}{}{¡Eeeee! ¡El hombre del saco!}
 {152}{}{Papi dice que eres malo.}
 {153}{}{¡Aieeee! ¡Corred!}
-{154}{}{Me estás asustando.}
+{154}{}{Me estás dando miedo.}
 {155}{}{Deja de mirarme.}
 {156}{}{Se supone que no debo de hablar con tribales.}
 {157}{}{Eres igual que los Dunton.}

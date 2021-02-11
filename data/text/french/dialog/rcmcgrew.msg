@@ -148,7 +148,7 @@
 {247}{}{J'ai pas assez de temps pour une leçon de politique. Au revoir.}
 {248}{}{Tout le monde est envieux de ce qu'on a à Redding. Certains l'obtiendront de façon plus élégante. Je te brosse un tableau de la situation.}
 {249}{}{Vas-y, continue !}
-{250}{}{J'en ai déjà entendu assez. Au revoir.}
+{250}{}{I've heard enough of your explanation already. Goodbye.}
 {251}{}{Je te donnerai $1 000 pour cette puce d'excavatrice.}
 {252}{}{Ca me va. Où puis-je la trouver ?}
 {253}{}{Ca me va. Voici ta puce.}
@@ -164,7 +164,7 @@
 {263}{}{Sa puce de commande a brûlé et je ne peux pas en commander d'autres. Je sais où il y en a une. Je peux payer $1 000.}
 {264}{}{Où est-elle ?}
 {265}{}{Si tu en as tant besoin, pourquoi ne pas y être allé toi-même ?}
-{266}{}{J'en ai ras-le-bol des quêtes. Je regrette. Au revoir.}
+{266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
 {267}{}{Des tas de raisons, la plupart sont hargneux et affamés. La mine du Grand Wanamingo regorge de Wanamingos affamés.}
 {268}{}{c'est quoi un Wanna-je-n'sais-quoi ?}
 {269}{}{Ah, je vois. Tout s'explique. J'y réfléchirai. Au revoir.}

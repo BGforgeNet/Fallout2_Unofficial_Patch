@@ -3,12 +3,12 @@
 {102}{}{Bei näherer Betrachtung handelt es sich um einen alternden Mutanten. Die Stärke seiner 
 Muskeln ist aber immer noch erkennbar, genau wie der trotzige Stolz, den er ausstrahlt.}
 {103}{}{Ich glaube,... das... Radongas hält die Minenarbeiter jung.}
-{104}{}{Mein Gedächtnis läßt mich im Stich... jetzt weiß ich's wieder... warte...}
-{105}{}{Hast du schon gehört, daß die Menschen uns umbringen wollen?}
-{106}{}{Es ist schade, daß die Menschen uns nicht mehr akzeptieren. Auf unsere Art sind wir ja
+{104}{}{Mein Gedächtnis lässt mich im Stich... jetzt weiß ich's wieder... warte...}
+{105}{}{Hast du schon gehört, dass die Menschen uns umbringen wollen?}
+{106}{}{Es ist schade, dass die Menschen uns nicht mehr akzeptieren. Auf unsere Art sind wir ja
  auch menschlich.}
 {107}{}{Was macht denn die Welt da draußen? Ich krieg in letzter Zeit nicht soviel mit.}
-{108}{}{Mir hat jemand gesagt, daß uns das FEV senil macht, durch das wir entstanden sind.}
+{108}{}{Mir hat jemand gesagt, dass uns das FEV senil macht, durch das wir entstanden sind.}
 {109}{}{Mir scheint irgendwie alles zu entgleiten. Ich war doch immer so schnell und stark...
  jetzt bin ich kaum besser als ein Mensch.}
 {110}{}{Was ist das Leben schon wert, wenn es sowieso irgendwann aufhört?}
@@ -30,7 +30,7 @@ Muskeln ist aber immer noch erkennbar, genau wie der trotzige Stolz, den er auss
 {145}{}{Ich werde auf jeden Fall nicht mehr schlafen, bis die beiden Verrückten nicht tot sind.}
 {146}{}{War wohl nichts mit der Sicherheit.}
 {147}{}{Hhhmm... jaaa... wer bist du noch mal?}
-{148}{}{Ich wußte es doch! Ich wußte genau, daß diese zwei Scheißtypen es auf uns abgesehen
+{148}{}{Ich wusste es doch! Ich wusste genau, dass diese zwei Scheißtypen es auf uns abgesehen
  hatten!}
 {149}{}{Diesem Bastard Jacob hab ich noch nie getraut.}
 {150}{}{Soso... die Menschen wollen uns töten. Vielleicht sollten wir sie statt dessen umbringen.}
@@ -45,18 +45,18 @@ Muskeln ist aber immer noch erkennbar, genau wie der trotzige Stolz, den er auss
 {165}{}{Stark. Ganz schön stark.}
 {166}{}{Wenn du einmal einen Mutanten hattest, willst du gar nichts anderes mehr.}
 {167}{}{Wie ich höre, brennst du schon auf den Kampf gegen Francis.}
-{168}{}{Ich kann's kaum glauben, daß du überhaupt noch gehen kannst.}
+{168}{}{Ich kann's kaum glauben, dass du überhaupt noch gehen kannst.}
 {169}{}{He, Vorsicht... Francis ist vielleicht alt, aber er hat's immer noch drauf!}
 {170}{}{Die armen Leute.}
 {171}{}{Unterirdisch gefangen zu sein...}
 {172}{}{Ich hab ja schon immer gesagt, "Jacob und Aileen machen uns noch mal Schwierigkeiten.
  Genau wie Franc und Manson", hab ich gesagt. Und hat jemand drauf gehört? Natürlich nicht!}
-{173}{}{Tunnel, soso. Ich hab ja schon immer gewußt, daß diese Typen eigentlich Ratten und Würmer
+{173}{}{Tunnel, soso. Ich hab ja schon immer gewusst, dass diese Typen eigentlich Ratten und Würmer
  sind.}
 {174}{}{Dann kam der Gestank wohl von den Leichen, was?}
 {175}{}{Warum willst du uns verletzen?}
 {176}{}{Menschen haben mir nie getraut.}
-{177}{}{Laß mich in Ruhe.}
+{177}{}{Lass mich in Ruhe.}
 {178}{}{Warum stirbst du nicht jetzt schon?}
 {179}{}{Warum müssen die Menschen immer das zerstören, wovor sie Angst haben?}
 {180}{}{Du bist ja der Abschaum.}

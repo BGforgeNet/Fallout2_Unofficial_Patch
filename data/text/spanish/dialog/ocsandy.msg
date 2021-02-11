@@ -39,11 +39,11 @@
  piensa que otros niños vendrán a vivir aquí. Hasta que no lo hagan quiero jugar con Valdis. Es divertido y me hace el caballito. Mamá dice que debo dejar en paz a Valdis. Él está ocupado y no tiene tiempo para jugar conmigo
  aunque siempre juega conmigo cuando se lo pido. No le cuento a mamá nada de esto y ya está.}
 {132}{}{Caballito... (Parece un cachorro confuso)}
-{133}{}{Me voy, yo.}
+{133}{}{Yo ir.}
 {134}{}{Eso está bien.}
 {135}{}{Vale, ya veo.}
 {136}{}{Pues sí. Mamá nos cuida a Valdis y a mí, nadie nos hará daño. Estoy a salvo aquí.}
 {137}{}{De acuerdo. Ahora me voy.}
 {138}{}{Bien; luego me marcho.}
-{139}{}{Buenas.}
+{139}{}{Hola.}
 {140}{}{¡Lárgate! ¡No me gustas!}

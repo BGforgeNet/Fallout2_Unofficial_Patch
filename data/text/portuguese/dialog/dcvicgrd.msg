@@ -105,9 +105,9 @@
 {481}{}{Tudo bem.}
 {482}{}{Bem.}
 {490}{}{Não, desculpe.}
-{491}{}{I said no. Now beat it. You've got to talk to Metzger.}
+{491}{}{Eu disse não. Agora suma. Você deve falar com o Metzger}
 {492}{}{Tudo bem.}
-{500}{}{Too bad you didn't join us.}
+{500}{}{É muito ruim que você não se uniu a nós.}
 {501}{}{Você deve juntar-se a guilda.}
 {502}{}{Apenas fazendo essa coisa de guarda.}
 {503}{}{Espero Vic trabalhe para você.}

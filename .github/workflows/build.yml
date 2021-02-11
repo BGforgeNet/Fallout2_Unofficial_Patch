@@ -1,0 +1,75 @@
+name: build
+
+on: [push]
+
+env:
+  sfall_version: 4.2.8.1
+  mpack_version: 4.2.8.1
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run tests
+        run: ./extra/tests.sh
+
+      - name: Install packages
+        run: |
+          sudo dpkg --add-architecture i386
+          sudo apt -qq update
+          sudo apt -qq remove parallel
+          sudo apt-get install -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc moreutils p7zip wine-stable wine32 >/dev/null 2>&1
+          wineboot >/dev/null 2>&1
+
+      - name: Build and package
+        run: |
+          . extra/env.sh
+          ./extra/prepare.sh
+          ./extra/buildall.sh
+          ./extra/package.sh
+
+      - name: Upload artifacts - exe
+        uses: actions/upload-artifact@v2
+        if: "!startsWith(github.ref, 'refs/tags/')"
+        with:
+          name: upu.exe
+          path: upu*.exe
+
+      - name: Upload artifacts - translations zip
+        uses: actions/upload-artifact@v2
+        if: "!startsWith(github.ref, 'refs/tags/')"
+        with:
+          name: upu_translations.zip
+          path: upu*_translations.zip
+
+      # so that main glob doesn't catch it
+      - name: Remove translations zip
+        if: "!startsWith(github.ref, 'refs/tags/')"
+        run: rm -f upu*_translations.zip
+
+      - name: Upload artifacts - main zip
+        uses: actions/upload-artifact@v2
+        if: "!startsWith(github.ref, 'refs/tags/')"
+        with:
+          name: upu.zip
+          path: upu*.zip
+
+      - name: Upload artifacts - dat
+        uses: actions/upload-artifact@v2
+        if: "!startsWith(github.ref, 'refs/tags/')"
+        with:
+          name: upu_russian_sound.dat
+          path: upu*.dat
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            upu*.zip
+            upu*.dat
+            upu*.exe
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

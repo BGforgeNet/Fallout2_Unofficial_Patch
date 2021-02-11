@@ -138,10 +138,10 @@
 {596}{}{L'auto ha il pieno di carburante.}
 {597}{}{L'entrata sembra bloccata.}
 {620}{}{Guadagni %d punti esperienza per aver ucciso: %s.}
-{621}{}{%s guadagni %d punti esperienza.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{Per aver sconfitto i tuoi nemici,}
 {623}{}{Per aver massacrato i tuoi nemici,}
-{624}{}{Hai vinto il combattimento,}
+{624}{}{For being victorious in combat,}
 {625}{}{Per aver schiacciato i tuoi nemici,}
 {626}{}{Per aver distrutto i tuoi nemici senza farti un graffio,}
 {650}{}{[FATTO]}

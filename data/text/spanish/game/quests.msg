@@ -57,10 +57,10 @@
 {706}{}{Desvía más electricidad a la casa de Eric.}
 {800}{}{Recupera tu coche robado.}
 {801}{}{Encuentra al responsable de la muerte de Richard Wright.}
-{802}{}{ Sospechoso: Jeta Jimmy J}
-{803}{}{ Sospechoso: Jules}
-{804}{}{ Sospechoso: Pequeño Jesús Mordino}
-{805}{}{ Sospechoso: Renesco}
+{802}{}{     Sospechoso: Jeta Jimmy J}
+{803}{}{     Sospechoso: Jules}
+{804}{}{     Sospechoso: Pequeño Jesús Mordino}
+{805}{}{     Sospechoso: Renesco}
 {806}{}{Encuentra una forma de entrar en el almacén Sierra.}
 {807}{}{Persigue a Lloyd, recupera el dinero, y... que sirva de ejemplo.}
 {808}{}{Recauda de Renesco el tributo de Don Salvatore.}

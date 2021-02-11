@@ -115,7 +115,7 @@
 {215}{}{Mr. Smith}
 {216}{}{Skeeve}
 {217}{}{Pro-Konsul Gregory}
-{218}{}{Nurse Phyllis}
+{218}{}{Assistenzärztin Phyllis}
 {219}{}{Randal}
 {220}{}{Glibber}
 {221}{}{Barkus}
@@ -148,9 +148,9 @@
 {248}{}{Map Script}
 {249}{}{Sicherheitsroboter}
 {250}{}{Reparaturroboter}
-{251}{}{Holodisk}
-{252}{}{Holodisk}
-{253}{}{Holodisk}
+{251}{}{Holo-Disk}
+{252}{}{Holo-Disk}
+{253}{}{Holo-Disk}
 {254}{}{Terminal}
 {255}{}{Terminal}
 {256}{}{Terminal}
@@ -331,19 +331,19 @@
 {431}{}{Möbel}
 {432}{}{Boden}
 {433}{}{Boden}
-{434}{}{Holodisk}
+{434}{}{Holo-Disk}
 {435}{}{Lenny}
 {436}{}{Kiste}
 {437}{}{Hure}
 {438}{}{Sklave}
 {439}{}{Rico}
 {440}{}{Pornodarstellerin}
-{441}{}{Mieze}
+{441}{}{Fluffer}
 {442}{}{Map Script}
 {443}{}{Wolf}
 {444}{}{Generator}
 {445}{}{Tür}
-{446}{}{Super mutant}
+{446}{}{Supermutant}
 {447}{}{Salvatores Mann}
 {448}{}{Bishops Mann}
 {449}{}{Mordinos Mann}
@@ -358,11 +358,11 @@
 {458}{}{New Reno: Chop Shop}
 {459}{}{New Reno: Golgotha}
 {460}{}{New Reno Bishop-Keller}
-{461}{}{Holodisk}
-{462}{}{Holodisk}
-{463}{}{Holodisk}
-{464}{}{Holodisk}
-{465}{}{Holodisk}
+{461}{}{Holo-Disk}
+{462}{}{Holo-Disk}
+{463}{}{Holo-Disk}
+{464}{}{Holo-Disk}
+{465}{}{Holo-Disk}
 {466}{}{Wächter}
 {467}{}{Lore}
 {468}{}{Melchior}
@@ -416,7 +416,7 @@
 {516}{}{"Drei Karten" Monte}
 {517}{}{Algernon}
 {518}{}{Bill}
-{519}{}{Bishop's Bodyguard}
+{519}{}{Bishops Wache}
 {520}{}{John Bishop}
 {521}{}{Glücksspielautomat}
 {522}{}{Chop Shop Boy}
@@ -437,10 +437,10 @@
 {537}{}{Myron}
 {538}{}{Nikki}
 {539}{}{Orville Wright}
-{540}{}{Boß des "Abschaum"}
+{540}{}{Boss des "Abschaum"}
 {541}{}{Renesco, der Raketenmann}
 {542}{}{Marjorie Reed}
-{543}{}{Boß Salvatore}
+{543}{}{Boss Salvatore}
 {544}{}{Stuart Little}
 {545}{}{T-Ray}
 {546}{}{Hure}
@@ -503,7 +503,7 @@
 {603}{}{Hausbesetzer}
 {604}{}{Sklavenbefreier}
 {605}{}{Schmuggler}
-{606}{}{Super mutant}
+{606}{}{Supermutant}
 {607}{}{Fischer}
 {608}{}{Sklavenhändler}
 {609}{}{Fallensteller}
@@ -715,7 +715,7 @@
 {815}{}{Map Script}
 {816}{}{Vorpal-Ratte}
 {817}{}{Hund}
-{818}{}{Drill Sergeant}
+{818}{}{Ausbildungsfeldwebel}
 {819}{}{Wächter}
 {820}{}{Facharbeiter}
 {821}{}{Kommandant}
@@ -731,11 +731,11 @@
 {831}{}{Map Script}
 {832}{}{Mysteriöser Fremder}
 {833}{}{Tollwütiges Brahmin}
-{834}{}{Yakuza Member}
+{834}{}{Yakuza-Mitglied}
 {835}{}{Verirrter}
 {836}{}{Hund}
 {837}{}{Kiste}
-{838}{}{Patrol Member}
+{838}{}{Patrouillenmitglied}
 {839}{}{Reisender}
 {840}{}{Rauch}
 {841}{}{Händler}
@@ -761,7 +761,7 @@
 {861}{}{}
 {862}{}{}
 {863}{}{Goldsucher}
-{864}{}{Gang Member}
+{864}{}{Gangmitglied}
 {865}{}{Nomadenhäuptling}
 {866}{}{Hubologe}
 {867}{}{Irrer}
@@ -964,7 +964,7 @@
 {1064}{}{Map Script}
 {1065}{}{Lydia}
 {1066}{}{}
-{1067}{}{Harry the Rocketman}
+{1067}{}{Harry der Rocketman}
 {1068}{}{AHS-7}
 {1069}{}{Crockett}
 {1070}{}{Amanda}
@@ -1033,8 +1033,8 @@
 {1133}{}{Vertibird}
 {1134}{}{Salvatore-Wache}
 {1135}{}{Salvatore-Wache}
-{1136}{}{Soldier}
-{1137}{}{Soldier}
+{1136}{}{Soldat}
+{1137}{}{Soldat}
 {1138}{}{Kiste}
 {1139}{}{Mr. Handy}
 {1140}{}{Salvatore-Wache}
@@ -1055,7 +1055,7 @@
 {1155}{}{Quartiermeister}
 {1156}{}{Wächter}
 {1157}{}{Kybernetischer Hund}
-{1158}{}{Doctor Schreber}
+{1158}{}{Doktor Schreber}
 {1159}{}{Facharbeiter}
 {1160}{}{Facharbeiter}
 {1161}{}{Wächter}
@@ -1088,9 +1088,9 @@
 {1188}{}{Boxer}
 {1189}{}{Tür}
 {1190}{}{Mogelfigur}
-{1191}{}{Holodisk}
-{1192}{}{Holodisk}
-{1193}{}{Holodisk}
+{1191}{}{Holo-Disk}
+{1192}{}{Holo-Disk}
+{1193}{}{Holo-Disk}
 {1194}{}{Hinweis}
 {1195}{}{Hundefleisch}
 {1196}{}{Cat's Paw-Ausgabe Nr. 5}
@@ -1099,7 +1099,7 @@
 {1199}{}{Klaxon}
 {1200}{}{Mine}
 {1201}{}{Grube}
-{1202}{}{Cal}
+{1202}{}{Auto}
 {1203}{}{Slim}
 {1204}{}{Jenna}
 {1205}{}{}

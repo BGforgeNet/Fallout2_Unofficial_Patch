@@ -30,11 +30,11 @@
 {255}{}{Wo hast du das Kämpfen gelernt, }
 {256}{}{Du hast den Mumm eines Mordino.}
 {257}{}{Der letzte Kampf war etwas aus 'nem Epos, Hombre.}
-{258}{}{Halt nach dem Beißer Ausschau. Er ißt gerne Ohren.}
+{258}{}{Halt nach dem Beißer Ausschau. Er isst gerne Ohren.}
 {259}{}{Fliegen wie ein Schmetterling, stechen wie eine Biene. Das bist du, }
 {260}{}{Früher habe ich im Ring gekämpft, aber ich hab mich am Arm verletzt, deshalb kämpfe ich nicht mehr, du verstehst?}
 {261}{}{Weißte, die Mordinos könnten jemanden wie dich gebrauchen, }
-{262}{}{Woher kommst du, daß du so kämpfst? Du bist gut. Ich meine, GUT.}
+{262}{}{Woher kommst du, dass du so kämpfst? Du bist gut. Ich meine, GUT.}
 {263}{}{Du solltest mit Lil' Jesus wegen eines Jobs reden, }
 {264}{}{Auf dich zu wetten, war mein am besten angelegtes Geld. So packend war kein anderer.}
 {265}{}{Hab dich im Ring kämpfen sehen, }
@@ -46,8 +46,8 @@
 {271}{}{Der letzte Kampf war wie aus 'nem Epos, Chica.}
 {272}{}{Wo trainierst du, eh? Brauchst du 'n Agenten?}
 {273}{}{Pass auf den Masticator auf. Er hat Geschmack an Ohren gefunden... er ist ein kranker Typ.}
-{280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
-{281}{}{Was, ich soll dich durchsuchen und so? Komm schon, nimm das Eisen weg, bevor ich handgreiflich werden muß.}
+{280}{}{Hey, hey, hey! Chica, soll ich die Waffe für dich beiseite schaffen?}
+{281}{}{Was, ich soll dich durchsuchen und so? Komm schon, nimm das Eisen weg, bevor ich handgreiflich werden muss.}
 {285}{}{Was zum Teufel schnüffelst du hier herum, }
 {290}{}{Mit der Figur schleichst du so schnell an keinem Mordino vorbei, Chica.}
 {295}{}{Dein Film war nicht schlecht, aber offensichtlich brauchst du noch ein paar Tips von mir.}
@@ -62,32 +62,32 @@
 {304}{}{Hast du Freunde?}
 {305}{}{Du liegst richtig, wenn du Verbindung zu den Mordinos hältst. Wir werden Erfolg haben.}
 {306}{}{Brauchst du Jet? Ich kann dich in Form bringen, Chica.}
-{307}{}{Chica, für dich würd ich alles tun... komm schon. Gib mir 'n Küßchen.}
+{307}{}{Chica, für dich würd ich alles tun... komm schon. Gib mir 'n Küsschen.}
 {308}{}{Brauchst du Jet? Schnaps? Ein paar Chips? Ich kann dir helfen. Ich hab Verbindungen, weißte?}
 {315}{}{Zeig hier dein Eisen nicht rum, Freundchen. Steck es weg.}
 {320}{}{Du brauchst hier nicht rumzuschleichen, Sklavenhändler, klar? Du bist unter Freunden.}
 {325}{}{He! Biste schwer von Begriff oder was? Steck das Ding weg, oder du kannst was erleben.}
 {326}{}{Bist du auf eine Hinterhof-Gehirnamputation aus? Steck das Ding weg.}
-{327}{}{He, Chica! Bist du bescheuert, oder was? Steck das Ding weg, bevor ich dir weh tun muß.}
+{327}{}{He, Chica! Bist du bescheuert, oder was? Steck das Ding weg, bevor ich dir weh tun muss.}
 {330}{}{Was zum Teufel schnüffelst du hier herum? Willst du erschossen werden?}
 {335}{}{Was zum Teufel schnüffelst du herum, Chica? Willste erschossen werden?}
 {340}{}{Nimm diese Mülltonne hier raus.}
 {341}{}{Keine Roboter hier drin. Verschwinde.}
 {342}{}{Dieser Roboter kann ins Altmetall, wenn er hierbleibt.}
-{345}{}{Ich DACHTE mir doch, daß ich Mutantenfleisch rieche. Raus mit ihm, bevor wir ungemütlich werden.}
+{345}{}{Ich DACHTE mir doch, dass ich Mutantenfleisch rieche. Raus mit ihm, bevor wir ungemütlich werden.}
 {346}{}{Bist du ein Mutanten-Lover? Sein Platz ist DRAUSSEN. Sonst passiert was.}
 {347}{}{Will dieser Mutant zur Zielscheibe werden? Wenn er hierbleibt, wird er seinen Willen bekommen.}
-{350}{}{Ich DACHTE mir doch, daß ich was verrottendes gerochen habe. Schmeiß deinen Ghuljungen hier raus.}
+{350}{}{Ich DACHTE mir doch, dass ich was verrottendes gerochen habe. Schmeiß deinen Ghuljungen hier raus.}
 {351}{}{Bring sofort diesen stinkenden Ghul hier raus.}
 {352}{}{Wenn dieser Ghul hier nich' in 'ner Minute draußen is', isser noch toter als jetz' schon.}
 {355}{}{Ich sprach für die Rolle eines wichtigen NPCs vor, aber ich bekam nur diesen kleinen NPC-Part. Ich hoffe, ich werd nicht darauf festgelegt.}
 {356}{}{New Reno wurde von Chris Avellone entworfen und das Skript ist von Tom French. Sie sind 'n paar kranke Jungs.}
 {357}{}{He! }
 {358}{}{Verflucht und zugenäht, }
-{359}{}{Ich hab gehört, daß die Korsischen Brüder nach dir suchen.}
+{359}{}{Ich hab gehört, dass die Korsischen Brüder nach dir suchen.}
 {360}{}{Ich dachte der Präsident wäre nur eine Legende.}
 {361}{}{Du siehst aus als wärst du einmal zur Hölle und zurück gereist. Entspann dich ein wenig. Du verdienst es.}
-{362}{}{Mann, diese Enklavenbastarde können von Glück reden, daß sie sich nicht mit den Mordinos angelegt haben.}
+{362}{}{Mann, diese Enklavenbastarde können von Glück reden, dass sie sich nicht mit den Mordinos angelegt haben.}
 {370}{}{Hast du etwas Jet dabei, Kumpel?}
 {371}{}{Wie's steht? Steht wie ein Lümel, Mann, das wär's.}
 {372}{}{He? ::Spuckt:: Was ist los, }
@@ -150,15 +150,15 @@
 {473}{}{Big J, weißte, der kümmert sich um uns. Erst letzte Woche hab ich drei Sklaven gefangen, die dumm genug war'n abzuhauen. Also krieg ich 'ne Belohnung, klar? Heh. Und du kriegst nix. Du bist nur 'n Laufbursche. Ich, ich bin 'ne WACHE.}
 {474}{}{Ja, großartig. Mach's gut.}
 {475}{}{Ich frage mich, ob Big Jesus darüber nachdenkt, wie drei Sklaven direkt vor der NASE von derart scharfsinnigen, Jet nehmenden Wachen wie dir entkommen konnten.}
-{476}{}{Ramirez... paß auf, was du zu mir sagst, OK? Paß auf, daß dein Maul deinen Hintern nicht in Schwierigkeiten bringt.}
+{476}{}{Ramirez... pass auf, was du zu mir sagst, OK? Pass auf, dass dein Maul deinen Hintern nicht in Schwierigkeiten bringt.}
 {480}{}{(Blinzelt.) Hä...? Was sagst du?}
 {481}{}{Nichts, was du verstehst oder was ich jetzt noch mal wiederhole. Mach's gut, okay?}
 {482}{}{Ich sagte, "Ich frage mich, ob Big Jesus darüber nachdenkt, wie drei Sklaven direkt vor der NASE von derart scharfsinnigen, Jet nehmenden Wachen wie dir entkommen konnten".}
 {490}{}{(Blinzelt, lächelt verwirrt.) Hä? Ja, ja. Ich bin scharf, weißt du... scharf-sinnig... Ich bin 'ne WACHE, klar?}
 {491}{}{Ja, das hast du bereits erwähnt. An deiner Stelle, Ramirez, würde ich der Menschheit eine Gunst erweisen und das ganze Paket Jet auf einmal nehmen. Bis dann.}
-{492}{}{Junge, bin ich froh, daß einer so klug war, euch allen automatische Waffen zu geben. Gibt mir ein Gefühl der Sicherheit. Bis dann, Ramirez.}
+{492}{}{Junge, bin ich froh, dass einer so klug war, euch allen automatische Waffen zu geben. Gibt mir ein Gefühl der Sicherheit. Bis dann, Ramirez.}
 {493}{}{(Blinzelt.) Hä...? Was sagst du?}
-{494}{}{Vergiß es. Hock dich an 'ne Feuerwaffe und drück ab, OK?}
+{494}{}{Vergiss es. Hock dich an 'ne Feuerwaffe und drück ab, OK?}
 {495}{}{Nichts. An deiner Stelle, Ramirez, würde ich der Menschheit einen Gefallen erweisen und das ganze Paket Jet auf einmal nehmen. Bis später.}
 {496}{}{[Verschwinde]}
 {500}{}{(Als du dich wegdrehst knurrt Ramirez.) Hey! Die Schachtel wurde geöffnet! }

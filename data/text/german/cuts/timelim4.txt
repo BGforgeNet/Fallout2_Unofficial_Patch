@@ -1,8 +1,8 @@
-1:Chosen?
-2:Chosen?
-3:Do you hear me?
-4:[The] village [dies].
-5:[All of our] futures die, too.
-6:We have little [left in both time and] essence.
-7:Hurry.
-8:Hur-...
+1:Auserwähltes Wesen?
+2:Auserwähltes Wesen?
+3:Kannst du mich hören?
+4:Das Dorf stirbt.
+5:Unser aller Zukunft stirbt mit Ihm.
+6:Uns bleibt nur wenig Zeit und Kraft.
+7:Beeil dich.
+8:Be... eil… di...

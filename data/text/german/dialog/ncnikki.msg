@@ -5,7 +5,7 @@
 {170}{}{Du siehst eine Mitarbeiterin des Kasinos.}
 {180}{}{Du siehst eine Kasino-Mitarbeiterin. Sie macht dir ein Zeichen, dass du rüberkommen und spielen sollst.}
 {200}{}{::Jubelt::}
-{210}{}{Hello, [MM]. Can I help you with... anything?}
+{210}{}{Hallo, [MM]. Kann ich dir helfen mit…irgendwas?}
 {220}{}{Sieht so aus, als würdest du schon mit deinen Leben spielen.}
 {230}{}{Hey starker Mann, willst du ein paar Chips setzten?}
 {250}{}{Hey Filmstar, willst du ein paar Chips verdienen?}

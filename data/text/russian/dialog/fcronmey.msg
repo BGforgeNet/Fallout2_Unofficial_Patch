@@ -11,7 +11,7 @@
 {110}{}{Ничего.}
 {111}{}{Я капитан. Я управляю кораблем. По другим вопросам обращайтесь к Ши, или к Барсуку, или к кому-то еще. У меня нет для вас времени.}
 {112}{}{[Готово]}
-{113}{}{This ship's a Poseidon tanker. It's equipped with tech that lasted through the war. It's got a FOB that allows access to the navigation computer room, and it's got an IFF transponder that protects it from Poseidon guns.}
+{113}{}{Этот корабль - танкер компании "Посейдон Ойл". Он еще довоенный. На нем есть система охраны, которая работает от ключа танкера и контролирует доступ в отсек навигационного компьютера, и приемопередатчик системы ССЧ, который блокирует посейдоновские орудия.}
 {114}{}{Откуда вы все это знаете?}
 {115}{}{Что такое приемопередатчик ССЧ?}
 {116}{}{Как заставить корабль двигаться?}
@@ -21,7 +21,7 @@
 {120}{}{Что же это на самом деле такое - Анклав?}
 {121}{}{Как управлять этой штукой?}
 {122}{}{Пока.}
-{123}{}{How do you pilot this rig? Fill 'er up with some gas - try the Hubologists or the Shi after you've taken care of everything else - and press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{123}{}{Как управлять этой посудиной? Заправить ее горючим - можно попробовать найти его у хабологов или Ши после того, как позаботишься об остальном - и нажать на кнопку. Дальше все сделает компьютер, если он, конечно, еще работает. И поплывет наше корыто прямо к нефтяной вышке, и в тебя не будут стрелять, потому что на судне есть приемопередатчик ССЧ. Так что нужна всего малость: ключ танкера, работающий компьютер и топливо. Довольно просто, хех?}
 {124}{}{Точно. И откуда вы все это знаете?}
 {125}{}{Что такое приемопередатчик ССЧ и ключ танкера?}
 {126}{}{Что за нефтяная вышка?}
@@ -50,7 +50,7 @@
 {149}{}{Понятно. Так как управлять этим кораблем?}
 {150}{}{Спасибо. Пока.}
 {151}{}{Не стоило тебе переходить дорогу Капитану и его друзьям...}
-{152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig, and they won't fire at you because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
+{152}{}{Как управлять этой посудиной? Ну, я смотрю, горючее для нее ты уже добыл. Когда позаботишься обо всем остальном, просто нажми кнопку. Дальше все сделает компьютер, если он, конечно, еще работает. И поплывет наше корыто прямо к нефтяной вышке, и в тебя не будут стрелять, потому что на судне есть приемопередатчик ССЧ. Так что нужна всего малость: ключ танкера, работающий компьютер и топливо. Довольно просто, хех?}
 {153}{}{Ах да. Надо еще привести в порядок навигационный компьютер. Наверняка запчасти к нему можно найти в одном из старых Убежищ.}
 {154}{}{Приятно снова вас видеть. Что вам нужно?}
 {155}{}{, и я скучаю по своей базе, где и ваши друзья тоже.}

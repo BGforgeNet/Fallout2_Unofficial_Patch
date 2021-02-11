@@ -9,9 +9,9 @@
 {106}{}{Wo warst du letzte Nacht?!}
 {107}{}{Wo ist meine Cat's Paw? Hast du sie wieder weggeworfen?}
 {108}{}{**Phhhhhhh**}
-{109}{}{Zaius von der Mine sagt, daß sie nächsten Monat vielleicht Arbeit für mich haben.}
+{109}{}{Zaius von der Mine sagt, dass sie nächsten Monat vielleicht Arbeit für mich haben.}
 {110}{}{Hier sieht's wie im Saustall aus! Wann putzt du denn endlich mal, Alte?}
-{111}{}{You got a real smart mouth on ya', woman!}
+{111}{}{Du bist mir ein bisschen zu frech, Weib!}
 {112}{}{Ich liebe dich, Warzenschwein.}
 {113}{}{Soll ich's dir mal mit dem flachen Handrücken geben, ja?}
 {140}{}{Mach dir deinen verdammten Auflauf doch selbst, du fauler Hund!}
@@ -21,8 +21,8 @@
 {144}{}{Wie oft hab ich dir schon verboten, hier drinnen Leguan am Spieß zu essen! Mach das
  Fenster auf! Aua!}
 {145}{}{Klasse! Wenn du dann deinen fetten Hintern aus dem Haus bewegst, bin ich sehr dafür!}
-{146}{}{Sobald du dich mir gegenüber ein bißchen respektvoll zeigst, du widerlicher Bastard!}
-{147}{}{In diesem Haus muß doch IRGEND JEMAND etwas Verstand haben!}
+{146}{}{Sobald du dich mir gegenüber ein bisschen respektvoll zeigst, du widerlicher Bastard!}
+{147}{}{In diesem Haus muss doch IRGEND JEMAND etwas Verstand haben!}
 {148}{}{Ich liebe dich auch, Zuckerstückchen.}
 {149}{}{Ich will nichts, was IRGEND ETWAS mit deinem Rücken zu tun hat!}
 {200}{}{Was willst du denn, verdammt noch mal? Raus aus meinem Haus, Pinkie.}

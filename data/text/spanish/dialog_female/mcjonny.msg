@@ -3,7 +3,7 @@
 {102}{}{Pelo rubio, ojos azules: el típico chico americano.}
 {150}{}{¡Buaaaaa!}
 {151}{}{¡Quiero mi perro!}
-{152}{}{Whimper... }
+{152}{}{Gemido... }
 {153}{}{¡Una extraña!}
 {154}{}{¡Laddie! Te he echado de menos, chico. Gracias por traerme de vuelta a mi perro.}
 {155}{}{Hola, no te he visto por aquí antes.}

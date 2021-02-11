@@ -246,7 +246,7 @@
 {780}{}{Los Hermanos Corsican a tu servicio… (El hombre te mira irritado y entonces hace un gesto de sorpresa). La madre que me... }
 {781}{}{Por ti parti.}
 {782}{}{Nada.}
-{783}{}{¿Qué es este lugar?}
+{783}{}{¿Qué lugar es éste?}
 {784}{}{¿Puedes contarme algo sobre el estudio?}
 {785}{}{¿Tienes alguna… abertura… que yo pueda llenar?}
 {786}{}{¿Tienes algo de trabajo para alguien como yo?}
@@ -260,7 +260,7 @@
 {806}{}{[Haces lo que el hombre indica.]}
 {810}{}{Los Hermanos Corsican a tu servicio… (El hombre te mira irritado y entonces hace un gesto de sorpresa). La madre que me... eh… oye, ¿cómo estás, }
 {812}{}{N-nada}
-{813}{}{¿Qué es este lugar?}
+{813}{}{¿Qué lugar es éste?}
 {814}{}{Dame el gusto. Háblame un poco sobre este estudio.}
 {815}{}{Buena pregunta. ¿Tienes alguna… abertura… que yo pueda llenar?}
 {816}{}{Buena pregunta. ¿Tienes algo de trabajo para alguien como yo?}

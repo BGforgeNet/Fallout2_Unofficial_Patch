@@ -150,7 +150,7 @@
 {247}{}{Nincs idõm politikai leckékre. Viszlát!}
 {248}{}{Mindenki meg akarja szerezni azt, ami Reddingé. Csak vannak népek, akik kíméletesebben szednék el tõlünk. Hadd magyarázzam el a helyzetet!}
 {249}{}{Magyarázza csak!}
-{250}{}{Már eleget hallottam a magyarázataiból. Viszlát!}
+{250}{}{I've heard enough of your explanation already. Goodbye.}
 {251}{}{1000 dollárt fizetek azért az exkavátor chipért.}
 {252}{}{Nekem megfelel. Hol találok egyet?}
 {253}{}{Nekem megfelel. Itt a chipje.}
@@ -168,7 +168,7 @@
 {263}{}{A vezérlõchipje kiégett és ez nem olyasmi, amit rendelni lehetne valahonnan. Ellenben tudom, honnan lehetne szerezni egyet. Hajlandó vagyok 1000 dolcsit fizetni érte.}
 {264}{}{Hol található?}
 {265}{}{Ha annyira kell magának, hogyhogy még nem ment le érte maga?}
-{266}{}{Már most is nyakig vagyok elintéznivalókkal. Bocs, haver. Viszlát!}
+{266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
 {267}{}{Elég sok oka van, nagy részük éhes és ocsmány. A Wanamingo Bánya dugig van kiéhezett wanamingókkal.}
 {268}{}{Mi a frász az a vanya-minya?}
 {269}{}{Már értem. Hát, ez sok mindent megmagyaráz. Még gondolkodom rajta. Viszlát!}

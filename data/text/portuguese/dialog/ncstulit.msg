@@ -109,7 +109,7 @@
 {402}{}{Alguém fez o favor de não te contar sobre mim, docinho.  }
 {404}{}{Hmmmpf. Então. Qual o seu nome?}
 {405}{}{Eu sou }
-{407}{}{Você já trabalhou no cico, Stuart?}
+{407}{}{Você já trabalhou no circo, Stuart?}
 {408}{}{"Stuart Little?"}
 {409}{}{Há mais em mim do que minhas pernas, Stuart. Então seja mais educado, senão você terá problemas em arrumar
  encontros nessa cidade, okay?}

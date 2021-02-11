@@ -26,7 +26,7 @@
 {120}{}{POR DEFECTO}
 {121}{}{CANCELAR}
 {122}{}{Afecta a la velocidad del jugador}
-{123}{}{Pip-Boy speech}
+{123}{}{Pip-Boy discurso}
 {201}{}{Sí}
 {202}{}{No}
 {203}{}{Fácil}

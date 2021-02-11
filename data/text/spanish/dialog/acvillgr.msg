@@ -39,7 +39,7 @@
 {301}{}{Elegido, la gente está muriendo. Debes darte prisa en buscar el sagrado GECK. ¿En que puedo servirte de ayuda en la más sagrada de las búsquedas?}
 {302}{}{Se nos acaba el tiempo, Elegido. Por favor, termina tu sagrada misión pronto. No podemos permitirnos esperar mucho más. Si hay algo que pueda hacer para ayudarte a salvarnos, dímelo.}
 {303}{}{Elegido, el poblado está casi muerto... eres nuestra única esperanza. ¿Hay algo que pueda decirte que te ayude a salvarnos?}
-{1000}{}{Anciana}
+{1000}{}{Elder}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}

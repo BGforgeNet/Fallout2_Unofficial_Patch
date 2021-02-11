@@ -31,7 +31,7 @@
 {261}{}{Gracias.}
 {275}{}{Gracias por la pasta. Te voy a dejar que hables con él. No hagas ninguna estupidez. No puede salir de la habitación si Metzger no lo ordena.}
 {276}{}{Te voy a dejar que hables con él. No hagas ninguna estupidez. No puede salir de la habitación si Metzger no lo ordena.}
-{277}{}{De acuerdo.}
+{277}{}{Vale.}
 {285}{}{Para asegurarnos de que nadie le molesta mientras trabaja en algo para el jefe pero, sobre todo, para estar seguros de que no escapa.}
 {286}{}{Supongo que para estar seguros de que no escapa. De alguna forma ha arreglado la radio.}
 {287}{}{¿Quién es tu jefe?}
@@ -82,7 +82,7 @@
 {411}{}{¡Déjame en paz! ¿Qué problema tienes?}
 {412}{}{¡Dije que hablaras con Metzger!}
 {413}{}{¡Vale, bien! Puedes hablar con él, ¡pero eso es todo! No va a poner un pie fuera de ese cuarto. ¿Me oyes? Ahora, ¡fuera de mi vista!}
-{414}{}{De acuerdo.}
+{414}{}{Vale.}
 {415}{}{¡Gracias!}
 {430}{}{Sí, habla con Metzger. Estoy seguro de que tiene trabajo que darte. Creo que dijo que necesitaba otro hombre más.}
 {431}{}{Sí, habla con Metzger. Estoy seguro de que tiene trabajo que darte. Dijo que necesitaba otro hombre más... pero seguro que tú servirás.}
@@ -102,11 +102,11 @@
 {473}{}{Claro.}
 {474}{}{Lo siento, no puedo permitírmelo.}
 {480}{}{Bien, ya ves si me importa.}
-{481}{}{De acuerdo.}
+{481}{}{Vale.}
 {482}{}{Bien.}
 {490}{}{No, lo siento.}
 {491}{}{He dicho que no. Ahora lárgate. Tienes que hablar con Metzger.}
-{492}{}{De acuerdo.}
+{492}{}{Vale.}
 {500}{}{Qué mala suerte que no te hayas unido a nosotros.}
 {501}{}{Deberías unirte al gremio.}
 {502}{}{Tan sólo estoy haciendo la guardia.}

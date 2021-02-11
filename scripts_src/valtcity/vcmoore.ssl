@@ -423,7 +423,7 @@ procedure Node005 begin
 end
 
 procedure Node005a begin
-   //if (skill_success(dude_obj,SKILL_CONVERSANT,-30)) then
+   //if (skill_success(dude_obj,SKILL_SPEECH,-30)) then
        //call Node007;
    //else
        call Node011;
@@ -440,7 +440,7 @@ procedure Node006 begin
 end
 
 procedure Node006a begin
-//   if (skill_success(dude_obj,SKILL_CONVERSANT,-30)) then
+//   if (skill_success(dude_obj,SKILL_SPEECH,-30)) then
 //       call Node007;
 //   else
 //       call Node012;
@@ -609,7 +609,7 @@ procedure Node018a begin
        call Node032;
    else
       call Node007;
-//   else if (skill_success(dude_obj,SKILL_CONVERSANT,-10)) then
+//   else if (skill_success(dude_obj,SKILL_SPEECH,-10)) then
 //       call Node007;
 //   else
 //       call Node028;
@@ -705,7 +705,7 @@ procedure Node025 begin
 end
 
 procedure Node025a begin
-//   if (skill_success(dude_obj,SKILL_CONVERSANT,-20)) then
+//   if (skill_success(dude_obj,SKILL_SPEECH,-20)) then
 //       call Node012;
 //   else
 //       call Node011;

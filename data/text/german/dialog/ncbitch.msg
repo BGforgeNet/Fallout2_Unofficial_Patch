@@ -12,7 +12,7 @@
 {401}{}{Laberhannes.}
 {402}{}{Dämlack.}
 {403}{}{Ja, geh nur weiter, Idiot.}
-{404}{}{Ich hoffe, ich werde nie wieder in den "Genuß" kommen, dich wiederzutreffen.}
+{404}{}{Ich hoffe, ich werde nie wieder in den "Genuss" kommen, dich wiederzutreffen.}
 {405}{}{Das Mädel braucht 'n paar Pfefferminz für ihren Atem.}
 {406}{}{Schlunze.}
 {500}{}{Sie sieht dich nur mit leerem Blick an.}

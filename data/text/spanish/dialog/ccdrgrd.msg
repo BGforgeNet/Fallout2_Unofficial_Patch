@@ -6,7 +6,7 @@
 {105}{}{Uh... yo nuevo aquí.}
 {106}{}{Yo limpio cosas.}
 {107}{}{No recuerdo. Marcho yo.}
-{108}{}{¿Qué es este lugar?}
+{108}{}{¿Qué lugar es éste?}
 {109}{}{Hola, soy nuevo.}
 {110}{}{He venido a limpiar la oficina del comandante.}
 {111}{}{No importa.}
@@ -16,7 +16,7 @@
 {115}{}{Tengo asuntos que tratar con el comandante.}
 {116}{}{De acuerdo.}
 {117}{}{¿Cuál es la naturaleza de dichos asuntos, señor?}
-{118}{}{Uh...}
+{118}{}{Eh...}
 {119}{}{Mierda. He jodido...}
 {120}{}{Da igual. Marcho yo.}
 {121}{}{Bueno...}
@@ -38,12 +38,12 @@
 {137}{}{¿Nadie viene aquí? ¿Nunca?}
 {138}{}{¿Nadie viene a verle?}
 {139}{}{(tranquilamente) Nadie. Bueno, sólo los de la limpieza. Suelen venir por aquí en una hora o así. Aparte de ellos, este lugar está restringido. Ahora, será mejor que te largues.}
-{140}{}{De acuerdo.}
+{140}{}{Vale.}
 {141}{}{(hablando para sí mismo) Comandante. El de la limpieza está aquí, señor. (pausa) Sí, señor. (mirándote) Entra.}
 {142}{}{Llegas pronto. Vuelve más tarde.}
-{143}{}{De acuerdo.}
+{143}{}{Vale.}
 {144}{}{Entonces vuelve al centro de comunicaciones y que te impriman la orden.}
-{145}{}{De acuerdo.}
+{145}{}{Vale.}
 {146}{}{Debes estar buscando la armería. Vuelve por el pasillo, gira a la derecha, y es la primera puerta a la izquierda. Te darán tu equipo allí.}
 {147}{}{Gracias.}
 {148}{}{¿Quién demonios sois vosotros... ¡Alerta! ¡Intrusos!}

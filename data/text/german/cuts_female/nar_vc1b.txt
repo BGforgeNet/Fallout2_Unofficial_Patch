@@ -1,5 +1,5 @@
 1:Die gesamte Technologie war aus der Vault gestohlen worden und bald zogen Flüchtlinge aus Gecko in die geborstenen Mauern der Stadt ein.
 2:An einem Tag war es eine blühende Gemeinschaft, am nächsten lagen die Leichen seiner Bürger in den Straßen verstreut.
 3:Es schien, als hätten Banditen die Stadt geplündert, doch es wurden keine Leichen der Angreifer gefunden.
-4:Their Vault was plundered of all its technology, and the inhabitants of Gecko soon moved into the broken walls of the city.
-5:In a few short months, they had rebuilt the city and restored much of the systems that had been damaged by the raiders.
+4:Die gesamte Technologie war aus der Vault gestohlen worden und bald zogen Bewohner aus Gecko in die geborstenen Mauern der Stadt ein.
+5:In wenigen Monaten hatten sie die Stadt wieder aufgebaut und einen Großteil der Systeme, die durch die Angreifer beschädigt worden waren, wiederhergestellt.

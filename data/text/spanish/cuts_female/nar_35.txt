@@ -1,2 +1,2 @@
-1:Gracias a tu persistencia los Saqueadores son eliminados como fuerza de ataque efectiva, y disueltos.
+1:Gracias a tu persistencia, los saqueadores dejan de ser una fuerza de ataque efectiva y se dispersan.
 2:Nunca más se ha vuelto a saber nada acerca de los Saqueadores supervivientes.

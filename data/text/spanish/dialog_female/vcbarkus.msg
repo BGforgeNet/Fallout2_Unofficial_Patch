@@ -102,7 +102,7 @@
 {198}{}{Ya veo. Puede que regrese más tarde.}
 {199}{}{Ya veo. Puede que regrese más tarde, cuando tenga fondos suficientes para una donación.}
 {200}{}{Bueno... no es tanto como uno esperaría de una donación, pero servirá. El tal Joshua que estás buscando ha sido enviado al Patio para su procesamiento. Déjame que haga las gestiones oportunas.}
-{201}{}{De acuerdo.}
+{201}{}{Vale.}
 {202}{}{Está hecho. Joshua ya no es siervo de Ciudad Refugio, y ha sido trasladado al Patio junto con el resto de Errantes.}
 {203}{}{Gracias. Tenía algunas preguntas más...}
 {204}{}{Muy bien. Iré a buscarlo allí, entonces.}
@@ -121,7 +121,7 @@
 {217}{}{¿Infectado? ¿Infectado con qué?}
 {218}{}{¿Síntomas? ¿Qué clase de síntomas?}
 {219}{}{¿Quizá has notado recientemente la poca energía de tus siervos? ¿Su escasa capacidad de atención? ¿Su incapacidad para entender las órdenes y seguirlas correctamente? Eso es sólo la primera etapa.}
-{220}{}{Uh...}
+{220}{}{Eh...}
 {221}{}{. Gran cantidad de Errantes lo tienen. Sus síntomas son, eh, hablar sin que se les hable. Y emplear un lenguaje inapropiado.}
 {222}{}{Hmmmm. No sería así si los Ciudadanos comenzaran a informar de problemas con los siervos... muy bien, liberaré a Joshua ahora mismo. Si me permites un momento para las gestiones oportunas...}
 {223}{}{Sí... he observado esos síntomas en los siervos últimamente. Contagioso, ¿no? Hmmm. Bueno, si este Joshua es un portador de enfermedades, lo liberaré de inmediato. Dame un momento para realizar las gestiones oportunas...}

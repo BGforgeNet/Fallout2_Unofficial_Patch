@@ -6,7 +6,7 @@
 {105}{}{¿Quién tú?}
 {106}{}{¿Qué haces?}
 {107}{}{¿Cómo de listo tú?}
-{108}{}{Marcho ahora.}
+{108}{}{Yo irme ahora.}
 {109}{}{¿Quién eres?}
 {110}{}{¿Qué estás haciendo aquí?}
 {111}{}{No te ofendas pero, ¿cuánta inteligencia tienes?}
@@ -16,7 +16,7 @@
 {115}{}{Marcho.}
 {116}{}{Me tengo que ir.}
 {117}{}{Es un placer conocerte, Thearn. Soy}
-{118}{}{Entiendo.}
+{118}{}{Entendido.}
 {119}{}{Ahora que lo pienso, no me importa una mierda quién eres.}
 {120}{}{Yo proteger estancia. Seguridad de manada ser objetivo.}
 {121}{}{Oh... Uh...}

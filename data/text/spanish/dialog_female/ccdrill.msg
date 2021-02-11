@@ -10,7 +10,7 @@
 {109}{}{Uh... yo }
 {110}{}{Soy }
 {111}{sgnt4}{Oh, enternecedor. Me han mandado a una retrasada. Escucha atentamente. Montarás guardia en el hangar. Ese será tu puesto de servicio. Ahora ve allí y quédate haciendo guardia hasta que se te diga otra cosa. ¡Muévete, soldado!}
-{112}{}{Me voy, yo.}
+{112}{}{Yo ir.}
 {113}{sgnt5}{¿Qué ha sido eso? No te has olvidado de algo, ¿gusanaza?}
 {114}{}{Me llamo }
 {115}{sgnt6}{No soy un señor. Trabajo para vivir, IM-BÉ-CIL. Me llamarás Sargento o sargento Dornan. ¡Me entiendes!}
@@ -30,7 +30,7 @@
 {129}{}{Vale. Voy por uniforme.}
 {130}{}{¡Sí, Sargento!}
 {131}{sgnt11}{¡Esos estúpidos burócratas!¿Cómo demonios esperan que dirija esta unidad si continúan estafándome con los suministros? Paso ligero a la armería, consigue tu equipo y preséntate ante mí. ¡Retírate!}
-{132}{}{De acuerdo.}
+{132}{}{Vale.}
 {133}{}{¡Sí, Sargento!}
 {134}{sgnt12}{Si me gustaras, podrías llamarme Sarge. ¿Pero sabes qué? ¡No me gustas! ¿Te enteras?}
 {135}{}{¡Sí, Sargento!}

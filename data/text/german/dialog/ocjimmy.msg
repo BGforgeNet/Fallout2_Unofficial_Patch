@@ -5,15 +5,15 @@
 {104}{}{Ich umsehn.}
 {105}{}{Ich}
 {106}{}{Äh... Ich laufen rum. Ich jetzt gehn.}
-{107}{}{Schau mich nur 'n bißchen um.}
+{107}{}{Schau mich nur 'n bisschen um.}
 {108}{}{Hi Jim. Ich bin}
 {109}{}{Geht dich nichts an, Brillenschlange. Hau ab.}
-{110}{}{Ich lauf hier nur 'n bißchen rum. Ich geh jetzt.}
-{111}{}{Schau dir gern alles an, aber bitte faß nichts an. Hier stehen empfindliche Geräte.}
+{110}{}{Ich lauf hier nur 'n bisschen rum. Ich geh jetzt.}
+{111}{}{Schau dir gern alles an, aber bitte fass nichts an. Hier stehen empfindliche Geräte.}
 {112}{}{Ich nur umsehen. Nix anfassen.}
 {113}{}{Ich schau mich nur um. Ich werd nichts anfassen.}
 {114}{}{Du nervst. Verschwinde.}
-{115}{}{Hey, tut mir leid. Ich wollt dir nicht zu nahe treten. Ich laß dich in Ruh.}
+{115}{}{Hey, tut mir leid. Ich wollt dir nicht zu nahe treten. Ich lass dich in Ruh.}
 {116}{}{Gut.}
 {117}{}{Freut mich, dich kennenzulernen, }
 {118}{}{Was möchtest du denn wissen?}
@@ -35,7 +35,7 @@
 {134}{}{Was Problem?}
 {135}{}{Wo liegt das Problem?}
 {136}{}{Ja, Gruthar hat es mir gesagt und mich gebeten, mir das mal anzuschauen. Würd es dir was ausmachen?}
-{137}{}{Die Sprachübermittlung zum Großrechner ist beschädigt, so daß Gruthar dem System keine Anweisungen geben kann. Die Nahrungs- und Wasserprozessoren wurden bereits abgeschaltet; die Stromsysteme sind wahrscheinlich als nächstes dran.}
+{137}{}{Die Sprachübermittlung zum Großrechner ist beschädigt, so dass Gruthar dem System keine Anweisungen geben kann. Die Nahrungs- und Wasserprozessoren wurden bereits abgeschaltet; die Stromsysteme sind wahrscheinlich als nächstes dran.}
 {138}{}{Warum nicht benutzen Tasten-Tour?}
 {139}{}{Warum gebt ihr Befehle nicht über die Tastatur ein?}
 {140}{}{Tja, das ist ja das Merkwürdige daran. Das System akzeptiert keine Tastaturbefehle. Ich weiß auch nicht, was zu tun ist.}
@@ -53,7 +53,7 @@
 {152}{}{Warum?}
 {153}{}{OK, ich noch Fragen.}
 {154}{}{Warum? Ich mein, ist das nicht ungewöhnlich?}
-{155}{}{Verstehe. Laß' uns über was anderes reden.}
+{155}{}{Verstehe. Lass' uns über was anderes reden.}
 {156}{}{Ich kenn nicht die ganze Geschichte, aber es gab mal einen Aufstand hier in der Vault. Der Aufseher wurde entweder getötet oder abgesetzt. Ich bin nicht ganz sicher. Auf jeden Fall wollten die Revolutionsführer das Schicksal der Leute keinem anderen Aufseher überlassen und haben diesen Großrechner installiert. Laut Aufzeichnungen wurde er gekauft von... wie war noch der Name... Ah, ich erinnere mich, von der "Brotherhood of Steel".}
 {157}{}{Du wissen mehr über Brotherhood?}
 {158}{}{Kannst du mir was über diese Brotherhood erzählen?}
@@ -63,22 +63,22 @@
 {162}{}{Oh ja, seit dem ich durch Zufall hier reingestolpert bin, lebe ich hier und ich möcht auch nicht weg. Ich war immer ein Einzelgänger und mach mir nicht viel aus anderen Menschen. Das soll keine Beleidigung sein.}
 {163}{}{Schon gut.}
 {164}{}{Ich bin nicht beleidigt, schon gut.}
-{165}{}{Ja... Irgendwie bewunder ich sie für das, was sie sind und was sie versuchen zu werden. Andererseits fürcht ich mich vor ihnen zu Tode. Ich glaub, ich werd mich nie dran gewöhnen, daß sie genauso klug sind wie ich selbst... naja, zumindest einige.}
+{165}{}{Ja... Irgendwie bewunder ich sie für das, was sie sind und was sie versuchen zu werden. Andererseits fürcht ich mich vor ihnen zu Tode. Ich glaub, ich werd mich nie dran gewöhnen, dass sie genauso klug sind wie ich selbst... naja, zumindest einige.}
 {166}{}{Du glauben, sie Bedrohung für Menschen?}
-{167}{}{Glaubst du, daß sie eine Bedrohung für die Menschen darstellen?}
+{167}{}{Glaubst du, dass sie eine Bedrohung für die Menschen darstellen?}
 {168}{}{Oh, ganz bestimmt. Sie sind uns körperlich weit überlegen und geistig gleichgestellt. Dadurch sind sie eine große Gefahr für uns. Aber letztendlich ist alles eine Frage von Moral und Ethik. Glücklicherweise scheinen sie ethisch und moralisch weit entwickelt zu sein.}
 {169}{}{Ich verstehn.}
 {170}{}{Ja, ich verstehe, was du meinst.}
 {171}{}{Hallo. Schön, dich wiederzusehen. Wie kann ich dir weiterhelfen?}
 {172}{}{Haben Fragen.}
 {173}{}{Nur Hallo sagen. Ich gehn.}
-{174}{}{Ich muß dich was fragen.}
+{174}{}{Ich muss dich was fragen.}
 {175}{}{Wollte nur Hallo sagen.}
-{176}{}{Laß mich mal überlegen... Ich denke, der beste Ort ist Vault City. Das ist der fortschrittlichste Ort, der mir einfällt. Vielleicht versuchst du's auch in New Reno. Das liegt näher und die handeln viel mit Vault City.}
+{176}{}{Lass mich mal überlegen... Ich denke, der beste Ort ist Vault City. Das ist der fortschrittlichste Ort, der mir einfällt. Vielleicht versuchst du's auch in New Reno. Das liegt näher und die handeln viel mit Vault City.}
 {177}{}{Danke.}
-{178}{}{Danke, daß du den Computer repariert hast. Du hast unsern Hintern gerettet.}
+{178}{}{Danke, dass du den Computer repariert hast. Du hast unsern Hintern gerettet.}
 {179}{}{Ich hab Besseres zu tun als Leute wie dich zu erschießen, aber jeder braucht mal Urlaub.}
 {180}{}{. Ich Frage stellen?}
 {181}{}{. Kann ich dir ein paar Fragen stellen?}
 {182}{}{. Ich beantworte dir gern einige Fragen.}
-{183}{}{Du solltest Gruthar wissen lassen, daß du den Computer repariert hast.}
+{183}{}{Du solltest Gruthar wissen lassen, dass du den Computer repariert hast.}

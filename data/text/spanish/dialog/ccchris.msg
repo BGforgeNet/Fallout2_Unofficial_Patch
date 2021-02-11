@@ -8,7 +8,7 @@
 {107}{}{¿Ves aquí pájaros de metal?}
 {108}{}{¿Oyes de Enclave? ¿Ellos aquí?}
 {109}{}{Sólo echo v-vistazo.}
-{110}{}{¿Qué es este lugar?}
+{110}{}{¿Qué lugar es éste?}
 {111}{}{Estoy buscando Navarro. ¿Es aquí?}
 {112}{}{¿Has visto algún vertibird volando por aquí?}
 {113}{}{¿Alguna vez has oído hablar del Enclave? ¿Están por aquí?}
@@ -129,7 +129,7 @@
 {228}{}{La has cagado, amigo.}
 {229}{}{¿Qué crees que estás haciendo?}
 {230}{}{Eh, me largo de aquí.}
-{231}{}{Si, de acuerdo.}
+{231}{}{Sí, claro.}
 {232}{}{Está sacando una radio. ¡Va a alertar a toda la base! ¡Tengo que encargarme de él rápidamente!}
 {233}{}{Oh, no. Hombre extraer la caja de habla. Cuenta en me. Debo detenerlo.}
 {800}{}{Has engañado a Chris para que te dé la contraseña.}

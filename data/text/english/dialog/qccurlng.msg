@@ -73,7 +73,7 @@
 {172}{}{The Project that the Enclave has dedicated itself to these past several decades has been the reestablishment of the human race upon the continental United States. God bless America.}
 {173}{}{That doesn't sound as though it would take decades to achieve.}
 {174}{}{I've heard enough of that. Let me ask you something else.}
-{175}{}{Oh, just establishing an outpost wouldn't take long. We've all ready done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
+{175}{}{Oh, just establishing an outpost wouldn't take long. We've already done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
 {176}{}{Eradication procedure?}
 {177}{}{Why yes, we can't move back to the mainland only to risk contamination by all of the mutated near-humans there. In order to make the United States safe for humanity, all of the mutants must first be exterminated.}
 {178}{}{What!?! Are you insane? That's monstrous!}
@@ -102,7 +102,7 @@
 {201}{}{Okay, now I know where you found it, but what does it do?}
 {202}{}{The F.E.V. was initially designed as a virus that was supposed to turn humans into super-soldiers. That experiment seems to have been an utter failure, although I did try a modification of the virus on one of our Secret Service agents with some success.}
 {203}{}{Great for you, but how does that have anything to do with eradicating everyone?}
-{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it all ready was. The result was just what the doctor ordered, perfect in every way. }
+{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
 {205}{}{Perfect? How so?}
 {206}{}{Isn't it obvious, my mutated friend? The F.E.V. is, thanks to me, a lethal toxin, and thanks to some mysterious genius named, rather dramatically, the Master, it only works on humans, mutated or not.}
 {207}{}{So?}

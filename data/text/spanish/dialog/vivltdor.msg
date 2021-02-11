@@ -9,8 +9,8 @@
 {108}{}{*Hrnnnnn*}
 {109}{}{Usando tu fuerza bruta, fuerzas la puerta hasta abrirla.}
 {110}{}{Caray. Ni un arañazo.}
-{111}{}{BOOM no hurt door.}
+{111}{}{AUGE de ningún daño de la puerta.}
 {112}{}{La puerta está atascada, no cerrada.}
-{113}{}{Door stuckie not lockie.}
+{113}{}{Puerta stuckie no lockie.}
 {114}{}{La puerta no se cerrará. Está atascada.}
 {115}{}{La puerta no se mueve.}

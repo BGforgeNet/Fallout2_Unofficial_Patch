@@ -145,7 +145,7 @@ No suelo tener la oportunidad de hablar con otro médico.}
 {224}{}{Myron, doctor Troy... doctor Troy, Myron.}
 {225}{}{Entonces, tengo algunas preguntas para este joven...}
 {226}{}{Eh, vale. Puede que quieras tomar una aspirina antes empezar. Esperaré aquí.}
-{227}{}{Sé mi invitado.}
+{227}{}{Adelante.}
 {228}{}{Adelante. Avísame si necesitas algo... como un bate de béisbol.}
 {229}{}{¿Emanaciones de brahmin? No es un proceso de fabricación convencional, pero... hmmmmm. Tal vez podría tomar
  muestras de sangre de brahmin en el patio, entonces... gracias, amigo mío.}

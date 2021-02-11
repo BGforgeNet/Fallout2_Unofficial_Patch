@@ -15,7 +15,7 @@
 {113}{}{Zukunftsziele.}
 {114}{}{Finanzen.}
 {115}{}{Zurück.}
-{116}{}{[Nachdem du dich durch das religiöse Papperlapapp gewühlt hast, entdeckst du, daß die
+{116}{}{[Nachdem du dich durch das religiöse Papperlapapp gewühlt hast, entdeckst du, dass die
  Hubologen ein Verfahren entwickelt haben, Powerrüstungen zu härten. Außerdem habe sie einen Weg
  gefunden, um  Raketenstarts, Umlaufbahnen und Ziele im Weltraum zu berechnen. Darüber hinaus
  scheinen sie an der Beeinflussung des Wetters zu arbeiten.]}
@@ -24,7 +24,7 @@
 {119}{}{[Du studierst etwa eine halbe Stunde lang die Ziele, die sich AHS-9 gesteckt hat. Neben
  der Erleuchtung und der Vereinigung mit dem Sternenvater scheint dazu auch die skrupellose
  Vernichtung der Menschen zu gehören, die nicht von Anfang an auf seiner Seite standen. Er ist
- ein bißchen verrückt.]}
+ ein bisschen verrückt.]}
 {120}{}{Zurück.}
 {121}{}{Abmelden.}
 {122}{}{[Die Hubologen-Kirche scheint sehr wohlhabend zu sein. Die reguläre Vorgehensweise ist,

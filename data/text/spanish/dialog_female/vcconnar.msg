@@ -31,7 +31,7 @@
 {127}{}{¿Qué clase de armas?}
 {128}{}{Bien, yo uso bien las escopetas, y tenemos algunas personas por aquí que pueden manejar un rifle. Creo
  que tres de esos servirían.}
-{129}{}{Veré lo que puedo hacer.}
+{129}{}{Sé lo que podemos hacer.}
 {130}{}{No eres bien recibido aquí. Ahora vete.}
 {131}{}{He cambiado de opinión. ¿Qué puedo hacer para ayudar?}
 {132}{}{Sí, bueno, de todos modos no vas a estar aquí mucho más tiempo.}
@@ -40,7 +40,7 @@
 {135}{}{¿Puedes repetirme lo que necesitabas?}
 {136}{}{Sí, aquí están.}
 {137}{}{Necesitamos tres rifles y una escopeta. Cuando antes nos las consigas, mejor.}
-{138}{}{De acuerdo.}
+{138}{}{Vale.}
 {139}{}{Con esto, podremos hacer algo de este lugar en los próximos meses. Si alguna vez necesitas
  un lugar en el que descansar, siempre serás bienvenido aquí.}
 {140}{}{No hay de qué.}

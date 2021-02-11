@@ -13,14 +13,14 @@
 {161}{}{Er sieht vorübergehend verwirrt aus, als ob er vergessen hätte, wer er ist, dann lächelt er und kratzt sich am Kopf.}
 {162}{}{Er macht Kniebeugen.}
 {163}{}{Du siehst einen großen Weißen. Er hat Arme wie Baumstämme.}
-{164}{}{Du siehst einen ausgesprochen muskulösen Weißen. Er läßt die Muskeln spielen und grunzt vor sich hin.}
+{164}{}{Du siehst einen ausgesprochen muskulösen Weißen. Er lässt die Muskeln spielen und grunzt vor sich hin.}
 {165}{}{Du siehst einen ausgesprochen muskulösen Weißen. Er sieht deinen Kopf an, als ob er ein Sandsack wäre.}
 {166}{}{Er schlägt auf einen unsichtbaren Gegner ein und knurrt Drohungen in die Luft.}
 {167}{}{Er sieht vorübergehend verwirrt aus, als ob er vergessen hätte, wer er ist, dann lächelt er und kratzt sich am Kopf.}
 {168}{}{Er sieht deinen Kopf an, als ob er ein Sandsack wäre.}
 {200}{}{Hnffff}
 {201}{}{Hnrggg}
-{202}{}{::Läßt die Muskeln spielen::}
+{202}{}{::Lässt die Muskeln spielen::}
 {203}{}{::Der Boxer sieht dich mit ängstlichem Blick an::}
 {204}{}{Jaa?}
 {205}{}{Kann iff 'n parr Pfähne borgen?}
@@ -36,11 +36,11 @@
 {215}{}{Genug geredet. Zeit fürs Bett.}
 {216}{}{::Grinst zahnlos::}
 {217}{}{::kratzt sich::}
-{218}{}{::Läßt die Muskeln spielen::}
+{218}{}{::Lässt die Muskeln spielen::}
 {219}{}{Grunz}
 {220}{}{Du mich kämpfen?}
 {221}{}{Böse werden böse werden böse werden.}
-{222}{}{Foh-Kuß, Foh-Kuß.}
+{222}{}{Foh-Kuss, Foh-Kuss.}
 {223}{}{Mach ernst.}
 {224}{}{Kämpf dich an dem Mistkerl vorbei.}
 {225}{}{Ich brauchen Agent.}
@@ -79,7 +79,7 @@
 {350}{}{Adrian! Adrian!}
 {351}{}{Du gehst zu Boden!}
 {352}{}{Mach dich zur Schnecke...}
-{353}{}{Ich muß dich brechen.}
+{353}{}{Ich muss dich brechen.}
 {354}{}{Du kämpfst ja wie ein Idiot!}
 {355}{}{Du hast keinen Mumm!}
 {356}{}{Du bist ein Verlierer! Ein Verlierer!}

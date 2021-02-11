@@ -10,7 +10,7 @@
 {108}{}{Hallo, Goris. Gruthar sagte, ich sollte dich aufsuchen. Er meint, du bist derjenige, der
  meine Fragen beantworten kann.}
 {109}{}{Kann ich dir einige Fragen stellen?}
-{110}{}{Tut mir leid, ich muß gehn.}
+{110}{}{Tut mir leid, ich muss gehn.}
 {111}{}{Freut mich, dich kennenzulernen, }
 {112}{}{Du hast also mit Gruthar gesprochen. Er hat eine etwas zu hohe Meinung von mir. Ich weiß
  eigentlich nicht mal halb so viel wie er glaubt.}
@@ -33,12 +33,12 @@
 {126}{}{Was kannst du mir über die Deathclaws sagen, die hier leben?}
 {127}{}{Weißt du, was mit den Leuten passiert ist, die hier vorher gelebt haben?}
 {128}{}{Was kannst du mir über Gruthar sagen?}
-{129}{}{Meinst du, daß die Deathclaws eine Gefahr für die Menschen sind?}
+{129}{}{Meinst du, dass die Deathclaws eine Gefahr für die Menschen sind?}
 {130}{}{Weißt du irgendwas über diese Enklave, von der du gesprochen hast?}
 {131}{}{Was weißt du über dieses Virus?}
 {132}{}{Du sagtest, du würdest gern reisen. Was hältst du davon, mich zu begleiten?}
-{133}{}{Tut mir leid, ich muß jetzt gehn.}
-{134}{}{Hmm... Ich bin überrascht, daß Gruthar dir nichts über mich erzählt hat. Naja, was soll's.}
+{133}{}{Tut mir leid, ich muss jetzt gehn.}
+{134}{}{Hmm... Ich bin überrascht, dass Gruthar dir nichts über mich erzählt hat. Naja, was soll's.}
 {135}{}{Ich bin so eine Art Student. Ich versuche, so viel wie möglich über die Welt und die
  verschiedenen Kulturen, die sich entwickelt haben, zu lernen. Im Moment studiere ich die
  aufstrebende Kultur der Deathclaws und vergleiche sie mit menschlichen Entwicklungen. Ich hab
@@ -63,7 +63,7 @@
  Intelligenz wurde auf ihnen unverständliche Weise erweitert. Eine Gruppe Menschen, genannt 'Die
  Enklave' ist hierfür verantwortlich. Scheinbar brauchte die Enklave eine Armee und hat sich für
  die Deathclaws entschieden, weil sie so stark sind und ....naja, du verstehst schon, oder?
- Wie auch immer, das einzige, was den Deathclaws fehlte, war Intelligenz. Sie mußten klug genug
+ Wie auch immer, das einzige, was den Deathclaws fehlte, war Intelligenz. Sie mussten klug genug
  sein, um komplexe Befehle zu verstehen, aber nicht klug genug, um für die "Verantwortlichen"
  eine Gefahr darzustellen.}
 {148}{}{Einen größeren Mist hab ich in meinem ganzen Leben noch nicht gehört!}
@@ -82,21 +82,21 @@
  zu sein. Die Menschen wurden lebend gefangen genommen, aber wer weiß, was dann mit ihnen
  passiert ist.}
 {153}{}{Hmm... Ich möchte dich noch was fragen.}
-{154}{}{Ich wußte, daß diese verdammte Deathclaws irgendwie dafür verantwortlich sind! Aber ich
+{154}{}{Ich wusste, dass diese verdammte Deathclaws irgendwie dafür verantwortlich sind! Aber ich
  brauch noch mehr Informationen.}
-{155}{}{Manchmal sind wir durch Situationen, auf die wir keinen Einfluß haben, gezwungen,
+{155}{}{Manchmal sind wir durch Situationen, auf die wir keinen Einfluss haben, gezwungen,
  schreckliche Dinge zu tun. Gruthar sollte lernen, sich selbst zu vergeben.}
 {156}{}{Gruthar ist nicht das Monster, das er zu sein scheint. Er kümmert sich hier wirklich sehr
  um uns und tut alles in seiner Macht stehende für unsere Sicherheit und unser Überleben. Wir
- vertrauen ihm alle unser Leben an. Ich weiß nicht, was ich sonst über ihn sagen soll. Du mußt
+ vertrauen ihm alle unser Leben an. Ich weiß nicht, was ich sonst über ihn sagen soll. Du musst
  ihn selbst kennenlernen und dir dein eigenes Urteil bilden.}
 {157}{}{Ich will keine übereilten Urteile über ihn fällen. Er verdient Besseres.}
-{158}{}{Sicher. Laß uns über andere Dinge sprechen.}
-{159}{}{Er ist eine Deathclaw. Ich kann kaum glauben, daß er irgendwelche Qualitäten hat.}
+{158}{}{Sicher. Lass uns über andere Dinge sprechen.}
+{159}{}{Er ist eine Deathclaw. Ich kann kaum glauben, dass er irgendwelche Qualitäten hat.}
 {160}{}{Tja,... das Potential ist vorhanden. Insbesondere, wenn du ihre neuerworbene Intelligenz
- bedenkst. Aber ich glaube nicht, daß Gruthar und sein Rudel eine Bedrohung sind. Sie alle
+ bedenkst. Aber ich glaube nicht, dass Gruthar und sein Rudel eine Bedrohung sind. Sie alle
  respektieren das Leben und die persönliche Freiheit über alles andere. Aber das ist meine
- subjektive Meinung, du mußt dir dein eigenes Bild machen. Es leben hier noch andere, die du
+ subjektive Meinung, du musst dir dein eigenes Bild machen. Es leben hier noch andere, die du
  fragen kannst.}
 {161}{}{Nur ein Dummkopf könnte übersehen, was für eine potentielle Gefahr von diesen
  Deathclaws ausgeht!}
@@ -105,7 +105,7 @@
 {164}{}{Nein, nur was ich dir erzählt habe. Moment, da ist noch was. Die Enklave interessierte 
  sich für Ruinen im Westen von hier. Ich weiß aber nicht weshalb. Das ist alles.}
 {165}{}{Jede kleinste Information hilft mir weiter, ich danke dir.}
-{166}{}{Das ist zufällig sehr wichtig für mich und du läßt mich im Stich!}
+{166}{}{Das ist zufällig sehr wichtig für mich und du lässt mich im Stich!}
 {167}{}{Verstehe.}
 {168}{}{Ich glaube, es nennt sich FEV-Virus. Die Enklave hat sehr intensiv daran geforscht.
  Forscht vielleicht immer noch daran. Tut mir leid, aber mehr weiß ich nicht.}
@@ -134,22 +134,22 @@
  ich rede, oder?}
 {186}{}{Obst reif, nix ich.}
 {187}{}{Ich gehn.}
-{188}{}{Äh, ja, dein IQ ist vielleicht kleiner als der von Knäckebrot, aber irgendwas mußt du ja
+{188}{}{Äh, ja, dein IQ ist vielleicht kleiner als der von Knäckebrot, aber irgendwas musst du ja
  können, sonst hättest du nicht bis jetzt in dieser Welt überlebt... OK, versuchen wir's mal so:
  Ich wollen verlassen diesen Ort. Ich wollen reisen mit dir, OK?}
-{189}{}{Äh, ja, dein IQ ist vielleicht kleiner als der von Knäckebrot, aber irgendwas mußt du ja
- können, sonst hättest du nicht bis jetzt in dieser Welt überlebt...es muß diese Fiesheit sein,
- die ich in dir sehe. OK. Tschüß.}
+{189}{}{Äh, ja, dein IQ ist vielleicht kleiner als der von Knäckebrot, aber irgendwas musst du ja
+ können, sonst hättest du nicht bis jetzt in dieser Welt überlebt...es muss diese Fiesheit sein,
+ die ich in dir sehe. OK. Tschüss.}
 {190}{}{Äh... OK.}
 {191}{}{Ich gehen.}
 {192}{}{Tut mir leid, ich wollt mich nicht in deine privaten Angelegenheiten einmischen.}
-{193}{}{Ja, OK. Achte drauf, daß sowas nicht noch mal passiert!}
+{193}{}{Ja, OK. Achte drauf, dass sowas nicht noch mal passiert!}
 {194}{}{Jaja. Ich brauch einige Informationen von dir.}
 {195}{}{Tut mir leid Goris, ich bin heute etwas nervös. Ich wollte dir einige Fragen stellen,
  wenn du nichts dagegen hast.}
 {196}{}{Du hast wirklich schon interessante Dinge erlebt. Das sind ja Heldengeschichten.
- Ich beneide dich. Danke, daß du mir alles erzählt hast.}
-{197}{}{Äh... Du bist ja ein wandelndes Massaker. Ich geh jetzt besser. Danke, Tschüß.}
+ Ich beneide dich. Danke, dass du mir alles erzählt hast.}
+{197}{}{Äh... Du bist ja ein wandelndes Massaker. Ich geh jetzt besser. Danke, Tschüss.}
 {198}{}{Gern geschehn, Goris.}
 {199}{}{Hallo, was ist los?}
 {200}{}{Du kommen mit?}
@@ -161,16 +161,16 @@
 {206}{}{Du bist eine Deathclaw? Gibt es einen Grund, warum du mir das nicht erzählt hast?}
 {207}{}{Wie soll ich sagen... Du nix reden mit böse Kreaturen, du töten. Ich nix sagen, so du
  sehen, ich gut. Nix töten. Ich können gehen mit dir?}
-{208}{}{Es tut mir leid, daß ich dich getäuscht habe, aber Menschen haben die Angewohnheit, auf
+{208}{}{Es tut mir leid, dass ich dich getäuscht habe, aber Menschen haben die Angewohnheit, auf
  Deathclaws zu schießen, wenn sie sie sehen. Ich dachte mir, es wäre besser, meine Identität
- zu verbergen, bis du von selbst entdeckst, daß ich in diesem Spiel auf deiner Seite bin. Wenn du
- willst, daß ich gehe, tu ich das. Aber ich würde lieber bleiben und dir bei deiner Suche
- helfen. Ich möchte zeigen, daß Menschen und Deathclaws zusammenarbeiten können und keine
+ zu verbergen, bis du von selbst entdeckst, dass ich in diesem Spiel auf deiner Seite bin. Wenn du
+ willst, dass ich gehe, tu ich das. Aber ich würde lieber bleiben und dir bei deiner Suche
+ helfen. Ich möchte zeigen, dass Menschen und Deathclaws zusammenarbeiten können und keine
  Feinde sein müssen.}
 {209}{}{Ich nicht mögen. Du gehn.}
 {210}{}{OK, du bleiben.}
 {211}{}{Tut mir leid, aber ich mag es nicht, wenn man mich täuscht. Du solltest besser gehn.}
-{212}{}{Ich verstehe, warum du deine Identität verbergen wolltest. Ich glaube, daß wir
+{212}{}{Ich verstehe, warum du deine Identität verbergen wolltest. Ich glaube, dass wir
  zusammenarbeiten können, also bleib - aber versuch nie wieder, mich zu täuschen, Goris.}
 {213}{}{. Ich neu hier.}
 {214}{}{. Ja, ich komme von außerhalb der Vault.}
@@ -179,11 +179,11 @@
 {217}{}{Also, die Enklave hat mit einem Virus oder so was ähnlichem experimentiert und hat die
  Deathclaws damit infiziert. Dieses Virus konnte Menschen in Supergeschöpfe verwandeln. Die
  Enklave wollte sehen, welche Auswirkungen es auf die Deathclaws hat. Das Ergebnis war eine
- Brut von Deathclaws, die so klug waren, daß sie erkannten, daß die Sklaverei ihr Los sein
+ Brut von Deathclaws, die so klug waren, dass sie erkannten, dass die Sklaverei ihr Los sein
  würde. Also spielten sie die Dummen, bis sie eine Chance bekamen, in die Freiheit zu gelangen.
  Und hier sind sie nun!}
 {218}{}{Ich bin dagegen, Deathclaws anzugreifen.}
-{219}{}{Ich hab ganz plötzlich das Gefühl, daß mein Rudel Probleme hat. So leid es mir tut, ich muß weg, um nach meinen Brüdern zu sehen.}
+{219}{}{Ich hab ganz plötzlich das Gefühl, dass mein Rudel Probleme hat. So leid es mir tut, ich muss weg, um nach meinen Brüdern zu sehen.}
 {220}{}{OK.}
 {221}{}{Die Überwachungskameras haben alles mitgeschnitten. Sieh dir mal die Aufzeichnungen an.}
 {222}{}{Du siehst eine graue Deathclaw. Es ist Goris.}
@@ -195,7 +195,7 @@
 {1008}{}{Du Todkralle? Warum nicht sagen?}
 {1009}{}{Ich getan.}
 {1010}{}{Du solltest dich jetzt selber heilen.}
-{1011}{}{Du mußt hier warten, bis ich wieder da bin.}
+{1011}{}{Du musst hier warten, bis ich wieder da bin.}
 {1012}{}{Keine Waffen im Anschlag, OK?}
 {1016}{}{Dann lass uns mal Tyler kalt stellen.}
 {1017}{}{Du bist eine Deathclaw? Gibt es einen Grund, warum du das nicht vorher gesagt hast?}
@@ -211,7 +211,7 @@
 {1066}{}{Du zu dicht. Weiter weg.}
 {1073}{}{Bleib dicht bei mir.}
 {1074}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
-{1075}{}{Wir sollten uns ein bißchen verteilen.}
+{1075}{}{Wir sollten uns ein bisschen verteilen.}
 {1078}{}{Das wär's dann vorerst mal.}
 {1079}{}{Ich bleib so nah wie möglich bei dir,}
 {1098}{}{Ich entferne mich etwas, dann hast du mehr Luft,}

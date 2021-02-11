@@ -18,7 +18,7 @@
 {117}{}{Andere Mütter?}
 {118}{}{Verstehe.}
 {119}{}{Da sind noch andere Mütter?}
-{120}{}{Ja. Da sind noch andere Mütter. Sollte mir was zustoßen, wird eine andere ausgewählt, die meinen Platz einnimmt. Das Rudel muß überleben.}
+{120}{}{Ja. Da sind noch andere Mütter. Sollte mir was zustoßen, wird eine andere ausgewählt, die meinen Platz einnimmt. Das Rudel muss überleben.}
 {121}{}{Ah, ich verstehn.}
 {122}{}{Ich verstehe.}
 {123}{}{Gruthar ist der Vater dieses Geleges. Er ist der Anführer des Rudels. Er entscheidet, wer sich paaren darf. Gruthar wird das Rudel stark machen.}
@@ -31,7 +31,7 @@
 {130}{}{Was geschah mit der Person, die das getan hat?}
 {131}{}{Wie ist die Person an der Wache draußen vorbeigekommen?}
 {132}{}{Ich hab noch einige Fragen.}
-{133}{}{Sein Name ist Matt. Er ist ein Gefangener hier. Ich persönlich wollte, daß er stirbt - aber Gruthar hat es nicht erlaubt. Ich sehe keinen Sinn darin, aber Gruthars Wort ist Gesetz und wird befolgt. Sei vorsichtig, wenn du mit diesem Menschen sprichst, man kann ihm nicht trauen.}
+{133}{}{Sein Name ist Matt. Er ist ein Gefangener hier. Ich persönlich wollte, dass er stirbt - aber Gruthar hat es nicht erlaubt. Ich sehe keinen Sinn darin, aber Gruthars Wort ist Gesetz und wird befolgt. Sei vorsichtig, wenn du mit diesem Menschen sprichst, man kann ihm nicht trauen.}
 {134}{}{Wie vorbei an Wache?}
 {135}{}{OK.}
 {136}{}{Wie ist die Person an der Wache draußen vorbeigekommen?}

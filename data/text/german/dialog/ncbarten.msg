@@ -7,11 +7,11 @@
 {211}{}{Das macht dann drei Hühner...}
 {212}{}{Noch einen?}
 {213}{}{Hier ist 'ne Aderpresse, falls du sie brauchst.}
-{214}{}{Nicht das ganze Jet auf einmal einatmen...erst ein bißchen, dann einen tiefen Zug und
- dann laß ihm ein bißchen Zeit.}
-{215}{}{You want two half ounce bags, or a canister?}
+{214}{}{Nicht das ganze Jet auf einmal einatmen...erst ein bisschen, dann einen tiefen Zug und
+ dann lass ihm ein bisschen Zeit.}
+{215}{}{Willst du zwei Tüten zu 1/2 Unze oder einen Kanister?}
 {216}{}{Der Jet-Inhalierer kommt extra...}
-{217}{}{Laß mich raten: Ich soll's anschreiben, oder?}
+{217}{}{Lass mich raten: Ich soll's anschreiben, oder?}
 {218}{}{Einmal Nuke On The Rocks, kommt sofort.}
 {219}{}{Wir lassen die Kunden hier drinnen kein Zeug nehmen, Kumpel.}
 {225}{}{Du haust hier besser ab, bevor du mehr Blei serviert bekommst, als gut für dich ist,
@@ -25,7 +25,7 @@
 {239}{}{Welcher Fusel darf's sein, Süße?}
 {240}{}{Fuh-Szell hört sich gut an.}
 {241}{}{Fusseln?! Keine Fussel wollen!}
-{242}{}{Was gibt's denn vom Faß?}
+{242}{}{Was gibt's denn vom Fass?}
 {243}{}{Was für 'n Zeug hast du da?}
 {244}{}{Wer ist der alte Typ an dem halbverreckten Spielautomaten da vorne?}
 {245}{}{Wer ist der Typ da an der Bar mit dem Messer?}

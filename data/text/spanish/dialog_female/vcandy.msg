@@ -12,7 +12,7 @@
 {111}{}{Um, necesito eliminar una excrecencia. Mi sexto dedo del pie.}
 {112}{}{En realidad, aquí mi amigo podría necesitar algo de atención médica.}
 {113}{}{En realidad, aquí mis amigos podrían necesitar algo de atención médica.}
-{114}{}{¿Qué es este lugar?}
+{114}{}{¿Qué lugar es éste?}
 {115}{}{Eh, de nuevo, ¿qué es este lugar?}
 {116}{}{Encontré ciertos planos de un implante de combate en la base de datos médica de Ciudad Refugio. ¿Puedes llevar a cabo la operación?}
 {117}{}{No en este momento. Se ve peor de lo que es.}
@@ -28,7 +28,7 @@
 {127}{}{?}
 {128}{}{No importa. ¿Y qué tal mi amigo, en su lugar?}
 {129}{}{No importa. ¿Y qué tal mis amigos, en su lugar?}
-{130}{}{¿Qué es este lugar?}
+{130}{}{¿Qué lugar es éste?}
 {131}{}{Encontré ciertos planos de un implante de combate en la base de datos médica de Ciudad Refugio. ¿Puedes llevar a cabo la operación?}
 {132}{}{No tengo suficiente. Volveré cuando tenga más dinero.}
 {133}{}{No, gracias. Quizá en algún otro momento.}
@@ -40,7 +40,7 @@
 {139}{}{Adio-ós.}
 {140}{}{¿Puedes curar a mi amigo?}
 {141}{}{¿Puedes curar a mis amigos?}
-{142}{}{¿Qué es este lugar?}
+{142}{}{¿Qué lugar es éste?}
 {143}{}{Encontré ciertos planos de un implante de combate en la base de datos médica de Ciudad Refugio. ¿Puedes llevar a cabo la operación?}
 {144}{}{Me siento mucho mejor, gracias.}
 {145}{}{Eh, bueno, podría no ser lo más seguro para ti, chica. Parece que ya te has pegado un par de viajes en el viejo Doctor, por cómo hablas. Pero si así lo quieres...}
@@ -63,7 +63,7 @@
 {162}{}{Eso es demasiado. ¿Qué me dices de }
 {163}{}{?}
 {164}{}{No importa. ¿Qué hay de mí en su lugar?}
-{165}{}{¿Qué es este lugar?}
+{165}{}{¿Qué lugar es éste?}
 {166}{}{Encontré ciertos planos de un implante de combate en la base de datos médica de Ciudad Refugio. ¿Puedes llevar a cabo la operación?}
 {167}{}{No tengo suficiente. Volveré cuando tenga más dinero.}
 {168}{}{He cambiado de opinión. Tal vez en otro momento.}
@@ -73,7 +73,7 @@
 {172}{}{No sé. Me parece excesivo. ¿Qué tal }
 {173}{}{ pavos?}
 {174}{}{¿Puedes curarme en su lugar?}
-{175}{}{¿Qué es este lugar?}
+{175}{}{¿Qué lugar es éste?}
 {176}{}{Encontré ciertos planos de un implante de combate en la base de datos médica de Ciudad Refugio. ¿Puedes llevar a cabo la operación?}
 {177}{}{No tengo suficiente. Volveré cuando tenga más dinero.}
 {178}{}{He cambiado de opinión. Tal vez en otro momento.}
@@ -107,7 +107,7 @@
 {206}{}{Um, necesito eliminar una excrecencia. Mi sexto dedo del pie.}
 {207}{}{Aquí mi amigo podría necesitar algo de atención médica.}
 {208}{}{Aquí mis amigos podrían necesitar algo de atención médica.}
-{209}{}{¿Qué es este lugar?}
+{209}{}{¿Qué lugar es éste?}
 {210}{}{De nuevo, ¿qué es este lugar?}
 {211}{}{Encontré ciertos planos de un implante de combate en la base de datos médica de Ciudad Refugio. ¿Puedes llevar a cabo la operación?}
 {212}{}{Nada más hoy, en realidad.}

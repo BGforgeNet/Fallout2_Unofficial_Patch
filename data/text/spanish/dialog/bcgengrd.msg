@@ -22,7 +22,7 @@
 {121}{}{¿Dónde está el maldito baño?}
 {122}{}{Eh, nunca tenemos descanso por aquí. ¿No hay una ley o algo?}
 {123}{}{Deberíamos empezar un gobierno como el de los viejos tiempos.}
-{124}{}{Hombre, me pregunto cómo era ser Presidente en aquel entonces.}
+{124}{}{Hombre, me pregunto qué se siente ser el Presidente en aquel entonces?}
 {125}{}{Me apuesto lo que quieras a que podrías hacer cualquier cosa que quisieras si fueras Presidente.}
 {126}{}{Creo que mi padre estaría orgulloso de mí hoy. Qué pena que le matara.}
 {127}{}{¡ODIO LAS RATAS! ¡LAS ODIO LAS ODIO LAS ODIO!}

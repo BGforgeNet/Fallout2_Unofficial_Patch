@@ -10,12 +10,12 @@
 {162}{}{Du bist fast so hart wie Tommy the Balls.}
 {163}{}{Ich hab gehört was du mit der Enclave gemacht hast. Neuigkeiten verbreiten sich schnell.}
 {164}{}{Willst du das Spiel noch einmal mit einem anderen Charakter durchspielen?}
-{170}{}{Mußt du ein Weilchen untertauchen?}
+{170}{}{Musst du ein Weilchen untertauchen?}
 {171}{}{Warum die Geheimnistuerei? Sucht jemand nach dir?}
 {172}{}{Versuchst du dich unauffällig zu verhalten?}
 {173}{}{Warum schleichst du herum? Jagd dich jemand?}
 {180}{}{Na, ist das nicht }
-{181}{}{You LOST, pal? You better get out of here.}
+{181}{}{Hast du dich verlaufen, Kumpel? Du verschwindest besser von hier.}
 {182}{}{Der Kerl bettelt ja förmlich nach Ärger...}
 {183}{}{Raus hier, und zwar sofort. }
 {184}{}{Wenn du nicht gerade Ärger suchst, solltest du besser hier abhauen.}
@@ -24,12 +24,12 @@
 {187}{}{Diese Schlampe sucht nach Ärger...}
 {195}{}{Waffen sind hier nicht gestattet.}
 {196}{}{Steck die Waffe weg.}
-{200}{}{Mädel, ich muß dich leider bitten, die Waffe wegzustecken.}
+{200}{}{Mädel, ich muss dich leider bitten, die Waffe wegzustecken.}
 {201}{}{Mädel, tut mir leid, aber Waffen sind hier nicht gestattet.}
 {205}{}{Sklavenhändler! Du steckst SOFORT deine Waffe weg.}
 {206}{}{Waffen sind hier nicht gestattet, Sklavenhändler.}
 {207}{}{Weg mit der Waffe, Sklavenhändler.}
-{208}{}{Sklavenhändler, du mußt sofort diese Waffe wegpacken.}
+{208}{}{Sklavenhändler, du musst sofort diese Waffe wegpacken.}
 {210}{}{Du da! Sklavenhändler! Schleich hier nicht rum!}
 {215}{}{DU! Steck SOFORT deine Waffe weg.}
 {216}{}{Hier drin sind keine Waffen gestattet.}
@@ -87,9 +87,7 @@
 {305}{}{Kann ich was für dich tun?}
 {306}{}{Das ist hier kein Pornostudio, Liebster.}
 {307}{}{Mach deine Geschäfte woanders, Schätzchen.}
-{310}{}{Tut mir wirklich leid... wirklich... aber ich hab jetzt keine Zeit zu reden.
- Schau nach der Arbeit vorbei, falls du Zeit hast.
-}
+{310}{}{Tut mir wirklich leid... wirklich... aber ich hab jetzt keine Zeit zu reden. Schau nach der Arbeit vorbei, falls du Zeit hast.}
 {311}{}{Es bricht mir das Herz, aber ich kann jetzt wirklich nicht reden.}
 {312}{}{Geh jetzt, du lenkst mich ab, Schatz.}
 {313}{}{Ich kann dir nicht helfen.}

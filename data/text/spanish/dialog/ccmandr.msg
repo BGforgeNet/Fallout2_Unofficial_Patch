@@ -4,10 +4,10 @@
 {103}{}{¿Quién demonios sois...? ¡Alerta! ¡Intrusos en la base!}
 {104}{}{No tengo tiempo para charlas con soldados. Puedes retirarte.}
 {105}{}{Hora de morir.}
-{106}{}{De acuerdo.}
+{106}{}{Vale.}
 {107}{}{Ya te dije que no tengo tiempo. Abandona esta oficina y no vuelvas a menos que te haga llamar. ¡Retírate!}
 {108}{}{Desobedecer la orden directa de un superior se considera traición. No tengo tiempo para consejos de guerra, así que me ocuparé personalmente de esto. ¡Guardias! ¡Matad a este idiota!}
-{109}{}{De acuerdo.}
+{109}{}{Vale.}
 {110}{}{¡Que te jodan!}
 {111}{}{El FOB está en el casillero de ahí. Dile al oficial al cargo que contacte conmigo una vez esté asegurado. ¡Retírate!}
 {112}{}{¡Sí, señor!}

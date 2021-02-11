@@ -8,9 +8,9 @@
 {106}{}{Ich neu. Mir gesagt du erwarten.}
 {107}{}{Oh. Leid, ich gehen.}
 {108}{}{Ich habe einen Ausweis. Ich hatte ihn doch hier...}
-{109}{}{Ich bin ein neuer Rekrut. Man hat mir gesagt, daß du mich erwartest.}
+{109}{}{Ich bin ein neuer Rekrut. Man hat mir gesagt, dass du mich erwartest.}
 {110}{}{Oh, tut mir leid. Ich verschwinde dann wieder.}
-{111}{gate2}{Du bist 'n bißchen langsam, was? Los jetzt, setz dich in Bewegung und komm ja nicht
+{111}{gate2}{Du bist 'n bisschen langsam, was? Los jetzt, setz dich in Bewegung und komm ja nicht
  wieder. Verstanden?}
 {112}{}{Ich wollen rein.}
 {113}{}{OK. Ich gehn.}
@@ -29,7 +29,7 @@
 {123}{}{Ja.}
 {124}{gate6a}{Ah, verstehe. Die Parole bitte?}
 {125}{gate6b}{Ah, verstehe. (Legt Hand an Waffe). Alle neuen Rekruten melden sich einzeln zum Dienst.
- Ich schlage vor, du verläßt diese Einrichtung und kommst wieder, wenn du deine
+ Ich schlage vor, du verlässt diese Einrichtung und kommst wieder, wenn du deine
  Gefolgschaft los bist. Ist das klar?}
 {126}{}{Schafskopf.}
 {127}{}{Ja.}
@@ -48,9 +48,9 @@
  Parole. Na los, ich warte!}
 {136}{}{Äh...ich nix wissen. Ich kommen wieder.}
 {137}{}{Teufel. Ich reingehen über Leiche.}
-{138}{}{Hör zu, ich hab den Paß verloren...}
+{138}{}{Hör zu, ich hab den Pass verloren...}
 {139}{}{Ach, zum Teufel. Beiß ins Gras, du Hirni!}
-{140}{gate10}{Das ist die letzte Warnung. Ich schlage vor, du verläßt diese Einrichtung auf der Stelle
+{140}{gate10}{Das ist die letzte Warnung. Ich schlage vor, du verlässt diese Einrichtung auf der Stelle
  und kommst nicht wieder. Habe ich mich klar ausgedrückt?}
 {141}{}{OK, ich wieder gehen...}
 {142}{}{Ich klar: LMAA!}

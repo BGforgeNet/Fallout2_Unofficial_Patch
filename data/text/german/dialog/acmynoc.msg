@@ -15,24 +15,24 @@
 {162}{}{Na gut, aber verschwende nicht zu viel Zeit. Ohne das GECK sind wir verloren.}
 {163}{}{Ich weiß, mach dir keine Sorgen. Ich hab alles unter Kontrolle.}
 {164}{}{Warum?}
-{165}{}{Ich muß los. Wiedersehen.}
+{165}{}{Ich muss los. Wiedersehen.}
 {166}{}{Die Händler? Sie kommen so alle zwei Monate aus Klamath. Es dauert noch gut einen Monat, bis wieder jemand kommt, aber Klamath liegt nur ein paar Tage östlich von hier.}
 {167}{}{Vielen Dank. Auf Wiedersehen.}
 {168}{}{Was kannst du mir zu diesem Ding sagen, das ich aus der heiligen Vault habe?}
 {169}{}{Sieht wie eine Wasserflasche aus Metall aus. Vielleicht hat es uns die Vault als Omen geschickt.}
 {170}{}{Weißt du, wer das in unser Dorf gebracht hat?}
-{171}{}{Danke. Ich muß jetzt gehn, Tschüß.}
+{171}{}{Danke. Ich muss jetzt gehn, Tschüss.}
 {172}{}{Ich hoffe, das tust du.}
-{173}{}{Dein übersteigertes Selbstvertrauen macht uns alle krank! Tschüß.}
+{173}{}{Dein übersteigertes Selbstvertrauen macht uns alle krank! Tschüss.}
 {174}{}{Wiedersehn.}
-{175}{}{Warum? Sieh dich doch um, unser Dorf stirbt. Unsere Gärten verdorren und jeden Tag brechen Kinder und alte Menschen zusammen. Du mußt uns Eden bringen, bevor es zu spät ist.}
+{175}{}{Warum? Sieh dich doch um, unser Dorf stirbt. Unsere Gärten verdorren und jeden Tag brechen Kinder und alte Menschen zusammen. Du musst uns Eden bringen, bevor es zu spät ist.}
 {176}{}{Ich werd mich drum kümmern. Wiedersehn.}
-{177}{}{Ich bin das Auserwählte Wesen - ich "muß" nur wenn ich will. Tschüß.}
-{178}{}{Ich kann mich nicht an seinen Namen erinnern. Ich weiß nur, daß er alt und laut war - zu laut für gute Manieren. Aber er wußte viel. Er kam aus Klamath, im Osten, wie ich bereits sagte.}
+{177}{}{Ich bin das Auserwählte Wesen - ich "muss" nur wenn ich will. Tschüss.}
+{178}{}{Ich kann mich nicht an seinen Namen erinnern. Ich weiß nur, dass er alt und laut war - zu laut für gute Manieren. Aber er wusste viel. Er kam aus Klamath, im Osten, wie ich bereits sagte.}
 {179}{}{Danke, Wiedersehn.}
-{180}{}{Bist du immer noch hier? Du mußt gehen und das GECK finden. Dumm herumstehen hilft uns nicht weiter.}
-{181}{}{Das einzige worüber du dir Gedanken machen mußt Freund, ist die Brücke. Ich kann auf mich selbst aufpassen.}
-{182}{}{Ich wollte gerade gehn. Tschüß, mein Freund.}
+{180}{}{Bist du immer noch hier? Du musst gehen und das GECK finden. Dumm herumstehen hilft uns nicht weiter.}
+{181}{}{Das einzige worüber du dir Gedanken machen musst Freund, ist die Brücke. Ich kann auf mich selbst aufpassen.}
+{182}{}{Ich wollte gerade gehn. Tschüss, mein Freund.}
 {183}{}{Mit dir sprech ich nicht mehr, aufsässiges Schwein!}
 {184}{}{Ich hätt noch eine Frage.}
 {185}{}{Das ging aber schnell. Hast du die heilige Vault 13 gefunden?}
@@ -56,7 +56,7 @@
 {203}{}{Halt's Maul.}
 {204}{}{Darf ich dich was fragen?}
 {205}{}{Nein, ich hab keine Zeit für dich.}
-{206}{}{Was auch immer. Tschüß.}
+{206}{}{Was auch immer. Tschüss.}
 {207}{}{Na gut. Man sieht sich.}
 {208}{}{Geh und stirb.}
 {209}{}{Sei gegrüßt, dümmliches Wesen. Du sehen Brücke? Du überqueren, aber seien vorsichtig. Brücke gefährlich. Du nicht fallen. OK?}
@@ -68,7 +68,7 @@
 {215}{}{Die Älteste hatte Unrecht. Du bist schlecht.}
 {300}{}{Mein Vater hat mir beigebracht, wie man besonders stabile Klingen macht. Hol mir ein Stück Feuerstein, dann optimier ich auch deinen Speer. In der Wildnis wirst du ihn brauchen.}
 {301}{}{Wo finde ich Feuerstein?}
-{302}{}{Man sagt, deine Tante Morlis hat einen Vorrat. Sie ist so schlecht gelaunt, daß sie bestimmt noch niemand gefragt hat. Aber die Hexe will bestimmt etwas dafür haben.}
+{302}{}{Man sagt, deine Tante Morlis hat einen Vorrat. Sie ist so schlecht gelaunt, dass sie bestimmt noch niemand gefragt hat. Aber die Hexe will bestimmt etwas dafür haben.}
 {303}{}{Vielen Dank. Auf Wiedersehn.}
 {304}{}{Hast du Feuerstein von deiner Tante bekommen?}
 {305}{}{Ja, hier hab ich was.}
@@ -77,14 +77,14 @@
 {308}{}{Bitte.}
 {309}{}{Ich glaub, ich hab keinen.}
 {310}{}{Jetzt machst du das mit den Stücken so...}
-{311}{}{Das Auserwählte Wesen ohne Speer? Dann mußt du einen von meinen nehmen. Und jetzt laß uns an die Arbeit gehen...}
+{311}{}{Das Auserwählte Wesen ohne Speer? Dann musst du einen von meinen nehmen. Und jetzt lass uns an die Arbeit gehen...}
 {312}{}{Hier ist dein neuer Speer.}
 {313}{}{Danke mein Freund - das ist mir eine große Hilfe.}
 {314}{}{Ja, aber ich hab mich über deinen Speer gewundert. Er sieht etwas anders aus.}
 {400}{}{Willkommen zu Hause, Auserwähltes Wesen! Hast du die Vault gefunden? Hast du das GECK mitgebracht?}
 {401}{}{Noch nix finden.}
 {402}{}{Nein, ich hab es noch nicht gefunden.}
-{403}{}{Ich bin jetzt nicht in der Stimmung für Fragen. Tschüß.}
+{403}{}{Ich bin jetzt nicht in der Stimmung für Fragen. Tschüss.}
 {404}{}{Es läuft nicht besonders gut, Auserwähltes Wesen. Die Dürre wird immer schlimmer und unsere Ernte wird mit Sicherheit ausfallen. Wir versuchen zu retten, was zu retten ist, um unsere Nahrungsvorräte anzulegen.}
 {405}{}{Warum nicht Handel mit anderen Dörfern?}
 {406}{}{Ich mein bestes tun. Ich werden GECK finden. Kommen zurück.}
@@ -93,13 +93,13 @@
 {409}{}{Wir sind ein kleines Volk und können nicht viel zum Handeln anbieten. Die wenigen Städte, mit denen wir während deiner Abwesenheit Kontakt aufgenommen haben, haben kein Interesse daran, uns zu helfen.}
 {410}{}{Ich verstehn.}
 {411}{}{Verstehe.}
-{412}{}{Du bist unsere letzte Hoffnung, Auserwähltes Wesen. Laß uns nicht im Stich.}
+{412}{}{Du bist unsere letzte Hoffnung, Auserwähltes Wesen. Lass uns nicht im Stich.}
 {413}{}{Gut dich zu sehen, Auserwähltes Wesen. Was macht deine Suche?}
 {414}{}{Ich noch suchen.}
 {415}{}{Ich suche noch.}
 {416}{}{Ich will nicht darüber reden.}
-{417}{}{Du mußt dich beeilen. Die Lage hier in der Heimat wird immer schlimmer. Bald wird kaum noch was zu essen da sein. Die Älteste spricht bereits davon das Vorhandene zu rationieren. Ich fürchte um die Zukunft von Arroyo.}
-{418}{}{Auserwähltes Wesen! Bitte sag, daß du deinen Auftrag ausgeführt hast. Unser Dorf und unser Volk sterben.}
+{417}{}{Du musst dich beeilen. Die Lage hier in der Heimat wird immer schlimmer. Bald wird kaum noch was zu essen da sein. Die Älteste spricht bereits davon das Vorhandene zu rationieren. Ich fürchte um die Zukunft von Arroyo.}
+{418}{}{Auserwähltes Wesen! Bitte sag, dass du deinen Auftrag ausgeführt hast. Unser Dorf und unser Volk sterben.}
 {419}{}{Nein, ich noch suchen.}
 {420}{}{Nein, ich suche noch immer.}
 {421}{}{Wie läuft es?}

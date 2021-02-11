@@ -837,8 +837,7 @@ procedure Node965 begin
    gfade_out(5);
       game_time_advance(ONE_GAME_MINUTE * 10);
       up_sex_status;
-      give_pid_qty(self_obj, PID_BOOZE, 1)
-      use_obj_on_obj(restock_obj, dude_obj);
+      call create_and_use_itempid_on(dude_obj, PID_BOOZE);
       dude_floater_sick(1870);
    gfade_in(5);
 end

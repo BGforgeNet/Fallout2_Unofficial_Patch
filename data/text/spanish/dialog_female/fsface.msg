@@ -23,7 +23,7 @@
 {122}{}{Quiero ser más carismática.}
 {123}{}{En realidad no necesito nada en este momento.}
 {124}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese. El procedimiento de curación requerirá cinco minutos de tiempo.}
-{125}{}{De acuerdo.}
+{125}{}{Vale.}
 {126}{}{No importa.}
 {127}{}{De acuerdo.}
 {128}{}{Olvídalo.}
@@ -53,7 +53,7 @@
 {152}{}{Sí, estoy de acuerdo.}
 {153}{}{Olvídalo. Ahora mismo no tengo tiempo.}
 {154}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese.}
-{155}{}{De acuerdo.}
+{155}{}{Vale.}
 {156}{}{Esta función no está disponible en este momento. Mi librería está incompleta. Necesito un módulo de memoria que detalle los procedimientos médicos apropiados. ¿Tiene ese tipo de modulo?}
 {157}{}{Tengo módulo. Tú tomas.}
 {158}{}{No. Yo encuentro y yo traigo.}
@@ -65,7 +65,7 @@
 {164}{}{Sí, estoy de acuerdo.}
 {165}{}{Olvídalo. Ahora mismo no tengo tiempo.}
 {166}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese.}
-{167}{}{De acuerdo.}
+{167}{}{Vale.}
 {168}{}{Esta función no está disponible en este momento. Mi librería está incompleta. Necesito un módulo de memoria que detalle los procedimientos médicos apropiados. ¿Tiene ese tipo de modulo?}
 {169}{}{Tengo módulo. Tú tomas.}
 {170}{}{No. Yo encuentro y yo traigo.}
@@ -77,7 +77,7 @@
 {176}{}{Sí, estoy de acuerdo.}
 {177}{}{Olvídalo. Ahora mismo no tengo tiempo.}
 {178}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese.}
-{179}{}{De acuerdo.}
+{179}{}{Vale.}
 {180}{}{Esta función no está disponible en este momento. Mi librería está incompleta. Necesito un módulo de memoria que detalle los procedimientos médicos apropiados. ¿Tiene ese tipo de modulo?}
 {181}{}{Tengo disco. Tú tomas.}
 {182}{}{No. Yo encuentro y yo traigo.}
@@ -89,7 +89,7 @@
 {188}{}{Sí, estoy de acuerdo.}
 {189}{}{Olvídalo. Ahora mismo no tengo tiempo.}
 {190}{}{Un momento, por favor, mientras abro el tanque de suspensión... Por favor, túmbese en el tanque y relájese.}
-{191}{}{De acuerdo.}
+{191}{}{Vale.}
 {192}{}{El procedimiento solicitado ha sido completado. Por favor, salga del tanque de suspensión.}
 {193}{}{Gracias.}
 {194}{}{Por favor, exponga su pregunta.}

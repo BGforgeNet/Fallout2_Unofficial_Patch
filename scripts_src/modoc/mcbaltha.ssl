@@ -225,12 +225,12 @@ procedure Node996 begin
    end
 end
 procedure Node995 begin
-   if global_var(TOWN_REP_VAR) < 0 then begin
-      call Node017;
-   end else if (global_var(TOWN_REP_VAR) == 0) then begin
-      call Node018;
-   end else begin
+   if (town_rep_is_accepted or effective_title(KARMA_SHIELD_OF_HOPE)) then begin
       call Node011;
+   end else if town_rep_is_antipaty or effective_title(KARMA_SWORD_OF_DESPAIR) then begin
+      call Node017;
+   end else begin
+      call Node018;
    end
 end
 procedure Node994 begin

@@ -74,7 +74,7 @@
 {173}{}{¿Cómo de agradecido?}
 {174}{}{Por supuesto.}
 {175}{}{Déjame pensar en ello.}
-{176}{}{Antes se congelará el infierno.}
+{176}{}{No hay elección.}
 {177}{}{Aquí está todo el dinero que tengo... 150 dólares. Gracias.}
 {178}{}{No, gracias. Hasta luego.}
 {179}{}{Entonces estoy doblemente agradecido. Oh... he oído que estás buscando un GECK. Inténtalo en RNC. Está al sur.}

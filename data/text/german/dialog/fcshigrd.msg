@@ -6,12 +6,12 @@
 {105}{}{Wir behalten dich im Auge.}
 {106}{}{Versuch ja keine Tricks.}
 {107}{}{Behandle unser Volk mit Respekt.}
-{108}{}{Faß das nicht an! Das ist die letzte Warnung.}
+{108}{}{Fass das nicht an! Das ist die letzte Warnung.}
 {109}{}{Bleib da weg!}
 {110}{}{Zurück, Außenweltler.}
 {111}{}{Weg da! Schritt für Schritt, ganz langsam!}
 {112}{}{Daran solltest du nicht mal denken.}
-{113}{}{Schluß damit. Sofort!}
+{113}{}{Schluss damit. Sofort!}
 {114}{}{Stirb, Feind unseres Volkes!}
 {115}{}{Fahr zur Hölle des Glühenden Eisens!}
 {116}{}{Buddha sei deiner Seele gnädig!}

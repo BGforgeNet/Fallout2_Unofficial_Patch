@@ -11,6 +11,6 @@
 {128}{}{Tu mir nicht weh.}
 {129}{}{Ich wollte mich nicht so idiotisch aufführen.}
 {130}{}{Ich habe diese Todesdrohungen nicht ernst gemeint.}
-{131}{}{I'm sorry, Buffy!}
-{132}{}{I'm sorry, Unwashed! I just wanted to be noticed.}
+{131}{}{Tut mir leid, Buffy!}
+{132}{}{Tut mir leid, ungewaschenes Wesen! Ich wollte nur wahrgenommen werden.}
 {133}{}{Ich möchte eine Online-Version!}

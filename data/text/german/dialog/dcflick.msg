@@ -16,8 +16,8 @@
 {240}{}{Reicht dir das, Kumpel?}
 {241}{}{Eigentlich würd ich gern noch mal einen Blick auf deine Ware werfen.}
 {242}{}{Eigentlich würd ich dich gern etwas fragen.}
-{243}{}{That did it. See you around, Flick.}
-{260}{}{Ich hab für Leute zu sorgen, was hast du denn gedacht? Daß ich ein guter Samurai bin?}
+{243}{}{Das reicht. Also Flick, bis dann.}
+{260}{}{Ich hab für Leute zu sorgen, was hast du denn gedacht? Dass ich ein guter Samurai bin?}
 {261}{}{Sag, was ist?}
 {262}{}{Ja, äh, nun... ich möcht dich noch was anderes fragen.}
 {263}{}{Äh, oh. OK. Wiedersehn, Flick.}
@@ -31,7 +31,8 @@
 {301}{}{Äh, nein.}
 {302}{}{Oh, OK. Dann möcht ich dich was anderes fragen.}
 {303}{}{Ah, ich verstehe. Nun, ich will dich nicht, äh, einschränken. Wiedersehn.}
-{315}{}{They bring me stuff what they find. Little, little things. Stuff no one ain't usin' no more. In return, I takes care of 'em.}
+{315}{}{Sie bringen mir Zeug, das sie finden. Klitzekleine Sachen. Zeug, das keiner mehr braucht.
+Dafür kümmere ich mich um sie.}
 {316}{}{Hört sich ja nach einer guten Abmachung an.}
 {325}{}{[Flick zuckt mit den Schultern.] Ich komm ganz gut zurecht.}
 {326}{}{Ich will dich dann noch was anderes fragen.}
@@ -49,7 +50,7 @@
 {363}{}{Wer ist Momma?}
 {364}{}{Danke. Ich hätte da noch 'ne Frage.}
 {365}{}{Danke, das ist alles, was ich wissen wollte. Auf Wiedersehen.}
-{380}{}{Momma betreibt einen Imbiß im Osten der Stadt. Gleich hinter dem Friedhof. Netter Laden,
+{380}{}{Momma betreibt einen Imbiss im Osten der Stadt. Gleich hinter dem Friedhof. Netter Laden,
  sie hat gute Pasta, Mama mia}
 {381}{}{Danke. Was ist mit dem Typen Metzger, der Vic hat?}
 {382}{}{Danke. Ich hätte da noch 'ne Frage.}

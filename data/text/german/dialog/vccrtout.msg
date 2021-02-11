@@ -10,7 +10,7 @@
 {109}{}{Wenigstens häng ich nicht im Ödland herum.}
 {110}{}{Los weiter.}
 {111}{}{Das Geld ist knapp...}
-{112}{}{Mach, daß du hier wegkommst, klar?}
+{112}{}{Mach, dass du hier wegkommst, klar?}
 {113}{}{Verzisch dich.}
 {114}{}{Du bist genauso ein Sch...kerl wie die.}
 {115}{}{Geh zurück.}

@@ -43,7 +43,7 @@
 {281}{}{Me encantaste en Grandes Pelotas de Fuego.}
 {282}{}{Me encantaste en El Indomable Will Follador.}
 {283}{}{Soy un gran fan de tu trabajo en Calientahontas.}
-{284}{}{Loved "Vault Sex-Teen." It was inspiring. A cinematic tour-de-force.}
+{284}{}{Amaba "Bóveda De Sexo Adolescente". Fue inspirador. Cinematográfica del tour-de-force.}
 {285}{}{::Silbidos::}
 {295}{}{¿Estás buscando llenar una tumba en el Gólgota, esclavista? Guarda eso.}
 {296}{}{Guarda ese arma, esclavista, o te usaré para mis prácticas de tiro.}
@@ -120,7 +120,7 @@
 {391}{}{¿Dónde entrenas?}
 {392}{}{Cuidado con el Masticador. Le gustan las orejas.}
 {393}{}{Te invitaría a una copa si no hubiera perdido todo mi dinero apostando a tu oponente.}
-{394}{}{Wanna wrestle?}
+{394}{}{¿Quieres luchar?}
 {395}{}{No pareces tan dura, señorita Gancho Izquierdo.}
 {396}{}{¿Puedo ver cómo flexionas tus abdominales?}
 {400}{}{He oído que la señora Bishop te estaba buscando. Ten cuidado, compañero.}

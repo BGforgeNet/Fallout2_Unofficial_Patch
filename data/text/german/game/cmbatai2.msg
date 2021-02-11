@@ -12,7 +12,7 @@
 {1032}{}{Autsch!}
 {1033}{}{Uff!}
 {1034}{}{Das tat weh!}
-{1035}{}{Laß mich in Ruhe!}
+{1035}{}{Lass mich in Ruhe!}
 {1036}{}{Ohhh, diese Schmerzen!}
 {1060}{}{Au, mein Bein.}
 {1061}{}{Mein Knie!}
@@ -106,7 +106,7 @@
 {1320}{}{}
 {1321}{}{Ist nur ein Kratzer...}
 {1322}{}{Du hast mir den Arm gebrochen, dafür brech ich dir das Genick.}
-{1330}{}{Ein bißchen Blut hat noch keinem geschadet.}
+{1330}{}{Ein bisschen Blut hat noch keinem geschadet.}
 {1331}{}{Uff! Dafür blas ich dir das Licht aus...}
 {1332}{}{Aua!}
 {1333}{}{Ich liebe Schmerzen!}
@@ -208,20 +208,20 @@
 {1546}{}{Ich fühl mich plötzlich warm und matt.}
 {1547}{}{Arrrggggg!}
 {1548}{}{Gack! Hust, hust.}
-{1549}{}{Muß weiter, Feinde erschlagen....}
+{1549}{}{Muss weiter, Feinde erschlagen....}
 {1550}{}{Die Finsternis, sie ruft mich.}
 {1551}{}{Meine Todesstunde rückt näher.}
 {1552}{}{Der Schamane hatte recht, ich kehre nicht zurück.}
 {1553}{}{Der Außenweltler hat mich erwischt.}
 {1554}{}{Ich werde getötet.}
 {1555}{}{Meine Innereien haben sich vom Skelett gelöst!}
-{1556}{}{Laß nicht zu, daß ich mir im Tode Schande bringe.}
+{1556}{}{Lass nicht zu, dass ich mir im Tode Schande bringe.}
 {1557}{}{Diese verfluchten Eingeweide.}
 {1558}{}{He, schaut mal, ich kann mein Mittagessen sehen.}
 {1559}{}{Wo ist die ganze Luft hin?}
 {1560}{}{Ich werde dich kriechend umbringen.}
-{1561}{}{Muß stehenbleiben, muß....}
-{1562}{}{Laß mich nicht erst Laufen, um dich zu holen!}
+{1561}{}{Muss stehenbleiben, muss....}
+{1562}{}{Lass mich nicht erst Laufen, um dich zu holen!}
 {1563}{}{Du würdest mich gern zum Krüppel machen, Feigling!}
 {1564}{}{Auuuugg!}
 {1565}{}{Knochen? So weiß....}
@@ -230,8 +230,8 @@
 {1568}{}{Gnnhhh.}
 {1569}{}{Mein Bein fühlt sich an wie Feuer.}
 {1570}{}{Ich werde dich kriechend umbringen.}
-{1571}{}{Muß stehenbleiben, muß....}
-{1572}{}{Laß mich nicht erst Laufen, um dich zu holen!}
+{1571}{}{Muss stehenbleiben, muss....}
+{1572}{}{Lass mich nicht erst Laufen, um dich zu holen!}
 {1573}{}{Du würdest mich gern zum Krüppel machen, Feigling!}
 {1574}{}{Auuuugg!}
 {1575}{}{Knochen? So weiß....}
@@ -255,7 +255,7 @@
 {1593}{}{Herr im Himmel, die Welt explodiert.}
 {1594}{}{Keuch...krieg keine Luft....}
 {1595}{}{Mit hoher, quietschiger Stimme - Autsch!}
-{1596}{}{Gnnhhh. Ich muß mich ein bißchen hinsetzen.}
+{1596}{}{Gnnhhh. Ich muss mich ein bisschen hinsetzen.}
 {1597}{}{Du Schwein - dafür stirbst du langsam und qualvoll.}
 {1598}{}{Das Wort Ehre kennst du nicht.}
 {1599}{}{Dafür schlachte ich dich ab wie ein Tier.}
@@ -290,7 +290,7 @@
 {1628}{}{Dann tret ich dich eben zu Tode.}
 {1629}{}{Silberner Paillettenhandschuh ade!}
 {1630}{}{Das ist *meine* Leber, gib sie wieder her!}
-{1631}{}{Ein bißchen weiter rechts, ahhh, das ist besser.}
+{1631}{}{Ein bisschen weiter rechts, ahhh, das ist besser.}
 {1632}{}{Gerrk!}
 {1633}{}{Was riecht denn hier so ranzig? Oh, das sind ja meine Eingeweide.}
 {1634}{}{Jetzt, wo du mich ausgenommen hast, bin ich gleich viel schlanker! Danke!}
@@ -308,7 +308,7 @@
 {1662}{}{Argh! Du brichst mir das Bein und ich brech dir das Genick!}
 {1663}{}{Verdammt, nie wieder Tango tanzen.}
 {1664}{}{Verdammt, das waren meine Zehen.}
-{1665}{}{Schätze, ich muß das Bein hochlegen.}
+{1665}{}{Schätze, ich muss das Bein hochlegen.}
 {1666}{}{Hey! Das geht zu weit!}
 {1667}{}{Du hast mir die Flügelspitzen gestutzt.}
 {1668}{}{Dabei habe ich sie gerade erst rasiert.}
@@ -339,7 +339,7 @@
 {1693}{}{Vielleicht bewege ich mich einfach eine Weile lang nicht...}
 {1694}{}{Das ist mein Schniedelwutz!}
 {1695}{}{Damit ist in meinem Privatleben wohl nicht mehr viel los.}
-{1696}{}{Ich denk, ich muß mich ein bißchen hinsetzen.}
+{1696}{}{Ich denk, ich muss mich ein bisschen hinsetzen.}
 {1697}{}{Himmel, wenn's weibliche Ghuls gäbe, wäre ich jetzt echt sauer auf dich.}
 {1698}{}{Oohh, das tat weh.}
 {1699}{}{Hat das...? Oh, ja, das tut weh.}
@@ -352,10 +352,10 @@
 {1706}{}{Nicht das Gesicht! Nicht das Gesicht!}
 {1710}{}{Ich kann dich auch mit einem Arm schlagen!}
 {1711}{}{Sanitäter! Mein Arm ist hinüber!}
-{1712}{}{Ack! Was ein Glück, daß ich Beidhän... egal.}
+{1712}{}{Ack! Was ein Glück, dass ich Beidhän... egal.}
 {1720}{}{Du hast mir den Arm gebrochen! Immerhin ist der Kampf jetzt fair.}
 {1721}{}{Sanitäter! Mein Arm ist hinüber!}
-{1722}{}{Du mußt mir mehr als den Arm abschlagen, um deine Haut zu retten!}
+{1722}{}{Du musst mir mehr als den Arm abschlagen, um deine Haut zu retten!}
 {1730}{}{Ahhg! Direkt in die Eingeweide!}
 {1731}{}{Hnrgggg! Kann nicht... atmen...}
 {1732}{}{Meine Rippen tun weh. Und bald entfern ich dir deine! Ist doch nur fair!}
@@ -377,23 +377,23 @@
 {1790}{}{Was denkste wohl was das ist? 'Ne billige Action-Komödie?}
 {1791}{}{Meine Hoden!!! Komm her und ich mach das Gleiche mit dir!}
 {1792}{}{Hab meine Hoden verloren.}
-{1793}{}{Entschuldige mich bitte einen Moment, muß mich nur kurz übergeben.}
+{1793}{}{Entschuldige mich bitte einen Moment, muss mich nur kurz übergeben.}
 {1794}{}{Na, Super. Mein Gegner hat 'n Hodenkomplex.}
-{1795}{}{Muß mich nur 'ne Sekunde hinlegen, dann komm ich dich töten.}
+{1795}{}{Muss mich nur 'ne Sekunde hinlegen, dann komm ich dich töten.}
 {1796}{}{Eidiedeldei! Mit Kindern ist's vorbei.}
 {1800}{}{Whoa. Irgendwas hat mich gerade im Gesicht getroffen.}
 {1801}{}{Was hat mich da gerade am Kopf getroffen?}
 {1802}{}{Ngggg}
 {1803}{}{Zum Glück hab ich mich ordentlich mit Jet vollgepumpt, sonst hätt das weh getan.}
-{1804}{}{Auuuuuuuu! So hol mir doch einer ein Stimpak! Oder ein bißchen Jet!}
+{1804}{}{Auuuuuuuu! So hol mir doch einer ein Stimpak! Oder ein bisschen Jet!}
 {1810}{}{He! Jemand hat gerade meinen Arm getroffen!}
-{1811}{}{Hör mal, an meinen Arm laß ich nur Nadeln ran. Hör auf, ihn anzugreifen.}
+{1811}{}{Hör mal, an meinen Arm lass ich nur Nadeln ran. Hör auf, ihn anzugreifen.}
 {1812}{}{Nggggg}
-{1813}{}{Auuuuuuuu! So hol mir doch einer ein Stimpak! Oder ein bißchen Jet!}
+{1813}{}{Auuuuuuuu! So hol mir doch einer ein Stimpak! Oder ein bisschen Jet!}
 {1820}{}{He! Jemand hat gerade meinen Arm getroffen!}
-{1821}{}{Hör mal, an meinen Arm laß ich nur Nadeln ran. Hör auf, ihn anzugreifen.}
+{1821}{}{Hör mal, an meinen Arm lass ich nur Nadeln ran. Hör auf, ihn anzugreifen.}
 {1822}{}{Nggggg}
-{1823}{}{Auuuuuuuu! So hol mir doch einer ein Stimpak! Oder ein bißchen Jet!}
+{1823}{}{Auuuuuuuu! So hol mir doch einer ein Stimpak! Oder ein bisschen Jet!}
 {1830}{}{Meine Milz!}
 {1831}{}{Au! Auuuuu, meine blöde Brust! Au!}
 {1832}{}{He! Warum hast du auf meine Brust gezielt, du Mistkerl?!}
@@ -401,13 +401,13 @@
 {1834}{}{Whoa. Meine Brust. Du hast sie getroffen. Cool.}
 {1835}{}{Nrgggg}
 {1836}{}{*hfff*}
-{1837}{}{Auuuuuuuu! So hol mir doch einer ein Stimpak! Oder ein bißchen Jet!}
+{1837}{}{Auuuuuuuu! So hol mir doch einer ein Stimpak! Oder ein bisschen Jet!}
 {1860}{}{He! Jemand hat mich gerade am Bein getroffen!}
 {1861}{}{He! Das Bein brauch ich zum Laufen!}
-{1862}{}{Auuuuuuuu! So hol mir doch einer ein Stimpak! Oder ein bißchen Jet!}
+{1862}{}{Auuuuuuuu! So hol mir doch einer ein Stimpak! Oder ein bisschen Jet!}
 {1870}{}{He! Jemand hat mich gerade am Bein getroffen!}
 {1871}{}{He! Das Bein brauch ich zum Laufen!}
-{1872}{}{Auuuuuuuu! So hol mir doch einer ein Stimpak! Oder ein bißchen Jet!}
+{1872}{}{Auuuuuuuu! So hol mir doch einer ein Stimpak! Oder ein bisschen Jet!}
 {1880}{}{Das fühlte sich aber auch gar nicht wie 'ne Nadel in meinem Auge an...}
 {1881}{}{He! Ich brauch das Auge zum Sehen!}
 {1882}{}{Meine Augen! Meine Augen! Meine Augen tun weh!}
@@ -417,7 +417,7 @@
 {1893}{}{Nghhhhh!}
 {1894}{}{Nicht in die Weichteile! Nicht in die Weichteile!}
 {1895}{}{Meine Genitalien! Meine armen Genitalien!}
-{1896}{}{Entschuldige mich, ich muß mich nur kurz übergeben.}
+{1896}{}{Entschuldige mich, ich muss mich nur kurz übergeben.}
 {1897}{}{Das...tat...ZIEMLICH...weh.}
 {1898}{}{Ich hoffe, meine Weichteile kommen in den Genitalienhimmel.}
 {2000}{}{Gnade!}
@@ -429,8 +429,8 @@
 {2020}{}{Hmm, äh, halt!}
 {2021}{}{Ich mag Leute wie dich nicht...}
 {2022}{}{Ich hatte wirklich gehofft, es würde nicht so weit kommen...}
-{2023}{}{Ich schätze, ich muß mich verteidigen.}
-{2024}{}{Ich schätze, ich muß mich verteidigen.}
+{2023}{}{Ich schätze, ich muss mich verteidigen.}
+{2024}{}{Ich schätze, ich muss mich verteidigen.}
 {2025}{}{Ich hatte wirklich gehofft, es würde nicht so weit kommen...}
 {2040}{}{Nimm das!}
 {2041}{}{Du hättest nicht anfangen sollen!}
@@ -507,9 +507,9 @@
 {2300}{}{Ich mach die Fliege.}
 {2301}{}{Ich komm wieder!}
 {2302}{}{Bis später, Früchtchen!}
-{2303}{}{War schön dich zu sehn, doch jetzt muß ich gehn!}
+{2303}{}{War schön dich zu sehn, doch jetzt muss ich gehn!}
 {2304}{}{Das wirst du mir bezahlen - später!}
-{2305}{}{Laß uns das bald mal wieder tun!}
+{2305}{}{Lass uns das bald mal wieder tun!}
 {2320}{}{Ich reiß dir die Ohren ab!}
 {2321}{}{Frischfleisch!}
 {2322}{}{Du hast meinen Tag gerettet!}
@@ -524,7 +524,7 @@
 {2345}{}{Nimm das!}
 {2346}{}{Stirb! Stirb! Stirb! Stirb! Stirb!}
 {2347}{}{Stirb!}
-{2348}{}{Du solltest ein bißchen offener auf die Leute zugehen...}
+{2348}{}{Du solltest ein bisschen offener auf die Leute zugehen...}
 {2349}{}{Du taugst nur noch für Hundefutter, Freundchen.}
 {2360}{}{Du hast mich nicht mal gestreift.}
 {2361}{}{Du langweilst mich zu Tode.}
@@ -541,10 +541,10 @@
 {2420}{}{He du!}
 {2421}{}{Ich bring dir ein paar Manieren bei.}
 {2422}{}{Wir wollen Leute wie dich hier nicht haben!}
-{2423}{}{Du mußt ein bißchen Respekt lernen!}
+{2423}{}{Du musst ein bisschen Respekt lernen!}
 {2424}{}{Zeit, mich an die Arbeit zu machen...}
 {2425}{}{Warte nur, bis ich dich kriege...}
-{2426}{}{Warum mußtest du das tun?}
+{2426}{}{Warum musstest du das tun?}
 {2427}{}{Es gibt immer Idioten wie dich, die einem den Tag versauen.}
 {2440}{}{Nimm das!}
 {2441}{}{Tut gut, was?}
@@ -562,7 +562,7 @@
 {2463}{}{Das war dein letzter Fehler.}
 {2464}{}{Amateur}
 {2465}{}{Hast das Kämpfen wohl in der Kneipe gelernt, was?}
-{2500}{}{Muß machen, daß ich hier wegkomme!}
+{2500}{}{Muss machen, dass ich hier wegkomme!}
 {2501}{}{Ich komm wieder...}
 {2502}{}{Heute legst du mich nicht um!}
 {2503}{}{Bis später, Früchtchen!}
@@ -571,7 +571,7 @@
 {2520}{}{Du bist erledigt!}
 {2521}{}{Frischfleisch...}
 {2522}{}{Ich werd auf deinem Grab tanzen.}
-{2523}{}{Los, Leute! Laßt uns ein paar Zielübungen machen!}
+{2523}{}{Los, Leute! Lasst uns ein paar Zielübungen machen!}
 {2524}{}{Du heiße Frucht!}
 {2525}{}{Ich glaub, das wird mir gefallen...}
 {2540}{}{Nimm alles!!!}
@@ -598,7 +598,7 @@
 {2602}{}{Unser Feind hat mächtige Magie eingesetzt--Beeilt euch! Holt den Schamanen!}
 {2603}{}{Der Geist des Finsteren hat große Macht über ihn. Der Tod wandelt auf der Erde!}
 {2604}{}{Der Dunkle Gott ist hier!}
-{2605}{}{Der Dunkle Gott will uns strafen. Lauft! Meine Seele flieht und ich muß ihr folgen!}
+{2605}{}{Der Dunkle Gott will uns strafen. Lauft! Meine Seele flieht und ich muss ihr folgen!}
 {2606}{}{ Aiiieeeee!!}
 {2620}{}{Ahne, führe meinen Arm!}
 {2621}{}{Deine Stärke wird die meine sein.}
@@ -606,8 +606,8 @@
 {2623}{}{Ich werde deinen Stamm entehren.}
 {2624}{}{Ayah! Nabataluk!}
 {2625}{}{Die Geister seien mit mir!}
-{2626}{}{Kommt, laßt unsere Klingen tanzen.}
-{2627}{}{Laßt uns beginnen!}
+{2626}{}{Kommt, lasst unsere Klingen tanzen.}
+{2627}{}{Lasst uns beginnen!}
 {2628}{}{U-Suthoooo!}
 {2629}{}{Die Geister sind mit mir!}
 {2640}{}{Deine Ahnen haben dich im Stich gelassen.}
@@ -621,8 +621,8 @@
 {2648}{}{Die Nebel rufen nach dir.}
 {2649}{}{Unsere Ahnen dürstet nach deiner Seele.}
 {2650}{}{Meiner Klinge dürstet nach Blut.}
-{2651}{}{Laß uns den Kampf beginnen!}
-{2660}{}{Deine Augen sind vom Haß getrübt.}
+{2651}{}{Lass uns den Kampf beginnen!}
+{2660}{}{Deine Augen sind vom Hass getrübt.}
 {2661}{}{Deine Geister haben dich verlassen.}
 {2662}{}{Unsere Magie zeigt ihre Wirkung!}
 {2663}{}{Meine Magie macht mich unbesiegbar!}
@@ -643,7 +643,7 @@
 {2722}{}{Ich bring dir ein paar Manieren bei.}
 {2723}{}{Du bist erledigt!}
 {2724}{}{Angriff!}
-{2725}{}{Laßt uns diesen Versager begraben!}
+{2725}{}{Lasst uns diesen Versager begraben!}
 {2726}{}{Sichern und laden!}
 {2727}{}{Gott soll zusehen, wie er mit deinen Resten zurechtkommt.}
 {2740}{}{Nimm das!}
@@ -656,12 +656,12 @@
 {2747}{}{Du wirst den Morgen nicht mehr erleben.}
 {2748}{}{Geht's dir gut?}
 {2749}{}{Auf Wiedersehen in der Hölle.}
-{2760}{}{Trainier noch ein bißchen.}
+{2760}{}{Trainier noch ein bisschen.}
 {2761}{}{Ist das alles?}
 {2762}{}{Los Versager. Kämpf mit mir!}
 {2763}{}{Versuch's das nächste Mal mit Zielen.}
 {2764}{}{Zivilist...}
-{2765}{}{Überlaß es das nächste Mal den Experten.}
+{2765}{}{Überlass es das nächste Mal den Experten.}
 {2800}{}{}
 {2801}{}{}
 {2802}{}{}
@@ -735,12 +735,12 @@
 {3040}{}{Gefechtssequenz eingeleitet}
 {3041}{}{Greife Zielobjekt an}
 {3042}{}{Leite Angriffssequenz ein.}
-{3043}{}{Der Eindringling muß zerstört werden!}
+{3043}{}{Der Eindringling muss zerstört werden!}
 {3044}{}{Wahl der Taktikoptionen beendet}
 {3045}{}{Angriff ausführen.}
 {3046}{}{Das Zielobjekt wird zerstört}
 {3047}{}{Feindzerstörung initiiert}
-{3048}{}{Zielobjekt muß eliminiert werden}
+{3048}{}{Zielobjekt muss eliminiert werden}
 {3049}{}{Angriffsauswahl beendet}
 {3060}{}{Analyse. Defensivprogramm erfolgreich}
 {3061}{}{Analyse. Angriff unerheblich.}
@@ -748,7 +748,7 @@
 {3063}{}{Einheit von Angriff nicht beschädigt}
 {3064}{}{Neubewertung der Angriffsfähigkeit des Zielobjekts}
 {3065}{}{Analyse. Taktikwahl des Zielobjekts fehlerhaft. Einheit intakt}
-{3100}{}{Muß hier weg!}
+{3100}{}{Muss hier weg!}
 {3101}{}{Ich komm wieder...}
 {3102}{}{Heute legst du mich nicht um!}
 {3103}{}{Bis später, Normalo!}
@@ -760,9 +760,9 @@
 {3109}{}{Äh, Zeit für einen strategischen Rückzug.}
 {3110}{}{Abgang von der Bühne.}
 {3111}{}{Ist schon später als ich dachte.}
-{3112}{}{Gotta run. See ya.}
+{3112}{}{Muss los. Man sieht sich.}
 {3113}{}{Lauf weeeeeg!}
-{3114}{}{Muß ein paar Teile wieder ankleben.}
+{3114}{}{Muss ein paar Teile wieder ankleben.}
 {3115}{}{Diese alten Knochen machen das nicht mehr mit.}
 {3116}{}{Es sind nicht die Jahre, sondern die Kilometer.}
 {3117}{}{Was für eine Welt, was für eine Welt....}
@@ -799,7 +799,7 @@
 {3148}{}{Stirb!}
 {3149}{}{Affen wie dich eß ich zum Frühstück und Mittagessen.}
 {3150}{}{Wie kann eine solche Schweinerei schlecht sein?}
-{3151}{}{Laß mich nur mal kosten!}
+{3151}{}{Lass mich nur mal kosten!}
 {3152}{}{Gib mir Zucker, Baby!}
 {3153}{}{Ich hab was für dich!}
 {3154}{}{Halt still! Dann tut's nicht so weh.}
@@ -814,12 +814,12 @@
 {3163}{}{Leider daneben, Normalo!}
 {3164}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {3165}{}{Zu langsam!}
-{3166}{}{OK, laß uns das jetzt mal mit voller Geschwindigkeit probieren.}
+{3166}{}{OK, lass uns das jetzt mal mit voller Geschwindigkeit probieren.}
 {3167}{}{Hast du auf mich gezielt?}
 {3168}{}{Was war denn das?}
 {3169}{}{Das ist keine Scharade.}
 {3170}{}{Für den Kampf braucht man völlige Konzentration.}
-{3171}{}{Schade, daß dein erstes auch dein letztes Mal sein wird.}
+{3171}{}{Schade, dass dein erstes auch dein letztes Mal sein wird.}
 {3172}{}{Meinst du mich?}
 {3173}{}{Willst du das noch mal versuchen, sobald du weißt, was du tust?}
 {3174}{}{Nein, nein, nein, das *spitze Ende* zu *mir*. Klar?}
@@ -830,13 +830,13 @@
 {3179}{}{War das echt dein *bester* Versuch? Mann, du steckst ganz schön in der Klemme.}
 {3200}{}{Whoa. Ich bin jetzt echt gleich völlig weg.}
 {3201}{}{Ich komm wieder...nachdem ich noch was Jet genommen habe.}
-{3202}{}{Wußte doch, daß ich mehr Buffout hätte nehmen sollen...}
+{3202}{}{Wusste doch, dass ich mehr Buffout hätte nehmen sollen...}
 {3203}{}{Ich kann kein Jet nehmen, wenn ich tot bin...}
 {3204}{}{Aieeeeeee! Tu mir nichts! Tu mir nichts!}
-{3205}{}{Diese Halluzination ist gerade ein bißchen zu real geworden...}
+{3205}{}{Diese Halluzination ist gerade ein bisschen zu real geworden...}
 {3220}{}{Nimm das!}
-{3221}{}{Hoffentlich hast du ein paar Stimpaks...oder ein bißchen Jet.}
-{3222}{}{Vielleicht krieg ich für deine Leiche ja ein bißchen Jet...}
+{3221}{}{Hoffentlich hast du ein paar Stimpaks...oder ein bisschen Jet.}
+{3222}{}{Vielleicht krieg ich für deine Leiche ja ein bisschen Jet...}
 {3223}{}{Ich...schlag...dich...wenn...ich...dich...kriege.}
 {3224}{}{Dich zu töten ist vielleicht genau der Kick, den ich brauche...}
 {3225}{}{Ich bring dich um! Ich bring dich um! Ich bring dich um!}
@@ -852,7 +852,7 @@
 {3261}{}{Ich bin so high, du brauchst 'ne Leiter, um an mich ranzukommen!}
 {3262}{}{Auf welches von meinen beiden Ichs zielst du?}
 {3263}{}{Whoa. Hast mich beinah erwischt.}
-{3264}{}{Wußte, daß ich mit Jet schneller bin...}
+{3264}{}{Wusste, dass ich mit Jet schneller bin...}
 {3265}{}{Du kämpfst ziemlich schlecht für 'ne Halluzination.}
 {12000}{}{Ich bleib ganz bestimmt nicht in diesem Durcheinander...}
 {12001}{}{Zurück!}
@@ -870,7 +870,7 @@
 {12026}{}{Zeit, diesen Mistkerl zu erledigen...}
 {12027}{}{Sichern und laden!}
 {12028}{}{Rock and Roll!}
-{12029}{}{Sieh mal, wer da gerade zum Abschuß freigegeben wurde...}
+{12029}{}{Sieh mal, wer da gerade zum Abschuss freigegeben wurde...}
 {12030}{}{Hoffe, du hast ein paar Stimpaks eingepackt, Sippenpenner...}
 {12031}{}{Kontakt!}
 {12032}{}{Jemand ist in das Gebiet eingedrungen!}
@@ -879,10 +879,10 @@
 {12035}{}{Du hast echt Nerven, hier einzudringen...}
 {12036}{}{Nach Schema F vorgehen, Leute, nach Schema F vorgehen.}
 {12037}{}{Achtet auf Einzelheiten, Leute!}
-{12038}{}{Feuert drauf los! Sorgt dafür, daß ihre Köpfe unten bleiben!}
+{12038}{}{Feuert drauf los! Sorgt dafür, dass ihre Köpfe unten bleiben!}
 {12040}{}{Macht sie fertig!}
 {12041}{}{Du hast echtes Pech, Sippling...}
-{12042}{}{Ich hau dir eine rein, daß dir Hören und Sehen vergeht.}
+{12042}{}{Ich hau dir eine rein, dass dir Hören und Sehen vergeht.}
 {12043}{}{::Flieger, grüß mir die Sonne...::}
 {12044}{}{Mach ernst!}
 {12045}{}{Willst du was hiervon?! WILLST DU WAS HIERVON?!}
@@ -896,7 +896,7 @@
 {12063}{}{Dein Sterben wird ziemlich lange dauern...}
 {12064}{}{Schlampig...}
 {12065}{}{Aha, schwach UND langsam also.}
-{12100}{}{Muß machen, daß ich hier wegkomme!}
+{12100}{}{Muss machen, dass ich hier wegkomme!}
 {12101}{}{Ich komm wieder...}
 {12102}{}{Heute legst du mich nicht um!}
 {12103}{}{Bis später, Normalo!}
@@ -927,9 +927,9 @@
 {12200}{}{Whoa, dieser Mist wird echt zu schwer.}
 {12201}{}{Zeit, ein paar von den andern Jungs zu holen...}
 {12202}{}{Ich krieg dich beim nächsten Mal!}
-{12203}{}{Du hast nur Glück, daß ich keine Stimpaks bei mir habe...}
+{12203}{}{Du hast nur Glück, dass ich keine Stimpaks bei mir habe...}
 {12204}{}{Zeit, aus Dodge zu verschwinden.}
-{12205}{}{Ich muß schnell ein paar Stimpaks organisieren...}
+{12205}{}{Ich muss schnell ein paar Stimpaks organisieren...}
 {12220}{}{Ich roll dich wie 'nen Würfel.}
 {12221}{}{Und da dachte ich noch, ich hätt heute keine Gelegenheit, wen umzubringen...}
 {12222}{}{Sieht aus, als ob Golgotha gerade einen neuen Einwohner bekommen hat...}
@@ -939,14 +939,14 @@
 {12226}{}{Ich töte dich, deine Familie und dann deinen Hund.}
 {12227}{}{Zeit, den Abfall rauszubringen...}
 {12228}{}{Ich knick dich ab wie 'nen Zweig...}
-{12240}{}{Ich sorg dafür, daß dir Hören und Sehen vergeht.}
+{12240}{}{Ich sorg dafür, dass dir Hören und Sehen vergeht.}
 {12241}{}{Das Glück ist dir heute nicht hold...}
-{12242}{}{Ich schlag dich, bis du häßlich bist.}
+{12242}{}{Ich schlag dich, bis du hässlich bist.}
 {12243}{}{Zeit, dich einzusargen.}
 {12244}{}{Ich reiß dir das Herz aus dem Leib und trampel drauf rum.}
 {12245}{}{Wünschte, ich hätte Zeit, deinen Kopf in 'nen Schraubstock zu klemmen...}
 {12246}{}{Ich zeig dir, was wir hier mit Abfall machen...}
-{12247}{}{Ich hau dir eine rein, daß du glaubst, die Erde bebt...}
+{12247}{}{Ich hau dir eine rein, dass du glaubst, die Erde bebt...}
 {12248}{}{Ich hab genug von diesem Häufchen Kot...}
 {12249}{}{Grüß die Engel von mir...}
 {12260}{}{Aktionen wie diese bringen dich ins Krankenhaus...}
@@ -984,11 +984,11 @@
 {12381}{}{Willst wohl meine Tiefenwahrnehmung einschränken, was?}
 {12382}{}{Kann...nichts sehen...Blut...in...Augen...}
 {12390}{}{Was denkste wohl was das ist? 'Ne billige Action-Komödie?}
-{12391}{}{Jetzt kann ich nicht mehr damit angeben, daß ich ein Paar habe.}
+{12391}{}{Jetzt kann ich nicht mehr damit angeben, dass ich ein Paar habe.}
 {12392}{}{Hab meine Hoden verloren.}
-{12393}{}{Entschuldige mich bitte einen Moment, muß mich nur kurz übergeben.}
+{12393}{}{Entschuldige mich bitte einen Moment, muss mich nur kurz übergeben.}
 {12394}{}{Großartig. 'Ne Spielerfigur mit Hodenkomplex.}
-{12395}{}{Muß mich nur 'ne Sekunde hinlegen, dann komm ich dich töten.}
+{12395}{}{Muss mich nur 'ne Sekunde hinlegen, dann komm ich dich töten.}
 {12396}{}{In die Vollen!}
 {26000}{}{Flieht! Flieht!}
 {26001}{}{Zurück!}
@@ -1040,7 +1040,7 @@
 {26124}{}{Ich bin unberührbar!}
 {26125}{}{Ich bin unverwüstlich!}
 {26126}{}{Mein Blut ist stärker als deines!}
-{26127}{}{Vielleicht sollten wir 'nen Moment unterbrechen, damit du 'n bißchen üben kannst!}
+{26127}{}{Vielleicht sollten wir 'nen Moment unterbrechen, damit du 'n bisschen üben kannst!}
 {26128}{}{Du bist nicht würdig, gegen mich zu kämpfen!}
 {26129}{}{Warum verschwende ich meine Zeit mit Leuten wie dir?}
 {32000}{}{Mein Gesicht! Mein Gesicht!}
@@ -1084,7 +1084,7 @@
 {32121}{}{Ich rate dir zu fliehen.}
 {32122}{}{Nur ein Feigling benutzt Waffen.}
 {32123}{}{Flieh solange du noch kannst.}
-{32124}{}{Mach dich auf was gefaßt, Missetäter.}
+{32124}{}{Mach dich auf was gefasst, Missetäter.}
 {32125}{}{Lauf weg und ich tu dir nichts.}
 {32126}{}{Wenn du unbedingt kämpfen willst...}
 {32128}{}{Denkst du, du kannst mich besiegen?}
@@ -1138,9 +1138,9 @@
 {32301}{}{Neiiiin...nicht ausgerechnet an meinem Geburtstag!}
 {32302}{}{Autsch...meine Milz...}
 {32303}{}{Ab geht's, zurück in die Klinik!}
-{32304}{}{Muß die...Milzgrube schützen...}
+{32304}{}{Muss die...Milzgrube schützen...}
 {32305}{}{Au, meine Leber...das tut weh.}
-{32320}{}{Paß auf, daß ich nicht das Mogel-Messer verwende.}
+{32320}{}{Pass auf, dass ich nicht das Mogel-Messer verwende.}
 {32321}{}{Ich werde dich dermaßen fertigmachen...}
 {32322}{}{Hast du heut Kot zum Frühstück gefressen?}
 {32323}{}{Ich tret dir gleich in den verdammten Arsch.}
@@ -1158,7 +1158,7 @@
 {32360}{}{Hast meine Milz nicht erwischt! Ha, ha!}
 {32361}{}{Du NERVST!}
 {32362}{}{Ha, ha! Ich bin der King!}
-{32363}{}{Gib Küßchen, Schatzi.}
+{32363}{}{Gib Küsschen, Schatzi.}
 {32364}{}{Zeit zum Abtreten, Schatzi.}
 {32365}{}{Ich schlitz dich auf!}
 {32400}{}{Mein Gesicht! Nicht ins Gesicht!}
@@ -1203,7 +1203,7 @@
 {32524}{}{Bist schon so gut wie tot.}
 {32525}{}{Da hast du dir 'ne hübsche Ladung Prügel eingebrockt.}
 {32526}{}{Ich werd's dir schon besorgen, keine Bange.}
-{32540}{}{Jetzt mußt du den Mist auch auslöffeln.}
+{32540}{}{Jetzt musst du den Mist auch auslöffeln.}
 {32541}{}{::Singt::}
 {32542}{}{Piep, piep, piep...ich hab dich LIEB}
 {32543}{}{Können wir nicht alle einfach miteinander auskommen?}
@@ -1211,8 +1211,8 @@
 {32545}{}{Beug dich mal kurz vornüber..}
 {32546}{}{Hab hier was Schönes für dich.}
 {32547}{}{Schenk dir ein Stück von mir.}
-{32548}{}{Ein Schuß...ein Tor!}
-{32549}{}{Willst du ein bißchen Liebe?}
+{32548}{}{Ein Schuss...ein Tor!}
+{32549}{}{Willst du ein bisschen Liebe?}
 {32560}{}{Jawoll!}
 {32561}{}{JaWOLL!}
 {32562}{}{Ha, ha, ha!}
@@ -1238,7 +1238,7 @@
 {32644}{}{...und einen für Opi und Omi!}
 {32645}{}{Raus hier!}
 {32646}{}{Stirb!}
-{32647}{}{Tschüß!}
+{32647}{}{Tschüss!}
 {32648}{}{Du wirst vor mir im Dreck kriechen!}
 {32649}{}{Deine Gegenwart ist eine Beleidigung für meine Augen.}
 {32660}{}{Auf die Reflexe kommt es an.}
@@ -1261,7 +1261,7 @@
 {32732}{}{Autsch!}
 {32733}{}{Sternenvater! Hilf mir!}
 {32734}{}{Das tat weh!}
-{32735}{}{Laß mich in Ruhe!}
+{32735}{}{Lass mich in Ruhe!}
 {32736}{}{Ohhh, diese Schmerzen!}
 {32760}{}{Au, mein Bein.}
 {32761}{}{Mein Knie!}
@@ -1277,7 +1277,7 @@
 {32792}{}{Urp!}
 {32793}{}{::Keuch::}
 {32794}{}{Ich...kann nicht...atmen...}
-{32795}{}{Gut, daß...ich sowieso...zeugungsunfähig bin...}
+{32795}{}{Gut, dass...ich sowieso...zeugungsunfähig bin...}
 {32800}{}{Sternenvater! Hilf uns!}
 {32801}{}{Meine Anodyne!}
 {32802}{}{Ich will weiterleben und den Quetzel sehen!}
@@ -1349,29 +1349,29 @@
 {33124}{}{Für...ähh...zum Ruhme Hubbells!}
 {33125}{}{Kämpfen schadet deinen Anodynen...}
 {33126}{}{Diese Einschüchterungsmasche liegt mir gar nicht.}
-{33128}{}{Entschuldige bitte, daß ich dich gleich angreifen werde.}
+{33128}{}{Entschuldige bitte, dass ich dich gleich angreifen werde.}
 {33140}{}{Achtung!}
 {33141}{}{::Kneift die Augen fest zu und greift an::}
 {33142}{}{Noch ein Angriff...}
 {33143}{}{Wenn du einfach wegläufst, kann ich damit aufhören.}
-{33144}{}{Los, los! Mach, daß du hier wegkommst!}
+{33144}{}{Los, los! Mach, dass du hier wegkommst!}
 {33145}{}{Ksch! Ksch!}
 {33146}{}{Hör auf zu kämpfen!}
 {33147}{}{Hoppsassa!}
 {33148}{}{Du duftest ja wie 'ne ganze Blümchenwiese!}
-{33149}{}{Laß uns mal in Ruhe drüber reden!}
+{33149}{}{Lass uns mal in Ruhe drüber reden!}
 {33160}{}{Warum versuchst du eigentlich mich anzugreifen?}
 {33161}{}{Hab ich dir jemals was getan?}
 {33162}{}{Wir brauchen gar nicht gegeneinander zu kämpfen, weißt du!}
 {33163}{}{Ich will dir überhaupt nichts tun!}
-{33164}{}{Ich möchte nicht, daß du mir was tust!}
+{33164}{}{Ich möchte nicht, dass du mir was tust!}
 {33165}{}{Sollten wir uns nicht wie Erwachsene benehmen?}
 {33200}{}{Ich glaube, du hast meinen Kiefer gebrochen!}
 {33201}{}{Mein Backenknochen!}
-{33202}{}{Das gibt 'ne häßliche Narbe.}
+{33202}{}{Das gibt 'ne hässliche Narbe.}
 {33210}{}{Meine Schreibhand!}
 {33211}{}{Mein Ellenbogen!}
-{33212}{}{Hey! Paß auf.}
+{33212}{}{Hey! Pass auf.}
 {33220}{}{Ahhh! Jippiiiiee! Ahh!}
 {33221}{}{Wahhhh!}
 {33222}{}{Au! Mein Unterarm!!}
@@ -1379,7 +1379,7 @@
 {33231}{}{Mein Zwerchfell!}
 {33232}{}{::Keuchend::}
 {33233}{}{Uff!}
-{33234}{}{Das muß doch nicht sein...}
+{33234}{}{Das muss doch nicht sein...}
 {33235}{}{Okay, das saß.}
 {33236}{}{Ohhh...auauauaua}
 {33260}{}{Meine Wade!}
@@ -1411,18 +1411,18 @@
 {36032}{}{Grrr!}
 {36033}{}{Das wirst du noch bereuen!}
 {36034}{}{Hör lieber auf, solang du führst!}
-{36035}{}{Guter Schuß. Jetzt bin ich dran}
+{36035}{}{Guter Schuss. Jetzt bin ich dran}
 {36060}{}{Au, mein Bein.}
 {36061}{}{Das wirst du mir bezahlen!}
 {36062}{}{Ahhhh! MEIN BEIN!}
 {36070}{}{Mein Bein!}
-{36071}{}{Umpf! Ein bißchen zu tief gezielt, oder?}
+{36071}{}{Umpf! Ein bisschen zu tief gezielt, oder?}
 {36072}{}{Du hast gar nicht auf mein Bein gezielt, stimmt's!?!}
 {36080}{}{Dieses verdammte Blut in meinen Augen!}
 {36081}{}{Mein Auge! Das wirst du mir bezahlen!}
 {36082}{}{Bastard!}
-{36090}{}{Ahhhhh, kurze Pause. Muß hier kurz was aufsammeln.}
-{36091}{}{Uhh! Kaga muß diesen Trick lernen...}
+{36090}{}{Ahhhhh, kurze Pause. Muss hier kurz was aufsammeln.}
+{36091}{}{Uhh! Kaga muss diesen Trick lernen...}
 {36092}{}{Urg! Petey! Alles OK da unten?}
 {36093}{}{Das...keuch...tut verdammt weh!}
 {36094}{}{Urp!}
@@ -1446,10 +1446,10 @@
 {36145}{}{Hoffentlich stirbst du nicht so schnell wie die anderen.}
 {36146}{}{Noch ein Auserwähltes Wesen zum Umbringen!}
 {36147}{}{Stirb!}
-{36148}{}{Schrei doch mal ein bißchen...}
+{36148}{}{Schrei doch mal ein bisschen...}
 {36160}{}{Du kannst mir nicht weh tun!}
 {36161}{}{Die Geister beschützen mich.}
-{36162}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36162}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36163}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36164}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36165}{}{Zu langsam!}
@@ -1460,7 +1460,7 @@
 {36204}{}{Du wirst Kaga wiedersehen.}
 {36205}{}{Das wirst du bezahlen — später!}
 {36220}{}{Wenn ich dich getötet habe, brenne ich Arroyo nieder!}
-{36221}{}{Ich will, daß alle mich fürchten}
+{36221}{}{Ich will, dass alle mich fürchten}
 {36222}{}{Kaga nimmt deinen Kopf als Trophäe.}
 {36223}{}{Gib auf und ich gewähre dir einen schnellen Tod.}
 {36240}{}{Fühle den Zorn des Kaga!}
@@ -1475,7 +1475,7 @@
 {36249}{}{Schrei für mich.}
 {36260}{}{Du kannst mir nicht weh tun!}
 {36261}{}{Die Geister beschützen mich.}
-{36262}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36262}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36263}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36264}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36265}{}{Zu langsam!}
@@ -1486,7 +1486,7 @@
 {36304}{}{Du wirst Kaga wiedersehen.}
 {36305}{}{Das wirst du bezahlen — später!}
 {36320}{}{Kaga und das Auserwählte Wesen werden sich wiedersehen}
-{36321}{}{Laß uns das beenden}
+{36321}{}{Lass uns das beenden}
 {36322}{}{Es wird dir noch leid tun, jemals den Namen Kaga gehört zu haben!}
 {36323}{}{Meine Fähigkeiten haben sich seit unserem letzten zusammentreffen verbessert.}
 {36340}{}{Fühle den Zorn des Kaga!}
@@ -1497,16 +1497,16 @@
 {36345}{}{Hoffentlich stirbst du nicht so schnell wie die anderen.}
 {36346}{}{Noch ein Auserwähltes Wesen zum Umbringen!}
 {36347}{}{Stirb!}
-{36348}{}{Schrei doch mal ein bißchen...}
+{36348}{}{Schrei doch mal ein bisschen...}
 {36360}{}{Du kannst mir nicht weh tun!}
 {36361}{}{Die Geister beschützen mich.}
-{36362}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36362}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36363}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36364}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36365}{}{Zu langsam!}
 {36400}{}{Das scheint wohl eine schlechte Angewohnheit von dir zu werden.}
 {36401}{}{Kaga braucht mehr Übung.}
-{36402}{}{Das ist nicht das letzte Mal, daß du Kaga zu sehen bekommst}
+{36402}{}{Das ist nicht das letzte Mal, dass du Kaga zu sehen bekommst}
 {36403}{}{Du hast Glück! Kaga hat woanders was zu tun.}
 {36404}{}{Du wirst Kaga wiedersehen.}
 {36405}{}{Das wirst du bezahlen — später!}
@@ -1523,10 +1523,10 @@
 {36446}{}{Hoffentlich stirbst du nicht so schnell wie die anderen.}
 {36447}{}{Noch ein Auserwähltes Wesen zum Umbringen!}
 {36448}{}{Stirb!}
-{36449}{}{Schrei doch mal ein bißchen...}
+{36449}{}{Schrei doch mal ein bisschen...}
 {36460}{}{Du kannst mir nicht weh tun!}
 {36461}{}{Die Geister beschützen mich.}
-{36462}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36462}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36463}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36464}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36465}{}{Zu langsam!}
@@ -1546,12 +1546,12 @@
 {36543}{}{Uhhh, den konnte Kaga von hier aus fühlen.}
 {36544}{}{Ich werd der Ältesten deinen Kopf bringen.}
 {36545}{}{Hier ist dein Weg zu Ende, Auserwähltes Wesen!}
-{36546}{}{Kaga muß dich jetzt töten}
+{36546}{}{Kaga muss dich jetzt töten}
 {36547}{}{Stirb!}
-{36548}{}{Schrei doch mal ein bißchen...}
+{36548}{}{Schrei doch mal ein bisschen...}
 {36560}{}{Du kannst mir nicht weh tun!}
 {36561}{}{Die Geister beschützen mich.}
-{36562}{}{Hoffentlich war das nicht schon dein bester Schuß.}
+{36562}{}{Hoffentlich war das nicht schon dein bester Schuss.}
 {36563}{}{Hahahah. Kaga braucht sich noch nicht mal zu ducken!}
 {36564}{}{Du kannst nicht töten, was du nicht treffen kannst!}
 {36565}{}{Zu langsam!}
@@ -1581,16 +1581,16 @@
 {36644}{}{Du kannst mich verletzen, aber gewinnen kannst du nicht!}
 {36645}{}{Au! War keine gute Idee, mich zu verletzen}
 {36660}{}{Ahhhh! Mein Bein!}
-{36661}{}{Das nennst du Schmerz? Daß ich nicht lache!}
+{36661}{}{Das nennst du Schmerz? Dass ich nicht lache!}
 {36662}{}{Ahhhh! Dafür werd ich dir das Genick brechen!}
 {36670}{}{Ahhhh! Mein Bein!}
-{36671}{}{Das nennst du Schmerz? Daß ich nicht lache!}
+{36671}{}{Das nennst du Schmerz? Dass ich nicht lache!}
 {36672}{}{Ahhhh! Dafür werd ich dir das Genick brechen!}
 {36680}{}{Ahhhh! Verdammter Mensch! Ich bin blind!}
 {36681}{}{Ahhhh! Schmerz! Was hast du getan?}
 {36682}{}{Ahhhh! Dafür werde ich dich tagelang foltern!}
 {36690}{}{Das ist menschliche Schwäche!}
-{36691}{}{Das nennst du Schmerz? Daß ich nicht lache!}
+{36691}{}{Das nennst du Schmerz? Dass ich nicht lache!}
 {36692}{}{Du bist dumm, Mensch!}
 {36693}{}{Warum greifst du mich dort an?}
 {36694}{}{Ich werde dich stundenlang fertigmachen}
@@ -1628,7 +1628,7 @@
 {44800}{}{Hab 'nen ziemlich dicken Schädel, aber das hat trotzdem weh getan.}
 {44801}{}{Hab höllische Kopfschmerzen}
 {44802}{}{Umpf. Nicht den Kopf!}
-{44803}{}{Kopfschüsse kann ich auch, daß du's weißt!}
+{44803}{}{Kopfschüsse kann ich auch, dass du's weißt!}
 {44804}{}{Aaarrgh! Schwindlig...}
 {44810}{}{Dann töte ich dich eben mit dem anderen Arm.}
 {44811}{}{Ich brauch keine zwei Arme, um dir den Tag zu versauen!}
@@ -1646,12 +1646,12 @@
 {44833}{}{Arrgghh! Brustschmerzen!}
 {44834}{}{Magengrube...ogott das tut weh!}
 {44835}{}{Soll das ein Kampf sein, oder versuchst du bloß, auf dich aufmerksam zu machen?}
-{44836}{}{Sag mal: Sollte das weh tun? Dann heul ich ein bißchen.}
+{44836}{}{Sag mal: Sollte das weh tun? Dann heul ich ein bisschen.}
 {44837}{}{Hast du das Kämpfen bei deiner Mami gelernt?}
 {44838}{}{Oh, diese Schmerzen (gähn). Bitte, nicht mehr schlagen.}
 {44839}{}{Das soll ein Schlag sein? Jetzt zeig ich dir mal, wie so was geht!}
 {44840}{}{Dafür werd ich dir in den Hintern treten.}
-{44841}{}{Uahh! Das sticht 'n bißchen.}
+{44841}{}{Uahh! Das sticht 'n bisschen.}
 {44842}{}{Dafür hab ich die Vault verlassen!?}
 {44843}{}{Danach werd ich erst mal Urlaub brauchen.}
 {44844}{}{Jaul! Autsch! Tut das weh!}
@@ -1679,7 +1679,7 @@
 {44891}{}{Nicht...unter...die...Gürtellinie!}
 {44892}{}{Das sind unfaire Kampfpraktiken. Wie wär's, wenn ich dich in die Hoden  treffen würde?}
 {44893}{}{Ich HASSE Unterleibsschüsse! Umpf...}
-{44894}{}{Unterleibsschuß...wie gut, daß ich kein Mensch bin!}
+{44894}{}{Unterleibsschuss...wie gut, dass ich kein Mensch bin!}
 {44900}{}{Zeit, abzuhauen!}
 {44901}{}{Ich verschwinde!}
 {44902}{}{Zurück!}
@@ -1687,9 +1687,9 @@
 {44904}{}{Nichts wie raus hier!}
 {44905}{}{Füße, bitte nicht schlappmachen!}
 {44906}{}{Platz da, ich geh jetzt!}
-{44907}{}{Denk nicht, daß ich aufgebe. Das ist ein strategischer Rückzug!}
+{44907}{}{Denk nicht, dass ich aufgebe. Das ist ein strategischer Rückzug!}
 {44908}{}{Ich hab genug von dieser Kacke!}
-{44909}{}{Ich mach jetzt, daß ich hier wegkomme!}
+{44909}{}{Ich mach jetzt, dass ich hier wegkomme!}
 {44920}{}{Komm her, damit ich dich fertigmachen kann!}
 {44921}{}{Jetzt bist du dran!}
 {44922}{}{Entweder du oder ich...ich würde sagen DU!}
@@ -1708,22 +1708,22 @@
 {44935}{}{Jetzt werden wir mal auf Tuchfühlung gehen.}
 {44936}{}{Volltrottel im Anmarsch!}
 {44937}{}{Geschoß im Anflug!}
-{44938}{}{Ziel erfaßt und anvisiert!}
+{44938}{}{Ziel erfasst und anvisiert!}
 {44939}{}{Gleich wird's stürmisch!}
 {44940}{}{Gleich semmel ich dir einen rein...aber heftig!}
 {44941}{}{Damit schadest du dir selbst mehr als mir}
-{44942}{}{Was du nicht willst, daß man dir tu, das füg zuerst den andern zu!}
+{44942}{}{Was du nicht willst, dass man dir tu, das füg zuerst den andern zu!}
 {44943}{}{Wenn bei dir noch 'n Körperteil übrig ist, der nicht weh tut, kommt der als nächstes dran!}
 {44944}{}{Nahkampfübungen! Wie ich das liebe!}
 {44945}{}{Sag mir deinen Namen, damit ich deine Angehörigen verständigen kann.}
 {44946}{}{Mir zu Ehren heißen wir DEATHclaws!}
 {44947}{}{Geben ist seliger denn Nehmen!}
 {44948}{}{Hoffentlich macht dir das hier genauso viel Spaß wie mir!}
-{44949}{}{Hat das weh getan? Wenn nicht, schlage ich das nächste Mal gerne ein bißchen härter zu.}
+{44949}{}{Hat das weh getan? Wenn nicht, schlage ich das nächste Mal gerne ein bisschen härter zu.}
 {44950}{}{Hey, hier gibt es einen Bluter!}
 {44951}{}{Wenn ich mit dir fertig bin, bringt dich ein Stimpak allein garantiert nicht mehr auf die Beine.}
 {44952}{}{Hoffentlich bist du krankenversichert. Wirst es brauchen.}
-{44953}{}{Hier ein Riß, da ein Riß, überall ein Riß, Riß, Riß...}
+{44953}{}{Hier ein Riss, da ein Riss, überall ein Riss, Riss, Riss...}
 {44954}{}{Mir egal, wer damit angefangen hat, ich werd's in jedem Fall beenden!}
 {44955}{}{Ich hör gern, wie Fleisch reißt, du nicht?}
 {44956}{}{Bin grad erst beim Aufwärmen, das richtige Spektakel geht gleich erst los.}
@@ -1734,11 +1734,11 @@
 {44961}{}{Eine Brille. Du solltest dir ernsthaft überlegen, dir 'ne Brille anzuschaffen.}
 {44962}{}{Soll ich mir vielleicht 'ne Zielscheibe auf den Bauch pinseln?}
 {44963}{}{Warum zielst du eigentlich dahinten hin, wo ich doch hier bin?}
-{44964}{}{Glaube kaum, daß du damit beruflich weiterkommst.}
+{44964}{}{Glaube kaum, dass du damit beruflich weiterkommst.}
 {44965}{}{Wie schaffst du es eigentlich, ein so großes Ziel wie mich zu verfehlen?}
 {44966}{}{Ha! Argh grrnnngh thppppt! (Spottgesang der Deathclaw)}
 {44967}{}{Ich bin ein flinker kleiner Mistkerl, stimmt's?}
-{44968}{}{Sei froh, daß deine Mami dich nicht so sieht.}
+{44968}{}{Sei froh, dass deine Mami dich nicht so sieht.}
 {44969}{}{Glaub mir, du brauchst dringend mehr Übung.}
 {44970}{}{Wie peinlich. Ich werd's nicht weitererzählen, wie doof du dich anstellst.}
 {44971}{}{Ach so, du hast bis jetzt nur das Verfehlen geübt?}
@@ -1747,6 +1747,6 @@
 {44974}{}{Ist die Vorstellung schon zu Ende, Gnädigste? Wie wär's mit 'ner kleinen Zugabe?}
 {44975}{}{Das war ein hervorragendes Beispiel fürs Danebentreffen.}
 {44976}{}{Langsam glaube ich, du bist für sowas nicht geschaffen.}
-{44977}{}{Versuchst du mich dazu zu bringen, daß ich mich totlache?}
-{44978}{}{Auf die Weise sorgst du wenigstens mal für 'n bißchen Luftzug!}
+{44977}{}{Versuchst du mich dazu zu bringen, dass ich mich totlache?}
+{44978}{}{Auf die Weise sorgst du wenigstens mal für 'n bisschen Luftzug!}
 {44979}{}{Ich glaub, du hast mich doch tatsächlich verfehlt!}

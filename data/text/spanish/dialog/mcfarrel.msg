@@ -2,7 +2,7 @@
 {101}{}{Ves a Farrel.}
 {102}{}{Escuchas el sonido de ramitas secas rompiéndose cada vez que se mueve.}
 {150}{}{¡Oye, aléjate de ahí!}
-{151}{}{¡Deja de hacer eso!}
+{151}{}{¡Para eso!}
 {152}{}{¡Ladrón!}
 {153}{}{No he robado el reloj, así que deja de venir aquí a acosar al pobre Farrel!}
 {154}{}{Cornelius dice que tú le robaste su reloj de oro.}

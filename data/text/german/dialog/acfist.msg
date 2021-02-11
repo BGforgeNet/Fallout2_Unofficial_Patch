@@ -4,7 +4,7 @@
 {103}{}{Recht gut.}
 {104}{}{Nicht besonders gut.}
 {105}{}{Ähm?!}
-{106}{}{Ich muß mich wieder dran machen.}
+{106}{}{Ich muss mich wieder dran machen.}
 {107}{}{Vielleicht brauchst du die Hilfe eines Kriegers.}
 {108}{}{Natürlich. Wobei kannst du mir helfen?}
 {109}{}{Nein. Ich komm gut klar.}
@@ -23,7 +23,7 @@
 {122}{}{Oh, okay.}
 {123}{}{Du bist nicht schnell genug im Kampf. Mein Training wird dir nicht helfen, Auserwähltes Wesen.}
 {124}{}{Oh, okay.}
-{125}{}{Zunächst mußt du noch mehr über Kampftechnik lernen, bevor ich dir helfen kann, kleiner Bruder.}
+{125}{}{Zunächst musst du noch mehr über Kampftechnik lernen, bevor ich dir helfen kann, kleiner Bruder.}
 {126}{}{Oh, okay.}
 {127}{}{Ich kann dir einen kräftigeren Tritt zeigen. Das dauert ungefähr einen Tag.}
 {128}{}{OK.}

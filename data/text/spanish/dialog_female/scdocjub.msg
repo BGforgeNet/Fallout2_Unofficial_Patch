@@ -18,7 +18,7 @@
 {117}{}{Tú solo cúrame.}
 {118}{}{No me quedo aquí.}
 {119}{}{Te has recuperado.}
-{120}{}{Marcho ahora.}
+{120}{}{Yo irme ahora.}
 {121}{}{No. Nunca bromeo. Mejor que ampute esa pierna antes de que se gangrene.}
 {122}{}{Ni hablar, no amputarás nada, ¿entendido?}
 {123}{}{Eso es, me largo.}

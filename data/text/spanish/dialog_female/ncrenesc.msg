@@ -63,7 +63,7 @@
 {309}{}{¿Te refieres a cosas como venderle drogas al hijo de Wright?}
 {310}{}{Puedes volver a hacer cosas importantes.}
 {320}{}{(Renesco te mira fijamente. Parece como si te desnudara mentalmente, y te arrancase los miembros uno a uno).}
-{321}{}{Nevermind, then. I had some other questions...}
+{321}{}{No importa, entonces. Yo tenía algunas otras preguntas...}
 {322}{}{No importa, entonces.}
 {330}{}{(Renesco te mira disgustado). Sí. En la TIENDA. Esto no es el siglo XX, en el que las drogas las vendían cucarachas de esquina que vivían con un temor constante a las autoridades.}
 {331}{}{Bien, entonces -}
@@ -104,7 +104,7 @@
 {413}{}{Ya me he dado cuenta. Oye, tenía algunas preguntas más...}
 {414}{}{Ya veo… ahora debo irme.}
 {420}{}{Bien, tribal, dudo que seas tan espabilado como para notar esto, pero Nuevo Reno no produce nada útil. Es como una gran y brillante garrapata agarrada al desierto.  Ahora bien, Redding, por el contrario…}
-{421}{}{Sigue.}
+{421}{}{Continúa.}
 {422}{}{… PRODUCE algo útil.}
 {423}{}{Ya he oído bastante.}
 {430}{}{Primera y última vez que te aviso, tribal: no termines mis malditas frases. No me gustan los primates listillos
@@ -194,7 +194,7 @@
 {634}{}{Nada, no importa. }
 {640}{}{(Renesco te arranca los anteojos de las manos y se los pone. Abre mucho los ojos). ¡Dulce Reno! ASÍ es como está esta maldita
  tienda. (Frunce el ceño). Qué desorden… ¿y qué es eso que hay en las estanterías? Parece mierda de brahmin.}
-{641}{}{You're welcome...}
+{641}{}{Eres bienvenido...}
 {642}{}{Disfruta. }
 {650}{}{¡Hmpphh! Yo… hmmm… eh… ¿de dónde has sacado esto?}
 {651}{}{Bien, había un diminuto escorpión rad, ¿sabes?, y un científico que lo estaba entrenando, y... ¿sabes qué? Ni yo

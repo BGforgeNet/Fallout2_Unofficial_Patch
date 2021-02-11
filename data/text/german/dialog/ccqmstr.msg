@@ -23,9 +23,9 @@
 {119}{}{Ja! Ich neu hier!}
 {120}{}{Ja, ich bin neu hier.}
 {121}{}{Dann brauchst du eine Grundausrüstung. Geh in die Waffenkammer, hol dir 'nen Anzug und
- nimm deine Waffe. Danach mußt du dich beim Ausbildungs-Sergeant melden.}
+ nimm deine Waffe. Danach musst du dich beim Ausbildungs-Sergeant melden.}
 {122}{}{Danke auch!}
-{123}{}{Gern geschehen. Jetzt raus mit dir. Ich muß arbeiten und will dabei nicht gestört werden.}
+{123}{}{Gern geschehen. Jetzt raus mit dir. Ich muss arbeiten und will dabei nicht gestört werden.}
 {124}{}{Ich hab jetzt zu tun, komm nachher wieder.}
 {125}{}{Hallo, Rekrut. Ich hab gerade 'nen Anruf von deinem Sergeant erhalten. Er sagt, ich soll
  dich ausrüsten und wieder zurückschicken. Stimmt das?}
@@ -36,6 +36,6 @@
 {129}{}{Ich nix brauchen Papiere!}
 {130}{}{Ich habe keine Papiere dabei, die sind in meinem Kasten.}
 {131}{}{Papiere? Deine Papiere habe ich hier!}
-{132}{}{Falsche Antwort, du Wurm. Du mußt deine Papiere immer bei dir haben und das solltest du
+{132}{}{Falsche Antwort, du Wurm. Du musst deine Papiere immer bei dir haben und das solltest du
  wissen!}
 {133}{}{Hoppla.}

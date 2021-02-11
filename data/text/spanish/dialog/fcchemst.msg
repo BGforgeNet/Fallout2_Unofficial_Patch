@@ -5,7 +5,7 @@
 {104}{}{¿Qué?}
 {105}{}{¿Quién eres TÚ?}
 {106}{}{Soy }
-{107}{}{Nadie que te importe.}
+{107}{}{No es asunto tuyo.}
 {108}{}{Nada. Ya me voy.}
 {109}{}{No puedes estar aquí si eres un imbécil. Márchate corriendo, antes de que llame a los guardias.}
 {110}{}{Realmente no me entiendes, ¿verdad? Tal vez entenderás a la guardia. ¡Guardias! ¡Un intruso!}

@@ -19,12 +19,12 @@
 {151}{}{Ich bin nur ein Wanderer.}
 {152}{}{Ich bin das Auserwählte Wesen.}
 {153}{}{Ich bin nur für meine jährliche Erneuerung hier.}
-{154}{}{Das ist schon OK. Ich muß ihm nur ein paar Fragen stellen.}
-{160}{}{Dann wander weiter und mach, daß du hier weg kommst.}
+{154}{}{Das ist schon OK. Ich muss ihm nur ein paar Fragen stellen.}
+{160}{}{Dann wander weiter und mach, dass du hier weg kommst.}
 {161}{}{Äh, OK. Wiedersehn.}
-{170}{}{Ja, wenn das so ist... Komm rein. Er ist gleich hier nebenan. Laß ihn nicht warten.}
-{171}{}{Keine Angst, ich geh gleich rein. Tschüß.}
-{172}{}{Ich komm vielleicht später wieder. Tschüß.}
+{170}{}{Ja, wenn das so ist... Komm rein. Er ist gleich hier nebenan. Lass ihn nicht warten.}
+{171}{}{Keine Angst, ich geh gleich rein. Tschüss.}
+{172}{}{Ich komm vielleicht später wieder. Tschüss.}
 {180}{}{Du solltest lieber "auswählen" zu gehn. Verschwinde.}
 {181}{}{OK.}
 {200}{}{Ja, du kannst drinnen alles erneuern.}
@@ -35,16 +35,16 @@
 {221}{}{OK. Ich gehe.}
 {230}{}{Hier ist nur das Lager des Hirns. Mann, bist du blöd!}
 {231}{}{Das Hirn?}
-{232}{}{Das war ein Test. Du hast ihn bestanden. Jetzt laß mich rein.}
-{233}{}{Ich bin wohl etwas verwirrt. Muß an all der Strahlung liegen. Tschüß.}
-{240}{}{Hoppla, äh, hier ist nichts. Überhaupt nichts. Nun mach, daß du weg kommst.}
-{241}{}{Bist du sicher, daß hier nichts ist?}
+{232}{}{Das war ein Test. Du hast ihn bestanden. Jetzt lass mich rein.}
+{233}{}{Ich bin wohl etwas verwirrt. Muss an all der Strahlung liegen. Tschüss.}
+{240}{}{Hoppla, äh, hier ist nichts. Überhaupt nichts. Nun mach, dass du weg kommst.}
+{241}{}{Bist du sicher, dass hier nichts ist?}
 {242}{}{OK. Wiedersehn.}
 {250}{}{Ja. Ich bin sicher. Jetzt hau ab.}
-{251}{}{OK, wenn du's sagst. Tschüß.}
-{260}{}{Oh, heh, heh... yeah. I knew that. Umm, well, er, did I pass? }
-{261}{}{Natürlich hast du bestanden. Jetzt laß mich rein.}
-{262}{}{Nein, du hast nicht bestanden. Und jetzt muß ich dich melden.}
+{251}{}{OK, wenn du's sagst. Tschüss.}
+{260}{}{Oh; ha, ha... ja. Das wusst ich. Hmm, tja, habe ich bestanden? }
+{261}{}{Natürlich hast du bestanden. Jetzt lass mich rein.}
+{262}{}{Nein, du hast nicht bestanden. Und jetzt muss ich dich melden.}
 {270}{}{OK. Du kannst gleich reingehn.}
 {271}{}{OK. Wiedersehn.}
 {280}{}{Du hast das Zeichen. Geh rein.}
@@ -52,6 +52,6 @@
 {282}{}{Das Zeichen?}
 {283}{}{Fürchte das Zeichen. Adieu.}
 {290}{}{Ja, den heiligen Talisman der Erneuerung. Erneuere, Kamerad! Erneuere!}
-{291}{}{Ja...dir auch, Nojre. Tschüß.}
+{291}{}{Ja...dir auch, Nojre. Tschüss.}
 {300}{}{Erneuere, Bruder. Du kannst passieren.}
 {301}{}{Erneuere, Schwester. Du kannst passieren.}

@@ -3,7 +3,7 @@
 {102}{}{Ves la Garra mortal más impresionante que podrías imaginar. La criatura debe ser única en su especie.}
 {103}{}{No me temas, humano. No tengo la intención de hacerte daño. Soy Gruthar, el líder de este grupo de Garras mortales. ¿Para qué has venido?}
 {104}{}{¿Para qué has venido?}
-{105}{}{Uh...}
+{105}{}{Eh...}
 {106}{}{¡Para patearte el culo!}
 {107}{}{¿Cómo es posible que una Garra mortal pueda hablar... y tan bien?}
 {108}{}{Quiero saber lo que ocurrió con la gente que vivía aquí.}

@@ -249,7 +249,7 @@
 {1587}{}{Vieni qui che ti ammazzo!}
 {1588}{}{Le tenebre, le tenebre, Aaaiiiieee!}
 {1589}{}{Dov'e' il mio occhio, dov'e'!?!}
-{1590}{}{Ho gia' troppi figli.}
+{1590}{}{Avevo gia' abbastanza bambini.}
 {1591}{}{Combatti senza onore.}
 {1592}{}{Sono sposato, non lo usavo comunque.}
 {1593}{}{Venerandi spiriti, il mondo e' appena esploso.}

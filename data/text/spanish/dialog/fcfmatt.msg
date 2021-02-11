@@ -12,7 +12,7 @@
 {111}{}{¿Quienes vosotros?}
 {112}{}{¿Por qué nadie dice nada de ti?}
 {113}{}{¿Por qué hay sólo una gente aquí?}
-{114}{}{Marcho ahora.}
+{114}{}{Yo irme ahora.}
 {115}{}{¿Quienes sois vosotros?}
 {116}{}{¿Por qué nadie de por aquí te ha mencionado?}
 {117}{}{¿Por qué sólo tenéis a una persona aquí?}
@@ -68,7 +68,7 @@
 {167}{}{Entiendo yo...}
 {168}{}{Sí, ya veo lo que quieres decir.}
 {169}{}{Demasiada gente en un mismo lugar puede llamar la atención. Un sólo hombre en una ciudad habitada llama mucho menos la atención.}
-{170}{}{De acuerdo.}
+{170}{}{Vale.}
 {171}{}{Hola de nuevo. ¿Hay algo en lo que pueda ayudarte?}
 {172}{}{No, sólo digo hola.}
 {173}{}{Sí. ¿Te hago pregunta?}
@@ -90,13 +90,13 @@
 {189}{}{No, sigo trabajando en ello.}
 {190}{}{Tengo los planos del vertibird para ti.}
 {191}{}{Bien, sigue con ello. Sé que es una misión difícil, pero creo que puedes conseguirlo.}
-{192}{}{De acuerdo.}
+{192}{}{Vale.}
 {193}{}{¡Excelente trabajo! Déjame los planos, y les haré una copia. Como te prometí, te daré acceso total a nuestras instalaciones. Gracias.}
 {194}{}{De nada.}
 {195}{}{No hay de qué.}
 {196}{}{Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte solo y como un recién llegado. Es lo que te sugeriría.}
 {197}{}{Navarro es relativamente nueva y aún no dispone de todo su personal. Mis fuentes señalan que reciben nuevos reclutas de vez en cuando. Tal vez podrías presentarte solo y como un recién llegado. Es lo que te sugeriría. Podrías dejar aquí a tus amigos esperando.}
-{198}{}{De acuerdo.}
+{198}{}{Vale.}
 {199}{}{¿Fuentes? ¿Dicen fuentes?}
 {200}{}{De acuerdo.}
 {201}{}{Has mencionado unas 'fuentes'. ¿Quienes son?}

@@ -266,8 +266,8 @@
 {24900}{}{Fieser Zentaur}
 {25000}{}{Enklaven-Patrouille}
 {25100}{}{Enklaven-Patrouille}
-{25200}{}{Preßpatrouille}
-{25300}{}{Preßpatrouille}
+{25200}{}{Presspatrouille}
+{25300}{}{Presspatrouille}
 {25400}{}{Söldner}
 {25500}{}{Söldner}
 {25600}{}{Nightkin}
@@ -499,4 +499,4 @@
 {48100}{}{Besonderer Gecko}
 {48200}{}{Sensenmann}
 {48300}{}{Frank Horrigan}
-{48301}{}{The President's Body Guard.}
+{48301}{}{Der Bodyguard des Präsidenten}

@@ -288,6 +288,7 @@
 {187}{}{ strains her back while trying to bust the lock and takes }
 {188}{}{ points of damage.}
 
+{601}{}{It is open, dummy.}
 #############################################################
 #  Damage done to the door due to explosives.               #
 #############################################################
@@ -299,13 +300,13 @@
 #############################################################
 
 {203}{}{The door appears to be locked.}
-{204}{}{You notice a trap in the door jam.}
+{204}{}{You notice a trap in the door jamb.}
 
 # NPC finds trap
 # The following line is to be translated as:
-# NPC notices a trap in the door jam.
+# NPC notices a trap in the door jamb.
 
-{205}{}{ notices a trap in the door jam.}
+{205}{}{ notices a trap in the door jamb.}
 
 #############################################################
 #  Setting traps on a door and whether the door is open or  #
@@ -327,6 +328,11 @@
 # NPC tries to set a trap on a closed door
 {210}{}{ skillfully sets a trap in the door frame.}
 {211}{}{ fails to properly set the trap in the door frame.}
+
+# PC critically fails to set a trap
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+# NPC critically fails to set a trap
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}
 
 {300}{}{You unlock the door.}
 {301}{}{You lock the door.}

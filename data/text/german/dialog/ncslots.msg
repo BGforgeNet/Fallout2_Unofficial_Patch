@@ -1,6 +1,6 @@
 {100}{}{Du siehst einen Spielautomaten.}
 {101}{}{Du siehst einen glitzernden Spielautomaten.}
-{150}{}{Du siehst einen Spielautomaten. Du könntest schwören, aus den Augenwinkeln zu sehen, daß er dich anschaut.}
+{150}{}{Du siehst einen Spielautomaten. Du könntest schwören, aus den Augenwinkeln zu sehen, dass er dich anschaut.}
 {151}{}{Du siehst einen Spielautomaten. Der glänzende Rahmen und der goldene Hebel blitzen verführerisch im Glanz der Lichter von New Reno.}
 {152}{}{Du siehst einen glitzernden Spielautomaten. Er ist für Spieler, denen das Geld locker sitzt...der Mindesteinsatz beträgt }
 {153}{}{ Kröten.}
@@ -59,7 +59,7 @@
 {241}{}{Ist heute wohl dein Tag.}
 {245}{}{Die Felder drehen sich und...du hast verloren.}
 {246}{}{NICHTS. VERLOREN! Du hörst den Automaten lachen und wirst wütend...die Rausschmeißer müssen dein schreiendes Ego gewaltsam vom Automaten trennen.}
-{247}{}{(Der Automat kichert.) *Ich hab bekommen, was ich mir von dieser Beziehung erhofft habe. Tut mir leid, Schätzchen. Paß auf, daß dir die Kasinotür beim Rausgehen nicht auf den Hintern knallt. Ha ha ha ha ha ha.*}
+{247}{}{(Der Automat kichert.) *Ich hab bekommen, was ich mir von dieser Beziehung erhofft habe. Tut mir leid, Schätzchen. Pass auf, dass dir die Kasinotür beim Rausgehen nicht auf den Hintern knallt. Ha ha ha ha ha ha.*}
 {248}{}{Du hast jetzt noch}
 {249}{}{ Chips. Willst du deinen Verlust aufholen und weiterspielen?}
 {250}{}{Du hast }
@@ -104,7 +104,7 @@
  flüstert dir eine aufregende männliche Stimme aus dem Einwurfschlitz zu.) *Du bist die
  faszinierendste Frau, die ich je gesehn hab. Willste dein Glück versuchen?*}
 {307}{}{::Zwick dich selbst::}
-{308}{}{Uh... hello?}
+{308}{}{Äh... Hallo?}
 {309}{}{::Hol tief Luft, geh weiter.:: }
 {315}{}{*Ich bin immer noch hier, schöne Frau.* (Der Spielautomat senkt seine Stimme.) *Na komm 
  schon...willste 'n Spielchen wagen?*}
@@ -114,7 +114,7 @@
 {319}{}{Ich geh jetzt besser, bevor ich dir noch was reinschiebe, was ich später bereue.}
 {320}{}{::Hol tief Luft, geh weiter.:: }
 {325}{}{*Ich bin der Mann für dich.* (Der Spielautomat zwinkert dir zu.) *Gib mir 'n paar Chips und ich mach dich so glücklich wie noch KEIN Mann das hingekriegt hat.*}
-{326}{}{*Ich bin die Frau für dich, Süßer. Brauch nur 'n bißchen Aufmerksamkeit. Kannste mir da nicht helfen? Los, nur einen oder zwei Chips?*}
+{326}{}{*Ich bin die Frau für dich, Süßer. Brauch nur 'n bisschen Aufmerksamkeit. Kannste mir da nicht helfen? Los, nur einen oder zwei Chips?*}
 {327}{}{Könn' wir nich' einfach reden?}
 {328}{}{Klaaar, ich wagen Spiiieelchen.}
 {329}{}{Ich geh jetzt besser, bevor ich dir noch was reinschiebe, was ich später bereue.}
@@ -128,7 +128,7 @@
  ...*schnief*}
 {339}{}{Ich müssen großes Schiff reparieren...und nicht wissen WIE...und mei-mei-meine Mama WEG,
  und....*schnief*}
-{340}{}{Des Spiel is' aus...un' jetz' lauf ich einfach rum...un' Angst, daß jetz' alles AUS is'
+{340}{}{Des Spiel is' aus...un' jetz' lauf ich einfach rum...un' Angst, dass jetz' alles AUS is'
  ...*schnief*}
 {341}{}{Ach, Fhallaut swei unterstützt meine 3D Fxxxx-Karte nich' und ich hab so viel *Moneten*
  dafür ausgegeben und...*schnief*}
@@ -137,9 +137,9 @@
 {343}{}{Wenn ich schon mit Spiehlautomaten red, mussich echt ziiiemlich üübel dran sein.}
 {344}{}{::Hol tief Luft, geh weiter.:: }
 {350}{}{*Schon gut...zerbrich dir deinen hübschen kleinen Kopf nicht länger... ich werd mich um
- alles kümmern. Komm, leg deinen Kopf hierher. Schon gut, laß es raus.*}
-{351}{}{* Schon gut...du mußt dir keine Gedanken mehr machen, Kleiner... ich werd mich um alles
- kümmern. Komm, leg deinen Kopf hierher. Schon gut, laß es raus.*}
+ alles kümmern. Komm, leg deinen Kopf hierher. Schon gut, lass es raus.*}
+{351}{}{* Schon gut...du musst dir keine Gedanken mehr machen, Kleiner... ich werd mich um alles
+ kümmern. Komm, leg deinen Kopf hierher. Schon gut, lass es raus.*}
 {352}{}{Danke, Spielautomaat *schnief* du bis' echt klasse}
 {353}{}{Duu bis' die einsig NETTE Persoon, die mir begegnet is'. Bisheer warn alle andern gans gemein un' wollten mir WEH tun un' mein Gelt ham un'...*schnief*}
 {354}{}{::Hol tief Luft, geh weiter.:: }
@@ -149,9 +149,9 @@
 {363}{}{Bin schon OK...Danke förs Geschpräch, Spiiielautomaat, du bis' soooo nett!}
 {370}{}{(In einem der Fenster scheint sich eine Träne zu bilden.)}
 {371}{}{*Du bist die einzige Heldin, die wir in dieser miesen Welt voller Mistkerle und Diebe haben, }
-{372}{}{. Jetzt paß gut auf dich auf, hörst du, Süße?* (Wendet sich ab.) *Geh jetzt besser, bevor ich noch was Unmännliches tue.*}
+{372}{}{. Jetzt pass gut auf dich auf, hörst du, Süße?* (Wendet sich ab.) *Geh jetzt besser, bevor ich noch was Unmännliches tue.*}
 {373}{}{*Du bist der einzige Held, den wir in dieser miesen Welt voller Mistkerle und Diebe haben, }
-{374}{}{. Du...du...paßt jetzt gut auf dich auf, hörst du, Süßer?* (Wendet sich ab.) *Geh jetzt lieber, sonst fang ich noch an zu heulen.*}
+{374}{}{. Du...du...passt jetzt gut auf dich auf, hörst du, Süßer?* (Wendet sich ab.) *Geh jetzt lieber, sonst fang ich noch an zu heulen.*}
 {375}{}{Tschüüüß}
 {380}{}{Du siehst einen Spielautomaten der Spitzenklasse - Mindesteinsatz ist }
 {381}{}{ Chips. Du siehst einen Spielautomaten. Sein glitzernder Rahmen und der goldene Hebel blitzen verführerisch im Glanz der Lichter von New Reno. Sein Münzschlitz glitzert einladend und du fühlst, wie dir vor Erregung ganz heiß wird.}
@@ -168,13 +168,13 @@
 {392}{}{Ist heute wohl dein Tag.}
 {400}{}{Die Felder drehen sich und...du hast verloren.}
 {401}{}{NICHTS. VERLOREN! Du hörst ihr Lachen und wirst wütend...die Rausschmeißer müssen dein schreiendes Ego gewaltsam vom Automaten trennen.)}
-{402}{}{(Der Automat kichert.) *Ich hab bekommen, was ich mir von dieser Beziehung erhofft habe. Tut mir leid, Schätzchen. Paß auf, daß dir die Kasinotür beim Rausgehen nicht auf den Hintern knallt. Ha ha ha ha ha ha.*}
+{402}{}{(Der Automat kichert.) *Ich hab bekommen, was ich mir von dieser Beziehung erhofft habe. Tut mir leid, Schätzchen. Pass auf, dass dir die Kasinotür beim Rausgehen nicht auf den Hintern knallt. Ha ha ha ha ha ha.*}
 {403}{}{Du hast jetzt noch}
 {404}{}{ Chips. Willst du deinen Verlust aufholen und weiterspielen?}
 {405}{}{Du hast }
 {406}{}{ Chips übrig. Alles riskieren?}
-{407}{}{Du kannst es dir nicht leisten, weiterzuspielen. Du mußt aufhören.}
-{408}{}{Du kannst es dir nicht leisten, weiterzuspielen. Du mußt aufhören.}
+{407}{}{Du kannst es dir nicht leisten, weiterzuspielen. Du musst aufhören.}
+{408}{}{Du kannst es dir nicht leisten, weiterzuspielen. Du musst aufhören.}
 {409}{}{Ist heute wohl deinen Nacht.}
 {410}{}{Ist heute wohl dein Tag.}
 {415}{}{Drei Bomben...du kannst ausgleichen.}

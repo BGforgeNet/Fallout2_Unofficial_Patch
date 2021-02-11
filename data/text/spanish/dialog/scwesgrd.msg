@@ -19,7 +19,7 @@
 {118}{}{¿Qué tratos tienes con el señor Westin?}
 {119}{}{Necesito trabajo yo.}
 {120}{}{Sólo quiero charlar.}
-{121}{}{Uh...}
+{121}{}{Eh...}
 {122}{}{No importa.}
 {123}{}{Estoy buscando trabajo y he oído que está contratando gente.}
 {124}{}{Me gustaría charlar con el señor Westin.}

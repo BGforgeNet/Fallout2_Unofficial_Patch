@@ -60,7 +60,7 @@
 {921}{}{Y mi imaginación hará vivir este momento…}
 {923}{}{Dame lo que sólo tú puedes darme}
 {925}{}{::Trompeteo con la boca::}
-{930}{}{I'll... be with yoooou}
+{930}{}{Voy a... estar con yoooou}
 {933}{}{Ohhhh}
 {935}{}{Labios un sólo momento}
 {937}{}{Harán vivir ese momento}

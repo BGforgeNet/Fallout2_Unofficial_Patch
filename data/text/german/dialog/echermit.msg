@@ -7,7 +7,7 @@
 {106}{}{Agh.}
 {107}{}{Ich mein Ruh ham.}
 {108}{}{Nachdem ich nun schon da bin, können wir ja vielleicht was tauschen. Ich bin sicher, ich hab was, was du gern hättest.}
-{109}{}{Dann laß ich dich mal in Ruh.}
+{109}{}{Dann lass ich dich mal in Ruh.}
 {110}{}{Tausch. Dann verschwinden du wirst.}
 {111}{}{OK, das hab ich anzubieten.}
 {112}{}{Ich glaub, ich geh besser.}

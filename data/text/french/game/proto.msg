@@ -138,10 +138,10 @@
 {596}{}{La voiture a déjà fait le plein d'énergie.}
 {597}{}{L'entrée semble être bloquée.}
 {620}{}{Tu gagnes %d points d'expérience pour avoir tué : %s.}
-{621}{}{%s, tu gagnes %d points d'exp.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{Pour avoir tenu tes ennemis en échec}
 {623}{}{Pour avoir décimé tes adversaires}
-{624}{}{Tu es le vainqueur du combat}
+{624}{}{For being victorious in combat,}
 {625}{}{Pour avoir écrasé tes ennemis}
 {626}{}{Pour avoir anéanti tes ennemis sans une égratignure}
 {650}{}{[Terminé]}

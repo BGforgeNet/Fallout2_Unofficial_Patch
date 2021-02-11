@@ -11,6 +11,6 @@
  lebendem Dogmeat zu beenden.}
 {108}{}{Er sperrte ihn auf jeder Ebene in einen Raum mit Kraftfeld, um ihn vom Kampf
  fernzuhalten.}
-{109}{}{Das Schwierige war, es auf jeder Ebene zu tun, ohne daß die Mutanten Dogmeat
+{109}{}{Das Schwierige war, es auf jeder Ebene zu tun, ohne dass die Mutanten Dogmeat
  fertigmachten.}
 {110}{}{Ich glaub, er hat's geschafft.}

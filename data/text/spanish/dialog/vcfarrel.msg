@@ -25,7 +25,7 @@
 {124}{}{¿Sí, qué pasa?}
 {125}{}{¿yo ayudo tuuuuu?}
 {126}{}{Dejas de balbucear}
-{127}{}{¿Qué es este lugar?}
+{127}{}{¿Qué lugar es éste?}
 {128}{}{¿Puedo ver lo que tienes a la venta?}
 {129}{}{Hoy nada, gracias.}
 {130}{}{Genial, otro forastero... ¡guardias! ¡Tenemos un forastero al que hay que escoltar a la entrada!

@@ -265,15 +265,15 @@ procedure Node990 begin
    end
 end
 procedure Node989 begin
-   set_global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 97); //fix by killap: was set_global_var(global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 497);
+   set_global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 97);
    call Node012;
 end
 procedure Node988 begin
-   set_global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 98); //fix by killap: was set_global_var(global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 498);
+   set_global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 98);
    call Node012;
 end
 procedure Node987 begin
-   set_global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 99); //fix by killap: was set_global_var(global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 499);
+   set_global_var(GVAR_NEW_RENO_PRIZEFIGHTER, 99);
    call Node012;
 end
 procedure Node986 begin

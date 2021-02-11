@@ -41,20 +41,20 @@
 {142}{}{Hier ist sie! Ich präsentiere die MUMIE! (eine gruftähnliche Tür öffnet sich und gibt den Blick auf eine wahrhaftige ägyptische Mumie in einem offenen Sarkophag frei, der so wirkt, als sei er aus purem Gold gemacht!)}
 {143}{}{Hey, warte mal. Das ist keine Mumie sondern ein Ghul. WOODY! Hey WOODY! Bist Du das?}
 {144}{}{Für mich sieht das aus wie ein Ghul.}
-{145}{}{Soll das eine Mumie sein? Ich kann nicht glauben, daß ich gerade $25 gezahlt habe, um ein sechs Fuß großes Stück Dörrfleisch zu sehen. Auf Wiedersehen.}
+{145}{}{Soll das eine Mumie sein? Ich kann nicht glauben, dass ich gerade $25 gezahlt habe, um ein sechs Fuß großes Stück Dörrfleisch zu sehen. Auf Wiedersehen.}
 {146}{}{Mann, das ist ja fantastisch...glaube ich. (Du schaust dir die Mumie eine Weile sehr aufmerksam an.) Äh, Danke, Auf Wiedersehen.}
 {147}{}{(die Mumie schnaubt, dehnt sich träge und schaut Dich dann schläfrig an) Hallo. (sagt er schläfrig)}
 {148}{}{Verdammter Mist! Das *ist* Woody! Lauf Woody, lauf los! Naja, äh, humpel los! Los Woody los!}
-{149}{}{Ich versichere Dir, daß die Mumie in der Tat ziemlich wahrhaftig ist.}
+{149}{}{Ich versichere Dir, dass die Mumie in der Tat ziemlich wahrhaftig ist.}
 {150}{}{Irgendwie nehme ich Dir das nicht ab. WOODY! Hey WOODY! Bist Du das?}
-{151}{}{Tja, wenn Du das sagst. Ich finde aber trotzdem, daß sie wie ein normaler Ghul aussieht. Auf Wiedersehen.}
+{151}{}{Tja, wenn Du das sagst. Ich finde aber trotzdem, dass sie wie ein normaler Ghul aussieht. Auf Wiedersehen.}
 {152}{}{(Woody -- das Wesen, das da ziemlich schläfrig vor Dir steht, ist auf jeden Fall Woody und keine Mumie, -- greift nach den Seiten des Pappmache-Sarkophags, 
  
-stößt einen Schrei aus und rennt zur Tür, wobei seine Mumienverpackung eine Spur aus Toilettenpapier hinterläßt, während
+stößt einen Schrei aus und rennt zur Tür, wobei seine Mumienverpackung eine Spur aus Toilettenpapier hinterlässt, während
  hinter ihm ein hastiges "Viiielen Dank, Fremder" ertönt.)}
-{153}{}{Aha! Ich hab's gewußt! Du bist erledigt in dieser Stadt. Du bist keine Sekunde länger der Große Ananias, sondern bloß ein weiteres Arschloch.}
-{154}{}{Los Woody los! Aha! Ich hab's gewußt!}
-{155}{}{(Der Große Ananias zuckt mit den Schultern) Ich wußte, ich hätte besser das einköpfige Brahmin nehmen sollen. Naja, dann wieder zurück auf Anfang.}
+{153}{}{Aha! Ich hab's gewusst! Du bist erledigt in dieser Stadt. Du bist keine Sekunde länger der Große Ananias, sondern bloß ein weiteres Arschloch.}
+{154}{}{Los Woody los! Aha! Ich hab's gewusst!}
+{155}{}{(Der Große Ananias zuckt mit den Schultern) Ich wusste, ich hätte besser das einköpfige Brahmin nehmen sollen. Naja, dann wieder zurück auf Anfang.}
 {156}{}{Einköpfiges Brahmin? Klar, wer würde das jemals glauben! Auf Wiedersehen, Du Scharlatan.}
 {157}{}{Du hast Woody den Ghul aufgeweckt und ihn von seiner vertraglichen Verpflichtung als Mumie befreit.}
 {158}{}{Ich glaube, ich möchte lieber die Geistergeschichte hören.}
@@ -62,7 +62,7 @@ stößt einen Schrei aus und rennt zur Tür, wobei seine Mumienverpackung eine Spur
 {201}{}{Erzähl mir von der Mumie. Ich sterbe vor Spannung.}
 {202}{}{Ich habe mir gerade schon diese Geistergeschichte angehört. Äh, bekomme ich dazu eine schöne heiße Tasse Kakao?}
 {203}{}{Ich glaube, ich möchte keine Sekunde länger mit Deinen Geschichten verschwenden.}
-{300}{}{Tja, Du mußt wissen, (er winkt Dich näher heran) einst   gab es eine mächtige Königin, die über diese Stadt und das gesamte Umland regierte. Sie behauptete ihren Thron mit der Kraft eines besonderen Amuletts, welches sie stets um ihren Hals trug.
+{300}{}{Tja, Du musst wissen, (er winkt Dich näher heran) einst   gab es eine mächtige Königin, die über diese Stadt und das gesamte Umland regierte. Sie behauptete ihren Thron mit der Kraft eines besonderen Amuletts, welches sie stets um ihren Hals trug.
  Gute Geschichte, was?}
 {301}{}{Äh, ja. Darauf kannst Du wetten. Diese Prinzessin hatte also ein *magisches* Amulett. Oh, erzähl weiter. Ich kann diese Spannung nicht mehr ertragen
  (gähn).}
@@ -70,6 +70,6 @@ stößt einen Schrei aus und rennt zur Tür, wobei seine Mumienverpackung eine Spur
 {400}{}{Naja, ich verkürze das Ganze dann mal. Also, ein böser Zauberer vergiftete die junge Prinzessin und nahm das Amulett an sich. Seitdem wandert sie im Zimmer nebenan umher.
  Tja, äh, auf jeden Fall passiert das immer genau zur Geisterstunde. Darum halte ich die Tür immer verschlossen.
  Ganz schön angsteinflößend, was?}
-{401}{}{Der Geist einer amulettlosen Prinzessin ist in dem schäbigen Zimmer nebenan? Ich kann nicht glauben, daß Du *das* eine gute Geschichte nennst.
+{401}{}{Der Geist einer amulettlosen Prinzessin ist in dem schäbigen Zimmer nebenan? Ich kann nicht glauben, dass Du *das* eine gute Geschichte nennst.
  Da höre ich mir lieber etwas über diese blöde Mumie an, die Du angeblich hier hast.}
 {402}{}{OK. Ich glaube, ich habe jetzt genug gehört. Auf Wiedersehen.}

@@ -1,5 +1,6 @@
 {100}{}{Eine Riesenapparatur.}
-{101}{}{The air purifier is making clunking and creaking noises. It appears to be broken. Maybe it needs a part...}
+{101}{}{Der Luftreiniger gibt komisch knarrende Geräusche von sich. Er scheint kaputt zu sein.
+ Vielleicht braucht er ein Ersatzteil.}
 {102}{}{Der Luftreiniger summt leise. Er scheint voll funktionstüchtig zu sein.}
 {110}{}{Mit diesem Teil kann man das unmöglich reparieren.}
 {120}{}{Du hast den Luftreiniger repariert.}

@@ -30,8 +30,8 @@
 {129}{}{¿Cómo llego allí?}
 {130}{}{¿Cómo llego hasta allí?}
 {131}{}{Buscando... accediendo a directorio de transporte. Datos adquiridos. Archivos de transporte indican que 1.257 métodos pueden usarse para alcanzar el cuartel general del Enclave. Sin embargo, los registros también indican que sólo 2 de dichos métodos se encuentran actualmente disponibles. Transporte por vertibird, que puede conseguirse en el puesto de avanzada de Navarro. Transporte por barco, que puede conseguirse en el puerto de San Francisco. Por favor, comprenda que el transporte por barco ha sido clasificado como inaccesible debido al acta de seguridad 9837-334-27A. El barco ha sido deshabilitado y una clave de acceso es necesaria para la reactivación. En la actualidad, el comandante del puesto de avanzada de Navarro tiene en su poder dicha clave de acceso.}
-{132}{}{De acuerdo.}
-{133}{}{Entiendo.}
+{132}{}{Vale.}
+{133}{}{Entendido.}
 {134}{}{Buscando... accediendo a los archivos de arquitectura de la base. Datos conseguidos. La armería se encuentra localizada en el subterráneo del cuadrante noroeste de la base.}
 {135}{}{Lo pillo.}
 {136}{}{Sí, lo pillo.}

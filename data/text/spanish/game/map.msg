@@ -35,11 +35,11 @@
 {134}{}{error:Map Name}
 {135}{}{error:Map Name}
 {136}{}{error:Map Name}
-{137}{}{El Eje}
-{138}{}{El Eje}
-{139}{}{El Eje}
-{140}{}{El Eje}
-{141}{}{El Eje}
+{137}{}{Eje}
+{138}{}{Eje}
+{139}{}{Eje}
+{140}{}{Eje}
+{141}{}{Eje}
 {142}{}{El Ardor}
 {143}{}{El Ardor}
 {144}{}{Cementerio}

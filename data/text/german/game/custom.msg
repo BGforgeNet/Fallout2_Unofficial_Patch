@@ -3,15 +3,15 @@
 {2}{}{Bevorzugte Waffe}
 {3}{}{Abstand}
 {4}{}{Wen angreifen}
-{5}{}{Drug Use}
+{5}{}{Drogengebrauch}
 {10}{}{[Fertig]}
 {11}{}{Abbrechen}
 {99}{}{Nicht anwendbar}
 {100}{}{Immer!}
-{101}{}{Manchmal, mach dir keine Sorgen, daﬂ du mich triffst}
+{101}{}{Manchmal, mach dir keine Sorgen, dass du mich triffst}
 {102}{}{Triff mich ja nicht}
-{103}{}{Paﬂ auf, daﬂ du mich nicht triffst}
-{104}{}{Sei ganz sicher, daﬂ du mich nicht triffst}
+{103}{}{Pass auf, dass du mich nicht triffst}
+{104}{}{Sei ganz sicher, dass du mich nicht triffst}
 {200}{}{J‰mmerlicher Feigling}
 {201}{}{Dein Finger schmerzt}
 {202}{}{Du blutest etwas}
@@ -37,5 +37,5 @@
 {600}{}{Ich bin sauber}
 {601}{}{Stimpaks, wenn etwas verletzt}
 {602}{}{Stimpaks, wenn schwer verletzt}
-{603}{}{Any drug some of the time}
-{604}{}{Any drug any time}
+{603}{}{Gelegentlich irgendeine Droge}
+{604}{}{Jederzeit irgendeine Droge}

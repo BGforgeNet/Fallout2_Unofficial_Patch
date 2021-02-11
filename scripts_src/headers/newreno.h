@@ -729,8 +729,9 @@ variable check_still_kill;
                                                          clear_guard_assignment                       \
                                                       end else if (x == family_bishop) then begin     \
                                                          off_bishop_permission                        \
-                                                         if (global_var(GVAR_MOORE_ACCEPT_DELIVERY) > 0) then begin  \
-                                                            set_briefcase_flag(4); /*added by killap - 4 means failed */ \
+                                                         /* To make sure delivery quest gets crossed off and Moore doesn't remind about it anymore */ \
+                                                         if (global_var(GVAR_MOORE_ACCEPT_DELIVERY) == ACCEPT_DELIVERY_ASSIGNED) then begin  \
+                                                            set_briefcase_flag(ACCEPT_DELIVERY_FAILED); \
                                                          end                                          \
                                                          clear_snuff_carlson                          \
                                                          clear_snuff_westin                           \

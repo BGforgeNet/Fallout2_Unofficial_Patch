@@ -17,7 +17,7 @@
 {116}{}{¿Dónde planos vertibird?}
 {118}{}{¿Dónde es base de Enclave?}
 {119}{}{Gracias. Vuelvo a puesto de yo.}
-{120}{}{¿Qué pasa por aquí?}
+{120}{}{¿Qué está pasando aquí?}
 {121}{}{Me interesan los vertibird. Si quisiera echar un vistazo a los planos, ¿dónde podría encontrarlos?}
 {123}{}{¿Dónde está la base principal del Enclave?}
 {124}{}{Gracias. Tengo que volver a mi puesto.}
@@ -34,17 +34,17 @@
 {135}{}{¿Ocurre algo más?}
 {136}{}{Ya he oído suficiente, creo.}
 {137}{}{A Raúl, el mecánico de los vertibird, no le gusta Quincy, el jefe de mantenimiento. Esos dos siempre están de bronca y no creo que sea un caso de rivalidad profesional. De todos modos, Raúl es un idiota arrogante pero Quincy es un tío majo. Espero que gane él al final.}
-{138}{}{De acuerdo.}
+{138}{}{Vale.}
 {139}{}{Sí, te escucho.}
 {140}{}{El laboratorio médico ha sido ocupado por un cerebrín del Enclave llamado Schreber. Maldito hijo de puta; no le importa nada ni nadie. Ha estado haciendo alguna clase de experimentos con Garras mortales ahí abajo, pero no sé exactamente el qué. Eso sí, estaba haciendo toda clase de ruidos hasta que el comandante ordenó que insonorizaran la habitación.}
-{141}{}{Entiendo.}
+{141}{}{Entendido.}
 {142}{}{Interesante.}
 {143}{}{¡Ja! Hablamos de amor, amigo. Parece que uno de los frikis de los ordenadores está coladito por una de las reclutas, la guardia del laboratorio médico. Incluso tiene uno de esos nombres cursis para ella. La llama su "Caramelito".}
 {144}{}{Qué cursi.}
 {145}{}{No, eso es todo. Si oigo algo ya te lo contaré. ¡Me gusta tanto hablar de ello como que me lo cuenten!}
 {146}{}{Gracias.}
 {147}{}{¿Por qué estás interesado en eso? Oh bueno, no importa, Quincy los guarda en mantenimiento, creo.}
-{148}{}{De acuerdo.}
+{148}{}{Vale.}
 {149}{}{¿Dónde?}
 {150}{}{Ya veo.}
 {151}{}{¿Dónde?}
@@ -69,7 +69,7 @@
 {172}{}{Hijo, puedo decirte por el olor que no estás llevando una de esas servoarmaduras. Como el Sargento te pille estás jodido. Y no hablo de la jodienda que da gustito. Ve cagando leches a intendencia y vístete.}
 {173}{}{Señorita, puedo decirte por el olor que no llevas una de esas servoarmaduras. Si el Sargento te pilla estás jodida. Y no hablo de ese tipo de jodienda. Ve cagando leches a intendencia y vístete.}
 {174}{}{¿Dónde?}
-{175}{}{De acuerdo.}
+{175}{}{Vale.}
 {176}{}{¿Dónde?}
 {177}{}{Me ocuparé de ello.}
 {178}{}{Toma el ascensor de la siguiente habitación, sigue el pasillo hasta el cruce principal, gira a la izquierda, y es la primera puerta a la izquierda. Ahí está.}

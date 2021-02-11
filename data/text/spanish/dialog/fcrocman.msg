@@ -6,7 +6,7 @@
 {108}{}{¿Uh?}
 {109}{}{Tengo una carta para AHS-9. ¿Dónde la puedo dejar?}
 {110}{}{Soy }
-{111}{}{Nadie que te importe.}
+{111}{}{No es asunto tuyo.}
 {112}{}{Quiero unirme a los Hubologistas.}
 {113}{}{¿Quién eres TÚ? ¿Y qué estás haciendo TÚ aquí?}
 {114}{}{Nada. Adiós.}
@@ -18,13 +18,13 @@
 {120}{}{Vale, vale. No hay necesidad de ponerse irritable.}
 {121}{}{En realidad, sí es de mi incumbencia. Esta es mi nave, y estos son mis guardias. Y ahora, ¿quién eres y qué estás haciendo aquí?}
 {122}{}{Soy }
-{123}{}{Nadie que te importe.}
+{123}{}{No es asunto tuyo.}
 {124}{}{Quiero unirme a los Hubologistas.}
 {125}{}{¿Quién eres TÚ? ¿Y qué estás haciendo TÚ aquí?}
 {126}{}{Nada. Adiós.}
 {127}{}{Soy Harry. Soy el técnico jefe del transbordador.}
 {128}{}{Soy }
-{129}{}{Nadie que te importe.}
+{129}{}{No es asunto tuyo.}
 {130}{}{Quiero unirme a los Hubologistas.}
 {131}{}{Nada. Adiós.}
 {132}{}{No estás dispuesto a cooperar, ¿eh? ¡Guardias! ¡Matad al intruso!}

@@ -3,7 +3,7 @@
 {102}{}{Sicher.}
 {103}{}{Ich hab nichts, womit ich 'n Geschäft machen könnte. Tut mir leid.}
 {104}{}{Buhga.}
-{105}{}{Das nenn ich Glück. Du kannst nicht sprechen, oder? Kannst nicht sprechen und deshalb auch niemand sagen, wo mein Claim is'. Laß uns 'n Geschäft machen.}
+{105}{}{Das nenn ich Glück. Du kannst nicht sprechen, oder? Kannst nicht sprechen und deshalb auch niemand sagen, wo mein Claim is'. Lass uns 'n Geschäft machen.}
 {106}{}{[Tauschen]}
 {107}{}{OK, zieh Leine! Aber erzähl du mal besser keinem, wo mein Claim ist.}
 {108}{}{[Ende]}
@@ -11,9 +11,9 @@
 {110}{}{Es gibt nichts mehr zu sagen.}
 {111}{}{Los, los!}
 {112}{}{Los, schnappt sie euch, Jungs.}
-{113}{}{Kann nich' zulassen, daß du jedem erzählst, wo mein Claim is'.}
+{113}{}{Kann nich' zulassen, dass du jedem erzählst, wo mein Claim is'.}
 {114}{}{Warum haste mich angegriffen?}
-{115}{}{Jetzt muß ich dich töten.}
+{115}{}{Jetzt muss ich dich töten.}
 {116}{}{Ich wollt doch nur 'n paar Vorräte.}
 {117}{}{Nimm mein Claim!}
 {118}{}{Gnade!}

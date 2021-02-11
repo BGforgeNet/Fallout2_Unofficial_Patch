@@ -119,7 +119,7 @@
 {233}{}{Diablos, sí. Hagámoslo.}
 {234}{}{Caray. Eso es… caro. Deja que me lo piense.}
 {235}{}{::agita la cabeza:: No juegues conmigo. Te faltan ingredientes necesarios. Escúchame con más atención la próxima vez. Ahora vete, y vuelve cuando pueda ayudarte.}
-{236}{}{De acuerdo.}
+{236}{}{Vale.}
 {237}{}{¡Ahí lo tienes! Estás… mejorado. Recuerda… no te arranques las costras a menos que quieras añadir alguna horrible cicatriz a tu ahora no demasiado agradable apariencia.}
 {238}{}{Gracias, doc. Hasta luego.}
 {239}{}{Tengo el dinero para el bazo.}

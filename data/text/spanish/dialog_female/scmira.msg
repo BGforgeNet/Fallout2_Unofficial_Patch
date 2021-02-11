@@ -7,7 +7,7 @@
 {106}{}{¿Refugio 13?}
 {107}{}{GECK?}
 {108}{}{No me importa. Dame el especial de la casa.}
-{109}{}{Gimme a beer.}
+{109}{}{Dame una cerveza.}
 {110}{}{Información.}
 {111}{}{Estoy buscando trabajo.}
 {112}{}{¡Bien, no eres la única! Es sólo la forma en que me gustan.}
@@ -22,10 +22,10 @@
 {121}{}{Sí.}
 {122}{}{No.}
 {123}{}{¡Sirviendo un Radesperdicio! 10 dólares.}
-{124}{}{De acuerdo.}
+{124}{}{Vale.}
 {125}{}{¿Diez pavos? Demasiado para mí.}
 {126}{}{Claro, un pavo.}
-{127}{}{De acuerdo.}
+{127}{}{Vale.}
 {128}{}{Demasiado dinero para mí.}
 {129}{}{Puedes probar con Merk, en la sala de ahí atrás.}
 {130}{}{Aquí no hay nada para ti, forastera.}
@@ -93,7 +93,7 @@
 {192}{}{Ahora no mucho. Lo he matado.}
 {193}{}{¿Bromeas? Esa es la mejor noticia que he tenido en todo el día! Espero que su cerebro creara una bonita pintura para la pared. Ese maldito psicópata se lo merecía. Ten un Radesperdicio a mi cuenta.}
 {194}{}{Gusta.}
-{195}{}{Marcho ahora.}
+{195}{}{Yo irme ahora.}
 {196}{}{Gracias, supongo. Oye, ¿tienes un momento para una pregunta?}
 {197}{}{Gracias. Sólo pensé que deberías saberlo.}
 {198}{}{¿Lo hiciste? Oh, si no estuviera de servicio, saltaría por encima de esta barra y... bien, te besaría. El muy cabrón se lo merecía. De hecho, no se lo digas a nadie pero estaba esperando que algún tipo duro con pocas luces hiciera el trabajo por mí. Hasta tenía una pequeña recompensa guardada para ello.  Ahora es tuya: en lo que a mí respecta, te la has ganado.}

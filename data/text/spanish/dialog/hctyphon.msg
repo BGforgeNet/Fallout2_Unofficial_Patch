@@ -106,7 +106,7 @@
 {204}{}{Pues no. Tengo más preguntas.}
 {205}{}{Pues no. Adiós.}
 {206}{}{Bien, sigue buscando. Al final lo conseguirás.}
-{207}{}{De acuerdo.}
+{207}{}{Vale.}
 {208}{}{Supongo. Adiós.}
 {209}{}{¿Qué tal el tesoro, chico?}
 {210}{}{¡Malo! ¡Chapas!}

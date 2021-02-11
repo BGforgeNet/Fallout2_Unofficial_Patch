@@ -1,30 +1,30 @@
 {100}{}{Du siehst eines der Kinder von Klamath.}
 {101}{}{Du siehst eines der Kinder von Klamath.}
-{150}{}{Friß mich nicht!}
+{150}{}{Friss mich nicht!}
 {151}{}{Iiihh! Der schwarze Mann!}
-{152}{}{Papa sagt, daß du böse bist.}
+{152}{}{Papa sagt, dass du böse bist.}
 {153}{}{Iiiihh! Schnell weg!}
 {154}{}{Du machst mir Angst.}
 {155}{}{Schau mich nicht so an.}
 {156}{}{Ich soll nicht mit Wilden reden.}
 {157}{}{Du bist genau wie die Duntons.}
-{158}{}{Meine Mama sagt, du frißt mich, wenn ich böse bin.}
+{158}{}{Meine Mama sagt, du frisst mich, wenn ich böse bin.}
 {159}{}{Ich hab keine Angst vor dir!}
 {160}{}{Hiiilfe!}
 {161}{}{Es verfolgt mich!}
 {162}{}{Tu mir bitte nicht weh!}
-{163}{}{Faß mich nicht an!}
+{163}{}{Fass mich nicht an!}
 {164}{}{Iiiiiiiihhhh!}
 {165}{}{Ich hasse dich!}
 {166}{}{Mami, Mami, Mami!}
-{167}{}{Laß mich in Ruh!}
+{167}{}{Lass mich in Ruh!}
 {168}{}{Du stinkst!}
 {170}{}{Hey da.}
 {171}{}{Magst du mit mir spielen?}
 {172}{}{Steckst du dir wirklich einen Knochen durch die Nase?}
 {173}{}{Warum siehst du so komisch aus?}
 {174}{}{Meine Mama sagt, du bist primitiv.}
-{175}{}{Frißt dein Stamm keine Menschen mehr?}
+{175}{}{Frisst dein Stamm keine Menschen mehr?}
 {176}{}{Wer hat dich so komisch angezogen?}
 {177}{}{Du bist bestimmt netter als du aussiehst.}
 {178}{}{Spielen wir Fangen. Du bist dran.}

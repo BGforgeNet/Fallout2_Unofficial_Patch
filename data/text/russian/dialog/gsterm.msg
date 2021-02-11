@@ -22,7 +22,7 @@
 {150}{}{Fl>)$#_~)u-*+$#_+@#$%-0? %#$ (dkhdsdsklfjsd? Идет загрузка Win21, пожалуйста, подождите... Команда Pear OS не распознана. Начато форматирование жесткого диска.}
 {151}{}{Хммм. Ок?}
 {152}{}{Afjasdfaa kljkljl;jljljj?}
-{160}{}{Робот техобслуживания реактора готов к инициализации/началу работы. Введите рабочий код доступа?:}
+{160}{}{Робот техобслуживания реактора готов к инициализации/началу работы. Функциональный код доступа?:}
 {161}{}{Функция?}
 {162}{}{Действие?}
 {163}{}{35C76863}
@@ -45,8 +45,8 @@
 {185}{}{A1546761}
 {186}{}{5B576005}
 {187}{}{Выход из системы.}
-{190}{}{Третий рабочий код доступа принят. Модуль РРиТР включается... Модуль готов к работе. Выберите процедуру техобслуживания?:}
-{191}{}{Модуль РРиТР готов к работе. Выберите процедуру техобслуживания?:}
+{190}{}{Третий функциональный код доступа принят. Модуль РРиТР включается... Модуль готов к работе. Процедура техобслуживания?:}
+{191}{}{Модуль РРиТР готов к работе. Процедура техобслуживания?:}
 {192}{}{Начать общую процедуру техобслуживания.}
 {193}{}{Начать процедуру техобслуживания системы охлаждения.}
 {194}{}{Начать процедуру уборки.}
@@ -176,7 +176,7 @@
 {512}{}{Если это не первая попытка, показать предыдущий набор команд перемещения. Нагрев 75% от допустимого. Команды: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
 {514}{}{Если это не первая попытка, показать предыдущий набор команд перемещения. Нагрев 80% от допустимого. Команды: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
 {516}{}{Если это не первая попытка, показать предыдущий набор команд перемещения. Нагрев 85% от допустимого. Команды: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
-{518}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 90% of unit tolerance. Shutdown imminent. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
+{518}{}{Если это не первая попытка, показать предыдущий набор команд перемещения. Нагрев 90% от допустимого. Системе грозит отключение. Команды: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
 {520}{}{Если это не первая попытка, показать предыдущий набор команд перемещения. Нагрев 95% от допустимого. Системе грозит отключение. Команды: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
 {522}{}{Поворот налево.}
 {524}{}{Поворот направо.}

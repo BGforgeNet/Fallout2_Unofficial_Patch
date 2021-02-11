@@ -19,24 +19,24 @@
 {118}{lyn002}{Die Kunde von deiner Heldentat hat mich bereits erreicht. Ist das wahr? Hat die Regierung immer noch Krieg geführt?}
 {119}{}{Kriek? Kriek-kriegg?}
 {120}{}{Ja. Sie wollten ein Virus verwenden, das alles Leben auslöscht. Dann wollten sie ganz von vorne anfangen... auf Kosten all dessen, was ihr hier aufgebaut habt.}
-{121}{}{Da hat man dich falsch informiert. Ich bin nur ein Reisender, sonst nichts... und ganz bestimmt kein Held. Ich wünsche nur, daß man mich in Ruhe läßt, damit ich durch die Öde wandern und meinen Platz in dieser neuen Welt finden kann. Lebewohl, Erstbürgerin.}
+{121}{}{Da hat man dich falsch informiert. Ich bin nur ein Reisender, sonst nichts... und ganz bestimmt kein Held. Ich wünsche nur, dass man mich in Ruhe lässt, damit ich durch die Öde wandern und meinen Platz in dieser neuen Welt finden kann. Lebewohl, Erstbürgerin.}
 {122}{lyn003}{Selbst aus den einfachsten Dingen - wie dir - kann Großes erwachsen. Alles Gute, mein liebes Trottelchen... ganz Vault City dankt dir.}
 {123}{}{Umarm sie.}
 {124}{}{Uuh. Schüssi.}
 {125}{lyn004}{Ahhhh... ja, ja. Immer wenn du eine Umarmung brauchst, kommst du zu Tante Lynette, ja?}
 {126}{}{Okeee-Dokeee}
 {127}{}{Tschüssi!}
-{128}{lyn005}{Wie hinterhältig! Wie gemein! Wußten die denn nicht, was für eine Gemeinschaft wir hier aufgebaut haben?}
+{128}{lyn005}{Wie hinterhältig! Wie gemein! Wussten die denn nicht, was für eine Gemeinschaft wir hier aufgebaut haben?}
 {129}{}{Vielleicht ist das eine gute Lehre, Lynette. Von der Welt abgeschnitten war die Regierung bereit, euch zu zerstören, ohne sich über den Wert eurer Gemeinschaft zu kümmern. Vielleicht sollte Vault City auch noch mal einen Blick auf die restliche Welt werfen und sich Gedanken über ihren Platz darin machen.}
-{130}{}{Hinterhältig und gemein, vielleicht. Ich weiß nur, daß sie Wahnsinns-Waffen hatten. Wiedersehn, Erstbürgerin.}
+{130}{}{Hinterhältig und gemein, vielleicht. Ich weiß nur, dass sie Wahnsinns-Waffen hatten. Wiedersehn, Erstbürgerin.}
 {131}{lyn006}{Vielleicht hast du recht. Nächstes Mal sollten wir versuchen, die Restregierung zu finden und uns mit ihr zu verbünden. Angeblich haben sie eine hervorragende Kampfausrüstung.}
-{132}{}{Aber... ach, vergiß es. Viel Glück, Erstbürgerin.}
+{132}{}{Aber... ach, vergiss es. Viel Glück, Erstbürgerin.}
 {133}{}{Und was für eine! Mit Servolenkung, Recyclingfunktionen, bedrohliches Aussehen... echt cool, die Teile.}
-{134}{}{Auf Wiedersehen, Erstbürgerin. Ich muß in die Außenwelt zurückkehren... und meinen Platz darin finden.}
+{134}{}{Auf Wiedersehen, Erstbürgerin. Ich muss in die Außenwelt zurückkehren... und meinen Platz darin finden.}
 {135}{lyn007}{Bitte nenn mich Lynette. Gute Reise... mein Freund. Wir werden dich nie vergessen. Hier in Vault City wirst du immer ein Zuhause haben.}
 {136}{}{Danke... Lynette.}
 {137}{}{Ja, das ist wohl besser so. Mit diesem coolen Outfit und meiner Feuerkraft hätte ich dieses hinterwäldlerische Loch sonst in fünf Sekunden eingeäschert. Süße Träume, Lynette. Ha Ha Ha Ha Ha.}
-{138}{lyn008}{Du hast einen Vaultanzug an! Ich hätte nie gedacht, daß ich eines Tages jemandem aus einem anderen Vault begegnen würde. Dieser Vault 13... wo ist der?}
+{138}{lyn008}{Du hast einen Vaultanzug an! Ich hätte nie gedacht, dass ich eines Tages jemandem aus einem anderen Vault begegnen würde. Dieser Vault 13... wo ist der?}
 {139}{}{Hää?}
 {140}{}{Valt! Valt!}
 {141}{}{Kopf kohhmisch.}
@@ -45,12 +45,12 @@
 {144}{}{Weiß ich nicht. Ich komme aus einem Dorf im Westen.}
 {145}{}{Ich weiß nicht. Ich versuche, die Vault zu finden, aus dem mein Vorfahre stammte. Kannst du mir da helfen?}
 {146}{}{Ich hab jetzt keine Zeit, die ganze Geschichte zu erklären. Wiedersehen.}
-{147}{lyn009}{Das da auf deinem Anzug muß dein IQ sein, keine Vaultnummer.}
+{147}{lyn009}{Das da auf deinem Anzug muss dein IQ sein, keine Vaultnummer.}
 {148}{}{Hrnnnn?}
 {149}{}{Zaaa-haal}
 {150}{}{Har lussig!}
 {151}{}{Verzieh dich}
-{152}{lyn010}{Ich weiß nicht, wie du mit deinem Hohlschädel in diese Stadt hereingekommen bist, aber ich sorge dafür, daß du sie nicht noch mal betrittst... Wachen! Setzt diesen Schwachkopf vor die Mauern!}
+{152}{lyn010}{Ich weiß nicht, wie du mit deinem Hohlschädel in diese Stadt hereingekommen bist, aber ich sorge dafür, dass du sie nicht noch mal betrittst... Wachen! Setzt diesen Schwachkopf vor die Mauern!}
 {153}{}{NEIN!}
 {154}{}{ gehn mit Metalleuten}
 {155}{lyn011}{Sei gegrüßt, Fremdling. Ich bin die Erstbürgerin Lynette. Darf ich fragen, was dich hierher führt?}
@@ -60,11 +60,11 @@
 {159}{}{Ich suche ein Garden-Eden-Creation-Kit. Hast du eins?}
 {160}{}{Ich suche ein Garden-Eden-Creation-Kit, Erstbürgerin. Hat deine Stadt eins, das ich vielleicht kaufen könnte?}
 {161}{}{Bist du der... Aufseher dieser Vault?}
-{162}{}{Entschuldige meine Unwissenheit, Erstbürgerin... bedeutet dieser Titel, daß du die Aufseherin dieser Vault bist?}
+{162}{}{Entschuldige meine Unwissenheit, Erstbürgerin... bedeutet dieser Titel, dass du die Aufseherin dieser Vault bist?}
 {163}{}{Das hier ist Vault City? Warum lebt ihr denn nicht in einer Vault?}
 {164}{}{Heut nichts. Vielleicht ein andermal.}
-{165}{}{Heut nichts. Tut mir leid, daß ich dich gestört habe, Erstbürgerin. Wiedersehen.}
-{166}{lyn012a}{Wir kommt es, daß jemand wie DU von einem Garden-Eden-Creation-Kit weiß?}
+{165}{}{Heut nichts. Tut mir leid, dass ich dich gestört habe, Erstbürgerin. Wiedersehen.}
+{166}{lyn012a}{Wir kommt es, dass jemand wie DU von einem Garden-Eden-Creation-Kit weiß?}
 {167}{lyn012b}{Derartige Technologie ist nichts für Outsider.}
 {168}{}{Hast du ein PROBLEM mit Outsidern?}
 {169}{}{Hast du ein PROBLEM mit Outsidern?}
@@ -74,11 +74,11 @@
 {173}{}{Gib mir jetzt das GECK, Frau, sonst nehm ich's mir mit Gewalt.}
 {174}{}{Gib mir jetzt das GECK, sonst nehm ich's mir mit Gewalt.}
 {175}{}{Dann haben wir wohl nichts mehr zu besprechen. Wiedersehen.}
-{176}{lyn013}{Das *Problem* ist, daß alle Outsider sich unserer Gemeinschaft anschließen wollen. Das geht einfach nicht. Wir würden zweifellos in der selben Anarchie wie die Außenwelt versinken.}
+{176}{lyn013}{Das *Problem* ist, dass alle Outsider sich unserer Gemeinschaft anschließen wollen. Das geht einfach nicht. Wir würden zweifellos in der selben Anarchie wie die Außenwelt versinken.}
 {177}{}{Soso. Ich möchte mit dem Aufseher der Vault sprechen. Kannst du mich zu ihm bringen?}
 {178}{}{Wie kann man denn einer von euch Vaultbewohnern werden?}
-{179}{}{Wenn du die Außenwelt so sehr haßt, warum lebst du dann draußen und nicht in der Vault?}
-{180}{}{Ich hab genug gehört. Tschüß.}
+{179}{}{Wenn du die Außenwelt so sehr hasst, warum lebst du dann draußen und nicht in der Vault?}
+{180}{}{Ich hab genug gehört. Tschüss.}
 {181}{}{Ich... verstehe. Danke für die Auskünfte, Erstbürgerin.}
 {182}{lyn014}{Ich finde *alle* Outsider unverschämt. Ihr seid unzivilisiert und primitiv, nicht besser als Tiere. Geh jetzt, oder ich lasse dich mit Gewalt entfernen.}
 {183}{}{Nein! Ich geh hier nicht weg, bevor ich nicht ein paar Antworten bekomme!}
@@ -88,26 +88,26 @@
 {187}{lyn015a}{"Aufseher?" Aber nein. Es gibt seit 100 Jahren keinen Aufseher mehr. Woher weißt du von den Vaultaufsehern?}
 {188}{lyn015b}{Ich hab dir doch gesagt: Es gibt schon längst keine Aufseher mehr.}
 {189}{}{Ich bin ein Nachkomme des ersten Vaultbewohners. Ich habe viele... Dinge über den Aufseher gehört.}
-{190}{}{Was ist denn mit dem Aufseher passiert? Ich muß mit ihm sprechen.}
+{190}{}{Was ist denn mit dem Aufseher passiert? Ich muss mit ihm sprechen.}
 {191}{}{Du bist GANZ offenbar nicht die richtige Person. Hol sofort den Aufseher her, Frau.}
 {192}{}{Du bist GANZ offenbar nicht die richtige Person. Hol sofort den Aufseher her.}
-{193}{}{Auch egal. Ich muß weiter. Wiedersehn.}
+{193}{}{Auch egal. Ich muss weiter. Wiedersehn.}
 {194}{lyn016}{"Nachkomme des Vaultbewohners?" Was meinst du damit?}
 {195}{}{Ich bin ein Ururenkel des ersten Vaultbewohners.}
 {196}{}{Ich verschwende hier nur wertvolle Zeit mit dir, Frau. Hol sofort den Aufseher.}
 {197}{}{Ich verschwende hier nur wertvolle Zeit mit dir. Hol sofort den Aufseher.}
-{198}{}{Nichts, vergiß es. Wir reden später weiter.}
+{198}{}{Nichts, vergiss es. Wir reden später weiter.}
 {199}{lyn017a}{Du kommst hier hereingeplatzt und hast dann auch noch die Frechheit, mich zu beleidigen, mich, Lynette, die Erstbürgerin von Vault City?!}
 {200}{lyn017b}{Du kommst hier hereingeplatzt und hast dann auch noch die Frechheit, *Forderungen* an mich zu stellen, an mich, Lynette, die Erstbürgerin von Vault City?! }
 {201}{lyn017c}{Verschwinde! Wir wollen dich in dieser Stadt nicht mehr sehen!}
 {202}{}{Ich gehe NICHT, bevor ich nicht ein paar Antworten gekriegt habe.}
 {203}{}{Ich gehe... fürs erste.}
 {204}{lyn018}{Nein, nein, wir leben nicht in der Vault. Das war nur vorübergehend, um ein paar Auserwählte vor dem Krieg zu schützen und ihnen danach beim Aufbau einer neuen Welt zu helfen.}
-{205}{}{Woher wußtet ihr, WANN ihr die Vault verlassen konntet? So viel ich gehört habe, waren die Vaults völlig isoliert von der Außenwelt.}
-{206}{}{Ich muß unbedingt mit dem Aufseher sprechen. Kannst du mich hinbringen?}
+{205}{}{Woher wusstet ihr, WANN ihr die Vault verlassen konntet? So viel ich gehört habe, waren die Vaults völlig isoliert von der Außenwelt.}
+{206}{}{Ich muss unbedingt mit dem Aufseher sprechen. Kannst du mich hinbringen?}
 {207}{}{Ich verschwende hier nur wertvolle Zeit mit dir. Hol sofort den Aufseher, Frau.}
 {208}{}{Ich verschwende hier nur wertvolle Zeit mit dir. Hol sofort den Aufseher.}
-{209}{}{Ich hab genug gehört. Tschüß.}
+{209}{}{Ich hab genug gehört. Tschüss.}
 {210}{}{Vielen Dank für deine Zeit, Erstbürgerin. Schönen Tag noch.}
 {211}{lyn019}{Es gibt keinen "Aufseher". An der Oberfläche haben wir eine neue Regierung gebildet. Die Position des Aufsehers wurde abgeschafft.}
 {212}{}{Neue Regierung? Erzähl mal davon.}
@@ -117,8 +117,8 @@
 {216}{lyn020}{Da hast du was Falsches gehört. Unsere Vault erhielt zwei Jahre nach seiner Versiegelung grünes Licht.}
 {217}{}{Grünes Licht? Von wem?}
 {218}{}{Wo sind denn diese Archive?}
-{219}{}{Wo ist der Aufseher? Ich muß mit ihm sprechen.}
-{220}{}{Also in UNSEREN Stammeslegenden heißt es, daß die Vaults für Jahre geschlossen blieben... und es wurde nie grünes Licht gegeben.}
+{219}{}{Wo ist der Aufseher? Ich muss mit ihm sprechen.}
+{220}{}{Also in UNSEREN Stammeslegenden heißt es, dass die Vaults für Jahre geschlossen blieben... und es wurde nie grünes Licht gegeben.}
 {221}{}{Du lügst! Es hat nie ein Freigabesignal gegeben!}
 {222}{}{Verstehe. Danke für die Informationen. Schönen Tag noch.}
 {223}{lyn021}{Warum... von Überwachungsmonitoren, nehm ich an. Ich bin sicher, es gab Sensoren zur Überwachung der Umgebung. Wie hätte der Aufseher sonst wissen können, wann es sicher war, die Vault zu verlassen?}
@@ -129,18 +129,18 @@
 {228}{}{Das weiß ich auch nicht. Noch nicht. Schönen Tag noch.}
 {229}{lyn022}{Wahrscheinlich hat man sie für die Ausrüstung anderer Systeme benutzt.}
 {230}{}{Hmmm. Aber der Aufseher war derjenige, der den Befehl zum Verlassen der Vaults gab?}
-{231}{}{Wo ist der Aufseher? Ich muß mit ihm darüber sprechen.}
+{231}{}{Wo ist der Aufseher? Ich muss mit ihm darüber sprechen.}
 {232}{}{Ich glaube dir nicht. Es hat nie ein Freigabesignal gegeben!}
 {233}{}{Verstehe. Danke für die Informationen. Schönen Tag noch.}
-{234}{lyn023}{Ja... ich glaube, so stand es in den Archiven. Ich bin sicher, daß viele Bürger für die Überwachung der Oberflächensensoren verantwortlich waren.}
+{234}{lyn023}{Ja... ich glaube, so stand es in den Archiven. Ich bin sicher, dass viele Bürger für die Überwachung der Oberflächensensoren verantwortlich waren.}
 {235}{}{Weißt du, wo diese Oberflächensensoren jetzt sind?}
 {236}{}{Wo sind denn diese Archive?}
-{237}{}{Wo ist der Aufseher? Ich muß mit ihm sprechen.}
+{237}{}{Wo ist der Aufseher? Ich muss mit ihm sprechen.}
 {238}{}{Du lügst! Es hat nie ein Freigabesignal gegeben!}
 {239}{}{Verstehe. Danke für die Informationen. Schönen Tag noch.}
 {240}{lyn024}{Wenn du genug Verstand hättest, deine Argumentation zu analysieren, würdest du merken, das sie völlig falsch ist. Die Archive lassen sich nicht so einfach korrumpieren wie deine... "Stammeslegenden".}
 {241}{}{Wo sind denn diese Archive?}
-{242}{}{Wo ist der Aufseher? Ich muß mit ihm sprechen.}
+{242}{}{Wo ist der Aufseher? Ich muss mit ihm sprechen.}
 {243}{}{Jetzt hör mir doch mal zu... Niemand hat je grünes Licht gegeben!}
 {244}{}{Ich hab genug gehört. Wiedersehn.}
 {245}{lyn025}{Du hast die Frechheit, mich eine *Lügnerin* zu nennen, mich Lynette, die Erstbürgerin von Vault City!? Verschwinde! Wir wollen dich in dieser Stadt nicht mehr sehen!}
@@ -152,24 +152,24 @@
 {251}{}{Wie kann ich einer von euch Vaultbewohnern werden?}
 {252}{}{Wie kann ich ein Bürger werden?}
 {253}{}{Ich hab genug gehört. Wiedersehn.}
-{254}{lyn027}{Wir betrachten uns nicht mehr als "Vaultbewohner"... wir bezeichnen uns als "Bürger". Wenn du Mitglied unserer Gemeinschaft werden willst, mußt du dich erst als würdig erweisen.}
+{254}{lyn027}{Wir betrachten uns nicht mehr als "Vaultbewohner"... wir bezeichnen uns als "Bürger". Wenn du Mitglied unserer Gemeinschaft werden willst, musst du dich erst als würdig erweisen.}
 {255}{}{Mich würdig erweisen? Wie denn?}
 {256}{}{Ich bin ein Abkömmling des ersten Vaultbewohners - das sollte ja wohl reichen.}
 {257}{}{Ich werd's mir überlegen. Schönen Tag noch.}
 {258}{lyn028}{Du verstehst nicht... wir haben nichts gegen die Welt, nur gegen die *Menschen* in ihr. Innerhalb dieser Mauern ist die gesamte Zivilisation der Vorkriegszeit versammelt.}
-{259}{}{Wo ist der Aufseher? Ich muß mal mit ihm reden.}
+{259}{}{Wo ist der Aufseher? Ich muss mal mit ihm reden.}
 {260}{}{Es ist aber unfair, alles für sich zu behalten. Ihr habt doch eine Verantwortung anderen zu helfen... nicht nur denen, die innerhalb dieser Mauern wohnen.}
-{261}{}{Verstehe. Vielen Dank, daß du dir Zeit genommen hast. Wiedersehn.}
+{261}{}{Verstehe. Vielen Dank, dass du dir Zeit genommen hast. Wiedersehn.}
 {262}{lyn029}{Ihr Outsider seid die Richtigen uns was von "Verantwortung" zu erzählen. Ihr bettelt ständig um Hilfe, tut aber selbst gar nichts, um Eure Lage zu verbessern. Unser Gespräch ist beendet... geh jetzt, bevor ich die Wachen rufe.}
 {263}{}{Du rufst jetzt am besten die Wachen, noch eine Chance wirst du nämlich nicht haben.}
 {264}{}{Ich geh hier nicht weg, bevor ich nicht den Aufseher gesprochen habe!}
 {265}{}{Ich gehe... fürs erste.}
 {266}{}{Also gut. Vielen Dank für das Gespräch. Wiedersehen.}
-{267}{lyn030}{"Des ersten Vaultbewohners?" Was -? (Versteht, wird aufgeregt, glücklich). Du mußt eine andere Vault meinen! Wir haben nie Kontakt zu einer anderen Vault gehabt! Wo ist deine Vault?}
+{267}{lyn030}{"Des ersten Vaultbewohners?" Was -? (Versteht, wird aufgeregt, glücklich). Du musst eine andere Vault meinen! Wir haben nie Kontakt zu einer anderen Vault gehabt! Wo ist deine Vault?}
 {268}{}{Ich glaube, mein Vorfahr kam aus DIESER Vault hier.}
 {269}{}{Ich komme aus keiner Vault. Ich lebe in einem Stammesdorf im Westen.}
 {270}{}{Ich weiß nicht... verstehst du, ich versuche die Vault zu finden, aus dem mein Vorfahre kam.}
-{271}{}{Wenn ich's finde, laß ich es dich wissen. Wiedersehen.}
+{271}{}{Wenn ich's finde, lass ich es dich wissen. Wiedersehen.}
 {272}{lyn031}{Wir haben die Vault vor 120 Jahren verlassen und Vault City mit Hilfe des Eden-Kits aufgebaut. Zehn Jahre später ging der Aufseher in Ruhestand und ein Bürgerrat wurde eingerichtet. Der Rat ernannte den ersten Erstbürger.}
 {273}{}{Apropos GECK, hättest du vielleicht noch eins für mich?}
 {274}{}{Du bist also die Anführerin dieser Stadt hier?}
@@ -194,25 +194,25 @@
 {293}{lyn035}{Völlig unmöglich. In den 100 Jahren, die wir außerhalb der Vault lebten, wollte noch niemand die Stadt verlassen. Obwohl vor langer Zeit zwei Bürger unserer Stadt verstoßen wurden... als Strafe für ihre Vergehen.}
 {294}{}{Ihr habt den Vaultbewohner RAUSGESCHMISSEN! Ich erhebe jetzt Anspruch auf das, was mir gehört!}
 {295}{}{Was haben diese Bürger getan?}
-{296}{}{Wenn das hier nicht die richtige Vault ist, dann muß ich eben weitersuchen, bis ich die Vault finde, aus dem mein Vorfahre stammt.}
-{297}{}{Ich muß jetzt weg. Schönen Tag noch.}
+{296}{}{Wenn das hier nicht die richtige Vault ist, dann muss ich eben weitersuchen, bis ich die Vault finde, aus dem mein Vorfahre stammt.}
+{297}{}{Ich muss jetzt weg. Schönen Tag noch.}
 {298}{lyn036a}{Dorf? Aber du hast doch einen Vaultanzug an... was für ein Dorf denn? Drück dich gefälligst klar aus: so langsam verliere ich die Geduld.}
 {299}{lyn036b}{Dorf? Zuerst erzählst du mir, du kommst aus einer Vault, jetzt sagst du, du kommst aus einem Dorf. Also wie jetzt?! Langsam hab ich genug von deinem Gefasel. }
 {300}{}{Moment mal, du verstehst mich falsch. Der Vaultbewohner hat mein Dorf gegründet.}
 {301}{}{Ich hab langsam genug von DIR, Frau. Hol jemanden her... jemanden, der mir helfen kann.}
 {302}{}{Ich hab langsam genug von DIR. Hol jemanden her... jemanden, der mir helfen kann.}
 {303}{}{Ich komm vielleicht besser später wieder. Schönen Tag noch.}
-{304}{lyn037}{Ah... jetzt verstehe ich. Aber... kannst du beweisen, daß dein Vorfahre aus einer Vault kam?}
+{304}{lyn037}{Ah... jetzt verstehe ich. Aber... kannst du beweisen, dass dein Vorfahre aus einer Vault kam?}
 {305}{}{Es gibt Geschichten, die vom Dorfältesten an mich weitergegeben wurden.}
 {306}{}{Ich habe die heiligen Artefakte des Vaultbewohners... den Vaultanzug und diese heilige Flasche.}
 {307}{}{Ich habe den Vaultanzug und diese Feldflasche, die meinem Vorfahren gehört haben.}
 {308}{}{Ich hab deine Fragen satt. Ich schau mich jetzt nach jemandem um, der mir helfen kann.}
-{309}{}{Ich muß jetzt weg. Schönen Tag noch.}
+{309}{}{Ich muss jetzt weg. Schönen Tag noch.}
 {310}{lyn038}{Hmm... vielleicht wird deine Vault irgendwo in unseren Computerarchiven erwähnt.}
 {311}{}{Können wir das mal überprüfen?}
-{312}{}{Erstbürgerin, es ist wirklich wichtig, daß ich die Vault meines Vorfahren finde. Wenn du in den Archiven nachsehen könntest, wäre ich dir sehr dankbar.}
+{312}{}{Erstbürgerin, es ist wirklich wichtig, dass ich die Vault meines Vorfahren finde. Wenn du in den Archiven nachsehen könntest, wäre ich dir sehr dankbar.}
 {313}{}{Hmmmm. Danke für die Informationen. Schönen Tag noch.}
-{314}{lyn039}{Tut mir leid, aber wir haben unseren zum Aufbau von Vault City benutzt. Ich glaub nicht, daß noch welche übrig waren, aber du könntest im Erwerbsbüro fragen. Das Büro ist beim Vaulteingang.}
+{314}{lyn039}{Tut mir leid, aber wir haben unseren zum Aufbau von Vault City benutzt. Ich glaub nicht, dass noch welche übrig waren, aber du könntest im Erwerbsbüro fragen. Das Büro ist beim Vaulteingang.}
 {315}{}{Danke. Ich hätte da noch ein paar Fragen...}
 {316}{}{Weißt du zufällig, wo Vault 13 ist?}
 {317}{}{Super! Dann geh ich da hin. Wiedersehn.}
@@ -227,7 +227,7 @@
 {326}{}{Ruf sie doch. Sie werden nicht schnell genug hier sein, um dein Leben zu retten.}
 {327}{}{Na schön. Dann geh ich eben.}
 {328}{}{Na gut, Erstbürgerin. Schönen Tag noch.}
-{329}{lyn042}{Stammeslegende? Wenn du irgend jemanden überzeugen willst, mußt du dir was besseres einfallen lassen als irgend so einen... Stammes-Mythos.}
+{329}{lyn042}{Stammeslegende? Wenn du irgend jemanden überzeugen willst, musst du dir was besseres einfallen lassen als irgend so einen... Stammes-Mythos.}
 {330}{}{Aber ich habe die heiligen Artefakte des Vaultbewohners... den Vaultanzug und diese heilige Flasche.}
 {331}{}{Ich habe den Vaultanzug und diese Feldflasche, die meinem Vorfahren gehört haben.}
 {332}{}{Wie kann ich denn meine Herkunft beweisen, wenn du meinen Worten nicht glaubst?!}
@@ -241,22 +241,22 @@
 {340}{}{Was für eine Situation denn?}
 {341}{}{Natürlich. Was immer die Vaults auch brauchen, werde ich pflichtschuldigst ausführen.}
 {342}{}{Ich weiß nicht... Ist der Bürgerschaftstest nicht eine Standardprozedur?}
-{343}{}{Ich glaub nicht, daß ich mich für so einen Job eigne... Tschüß.}
+{343}{}{Ich glaub nicht, dass ich mich für so einen Job eigne... Tschüss.}
 {344}{}{Nein danke, ich geh jetzt besser. Schönen Tag noch, Erstbürgerin.}
 {345}{lyn045}{Sie waren Mörder, alle beide. Boyarsky wurde vor 10 Jahren ins Exil geschickt, und Richard Moreau kurz nachdem wir aus dem Vault kamen. Die Bürgerschaft ist ein heiliger Bund - innerhalb dieser Mauern werden keine Verbrechen geduldet.}
-{346}{}{Wenn das hier nicht die richtige Vault ist, dann muß ich eben weitersuchen, bis ich die Vault finde, aus dem mein Vorfahre stammt.}
+{346}{}{Wenn das hier nicht die richtige Vault ist, dann muss ich eben weitersuchen, bis ich die Vault finde, aus dem mein Vorfahre stammt.}
 {347}{}{Wie kann man denn Bürger werden?}
-{348}{}{Ich hab jetzt genug gehört. Ich muß gehen.}
+{348}{}{Ich hab jetzt genug gehört. Ich muss gehen.}
 {349}{}{Verstehe. Also, noch mal vielen Dank für deine Zeit, Erstbürgerin. Wiedersehen.}
-{350}{lyn046}{Was faselst du denn da? Du mußt dich irren. Dieser "Vaultbewohner", muß aus einem anderen Vault sein.}
-{351}{}{Wenn das stimmt, dann muß ich diese andere Vault finden}
+{350}{lyn046}{Was faselst du denn da? Du musst dich irren. Dieser "Vaultbewohner", muss aus einem anderen Vault sein.}
+{351}{}{Wenn das stimmt, dann muss ich diese andere Vault finden}
 {352}{}{Du lügst! Mein Vorfahr kam aus DIESER Vault!}
 {353}{}{Vielleicht. Vielen Dank für das Gespräch. Wiedersehn.}
 {354}{lyn047}{Nordöstlich von hier ist eine andere Stadt, falls man es als solche bezeichnen kann. Dort leben... Kreaturen... die das Grundwasser mit gefährlicher Strahlung verseuchen.}
 {355}{}{Wie das?}
 {356}{}{Was soll ich denn daran ändern?}
 {357}{}{Wenn ich's mir genau überlege, bin ich doch nicht interessiert. Wiedersehen.}
-{358}{lyn048}{Du mußt ihr Kraftwerk dauerhaft stillegen, damit sie keinen Schaden mehr anrichten können.}
+{358}{lyn048}{Du musst ihr Kraftwerk dauerhaft stillegen, damit sie keinen Schaden mehr anrichten können.}
 {359}{}{Klingt einfach. Ich komm wieder, wenn ich... mich um die Situation "gekümmert" habe.}
 {360}{}{Wie kommt es denn zur Strahlung aus dem Kraftwerk?}
 {361}{}{Ich werd's mir mal überlegen und meld mich wieder bei dir.}
@@ -264,17 +264,17 @@
 {363}{}{Ich kümmer mich um das Problem. Ich komme wieder, wenn ich es... "gelöst" habe.}
 {364}{}{Das klingt ja, als wenn sie der Welt einen großen Dienst erweisen. Sucht euch doch einen anderen "Outsider" für die Drecksarbeit.}
 {365}{}{Ich werd's mir mal überlegen und meld mich wieder bei dir.}
-{366}{lyn050}{Na gut, laß mich mal sehen... Die, die sind echt! Unglaublich... du BIST ein Überlebender aus einem anderen Vault! Willkommen in unserer Stadt... du mußt da draußen ganz schön viel durchgemacht haben.}
-{367}{}{Ich muß die Vault finden, aus die meine Leute stammen.}
+{366}{lyn050}{Na gut, lass mich mal sehen... Die, die sind echt! Unglaublich... du BIST ein Überlebender aus einem anderen Vault! Willkommen in unserer Stadt... du musst da draußen ganz schön viel durchgemacht haben.}
+{367}{}{Ich muss die Vault finden, aus die meine Leute stammen.}
 {368}{}{Ich brauche ein Garden-Eden-Creation-Kit. Hast du eins?}
-{369}{}{Ach, und damit bin ich jetzt in eurer Stadt willkommen? Vergiß es, ich bleib keine Sekunde länger hier.}
-{370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
+{369}{}{Ach, und damit bin ich jetzt in eurer Stadt willkommen? Vergiss es, ich bleib keine Sekunde länger hier.}
+{370}{}{Du hast ja keine Ahnung... aber ich erzähl dir ein andermal vom Tempel der Erprobungen. Wiedersehn.}
 {371}{lyn051}{Ich geb dir ein Chance, die nur wenige Outsider kriegen. Du kannst den Test machen, wenn du willst. Aber uns aus dieser Situation zu helfen, könnte sich als lohnenswerter herausstellen. Verstehen wir uns?}
 {372}{}{Na gut. Was für eine Situation denn?}
 {373}{}{Verstehe. Was immer die Vault auch brauchen, werde ich pflichtschuldigst ausführen.}
-{374}{}{Ich glaub nicht, daß ich mich für so einen Job eigne... Tschüß.}
+{374}{}{Ich glaub nicht, dass ich mich für so einen Job eigne... Tschüss.}
 {375}{}{Ich mach mich glaub ich lieber auf den Weg. Wiedersehen, Erstbürgerin.}
-{376}{lyn052}{Oh ja... richtig. Der Prokonsul hat erwähnt, daß wir einen neuen Bürger bekommen haben. Willkommen, Bürger. Ach ja, die Archive... die sind in unserer Vault. Durchforsche sie, solange du willst.}
+{376}{lyn052}{Oh ja... richtig. Der Prokonsul hat erwähnt, dass wir einen neuen Bürger bekommen haben. Willkommen, Bürger. Ach ja, die Archive... die sind in unserer Vault. Durchforsche sie, solange du willst.}
 {377}{}{Bevor ich die Archive durchsuchen gehe, wollte ich dich noch was fragen...}
 {378}{}{Hast du vielleicht auch noch ein GECK?}
 {379}{}{Super, danke.}
@@ -294,9 +294,9 @@
 {393}{}{Ich habe mehr über die Gangster herausgefunden, die die Stadt angegriffen haben.}
 {394}{}{Ich hab etwas in Bishops Safe gefunden, das dich interessieren könnte.}
 {395}{}{Dr. Troy ist da glaub ich in eine illegale Sache verwickelt.}
-{396}{}{I must speak with you on the delivery of that holodisk.}
-{397}{}{I've changed my mind. I will deliver that holodisk to the Counselor in the NCR.}
-{398}{}{Tut mir leid, daß ich euch gestört habe.}
+{396}{}{Ich muss mal mit dir über die Übergabe der Holo-Disk reden.}
+{397}{}{Ich hab's mir anders überlegt. Ich überbring die Holo-Disk an den Berater in NCR.}
+{398}{}{Tut mir leid, dass ich euch gestört habe.}
 {399}{lyn054a}{Natürlich. Wie kann ich dir helfen, Bürger?}
 {400}{lyn054b}{Natürlich. Wie kann ich dir helfen, Hauptmann?}
 {401}{}{Was kannst du mir über diese Gangsterangriffe auf unsere Stadt erzählen?}
@@ -310,7 +310,7 @@
 {409}{}{Aber ich BIN doch ein Bürger.}
 {410}{}{Hast du ein GECK?}
 {411}{}{Ich bin auf der Suche nach Vault 13.}
-{412}{}{Was muß ich denn tun, um ein Bürger zu werden?}
+{412}{}{Was muss ich denn tun, um ein Bürger zu werden?}
 {413}{}{Das hier ist Vault City? Warum lebt ihr denn nicht in einer Vault?}
 {414}{}{Warum gestattest du denn die Sklavenhaltung?}
 {415}{}{Na, dann - auch egal. Wiedersehn.}
@@ -322,19 +322,19 @@
 {421}{}{Entschuldige bitte, Erstbürgerin. Tut mir leid, wenn ich dich gestört habe.}
 {422}{lyn057}{Was denn? Hattest du dich nicht darum gekümmert?}
 {423}{}{Das ist nicht so einfach. Weißt du, das sind nicht einfach irgendwelche Gangster... es sind Söldner.}
-{424}{}{Vergiss es. Tschüß.}
+{424}{}{Vergiss es. Tschüss.}
 {425}{lyn058}{Ich kann mich nicht an deine Einführung erinnern. Zeig mir mal deine Papiere.}
 {426}{}{Hier. Die sollten eigentlich in Ordnung sein.}
 {427}{}{Ääh... die hab ich gerade nicht dabei.}
 {428}{}{Meine Papiere? Die sind noch nicht bearbeitet worden. Sollten jetzt eigentlich bald auf deinem Schreibtisch liegen.}
 {429}{}{Meine Papiere? Die sind noch nicht bearbeitet worden. Sollten jetzt eigentlich bald auf deinem Schreibtisch liegen.}
-{430}{lyn059}{Versuch keine Spielchen mit mir, "Bürger", oder ich sorge dafür, daß du nie wieder einen Fuß in Vault City setzt. Und jetzt verschwinde.}
+{430}{lyn059}{Versuch keine Spielchen mit mir, "Bürger", oder ich sorge dafür, dass du nie wieder einen Fuß in Vault City setzt. Und jetzt verschwinde.}
 {431}{}{Kein Problem... bin schon weg. Tschau.}
 {432}{}{Einen schönen Tag, Erstbürgerin.}
 {433}{lyn060}{Hältst du mich etwa für BLÖD? Wenn irgend jemand Fälschungen erkennt, dann bin ich das! Wer hat dir diese Papiere gegeben? Wenn du's mir sagst, darfst du deinen Tagesausweis behalten.}
 {434}{}{Ein Bürger am vorderen Tor namens Skeev.}
 {435}{}{Ich, äh, weiß nicht mehr.}
-{436}{}{Da müßtest du mich erst fangen.}
+{436}{}{Da müsstest du mich erst fangen.}
 {437}{lyn061}{Hmmmm... na gut. Aber tauch hier erst wieder auf, wenn du deine Papiere hast. Guten Tag.}
 {438}{}{Wiedersehn.}
 {439}{}{Einen schönen Tag, Erstbürgerin.}
@@ -342,14 +342,14 @@
 {441}{}{Was? Aber du hast doch gesagt, ich darf meinen Tagesausweis behalten!}
 {442}{}{Ich gehe gar nirgends hin. Wenn du meinen Tagesausweis willst, komm und hol ihn dir.}
 {443}{}{Ist ja schon gut, ich gehe. Ich will keinen Ärger haben.}
-{444}{lyn063}{Wirklich? Du wirst also dafür sorgen, daß Gecko nicht länger unser Wasser verseucht? Koste es, was es wolle?}
+{444}{lyn063}{Wirklich? Du wirst also dafür sorgen, dass Gecko nicht länger unser Wasser verseucht? Koste es, was es wolle?}
 {445}{}{Ja, mach ich - wenn ich dafür die Bürgerschaft und Zugriff zu den Vaultcomputern bekomme.}
 {446}{}{Nein, eigentlich nicht. Ich wollte nur mal sehen, ob das Angebot noch steht.}
 {447}{lyn064}{Na dann mal los. Melde dich wieder bei mir, wenn dein Auftrag erfüllt ist und ich ernenne dich zum Bürger.}
 {448}{}{Darf ich dir noch eine Frage stellen, bevor ich gehe?}
 {449}{}{Alles klar. Ich komme wieder, wenn die Situation unter Kontrolle ist.}
 {450}{lyn065}{Hast du das Problem gelöst?}
-{451}{}{Ich habe herausgefunden, daß sie für einen schadstofffreien Betrieb des Kraftwerks nur einen hydroelektrischen Magnetosphären-Regulator brauchen.}
+{451}{}{Ich habe herausgefunden, dass sie für einen schadstofffreien Betrieb des Kraftwerks nur einen hydroelektrischen Magnetosphären-Regulator brauchen.}
 {452}{}{Das Kraftwerk ist zerstört. An deiner Stelle würde ich die Brahmin jetzt eher im Südwesten grasen lassen.}
 {453}{}{Ich hab das Kraftwerk in Gecko repariert. Sollte keine Probleme mit Strahlungslecks mehr geben.}
 {454}{}{Nein, noch nicht. Ich arbeite noch dran.}
@@ -373,17 +373,17 @@
 {472}{}{Mh-hmm}
 {473}{}{Du magst meinen Freund nicht? Zu dumm. Er mag dich nämlich... zum Abendessen.}
 {474}{}{Deine Wachen werden nicht rechtzeitig hier sein, um dich zu retten... "Erstbürgerin".}
-{475}{}{Laß die Wachen da raus - ich geh schon von selber.}
+{475}{}{Lass die Wachen da raus - ich geh schon von selber.}
 {476}{lyn070}{Wa... du hast das Kraftwerk *zerstört*?! Die Verseuchung! Du *Idiot*. Wenigstens sind die Ghuls aus dem Weg... Geh mir aus den Augen!}
 {477}{}{Heh! Du hattest mir doch versprochen, mich zum Bürger zu machen!?}
-{478}{}{Hör mal, so viel Verwüstung anzurichten war gar nicht so einfach! Ich erwarte schon, daß man sich erkenntlich zeigt...!}
+{478}{}{Hör mal, so viel Verwüstung anzurichten war gar nicht so einfach! Ich erwarte schon, dass man sich erkenntlich zeigt...!}
 {479}{}{Alles klar, ist ja schon gut. Ich geh ja schon.}
 {480}{}{Einen schönen Tag, Erstbürgerin.}
-{481}{lyn071}{Versuch keine Spielchen mit mir, oder ich sorge dafür, daß du nie wieder einen Fuß in Vault City setzt.}
-{482}{}{Paß gut auf dich auf, "Erstbürgerin". Wiedersehen.}
+{481}{lyn071}{Versuch keine Spielchen mit mir, oder ich sorge dafür, dass du nie wieder einen Fuß in Vault City setzt.}
+{482}{}{Pass gut auf dich auf, "Erstbürgerin". Wiedersehen.}
 {483}{}{Einen schönen Tag, Erstbürgerin.}
-{484}{lyn072a}{Du hast es geschafft! Hervorragend! Du hast Vault City einen wertvollen Dienst erwiesen, bitte nimm dies als Zeichen unserer Anerkennung. Daß eine Gruppe von *Gangstern* soviel Unruhe stiften konnte . . . }
-{485}{lyn072b}{Hervorragend. Das geschieht ihnen recht. Daß eine Gruppe von *Gangstern* soviel Unruhe stiften konnte...}
+{484}{lyn072a}{Du hast es geschafft! Hervorragend! Du hast Vault City einen wertvollen Dienst erwiesen, bitte nimm dies als Zeichen unserer Anerkennung. Dass eine Gruppe von *Gangstern* soviel Unruhe stiften konnte . . . }
+{485}{lyn072b}{Hervorragend. Das geschieht ihnen recht. Dass eine Gruppe von *Gangstern* soviel Unruhe stiften konnte...}
 {486}{}{Naja, es waren nicht einfach irgendwelche Gangster. Es waren Söldner.}
 {487}{lyn073}{Du hast ihr Kraftwerk also abgeschaltet?}
 {488}{}{Nein, ich hab's repariert. Stadtrat McClure hat mir das fehlende Ersatzteil gegeben, und damit hab ich das Kraftwerk zum Laufen gebracht.}
@@ -392,9 +392,9 @@
 {491}{}{Ich weiß nicht... vielleicht könntet ihr ihnen bei der Reparatur HELFEN?}
 {492}{}{Also, das Grundwasser wird nicht mehr verunreinigt, und niemand wurde verletzt. Das Problem ist damit gelöst.}
 {493}{}{Ich komm später wieder, wenn du dich beruhigt hast.}
-{494}{}{Ich muß jetzt gehen, Erstbürgerin. Einen schönen Tag noch.}
+{494}{}{Ich muss jetzt gehen, Erstbürgerin. Einen schönen Tag noch.}
 {495}{lyn075}{Du solltest dich in dieser Stadt lieber vorsehen, "Bürger". Ich werde dich auf Schritt und Tritt beobachten. Ein Ausrutscher und du findest dich wieder im Exil.}
-{496}{}{Jetzt reicht's. Ich laß mich doch nicht bedrohen, und schon gar nicht von einer bigotten Zicke wie dir. Zeit zum Sterben.}
+{496}{}{Jetzt reicht's. Ich lass mich doch nicht bedrohen, und schon gar nicht von einer bigotten Zicke wie dir. Zeit zum Sterben.}
 {497}{}{Wenn du dich mit mir anlegst, Lynette, kann sich Vault City bald nach einer neuen Erstbürgerin umsehen, kapiert?}
 {498}{}{Ach ja? Dann sag ich eben McClure, er soll mir meine Bürgerpapiere wieder besorgen. Ich glaub, der würde einen guten Erstbürger abgeben...}
 {499}{}{Ich komm später wieder, wenn du dich beruhigt hast.}
@@ -420,17 +420,17 @@
 {519}{}{Ach... ich hab mich nur versprochen. Wiedersehn.}
 {520}{lyn079}{Für wen hältst du dich eigentlich, einen Bürger solcher Verbrechen zu beschuldigen? Wachen! Bringt diesen Outsider ans Tor!}
 {521}{}{Deine Wachen werden nicht rechtzeitig hier sein, um dich zu retten... "Erstbürgerin".}
-{522}{}{Laß die Wachen da raus - ich geh schon von selber.}
-{523}{}{Aber das ist die Wahrheit! Das mußt du mir glauben! Ich habe Bew--!}
-{524}{lyn080}{Das ist eine schwerwiegende Anschuldigung. Da du ein Bürger bist, muß ich dich beim Wort nehmen... aber bist du dir auch wirklich sicher? Wenn das stimmt, wird ihm die Bürgerschaft entzogen und er wird verstoßen.}
-{525}{}{Ich verstehe ja, daß das für dich schwer zu glauben ist, aber er hat mich gebeten, Jet nach Vault City zu schmuggeln.}
+{522}{}{Lass die Wachen da raus - ich geh schon von selber.}
+{523}{}{Aber das ist die Wahrheit! Das musst du mir glauben! Ich habe Bew--!}
+{524}{lyn080}{Das ist eine schwerwiegende Anschuldigung. Da du ein Bürger bist, muss ich dich beim Wort nehmen... aber bist du dir auch wirklich sicher? Wenn das stimmt, wird ihm die Bürgerschaft entzogen und er wird verstoßen.}
+{525}{}{Ich verstehe ja, dass das für dich schwer zu glauben ist, aber er hat mich gebeten, Jet nach Vault City zu schmuggeln.}
 {526}{}{Ist das nicht etwas hart? Könntest du ihn nicht rehabilitieren und weiterhin als Arzt beschäftigen?}
 {527}{}{Oh. Äh... ich hab mich versprochen. Ich wollte sagen, Dr. Troy ist in paralegale Angelegenheiten verwickelt, nicht illegale.}
 {528}{}{Hmmmm. Ich werd mal sehen, ob ich sonst noch was herausfinden kann.}
-{529}{lyn081}{Ich hätte nie gedacht, daß ein Bürger seines Formats Jet zu sich nehmen könnte. Vielen Dank für deine Aufrichtigkeit, Bürger. Ich werde mich sofort darum kümmern.}
+{529}{lyn081}{Ich hätte nie gedacht, dass ein Bürger seines Formats Jet zu sich nehmen könnte. Vielen Dank für deine Aufrichtigkeit, Bürger. Ich werde mich sofort darum kümmern.}
 {530}{}{Ich hab da noch ein paar Fragen...}
 {531}{}{Super. Ich hab mir doch etwas Sorgen über diese Situation gemacht. Wiedersehen.}
-{532}{}{Vielen Dank, Erstbürgerin. Ich wollte nur, daß Gerechtigkeit geschieht.}
+{532}{}{Vielen Dank, Erstbürgerin. Ich wollte nur, dass Gerechtigkeit geschieht.}
 {533}{lyn082a}{Informiere mich sofort, wenn du mehr herausfindest.}
 {534}{lyn082b}{Vault City lebe hoch, Bürger.}
 {535}{}{Ich hab da noch ein paar Fragen...}
@@ -441,19 +441,19 @@
 {540}{}{Ja. Er hat mich gebeten, für ihn Jet nach Vault City zu schmuggeln.}
 {541}{}{Oh. Äh... ich hab mich versprochen. Ich wollte sagen, Dr. Troy ist in paralegale Angelegenheiten verwickelt, nicht illegale.}
 {542}{}{Hmmmm. Ich werd mal sehen, ob ich sonst noch was herausfinden kann.}
-{543}{lyn084a}{Du paßt besser auf, was du sagst. }
-{544}{lyn084b}{Du paßt besser auf, was du sagst, Outsider. }
+{543}{lyn084a}{Du passt besser auf, was du sagst. }
+{544}{lyn084b}{Du passt besser auf, was du sagst, Outsider. }
 {545}{lyn084c}{Wenn du noch mal öffentlich etwas gegen Dr. Troy oder irgendeinen anderen Bürger sagst, sind deine Tage in Vault City gezählt. Verstanden?}
 {546}{}{Äh... sicher doch. Tut mir leid. Ich hätte da noch ein paar Fragen...}
 {547}{}{Verstanden. Ich geh jetzt.}
 {548}{}{Entschuldige bitte, Erstbürgerin. Schönen Tag noch.}
-{549}{lyn085}{*Natürlich* behandelt er nur Bürger. Es wäre ja wohl zuviel verlangt, wenn er auch noch Outsider behandeln müßte... dafür ist der Autodoc im Vorhof zuständig.}
-{550}{}{Och, dich wird vielleicht interessieren, daß der Doktor mich gebeten hat, illegale Drogen für ihn in die Stadt zu schmuggeln.}
+{549}{lyn085}{*Natürlich* behandelt er nur Bürger. Es wäre ja wohl zuviel verlangt, wenn er auch noch Outsider behandeln müsste... dafür ist der Autodoc im Vorhof zuständig.}
+{550}{}{Och, dich wird vielleicht interessieren, dass der Doktor mich gebeten hat, illegale Drogen für ihn in die Stadt zu schmuggeln.}
 {551}{}{Oh. Also, ich hab da noch ein paar Fragen...}
-{552}{}{Ja, wenn man sich den leisten kann... und dann ist auch nicht sicher, daß man an einem Stück wieder rauskommt.}
+{552}{}{Ja, wenn man sich den leisten kann... und dann ist auch nicht sicher, dass man an einem Stück wieder rauskommt.}
 {553}{}{Ach so. Na, egal. Wiedersehn.}
 {554}{}{Entschuldige bitte, Erstbürgerin. Schönen Tag noch.}
-{555}{lyn086}{Ich glaube, es wird Zeit, daß du gehst. Dein Besuch in Vault City sollte lieber nicht zu lange dauern.}
+{555}{lyn086}{Ich glaube, es wird Zeit, dass du gehst. Dein Besuch in Vault City sollte lieber nicht zu lange dauern.}
 {556}{}{Bevor ich gehe, würde ich gerne noch was fragen...}
 {557}{}{Also gut. Ich gehe.}
 {558}{lyn087}{Moore? Er ist ein alter Tunichtgut. DAS ist er.}
@@ -464,7 +464,7 @@
 {563}{}{Stimmt. Soll ich... mich um ihn kümmern?}
 {564}{}{Dann solltest du ihm die Bürgerschaft aberkennen.}
 {565}{}{Verstehe. Dann halt ich mich lieber von ihm fern. Schönen Tag noch.}
-{566}{lyn088}{Dauernd versucht er, die Bürger davon zu überzeugen, eine... "Demokratie" aus Vault City zu machen, in der jeder Einfluß auf die Gesetze und Entscheidungen hat. *Ich* nenne das Pöbelherrschaft.}
+{566}{lyn088}{Dauernd versucht er, die Bürger davon zu überzeugen, eine... "Demokratie" aus Vault City zu machen, in der jeder Einfluss auf die Gesetze und Entscheidungen hat. *Ich* nenne das Pöbelherrschaft.}
 {567}{}{"Demokratie?"}
 {568}{}{Wie versucht er die Bürger denn zu überzeugen?}
 {569}{}{Klingt nach einem Problem. Soll ich mich darum kümmern?}
@@ -475,12 +475,12 @@
 {574}{}{Undenkbar? Warum das denn?}
 {575}{}{Wie versucht Moore die Bürger denn zu überzeugen?}
 {576}{}{Ich hab da noch ein paar Fragen...}
-{577}{}{Wohl wahr. Ich muß jetzt gehen.}
+{577}{}{Wohl wahr. Ich muss jetzt gehen.}
 {578}{}{Danke für deine Zeit, Erstbürgerin. Schönen Tag noch.}
 {579}{lyn090}{Eine Regierung braucht eine starke, kompetente Führung, die schnelle Entscheidungen treffen und diese auch umsetzen kann. Eine Komiteeregierung ist keine Form der Regierung.}
-{580}{}{Wie versucht Moore die Bürger denn davon zu überzeugen, daß es in der Vault City eine Demokratie geben sollte?}
+{580}{}{Wie versucht Moore die Bürger denn davon zu überzeugen, dass es in der Vault City eine Demokratie geben sollte?}
 {581}{}{Ich hab da noch ein paar Fragen...}
-{582}{}{Wohl wahr. Ich muß jetzt gehen.}
+{582}{}{Wohl wahr. Ich muss jetzt gehen.}
 {583}{}{Danke für deine Zeit, Erstbürgerin. Schönen Tag noch.}
 {584}{lyn091}{Hauptsächlich, indem er öffentlich herummeckert und sich lächerlich macht. Mit Geschichten von einer Seuche in der NCR will er unser Mitleid erregen, als ob WIR uns um die ganze Welt kümmern könnten.}
 {585}{}{Klingt nach einem Problem. Soll ich mich darum kümmern?}
@@ -492,11 +492,11 @@
 {591}{}{Wenn es nur darum geht, BLIND mit dir übereinzustimmen, dann bist DU vielleicht diejenige, die nicht mit der Verantwortung eines Bürgers umgehen kann.}
 {592}{}{Thomas Moore ist ein Bürger, und er führt diese Bewegung an.}
 {593}{}{Das ist jetzt ein neues Zeitalter, es wird Zeit für eine Änderung.}
-{594}{}{Tut mir leid, wenn du so denkst. Tschüß.}
+{594}{}{Tut mir leid, wenn du so denkst. Tschüss.}
 {595}{lyn093}{Nein. Er ist kein *wahrer* Bürger... nicht mehr. Als er vor zwei Jahren zu uns kam, schien er der perfekte Bürger zu sein. Aber schon ein Jahr später... hat er sich verändert. Er hat sich gegen uns gewandt.}
 {596}{}{Das würde wirklich einiges erklären. Moore hat wahrscheinlich eine Zeitlang einfach nur eine Rolle gespielt.}
 {597}{}{Vielleicht ist es Zeit für eine Änderung.}
-{598}{}{Tut mir leid, daß du Moore nicht als "wahren" Bürger ansiehst. Vielleicht solltest du dir noch mal überlegen, was es heißt, ein Bürger zu sein.}
+{598}{}{Tut mir leid, dass du Moore nicht als "wahren" Bürger ansiehst. Vielleicht solltest du dir noch mal überlegen, was es heißt, ein Bürger zu sein.}
 {599}{}{Vielleicht hat er einfach nur das Licht erkannt. Schönen Tag noch.}
 {600}{lyn094}{Wir haben *Erfolg* in dieser Welt, in der andere scheitern, und wir müssen uns *ändern*? Schau dir doch die Außenwelt mal an! Anarchie, Verfall, Krankheit... Vault City ist das reinste Paradies!}
 {601}{}{Genau deshalb solltet ihr euch ja ändern. Ihr solltet euere Errungenschaften mit anderen teilen.}
@@ -509,32 +509,32 @@
 {608}{}{Verstehe. Kann ich dich noch was fragen?}
 {609}{}{Eure Sklaven sind da bestimmt anderer Meinung.}
 {610}{}{Aber... ihr kauft und verkauft Menschen wie Vieh. Stört dich das nicht?}
-{611}{}{Ich hab genug gehört. Tschüß.}
+{611}{}{Ich hab genug gehört. Tschüss.}
 {612}{}{Danke für deine Zeit, Erstbürgerin. Schönen Tag noch.}
 {613}{lyn097}{Sie sind keine Sklaven, sie sind unsere "Diener". Wir geben ihnen ein Heim, Nahrung, Kleidung und eine Aufgabe. Und ein Leben. Ein Leben, das sie in der Außenwelt niemals haben würden.}
 {614}{}{Klar. Warum frei sein, wenn man doch für euch schuften kann?}
 {615}{}{Jetzt hör doch auf, egal was für wohlklingende Worte du auch findest, es ist und bleibt Sklaverei.}
 {616}{}{Äh... klar. Also, ich wollte da noch was fragen...}
 {617}{}{Ich streite mich jetzt nicht mehr mit dir darüber. Schönen Tag noch.}
-{618}{}{Hmmmm. So hatte ich das noch gar nicht betrachtet. Darüber muß ich erst mal nachdenken.}
+{618}{}{Hmmmm. So hatte ich das noch gar nicht betrachtet. Darüber muss ich erst mal nachdenken.}
 {619}{lyn098}{Deine Heuchelei ist schon bemerkenswert. Du trägst das Zeichen der Sklavenhaltergilde, bist aber gegen die Sklaverei?}
-{620}{}{Ich hab ja gar nichts gegen die Sklaverei. Ich weise dich nur darauf hin, daß die Sklaven die ganze schwere Arbeit hier machen.}
+{620}{}{Ich hab ja gar nichts gegen die Sklaverei. Ich weise dich nur darauf hin, dass die Sklaven die ganze schwere Arbeit hier machen.}
 {621}{}{Ich hab die Tätowierung bloß, damit ich an Informationen rankommen kann... Ich bin kein Sklavenhändler.}
 {622}{}{Ich war jung... ich brauchte Geld...}
 {623}{}{Ich streite mich jetzt nicht mehr mit dir darüber. Schönen Tag noch.}
 {624}{lyn099}{Was meinst du damit?}
 {625}{}{Moore arbeitet in Wirklichkeit für die New California Republic.}
 {626}{}{Egal. Ich hätte da ein paar andere Fragen...}
-{627}{}{Nichts. Ich muß jetzt gehen. Wiedersehen.}
+{627}{}{Nichts. Ich muss jetzt gehen. Wiedersehen.}
 {628}{}{Nichts. Ich hab mich falsch ausgedrückt. Schönen Tag noch, Erstbürgerin.}
 {629}{lyn100}{Du willst ihn töten?! In Vault City ist Mord in keinster Art und Weise zulässig - nicht mal für einen guten Zweck. Schlag so etwas nie wieder vor.}
 {630}{}{Verstanden. Kann ich dir noch ein paar Fragen stellen?}
-{631}{}{Aber, aber! "Mord" ist so ein häßliches Wort. Ich könnte eine Art Unfall arrangieren... eine Überdosis Drogen, von einem Brahmin totgetrampelt... Es ist eine gefährliche Welt. Da kann alles mögliche passieren.}
+{631}{}{Aber, aber! "Mord" ist so ein hässliches Wort. Ich könnte eine Art Unfall arrangieren... eine Überdosis Drogen, von einem Brahmin totgetrampelt... Es ist eine gefährliche Welt. Da kann alles mögliche passieren.}
 {632}{}{Also gut. Ich gehe.}
 {633}{}{Na gut, Erstbürgerin. Schönen Tag noch.}
 {634}{lyn101}{So verhält sich kein Bürger! Ich entziehe dir die Bürgerschaft. Meine Wachen werden dich zum Eingangstor bringen.}
 {635}{}{Deine Wachen werden nicht rechtzeitig hier sein, um dich zu retten... "Erstbürgerin".}
-{636}{}{Laß die Wachen aus dem Spiel. Ich geh schon von selber.}
+{636}{}{Lass die Wachen aus dem Spiel. Ich geh schon von selber.}
 {637}{lyn102}{Es wäre sicher im Interesse von Vault City, aber das ist unmöglich... solange er kein Gesetz bricht, darf Moore sagen was er will.}
 {638}{}{Soll ich mich um ihn kümmern?}
 {639}{}{Oh, aber er bricht doch die Gesetze. Moore ist nicht einfach ein Bürger... er vertritt die Interessen anderer.}
@@ -548,22 +548,22 @@
 {647}{lyn104}{Bisher haben die Lasertürme ihren Angriffen standgehalten, aber ich weiß nicht, wie lange wir sie noch aufhalten können.}
 {648}{}{Wer sind denn diese Gangster?}
 {649}{}{Ich hab da noch ein paar Fragen...}
-{650}{}{Ich muß jetzt gehen. Wiedersehen.}
+{650}{}{Ich muss jetzt gehen. Wiedersehen.}
 {651}{}{Tut mir leid, das zu hören; vielleicht suchen sie sich ja woanders leichtere Beute. Schönen Tag noch, Erstbürgerin.}
 {652}{lyn105}{Outsider-Gesindel. Seit über einem Jahrhundert versuchen Outsider, unsere Stadt einzunehmen... und es ist ihnen nie gelungen. Wir werden dieses Pack besiegen.}
 {653}{}{Äh... ah? Warum habt ihr sie dann nicht schon längst ausgelöscht?}
 {654}{}{Darf ich dir noch eine Frage stellen?}
-{655}{}{Ich muß jetzt gehen. Wiedersehen.}
-{656}{}{Ich muß jetzt weg. Schönen Tag noch, Erstbürgerin.}
-{657}{lyn106}{Ihr Basislager zu finden, ist gar nicht so einfach. Außerdem verfügen sie über gute Schußwaffen. Trotzdem haben wir alle Angriffe abgewehrt... mit minimalen Verlusten.}
+{655}{}{Ich muss jetzt gehen. Wiedersehen.}
+{656}{}{Ich muss jetzt weg. Schönen Tag noch, Erstbürgerin.}
+{657}{lyn106}{Ihr Basislager zu finden, ist gar nicht so einfach. Außerdem verfügen sie über gute Schusswaffen. Trotzdem haben wir alle Angriffe abgewehrt... mit minimalen Verlusten.}
 {658}{}{Darf ich dir noch eine Frage stellen?}
-{659}{}{Ich muß jetzt gehen. Wiedersehen.}
+{659}{}{Ich muss jetzt gehen. Wiedersehen.}
 {660}{}{Vielen Dank für deine Zeit. Schönen Tag noch, Erstbürgerin.}
-{661}{lyn107}{Laß hören! }
+{661}{lyn107}{Lass hören! }
 {662}{}{Ich hab ihre Basis gefunden. Sie verstecken sich in ein paar Höhlen am Fuß der Berge im Süden.}
 {663}{}{Ich hab sie erledigt. Sie haben sich in ein paar Höhlen am Fuß der Berge im Süden versteckt.}
 {664}{}{Informationen haben ihren Preis.}
-{665}{}{Ganz egal. Ich muß ohnehin los.}
+{665}{}{Ganz egal. Ich muss ohnehin los.}
 {666}{lyn108}{Wirklich? Hervorragend! Aber wir haben schon jetzt zuwenig Wachen in der Stadt. Wie sieht's mit dir aus? Könntest du den Angriffen ein Ende machen? Ich würde dich bezahlen.}
 {667}{}{Nein, hab im Moment zu viel zu tun.}
 {668}{}{Ich werd sehen, was ich tun kann.}
@@ -573,22 +573,22 @@
 {672}{}{Na gut. Schönen Tag noch, Erstbürgerin.}
 {673}{lyn110a}{Söldner? Wer hat sie angeheuert?}
 {674}{lyn110b}{Ja, ich glaube, das hast du bereits erwähnt. Weißt du, wer sie angeheuert hat?}
-{675}{}{Ich wette, daß die Familie Bishop in New Reno dahintersteckt.}
+{675}{}{Ich wette, dass die Familie Bishop in New Reno dahintersteckt.}
 {676}{}{Die Familie Bishop in New Reno.}
 {677}{}{Ich bin nicht ganz sicher. Ich mach noch ein paar Nachforschungen.}
 {678}{lyn111a}{Was?! Woher weißt du das? Kannst du das beweisen?}
 {679}{lyn111b}{Kannst du das beweisen?}
-{680}{}{Ich hab zwar keine handfesten Beweise, aber in New Reno sagt man, daß die Bishops dahinterstecken.}
+{680}{}{Ich hab zwar keine handfesten Beweise, aber in New Reno sagt man, dass die Bishops dahinterstecken.}
 {681}{}{Ich habe dieses Rechnungsbuch im Safe der Gangster gefunden. Darin sind Zahlungen von Bishop eingetragen - für eine dreimonatige Terrorkampagne gegen Vault City... äh, eventuell monatsweise zu verlängern, wenn ihr auf stur schaltet.}
 {682}{}{Ich hab immer noch keine stichhaltigen Beweise. Aber ich bleib dran.}
 {683}{lyn112}{Das würde mich nicht überraschen. Bishop war vor kurzem in Vault City und schlug eine Allianz vor, was ich natürlich abgelehnt habe. Wir verbünden uns doch nicht mit Kriminellen.}
 {684}{}{Vielleicht wollte er dich auf diese Weise zu einem Bündnis zwingen.}
-{685}{lyn113}{Da würd ich ja eher die NCR um Hilfe bitten! Wenn du auf handfeste Beweise gegen Bishop stößt, laß es mich sofort wissen.}
+{685}{lyn113}{Da würd ich ja eher die NCR um Hilfe bitten! Wenn du auf handfeste Beweise gegen Bishop stößt, lass es mich sofort wissen.}
 {686}{}{OK. Ich hab noch ein paar Fragen... }
 {687}{}{Wenn ich was rausfinde, sag ich dir Bescheid.}
 {688}{}{Mach ich, Erstbürgerin. Schönen Tag noch.}
 {689}{lyn114}{Das überrascht mich nicht. Bishop war vor kurzem in Vault City und schlug eine Allianz vor. Was ich natürlich abgelehnt habe. Wir verbünden uns doch nicht mit Kriminellen.}
-{690}{}{Ich schätze, das hat er angenommen. Ich habe diese Holodisk in Bishops Safe gefunden. Er selbst wurde von der NCR angeheuert, Vault City dazu zu bringen, sich der Republik anzuschließen. Als ihr sein Abgebot abgelehnt habt, hat er die Söldner angeheuert, damit ihr euch an die NCR um Hilfe wendet.}
+{690}{}{Ich schätze, das hat er angenommen. Ich habe diese Holo-Disk in Bishops Safe gefunden. Er selbst wurde von der NCR angeheuert, Vault City dazu zu bringen, sich der Republik anzuschließen. Als ihr sein Abgebot abgelehnt habt, hat er die Söldner angeheuert, damit ihr euch an die NCR um Hilfe wendet.}
 {691}{}{Vielleicht wollte er dich auf diese Weise zu einem Bündnis zwingen.}
 {692}{lyn115}{Möglich... aber das wird ihm nie gelingen. Da würde ich ja eher die NCR um Hilfe bitten. Du hast Vault City einen großen Dienst erwiesen. Bitte nimm dies als Zeichen unserer Anerkennung.}
 {693}{}{Danke. Ich hätte da noch ein paar Fragen...}
@@ -608,9 +608,8 @@
 {707}{}{Ich hab ihre Basis gefunden. Sie verstecken sich in ein paar Höhlen am Fuß der Berge im Süden.}
 {708}{}{Ich hab sie erledigt. Sie haben sich in ein paar Höhlen am Fuß der Berge im Süden versteckt.}
 {709}{}{Eigentlich weiß ich gar nicht so viel.}
-{710}{}{Danke für das Geld, Ich muß jetzt gehen.}
-{711}{lyn119}{I need you to go immediately to New California Republic and find Counselor Westin,
- Roger Westin. Give him the holodisk. That should insure that no more "raiders" get hired.}
+{710}{}{Danke für das Geld, Ich muss jetzt gehen.}
+{711}{lyn119}{Du musst sofort in die New California Republic gehen und den Stadtrat Westin suchen, Roger Westin. Gib ihm die Holo-Disk. Dann werden keine "Raider" mehr angeheuert.}
 {712}{}{Oh... weißt du's noch nicht? Westin ist tot. Er hatte einen Unfall. Einen tödlichen Unfall. Das ist eine lange Geschichte.}
 {713}{}{Augenblick mal. In die NCR? Sind die nicht für alles verantwortlich?}
 {714}{}{Alles klar, mach ich.}
@@ -629,7 +628,7 @@
 {727}{lyn122}{Roger Westin ist wahrscheinlich der einzig ehrliche Mann in der Neuen Republik. Er setzt sich für unsere Sache ein.}
 {728}{}{Alles klar, ich bring ihm die Disk.}
 {729}{}{Nein danke. Im Moment hab ich zu viel zu tun.}
-{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
+{730}{lyn123}{Dein Patriotismus wird nicht unbelohnt bleiben. Und jetzt beeil dich. Die Zeit drängt.}
 {731}{}{Bevor ich gehe, hätte ich da noch ein paar Fragen...}
 {732}{}{Ich bin dabei.}
 {733}{}{Du kannst auf mich zählen, Erstbürgerin. Ich komme wieder, wenn ich Westin die Disk gebracht habe.}
@@ -648,7 +647,7 @@
 {746}{}{Bevor ich gehe, hätte ich da noch ein paar Fragen...}
 {747}{}{Ich bin dabei.}
 {748}{}{Du kannst auf mich zählen, Erstbürgerin. Ich komme wieder, wenn ich Westin die Disk gebracht habe.}
-{749}{lyn127}{Glaub mir, wir werden dich nicht enttäuschen. Bitte bring ihm jetzt die Holodisk.}
+{749}{lyn127}{Glaub mir, wir werden dich nicht enttäuschen. Bitte bring ihm jetzt die Holo-Disk.}
 {750}{}{Bevor ich gehe, hätte ich da noch ein paar Fragen...}
 {751}{}{Alles klar. Ich bin dabei.}
 {752}{}{Du kannst auf mich zählen, Erstbürgerin. Ich komme wieder, wenn ich Westin die Disk gebracht habe.}
@@ -659,7 +658,7 @@
 {757}{}{Ja, ich komm mir schon vor wie der Postbote. Hier, er hat mir diese Disk für dich gegeben.}
 {758}{}{Nein, ich hab's verloren.}
 {759}{}{Nein, er hat mir nichts gegeben.}
-{760}{lyn130a}{Sehr gut. Laß mich mal einen Blick darauf werfen.}
+{760}{lyn130a}{Sehr gut. Lass mich mal einen Blick darauf werfen.}
 {761}{}{Fade out 3 seconds}
 {762}{lyn130b}{Wir sollten länger keine Probleme mehr mit der NCR haben.}
 {763}{}{Das sind ja gute Neuigkeiten.}
@@ -683,7 +682,7 @@
 {781}{}{Bis später.}
 {782}{}{Einen schönen Tag, Erstbürgerin.}
 {783}{lyn136}{Worum geht's?}
-{784}{}{Ich hab diese Holodisk in Bishops Safe gefunden. Er selbst wurde von der NCR angeheuert, Vault City dazu zu bringen, sich der Republik anzuschließen. Als ihr sein Abgebot abgelehnt habt, hat er die Söldner angeheuert, damit ihr euch an die NCR um Hilfe wendet.}
+{784}{}{Ich hab diese Holo-Disk in Bishops Safe gefunden. Er selbst wurde von der NCR angeheuert, Vault City dazu zu bringen, sich der Republik anzuschließen. Als ihr sein Abgebot abgelehnt habt, hat er die Söldner angeheuert, damit ihr euch an die NCR um Hilfe wendet.}
 {785}{lyn099}{Was meinst du damit?}
 {786}{}{Moore arbeitet in Wirklichkeit für die New California Republic.}
 {787}{lyn138}{Ein Spion für die NCR? Das... das würde allerdings *einiges* erklären. Vielen Dank für diese Enthüllung, Bürger. Um *dieses* Problem kann ich mich gleich selbst kümmern.}
@@ -715,7 +714,7 @@
 {813}{}{Wache!}
 {814}{}{Ich liebe Scott Rodenhizer. }
 {815}{}{Meine kleinen Dreadlocks sind schick.}
-{816}{}{T-Ray überschätzt sich ein bißchen zuuuu sehr.}
+{816}{}{T-Ray überschätzt sich ein bisschen zuuuu sehr.}
 {817}{}{Das sind gute Neuigkeiten.}
 {818}{}{Na schön.}
 {819}{}{Auf Wiedersehen.}
@@ -742,42 +741,42 @@
 {840}{}{*Schnaubt*}
 {841}{}{*Schnarch*}
 {842}{}{Der Inhalt der Disk sollte sie aufhalten; die Raider wurden entlarvt, und wenn der Inhalt der Disk in die Außenbezirke der NCR gelangt, wird man ihnen nie wieder über den Weg trauen.}
-{843}{}{Meine Quellen in Gecko haben mir versichert, daß immer noch Ghuls in der Stadt sind. Du mußt dieses Problem lösen - dein Status als Bürger hängt davon ab. Habe ich mich klar ausgedrückt?}
+{843}{}{Meine Quellen in Gecko haben mir versichert, dass immer noch Ghuls in der Stadt sind. Du musst dieses Problem lösen - dein Status als Bürger hängt davon ab. Habe ich mich klar ausgedrückt?}
 {844}{}{Tut mir leid, ich dachte, ich hätte sie alle umgebracht.}
-{845}{}{Nicht schlecht für den Anfang, aber unser Grundwasser wird immer noch verseucht. Du mußt ihr Kraftwerk stillegen.}
-{846}{}{Das ist schon mal was, aber unser Hauptproblem, die Verseuchung des Grundwassers, wird damit nicht gestoppt. Du mußt dafür sorgen, daß im Kraftwerk keine Strahlung mehr austritt.}
-{847}{}{Die Älteste meines Dorfes gab mir eine Wasserflasche, aber die habe ich jetzt nicht bei mir. Aus den Geschichten der Älteren geht jedoch hervor, daß mein Vorfahre aus einer Vault stammte.}
+{845}{}{Nicht schlecht für den Anfang, aber unser Grundwasser wird immer noch verseucht. Du musst ihr Kraftwerk stillegen.}
+{846}{}{Das ist schon mal was, aber unser Hauptproblem, die Verseuchung des Grundwassers, wird damit nicht gestoppt. Du musst dafür sorgen, dass im Kraftwerk keine Strahlung mehr austritt.}
+{847}{}{Die Älteste meines Dorfes gab mir eine Wasserflasche, aber die habe ich jetzt nicht bei mir. Aus den Geschichten der Älteren geht jedoch hervor, dass mein Vorfahre aus einer Vault stammte.}
 {848}{}{Du meinst die Ghuls? Jep, ich hab herausgefunden, was mit deren Kraftwerk nicht in Ordnung ist.}
 {849}{}{Das Kraftwerk braucht einen Hydro-Magneten, äh, so ein Dingsda, damit es wieder funktioniert. Die Ghuls haben gesagt, ihr hättet sowas. Wenn du es mir gibst, kann das Kraftwerk ohne Schadstoffausstoß betrieben werden.}
-{850}{}{Sie brauchen für die Reparatur des Kraftwerks einen hydroelektrischen Magnetosphären-Regulator, dann wird auch das Grundwasser nicht mehr verseucht. Sie behaupten, daß ihr hier in Vault City einen habt. Also wenn ich das Teil kriegen könnte...}
+{850}{}{Sie brauchen für die Reparatur des Kraftwerks einen hydroelektrischen Magnetosphären-Regulator, dann wird auch das Grundwasser nicht mehr verseucht. Sie behaupten, dass ihr hier in Vault City einen habt. Also wenn ich das Teil kriegen könnte...}
 {851}{}{Egal. Wir können auch später noch mal drüber reden.}
 {852}{lyn047b}{Und wenn? Das wäre doch nur eine zeitweilige Lösung.}
 {853}{}{Äh, na ja, genau weiß ich auch nicht Bescheid, aber es sieht doch so aus, als wenn dieses Magnetdings eine Hilfe für Gecko und Vault City wäre. Kann ich es haben?}
 {854}{}{Mit dem Regulator könnte das Kraftwerk sogar viele Jahre lang ohne Schadstoffausstoß betrieben werden. Wenn ich den also haben könnte...?}
-{855}{}{Vergiß es. Vielleicht kann mir ja jemand anders helfen.}
+{855}{}{Vergiss es. Vielleicht kann mir ja jemand anders helfen.}
 {856}{}{Du hast recht, Erstbürgerin. Ich werd mal versuchen, das Problem allein in den Griff zu kriegen.}
 {857}{}{Das verstehe ich glaub ich nicht. Gibt es da ein Problem mit Gecko... oder den Ghuls?}
 {858}{}{Hör mich bitte an, Erstbürgerin... besteht ein Problem bei der Beschaffung des Ersatzteils? Ich könnte euer Problem mit Gecko lösen und auch den Ghuls helfen...}
-{859}{}{Vergiß es. Vielleicht kann mir ja jemand anders helfen.}
+{859}{}{Vergiss es. Vielleicht kann mir ja jemand anders helfen.}
 {860}{}{Entschuldige bitte die Störung, Erstbürgerin.}
 {861}{}{Sie wollen niemandem schaden. Ihnen fehlt nur ein Bauteil, damit das Kraftwerk ohne Schadstoffausstoß arbeiten kann. Wenn du mir also bitte das Teil GEBEN würdest...}
-{862}{}{Vergiß es. Vielleicht kann mir ja jemand anders helfen.}
+{862}{}{Vergiss es. Vielleicht kann mir ja jemand anders helfen.}
 {863}{}{Na gut. Entschuldige bitte die Störung, Erstbürgerin.}
 {864}{lyn017b}{Du kommst her hereingeplatzt und hast dann auch noch die Frechheit, Forderungen an mich zu stellen, an mich, Lynette, die Erstbürgerin von Vault City?!}
 {865}{lyn041c}{Verschwinde auf der Stelle, oder ich rufe die Wachen.}
-{866}{}{Das reicht jetzt. Dir muß man es wohl einbleuen.}
-{867}{}{Vergiß es. Vielleicht kann mir ja jemand anders helfen.}
+{866}{}{Das reicht jetzt. Dir muss man es wohl einbleuen.}
+{867}{}{Vergiss es. Vielleicht kann mir ja jemand anders helfen.}
 {868}{}{Entschuldige bitte die Störung, Erstbürgerin.}
 {869}{}{Ich brauche ein Ersatzteil, um das Kraftwerk in Gecko zu reparieren.}
-{870}{}{Du hast Westins Holodisk bei Lynette abgeliefert.}
-{871}{}{Du hast Westins Holodisk bei Lynette abgeliefert und bist Hauptmann der Wache geworden.}
+{870}{}{Du hast Westins Holo-Disk bei Lynette abgeliefert.}
+{871}{}{Du hast Westins Holo-Disk bei Lynette abgeliefert und bist Hauptmann der Wache geworden.}
 {872}{}{Du hast die Gangster erledigt und Vault City geholfen.}
 {873}{}{Du hast Moore als einen NCR-Spion entlarvt.}
-{874}{}{Du hast bewiesen, daß Bishop die Gangster bezahlt hat.}
-{875}{}{Du hast bewiesen, daß Bishop von der NCR bezahlt wurde.}
+{874}{}{Du hast bewiesen, dass Bishop die Gangster bezahlt hat.}
+{875}{}{Du hast bewiesen, dass Bishop von der NCR bezahlt wurde.}
 {876}{}{Ich brauche einen, um mein --}
 {877}{}{Moment mal --}
-{878}{}{Vergiß es. Ich geh jetzt.}
+{878}{}{Vergiss es. Ich geh jetzt.}
 {879}{}{Sieht so aus, als würde ich mit dir auch meine Zeit verschwenden. Vielleicht solltest du lieber jemanden holen, der mir WIRKLICH helfen kann.}
 {880}{}{Entschuldige bitte die Störung. Wiedersehen.}
 {881}{}{Das hört man gern. Also...?}

@@ -27,5 +27,5 @@
 {128}{}{}
 {150}{}{Deine Zeit ist gekommen, Tourist.}
 {151}{}{Bist du einem Dockkampf gewachsen?}
-{152}{}{Ich glaube nicht, daﬂ du ihm gewachsen bist.}
+{152}{}{Ich glaube nicht, dass du ihm gewachsen bist.}
 {153}{}{Mal sehn, wie dir das harte Leben eines Shi-Dockarbeiters gef‰llt!}

@@ -1,5 +1,5 @@
 {100}{}{Du siehst einen von Bishops Bodyguards.}
-{150}{}{Du siehst einen rauhen Mann in Lederrüstung. Eine Menge Narben und Schußwunden bedecken seinen Körper.}
+{150}{}{Du siehst einen rauhen Mann in Lederrüstung. Eine Menge Narben und Schusswunden bedecken seinen Körper.}
 {151}{}{Du siehst einen von Bishops Bodyguards. Er beobachtet die Gegend und fingert dabei an seiner Waffe rum.}
 {200}{}{Hey! }
 {201}{}{! Was 'ne Art, der Enklave eins überzuziehen!}
@@ -60,7 +60,7 @@
 {345}{}{Ich dachte schon, dass ich einen Mutanten gerochen hätte. Du bringst besser seinen gelben Arsch schnell hier raus. Sofort.}
 {346}{}{Willst du und dein Mutantenfreund hier, erschossen werden? Hau ab.}
 {347}{}{Dieser Mutant verschwindet hier besser, oder wir hängen seinen Kopf an der Wand auf.}
-{355}{}{Ich wußte doch, das ich was Verdorbenes gerochen hab. Bring diesen Ghul hier raus.}
+{355}{}{Ich wusste doch, das ich was Verdorbenes gerochen hab. Bring diesen Ghul hier raus.}
 {356}{}{Bring sofort diesen stinkenden Ghul hier raus.}
 {357}{}{Wenn dieser Ghul hier nich' in 'ner Minute draußen is', isser noch toter als jetz' schon.}
 {365}{}{Den Kampf letzte Nacht mitgekriegt?}
@@ -86,7 +86,7 @@
 {409}{}{ICH SAGEN ICH WOLLEN NACH OBEN}
 {410}{}{WEHR DUH}
 {411}{}{[Schlurf weg]}
-{412}{}{Laß mich durch.}
+{412}{}{Lass mich durch.}
 {414}{}{Also gut. Ich gehe.}
 {420}{}{Klokopf, du hast dir gerade eine Freikarte für jede Menge Schmerzen eingehandelt.}
 {421}{}{Miststück, du hast dir gerade eine Freikarte für jede Menge Schmerzen eingehandelt.}
@@ -100,23 +100,23 @@
 {435}{}{Wenn du's nicht weißt, BRAUCHST du's auch nicht zu wissen. Und jetzt hau ab.}
 {445}{}{Tja, zu schade, Bishop hat nämlich erst neulich die Straße zum Himmel eingeschlagen. Und jetzt hau ab.}
 {446}{}{Biste taub? John Bishop ist TOT, OK? Und jetzt hau hier ab, bevor du ihm Gesellschaft leistest.}
-{447}{}{Hör zu, ich muß nach oben, nur für 'n Moment.}
+{447}{}{Hör zu, ich muss nach oben, nur für 'n Moment.}
 {448}{}{OK, ich hau ab.}
 {455}{}{Nein, ich kenne den Terminplan von Mr. Bishop und da stehst du nich' drauf.}
-{456}{}{Er erwartet mich. Sag ihm, daß ich hier bin.}
+{456}{}{Er erwartet mich. Sag ihm, dass ich hier bin.}
 {458}{}{Also gut. Wiedersehn.}
-{465}{}{Also gut, Freundchen. Wie ist dein Name? Ich frag den Boß mal.}
-{466}{}{Also gut, Schätzchen. Wie ist dein Name? Ich frag den Boß mal.}
+{465}{}{Also gut, Freundchen. Wie ist dein Name? Ich frag den Boss mal.}
+{466}{}{Also gut, Schätzchen. Wie ist dein Name? Ich frag den Boss mal.}
 {467}{}{Ich bin }
 {468}{}{.}
-{469}{}{Du brauchst meinen Namen nicht. Laß mich einfach zu ihm.}
-{471}{}{Vergiß es. Du brauchst nicht nachzufragen...ich gehe.}
+{469}{}{Du brauchst meinen Namen nicht. Lass mich einfach zu ihm.}
+{471}{}{Vergiss es. Du brauchst nicht nachzufragen...ich gehe.}
 {475}{}{[Der Wachmann tritt einen Augenblick zur Seite, öffnet ein Paneel in einer der Wände und flüstert etwas. Er wartet eine Minute, horcht, dreht sich dann wieder zu dir um.] }
 {476}{}{Er kennt dich nicht. Hau ab, Freundchen. Du verschwendest nur unsere Zeit.}
 {477}{}{Er kennt dich nicht. Hau ab, Schätzchen. Du verschwendest nur unsere Zeit.}
-{478}{}{Laß mich zu ihm. Sofort.}
-{479}{}{Sag ihm, daß ich eine Aktentasche für ihn habe...von Mr. Moore.}
-{480}{}{Dann vergiß es.}
+{478}{}{Lass mich zu ihm. Sofort.}
+{479}{}{Sag ihm, dass ich eine Aktentasche für ihn habe...von Mr. Moore.}
+{480}{}{Dann vergiss es.}
 {490}{}{[Der Wachmann tritt einen Augenblick zur Seite, öffnet ein Paneel in einer der Wände und flüstert etwas. Er wartet eine Minute, horcht, dreht sich dann wieder zu dir um und zuckt mit den Schultern.] Er sagt, du sollst hochkommen.}
 {491}{}{Also gut.}
 {495}{}{Jo, }
@@ -131,10 +131,10 @@
 {1228}{}{. Sofort.}
 {1229}{}{. Wird deine Familie dich nicht vermissen?}
 {1230}{}{ -Familie ist 'n Haufen Schlaffis. Was hältst du davon?}
-{1231}{}{ hatten Zeit, noch viel mehr zu tun, als ihrem Boß in den Hintern zu kriechen.}
+{1231}{}{ hatten Zeit, noch viel mehr zu tun, als ihrem Boss in den Hintern zu kriechen.}
 {1236}{}{ -Familie is' 'n Haufen Schlaffis. Jetzt weiß ich, dass es wahr ist.}
 {1247}{}{! Du kannst hier drin keine Waffen sehen lassen, OK?}
-{1265}{}{. Paßt du auch gut auf dich auf?}
+{1265}{}{. Passt du auch gut auf dich auf?}
 {1266}{}{. Was issn los?}
 {1276}{}{! Du kannst hier drin keine Waffen sehen lassen, OK?}
 {1277}{}{! Tu die Waffe weg.}

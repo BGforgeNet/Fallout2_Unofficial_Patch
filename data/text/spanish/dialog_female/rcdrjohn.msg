@@ -35,7 +35,7 @@
  a todos.}
 {129}{}{Aquí tienes tu dinero, Doc. Remiéndanos.}
 {130}{}{Supongo que ahora mismo no me lo puedo permitir. Lo siento, Doc; tal vez en otro momento.}
-{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
+{131}{}{$100, ¿eh? Tal vez vamos a tener que hacer más adelante. Adiós, Doc.}
 {132}{}{Parece que no lo estás haciendo muy bien por ahí fuera. Puedo curar tus dolencias por 100 dólares. ¿Quieres que lo
  haga?}
 {133}{}{Tus colegas no lo están haciendo muy bien. Creo que puedo curar sus dolencias por 100 dólares. ¿Quieres que lo intente?}

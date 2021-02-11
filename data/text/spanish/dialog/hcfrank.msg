@@ -39,7 +39,7 @@
 {130}{}{No tengo nada que demostrarte, piltrafilla.}
 {131}{}{¡Sal de mi vista de una puta vez, gilipollas! ¡Te mataré en cuanto tenga la oportunidad!}
 {132}{}{Adiós.}
-{133}{}{La ley por aquí se basa en el amor al mutante. ¿Odias a los mutantes?}
+{133}{}{La ley 'de la ronda de aquí se basa en el mutante amor. Usted odia a los mutantes?}
 {134}{}{Sí.}
 {135}{}{No.}
 {136}{}{¿Sí? Pues ve a hablar con Jacob, el farmacéutico. Ya nos veremos más tarde.}

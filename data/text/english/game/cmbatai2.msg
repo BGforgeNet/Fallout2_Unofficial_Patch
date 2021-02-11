@@ -462,7 +462,7 @@
 #
 # target hit in groin
 #
-{1590}{}{I have too many young all ready.} 
+{1590}{}{I have too many young already.} 
 {1591}{}{You fight without honor.}
 {1592}{}{I'm married, didn't use it anyway.} 
 {1593}{}{Holy spirits, the world just exploded.} 

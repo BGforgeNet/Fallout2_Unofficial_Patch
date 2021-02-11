@@ -54,7 +54,7 @@
 {450}{}{Männer}
 {451}{}{Frauen}
 {452}{}{Kinder}
-{453}{}{Super mutants}
+{453}{}{Supermutanten}
 {454}{}{Ghuls}
 {455}{}{Brahmin}
 {456}{}{Radskorpione}
@@ -79,7 +79,7 @@
 {475}{}{Die Zahl der Roboter, die du zerstört oder zerlegt hast.}
 {476}{}{Die Gesamtzahl der Hunde, die du in den großen Zwinger im Himmel geschickt hast.}
 {477}{}{Diese Zeile zeigt die Zahl der toten Gottesanbeterinnen oder großer mutierter gottesanbeterartigen Insekten, die du bis jetzt zerquetscht hast.}
-{478}{}{Diese Zeile zeigt, daß du die Deathclaw und eine beliebige Anzahl ihrer Nachkommen erledigt hast.}
+{478}{}{Diese Zeile zeigt, dass du die Deathclaw und eine beliebige Anzahl ihrer Nachkommen erledigt hast.}
 {479}{}{Die Anzahl an Pflanzen, deren Streben zur Sonne du beendet hast.}
 {480}{}{Du siehst: %s.}
 {485}{}{Du durchsuchst %s.}
@@ -95,7 +95,7 @@
 {503}{}{verletzt}
 {504}{}{unverletzt}
 {510}{}{RA-Mod: %d}
-{511}{}{DR Mod: %d}
+{511}{}{RV-Mod: %d}
 {512}{}{Sch-Mod: %d/%d}
 {518}{}{Du bist: %s}
 {519}{}{%s %s }
@@ -105,7 +105,7 @@
 {523}{}{Sie ist %s}
 {524}{}{Es ist %s}
 {525}{}{%s hat %d/%d Trefferpunkte.}
-{526}{}{Es hat %d/%d Schuß %s.}
+{526}{}{Es hat %d/%d Schuss %s.}
 {530}{}{ und hat schwer verletzte Gliedmaßen.}
 {531}{}{, hat aber schwer verletzte Gliedmaßen.}
 {532}{}{ und hast schwer verletzte Gliedmaßen.}
@@ -118,16 +118,16 @@
 {544}{}{, }
 {545}{}{.}
 {546}{}{ und trägt: %s.}
-{547}{}{ und trägt: %s mit %d/%d Schuß %s.}
+{547}{}{ und trägt: %s mit %d/%d Schuss %s.}
 {548}{}{Das Auto sieht nicht so aus, als würde es im Augenblick funktionieren.}
 {549}{}{Das Auto läuft mit %d%% Energie.}
-{550}{}{Fehler: lookup_val ist außerhalb des Bereichs!}
-{551}{}{Fehler: obj_examine: proto_ptr fehlgeschlagen!}
+{550}{}{\nFehler: lookup_val ist außerhalb des Bereichs!}
+{551}{}{\nFehler: obj_examine: proto_ptr fehlgeschlagen!}
 {580}{}{Du benutzt %s.}
 {581}{}{Du verwendest %s an %s.}
 {582}{}{Nichts passiert.}
-{583}{}{Entsetzt merkst du, daß es schon tot ist.}
-{584}{}{Als du es berührst, merkst du, daß es schon tot ist.}
+{583}{}{Entsetzt merkst du, dass es schon tot ist.}
+{584}{}{Als du es berührst, merkst du, dass es schon tot ist.}
 {585}{}{Leider kommst du zu spät.}
 {586}{}{Das funktioniert nicht bei Toten.}
 {587}{}{Du zündest die Leuchtrakete an.}
@@ -138,12 +138,12 @@
 {596}{}{Das Auto ist schon voll aufgeladen.}
 {597}{}{Die Türöffnung scheint blockiert zu sein.}
 {620}{}{Du erhältst %d Erfahrungspunkte für das Töten von: %s.}
-{621}{}{%s you gain %d experience points.}
-{622}{}{For defeating your enemies,}
-{623}{}{For slaying your opponents,}
-{624}{}{For being victorious in combat,}
-{625}{}{For crushing your enemies,}
-{626}{}{For destroying your enemies without taking a scratch,}
+{621}{}{%s erhälst du %d Erfahrungspunkte.}
+{622}{}{Für den Sieg über deine Feinde}
+{623}{}{Für das Erledigen deiner Gegner}
+{624}{}{Da du siegreich aus dem Kampf hervorgegangen bist,}
+{625}{}{Für die Vernichtung deiner Gegner}
+{626}{}{Für die Vernichtung deiner Gegner, ohne einen Kratzer abzubekommen,}
 {650}{}{[Erledigt]}
 {651}{}{[Mehr]}
 {652}{}{Weiter}
@@ -159,7 +159,7 @@
 {673}{}{Was immer du sagst.}
 {674}{}{Ich werde es versuchen.}
 {675}{}{Das kann ich nicht tun.}
-{676}{}{Ich glaube nicht, daß ich das tun kann.}
+{676}{}{Ich glaube nicht, dass ich das tun kann.}
 {677}{}{Arf}
 {678}{}{Wuff!}
 {700}{}{Du hast nicht genügend Aktionspunkte.}
@@ -197,7 +197,7 @@
 {1465}{}{Geckos}
 {1466}{}{Aliens}
 {1467}{}{Riesenameisen}
-{1468}{}{Big Bad Boß}
+{1468}{}{Big Bad Boss}
 {1469}{}{Diese Zeile zeigt die Zahl der männlichen Menschen, die du im Verlauf deines Abenteuers getötet hast.}
 {1470}{}{Diese Zeile zeigt die Zahl der weiblichen Menschen, die du im Verlauf deines Abenteuers getötet hast.}
 {1471}{}{Diese Zeile zeigt die Zahl der menschlichen Kleinkinder, die du im Verlauf deines Abenteuers getötet hast. Du Widerling.}
@@ -211,7 +211,7 @@
 {1479}{}{Die Zahl der Roboter, die du zerstört oder zerlegt hast.}
 {1480}{}{Die Gesamtzahl der Hunde, die du in den großen Zwinger im Himmel geschickt hast.}
 {1481}{}{Diese Zeile zeigt die Zahl der toten Gottesanbeterinnen oder großer mutierter gottesanbeterartigen Insekten, die du bis jetzt zerquetscht hast.}
-{1482}{}{Diese Zeile zeigt, daß du die Deathclaw und eine beliebige Anzahl ihrer Nachkommen erledigt hast.}
+{1482}{}{Diese Zeile zeigt, dass du die Deathclaw und eine beliebige Anzahl ihrer Nachkommen erledigt hast.}
 {1483}{}{Diese Zeile zeigt die Zahl der Pflanzen, die du aus dieser Welt herausgerissen hast.}
 {1484}{}{Die Zahl niedlicher Echsen, die du aus dem Leben befördert hast.}
 {1485}{}{Die Anzahl der durch deine Hand umgekommenen Aliens.}

@@ -1,46 +1,46 @@
 {100}{}{Du siehst eine Wache.}
-{150}{}{The guard is guarding the old church.}
+{150}{}{Die Wache bewacht die alte Kirche.}
 {151}{}{[GESPRÄCH]}
-{152}{}{How dare you show your face again!}
+{152}{}{Wie kannst du es wagen, dich hier wieder blicken zu lassen!}
 {153}{}{[Fertig]}
-{154}{}{Ho! No one enters the Family Wright warehouse at night!}
-{155}{}{Well, Mr. Wright himself sent me on an errand. If you don’t know about it, too bad.}
-{156}{}{I’ll come back tomorrow.}
-{157}{}{I need to get in there now.}
-{158}{}{[Looking nervous] Sorry...I didn’t know. Do you have any papers?}
-{159}{}{Please! Can you even read?}
-{160}{}{No, he didn’t give me any.}
-{161}{}{I left them back with my guard. I’ll go fetch them.}
-{162}{}{You cannot get in without papers.}
-{163}{}{Here’s my authorization! Attack!}
-{164}{}{I'll come back.}
-{165}{}{[Embarrassed] No...um...alright, just go on in...}
+{154}{}{Ho! Niemand betritt das Wright-Anwesen in der Nacht!}
+{155}{}{Nun, Mr. Wright persönlich hat mir einen Auftrag erteilt. Wenn du nichts davon weißt, Pech für dich.}
+{156}{}{Ich komme morgen wieder.}
+{157}{}{Ich muss da jetzt rein.}
+{158}{}{[Schaut nervös] Tut mir leid... das wusste ich nicht. Hast du irgendwelche Papiere dabei?}
+{159}{}{Bitte! Kannst du überhaupt lesen?}
+{160}{}{Nein, er hat mir keine mitgegeben.}
+{161}{}{Die hab ich bei meiner Wache gelassen. Ich werd sie holen.}
+{162}{}{Ohne Papiere kommst du nicht rein.}
+{163}{}{Da hast du meine Erlaubnis! Angriff!}
+{164}{}{Ich komm zurück.}
+{165}{}{[Beschämt] Nein... ehm... also gut, komm rein.}
 {166}{}{Danke.}
 {167}{}{Das hört sich schon besser an.}
-{168}{}{What do you people want?}
-{169}{}{We need to go inside.}
-{170}{}{We were sent here by the boss.}
-{171}{}{I would have heard if a group was sent here. Be off!}
-{172}{}{Off with your head!}
-{173}{}{OK, OK; we’re going.}
-{174}{}{What is your business here?}
-{175}{}{I need to go inside.}
-{176}{}{I’ve been sent on official business by the boss. Stand aside!}
-{177}{}{Removing your head from your shoulders.}
-{178}{}{Sorry, wrong place.}
-{179}{}{Hello again. You can go on in.}
+{168}{}{Was wollt ihr Leute?}
+{169}{}{Wir müssen rein.}
+{170}{}{Der Boss hat uns geschickt.}
+{171}{}{Eine Gruppe auf den Weg hierher? Davon hätte ich gehört. Verschwindet!}
+{172}{}{Den Kopf hast du die längste Zeit gehabt!}
+{173}{}{Ok, Ok; wir gehen.}
+{174}{}{Was willst du?}
+{175}{}{Wir müssen rein.}
+{176}{}{Der Boss hat mich in offizieller Mission geschickt. Geh zur Seite!}
+{177}{}{Deinen Kopf von den Schultern holen.}
+{178}{}{Entschuldigung, falsche Adresse.}
+{179}{}{Hallo nochmal. Du kannst reinkommen.}
 {180}{}{Danke.}
-{181}{}{Hey, get the hell away from the door!}
-{182}{}{Don't touch the door again unless you want trouble.}
-{183}{}{I see you touch that door again, you're gonna get a bullet in the head.}
+{181}{}{Hey, geh zum Teufel nochmal von der Tür weg!}
+{182}{}{Lass bloß die Finger von der Tür, sofern du keinen Ärger willst.}
+{183}{}{Wenn du noch einmal die Tür anrührst, kriegst du eine Kugel in den Kopf.}
 {184}{}{Hey, was glaubst Du, was Du da machst?}
-{185}{}{I've had enough of you.}
-{186}{}{Sorry; I can let you in, but your friends are gonna have to wait outside.}
-{187}{}{Only one of you are allowed in at a time.}
-{200}{}{Good evening.}
-{201}{}{Good afternoon.}
-{202}{}{Good morning.}
-{203}{}{Just finish up your business, thank you.}
-{250}{}{You know, pal, I've had enough of your shit!}
-{251}{}{You know, bitch, I've had enough of your shit!}
+{185}{}{Mir reichts mir dir.}
+{186}{}{Tut mir leid; Ich kann dich reinlassen, aber deine Freunde müssen draußen warten.}
+{187}{}{Es darf jeweils nur einer von euch rein.}
+{200}{}{Guten Abend.}
+{201}{}{Guten Tag.}
+{202}{}{Good Morgen.}
+{203}{}{Erledige was du zu tun hast, danke.}
+{250}{}{Weißt du, Freundchen, ich hab genug von deinem Mist!}
+{251}{}{Weißt du, Schlampe, ich hab genug von deinem Mist!}
 {252}{}{[Ende]}

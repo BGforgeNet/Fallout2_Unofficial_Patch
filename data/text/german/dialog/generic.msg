@@ -21,12 +21,12 @@
 {302}{}{Ooga.}
 {303}{}{Urg.}
 {350}{}{[Ende]}
-{351}{}{[Tschüß]}
+{351}{}{[Tschüss]}
 {352}{}{[Mehr]}
 {353}{}{[Weiter]}
 {354}{}{[Kampf]}
 {355}{}{[Geld]}
-{375}{}{Tschüß.}
+{375}{}{Tschüss.}
 {376}{}{Wiedersehn.}
 {400}{}{Du stirbst durch die tödliche Injektion von Dr. Troy.}
 {450}{}{Die Luft ist rein. Los, raus!}
@@ -40,7 +40,7 @@
 {920}{}{Du stolperst über die Überreste von Nagor, der starb, als er versuchte, seinen Hund zu retten.}
 {921}{}{Nagor starb, als er versuchte, die Leiche seines Hundes zurück ins Dorf zu schleppen.}
 {930}{}{Heuuuuul!}
-{950}{}{You take some time out to practice some moves. Your unarmed combat skills increase.}
+{950}{}{Du nimmst dir ein wenig Zeit, um ein paar Bewegungen zu üben. Deine Fähigkeiten für den unbewaffneten Kampf nehmen zu.}
 {951}{}{Die kämpfende Maulwurfsratte bekommt ihren Todesstoß versetzt.}
 {952}{}{Der Kampf ist vorbei.}
 {1000}{}{Du hast den Bürgerschaftstest bestanden}
@@ -57,7 +57,7 @@
 {1011}{}{Du hast den Reaktor zerstört.}
 {1012}{}{WARNUNG! Völlige Reaktor-KERNSCHMELZE!}
 {1013}{}{WARNUNG! GIFTSTOFFE in Belüftungskanäle freigesetzt.}
-{1014}{}{Du verläßt die Wanamingo-Mine.}
+{1014}{}{Du verlässt die Wanamingo-Mine.}
 {1015}{}{Du hast den Rätselraum überlebt.}
 {1016}{}{Hoppla, beinahe hätte ich das GECK vergessen. Frage mich, ob hier irgendwo eins ist.}
 {1017}{}{Die Tür springt mit deinem GECK-Code auf.}
@@ -67,7 +67,7 @@
 {1021}{}{Du hast das Roboter-Reparatur Terminal deaktiviert.}
 {1050}{}{Du zerreibst das Skorpiongift zu einem Gegengift.}
 {1051}{}{Du vermischst die Xander-Wurzel und die Broc-Blume zu Heilpulver.}
-{1099}{}{Das GECK ist zu wichtig für dein Dorf, als daß du es einfach hier liegenlassen könntest.}
+{1099}{}{Das GECK ist zu wichtig für dein Dorf, als dass du es einfach hier liegenlassen könntest.}
 {2000}{}{null}
 {2001}{}{eins}
 {2002}{}{zwei}
@@ -170,20 +170,20 @@
 {2100}{}{einhundert}
 {3000}{}{}
 {3025}{}{}
-{3050}{}{Wenn du das noch mal versuchst, muß ich dich töten.}
+{3050}{}{Wenn du das noch mal versuchst, muss ich dich töten.}
 {3051}{}{Bei mir ist nichts zu holen, du Idiot.}
 {3052}{}{*So* gut kennen wir uns nun auch wieder nicht.}
-{3053}{}{Faß das noch einmal an und du wirst es bereuen.}
+{3053}{}{Fass das noch einmal an und du wirst es bereuen.}
 {3054}{}{Nimm deine Hände weg!}
 {3055}{}{Wenn du das noch mal machst, bist du einen Kopf kürzer.}
 {3056}{}{Hände weg!}
 {3057}{}{Willst du Ärger?}
-{3058}{}{Wenn du mich noch einmal anfaßt, bist du tot.}
+{3058}{}{Wenn du mich noch einmal anfasst, bist du tot.}
 {3059}{}{Nur Ärger gibt's umsonst.}
 {3060}{}{He! Hau ab.}
-{3061}{}{Paß auf!}
+{3061}{}{Pass auf!}
 {3062}{}{Bist du lebensmüde?}
-{3063}{}{Versuch das noch mal und ich verpaß dir eine.}
+{3063}{}{Versuch das noch mal und ich verpass dir eine.}
 {3064}{}{Das gehört mir, Hände weg!}
 {3075}{}{}
 {3100}{}{}
@@ -191,7 +191,7 @@
 {3325}{}{Warum legst du nicht alles an seinen Platz zurück?}
 {3326}{}{Du weißt doch, man soll sich nicht an Dingen anderer vergreifen.}
 {3327}{}{Weg da, Niete!}
-{3328}{}{Jetzt erzähl mir nicht, du "suchst nur deine Schlüssel". Mach daß du hier raus kommst!}
+{3328}{}{Jetzt erzähl mir nicht, du "suchst nur deine Schlüssel". Mach dass du hier raus kommst!}
 {3329}{}{Was immer du suchst, es ist nicht hier, verstanden?}
 {3350}{}{}
 {3375}{}{}
@@ -207,9 +207,9 @@
 {3900}{}{}
 {3925}{}{He du, was machst du da?}
 {3926}{}{Du hast hier nichts zu suchen!}
-{3927}{}{Wenn du meinst, daß du hier einfach so vorbei kommst, hast du dich getäuscht!}
+{3927}{}{Wenn du meinst, dass du hier einfach so vorbei kommst, hast du dich getäuscht!}
 {3928}{}{Ich kann mir denken, was du vorhast, aber du solltest es lieber lassen, Fremdling.}
-{3929}{}{Was? Meinst du, ich sehe dich nicht? Mach, daß du hier raus kommst!}
+{3929}{}{Was? Meinst du, ich sehe dich nicht? Mach, dass du hier raus kommst!}
 {3950}{}{}
 {3975}{}{}
 {4000}{}{}
@@ -239,20 +239,20 @@
 {9002}{}{Strukturelle Schäden werden repariert.}
 {10000}{}{Erzähl mir was.}
 {10001}{}{Du solltest dich jetzt selber heilen.}
-{10002}{}{Du mußt hier warten, bis ich wieder da bin.}
+{10002}{}{Du musst hier warten, bis ich wieder da bin.}
 {10003}{}{Leg deine Waffe weg.}
 {10004}{}{Bleib dicht bei mir.}
 {10005}{}{Bleib in meiner Nähe aber entferne dich nicht allzu weit von mir.}
-{10006}{}{Wir sollten uns ein bißchen verteilen.}
+{10006}{}{Wir sollten uns ein bisschen verteilen.}
 {10007}{}{Das wär's dann vorerst mal.}
 {10008}{}{Wir müssen unseren Abstand ändern.}
-{10009}{}{Ich muß mit dir über deine Ausrüstung reden.}
+{10009}{}{Ich muss mit dir über deine Ausrüstung reden.}
 {10010}{}{Andererseits ist der Abstand fürs erste wohl doch ganz OK so.}
 {10011}{}{Ach, eigentlich ist es gar nicht nötig, irgendwas über deine Ausrüstung zu erfahren.}
-{10012}{}{Ich möchte, daß du deine Rüstung ablegst.}
+{10012}{}{Ich möchte, dass du deine Rüstung ablegst.}
 {10013}{}{Ich möchte wissen, mit was für Waffen du umgehen kannst.}
 {10100}{}{Dann lass uns mal Tyler kalt stellen.}
 {20000}{}{Nichts passiert.}
-{20100}{}{There is no lock on this door.}
+{20100}{}{Es ist kein Schloss an der Tür.}
 {21020}{}{zwanzig}
-{30000}{}{You have stolen from your own tribe.}
+{30000}{}{Du hast deinen eigenen Stamm bestohlen.}

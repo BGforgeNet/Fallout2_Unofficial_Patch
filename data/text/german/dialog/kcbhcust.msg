@@ -23,15 +23,15 @@
 {132}{}{In letzter Zeit gibt's hier zu viele Fremde.}
 {133}{}{Wenigstens sind deine Zähne nicht angespitzt.}
 {134}{}{Die Gegend hier geht allmählich vor die Hunde.}
-{135}{}{Müßtest du nicht einen Knochen durch die Nase haben?}
+{135}{}{Müsstest du nicht einen Knochen durch die Nase haben?}
 {136}{}{(Schaut dich an und schüttelt den Kopf)}
 {137}{}{(Macht ein subtile unhöfliche Geste)}
 {138}{}{Du bist wahrscheinlich für die Verstümmlungen der Brahmin verantwortlich.}
 {139}{}{Einige unserer Jäger sind verschwunden; wahrscheinlich bist du dafür verantwortlich.}
 {140}{}{In der Stadt treiben sich Wanzenmänner rum.}
 {141}{}{Es gibt einen Geist in einem Canyon östlich der Stadt.}
-{142}{}{Laß dich nicht vom Wandelnden Geist erwischen!}
-{143}{}{Es wär besser für dich, wenn du unsere Brahmin in Ruhe läßt.}
+{142}{}{Lass dich nicht vom Wandelnden Geist erwischen!}
+{143}{}{Es wär besser für dich, wenn du unsere Brahmin in Ruhe lässt.}
 {144}{}{Wir behalten dich im Auge.}
 {150}{}{Es ist schön, jemand Neues in der Stadt zu sehen.}
 {151}{}{Wilde sind wahrscheinlich gar nicht so schlecht.}
@@ -48,12 +48,12 @@
 {162}{}{Willkommen, Freund.}
 {163}{}{Ich hoffe, dir gefällt unsere Stadt.}
 {164}{}{Klamath ist DER Ort.}
-{165}{}{Schön, daß du hier bist.}
+{165}{}{Schön, dass du hier bist.}
 {166}{}{(Prostet dir mit einem Krug zu)}
 {167}{}{(Zwinkert dir zu)}
 {168}{}{Unternimm nachts keine Ausflüge.}
 {169}{}{In den Hügeln treiben sich Wanzenmänner rum.}
-{170}{}{Einer unserer besten Fallensteller wird vermißt.}
+{170}{}{Einer unserer besten Fallensteller wird vermisst.}
 {201}{}{Ah, das hat den Durst gelöscht.}
 {202}{}{Danke.}
 {203}{}{Mmm-mm gut.}

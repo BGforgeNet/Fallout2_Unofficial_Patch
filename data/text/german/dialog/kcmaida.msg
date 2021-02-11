@@ -4,10 +4,10 @@
 {200}{}{Du hast mich wirklich aufgeregt. Ich will nichts mehr mit dir zu tun haben. Jetzt hau ab von hier. Wilde, hmpf! (Murmel, murmel) ... träge, wertlos, faul...}
 {201}{}{Du bringst mich noch mehr auf die Palme als Sulik! Ich hab keine Zeit, mit dir zu reden. Hau ab.}
 {202}{}{Ich will auch nichts mit dir zu tun haben. Wiedersehn.}
-{203}{}{Tut mir leid, daß ich dich aufgeregt hab. Ich weiß einfach nicht, wie man sich bei euch so verhält. Ich wollte dir nach den Sitten meines Stammes Respekt erweisen.}
+{203}{}{Tut mir leid, dass ich dich aufgeregt hab. Ich weiß einfach nicht, wie man sich bei euch so verhält. Ich wollte dir nach den Sitten meines Stammes Respekt erweisen.}
 {204}{}{Gott, tut mir wirklich sehr, sehr leid. Ich bin eben doch nur ein dummer Wilder. Kannst du mir verzeihn?}
-{205}{}{Ich wußte einfach nicht, was ich zu jemandem sagen soll, der so attraktiv ist wie du. In der Nähe einer schönen Frau werd immer nervös. Bitte nimm meine Entschuldigung an.}
-{206}{}{Du wirkst einfach so zivilisiert und schön. Ich war neidisch auf dich. Bitte verzeih mir. Es gibt so viel, daß ich von Frauen wie dir lernen muß.}
+{205}{}{Ich wusste einfach nicht, was ich zu jemandem sagen soll, der so attraktiv ist wie du. In der Nähe einer schönen Frau werd immer nervös. Bitte nimm meine Entschuldigung an.}
+{206}{}{Du wirkst einfach so zivilisiert und schön. Ich war neidisch auf dich. Bitte verzeih mir. Es gibt so viel, dass ich von Frauen wie dir lernen muss.}
 {210}{}{Hallo, mein Name ist Maida Buckner. Ich helf meiner Mutter mit dem Buckner-Haus. Kann ich dir helfen?}
 {211}{}{Häh?}
 {212}{}{Ich }
@@ -42,7 +42,7 @@
 {271}{}{Äh, wahrscheinlich. Erzähl mir was anderes.}
 {272}{}{Herrjeh, ich glaub von euch kann ich viel lernen. Ich würd auch gern zivilisiert sein, eines Tages.}
 {273}{}{Zivilisiert? Du glaubst, ihr seid zivilisiert, weil ihr in den ausgebrannten Ruinen einer Stadt aus den alten Zeiten wohnt? Erzähl mir was andres.}
-{274}{}{I think I've heard just about enough. Goodbye.}
+{274}{}{Ich glaube, ich habe jetzt genug gehört. Auf Wiedersehen.}
 {280}{}{Also, kann ich sonst noch was für dich tun?}
 {281}{}{Ich hab für die nächste Zeit mit Gecko-Häuten ausgesorgt. Kann ich sonst noch was für dich tun?}
 {282}{}{Eigentlich wollte ich noch was anderes erstehen.}
@@ -66,51 +66,50 @@
 {313}{}{Interessant. Ich hab noch 'ne Frage.}
 {320}{}{Sulik ist ein Wilder, der hier arbeitet, um Schulden abzuarbeiten, die durch seine eigene Dummheit entstanden sind. Er ist kein Sklave. Es gibt keine Sklaven in Klamath.}
 {321}{}{Schulden abbezahlen? Was meinst du damit?}
-{330}{}{Das war so. Eines nachts hat sich Sulik ziemlich aufgeregt und hat zuviel getrunken. In diesem Zustand hat er dann das ganze Haus kurz und klein geschlagen. Der Schaden hat fast $500 betragen. Ich laß das Ganze grad reparieren.}
+{330}{}{Das war so. Eines nachts hat sich Sulik ziemlich aufgeregt und hat zuviel getrunken. In diesem Zustand hat er dann das ganze Haus kurz und klein geschlagen. Der Schaden hat fast $500 betragen. Ich lass das Ganze grad reparieren.}
 {331}{}{Warum hat er sich so aufgeregt?}
-{340}{}{Er sagt, er hatte gerade rausgefunden, daß seine Schwester von Sklavenhändlern entführt worden war. Wenn du mehr wissen willst, mußt du ihn selber fragen. Er bleibt so lang hier, bis er für den Rest des Schadens zahlen kann, den er im Suff angerichtet hat.}
-{341}{}{Wieviel muß er abarbeiten?}
-{350}{}{Er muß noch $350 abbezahlen. Wenn er nicht so faul und träge wär, würd's schneller gehn. Er geht erst, wenn seine Schulden ganz bezahlt sind.}
+{340}{}{Er sagt, er hatte gerade rausgefunden, dass seine Schwester von Sklavenhändlern entführt worden war. Wenn du mehr wissen willst, musst du ihn selber fragen. Er bleibt so lang hier, bis er für den Rest des Schadens zahlen kann, den er im Suff angerichtet hat.}
+{341}{}{Wieviel muss er abarbeiten?}
+{350}{}{Er muss noch $350 abbezahlen. Wenn er nicht so faul und träge wär, würd's schneller gehn. Er geht erst, wenn seine Schulden ganz bezahlt sind.}
 {351}{}{Das ist 'ne ganze Stange Geld. Ich schätz, er wird noch 'ne ganze Weile hier sein.}
-{360}{}{Mag sein, daß er langsam ist, aber nach 'ner Weile wächst er einem irgendwie ans Herz. (Schaut wehmütig zur Seite)... (nervös) Genug gequatscht. Brauchst du noch was?}
+{360}{}{Mag sein, dass er langsam ist, aber nach 'ner Weile wächst er einem irgendwie ans Herz. (Schaut wehmütig zur Seite)... (nervös) Genug gequatscht. Brauchst du noch was?}
 {361}{}{Ich wollt noch was andres wissen.}
 {362}{}{Was wär, wenn jemand anderes Suliks Schulden zahlen würde?}
 {363}{}{Mehr brauche ich jetzt nicht. Wiedersehen.}
-{370}{}{Ich wüßte nicht, warum jemand anders seine Schulden zahlen sollte, aber das wär schon möglich. Die Rechnung beträgt $350. Ich weiß gar nicht, ob das gut wär — er würd ja doch nur wieder in Schwierigkeiten geraten.}
-{371}{}{Es gefällt mir nicht, daß er hier bei einer Betschwester wie dir bleiben muß. Ich werd für den Schaden zahlen.}
-{372}{}{Tja, er ist sicher glücklich, daß er für euch arbeiten darf, aber ich will seine Schulden trotzdem zahlen. Ich finde, niemand sollte auf diese Weise gefangen sein.}
+{370}{}{Ich wüsste nicht, warum jemand anders seine Schulden zahlen sollte, aber das wär schon möglich. Die Rechnung beträgt $350. Ich weiß gar nicht, ob das gut wär — er würd ja doch nur wieder in Schwierigkeiten geraten.}
+{371}{}{Es gefällt mir nicht, dass er hier bei einer Betschwester wie dir bleiben muss. Ich werd für den Schaden zahlen.}
+{372}{}{Tja, er ist sicher glücklich, dass er für euch arbeiten darf, aber ich will seine Schulden trotzdem zahlen. Ich finde, niemand sollte auf diese Weise gefangen sein.}
 {373}{}{Wahrscheinlich hast du recht. Ich hab sowieso nicht so viel Geld übrig. Wiedersehn.}
 {380}{}{OK. Wenn du wirklich für den Schaden zahlen willst, den er angerichtet hat... Ich schätze, ihr Wilden haltet wirklich zusammen.}
 {381}{}{Ja, das werd ich. Ich hab genug Geld, um für den Schaden zu zahlen.}
 {382}{}{Das ist vielleicht doch zuviel Geld. Ich glaub, ich will doch nicht für seinen Schaden zahlen. Wiedersehn.}
-{390}{}{Du mußt verrückt sein. Ich bin wirklich froh, daß dieser verdammte (schluchz) Wilde (schluchz) endlich (schluchz, schluchz) von hier verschwindet (schluchz).}
-{391}{}{(Schluchz) Ich würd sagen, das ist ein fairer Deal, ein vertrottelter Bruder für einen vertrottelten (schluchz) Wilden. Ich werd ihn kein bißchen vermissen.}
+{390}{}{Du musst verrückt sein. Ich bin wirklich froh, dass dieser verdammte (schluchz) Wilde (schluchz) endlich (schluchz, schluchz) von hier verschwindet (schluchz).}
+{391}{}{(Schluchz) Ich würd sagen, das ist ein fairer Deal, ein vertrottelter Bruder für einen vertrottelten (schluchz) Wilden. Ich werd ihn kein bisschen vermissen.}
 {392}{}{Naja, ich glaub, Sulik könnte das alles hier sogar irgendwie vermissen. Aber wir kommen wieder und besuchen euch, ganz sicher. Aber im Augenblick brauch ich erst mal was.}
 {393}{}{Ich glaub, Sulik geht's viel besser, wenn er nicht mehr in deiner Nähe ist.}
 {394}{}{Danke. Vielleicht sollte ich jetzt gehn.}
-{400}{}{Zurück, was? Ich hoffe, du kümmerst dich um Sulik. Ich bin sicher, er ist verloren, wenn ich ihm nicht sag, was er tun muß.}
+{400}{}{Zurück, was? Ich hoffe, du kümmerst dich um Sulik. Ich bin sicher, er ist verloren, wenn ich ihm nicht sag, was er tun muss.}
 {401}{}{Ich bin zurück, weil ich was brauche.}
 {402}{}{Naja, wahrscheinlich kann ich nicht so gut auf ihn aufpassen wie du, aber ich werd's versuchen.}
-{420}{}{Well, you'd be better off asking momma about what's going on right here in town.}
-{421}{}{You'd be better off asking momma about things here in town. Have you seen Torr anywhere? It
- seems as though he's run off, and we're sure worried.}
+{420}{}{Nun, da fragst du am besten Mammi, was in der Stadt derzeit so abgeht.}
+{421}{}{Du fragst am besten Mammi, was in der Stadt derzeit so abgeht. Hast du Torr irgendwo gesehn? Scheinbar ist er davongelaufen, und wir machen uns echt Sorgen.}
 {422}{}{OK, darüber werd ich dann mit Mrs. Buckner reden. Ich möcht dich aber noch was anderes fragen.}
-{423}{}{Nein, ich hab Torr nirgends gesehn. Wenn er mir über den Weg läuft, laß ich's dich wissen. Ich möcht dich aber noch was anderes fragen.}
-{430}{}{Danke, daß du meinen Bruder Torr gefunden hast. Ma und ich haben uns solche Sorgen gemacht. Was kann ich für dich tun?}
-{431}{}{Danke noch mal, daß du Torr gefunden hast. Was kann ich für dich tun?}
-{432}{}{Freut mich, daß ich Torr helfen konnte.}
-{433}{}{Freut mich, daß ich Torr gefunden habe, aber ich glaub nicht, daß ich im Augenblick was brauche. Wiedersehn.}
-{434}{}{Freut mich, daß ich helfen konnte. Vielleicht könntest du mir einen Gefallen tun und Sulik befreien, dafür daß ich deinen Bruder gefunden hab?}
-{440}{}{Hast du meinen Bruder Torr irgendwo gesehn? Er hat noch mehr Brahmin verloren und meine Mutter hat ihn angeschrien. Danach muß er davongelaufen sein.}
+{423}{}{Nein, ich hab Torr nirgends gesehn. Wenn er mir über den Weg läuft, lass ich's dich wissen. Ich möcht dich aber noch was anderes fragen.}
+{430}{}{Danke, dass du meinen Bruder Torr gefunden hast. Ma und ich haben uns solche Sorgen gemacht. Was kann ich für dich tun?}
+{431}{}{Danke noch mal, dass du Torr gefunden hast. Was kann ich für dich tun?}
+{432}{}{Freut mich, dass ich Torr helfen konnte.}
+{433}{}{Freut mich, dass ich Torr gefunden habe, aber ich glaub nicht, dass ich im Augenblick was brauche. Wiedersehn.}
+{434}{}{Freut mich, dass ich helfen konnte. Vielleicht könntest du mir einen Gefallen tun und Sulik befreien, dafür dass ich deinen Bruder gefunden hab?}
+{440}{}{Hast du meinen Bruder Torr irgendwo gesehn? Er hat noch mehr Brahmin verloren und meine Mutter hat ihn angeschrien. Danach muss er davongelaufen sein.}
 {441}{}{Äh-oh, und wo könnte er hingegangen sein?}
 {442}{}{Tut mir leid, das zu hören, aber ich brauch Informationen über was anderes.}
 {450}{}{Ich bin nicht sicher, wo er hingegangen ist, aber vielleicht ist er zu diesem Canyon gegangen. Davon hat er immer gesprochen.}
 {451}{}{Ein Canyon? Was für ein Canyon?}
-{460}{}{Naja, östlich vom Weideplatz unsrer Brahmin gibt's einen Canyon. Torr hat immer wilde Geschichten erzählt von Wanzenmännern, die aus dem Canyon kommen. Er hat auch erzählt, daß unsre Brahmin von Wanzenmännern verstümmelt wurden. Hat sich selbst 'ne Riesenangst mit diesen dummen Geschichten eingejagt.}
+{460}{}{Naja, östlich vom Weideplatz unsrer Brahmin gibt's einen Canyon. Torr hat immer wilde Geschichten erzählt von Wanzenmännern, die aus dem Canyon kommen. Er hat auch erzählt, dass unsre Brahmin von Wanzenmännern verstümmelt wurden. Hat sich selbst 'ne Riesenangst mit diesen dummen Geschichten eingejagt.}
 {461}{}{Hört sich so an, als ob da jeder Angst kriegen würde.}
-{470}{}{Möglich, daß er sich auf den Weg zum Canyon gemacht hat, um seinen Mut zu beweisen oder so. Ich hoff wirklich, daß ihn jemand findet, bevor ihm was passiert.}
+{470}{}{Möglich, dass er sich auf den Weg zum Canyon gemacht hat, um seinen Mut zu beweisen oder so. Ich hoff wirklich, dass ihn jemand findet, bevor ihm was passiert.}
 {471}{}{Vielleicht sollte ich nach ihm suchen.}
-{472}{}{Tut mir echt leid, daß ihr ihn nicht finden könnt. Ich bin sicher, es geht ihm gut. Ich brauch ein paar Informationen.}
+{472}{}{Tut mir echt leid, dass ihr ihn nicht finden könnt. Ich bin sicher, es geht ihm gut. Ich brauch ein paar Informationen.}
 {473}{}{Wer weiß, wo dein dämlicher Bruder hingegangen ist — und wen kümmert's? Ich brauch ein paar Informationen.}
 {480}{}{Ich wär so dankbar, wenn du meinen Bruder für mich und Mama finden könntest.}
 {481}{}{Ich werd gerne nach ihm umsehen.}

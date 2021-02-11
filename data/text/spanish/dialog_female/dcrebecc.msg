@@ -95,7 +95,7 @@
 {358}{}{Adiós.}
 {370}{}{¿Trampa? Oh, vaya, si conocieras a Fred lo entenderías. Me debe el dinero desde hace bastante tiempo. Lo daría por perdido, pero si pudieras recuperarlo, me dejarías anonadada... y te estaría agradecida. Está en algún lugar del pueblo, estoy segura.}
 {371}{}{El libro era 'La Flor de Lavanda'. Derek debería estar cerca del local de Mamá, al este del pueblo.}
-{372}{}{Veré lo que puedo hacer.}
+{372}{}{Sé lo que podemos hacer.}
 {373}{}{Parece fácil.}
 {374}{}{Ya lo encontré.}
 {375}{}{Te lo traeré.}

@@ -9,7 +9,7 @@
 {108}{}{Aktionspunkte}
 {109}{}{Rüstung}
 {110}{}{Schaden ohne Bewaffnung}
-{111}{}{Schaden im Nahkampf}
+{111}{}{Nahkampf-Sch.}
 {112}{}{Tragekapazität}
 {113}{}{Reaktion}
 {114}{}{Heilung}
@@ -36,16 +36,16 @@
 {135}{}{Trefferpunkte}
 {136}{}{Vergiftungsgrad}
 {137}{}{Verstrahlungsgrad}
-{200}{}{Rohe körperliche Gewalt. Große Stärke ist für körperbetonte Figuren wichtig. Beeinflußt: Trefferpunkte, Schaden im Nahkampf und Tragekapazität.}
-{201}{}{Fähigkeit, ungewöhnliche Dinge zu sehen, zu hören, zu schmecken und wahrzunehmen. Eine gute Wahrnehmung ist z.B. für Scharfschützen wichtig. Beeinflußt: Reaktions- und Distanzkampffaktoren.}
-{202}{}{Kondition und Belastbarkeit. Eine Figur mit hoher Ausdauer überlebt, wo andere längst sterben. Beeinflußt: Trefferpunkte, Resistenz gegen Gift u. Strahlung, Heilung, Zusatztrefferpunkte pro Level.}
-{203}{}{Kombination aus äußerer Erscheinung und Charme. Ein ausgeprägtes Charisma ist für Figuren wichtig, die Menschen mit Worten beeinflussen wollen. Beeinflußt: Reaktionen von inaktiven Figuren und Preise beim Handeln.}
-{204}{}{Wissen, Weisheit und schnelles Denkvermögen. Eine hohe Intelligenz ist für jede Figur wichtig. Beeinflußt: Anzahl der neuen Fähigkeitspunkte pro Level, Dialogoptionen und viele Fähigkeiten.}
-{205}{}{Koordination und geschickte Bewegung. Eine hohe Beweglichkeit ist für jede aktive Figur wichtig. Beeinflußt: Aktionspunkte, Rüstung, Reaktion und viele Fähigkeiten.}
+{200}{}{Rohe körperliche Gewalt. Große Stärke ist für körperbetonte Figuren wichtig. Beeinflusst: Trefferpunkte, Schaden im Nahkampf und Tragekapazität.}
+{201}{}{Fähigkeit, ungewöhnliche Dinge zu sehen, zu hören, zu schmecken und wahrzunehmen. Eine gute Wahrnehmung ist z.B. für Scharfschützen wichtig. Beeinflusst: Reaktions- und Distanzkampffaktoren.}
+{202}{}{Kondition und Belastbarkeit. Eine Figur mit hoher Ausdauer überlebt, wo andere längst sterben. Beeinflusst: Trefferpunkte, Resistenz gegen Gift u. Strahlung, Heilung, Zusatztrefferpunkte pro Level.}
+{203}{}{Kombination aus äußerer Erscheinung und Charme. Ein ausgeprägtes Charisma ist für Figuren wichtig, die Menschen mit Worten beeinflussen wollen. Beeinflusst: Reaktionen von inaktiven Figuren und Preise beim Handeln.}
+{204}{}{Wissen, Weisheit und schnelles Denkvermögen. Eine hohe Intelligenz ist für jede Figur wichtig. Beeinflusst: Anzahl der neuen Fähigkeitspunkte pro Level, Dialogoptionen und viele Fähigkeiten.}
+{205}{}{Koordination und geschickte Bewegung. Eine hohe Beweglichkeit ist für jede aktive Figur wichtig. Beeinflusst: Aktionspunkte, Rüstung, Reaktion und viele Fähigkeiten.}
 {206}{}{Schicksal oder Karma. Ein extrem hoher oder niedriger Glückswert wirkt sich auf irgendeine Art auf die Figur aus. Ereignisse und Situationen ändern sich in Abhängigkeit davon, wie viel oder wenig Glück eine Figur hat.}
 {207}{}{Die Verletzungen, die deine Figur verkraften kann, bevor sie stirbt. Wenn du null oder weniger Trefferpunkte erreichst, bist du tot.}
 {208}{}{Die Anzahl der Aktionen, die eine Figur durchführen kann, wenn sie am Zug ist.}
-{209}{}{Beeinflußt die Wahrscheinlichkeit, daß diese Figur getroffen wird.}
+{209}{}{Beeinflusst die Wahrscheinlichkeit, dass diese Figur getroffen wird.}
 {210}{}{Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
 {211}{}{Der zusätzliche Schaden, den deine Figur im Nahkampf anrichten kann.}
 {212}{}{Das Höchstgewicht der Ausrüstung, die deine Figur tragen kann, angegeben in Pfund.}
@@ -67,7 +67,7 @@
 {228}{}{Verletzungsresistenz - Elektrisch}
 {229}{}{Verletzungsresistenz - EMP}
 {230}{}{Verletzungsresistenz - Explosion}
-{231}{}{The amount of radiation you are exposed to is reduced by this percentage. Radiation Resistance can be modified by the type of armor worn, and anti-radiation drugs.}
+{231}{}{Die Strahlung, der du ausgesetzt bist, wird um diesen Prozentsatz verringert. Die Strahlungsresistenz lässt sich durch die Art der getragenen Rüstung und Antistrahlenmittel beeinflussen.}
 {232}{}{Jede Vergiftung wird um diesen Prozentsatz verringert.}
 {233}{}{Alter}
 {234}{}{Geschlecht}
@@ -89,9 +89,9 @@
 {402}{}{Erfahrung}
 {403}{}{Ansehen}
 {404}{}{Karma}
-{500}{}{Punkte, die durch das Erreichen eines neuen Levels verdient wurden. Mit einem Punkt läßt sich eine Fähigkeit um 1 % oder eine Spezialkenntnis um 2 % erhöhen.}
+{500}{}{Punkte, die durch das Erreichen eines neuen Levels verdient wurden. Mit einem Punkt lässt sich eine Fähigkeit um 1 % oder eine Spezialkenntnis um 2 % erhöhen.}
 {501}{}{Die allgemeine Kompetenz einer Spielerfigur. Ein Maß für deine Erfahrung und Fähigkeiten.}
 {502}{}{Eine Belohnung für die Durchführung bestimmter Aufgaben oder das Besiegen des Feindes im Kampf. Um höhere Level zu erreichen, sind mehr Erfahrungspunkte erforderlich.}
-{503}{}{Was die Welt von deinen Handlungen und Taten weiß. Beeinflußt die Reaktionen von inaktiven Figuren.}
+{503}{}{Was die Welt von deinen Handlungen und Taten weiß. Beeinflusst die Reaktionen von inaktiven Figuren.}
 {504}{}{Die Auswirkungen deiner Handlungen. Wichtige Informationen werden angezeigt.}
 {600}{}{Du hast ein neues Level erreicht.}

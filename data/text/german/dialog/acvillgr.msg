@@ -5,7 +5,7 @@
 {152}{}{Hallo! Ich habe gehört, du bist das Auserwählte Wesen. Jetzt kann unser Dorf vielleicht gerettet werden.}
 {153}{}{Kannst du mir sagen, wo ich noch mehr Heilpulver finden kann?}
 {154}{}{Was kannst du mir über die Händler erzählen, die mit uns Geschäfte machen?}
-{155}{}{Es ist schön, dich zu sehen, aber ich muß jetzt gehn.}
+{155}{}{Es ist schön, dich zu sehen, aber ich muss jetzt gehn.}
 {156}{}{Mögen die Götter dich auf deiner Reise beschützen.}
 {157}{}{Ich hätte eine Frage.}
 {158}{}{Auf Wiedersehn, mein Freund.}
@@ -36,8 +36,8 @@
 {185}{}{Vielen Dank. Auf Wiedersehen.}
 {186}{}{Noch eine Frage, wenn du gestattest.}
 {300}{}{Hallo, Auserwähltes Wesen. Schön, dich wiederzusehen. Ich bete für den Erfolg deiner heiligen Suche. Kann ich dir irgendwie helfen?}
-{301}{}{Auserwähltes Wesen, unsere Leute sterben. Du mußt dich bei deiner Suche nach dem heiligen GECK beeilen. Wie kann ich dir bei dieser heiligsten aller Aufgaben helfen?}
-{302}{}{Uns bleibt nur noch sehr wenig Zeit, Auserwähltes Wesen. Bitte beende bald deine heilige Suche. Wir können nicht länger warten. Wenn ich dir irgendwie dabei helfen kann, uns zu retten, dann laß es mich wissen.}
+{301}{}{Auserwähltes Wesen, unsere Leute sterben. Du musst dich bei deiner Suche nach dem heiligen GECK beeilen. Wie kann ich dir bei dieser heiligsten aller Aufgaben helfen?}
+{302}{}{Uns bleibt nur noch sehr wenig Zeit, Auserwähltes Wesen. Bitte beende bald deine heilige Suche. Wir können nicht länger warten. Wenn ich dir irgendwie dabei helfen kann, uns zu retten, dann lass es mich wissen.}
 {303}{}{Auserwähltes Wesen, unser Dorf ist fast ausgestorben... du bist unsere einzige Hoffnung. Kann ich dir irgendwelche Informationen geben, die dir bei unserer Rettung helfen könnten?}
 {1000}{}{Älteste}
 {1001}{}{Gründer}

@@ -1,7 +1,7 @@
 {100}{}{Großer Typ. Mit Waffe. Steht da rum. Wache.}
 {101}{}{Immer noch eine Wache.}
 {102}{}{Er hat eine Sklavenhändlertätowierung auf der Stirn, die ihn auch nicht gerade
- intelligenter aussehen läßt.}
+ intelligenter aussehen lässt.}
 {103}{}{Rede mit Mr. Vortis, nicht mit mir.}
 {104}{}{Ähh...}
 {105}{}{Du hast Fragen? Rede mit Vortis.}

@@ -10,7 +10,7 @@
 {109}{}{¿Qué dices con pez?}
 {110}{}{¿Qué quieres decir con eso?}
 {111}{}{Estás atrayendo la atención de un montón de gente. Debes tener cuidado.}
-{112}{}{Sigue.}
+{112}{}{Continúa.}
 {113}{}{Continúa, estoy escuchando.}
 {114}{}{De momento ya he dicho suficiente. Creo que deberías volver a ocuparte de tus asuntos.}
 {115}{}{Joshua dijo lo mismo a yo. Necesito hacerte pregunta.}

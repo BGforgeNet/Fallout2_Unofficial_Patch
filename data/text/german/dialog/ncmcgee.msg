@@ -22,7 +22,7 @@
 {237}{}{Hör auf, dem ollen McGee was vorzuenthalten, Liebling...}
 {238}{}{Das Haus is' wieder geg'n mich!}
 {239}{}{Komm schon, Mädel, sei jetzt lieb zu McGee...}
-{240}{}{Gib mir 'n bißchen Liebe, Süße.}
+{240}{}{Gib mir 'n bisschen Liebe, Süße.}
 {241}{}{Hab dich nach der Auszahlung gefragt, komm jetzt!}
 {242}{}{Nur noch ein Zug...}
 {243}{}{Werd meine gottverdammten Chips KRIEG'N und wenn's 's ganze Jahr dauert...}
@@ -31,11 +31,11 @@
 {246}{}{Morg'n sieht die Welt wieder anners aus.}
 {247}{}{Heut werd ich gewinnen. Die Glücksmarie sagt, 's is' so gut wie sicher.}
 {248}{}{::Schlägt auf den Automaten ein::}
-{255}{}{Faß mein' Automat noch mal an und ich werd deine Haut auf Golgotha verrotten sehn.}
+{255}{}{Fass mein' Automat noch mal an und ich werd deine Haut auf Golgotha verrotten sehn.}
 {256}{}{Du bleibs' besser von mei'm Automat weg, wennde weißt, was gut für dich ist...}
 {260}{}{Verdammt! Bin schon wieder pleite!}
 {261}{}{Das Haus is' wieder geg'n mich!}
-{262}{}{Muß noch 'n paar Chips hol'n...}
+{262}{}{Muss noch 'n paar Chips hol'n...}
 {263}{}{Gottverdammter Automat! Schluckt meine ganzen Chips...}
 {270}{}{Hast meine 'Tschuldigung, Fremdling. Glück sei mit dir.}
 {271}{}{Tut mir leid, hab die Beherrschung verlor'n. Wüstensonne bringt 'n Mann dazu, verdammt blöde Sachen zu sagen.}
@@ -62,12 +62,12 @@
 {297}{}{Schlampe? SCHLAMPE?! Opa, du wirst einen Chirurgen brauchen, um meinen Stiefel wieder aus deinem Hintern zu kriegen.}
 {298}{}{Egal. Ich gehe.}
 {305}{}{Reden?! REDEN?! Was zum TEUFEL haben wir zu bereden, du gottverdammter Dieb!}
-{307}{}{Schau, ich habe das Geld anständig und ehrlich gewonnen, Opa. Paßt dir nicht? Das ist DEIN Problem.}
+{307}{}{Schau, ich habe das Geld anständig und ehrlich gewonnen, Opa. Passt dir nicht? Das ist DEIN Problem.}
 {309}{}{Dieb? Opa, du hältst besser deine Zunge im Zaum, bevor ich sie dir in den Rachen schiebe.}
-{310}{}{Dann vergiß es. Ich gehe.}
+{310}{}{Dann vergiss es. Ich gehe.}
 {315}{}{Junge, wir wer'n hier über GAR NIX reden. Du wirst dir nicht mehr als ein paar Kugeln holen.}
 {316}{}{Mädel, wir wer'n hier über GAR NIX reden. Du wirst dir nicht mehr als ein paar Kugeln holen.}
-{317}{}{(Faßt nach seinem Gewehr, greift ins Leere) Eh? Wo zum Teufel ist mein Gewehr...?}
+{317}{}{(Fasst nach seinem Gewehr, greift ins Leere) Eh? Wo zum Teufel ist mein Gewehr...?}
 {318}{}{Ich zeig's dir...}
 {319}{}{Äh oh...}
 {320}{}{I nehm widu nix guckst.}
@@ -78,7 +78,7 @@
 {336}{}{Äh, wie wär's mit 250 Chips?}
 {337}{}{Sicher. Die ganzen 473 Chips. Hier.}
 {338}{}{Im Moment geht's nicht. Ich hab nicht so viel bei mir.}
-{339}{}{Vergiß es. Ich gehe.}
+{339}{}{Vergiss es. Ich gehe.}
 {345}{}{}
 {346}{}{}
 {347}{}{Hmmmmmm. Ja, also...dassis nich' annähernd so viel, wie ich in diesen Automaten reingesteckt hab, 
@@ -108,7 +108,7 @@
 {394}{}{Wer bist du?}
 {395}{}{Was machst du?}
 {396}{}{Was dagegen, wenn ich zieh?}
-{397}{}{Egal. Tut mir leid, daß ich dich belästigt habe.}
+{397}{}{Egal. Tut mir leid, dass ich dich belästigt habe.}
 {405}{}{(Eine Reihe von Symbolen laufen am Spielautomaten durch und ein *bsssst* ist zu hören) Verdammt! Störrischer Kasten! 
  Eines Tages werd ich mir meine Chips zurückhol'n...}
 {407}{}{ gehn jetzt! Tschüüüß}
@@ -124,8 +124,8 @@
 {427}{}{(Grinst) Dich meinen Automaten anfassen lassen? Mir Pech bringen lassen?! Verdammt, nee! Verschwinde hier!}
 {428}{}{In Ordnung also...}
 {435}{}{Verdammter sabbernder Idiot! Ich nehm mir das Geld jetzt zurück!}
-{445}{}{Sieht so aus, als müßt ich mir mein Geld von deiner Leiche holen, Junge! Mach dich auf 'ne Bleiladung gefaßt!}
-{446}{}{Sieht so aus, als müßt ich mir mein Geld von deiner Leiche holen, Mädel! Mach dich auf 'ne Bleiladung gefaßt!}
+{445}{}{Sieht so aus, als müsst ich mir mein Geld von deiner Leiche holen, Junge! Mach dich auf 'ne Bleiladung gefasst!}
+{446}{}{Sieht so aus, als müsst ich mir mein Geld von deiner Leiche holen, Mädel! Mach dich auf 'ne Bleiladung gefasst!}
 {455}{}{Hab meine ganzen Ersparnisse in dieses einarmige kleine Luder gesteckt und hab noch nich' mal die gestohlene 
  Zeit zurückgekriegt. Dann kommst DU und nimmst dir alles!}
 {465}{}{Wüstensonne kann 'n Mann dazu bringen, verdammt blöde Sachen zu sagen und ich möcht mich bei dir 

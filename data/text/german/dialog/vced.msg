@@ -8,7 +8,7 @@
 {105}{}{Keine Ahnung, wo andauernd dieser ganze Brahmin-Mist herkommt. Die tauchen einfach
  irgendwie auf.}
 {106}{}{Hey, hallo Fremdling. Ich bin Ed, der Brahmin-Händler. Kann ich was für dich tun?}
-{107}{}{Fein, daß du wieder mal auftauchst. Was kann ich für dich tun?}
+{107}{}{Fein, dass du wieder mal auftauchst. Was kann ich für dich tun?}
 {108}{}{Kennst du einen Händler, der Vic heißt? Er sagte, er hätte diese Wasserflasche bei dir
  gekauft.}
 {109}{}{Kennst du einen Händler, der Vic heißt?}
@@ -20,9 +20,9 @@
 {115}{}{Wiedersehn.}
 {116}{}{Vic?}
 {117}{}{Er hat dir eine Wasserflasche verkauft? Eine mit "13" drauf?}
-{118}{}{Ganz egal. Ich muß ohnehin los.}
+{118}{}{Ganz egal. Ich muss ohnehin los.}
 {119}{}{Hast du sie dabei? Vielleicht hilft das meinem Gedächtnis auf die Sprünge.}
-{120}{}{Dann vergiß es. Ich hätte da noch ein paar andere Fragen...}
+{120}{}{Dann vergiss es. Ich hätte da noch ein paar andere Fragen...}
 {121}{}{Ich werd versuchen, das Ding aufzutreiben. Bis nachher.}
 {122}{}{Oh ja, ja...klar kann ich mich daran erinnern. Ist ganz schön lange her, Vic. Was, eine
  Wasserflasche? Was soll damit sein?}
@@ -41,7 +41,7 @@
  Wurde mir aber irgendwann zu gefährlich und seitdem bleibe ich hier.}
 {131}{}{Wo liegt denn das alles?}
 {132}{}{Ich verstehe. Also, danke für die Auskunft.}
-{133}{}{Paß auf, ich zeig's dir auf deiner Karte. Schau mal, Broken Hills ist im Süden...wenn du
+{133}{}{Pass auf, ich zeig's dir auf deiner Karte. Schau mal, Broken Hills ist im Süden...wenn du
  von da aus immer nach Westen gehst, kommst du nach Reno. Nordwestlich von Reno ist Redding. Von
  da aus geht's nach Norden weiter bis Den, dann nach Osten bis Modoc und dann noch weiter nach
  Osten, bis hierher zurück.}

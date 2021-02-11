@@ -1,8 +1,8 @@
 {100}{}{Ein Soldat in Dienstuniform.}
 {101}{}{Irgendein PFC-Techniker, Grad X.}
 {102}{}{Er trägt eine Militäruniform, aber offensichtlich ist der Kerl eher ein Techniker als ein Soldat.}
-{103}{}{Hört mal, wie oft muß ich Euch Dummköpfen das noch erklären? Versperrt nicht den Weg!}
-{104}{}{Hast Du keine Schußwaffe?}
+{103}{}{Hört mal, wie oft muss ich Euch Dummköpfen das noch erklären? Versperrt nicht den Weg!}
+{104}{}{Hast Du keine Schusswaffe?}
 {105}{}{Sei gegrüßt, Kavallerist.}
 {106}{}{Wer bist Du? Wachen!}
 {107}{}{Was zur Hölle ist das? Eindringling auf der Basis!}

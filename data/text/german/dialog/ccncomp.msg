@@ -3,7 +3,7 @@
 {102}{}{Der Zentralrechner für Navarro.}
 {103}{}{Bitte Passwort eingeben.}
 {104}{}{Gib 'Snookie' ein}
-{105}{}{Vergiß das Ding.}
+{105}{}{Vergiss das Ding.}
 {106}{}{Zur Hölle damit.}
 {107}{}{Versuch, dich in das System zu hacken.}
 {108}{}{Willkommen in der Enklave. Sie besitzen derzeit limitierte Systemprivilegien. Zur einfacheren Bedienung ist dieses System mit einem Stimmerkennungsmodul ausgestattet. Bitte geben Sie alle Anfragen in normaler Sprache ein.}
@@ -19,7 +19,7 @@
 {118}{}{Wo befindet sich das Büro des Basiskommandanten?}
 {119}{}{Das war wohl alles.}
 {120}{}{Suche... Zugriff auf aktuelle Inventardaten... Daten empfangen. Die aktuellen
- Aufzeichnungen zeigen, daß sich 1 Satz Vertibird-Schemazeichnungen auf Lager befindet. Vier
+ Aufzeichnungen zeigen, dass sich 1 Satz Vertibird-Schemazeichnungen auf Lager befindet. Vier
  Exemplare der Vertibird-Schemazeichnungen wurden in diesem Quartal bestellt. Vier Exemplare
  wurden ausgegeben. Drei Exemplare der Vertibird-Schemazeichnungen wurden in diesem Quartal als
  verloren gemeldet. Die Vertibird-Schemazeichnungen befinden sich in der Wartungsabteilung.}
@@ -41,7 +41,7 @@
 {130}{}{Wie komme ich dahin?}
 {131}{}{Suche... Zugriff auf Transportmittelverzeichnis... Daten empfangen. Die Transportdateien zeigen
  1257 Möglichkeiten, das Enklave-Hauptquartier zu erreichen. Allerdings zeigen die Daten
- auch, daß derzeit nur 2 Methoden verfügbar sind. Einen Vertibird-Transport gibt es
+ auch, dass derzeit nur 2 Methoden verfügbar sind. Einen Vertibird-Transport gibt es
  über den Außenposten Navarro. Schiffstransport ist verfügbar im Hafen von San Francisco. Hinweis:
  Der Schiffstransport ist aufgrund der Sicherheitsverordnung 9873-334-27A als nicht
  verfügbar gekennzeichnet. Das Schiff wurde stillgelegt und ein Sicherheitsschlüssel ist zu

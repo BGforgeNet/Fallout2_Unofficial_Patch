@@ -19,7 +19,7 @@
 {166}{}{Oh, grausames Schicksal.}
 {167}{}{Du kannst mich nicht hören, nicht wahr?}
 {168}{}{Bis später, Geistermädchen.}
-{169}{}{Tschüß. Ich werd versuchen, dir zu helfen.}
+{169}{}{Tschüss. Ich werd versuchen, dir zu helfen.}
 {170}{}{Mein Medaillon! Gib es mir!!! Oh!!!!}
 {171}{}{Niemals! Ich hab's ganz ehrlich gefunden.}
 {172}{}{OK. Hier hast du es.}

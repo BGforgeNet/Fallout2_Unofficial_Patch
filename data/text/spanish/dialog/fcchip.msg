@@ -51,7 +51,7 @@
 {150}{}{Bien. Iré a hablar con Fung.}
 {151}{}{Bien. De todos modos ya me importas una mierda.}
 {152}{}{Si pudieras hacer algo al respecto... matarlo, o convencerlo, o algo... moriré sin él.}
-{153}{}{Veré lo que puedo hacer.}
+{153}{}{Sé lo que podemos hacer.}
 {154}{}{Lo siento, amigo... creo que estás jodido. No puedo ayudarte.}
 {155}{}{Sin bazo, moriré. De todos modos, gracias por tu ayuda.}
 {156}{}{Lo encontré. Ve a los aposentos del doctor Wong.}

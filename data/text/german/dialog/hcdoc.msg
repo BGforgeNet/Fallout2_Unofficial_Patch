@@ -11,8 +11,8 @@
 {109}{}{Erzähl mir was über die Stadt.}
 {110}{}{Irgendwelchen Klatsch?}
 {111}{}{Verkauf mir ein paar Stimpaks.}
-{112}{}{Vergiß es, tut mir leid.}
-{113}{}{Laß mich mal sehen. Ich kann dich wieder gesund machen, aber das wird teuer.}
+{112}{}{Vergiss es, tut mir leid.}
+{113}{}{Lass mich mal sehen. Ich kann dich wieder gesund machen, aber das wird teuer.}
 {114}{}{Wieviel?}
 {115}{}{Vergiss es.}
 {116}{}{Ja, da kann ich dir helfen... ::keuch:: gegen ein gewisses Entgelt.}
@@ -33,7 +33,7 @@
 {126}{}{Du würdest staunen, was die Leute unter Schmerzen alles erzählen.}
 {127}{}{Ach ja, was denn?}
 {128}{}{Ich hab mich anders entschieden. Ich möchte lieber andere Fragen stellen.}
-{129}{}{That'll cost you $50.}
+{129}{}{Das macht $50.}
 {130}{}{In Ordnung.}
 {131}{}{Vergiss es.}
 {132}{}{Bei solchen Wunden verlierst du $100.}
@@ -43,29 +43,29 @@
  tun... $150.}
 {136}{}{In Ordnung.}
 {137}{}{Vergiss es.}
-{138}{}{Autsch! Bei dir muß ordentlich genäht werden. $200.}
+{138}{}{Autsch! Bei dir muss ordentlich genäht werden. $200.}
 {139}{}{In Ordnung.}
 {140}{}{Vergiss es.}
 {141}{}{Puhh... das wird jetzt ganz schön weh tun. $300 und du bist wieder wie neu.}
 {142}{}{In Ordnung.}
 {143}{}{Vergiss es.}
-{144}{}{Er kommt wieder in Ordnung, wenn ich ihm dabei ein bißchen helfe... ::keuch:: und du
+{144}{}{Er kommt wieder in Ordnung, wenn ich ihm dabei ein bisschen helfe... ::keuch:: und du
  $50 lockermachst.}
 {145}{}{In Ordnung.}
 {146}{}{Vergiss es.}
 {147}{}{Hast du auch ein paar Kämpfe gesehen? Ich war früher auch ganz schön wild. War auch hin
- und wieder voller Löcher. Dieses kleine Mißgeschick kostet dich $100.}
+ und wieder voller Löcher. Dieses kleine Missgeschick kostet dich $100.}
 {148}{}{In Ordnung.}
 {149}{}{Vergiss es.}
 {150}{}{Kümmerst du dich gut um deine Freunde? ::hust:: Wenn du dich um den hier kümmern willst,
  kostet dich das $150.}
 {151}{}{In Ordnung.}
 {152}{}{Vergiss es.}
-{153}{}{Du mußt ganz schön was drauf haben, wenn deine Freunde so zu dir stehen. Hoffentlich bist
+{153}{}{Du musst ganz schön was drauf haben, wenn deine Freunde so zu dir stehen. Hoffentlich bist
  du es wert... das hier wird nämlich ::hust:: $200 kosten.}
 {154}{}{In Ordnung.}
 {155}{}{Vergiss es.}
-{156}{}{Autsch! Da muß ich einen Gips anlegen oder sowas. Meine umfangreichen medizinischen
+{156}{}{Autsch! Da muss ich einen Gips anlegen oder sowas. Meine umfangreichen medizinischen
  Kenntnisse wirst du mir mit $300 entlohnen.}
 {157}{}{In Ordnung.}
 {158}{}{Vergiss es.}
@@ -78,29 +78,29 @@
 {164}{}{So geht das nicht.}
 {165}{}{Wie wär's damit?}
 {166}{}{Das ist alles, was ich dir anbieten kann. Bis dann.}
-{167}{}{::Keuch:: Bist du verletzt? Laß mal sehen. Hast du Geld?}
+{167}{}{::Keuch:: Bist du verletzt? Lass mal sehen. Hast du Geld?}
 {168}{}{Geld?}
 {169}{}{Ja!}
-{170}{}{Laß mal deine Tasche sehen. (Er durchsucht deine Tasche und nimmt etwas heraus.) OK. Also,
- es kann jetzt ein bißchen weh tun.}
+{170}{}{Lass mal deine Tasche sehen. (Er durchsucht deine Tasche und nimmt etwas heraus.) OK. Also,
+ es kann jetzt ein bisschen weh tun.}
 {171}{}{Weh?}
 {172}{}{Ja. So... das hätten wir! Alles klar. Viel Glück jetzt, OK? Verletz dich nicht wieder!}
 {173}{}{Tanke!}
-{174}{}{Schon gut. Ich bin ja Arzt. Gut zu wissen, daß es mitten im postatomaren Zeitalter noch
+{174}{}{Schon gut. Ich bin ja Arzt. Gut zu wissen, dass es mitten im postatomaren Zeitalter noch
  intelligente Wesen gibt.}
 {175}{}{Ha! Und das im Körper eines 70-jährigen Mannes!}
-{176}{}{Ich muß mir von dir keinen Mist anhören, Alter.}
+{176}{}{Ich muss mir von dir keinen Mist anhören, Alter.}
 {177}{}{Hmmm... Ja. Ich hatte noch mehr Fragen.}
-{178}{}{Tschüß.}
+{178}{}{Tschüss.}
 {179}{}{Den einzigen Arzt in der Stadt bedrohen. Gute Idee. ::hust:: Wenn du was willst,
  Freundchen, dann kannst du auch höflich darum bitten. Sonst hau sofort aus meinem Krankenhaus
  ab.}
-{180}{}{Du kannst mich, Alter. Du mußt jetzt sterben.}
+{180}{}{Du kannst mich, Alter. Du musst jetzt sterben.}
 {181}{}{Jaja, schon gut.}
 {182}{}{Tut mir leid. Schlechten Tag erwischt.}
 {183}{}{Ich hab ja nur Spaß gemacht.}
-{184}{}{Du mußt noch ganz schön viel über Respekt lernen, du Frischling.}
-{185}{}{Du mußt noch ganz schön viel über Humor lernen, mein Kind.}
+{184}{}{Du musst noch ganz schön viel über Respekt lernen, du Frischling.}
+{185}{}{Du musst noch ganz schön viel über Humor lernen, mein Kind.}
 {186}{}{Ja, alles klar.}
 {187}{}{OK, du hast mich verärgert. Jetzt kannst du dich selbst verarzten.}
 {188}{}{(Du siehst den Anflug eines Lachens in seinen Augen hinter der Brille.) Ich komm in
@@ -108,20 +108,20 @@
 {189}{}{He!}
 {190}{}{Alter Mann, zwing mich nicht.}
 {191}{}{...in denen lebt das Wissen unserer Vorfahren weiter...}
-{192}{}{Ja, ja, schon gut... jetzt muß ich aber gehen.}
+{192}{}{Ja, ja, schon gut... jetzt muss ich aber gehen.}
 {193}{}{Jetzt bleib mal ganz ruhig. Ich mach ja nur Spaß.}
 {194}{}{Weiß ich ja. Also... ähhmm...}
 {195}{}{...und das, was wir euch Plagen nicht weitergeben wollen! (Er bricht in Gelächter aus.)
  Wenn du das nächste Mal medizinische Hilfe brauchst, geht das auf Kosten des Hauses.}
 {196}{}{Ich hätte noch ein paar Fragen.}
 {197}{}{Danke. Bis bald mal.}
-{198}{}{Bist du verletzt? Laß mich mal machen.}
-{199}{}{Umm...}
+{198}{}{Bist du verletzt? Lass mich mal machen.}
+{199}{}{Mmmm...}
 {200}{}{Danke. Bis bald!}
 {201}{}{Wer ist verletzt? Oh je, stellt euch mal in einer Reihe auf, dann kümmer ich mich um euch
  alle.}
-{202}{}{One more thing...}
-{203}{}{Danke! Tschüß dann!}
+{202}{}{Da ist noch was...}
+{203}{}{Danke! Tschüss dann!}
 {204}{}{Erstaunlich wenig. Tut mir leid, aber wenn ich jemanden verarzte, kümmere ich mich
  normalerweise nicht um seine geheimsten Gedanken.}
 {205}{}{Oh. Beantwortest du noch ein paar Fragen?}
@@ -138,7 +138,7 @@
  hierher kamen. Ich sah, wie Menschen aufwuchsen und starben. Ich habe den Lauf der Geschichte
  verfolgt.}
 {213}{}{Das heißt also...}
-{214}{}{Das heißt, daß ich die Leute aus der Stadt alle nicht mehr kenne. Die meisten meiner
+{214}{}{Das heißt, dass ich die Leute aus der Stadt alle nicht mehr kenne. Die meisten meiner
  Erinnerungen sind eben nur Erinnerungen.}
 {215}{}{OK. Vielen Dank dann für die Geschichte.}
 {216}{}{Du alter Trottel! Dafür habe ich so lange gewartet?}
@@ -163,8 +163,8 @@
 {311}{}{Miria.}
 {312}{}{Robo-Hirn.}
 {313}{}{Macht nichts.}
-{314}{}{Bist du verletzt? Laß mal sehen. Ich kümmer mich auch um deine Freunde.}
+{314}{}{Bist du verletzt? Lass mal sehen. Ich kümmer mich auch um deine Freunde.}
 {315}{}{Na also. Schon besser, oder?}
 {316}{}{[Fortfahren]}
 {400}{}{Dogmeat.}
-{401}{}{K-9.}
+{401}{}{K-9}

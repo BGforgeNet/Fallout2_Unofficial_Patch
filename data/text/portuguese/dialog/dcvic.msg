@@ -115,7 +115,7 @@ escravista. O que você está fazendo aqui?}
 {834}{}{Você está um pouco cheio, Chefe. Eu espero aqui por você até que você tenha trabalhado as coisas. A culinária da mãe me faz lembrar da minha ex-esposa ... não tenho certeza se é uma coisa boa ou ruim ...}
 {835}{}{Eu adoraria, chefe. É só que você não parece ter mais espaço. Vou dirigir-me para a mãe. Eu não estive lá há algum tempo. Apenas venha me buscar se você encontrar algum espaço para mim.}
 {840}{}{Ed está no Vault City. Ele é um revendedor Brahmin. Ele era apenas um dos meus muitos fornecedores. Vault City não está muito longe daqui.}
-{845}{}{I told you, it's over here. [Vic points to a location on your Pip-Boy 2000.]}
+{845}{}{Eu disse a você, está aqui. [O Vic aponta pra um local no seu PIPBoy2000.]}
 {900}{}{Você aprendeu que Vic era comerciante.}
 {1000}{}{Eu preciso perguntar uma coisa.}
 {1100}{}{Totalmente curado, Chefe. Mais alguma coisa?}

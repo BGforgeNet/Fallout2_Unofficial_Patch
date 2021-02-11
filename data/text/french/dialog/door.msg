@@ -101,8 +101,8 @@
 {201}{}{ désactive adroitement le piège.}
 {202}{}{ ne réussit pas à désactiver le piège.}
 {203}{}{La porte est verrouillée.}
-{204}{}{You notice a trap in the door jam.}
-{205}{}{ notices a trap in the door jam.}
+{204}{}{You notice a trap in the door jamb.}
+{205}{}{ notices a trap in the door jamb.}
 {206}{}{Tu es incapable de placer un piège sur cette porte, parce qu'elle est ouverte.}
 {207}{}{ est incapable de placer un piège sur cette porte, parce qu'elle est ouverte.}
 {208}{}{Tu réussis à placer un piège sur l'encadrement de la porte.}
@@ -124,3 +124,6 @@
 {501}{}{On dirait que tu vas d'abord devoir faire fonctionner le générateur.}
 {502}{}{Tu vois : la porte de l'ascenseur.}
 {503}{}{On dirait qu'il va te falloir un dispositif électrique pour ouvrir ce verrou.}
+{601}{}{It is open, dummy.}
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}

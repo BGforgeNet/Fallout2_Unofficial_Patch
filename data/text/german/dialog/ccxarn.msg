@@ -11,10 +11,10 @@
 {109}{}{Warte. Ich Meinung anders. Warum du hier?}
 {110}{}{Ich bin bereit, das Schlachtfest beginnt.}
 {111}{}{Einen Augenblick, warum bist du hier?}
-{112}{}{Es fällt schwer zu glauben, daß mich ein Soldat der Enklave retten will. Wahrscheinlicher
- ist, daß du mir Hoffnung geben willst, um sie später zu zerschmettern.}
+{112}{}{Es fällt schwer zu glauben, dass mich ein Soldat der Enklave retten will. Wahrscheinlicher
+ ist, dass du mir Hoffnung geben willst, um sie später zu zerschmettern.}
 {113}{}{Nein. Ich hier dich retten. EHRLICH.}
-{114}{}{Paß auf, ich bin wirklich hier, um dich zu retten!}
+{114}{}{Pass auf, ich bin wirklich hier, um dich zu retten!}
 {115}{}{Du bist meine letzte Hoffnung, deswegen vertraue ich dir. Diese Tür da drüben führt zu
  einem Lüftungsschacht, der einen Ausgang in den Wäldern über uns besitzt. Es sollte mir möglich
  sein, den Schacht emporzuklettern und in die Freiheit zu gelangen. Doch die Tür ist fest
@@ -25,16 +25,16 @@
 {118}{}{Klar, mach ich.}
 {119}{}{Ich denk darüber nach.}
 {120}{}{(Xarn sieht dich einen Augenblick lang aufmerksam an) Also gut. Die Enklave schuf mein
- Volk als Kriegssklaven. Sie verbesserten unseren Intellekt in der Hoffnung, daß wir ihre Befehle
+ Volk als Kriegssklaven. Sie verbesserten unseren Intellekt in der Hoffnung, dass wir ihre Befehle
  besser verstehen würden, ohne unseren Status als Sklaven zu erkennen. Sie sind gescheitert. Wir
  sind viel intelligenter als sie glauben.}
 {121}{}{Wir beschlossen, uns solange dumm zu stellen, bis wir unsere Freiheit erlangen konnten.
- Unsere Gelegenheit kam, als die Enklave beschloß, uns außerhalb ihres Einflußgebiets, hier auf
+ Unsere Gelegenheit kam, als die Enklave beschloss, uns außerhalb ihres Einflussgebiets, hier auf
  dem Festland, zu testen. Doktor Schreber war gegen die Entscheidung, wurde aber überstimmt.}
 {122}{}{Er akzeptierte die Entscheidung der Enklave nicht, setzte sich zu dieser Basis ab, fing
  mich ein und führt seitdem Experimente an mir durch, um mein wahres Wesen zu erkunden. Das ist
  ihm auch gelungen. Wenn er seine Erkenntnisse der Enklave mitteilt, wird mein Volk gejagt und
- abgeschlachtet. Ich muß fliehen und mein Volk warnen.}
+ abgeschlachtet. Ich muss fliehen und mein Volk warnen.}
 {123}{}{(Xarn sieht dich einen Augenblick lang aufmerksam an) Ich habe dir nichts zu erzählen,
  Mensch. Ich spüre die Finsternis deiner Seele.}
 {124}{}{Wenn Doktor so böse, warum du nicht töten?}
@@ -42,11 +42,11 @@
 {126}{}{Wenn dieser Typ so eine Bedrohung ist, warum bringst du ihn nicht einfach um?}
 {127}{}{Kümmer dich um deine eigene Seele — die braucht das jetzt nötiger. Stirb, Deathclaw!}
 {128}{}{(Seufz) Vor kurzem begann ich, solch einen Plan in Erwägung zu ziehen, obwohl es nicht
- meinem Wesen entspricht. Ich bin sicher, daß der Doktor dies bemerkte, da er mich seither nicht
+ meinem Wesen entspricht. Ich bin sicher, dass der Doktor dies bemerkte, da er mich seither nicht
  mehr persönlich besucht. Diese Entscheidung ist mir also abgenommen.}
 {129}{}{Du nix Sorge. Doktor tot. Er nix machen Bericht.}
 {130}{}{Ich danken für Geschichte.}
-{131}{}{Du mußt dir keine Sorgen machen. Der Doc ist tot, und er hat keinen Bericht erstattet.}
+{131}{}{Du musst dir keine Sorgen machen. Der Doc ist tot, und er hat keinen Bericht erstattet.}
 {132}{}{Danke für die Geschichte. Das war interessant.}
 {133}{}{Es tut mir leid, von seinem Tod zu erfahren, doch es ist besser so. Ich möchte dich
  bitten, mir bei der Flucht von hier zu helfen. Tust du das?}
@@ -60,7 +60,7 @@
 {141}{}{OK.}
 {142}{}{Also gut... Deine Entscheidung macht mich traurig, doch es ist deine Wahl. Wenn du deine
  Meinung änderst, ich bin hier.}
-{143}{}{Tschüß.}
+{143}{}{Tschüss.}
 {144}{}{Wiedersehn.}
 {145}{}{Ich möchte dich bitten, mir bei der Flucht von hier zu helfen. Tust du das?}
 {146}{}{Ja, ich tun.}
@@ -121,17 +121,17 @@
 {201}{}{Ja. Wer bist du?}
 {202}{}{Ja. Warum?}
 {300}{}{Also gut. Die Enklave schuf mein Volk als Kriegssklaven. Sie verbesserten unseren
- Intellekt in der Hoffnung, daß wir ihre Befehle besser verstehen würden, ohne unseren Status als
+ Intellekt in der Hoffnung, dass wir ihre Befehle besser verstehen würden, ohne unseren Status als
  Sklaven zu erkennen. Sie sind gescheitert. Wir sind viel intelligenter als sie glauben.}
 {301}{}{Wir beschlossen, uns solange dumm zu stellen, bis wir unsere Freiheit erlangen konnten.
- Unsere Gelegenheit kam, als die Enklave beschloß, uns außerhalb ihres Einflußgebietes, hier auf
+ Unsere Gelegenheit kam, als die Enklave beschloss, uns außerhalb ihres Einflussgebietes, hier auf
  dem Festland, zu testen. Doktor Schreber war gegen die Entscheidung, wurde aber überstimmt.}
 {302}{}{Er akzeptierte die Entscheidung der Enklave nicht, setzte sich zu dieser Basis ab, fing
  mich ein und führt seitdem Experimente an mir durch, um mein wahres Wesen zu erkunden. Das ist
  ihm auch gelungen. Wenn er seine Erkenntnisse der Enklave mitteilt, wird mein Volk gejagt und
- abgeschlachtet. Ich muß fliehen und mein Volk warnen.}
+ abgeschlachtet. Ich muss fliehen und mein Volk warnen.}
 {500}{}{Du bist ein wahrer Rudelsbruder. Vielleicht treffen wir uns in friedlicheren Zeiten
- wieder. Ich muß nun gehen, um mein Volk auf den Krieg vorzubereiten.}
+ wieder. Ich muss nun gehen, um mein Volk auf den Krieg vorzubereiten.}
 {501}{}{Ich reiß dir deine Glieder aus und prügele dich damit.}
 {502}{}{Stirb, verräterischer Mensch!}
 {503}{}{Das wird dir viel mehr weh tun als mir.}

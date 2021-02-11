@@ -163,7 +163,7 @@ procedure map_enter_p_proc begin
             check_restock_item(PID_PSYCHO, 4, 8, 50)
             check_restock_item(PID_SUPER_STIMPAK, 6, 7, 30)
             if (global_var(GVAR_VAULT_JET_QUEST) == JET_ANTIDOTE_FOUND) then begin//added by killap
-              check_restock_item(PID_JET_ANTIDOTE, 1, 3, 30)
+               check_restock_item(PID_JET_ANTIDOTE, 1, 3, 30)
             end
             check_restock_item(PID_MEAT_JERKY, 4, 5, 45)
          end

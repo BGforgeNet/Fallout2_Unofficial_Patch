@@ -22,14 +22,14 @@
  einen ausgeben?}
 {118}{}{Dwinkie-winkie, ich mach stinkie }
 {119}{}{Verzieh dich}
-{120}{}{Was gibt's denn vom Faß?}
+{120}{}{Was gibt's denn vom Fass?}
 {121}{}{Ich brauche ein paar Auskünfte.}
 {122}{}{Ich hab die Ladung Alkohol dabei, die du angefordert hast.}
 {123}{}{Heute nichts, danke.}
 {124}{}{Wuähh... das rieche ich! Ähh, vielen Dank fürs Retten der Welt und so.}
 {125}{}{Stinkie-blinkie, zwinkie-zwinkie!}
 {126}{}{Verzieh dich}
-{127}{}{Mag ja sein, daß du die Welt gerettet hast, aber ein begnadeter Poet bist du nicht
+{127}{}{Mag ja sein, dass du die Welt gerettet hast, aber ein begnadeter Poet bist du nicht
  gerade. Und jetzt mach die Fliege.}
 {128}{}{Flinkie-flinkie, klinkie-klinkie!}
 {129}{}{Verzieh dich}
@@ -42,7 +42,7 @@
 {135}{}{Ja? Kann ich Dir helfen?}
 {136}{}{Tun? Tuhn? Tuh? Titatuh un aus bis duh.}
 {137}{}{Verzieh dich}
-{138}{}{Was gibt's denn vom Faß?}
+{138}{}{Was gibt's denn vom Fass?}
 {139}{}{Ich brauche ein paar Auskünfte.}
 {140}{}{Ich hab die Ladung Alkohol dabei, die du angefordert hast.}
 {141}{}{Heute nichts, danke.}
@@ -62,13 +62,13 @@
 {153}{}{Eigentlich brauche ich nur ein paar Auskünfte.}
 {154}{}{Ich komm noch mal wieder, wenn ich mehr Geld habe.}
 {155}{}{Ich glaube, ich nehme lieber gar nichts, vielen Dank.}
-{156}{}{Die Brahmin-Milch gibt's aber nicht frisch gezapft... jedenfalls nicht vom Faß. Ich müßte
+{156}{}{Die Brahmin-Milch gibt's aber nicht frisch gezapft... jedenfalls nicht vom Fass. Ich müsste
  dann mal kurz raus und schnell welche besorgen.}
 {157}{}{Prima. Ich warte solange. Ich hab tierisch Lust auf ein Glas frische Milch. Mmmmmmmm.
  Das wär jetzt genau das Richtige.}
 {158}{}{Dann nehme ich lieber was anderes.}
 {159}{}{Naja, macht nichts. Ich brauche ein paar Auskünfte.}
-{160}{}{Vergiß es. Ich komme ein andermal wieder.}
+{160}{}{Vergiss es. Ich komme ein andermal wieder.}
 {161}{}{Bitte schön. Sonst noch was?}
 {162}{}{Äh, habt ihr auch was mit richtigem Alkohol?}
 {163}{}{Ich könnte mich für ein synthetisches Bier erwärmen.}
@@ -80,7 +80,7 @@
 {169}{}{Ich komm noch mal wieder, wenn ich mehr Geld habe.}
 {170}{}{Ich glaube, ich nehme lieber gar nichts, vielen Dank.}
 {171}{}{Ach so? Zum Beispiel?}
-{172}{}{Wer ist hier in Vault City der Boß?}
+{172}{}{Wer ist hier in Vault City der Boss?}
 {173}{}{Wo ist die Vault?}
 {174}{}{Kannst du mir was über die Sklavenhaltung in Vault City erzählen?}
 {175}{}{Hat Vault City viel Kontakt mit der Außenwelt?}
@@ -101,7 +101,7 @@
 {187}{}{Ja, danke, ich werd' mich schon zurechtfinden. Das werd ich mir mal ansehen.}
 {188}{}{Hmmm. Danke für die Auskunft.}
 {189}{}{Natürlich bist du einer. Ich würde lieber aufpassen, bei wem ich das behaupte, "Bürger".
- Sonst merkt noch einer, daß du gestohlene Papiere beim Halsabschneider Skeev gekauft hast. Halt
+ Sonst merkt noch einer, dass du gestohlene Papiere beim Halsabschneider Skeev gekauft hast. Halt
  dich lieber bedeckt, kapiert?}
 {190}{}{Äh, OK. Da wäre noch was...}
 {191}{}{Oh. Vielen Dank für den Hinweis.}
@@ -142,14 +142,14 @@
 {218}{}{Ich möchte noch was wissen...}
 {219}{}{Danke für die Auskunft.}
 {220}{}{Eine Ghulsiedlung weniger als eine Tagesreise nordöstlich von hier, soviel ich weiß. Man
- munkelt, daß sie auf jeden Reisenden Jagd machen, der in ihr Gebiet kommt. Am besten bleibt man
+ munkelt, dass sie auf jeden Reisenden Jagd machen, der in ihr Gebiet kommt. Am besten bleibt man
  da weg.}
 {221}{}{Erzähl mir was über Broken Hills.}
 {222}{}{Erzähl mir was über New Reno.}
 {223}{}{Erzähl mir was über Redding.}
 {224}{}{Ich möchte noch was wissen...}
 {225}{}{Danke für die Auskunft.}
-{226}{}{Warum? Suchst du was, was ein bißchen stärker reinhaut, als dieses synthetische Zeugs?}
+{226}{}{Warum? Suchst du was, was ein bisschen stärker reinhaut, als dieses synthetische Zeugs?}
 {227}{}{Vielleicht. Synthetischer Alkohol bringt's nun mal einfach nicht.}
 {228}{}{Eigentlich nicht. Ich brauchte nur ein paar Auskünfte...}
 {229}{}{Heute nicht.}
@@ -159,13 +159,13 @@
 {232}{}{Ich brauche ein paar Auskünfte.}
 {233}{}{Aha. War nett, sich mit dir zu unterhalten.}
 {234}{}{Er wurde getrunken. Jedenfalls habe ich das gehört. Es gab noch ein paar andere "Spezies"
- hier in Vault City, die dem Händler beim Austrinken halfen. Die haben gut gezahlt dafür, daß
+ hier in Vault City, die dem Händler beim Austrinken halfen. Die haben gut gezahlt dafür, dass
  sie zur Abwechslung mal was Richtiges trinken konnten.}
 {235}{}{Das glaub ich. Hör mal, ich könnte unter Umständen leicht noch mehr echten Alk
  besorgen. Ich bin schon öfters im Ödland gewesen und da kommt man leicht an Alkohol.}
 {236}{}{Ich brauche ein paar Auskünfte.}
 {237}{}{Aha. War nett, sich mit dir zu unterhalten.}
-{238}{}{Wirklich? Naja, wenn du ein bißchen echten Sprit abzugeben hätten, dann würde ich dafür
+{238}{}{Wirklich? Naja, wenn du ein bisschen echten Sprit abzugeben hätten, dann würde ich dafür
  schon was springen lassen. Wenn du es für dich behältst. Und die Ware irgendwie durch's Tor
  schmuggelst.}
 {239}{}{Wieviel echten Alkohol bräuchtest du denn?}
@@ -181,15 +181,15 @@
 {247}{}{Näh, was im Ödland als Alkohol gilt, ist hier in Vault City verboten. Ich möchte lieber
  gar nicht wissen, wie das zusammengepanscht wird. Was möchtest du denn nun trinken,
  Hauptmann...?}
-{248}{}{Ab und zu ein bißchen richtiger Alkohol, das ist schon OK. Klar, man wird davon benebelt,
+{248}{}{Ab und zu ein bisschen richtiger Alkohol, das ist schon OK. Klar, man wird davon benebelt,
  aber das kann einem bei zuviel Heilpulver auch passieren.}
 {249}{}{Dann nehme ich einfach was anderes.}
-{250}{}{Dann vergiß es. Ich bräuchte da ein paar Auskünfte...}
+{250}{}{Dann vergiss es. Ich bräuchte da ein paar Auskünfte...}
 {251}{}{Aha. Trotzdem vielen Dank.}
-{252}{}{Davon weiß ich nichts. Ich verkaufe hier nur synthetischen Alkohol. Wenn es hier in Vault City richtigen Alkohol geben würde, wär ich die letzte, die darüber Bescheid wüßte.}
-{253}{}{Dann vergiß es. Ich bräuchte da ein paar Auskünfte...}
+{252}{}{Davon weiß ich nichts. Ich verkaufe hier nur synthetischen Alkohol. Wenn es hier in Vault City richtigen Alkohol geben würde, wär ich die letzte, die darüber Bescheid wüsste.}
+{253}{}{Dann vergiss es. Ich bräuchte da ein paar Auskünfte...}
 {254}{}{Aha. Trotzdem vielen Dank.}
-{255}{}{Ich... verstehe. Naja, äh... paß auf dich auf. OK?}
+{255}{}{Ich... verstehe. Naja, äh... pass auf dich auf. OK?}
 {256}{}{Dankie-wankie, Blinkie-Stinkie.}
 {257}{}{Verzieh dich}
 {258}{}{Zzzzzzz.}

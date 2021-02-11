@@ -116,8 +116,6 @@ procedure Node029;
 
 /* Local variables which do not need to be saved between map changes. */
 variable prev_node;
-variable drinks_this_conversation; //added by killap
-variable giving_drinks; //added by killap
 import variable becky_guard_obj;
 
 procedure start begin
@@ -127,21 +125,7 @@ procedure timed_event_p_proc begin
    if (fixed_param == timed_event_float) then begin
       if (combat_is_initialized == false) then begin
       end
-   //added by killap
-   end else if (fixed_param == 999) then begin
-      if (drinks_this_conversation > 0) then begin
-         drinks_this_conversation -= 1;
-         use_obj_on_obj(create_object(PID_BOOZE,0,0), dude_obj);
-         if (drinks_this_conversation > 0) then begin
-           giving_drinks := 1;
-         end else begin
-           giving_drinks := 0;
-         end
-      end else begin
-        giving_drinks := 0;
-      end
    end
-   //end added
 end
 
 procedure map_enter_p_proc begin
@@ -152,15 +136,6 @@ procedure map_enter_p_proc begin
          set_local_var(LVAR_Home_Tile,self_tile);
          set_local_var(LVAR_Home_Rotation, self_cur_rot);
       end
-
-      /*if (still_broken) then begin
-         if (local_var(LVAR_Becky_Repair_Still_Time) == 0) then begin
-            set_local_var(LVAR_Becky_Repair_Still_Time, game_time + (ONE_GAME_DAY * (random(3, 7))));
-         end else if (local_var(LVAR_Becky_Repair_Still_Time) < game_time) then begin
-            off_still_broken;
-            set_local_var(LVAR_Becky_Repair_Still_Time, 0);
-         end
-      end - end comment out by killap*/
    end
 end
 
@@ -168,17 +143,11 @@ procedure map_exit_p_proc begin
 end
 
 procedure critter_p_proc begin
-   //added by killap
-   if (giving_drinks and tile_distance_objs(self_obj, dude_obj) <= 1) then begin
-     giving_drinks := 0;
-     flush_add_timer_event_sec(self_obj, 0, 999);
-   end
-   //end added
-   else if ((self_can_see_dude) and (hostile)) then begin
+   if self_can_see_dude and hostile then begin
       self_attack_dude;
-   end else if (self_tile != local_var(LVAR_Home_Tile) and drinks_this_conversation == 0) then begin
+   end else if (self_tile != local_var(LVAR_Home_Tile)) then begin
       self_walk_to_tile(local_var(LVAR_Home_Tile));
-   end else if (self_cur_rot != local_var(LVAR_Home_Rotation) and drinks_this_conversation == 0) then begin
+   end else if (self_cur_rot != local_var(LVAR_Home_Rotation)) then begin
       self_rotate(local_var(LVAR_Home_Rotation));
    end
 end
@@ -200,15 +169,13 @@ end
 
 procedure talk_p_proc begin
    prev_node := 0;
-   drinks_this_conversation := 0; //added by killap
-   giving_drinks := 0; //added by killap
    script_overrides;
    Evil_Critter:=0;
    Slavery_Tolerant:=SLAVE_INTOLERANT;
    Karma_Perception:=KARMA_PERCEPTION8;
    CheckKarma;
    GetReaction;
-   ReactToLevel; //added by killap
+   ReactToLevel;
    if ((hostile) or (has_rep_childkiller)) then begin
       call Node015;
    end else if (player_has_destroyed_still) then begin
@@ -255,18 +222,12 @@ procedure Node998 begin
    set_hostile;
 end
 procedure Node999 begin
-   //added by killap
-   if (drinks_this_conversation > 0) then begin
-      flush_add_timer_event_sec(self_obj, 0, 999);
-   end
-   //end added
 end
 
 procedure Node990 begin
    inc_becky_drinks;
    dude_caps_adjust(-5);
-   drinks_this_conversation += 1; //added by killap
-   //use_obj_on_obj(create_object(PID_BOOZE,0,0), dude_obj); -- comment out by killap
+   call create_and_use_itempid_on(dude_obj, PID_BOOZE);
    call Node007;
 end
 procedure Node989 begin

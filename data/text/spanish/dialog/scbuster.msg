@@ -21,7 +21,7 @@
 {120}{}{Esto está bien, forastero, pero no me dedico a la caridad.}
 {121}{}{Tal vez. Podría ser una mira telescópica Triveld x10... que encajaría bastante bien en un rifle de caza, si alguien quisiera hacerlo. Dejémoslo barato: 500 dólares.}
 {122}{}{Oye, ya me has limpiado.}
-{123}{}{Sure, it's a deal.}
+{123}{}{Claro, es un trato.}
 {124}{}{No, gracias.}
 {125}{}{República de Nueva California: eso es lo que es. La presidente Tandi y su grupo dicen que están intentando reconstruir los viejos días; imagino que sólo están intentando agarrarse a lo que pueden. Demonios, no tengo quejas de ellos: los viejos días son anteriores a mi propio tiempo. Aunque sólo son una especie de grupo de remilgados: no les gustan los esclavos, el juego, nada de casi nada. Por eso me establecí aquí. No me gustan las reglas y nunca me han gustado.}
 {126}{}{Ya veo.}

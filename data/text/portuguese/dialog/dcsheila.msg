@@ -44,7 +44,7 @@
 {194}{}{Sim.}
 {195}{}{Grande!}
 {196}{}{OK, está feito. Tchau.}
-{197}{}{That's it?}
+{197}{}{É isso?}
 {198}{}{OK. Tchau.}
 {199}{}{Foi bom.}
 {200}{}{Tchau tchau.}

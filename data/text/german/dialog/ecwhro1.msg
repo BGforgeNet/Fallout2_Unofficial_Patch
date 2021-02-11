@@ -3,7 +3,7 @@
  lacht beim Erzählen seiner Geschichte.}
 {102}{}{Du siehst eine männliche, weiße Heldenfigur. Er grinst und lacht.}
 {103}{}{Du siehst eine männliche, weiße Heldenfigur. Er grinst und lacht.}
-{104}{}{Also...mein Spieler war SO blöd, daß...}
+{104}{}{Also...mein Spieler war SO blöd, dass...}
 {105}{}{Hör dir das mal an - er denkt, die Gewehrmunition ist der Steuerchip und bringt sie dem
  Aufseher zurück...}
 {106}{}{Was für ein Idiot!}

@@ -1,6 +1,6 @@
 {100}{}{Du siehst einen Khan-Gangster.}
 {101}{}{Du siehst einen Khan-Gangster.}
-{102}{}{Du siehst eine brutal aussehende Person in einer Rüstung, mit Waffen und finsterer Mine. Es muß ein Khan sein.}
+{102}{}{Du siehst eine brutal aussehende Person in einer Rüstung, mit Waffen und finsterer Mine. Es muss ein Khan sein.}
 {103}{}{Was zum... Ich kenn dich nicht. Wer zum Teufel bist du?}
 {104}{}{Ich kann mich ausweisen. Warte, ich zeig's dir.}
 {105}{}{Ich heiße ähmm... Pat und ich bin neu hier.}
@@ -8,7 +8,7 @@
 {107}{}{Oh ja, tut mir leid, ich hab dich nicht sofort erkannt. Mach weiter.}
 {108}{}{Hey, ich bin nicht so blöd wie du aussiehst.}
 {109}{}{Du lebst ja immer noch, verdammt.}
-{110}{}{Mann, Darion zahlt mir nicht genug, daß ich hier rumstehen und nichts tun könnte.}
+{110}{}{Mann, Darion zahlt mir nicht genug, dass ich hier rumstehen und nichts tun könnte.}
 {111}{}{Manchmal sitze ich einfach rum und denke an nichts.}
 {112}{}{Es kümmert mich eigentlich nicht, was andere denken.}
 {113}{}{Unwissenheit ist ein Geschenk des Himmels... glaub ich.}
@@ -24,7 +24,7 @@
 {123}{}{Wir sollten eine Regierung wie in alten Zeiten bilden.}
 {124}{}{Wie das wohl damals war, Präsident zu sein.}
 {125}{}{Ich wette, der Präsident durfte alles. Vielleicht hatte er sogar ein paar nette Praktikantinnen...}
-{126}{}{Mein Vater wär jetzt bestimmt stolz auf mich, zu dumm, daß ich ihn töten mußte.}
+{126}{}{Mein Vater wär jetzt bestimmt stolz auf mich, zu dumm, dass ich ihn töten musste.}
 {127}{}{ICH HASSE RATTEN! ICH HASSE SIE!}
 {128}{}{He, ist das 'ne neue Rüstung, die du an hast? Woher zum Teufel hast du eine neue Rüstung!}
 {129}{}{Diese verdammte Vault stinkt widerlich, oder?}

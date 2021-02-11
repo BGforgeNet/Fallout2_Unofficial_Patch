@@ -1,6 +1,6 @@
 {100}{}{Du siehst ein Kind.}
 {150}{}{Du siehst ein kleines Waisenkind.}
-{200}{}{Hast du 'n bißchen Kleingeld?}
+{200}{}{Hast du 'n bisschen Kleingeld?}
 {201}{}{Was?}
 {202}{}{Ich mach gar nix!}
 {210}{}{Das ist der Laden von Tubby.}
@@ -10,7 +10,7 @@
 {220}{}{Das ist der Laden von Flick.}
 {221}{}{Flick ist nett.}
 {222}{}{Flick verkauft viele verschiedene Sachen.}
-{223}{}{Vergiß nich', Flick zu grüßen.}
+{223}{}{Vergiss nich', Flick zu grüßen.}
 {230}{}{Das hier ist der Laden von Frankie.}
 {231}{}{Bist du ein Freund von Frankie?}
 {232}{}{Hier riecht's ekelhaft.}
@@ -18,7 +18,7 @@
 {240}{}{Becky ist so nett.}
 {241}{}{Das ist der Laden von Rebecca.}
 {242}{}{Becky hat die niedrigsten Preise für Getränke... hab ich gehört.}
-{243}{}{Rebecca läßt mich nicht ihre Spiele machen.}
+{243}{}{Rebecca lässt mich nicht ihre Spiele machen.}
 {244}{}{Becky ist so hübsch.}
 {245}{}{Hast du Rebecca schon kennengelernt? Ich wollt, sie wär meine Mutter.}
 {250}{}{Hey, Dame, hast du vielleicht etwas Kleingeld?}
@@ -36,13 +36,13 @@
 {292}{}{Mach das bloß nicht.}
 {293}{}{Hey! Frankie hat phantastisches Zeug.}
 {300}{}{Du solltest hineingehen. Becky ist sehr nett.}
-{301}{}{Ich paß auf.}
+{301}{}{Ich pass auf.}
 {302}{}{Wow, du bist sehr hübsch.}
 {303}{}{Hey.}
 {304}{}{Wie heißt du?}
 {305}{}{Becky würd dich mögen.}
 {306}{}{Hey! Sie dich mal bei Becky um.}
-{310}{}{Ahhhh! Laß mich in Ruhe.}
+{310}{}{Ahhhh! Lass mich in Ruhe.}
 {311}{}{Hilfe, ich wird unterdrückt!}
 {312}{}{Jetzt sehen wir die Gewalt des Systems.}
 {313}{}{Ich hab nix gemacht}

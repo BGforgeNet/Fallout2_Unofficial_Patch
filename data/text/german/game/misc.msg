@@ -5,7 +5,7 @@
 {4}{}{Spiel erfolgreich geladen.}
 {5}{}{Spiel erfolgreich gespeichert.}
 {6}{}{Demo-Zeitlimit überschritten.}
-{7}{}{Pip-Boy not available in combat!}
+{7}{}{PIPBoy steht im Kampf nicht zur Verfügung!}
 {8}{}{Fehler beim Speichern des Screenshots.}
 {9}{}{EINFÜHRUNG}
 {10}{}{NEUES SPIEL}
@@ -24,7 +24,7 @@
 {101}{}{Spieleinstellungen nicht gespeichert.}
 {1000}{}{Dir ist sehr übel.}
 {1001}{}{Dir ist sehr übel, und nachdem du dich etwas übergeben hast, bist du etwas erschöpft.}
-{1002}{}{Du bist sehr erschöpft, der Brechreiz läßt nicht nach, und deine Erholungszeit ist gestört.}
+{1002}{}{Du bist sehr erschöpft, der Brechreiz lässt nicht nach, und deine Erholungszeit ist gestört.}
 {1003}{}{Du hast heftige innere Blutungen. Dir ist schlecht, und dein Haar fällt aus.}
 {1004}{}{Du hast heftige und andauernde innere Blutungen. Im Erbrochenen ist Blut. Die Haut fällt dir von den Knochen.}
 {1005}{}{Du blutest aus den Eingeweiden und leidest an schwerem Durchfall. Du fühlst dich aufgebläht und hast stärkste Schmerzen.}
@@ -33,7 +33,7 @@
 {1008}{}{Der Geigerzähler tickt.}
 {1009}{}{Der Geigerzähler tickt wie wild.}
 {2000}{}{Da kannst du nicht hin.}
-{2001}{}{Das Schloß klemmt.}
+{2001}{}{Das Schloss klemmt.}
 {3000}{}{Du wurdest vergiftet!}
 {3001}{}{Das Gift fügt dir Schaden zu.}
 {3002}{}{Es geht dir etwas besser.}
@@ -43,7 +43,7 @@
 {5001}{}{hat keine Munition mehr für}
 {5002}{}{lädt}
 {6000}{}{Über was befragen?}
-{7000}{}{You aren't wearing the Pip-Boy!}
+{7000}{}{Du hast den PIPBoy nicht dabei!}
 {8000}{}{Du bist überladen.}
 {8001}{}{%s ist überladen.}
 {8500}{}{Du bekommst %d Erfahrungspunkte für die erfolgreiche Anwendung der Fähigkeit Naturbursche.}
@@ -68,7 +68,7 @@
 {9045}{}{Eins mit dem Großvater jetzt.}
 {9050}{}{Au Mann... da hab ich jetzt echt was draus gelernt.}
 {9051}{}{Diese Schuld wird mich noch umbringen.}
-{9052}{}{Kaum zu glauben, daß ich so lange überlebt habe.}
+{9052}{}{Kaum zu glauben, dass ich so lange überlebt habe.}
 {9060}{}{Wuff!}
 {9061}{}{Wuff!}
 {9062}{}{Wuff!}
@@ -93,12 +93,12 @@
 {9122}{}{RETRO-ANPASSUNG DES SYSTEMS ABGESCHLOSSEN.}
 {9123}{}{ZIELSYSTEME NEU KALIBRIERT. 20%IGE STEIGERUNG DER GENAUIGKEIT.}
 {9124}{}{OPTIMALE LEISTUNG ERREICHT.}
-{9130}{}{Boß! Ich glaube, daß ich das allmählich alles kapiere.}
-{9131}{}{Ich werde wirklich besser! Hab ich doch gleich gesagt, Boß, daß ich dich nicht enttäuschen würde.}
+{9130}{}{Boss! Ich glaube, dass ich das allmählich alles kapiere.}
+{9131}{}{Ich werde wirklich besser! Hab ich doch gleich gesagt, Boss, dass ich dich nicht enttäuschen würde.}
 {9132}{}{Heh... Moment mal... jetzt kapier ich's auch. Ich leite meine Ziele nicht genug an, glaub ich.}
-{9133}{}{Na also, Boß! Auch ein alter Hund kann noch was Neues lernen!}
-{9134}{}{Weißt du was, Boß? Ich glaube, ich lerne hier wirklich ein oder zwei Sachen.}
-{9135}{}{Ich werd ja richtig gut darin. Hier, Boß. Alles Gute wird mit der Zeit noch besser.}
+{9133}{}{Na also, Boss! Auch ein alter Hund kann noch was Neues lernen!}
+{9134}{}{Weißt du was, Boss? Ich glaube, ich lerne hier wirklich ein oder zwei Sachen.}
+{9135}{}{Ich werd ja richtig gut darin. Hier, Boss. Alles Gute wird mit der Zeit noch besser.}
 {9140}{}{Ich hab ein paar neue Sachen gelernt!}
 {9141}{}{Ich hab ein paar neue Sachen gelernt!}
 {9150}{}{Ich hab ein paar neue Sachen gelernt!}

@@ -149,8 +149,8 @@ no alizar de porta.}
 {201}{}{ habilmente desarma a armadilha.}
 {202}{}{ falha para desarmar a armadilha.}
 {203}{}{A porta parece estar bloqueada.}
-{204}{}{You notice a trap in the door jam.}
-{205}{}{ notices a trap in the door jam.}
+{204}{}{You notice a trap in the door jamb.}
+{205}{}{ notices a trap in the door jamb.}
 {206}{}{Você não conseguir colocar uma armadilha na porta, porque
 a porta está aberta.}
 {207}{}{ é incapaz de colocar uma armadilha nesta porta, porque 
@@ -176,3 +176,6 @@ a porta está aberta.}
 {501}{}{Parece que você precisa primeiro ativar o gerador.}
 {502}{}{Você vê: porta do Elevador.}
 {503}{}{Parece que você precisa de um dispositivo elétrico para abrir este bloqueio.}
+{601}{}{Está aberto, burro.}
+{610}{}{Você falha espetacularmente e o explosivo detona prematuramente.}
+{611}{}{ falha espetacularmente e o explosivo detona prematuramente.}

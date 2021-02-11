@@ -5,7 +5,7 @@
 {104}{}{¿Otra vez tú? ¿Qué quieres?}
 {105}{}{¿Qué quieres?}
 {106}{}{Duh...}
-{107}{}{Me look Vault 13. You help?}
+{107}{}{Me mire el refugio 13. Usted ayudar?}
 {108}{}{Estoy buscando el Refugio 13. ¿Puedes ayudarme?}
 {109}{}{He finalizado tu trabajo sucio.}
 {110}{}{Cosas malas vinieron. Yo asustado. Vacas de dos cabezas seguras.}
@@ -54,7 +54,7 @@
 {153}{}{No estoy seguro de creerte, pero aquí está tu dinero. Demonios, si me estás mintiendo, mis muchachos te encontrarán. Te dije también que te daría cierta información, así que aquí está. He oído muchas historias sobre Tandi y el Morador del Refugio. Parece que le salvó la vida años antes de que se fundase la RNC. De todos modos, la leyenda cuenta que paso un montón de tiempo explorando un Refugio al este de aquí. Si no es el Refugio 13, quizá encuentres una pista allí que te conduzca hasta él.}
 {154}{}{¡Agradezco yo!}
 {155}{}{Gracias.}
-{156}{}{The First Citizen? Excellent, this is what I've been waiting for. Are you a Vault Citizen?}
+{156}{}{El Primer Ciudadano? Excelente, esto es lo que he estado esperando. Son una Bóveda Ciudadano?}
 {157}{}{Sí.}
 {158}{}{No.}
 {159}{}{Y eres un buen Ciudadano, estoy seguro. Quiero que lleves de vuelta este holodisco a la Primer Ciudadano. Es importante. Tiene la información que necesita para exponer el plan RNC-Nuevo Reno.}

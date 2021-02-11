@@ -67,11 +67,11 @@
 {351}{}{¡Gracias!}
 {352}{}{Como quieras.}
 {360}{}{Gracias por prestarme el dinero. De verdad que significó mucho para mí que un completo extraño confiara en mí. Déjame darte esto.}
-{361}{}{De acuerdo.}
+{361}{}{Vale.}
 {362}{}{No tienes por qué.}
 {363}{}{Uh.}
 {370}{}{Te debo un montón. Confiaste en mí cuando la suerte me esquivaba. Como pequeño gesto de gratitud tengo una cosa para ti.}
-{371}{}{De acuerdo.}
+{371}{}{Vale.}
 {372}{}{No tienes por qué.}
 {373}{}{Uh.}
 {380}{}{Toma. [Fred te da 1.000 dólares]. Espero que te sirva de ayuda. Estoy seguro de que encontrarás una forma de gastarlo.}
@@ -123,7 +123,7 @@
 {502}{}{No hay problema.}
 {503}{}{Será mejor que me los devuelvas.}
 {510}{}{Oh, no te preocupes. ¡Lo haré! ¡Tienes mi palabra de que esta vez no me olvidaré!}
-{511}{}{De acuerdo.}
+{511}{}{Vale.}
 {520}{}{Mira, ¿sabes qué? Esos cien van a... retrasar las cosas. ¿Crees que podrías prestarme un poco más?}
 {521}{}{¿Cuánto?}
 {522}{}{Ni hablar.}
@@ -137,7 +137,7 @@
 {550}{}{Qué- uh… ¡Demonios! ¡No te arrepentirás de esto! ¡Te lo pagaré!}
 {551}{}{No hay problema.}
 {560}{}{Uh, sí. Ya veo que se te dan bien las matemáticas... ¡Por favor! No es mucho para ti, estoy seguro, pero significa muchísimo para mí.}
-{561}{}{De acuerdo.}
+{561}{}{Vale.}
 {562}{}{No.}
 {570}{}{Ya, seguro que sí. Todo el mundo sabe que ella odia ese nombre. ¡No me engañas!}
 {571}{}{No le debo nada.}
@@ -152,7 +152,7 @@
 {592}{}{Dame ya el dinero.}
 {600}{}{Déjame tranquilo.}
 {601}{}{Lo que sea.}
-{602}{}{De acuerdo.}
+{602}{}{Vale.}
 {610}{}{Eh. Hola de nuevo. Así que, eh, supongo que quieres el dinero. ¿Crees que podrías fiarme la mitad?}
 {611}{}{No, lo siento.}
 {612}{}{Si ella te prestó 200 dólares, tú se los pagas.}

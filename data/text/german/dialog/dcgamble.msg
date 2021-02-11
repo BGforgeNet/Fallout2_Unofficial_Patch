@@ -9,7 +9,7 @@
 {200}{}{Tu mir nicht weh!}
 {201}{}{Nicht schießen!}
 {202}{}{Ich hab kein Geld!}
-{203}{}{Warum mußtest du die arme Becky umbringen?}
+{203}{}{Warum musstest du die arme Becky umbringen?}
 {204}{}{Hat sie dir jemals etwas getan?}
 {205}{}{Ich hab' nichts gemacht!}
 {206}{}{Geh bitte, ich werde nichts sagen.}
@@ -20,7 +20,7 @@
 {304}{}{Geld, Geld, Geld!}
 {305}{}{Ich liebe dieses Spiel!}
 {306}{}{Siehst du das! Ja!}
-{307}{}{Roulette muß man spielen!}
+{307}{}{Roulette muss man spielen!}
 {308}{}{Bei mir läuft's ganz gut und bei dir?}
 {309}{}{Es läuft besser als sonst.}
 {310}{}{Großartiger Laden hier, nicht wahr?}
@@ -31,7 +31,7 @@
 {315}{}{Wenigstens verliere ich nicht.}
 {316}{}{Ich gehe nirgendwo hin.}
 {317}{}{Ich will nur noch meinen Einsatz rausholen.}
-{318}{}{Du mußt auf die Zahlen setzen.}
+{318}{}{Du musst auf die Zahlen setzen.}
 {319}{}{Nur mit Rot oder Schwarz hast du keine Aussichten.}
 {320}{}{Die Würfel machen, was sie wollen.}
 {321}{}{Ich bin unten und es sieht gar nicht gut aus.}
@@ -48,12 +48,12 @@
 {400}{}{Verdammt, Becky's war der einzige Ort für Glücksspiele hier!}
 {401}{}{Bleib bloß weg.}
 {402}{}{Nicht schießen!}
-{403}{}{Laß uns bitte allein.}
+{403}{}{Lass uns bitte allein.}
 {500}{}{Nicht da, nicht da, weiter.}
 {501}{}{Weiter, weiter.}
 {502}{}{LOS, JETZT DIE 7!}
 {503}{}{Ja!}
-{504}{}{Laß sie doch kommen!}
+{504}{}{Lass sie doch kommen!}
 {505}{}{Becky, heute nehm ich dir dein ganzes Geld ab!}
 {506}{}{Juhuuu! Gewonnen!}
 {507}{}{Los, noch einmal einen guten Dreh!}
@@ -66,7 +66,7 @@
 {514}{}{Nicht schlecht.}
 {515}{}{Wie ist das denn passiert?}
 {516}{}{Hoppla.}
-{517}{}{No whammies, no whammies. Stop!}
+{517}{}{Keine Einsätze mehr, Stop!}
 {518}{}{Das Spiel macht seinem Namen Ehre.}
 {519}{}{Ich brauche nur einen dicken Gewinn.}
 {520}{}{Zahlen!}
@@ -86,4 +86,4 @@
 {601}{}{Warum hast du das getan?}
 {602}{}{Verschwinde!}
 {603}{}{Hör auf, ich bin empfindlich.}
-{604}{}{I wouldn't do that to you.}
+{604}{}{Das würd ich dir doch nicht antun.}

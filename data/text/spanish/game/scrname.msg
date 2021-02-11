@@ -115,7 +115,7 @@
 {215}{}{Señor Smith}
 {216}{}{Skeeve}
 {217}{}{Procónsul Gregory}
-{218}{}{Nurse Phyllis}
+{218}{}{Enfermera Phyllis}
 {219}{}{Randal}
 {220}{}{Sustancia}
 {221}{}{Barkus}
@@ -343,7 +343,7 @@
 {443}{}{Lobo}
 {444}{}{Generador}
 {445}{}{Puerta}
-{446}{}{Super mutant}
+{446}{}{Supermutantes}
 {447}{}{Hombre de Salvatore}
 {448}{}{Hombre de Bishop}
 {449}{}{Hombre de Mordino}
@@ -503,7 +503,7 @@
 {603}{}{Okupa}
 {604}{}{Abolicionista}
 {605}{}{Contrabandista}
-{606}{}{Super mutant}
+{606}{}{Supermutantes}
 {607}{}{Pescador}
 {608}{}{Esclavista}
 {609}{}{Trampero}
@@ -679,7 +679,7 @@
 {779}{}{Centro de Redding}
 {780}{}{Map Script}
 {781}{}{Map Script}
-{782}{}{Lou}
+{782}{}{Teni}
 {783}{}{Arthur}
 {784}{}{Robin}
 {785}{}{Bedemir}

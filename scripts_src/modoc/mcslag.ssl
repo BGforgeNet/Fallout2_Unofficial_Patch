@@ -153,7 +153,7 @@ procedure critter_p_proc begin
                end else if (corn_in_front) then begin
                   slag_walking := false;
                   reg_anim_begin();
-                     anim(self_obj, random(ANIM_magic_hands_middle, ANIM_magic_hands_up), 0);
+                     anim(self_obj, random(ANIM_magic_hands_ground, ANIM_magic_hands_middle), 0);
                   reg_anim_end();
                end
             end

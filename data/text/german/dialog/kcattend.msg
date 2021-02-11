@@ -32,14 +32,14 @@
 {142}{}{Das war wirklich was Besonderes. Der Nächste!}
 {143}{}{Nein, du darfst mein Parfüm nicht benutzen.}
 {144}{}{Naja, wenigstens ist dein Bart kleiner als bei meinen meisten Kunden.}
-{145}{}{Du bist sicher, daß du ein Mädchen bist?}
+{145}{}{Du bist sicher, dass du ein Mädchen bist?}
 {150}{}{Das war irgendwie ganz gut.}
 {151}{}{Das war anders, aber nicht schlecht anders.}
 {152}{}{Ich glaub, das möchte ich irgendwann noch mal probieren.}
 {153}{}{Wir sollten das bei Gelegenheit mal außerhalb der Arbeitszeit machen.}
 {154}{}{Das war süß, Liebling.}
 {155}{}{Wow! Mein Leben wird sich von jetzt an ziemlich ändern.}
-{156}{}{Ich wußte nicht, daß es so sein kann.}
+{156}{}{Ich wusste nicht, dass es so sein kann.}
 {160}{}{Du solltest mit der dicken Nase Sally reden.}
 {161}{}{Ach, was bist du süß.}
 {162}{}{Ich werd dich so schnell nicht vergessen!}
@@ -56,4 +56,4 @@
 {173}{}{Normalerweise nehm ich keine Wilden.}
 {174}{}{Gefällt dir, was du siehst, Baby?}
 {175}{}{Willst du mich?}
-{176}{}{Wenn du spielen willst, mußt du zahlen.}
+{176}{}{Wenn du spielen willst, musst du zahlen.}

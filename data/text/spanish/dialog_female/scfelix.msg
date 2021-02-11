@@ -28,16 +28,16 @@
 {127}{}{Entonces supongo que tendremos que matarte.}
 {128}{}{¿Ha terminado la reunión?}
 {129}{}{Westin. Trabajo. A mí.}
-{130}{}{Me voy, yo.}
+{130}{}{Yo ir.}
 {131}{}{Vale, él quiere que hagas un trabajo; yo tengo un trabajo. Alguien, o algo, mata vacas de dos cabezas. Vienes conmigo. Haces guardia. Mantienes a vacas seguras. Haces feliz a jefe. ¿Vale?}
-{132}{}{De acuerdo.}
+{132}{}{Vale.}
 {133}{}{No. Yo no mato.}
 {134}{}{Vuelves de nuevo, ¿verdad? ¿Está hecho el trabajo?}
 {135}{}{Sí.}
 {136}{}{No.}
 {137}{}{Sí, él dejó ciertas órdenes. Te ha estado esperando.}
 {138}{}{¡EH, TÚ! ¡Aléjate de ahí!}
-{139}{}{De acuerdo.}
+{139}{}{Vale.}
 {140}{}{¡Que te jodan!}
 {141}{}{Sí. Dijo que te viera por cierto problema con los brahmines.}
 {142}{}{Sí. Me marcho de aquí.}

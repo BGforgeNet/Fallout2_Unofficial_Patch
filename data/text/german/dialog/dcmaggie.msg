@@ -1,93 +1,94 @@
-{100}{}{You see the owner of the saloon.}
-{101}{}{You see Becky.}
-{150}{}{This looks like the owner.}
-{151}{}{This is Becky, owner of this place.}
+{100}{}{Du siehst die Besitzerin vom Saloon.}
+{101}{}{Du siehst Becky.}
+{150}{}{Sie scheint die Besitzerin zu sein.}
+{151}{}{Das ist Becky, Besitzerin dieses Hauses.}
 {152}{}{[GESPRÄCH]}
-{153}{}{Hello, stranger, and welcome to my saloon. I’m Becky.}
-{154}{}{Hello, I am }
-{155}{}{. What’s there to do around here?}
-{156}{}{Hi, I'm }
-{157}{}{. Can I ask some questions?}
+{153}{}{Hallo, Fremder, und willkommen in meinem Saloon. Ich bin Becky.}
+{154}{}{Hallo, Ich bin }
+{155}{}{. Was gibt es hier zu tun?}
+{156}{}{Hi. Ich bin }
+{157}{}{. Kann ich dir ein paar Fragen stellen?}
 {158}{}{Mom?}
 {159}{}{Mag gah.}
-{160}{}{Run along. I don’t need your kind here.}
+{160}{}{Geh weiter. Solche von deiner Art brauche ich hier nicht.}
 {161}{}{Mmmm...}
 {162}{}{Fahr zur Hölle.}
 {163}{}{Ich gehe.}
-{164}{}{Sorry, no offense was meant. Can I ask something?}
-{165}{}{Drink of whiskey is $5 and the gambling tables are right over there. Have a good one.}
-{166}{}{Can I ask a question?}
-{167}{}{I want a drink!}
-{168}{}{Hmm, those are some cheap drinks. Let’s see one.}
-{169}{}{Danke. Tschüß.}
-{170}{}{Vault 13? Nope, never heard of it.}
-{171}{}{Hmm, can I ask something else?}
-{172}{}{Damn, I need to find it. Bye.}
+{164}{}{Entschuldigung, war nicht böse gemeint. Darf ich dich was fragen?}
+{165}{}{Whiskey kostet 5 Dollar und die Spieltische sind gleich da drüben. Viel Spaß.}
+{166}{}{Kann ich eine Frage stellen?}
+{167}{}{Ich will einen Drink!}
+{168}{}{Hmm, das sind ein paar billige Drinks. Lass mal sehen.}
+{169}{}{Danke. Tschüss.}
+{170}{}{Vault 13? Nö, nie von gehört.}
+{171}{}{Hmm, kann ich was anderes fragen?}
+{172}{}{Verdammt, Ich muss sie finden. Tschüss.}
 {173}{}{Was möchtest du denn wissen?}
-{174}{}{Where’s a good place to eat?}
-{175}{}{Do you know where Vault 13 is?}
-{176}{}{Why are your drinks so cheap?}
-{177}{}{Nichts. Tschüß.}
-{178}{}{Mom runs a little restaurant across town.}
-{179}{}{Mommy! Mommy!}
-{180}{}{One more question.}
-{181}{}{Danke. Tschüß.}
+{174}{}{Wo kann man gut essen?}
+{175}{}{Weisst du wo ich Vault 13 finden kann?}
+{176}{}{Warum sind deine Drinks so billig?}
+{177}{}{Nichts. Tschüss.}
+{178}{}{Mama betreibt ein kleines Restaurant am anderen Ende der Stadt.}
+{179}{}{Mammi! Mammi!}
+{180}{}{Eine Frage noch.}
+{181}{}{Danke. Tschüss.}
 {182}{}{Hau ab.}
 {183}{}{Gwah.}
-{184}{}{I’ll give you something to beat.}
-{185}{}{Quick question first?}
-{186}{}{Tschüß.}
-{187}{}{A shot of whiskey is $5. Pay first.}
+{184}{}{Ich geb dir etwas, das du schlagen kannst.}
+{185}{}{Zuerst eine kurze Frage?}
+{186}{}{Tschüss.}
+{187}{}{Ein Schuss Whiskey macht 5 Dollar. Erst bezahlen.}
 {188}{}{Häh?}
-{189}{}{Here’s the money.}
-{190}{}{Changed my mind.}
-{191}{}{I’m a little short of cash. Can I have a tab?}
-{192}{}{Can I ask a question?}
-{193}{}{Gotta go.}
-{194}{}{Here’s the drink. Anything else?}
-{195}{}{Question?}
-{196}{}{Yeha, how about you and I...}
+{189}{}{Hier ist das Geld.}
+{190}{}{Habs mir anders überlegt.}
+{191}{}{Ich bin ein wenig knapp bei Kasse. Kannst du's aufschreiben?}
+{192}{}{Kann ich eine Frage stellen?}
+{193}{}{Muss gehen.}
+{194}{}{Hier der Drink. Sonst noch was?}
+{195}{}{Frage?}
+{196}{}{juhu, wie wärs wenn du und ich...}
 {197}{}{Nö.}
-{198}{}{Hey, you don’t enough cash for this drink. You’re poorer than even these sops!}
+{198}{}{He, du kannst dir diesen Drink nicht leisten. Du bist ja ärmer noch als diese Penner!}
 {199}{}{Entschuldigung.}
-{200}{}{Hmm, I’ll come back.}
-{201}{}{Hmm. Let me get someone to watch the bar. You and I can go into the back room and play a little
- game I call "First Strike." If you’re good, well, there’s "Ground Zero."}
-{202}{}{OK!}
-{203}{}{Er...uh...I have to go.}
-{205}{}{You were OK.}
-{206}{}{Next time, let’s play "Into the Glow." But for now...}
-{207}{}{Can you do something for me?}
-{208}{}{I have to go, but I’ll come back.}
-{209}{}{What can I do for you, sweet cheeks?}
-{210}{}{I need some more lovin’.}
-{211}{}{I got some questions.}
-{212}{}{How can you sell your drinks so cheaply?}
-{213}{}{How about a drink?}
-{214}{}{Gotta run. See ya.}
-{215}{}{Not now. Maybe later. Yes, definitely later.}
-{216}{}{Can I ask a question?}
-{217}{}{Later then.}
-{218}{}{I have a still in the basement. I made it myself. Beats paying triple to those New Reno
- gangsters.}
-{219}{}{Smart girl! I like that!}
-{220}{}{Hmm, I have to go. I’ll see you later.}
-{221}{}{Why? Why did you destroy my still? You bastard!}
-{222}{}{Nothing personal. I got paid to do it.}
+{200}{}{Hmm, Ich komme wieder.}
+{201}{}{Hmm. Lass mich jemanden holen, der auf die Bar aufpasst. Du und ich können ins Hinterzimmer
+ gehen und ein kleines Spiel spielen, das ich "First Strike" nenne. Wenn du gut bist, dann, nun ja,
+ gibt es "Ground Zero".}
+{202}{}{Ok!}
+{203}{}{Eh...ähm...Ich muss gehen.}
+{205}{}{Du warst Ok.}
+{206}{}{Lass uns nächstes Mal "Into the Glow" spielen. Aber fürs Erste...}
+{207}{}{Kannst du etwas für mich tun?}
+{208}{}{Ich muss jetzt gehen, komme aber wieder.}
+{209}{}{Was kann ich für dich tun, Süßer?}
+{210}{}{Ich könnte noch etwas Liebe vertragen.}
+{211}{}{Ich hätte da noch ein paar Fragen.}
+{212}{}{Wie kannst du deine Drinks so billig verkaufen?}
+{213}{}{Wie wärs mit einem Drink?}
+{214}{}{Muss los. Man sieht sich.}
+{215}{}{Nicht jetzt. Später vielleicht. Ja, später auf jeden Fall.}
+{216}{}{Kann ich eine Frage stellen?}
+{217}{}{Dann später.}
+{218}{}{Ich hab eine Destille im Keller. Selbst gebaut. Ist besser als dreifach an die Gangster von
+ New Reno abzudrücken.}
+{219}{}{Kluges Mädchen! Sowas gefällt mir!}
+{220}{}{Hmm, Ich muss gehen. Ich seh dich später.}
+{221}{}{Warum? Warum hast du meine Destille zerstörtl? Du Mistkerl!}
+{222}{}{Ist nichts persönliches. Ich wurde dafür bezahlt, es zu tun.}
 {223}{}{Es tut mir leid.}
-{224}{}{Tschüß.}
-{225}{}{I’ll just make another one, you know.}
-{226}{}{I know.}
-{227}{}{Well, that’s good.}
-{228}{}{Tschüß.}
-{232}{}{Why? Why did you destroy my still? You bitch!}
-{233}{}{Where are you, baby?}
-{234}{}{Are you coming?}
+{224}{}{Tschüss.}
+{225}{}{Ich mach einfach eine neue, weißt du.}
+{226}{}{Ich weiß.}
+{227}{}{Nun, das ist gut.}
+{228}{}{Tschüss.}
+{232}{}{Warum? Warum hast du meine Destille zerstörtl? Du Schlampe!}
+{233}{}{Wo bist du, Baby?}
+{234}{}{Kommst du?}
 {235}{}{Ich warte.}
-{236}{}{I'm in here, lover.}
-{237}{}{I've got a bar to run.}
+{236}{}{Ich bin hier, Schnuckelchen.}
+{237}{}{Ich muss hier eine Bar führen.}
 {238}{}{Follow me, sugar.}
-{240}{}{How did you... Do that... Uhhh...}
-{241}{}{It's O.K., size doesn't really matter.}
-{242}{}{That was, ummm, nice -- I guess.}
-{243}{}{Thanks, sweety; that was fun.}
+{240}{}{Wie machst du... Das... Ohhh...}
+{241}{}{Ist ok. Die Größe spielt keine Rolle.}
+{242}{}{Das war, ähmmm, nett --  schätze ich.}
+{243}{}{Danke, Süßer; das hat Spaß gemacht.}

@@ -178,3 +178,6 @@ que você poderá abrir.}
 {211}{}{ falha ao definir adequadamente a armadilha no recipiente.}
 {212}{}{Você vê um frigorífico.}
 {400}{}{Você desbloqueia o recipiente.}
+{601}{}{Está aberto, burro.}
+{610}{}{Você falha espetacularmente e o explosivo detona prematuramente.}
+{611}{}{ falha espetacularmente e o explosivo detona prematuramente.}

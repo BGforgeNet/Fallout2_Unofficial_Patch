@@ -3,9 +3,9 @@
 {102}{}{Du siehst jemanden in einem Laborkittel mit einem Taschenschoner und vielen Stiften
  darin. Seinem leicht verwirrten Blick nach zu schließen ist er neu hier.}
 {103}{}{Ja, Sir?}
-{104}{}{Ich neu hier. Muß Frage stellen.}
+{104}{}{Ich neu hier. Muss Frage stellen.}
 {105}{}{Ich nur sagen Hallo. Ich gehen.}
-{106}{}{Ich bin neu hier. Ich muß ein paar Fragen stellen, um mich mit der Basis vertraut zu
+{106}{}{Ich bin neu hier. Ich muss ein paar Fragen stellen, um mich mit der Basis vertraut zu
  machen.}
 {107}{}{Wollte nicht stören. Wollte nur Hallo sagen.}
 {108}{}{Ich bin selber ein neuer Rekrut, Sir. Ich weiß nicht, ob ich all deine Fragen beantworten
@@ -19,8 +19,8 @@
 {118}{}{Was ist das alles hier?}
 {119}{}{Was ist dein Job hier?}
 {120}{}{Wo liegt die Enklave-Hauptbasis?}
-{121}{}{Ich muß die Vertibird-Pläne sehen. Wo werden die aufbewahrt?}
-{125}{}{Nichts, ich muß gehen.}
+{121}{}{Ich muss die Vertibird-Pläne sehen. Wo werden die aufbewahrt?}
+{125}{}{Nichts, ich muss gehen.}
 {126}{}{Dies ist die Kommandozentrale. Von hier aus läuft die gesamte Kommunikation mit der
  Hauptbasis.}
 {127}{}{Verstehen. Mehr fragen.}
@@ -44,8 +44,8 @@
 {141}{}{Sie befinden sich in der Wartungsabteilung, neben der Luftverkehrsüberwachung. }
 {142}{}{OK.}
 {143}{}{Kapiert.}
-{153}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Laß dich ausrüsten!}
-{154}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
+{153}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Lass dich ausrüsten!}
+{154}{}{Wenn der Sergeant dich ohne Uniform erwischt, kannst du deinen Kopf unterm Arm tragen.}
 {155}{}{Warum trägst du keine Uniform? }
 {156}{}{Heiliger Strohsack! Wir werden überfallen! Alarm!}
 {157}{}{Eindringlinge! Ruft die Wache!}

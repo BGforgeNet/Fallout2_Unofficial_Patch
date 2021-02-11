@@ -19,7 +19,7 @@
 {109}{}{Beenden}
 {110}{}{Ark! [Du schlägt völlig entnervt mit der Faust auf die Tastatur.]}
 {112}{}{Skynet-Sicherheitssysteme                                          
- Eindringlinge erfaßt - außerhalb des umzäunten Bereichs     Automatische Reparatur eingeleitet
+ Eindringlinge erfasst - außerhalb des umzäunten Bereichs     Automatische Reparatur eingeleitet
                               Haupttür - Störung - erneute Initialisierung läuft...          
  Meldung von Haupttür: Weiterhin verriegelt                      Rückkehr in Stromsparmodus.}
 {113}{}{Alarmsystem für Ebene 1 aktivieren.}
@@ -33,7 +33,7 @@
 {124}{}{Beenden}
 {125}{}{Befehl wird ausgewertet - bitte warten...                          Anweisung akzeptiert
                                                 Alarm auf Ebene 1 wird aufgehoben.}
-{126}{}{[Bei so einem schlampigen Sicherheitssystem ist es gar kein Wunder, daß sie sich selber
+{126}{}{[Bei so einem schlampigen Sicherheitssystem ist es gar kein Wunder, dass sie sich selber
  in die Luft gesprengt haben.] Beenden.}
 {127}{}{[Ein Menü wird angezeigt.]                                             Zum Deaktivieren des Alarms - 1 drücken
                         Zum Einleiten einer Diagnoseprüfung - 2 drücken               Zum Beenden - 3 drücken}
@@ -48,7 +48,7 @@
 {135}{}{Alle Programme werden beendet                                      Skynet-Sicherheitsprogramm auf Ebene 1 wird beendet
         Datum der letzten Systemdiagnose: 15. Okt. 1990               System wird analysiert...
                                              Voraussichtlich verbleibende Laufzeit: 99:24:60:60}
-{136}{}{[Du hast nicht den Eindruck, daß dieser Vorgang in der näheren Zukunft abgeschlossen sein
+{136}{}{[Du hast nicht den Eindruck, dass dieser Vorgang in der näheren Zukunft abgeschlossen sein
  dürfte.] Beenden.}
 {137}{}{Zugriff verweigert. Zugriff verweigert. oedgl verweigert. Quada Adjfjef. Zugriff 
  genehmigt. Alarmsystem für Ebene 1 wird aufgehoben.}

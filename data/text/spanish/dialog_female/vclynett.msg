@@ -315,7 +315,7 @@
 {367}{}{Necesito encontrar el Refugio del que provino mi gente.}
 {368}{}{Necesito un Kit del Jardín del Edén. ¿Tenéis uno?}
 {369}{}{Oh, ¿así que ahora soy bienvenida en tu ciudad? Olvídalo... me largo de aquí.}
-{370}{}{You have no idea... but I'll tell you about the Temple of Trials some other time. Goodbye.}
+{370}{}{Usted no tiene ninguna idea... pero yo voy a decir sobre el Templo de Ensayos en algún otro momento. Adiós.}
 {371}{lyn051}{Te estoy dando una oportunidad que pocos forasteros han recibido alguna vez. Puedes hacer el test, si
  lo deseas. Pero resolver esta situación para nosotros supondrá una mayor recompensa. ¿Me comprendes?}
 {372}{}{De acuerdo entonces. ¿Qué clase de situación?}
@@ -647,7 +647,7 @@
 {666}{lyn108}{¿En serio? ¡Excelente! Pero los guardias de la ciudad no dan abasto... ¿Y tú?
  ¿Podrías poner fin a los ataques? Te pagaré.}
 {667}{}{No, estoy demasiado ocupado en este momento.}
-{668}{}{Veré lo que puedo hacer.}
+{668}{}{Sé lo que podemos hacer.}
 {669}{lyn109}{Muy bien. Si me perdonas, también estoy muy ocupada. Podrás encontrar sólo la salida.}
 {670}{}{Tenía algunas otras preguntas que quería hacerte antes...}
 {671}{}{De acuerdo, me marcho.}
@@ -717,7 +717,7 @@
 {727}{lyn122}{Roger Westin es probablemente el único hombre honesto de la República y simpatiza con nuestra causa. }
 {728}{}{Está bien, le entregaré el disco.}
 {729}{}{No, gracias. Estoy demasiado ocupado ahora mismo.}
-{730}{lyn123}{Your patriotism will not go unrewarded. Go now. Time is of the essence.}
+{730}{lyn123}{Su patriotismo no va a ir sin recompensa. Vaya ahora. El tiempo es la esencia.}
 {731}{}{Antes de marcharme, tenía algunas otras preguntas...}
 {732}{}{Estoy en ello.}
 {733}{}{Puedes contar conmigo, Primer Ciudadano. Volveré cuando haya entregado el disco a Westin.}

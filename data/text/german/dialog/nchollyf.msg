@@ -6,7 +6,7 @@
 {200}{}{Hnffff}
 {201}{}{Hnrrgggg}
 {202}{}{::Wimmert und berührt seine Ohren::}
-{203}{}{::Läßt die Muskeln spielen::}
+{203}{}{::Lässt die Muskeln spielen::}
 {300}{}{::Hält die Hände über die Ohren und starrt dich zornig an::}
 {301}{}{Gerne Kopfstumpf}
 {302}{}{Ich und Mike Stumpfköpfe}

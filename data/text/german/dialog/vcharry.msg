@@ -10,12 +10,12 @@
 {109}{}{Ich gebe dir sechshundert dafür.}
 {110}{}{Einverstanden. Ich nehm ihn.}
 {111}{}{Hmmm, achthundert? Bin gleich wieder da. Ich hole nur das Geld.}
-{112}{}{Vergiß es. Sollen die Smiths doch verhungern.}
+{112}{}{Vergiss es. Sollen die Smiths doch verhungern.}
 {113}{}{Er gehört dir. [Steckt das Geld ein.] Nimmst du ihn gleich mit, oder soll er
  irgendwohin geliefert werden?}
 {114}{}{Liefer den doch bitte bei den Smiths ab.}
-{115}{}{Tut mir leid, aber dafür mußt du schon achthundert hinblättern.}
+{115}{}{Tut mir leid, aber dafür musst du schon achthundert hinblättern.}
 {119}{}{Hast du das Geld dabei, Freundchen?}
 {120}{}{Ich gehe das Geld holen.}
-{121}{}{Kein Problem. Ich möchte, daß er sofort geliefert wird.}
+{121}{}{Kein Problem. Ich möchte, dass er sofort geliefert wird.}
 {122}{}{Hast wohl gedacht, du könntest dich hier selbst bedienen, was? Verdammter Dieb... Wachen! Wachen!}

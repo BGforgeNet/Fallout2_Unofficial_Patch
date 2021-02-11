@@ -22,7 +22,7 @@
 {234}{}{Pareces un hombre con problemas. Yo podría ayudarte.}
 {235}{}{Pareces un hombre que valora su privacidad. Para alguien tan hablador como yo, el olvidarte
  podría resultar muy caro.}
-{236}{}{All right then... sorry to bother you.}
+{236}{}{Bien entonces... perdona que te moleste.}
 {245}{}{¿Problema? El problema lo tengo justo delante. }
 {246}{}{Voy a repetírtelo, amigo: márchate.}
 {247}{}{Voy a repetírtelo, corazón: márchate.}
@@ -46,7 +46,7 @@
 {285}{}{Pareces un hombre con problemas, y yo podría ayudarte. ¿Qué me dices?}
 {286}{}{Pareces un hombre que valora su privacidad. Para alguien tan hablador como yo, el olvidarte
  podría resultar muy caro.}
-{287}{}{All right then... sorry to bother you.}
+{287}{}{Bien entonces... perdona que te moleste.}
 {295}{}{Eh... hey, oye… no hay, eh, necesidad de decir esas cosas. Quizá podamos hablar sobre
  OTRA cosa: cómo puede ayudarte tu amigo Lloyd, por ejemplo.}
 {296}{}{Me interesa. Sigue hablando.}
@@ -171,9 +171,9 @@
 {609}{}{Bien, quédate atrás y déjame cavar...}
 {610}{}{Sal de aquí, Lloyd. Este dinero ahora es mío.}
 {615}{}{(Parece sin aliento). Como... parte de tus… deberes como guardia… agradecería que tú... cavases.}
-{616}{}{Uh...}
+{616}{}{Eh...}
 {617}{}{El mundo se divide en dos categorías, Lloyd: los que tienen armas y los que cavan.}
-{620}{}{All right then, I'll do it...}
+{620}{}{Bien entonces, lo voy a hacer...}
 {625}{}{(Lloyd murmura entre dientes, y empieza a cavar).}
 {626}{}{(Lloyd murmura entre dientes, y empieza a cavar... cuidadosamente. Menos de un minuto
  después, saca una mina terrestre de debajo de la tierra y la pone a un lado. Se encoge de hombros con timidez).}

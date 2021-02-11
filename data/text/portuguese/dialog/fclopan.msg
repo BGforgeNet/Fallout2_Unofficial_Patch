@@ -34,17 +34,17 @@
 {133}{}{Eu posso, mas por que eu deveria?}
 {134}{}{Parece justo para mim. Como este teste funciona?}
 {135}{}{Oh. Bem, nesse caso, eu tenho que ir.}
-{136}{}{Because otherwise the peasants will curse me and it'll make it that much harder to cow them when I've beaten the Dragon.}
-{137}{}{Got it. Let's start the test.}
+{136}{}{Porque de outro modo os camponeses me amaldiçoarão e tornarão muito mais difícil intimidá-los quando eu tiver derrotado o Dragão.}
+{137}{}{Entendi. Vamos começar o teste.}
 {138}{}{Tenho-o. Eu tenho mais perguntas.}
 {139}{}{Certo. Até mais.}
-{140}{}{You want to fight me to the death, or do you just want to see who's better?}
+{140}{}{Você quer lutar contra mim até a morte ou você apenas quer ver quem é melhor?}
 {141}{}{Até o final. Eu posso te vencer.}
 {142}{}{Um teste de habilidades. Eu não quero matar você.}
 {143}{}{Nenhuma. Esquecê-lo.}
-{144}{}{Great. I hope you have a grave ready. Did the Dragon send you?}
-{145}{}{Yes. I'm doing this for the Shi.}
-{146}{}{No. I'm doing this because I think you're scum.}
+{144}{}{Ótimo. Eu espero que você tenha um túmulo pronto. O Dragão enviou você?}
+{145}{}{Sim. Eu estou fazendo isto para o Shi.}
+{146}{}{Não. Eu estou fazendo isto porque eu acho que você é escória.}
 {147}{}{A tough one, eh? You'll fight my men first, and then we'll see if you're worthy of fighting me.}
 {148}{}{[INICIAR]}
 {149}{}{I'm Lo Pan. I'm also the "sworn enemy" of the Dragon. Why he insists on having a sworn enemy is beyond me. I just fight as well as him, and I think he's weak-hearted and allows others to live under his shadow. We're enemies because we have the same fighting style, and whoever wins will be the one who carries the tradition.}

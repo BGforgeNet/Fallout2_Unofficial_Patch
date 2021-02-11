@@ -21,9 +21,6 @@
 #define MIN_XANDER_ROOT                         (2)
 #define MAX_XANDER_ROOT                         (4)
 
-#define DUMMY_PARAM                             (1)
-
-#define HEX_XANDER                              (24298)
 #define HEX_MARK0                               (18682)
 #define HEX_MARK1                               (22920) /*(23323)*/
 #define HEX_MARK2                               (27490) /*(28695*/

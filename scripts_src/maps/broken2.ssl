@@ -48,14 +48,9 @@ variable manson_hex;
 variable Damage_Timer_Started := 0;
 variable damage;
 
-#define wearing_protective_gear(x)  ( ( obj_pid( get_armor( x) ) == PID_POWERED_ARMOR ) or \
-                                      ( obj_pid( get_armor( x) ) == PID_HARDENED_POWER_ARMOR ) or \
-                                      ( obj_pid( get_armor( x) ) == PID_ADVANCED_POWER_ARMOR ) or \
-                                      ( obj_pid( get_armor( x) ) == PID_ADVANCED_POWER_ARMOR_MK2 ) )
-
-
-#define apply_radon_damage(x)    damage := random( 10, 15 ); \
-                                 critter_dmg( x, damage, ( DMG_normal_dam BWOR DMG_NOANIMATE BWOR DMG_BYPASS_ARMOR ));
+#define apply_radon_damage(x) \
+   damage := random(10, 15); \
+   critter_dmg(x, damage, (DMG_normal_dam bwor DMG_NOANIMATE bwor DMG_BYPASS_ARMOR));
 
 export variable frank_obj;
 export variable manson_obj;
@@ -95,8 +90,6 @@ procedure map_enter_p_proc begin
 end
 
 procedure map_update_p_proc begin
-   //set_map_var( MVAR_Came_From_Broken2, 1 ); - comment out by killap
-
    if( dude_elevation == 0) then
       Lighting;
    else
@@ -111,29 +104,26 @@ procedure map_update_p_proc begin
       move_to( broken_hills_cavein, 9091, 0 );
 
       // Add new blocking hexes to prevent entry into mine.
-      create_object( PID_BLOCKING_HEX, 9493, 0 );
-      create_object( PID_BLOCKING_HEX, 9292, 0 );
-      create_object( PID_BLOCKING_HEX, 9491, 0 );
+      create_object(PID_BLOCKING_HEX, 9493, 0);
+      create_object(PID_BLOCKING_HEX, 9292, 0);
+      create_object(PID_BLOCKING_HEX, 9491, 0);
 
-      add_timer_event( self_obj, game_ticks(2), 1);
+      add_timer_event(self_obj, game_ticks(2), 1);
    end
 
 end
 
-//added by killap
 procedure map_exit_p_proc begin
-   set_global_var( GVAR_CAME_FROM_BROKEN2, 1 );
+   set_global_var(GVAR_CAME_FROM_BROKEN2, 1);
 end
-//end added
 
 procedure timed_event_p_proc begin
-   if( fixed_param == 1 ) then begin
+   if fixed_param == 1 then begin
       gfade_in(600);
    end
-   else if( fixed_param == 2 ) then begin
-      if( global_var(GVAR_BH_MINE) < MINE_FIXED_CASH ) then begin
-         if( dude_elevation == 2) then
-            call CauseDamage;
+   else if fixed_param == 2 then begin
+      if global_var(GVAR_BH_MINE) < MINE_FIXED_CASH then begin
+         if dude_elevation == 2 then call CauseDamage;
          add_timer_event( self_obj, game_ticks(20), 2);
       end
    end
@@ -143,9 +133,7 @@ end
 procedure CauseDamage begin
    variable dmg, who;
    foreach who in party_member_list_critters begin
-      if not wearing_protective_gear(who)
-         and critter_kill_type(who) != KILL_TYPE_robot_kills
-      then begin
+      if prone_to_gas(who) then begin
          apply_radon_damage(who)
       end
    end

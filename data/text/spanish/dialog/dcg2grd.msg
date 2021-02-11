@@ -36,9 +36,9 @@
 {271}{}{Debes haber venido para hablar con Lara.}
 {272}{}{¿Qué tal te va?}
 {273}{}{Deberías hablar con Lara.}
-{274}{}{Buenas.}
+{274}{}{Hola.}
 {275}{}{¿Estás aquí para ver a Lara?}
-{300}{}{Buenas.}
+{300}{}{Hola.}
 {301}{}{¿Qué tal te va?}
 {302}{}{Espero que todo te vaya bien.}
 {303}{}{¿Así que tu vas a ayudarnos?}

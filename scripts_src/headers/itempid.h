@@ -165,8 +165,6 @@
 #define PID_MEGA_POWER_FIST                 (407)
 #define PID_HOLY_HAND_GRENADE               (421)  // Special don't use this
 #define PID_FLAME_BREATH                    (427)
-#define PID_RING_BOXING_GLOVES              (496)
-#define PID_RING_PLATED_BOXING_GLOVES       (497)
 #define PID_FN_FAL_HPFA                     (500)
 //#define PID_BLOW_UP_DOLL                    (508)
 //#define PID_POPPED_BLOW_UP_DOLL             (509)
@@ -287,9 +285,6 @@
 #define PID_LF_GRAVESITE_2                  (375)
 #define PID_LF_GRAVESITE_3                  (376)
 
-#define PID_HIDDEN_CONTAINER                (467)  // Code item  JLR
-
-
 /******************************************************************
 ***************       Books                         ***************
 ******************************************************************/
@@ -313,7 +308,7 @@
 
 #define PID_DYNAMITE                        (51)
 #define PID_GEIGER_COUNTER                  (52)
-//#define PID_STEALTH_BOY                     (54)  // Disabled FO2 7/22/98 JLR
+#define PID_STEALTH_BOY                     (54)
 #define PID_MOTION_SENSOR                   (59)
 #define PID_MULTI_TOOL                      (75)
 #define PID_ELECTRONIC_LOCKPICKS            (77)
@@ -378,7 +373,6 @@
 #define PID_BOX_OF_NOODLES                  (226)
 #define PID_FROZEN_DINNER                   (227)
 #define PID_MOTIVATOR                       (229)
-#define PID_JAIL_KEY                        (456)
 
 #define PID_ANNA_GOLD_LOCKET                (252)
 #define PID_CAR_FUEL_CELL_CONTROLLER        (253)
@@ -454,12 +448,10 @@
 #define PID_POISON_TANK                     (418)  // DO NOT USE THIS IN YOUR SCRIPTS, THIS IS SPECIAL CASE
 #define PID_MINE_PART                       (419)  // DO NOT USE THIS IN YOUR SCRIPTS, THIS IS SPECIAL CASE
 #define PID_MORNING_STAR_MINE               (420)
-#define PID_HOLY_HAND_GRENADE               (421)
 #define PID_EXCAVATOR_CHIP                  (422)
 #define PID_GOLD_NUGGET                     (423)
 #define PID_STONE_HEAD                      (425)
 #define PID_URANIUM_ORE                     (426)
-#define PID_FIRE_GECKO_FLAME_WEAPON         (427)
 #define PID_GOLD_TOOTH                      (429)
 #define PID_HOWITZER_SHELL                  (430)
 #define PID_RAMIREZ_BOX_CLOSED              (431)
@@ -510,7 +502,6 @@
 #define PID_ENLIGHTENED_ONE_LETTER          (476)
 #define PID_BROADCAST_HOLODISK              (477)
 #define PID_SIERRA_MISSION_HOLODISK         (478)
-#define PID_NAVCOM_PARTS                    (479)
 #define PID_KITTY_SEX_DRUG_AGILITY          (480)  // + 1 agility for 1 hr
 #define PID_KITTY_SEX_DRUG_INTELLIGENCE     (481)  // + 1 iq for 1 hr
 #define PID_KITTY_SEX_DRUG_STRENGTH         (482)  // + 1 strength for 1 hr
@@ -538,10 +529,6 @@
 //#define PID_FN_FAL_HPFA                     (507)
 #define PID_WALL_SAFE                       (501)
 #define PID_FLOOR_SAFE                      (502)
-#define PID_BLUE_MEMORY_MODULE              (503)
-#define PID_GREEN_MEMORY_MODULE             (504)
-#define PID_RED_MEMORY_MODULE               (505)
-#define PID_YELLOW_MEMORY_MODULE            (506)
 #define PID_DECOMPOSING_BODY                (507)
 #define PID_BLOW_UP_DOLL                    (508)  // (515)
 #define PID_POPPED_BLOW_UP_DOLL             (509)  // (516)
@@ -554,7 +541,6 @@
 #define PID_PIP_BOY_MEDICAL_ENHANCER        (516)  // (523)
 #define PID_LIL_JESUS_WEAPON                (517)
 #define PID_DUAL_MINIGUN                    (518)
-#define PID_REAL_BOTTLE_CAPS                (519)
 #define PID_HEAVY_DUAL_MINIGUN              (520)
 #define PID_POOR_BOX                        (521)
 #define PID_WAKIZASHI_BLADE                 (522)

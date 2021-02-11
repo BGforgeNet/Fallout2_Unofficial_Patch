@@ -8,7 +8,7 @@
 {275}{}{Sie ist schmutzig und scheint unterernährt zu sein.}
 {300}{}{Bitte nichts tun!}
 {301}{}{Gehn wir jetzt?}
-{302}{}{Kann nicht reden. Muß fliehen.}
+{302}{}{Kann nicht reden. Muss fliehen.}
 {303}{}{Danke für die Hilfe.}
 {304}{}{Vielen Dank!}
 {305}{}{Du bist ein Heiliger.}
@@ -25,7 +25,7 @@
 {328}{}{Habt Ihr keine Ehre im Leib?}
 {329}{}{Was wird mit uns passieren?}
 {330}{}{Was haben wir falsch gemacht?}
-{331}{}{Laß uns in Ruhe, Sklavenhändler!}
+{331}{}{Lass uns in Ruhe, Sklavenhändler!}
 {332}{}{Tu mir nicht weh!}
 {333}{}{Lass mich in Ruhe!}
 {350}{}{Wer du?}
@@ -49,7 +49,7 @@
 {387}{}{Warum schlechte Leute das tun?}
 {388}{}{Wir nicht Sklaven!}
 {389}{}{Wir nix falsch machen.}
-{390}{}{Laß los!}
+{390}{}{Lass los!}
 {391}{}{Was los?}
 {392}{}{Großer Krach?}
 {393}{}{Wer kämpfen?}
@@ -59,20 +59,20 @@
 {397}{}{He! Kann mich keiner hören?}
 {398}{}{Das ist nicht in Ordnung!}
 {399}{}{Wir haben nichts getan!}
-{400}{}{Laßt uns hier raus!}
+{400}{}{Lasst uns hier raus!}
 {401}{}{Hol uns jemand hier raus!}
 {402}{}{Was haben wir getan?}
 {403}{}{Wir haben nichts getan!}
 {404}{}{Wir haben das nicht verdient.}
 {405}{}{Diese Bastarde!}
 {406}{}{Helft uns!}
-{407}{}{Laßt mich raus!}
+{407}{}{Lasst mich raus!}
 {408}{}{Wir sind keine Sklaven!}
-{409}{}{Wir sind keine Wilden! Laßt uns hier raus!}
+{409}{}{Wir sind keine Wilden! Lasst uns hier raus!}
 {410}{}{Was ist los?}
 {411}{}{Ist hier jemand, der uns retten kann?}
 {412}{}{Hier drüben!}
-{413}{}{Hilfe! Verlaß uns nicht!}
+{413}{}{Hilfe! Verlass uns nicht!}
 {414}{}{Was war das für eine Schießerei?}
 {415}{}{Was geht hier vor?}
 {420}{}{Ahhh!}
@@ -86,12 +86,12 @@
 {441}{}{Hey! Was war das für eine Schießerei? Sind die Sklavenhändler tot?}
 {442}{}{Hey! Was war das für eine Schießerei? Was ist los?}
 {443}{}{Das war Metzgers Schlaflied.}
-{444}{}{Oh, nichts. Ich wollte nur mal nachsehen. Tschüß.}
+{444}{}{Oh, nichts. Ich wollte nur mal nachsehen. Tschüss.}
 {445}{}{Du kannst gehen. Metzger ist tot.}
 {446}{}{Du frei.}
 {447}{}{ Freund. Er töten Mezgur. Du gehen.}
 {448}{}{ Freund. Sie töten Mezgur. Du gehen.}
-{460}{}{Er tot? Danke! Wir gehen schnell. Tschüß. Du Freund.}
+{460}{}{Er tot? Danke! Wir gehen schnell. Tschüss. Du Freund.}
 {461}{}{Was? Metzger ist tot? Oh vielen Dank! Wir gehen besser, bevor die anderen kommen. Noch
  mal vielen Dank.}
 {462}{}{Keine Ursache. Aber geht jetzt.}
@@ -102,23 +102,23 @@
 {482}{}{Oh, nichts.}
 {500}{}{Häh?}
 {501}{}{Macht nichts. Ihr könnt gehen. Metzger ist tot.}
-{510}{}{Was? Frei? Schlechte Männer weg? Wir jetzt gehen! Danke! Du Freund! Tschüß!}
+{510}{}{Was? Frei? Schlechte Männer weg? Wir jetzt gehen! Danke! Du Freund! Tschüss!}
 {511}{}{Frei? Was? Du hast alle getötet? Oh vielen Dank! Wir sollten gehen, solange wir noch
  können. Noch mal danke, du bist ein Heiliger!}
 {520}{}{Du Mistkerl!}
 {521}{}{Du sollst in der Hölle schmoren!}
 {522}{}{Dafür sollst du büßen.}
 {523}{}{Warum redest du überhaupt mit mir?}
-{524}{}{Laß mich in Ruhe.}
+{524}{}{Lass mich in Ruhe.}
 {525}{}{Will mit dir nicht reden.}
 {526}{}{Wie konntest Du!?}
 {527}{}{Ich will dich nie wieder sehen.}
 {528}{}{Dadurch wird sich nichts ändern.}
 {529}{}{Ich gehe dann, wenn du nichts dagegen hast.}
-{530}{}{Laß mich bitte einfach gehen.}
+{530}{}{Lass mich bitte einfach gehen.}
 {531}{}{Ich möchte mich auf den Weg machen.}
 {532}{}{Ich will immer noch nicht mit Dir reden.}
-{533}{}{Laß mich in Ruhe.}
+{533}{}{Lass mich in Ruhe.}
 {534}{}{Keine Chance.}
 {535}{}{Glaubst du, dadurch ändert sich was?}
 {600}{}{Wir gehn?}

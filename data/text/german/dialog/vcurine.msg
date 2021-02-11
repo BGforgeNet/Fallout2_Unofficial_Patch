@@ -17,7 +17,7 @@
 {116}{}{Ich glaube, du verwechselt mich mit jemandem, DER GERADE NICHT PINKELT!}
 {117}{}{Wird das jetzt für "Vorsicht Kamera" aufgenommen?}
 {118}{}{Für wen arbeitet eigentlich Nummer Zwei?}
-{119}{}{Ich wußte schon immer, daß öffentliche Toiletten nichts taugen.}
+{119}{}{Ich wusste schon immer, dass öffentliche Toiletten nichts taugen.}
 {120}{}{Nein Schatz, jetzt nicht. Falls du das nicht bemerkt haben solltest: Ich pinkele gerade.}
 {121}{}{Tut mir leid, Schätzchen. Toiletten machen mich nicht an.}
 {122}{}{Hier ist kein Aufenthaltsraum, Freundchen. Hau ab, OK?}

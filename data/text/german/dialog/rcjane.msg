@@ -4,35 +4,35 @@
 {103}{}{Hallo, hier, Freund. Möchtest du den Critter-Kampf sehen?}
 {104}{}{Oooh. Pelzig.}
 {105}{}{Ziemlich pelzig.}
-{106}{}{Ah, ich verstehe. Du mußt neu in der Stadt sein. Gut, ich werde dir etwas sagen. Ich werde eine spezielle Wette für
- Dich während den morgigen Kämpfen machen. Möchtest du, daß ich das für dich mache?}
-{107}{}{(You nod) Ook, ook. (and hold out your purse)}
+{106}{}{Ah, ich verstehe. Du musst neu in der Stadt sein. Gut, ich werde dir etwas sagen. Ich werde eine spezielle Wette für
+ Dich während den morgigen Kämpfen machen. Möchtest du, dass ich das für dich mache?}
+{107}{}{[Du nickst.] Ja, ja. [Und reichst deinen Geldbeutel]}
 {108}{}{Ich? Plemplem. Bis bald, Pelz.}
 {109}{}{Gute Idee. Du kommst morgen hier zurück und falls dein Critter bei den Kämpfen gewinnt, gebe ich dir dein Geld.
  Okay?}
-{110}{}{OK, guter Zug. Ich werde sichergehen, daß du damit eine wirklich gute spezielle Wette machst. Bis später.}
+{110}{}{OK, guter Zug. Ich werde sichergehen, dass du damit eine wirklich gute spezielle Wette machst. Bis später.}
 {111}{}{Gewinnen?}
 {112}{}{Okay... bis bald.}
 {113}{}{Nein, ich befürchte, nein. Aber ich habe ein wirklich gutes Gefühl bezüglich des nächsten Males. Möchtest du noch
  eine andere spezielle Wette machen?}
 {114}{}{Okay. Danke. [Du nickst und reichst deinen Geldbeutel.]}
-{115}{}{Booo? Tschüß.}
-{116}{}{Es tut mir wirklich leid, aber du hast nichts dabei, womit du wetten kannst. Komm zurück, wenn du ein bißchen was
+{115}{}{Booo? Tschüss.}
+{116}{}{Es tut mir wirklich leid, aber du hast nichts dabei, womit du wetten kannst. Komm zurück, wenn du ein bisschen was
  angesammelt hast.}
-{117}{}{Okay, schön, schön. Tschüß.}
+{117}{}{Okay, schön, schön. Tschüss.}
 {118}{}{Komm zur Arena, jeden verdammten Tag zur Mittagszeit.}
 {119}{}{Jetzt sind gerade keine Kämpfe, komm um die Mittagszeit zur Arena.}
 {120}{}{Hier passiert gerade nichts.}
-{121}{}{Für Kämpfe mußt du bis zur Mittagszeit warten. Lass' mich jetzt bitte allein.}
+{121}{}{Für Kämpfe musst du bis zur Mittagszeit warten. Lass' mich jetzt bitte allein.}
 {122}{}{Hallo da! Wir sehen uns bei der Arena, ansonsten verschwinde von hier.}
 {123}{}{Das sieht vielversprechend aus, Leute. Sie werfen sich alle gegenseitig abschätzende Blicke zu.}
-{124}{}{Ein paar gute Züge da, man sieht, daß die beiden das schon einmal gemacht haben!}
-{125}{}{Gute Runde, gute Runde. Da ist ganz schön viel Haß in der Arena.}
+{124}{}{Ein paar gute Züge da, man sieht, dass die beiden das schon einmal gemacht haben!}
+{125}{}{Gute Runde, gute Runde. Da ist ganz schön viel Hass in der Arena.}
 {126}{}{Kannst du das Durchhaltevermögen dieser beiden fassen? Die können wirklich austeilen und auch einstecken.}
-{127}{}{Was für ein Kinnhaken, daß muß weh tun!}
+{127}{}{Was für ein Kinnhaken, dass muss weh tun!}
 {128}{}{Oh ja! Körper schlagen! Körper schlagen!}
-{129}{}{Ich glaube nicht einmal, daß er diesen hat kommen sehen, Glückszug.}
-{130}{}{Aua! Das muß einfach weh tun!}
+{129}{}{Ich glaube nicht einmal, dass er diesen hat kommen sehen, Glückszug.}
+{130}{}{Aua! Das muss einfach weh tun!}
 {131}{}{Jetzt kommt die wirkliche Bestrafung, Leute.}
 {132}{}{Netter Zug, das war gute Pfotenarbeit.}
 {133}{}{Körper bearbeiten. Das sind heute gute Züge, Leute!}
@@ -60,7 +60,7 @@
 {152}{}{Kommt jetzt, kommt alle, seht den KAMPF des JAHRHUNDERTS!}
 {153}{}{Setzt jetzt euer Geld auf den SIEGER!}
 {154}{}{Seht den Kampf der Titanen!}
-{155}{}{Setzt Euer Geld jetzt, bevor die Wetten geschlossen werden! Zögert nicht, verpaßt es nicht!}
+{155}{}{Setzt Euer Geld jetzt, bevor die Wetten geschlossen werden! Zögert nicht, verpasst es nicht!}
 {156}{}{Achtet auf spritzendes Blut und fliegende Eingeweide. Die Verantwortlichen übernehmen keine Haftung für Flecken oder
  Schäden.}
 {157}{}{Tausende von Dollars werden täglich ausgehändigt!}
@@ -83,7 +83,7 @@
 {171}{}{Äh, ich bin dabei. Glaube ich.}
 {172}{}{Große Echsen machen mir Angst. Ich bin lieber nicht dabei. Vielen Dank für die Warnung. Auf Wiedersehen.
  [Du denkst bei dir *Phuh, das war knapp*.]}
-{173}{}{Der sportliche Teil ist die Wette auf den Ausgang des Kampfes. Und so läuft es. Du kommst zu mir und sagst, daß du
+{173}{}{Der sportliche Teil ist die Wette auf den Ausgang des Kampfes. Und so läuft es. Du kommst zu mir und sagst, dass du
  wetten möchtest. Ich sage dir, welche zwei Critters als nächstes kämpfen werden, und du sagst mir, auf welchen du dein Geld
  setzt.}
 {174}{}{Was dann?}
@@ -129,15 +129,15 @@
 {209}{}{ gewann diesen, letzten Kampf des Tages. Ich werde jeden auszahlen, aber kommt morgen zurück für noch mehr tolle
  Action.}
 {210}{}{Was für ein Blutfest! Ich kann mich nicht erinnern, jemals einen Kampf wie diesen gesehen zu haben. Der Sieger ist }
-{211}{}{. Laßt mich jeden auszahlen und wir starten die nächste Runde.}
-{212}{}{ gewinnt diese Runde, Hände, äh, Krallen weg! Laßt mich jeden auszahlen, und wir starten die nächste Runde.}
+{211}{}{. Lasst mich jeden auszahlen und wir starten die nächste Runde.}
+{212}{}{ gewinnt diese Runde, Hände, äh, Krallen weg! Lasst mich jeden auszahlen, und wir starten die nächste Runde.}
 {213}{}{Und der Sieger ist...}
-{214}{}{ von einer bluttriefenden Kralle. Laßt mich jeden auszahlen, und wir starten die nächste Runde.}
-{215}{}{Ich wollte nur sagen, daß Ascorti heute abend ein Special mit, uh, *Steaks* gibt. Es dauert nur einen Moment, bis wir
+{214}{}{ von einer bluttriefenden Kralle. Lasst mich jeden auszahlen, und wir starten die nächste Runde.}
+{215}{}{Ich wollte nur sagen, dass Ascorti heute abend ein Special mit, uh, *Steaks* gibt. Es dauert nur einen Moment, bis wir
  den Verlierer vom Feld geschleift haben. }
-{216}{}{ gewinnt diesen Kampf! Laßt mich jeden auszahlen und wir starten die nächste Runde.}
+{216}{}{ gewinnt diesen Kampf! Lasst mich jeden auszahlen und wir starten die nächste Runde.}
 {217}{}{Es sieht so aus, als ob }
-{218}{}{ gewonnen hat. Ich habe noch nie solche Prügel gesehen. Laßt mich jeden auszahlen und wir starten die nächste Runde.}
+{218}{}{ gewonnen hat. Ich habe noch nie solche Prügel gesehen. Lasst mich jeden auszahlen und wir starten die nächste Runde.}
 {219}{}{Jipiii! Ich habe gewonnen.}
 {220}{}{Ja! Das ist famos!}
 {221}{}{Ich habe ein wirkliches Talent dafür.}
@@ -146,8 +146,8 @@
 {224}{}{Einfach mein Glück.}
 {225}{}{Das hätte besser laufen können.}
 {226}{}{Vielleicht erwische ich es nächstes Mal besser.}
-{227}{}{Gut, daß ich nicht auf diesen gesetzt habe.}
-{228}{}{Ich bin froh, daß ich mein Geld behalten habe.}
+{227}{}{Gut, dass ich nicht auf diesen gesetzt habe.}
+{228}{}{Ich bin froh, dass ich mein Geld behalten habe.}
 {229}{}{Das hätte mich gekostet.}
 {230}{}{Das war ein guter Kampf. Obwohl ich froh bin, nicht darauf gewettet zu haben.}
 {231}{}{Ok, danke.}
@@ -179,7 +179,7 @@
 {327}{}{Spot}
 {328}{}{Lord Wiggler}
 {330}{}{Lucky}
-{331}{}{Zoroaster the Great}
+{331}{}{Zoroaster der Große}
 {332}{}{Shub}
 {333}{}{Usuthu}
 {334}{}{Growler}

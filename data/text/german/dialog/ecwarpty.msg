@@ -1,4 +1,4 @@
-{150}{}{Verlaß unser Land.}
+{150}{}{Verlass unser Land.}
 {151}{}{Das nennt man unbefugtes Betreten.}
 {152}{}{Das ist unser Land.}
 {153}{}{Mögen die Geister des Himmels auf dich pissen.}

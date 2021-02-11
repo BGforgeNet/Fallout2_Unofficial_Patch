@@ -1,7 +1,7 @@
 {100}{}{Du siehst einen schlanken, sonnengebräunten Mann.}
 {101}{}{Du siehst eine Farmerin.}
-{102}{}{Du bemerkst, daß er die typische Bräune eines Farmers hat.}
-{103}{}{Du bist genau im richtigen Augenblick angekommen. Wenn du nicht genau dann gekommen wärst...Naja, sind wir mal dankbar, daß du zum richtigen Zeitpunkt gekommen bist. Wir haben nicht viel, aber ich möchte, daß du dies als Belohnung für deine Hilfe annimmst. [Er gibt dir etwas.]}
+{102}{}{Du bemerkst, dass er die typische Bräune eines Farmers hat.}
+{103}{}{Du bist genau im richtigen Augenblick angekommen. Wenn du nicht genau dann gekommen wärst...Naja, sind wir mal dankbar, dass du zum richtigen Zeitpunkt gekommen bist. Wir haben nicht viel, aber ich möchte, dass du dies als Belohnung für deine Hilfe annimmst. [Er gibt dir etwas.]}
 {104}{}{Danke.}
 {105}{}{Ups!}
 {106}{}{Nochmals danke für deine Hilfe.}
@@ -18,7 +18,7 @@
 {116}{}{[Tauschen]}
 {117}{}{Ich sagte, raus hier!}
 {118}{}{}
-{119}{}{[Er beruhigt sich ein bißchen.] Du bist zu dumm, du kannst kein Bandit sein. Brauchste Vorräte?}
+{119}{}{[Er beruhigt sich ein bisschen.] Du bist zu dumm, du kannst kein Bandit sein. Brauchste Vorräte?}
 {120}{}{Aha.}
 {121}{}{Äh äh.}
 {122}{}{Na, dann haben wir nichts zu bereden. Mach dich auf die Socken.}

@@ -46,7 +46,7 @@
 {271}{}{La última pelea fue algo más que épica, chica.}
 {272}{}{¿Dónde entrenas, eh? ¿Necesitas un ayudante?}
 {273}{}{Cuidado con el Masticador. Le gustan las orejas… es un tipo enfermo.}
-{280}{}{Hey, hey, hey! Chica, you need me to put that weapon away for you?}
+{280}{}{Hey, hey, hey! Chica, me necesitas para poner esa arma lejos para usted?}
 {281}{}{¿Qué, quieres que desnude para registrarte? Venga, guarda eso antes de que me tenga que poner duro.}
 {285}{}{¿Por qué demonios estás andando a hurtadillas, }
 {290}{}{No hay forma de que te escondas de un Mordino con un cuerpo así, chica.}

@@ -4,7 +4,7 @@
 {200}{}{Hallo. Ich heiße Rebecca, kann ich dir was zu trinken bringen? Du hast bestimmt Durst
  nach deiner Reise durch die Öde.}
 {201}{}{Hey! Willst du was zu trinken, oder bis du nur zurück gekommen, um Hallo zu sagen?}
-{202}{}{Hallo! Schön, daß du zurückgekommen bist. Hast du Fragen, oder bist du wegen dem guten
+{202}{}{Hallo! Schön, dass du zurückgekommen bist. Hast du Fragen, oder bist du wegen dem guten
  Whiskey hier?}
 {203}{}{Wirklich schön, dich zu sehen. Was ist los? Brauchst du etwas?}
 {204}{}{Ich hoffe, bei meinem Lieblingsgast ist alles in Ordnung. Was können wir heute für dich
@@ -27,7 +27,7 @@
 {219}{}{Was?}
 {220}{}{Ja?}
 {221}{}{Was ist denn jetzt schon wieder?}
-{222}{}{Faß dich bitte kurz. Es ist heute viel los. Was brauchst du?}
+{222}{}{Fass dich bitte kurz. Es ist heute viel los. Was brauchst du?}
 {223}{}{Was kann ich für dich tun? Ich habe wirklich zu tun.}
 {224}{}{Bist du hier, um was zu trinken? Die Tische sind da drüben.}
 {225}{}{Ich bin eigentlich nicht in Stimmung. Was ist?}
@@ -45,7 +45,7 @@
 {250}{}{Frage weiter.}
 {251}{}{Wenn du darauf bestehst.}
 {252}{}{Sieht so aus.}
-{253}{}{Faß dich kurz. Ich muß den Laden führen.}
+{253}{}{Fass dich kurz. Ich muss den Laden führen.}
 {254}{}{In Ordnung. Was ist es?}
 {255}{}{Nehme ich an.}
 {256}{}{Was?}
@@ -57,7 +57,7 @@
 {273}{}{Hast du Arbeit?}
 {274}{}{Zu diesem Job...}
 {275}{}{Gibt's noch mehr Arbeit für mich?}
-{276}{}{Nichts. Tschüß.}
+{276}{}{Nichts. Tschüss.}
 {277}{}{Wikie.}
 {278}{}{Ruh ruh?}
 {279}{}{Icha schascha.}
@@ -68,10 +68,10 @@
 {301}{}{Drinks kosten immer noch $5 und die Familie Dyer macht die besten Drinks der Welt.}
 {302}{}{Bist du in Ordnung? Willste 'n Whiskey? Nur $5.}
 {303}{}{Ich nehm einen Drink.}
-{304}{}{Why are your drinks so cheap?}
+{304}{}{Warum sind deine Drinks so billig?}
 {305}{}{Dyer?}
-{306}{}{Can I ask a question?}
-{307}{}{Tschüß.}
+{306}{}{Kann ich eine Frage stellen?}
+{307}{}{Tschüss.}
 {308}{}{Wikie}
 {309}{}{Urka.}
 {320}{}{Oh, das ist mein Familienname. Schon vor dem Krieg war der Name Dyer ein Begriff im
@@ -80,12 +80,12 @@
  Dyer-Saloons und sowas.}
 {322}{}{Ich nehm einen Drink.}
 {323}{}{Kann ich noch eine Frage stellen?}
-{324}{}{Tschüß.}
+{324}{}{Tschüss.}
 {330}{}{Weil du so ein guter Kunde bist, werd ich dir ein kleines Geheimnis verraten. Es ist ganz
  einfach - ich hab einen Destillator. Ein Freund aus einer nahegelegenen Stadt hat mir gezeigt,
  wie man einen baut. Also, möchtest du noch einen?}
 {331}{}{Tut mir leid, das ist ein Betriebsgeheimnis. Außerdem kenn ich dich nicht so gut. Ich
- möcht nicht, daß Frankie es rauskriegt. Er macht mir so schon genug Schwierigkeiten. Wolltest du
+ möcht nicht, dass Frankie es rauskriegt. Er macht mir so schon genug Schwierigkeiten. Wolltest du
  noch einen? Sie sind wirklich spitze.}
 {332}{}{Klar. Ich nehm noch einen.}
 {333}{}{Kann ich noch eine Frage stellen?}
@@ -94,7 +94,7 @@
 {341}{}{Danke. Kann ich dich was fragen?}
 {342}{}{Okay, danke.}
 {343}{}{Dankey Direy.}
-{344}{}{Asky?}
+{344}{}{Fraag?}
 {350}{}{Nein, ich glaube nicht.}
 {351}{}{Fred schuldet mir $200. Wenn du es eintreiben kannst, können wir einen Handel machen.}
 {352}{}{Ich habe immer noch dieses einzutreibende Darlehen.}
@@ -104,12 +104,12 @@
 {355}{}{Wo ist der Haken?}
 {356}{}{Erzähl mir mehr.}
 {357}{}{Darf ich dich was fragen?}
-{358}{}{Tschüß.}
-{370}{}{Haken? Naja, du müßtest wahrscheinlich Fred kennen, um das zu verstehen. Er schuldet mir
+{358}{}{Tschüss.}
+{370}{}{Haken? Naja, du müsstest wahrscheinlich Fred kennen, um das zu verstehen. Er schuldet mir
  schon seit einiger Zeit das Geld. Ich habe es als Verlust abgeschrieben, aber wenn du es
  zurückholen kannst, wäre ich freudig überrascht... und dankbar. Ich bin mir sicher, er ist
  irgendwo in der Stadt.}
-{371}{}{Das Buch war "Die Lavendelblüte". Derek müßte eigentlich bei Mom auf der Ostseite sein.}
+{371}{}{Das Buch war "Die Lavendelblüte". Derek müsste eigentlich bei Mom auf der Ostseite sein.}
 {372}{}{Ich werd sehen, was ich tun kann.}
 {373}{}{Hört sich einfach an.}
 {374}{}{Ich habe es schon gefunden.}
@@ -122,21 +122,21 @@
 {390}{}{Tut mir leid, aber er ist tot.}
 {391}{}{Ja. Hier ist es.}
 {392}{}{Leider nein.}
-{400}{}{Ich kann's nicht glauben. Wie hast du das gemacht? Na laß mal. Ich bin nur überrascht,
+{400}{}{Ich kann's nicht glauben. Wie hast du das gemacht? Na lass mal. Ich bin nur überrascht,
  das ist alles. Um dir meine Dankbarkeit zu zeigen, werde ich es mit dir teilen, Halbe-Halbe.
  Noch mal danke, das war sehr ehrlich von dir.}
-{401}{}{Ich bin so froh, daß du es gefunden hast... Vielen Dank. Hier ist dein Geld.}
+{401}{}{Ich bin so froh, dass du es gefunden hast... Vielen Dank. Hier ist dein Geld.}
 {402}{}{Gern geschehen.}
-{410}{}{Ich kann es kaum glauben, daß sie beide tot sind. Das tut mir leid. Danke, daß du es für
+{410}{}{Ich kann es kaum glauben, dass sie beide tot sind. Das tut mir leid. Danke, dass du es für
  mich herausgefunden hast. Wenn du mich jetzt entschuldigst...}
-{411}{}{Ich kann nicht glauben, daß er tot ist... nach all den Jahren.}
+{411}{}{Ich kann nicht glauben, dass er tot ist... nach all den Jahren.}
 {412}{}{Sicher.}
 {413}{}{...}
 {420}{}{Ja, ich weiß, wer das ist. Es ist Vic - der Typ, den Metzger eingesperrt hat.}
 {421}{}{Ja, ich kenne Vic. Metzger hat ihn eingesperrt. Ich weiß aber nicht, warum eigentlich.}
 {422}{}{Wer ist Metzger?}
 {423}{}{Ich habe noch eine Frage.}
-{424}{}{Klasse! Tschüß.}
+{424}{}{Klasse! Tschüss.}
 {430}{}{Du kommst nach Den und weißt nicht, wer Metzger ist? Er ist der Sklavenhändlermeister. Er
  ist im Osten der Stadt. Du kannst ihn kaum verfehlen.}
 {431}{}{Ich habe noch eine Frage.}
@@ -149,13 +149,13 @@
 {450}{}{Buffy! Du bist es! Wie geht es dir? Lange nicht mehr gesehen!}
 {451}{}{Häh?}
 {452}{}{Häh?}
-{460}{}{Dave schickt seine besten Grüße und läßt dir ausrichten, er wäre auch gekommen, wenn er
+{460}{}{Dave schickt seine besten Grüße und lässt dir ausrichten, er wäre auch gekommen, wenn er
  nicht hätte abhauen müssen.}
 {461}{}{Wohin gehts?}
 {470}{}{Irgendein Kommandotrupp oder er verfolgte einen solchen Trupp. Weiß ich eigentlich
  nicht genau. Irgend sowas.}
 {471}{}{Oh.}
-{480}{}{Er bat mich, dir das hier zu geben. Es ist ein Geschenk der Familie Hendee. Es müßte dir
+{480}{}{Er bat mich, dir das hier zu geben. Es ist ein Geschenk der Familie Hendee. Es müsste dir
  eine Hilfe sein.}
 {481}{}{Was ist es?}
 {490}{}{Oh, nur so ein paar Sachen. Hier. [Becky gibt dir $1000, 5 Stimpaks, eine Metallrüstung,
@@ -163,32 +163,32 @@
 {491}{}{Danke auch!}
 {500}{}{Kein Problem. Ich habe sie nur für dich aufgehoben. Ich gehe dann wieder an die Arbeit
  zurück.}
-{501}{}{Danke, Tschüß.}
-{510}{}{Hast du nicht gehört? Er ist tot! Oh, ich weiß, daß man sich darüber nicht freuen sollte,
+{501}{}{Danke, Tschüss.}
+{510}{}{Hast du nicht gehört? Er ist tot! Oh, ich weiß, dass man sich darüber nicht freuen sollte,
  aber er war ein sehr schlechter Mensch.}
-{511}{}{Er wußte, wie man kämpft.}
+{511}{}{Er wusste, wie man kämpft.}
 {512}{}{Ich habe eine Frage.}
 {513}{}{Ja, das war er. Wiedersehn.}
 {514}{}{ töten!}
 {520}{}{Was? Du? Ich weiß nicht, was ich sagen soll. Er war so ein schlechter Mensch.}
 {521}{}{Ein Dankeschön wäre schon genug.}
 {522}{}{Hmpf.}
-{530}{}{Oh, ein Dankeschön wäre schon genug. Ich weiß, daß das nicht ganz richtig ist, aber...
+{530}{}{Oh, ein Dankeschön wäre schon genug. Ich weiß, dass das nicht ganz richtig ist, aber...
  hier, nimm das Geld. [Becky gibt dir 1000 Dollar]}
 {531}{}{Behalte dein Geld, Rebecca.}
 {532}{}{Vielen Dank.}
 {533}{}{Tank!}
 {534}{}{Ug! Schön Frau.}
-{540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
- world a great service.}
-{541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
- world a great service.}
+{540}{}{Du bist ein wunderbarer Mann. Ich bin zwar nicht mit deinen Taten einverstanden, aber du
+ hast der Welt einen großen Dienst erwiesen.}
+{541}{}{Du bist eine wunderbare Frau. Ich bin zwar nicht mit deinen Taten einverstanden, aber du
+ hast der Welt einen großen Dienst erwiesen.}
 {542}{}{Danke.}
 {550}{}{Du bist hier nicht willkommen. Bitte geh.}
 {551}{}{Bitte geh.}
 {560}{}{Warum hast du meinen Destillator zerstört? Was habe ich dir getan?}
 {561}{}{Ich wurde dafür bezahlt.}
-{562}{}{Ich muß niemandem antworten.}
+{562}{}{Ich muss niemandem antworten.}
 {563}{}{Ich weiß nicht, wovon du sprichst.}
 {564}{}{Wie du willst.}
 {565}{}{Uuba Guuba}

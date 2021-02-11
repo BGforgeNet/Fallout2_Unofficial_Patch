@@ -21,12 +21,12 @@
 {120}{}{Was ist das Limit des Hauses?}
 {121}{}{Sind das wirklich die Hausregeln?}
 {122}{}{Ja, kannste wetten.}
-{123}{}{Laß das Ding rollen.}
+{123}{}{Lass das Ding rollen.}
 {124}{}{Das nächste Mal verdoppele ich.}
 {125}{}{Na los, Baby, los, Baby...}
 {126}{}{Das war mein Haus.}
 {127}{}{Das war mein Land.}
-{128}{}{Ich brauche nur noch ein bißchen mehr Kredit.}
+{128}{}{Ich brauche nur noch ein bisschen mehr Kredit.}
 {129}{}{Das Blatt wendet sich; ich kann's fühlen.}
 {130}{}{Wo ist nur mein glückbringender Geckofuß, wenn ich ihn brauche?}
 {131}{}{Was willst du?}
@@ -48,7 +48,7 @@
 {147}{}{Schönes Spiel, nicht wahr?}
 {148}{}{Heute hab ich Glück, das fühle ich.}
 {149}{}{Dieses Mal wird es ganz anders.}
-{150}{}{Ich wußte gar nicht, daß ihr Leute was für Glücksspiele übrig habt.}
+{150}{}{Ich wusste gar nicht, dass ihr Leute was für Glücksspiele übrig habt.}
 {151}{}{Reines Können, sage ich dir.}
 {152}{}{Geh einen Schritt zurück und sieh zu.}
 {153}{}{Wir sprengen jetzt die Bank, ich hab's im Gefühl.}

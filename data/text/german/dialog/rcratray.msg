@@ -8,17 +8,17 @@
 {107}{}{Ratt wirklich leid tut, Ratt besser machen.}
 {108}{}{Entweder Du besserst Dich oder Du wirst Dich draußen auf der Straße wiederfinden. Ich bin einfach zu freundlich.}
 {109}{}{Nein Doktor, nicht Ratt rausschmeißen! Ratt gut sein. Ratt versprechen.}
-{110}{}{Nun, dann schau, daß Du Deine Aufgaben besser erledigst. Ich warne Dich.}
+{110}{}{Nun, dann schau, dass Du Deine Aufgaben besser erledigst. Ich warne Dich.}
 {111}{}{Ratt sein sehr gut. Ratt kein Ärger machen. }
-{112}{}{Ja gut, schau, daß Du Deine Pflichten erledigst.}
+{112}{}{Ja gut, schau, dass Du Deine Pflichten erledigst.}
 {113}{}{Ratt putzen und putzen. Alles schlechte Ungeziefer essen. Haus sauber halten.}
 {114}{}{Und etwas anderes, ich möchte Dich nicht andauernd diese Käfer, Schaben und das ganze Zeugs essen sehen.}
 {115}{}{Doktor nicht wollen Ratt loswerden die Ungeziefer? Okay, Ratt aufheben gute Ungeziefer für Doktor zu essen.}
-{116}{}{Ich möchte sie nicht essen, Du Dummkopf! Ich möchte nur nicht sehen, wie Du sie ißt.}
+{116}{}{Ich möchte sie nicht essen, Du Dummkopf! Ich möchte nur nicht sehen, wie Du sie isst.}
 {117}{}{Ratt nicht essen Ungeziefer?}
 {118}{}{Genau, ESSE KEIN UNGEZIEFER IN MEINER GEGENWART. Mich interessiert dieses widerlich mampfende Geräusch nicht.}
 {119}{}{Ratt nur an knackigen Schalen lecken dann?}
-{120}{}{NEIN! Ich möchte nicht, daß Du Ungeziefer kaust, an ihnen leckst oder anderes tust.}
+{120}{}{NEIN! Ich möchte nicht, dass Du Ungeziefer kaust, an ihnen leckst oder anderes tust.}
 {121}{}{Ratt nicht essen Ungeziefer. Ratt gut aufpassen auf Doktors Ungeziefer.}
 {122}{}{Gut, jetzt, da wir das erledigt haben. Hast Du die Schalen geputzt?}
 {123}{}{Ja, Doktor, Ratt saubermachen alle schönen, schönen Schalen von Doktor. Schöne Schalen alle sauber.}
@@ -26,9 +26,9 @@
 {125}{}{Ratt schrubben Boden nochmal für netten Doktor. Wollen nicht schmutzigen Boden für sauberen Doktor.}
 {126}{}{Hmm, Ich nehme an, Du denkst, Du könntest Dich jetzt einfach wieder auf die faule Haut legen. Stimmt das?}
 {127}{}{Nein Doktor, nein. Ratt wird nicht nochmal das tun. Ratt erinnern.}
-{128}{}{Achte einfach darauf, daß Du immer beschäftigt bist oder ich werde Dich wieder schlagen. }
+{128}{}{Achte einfach darauf, dass Du immer beschäftigt bist oder ich werde Dich wieder schlagen. }
 {129}{}{NEIN! Doktor, nicht schlagen Ratt. Ratt gut sein jetzt.}
-{130}{}{Denk' daran, daß ich es nicht genieße. Aber Du brauchst die Disziplin, Rattray. Die brauchst Du wirklich.}
+{130}{}{Denk' daran, dass ich es nicht genieße. Aber Du brauchst die Disziplin, Rattray. Die brauchst Du wirklich.}
 {131}{}{Ja, Doktor. Doktor weiß immer bestes für Ratt.}
 {132}{}{Solange Du Dich daran erinnerst, Rattray. Gott weiß, warum ich solche Mühe mit Dir habe.}
 {133}{}{Doktor netter Mann, sehr netter Mann.}

@@ -10,7 +10,7 @@
 {106}{}{Vault 13?}
 {107}{}{GECK?}
 {108}{}{Mir egal. Bring mir die Spezialität des Hauses.}
-{109}{}{Gimme a beer.}
+{109}{}{Bring mir 'n Bier. }
 {110}{}{Informationen.}
 {111}{}{Ich such Arbeit.}
 {112}{}{Hey, du bist mir ja einer! So mag ich sie.}
@@ -37,10 +37,10 @@
 {132}{}{Wär's das dann, Fremdling?}
 {133}{}{Vault 13?}
 {134}{}{GECK?}
-{135}{}{Hast du 'n bißchen Zeit, mir ein paar Fragen zu beantworten?}
+{135}{}{Hast du 'n bisschen Zeit, mir ein paar Fragen zu beantworten?}
 {136}{}{Ich gehn. Wie-seen.}
 {137}{}{Das wär's.}
-{138}{}{Mach, daß du hier rauskommst, Schnorrer!}
+{138}{}{Mach, dass du hier rauskommst, Schnorrer!}
 {139}{}{Klar hab ich Zeit. Dafür ist man schließlich da, wenn man hinter der Bar steht. Aber
  komm bloß nicht auf dumme Gedanken.}
 {140}{}{Für dich hab ich immer Zeit, Schätzchen. Was willst du?}
@@ -49,13 +49,13 @@
 {143}{}{Schon mal was von Vault 13 gehört?}
 {144}{}{Ich suche nach einem Dingens namens GECK. Weiß du was darüber?}
 {145}{}{Wie ist das mit diesem Typen, diesem Merk?}
-{146}{}{Da gibt es diesen Bullen in der Stadt, der ziemlich häßliche Sachen über dich erzählt.
+{146}{}{Da gibt es diesen Bullen in der Stadt, der ziemlich hässliche Sachen über dich erzählt.
  Was hat's damit auf sich?}
 {147}{}{Das können wir dann also abhaken.}
 {148}{}{Nennt sich NCR. Hieß früher Shady Sands, aber nach der Niederlage des Meisters haben
  Aradesh und die anderen die Republik gegründet. Jetzt liegt die NCR direkt an der Grenze.
  Südlich von hier gehört alles zur Republik.}
-{149}{}{Ich geb dir mal 'n guten Rat: Paß auf, daß du sauber bleibst. Die Gerichte sind nicht
+{149}{}{Ich geb dir mal 'n guten Rat: Pass auf, dass du sauber bleibst. Die Gerichte sind nicht
  sonderlich gut auf solche wie uns zu sprechen, wenn du verstehst, was ich meine. Die Bürger
  haben mehr Rechte als du.}
 {150}{}{Mehr hab ich dazu nicht zu sagen.}
@@ -64,7 +64,7 @@
 {153}{}{Besten Dank. Ich werd dran denken.}
 {154}{}{Auch einer von diesen Spinnern, die nach versunkenen Schätzen suchen? Am besten gehst du
  zu Westins Ranch und redest mal mit Pökel-Bob. Der labert den lieben langen Tag von
- irgendwelchen Schätzen. Mußt ihm allerdings die Kehle gelegentlich 'n bißchen nachschmieren.}
+ irgendwelchen Schätzen. Musst ihm allerdings die Kehle gelegentlich 'n bisschen nachschmieren.}
 {155}{}{Pökel? Ich gehn.}
 {156}{}{Noch ein paar Fragen...}
 {157}{}{Besten Dank. Ich werd dran denken.}
@@ -100,7 +100,7 @@
 {181}{}{Mira hat gehört, du haben Jack aua gemacht. Gut gemacht, Dummchen. Hier Revolver, du
  nehmen. Danke.}
 {182}{}{Du mich auch. Diesen Schweinehund werd ich nicht mehr los.}
-{183}{}{Du mußt dich an Merk wenden, aber er ist gerade nicht hier. Komm heut abend wieder vorbei.
+{183}{}{Du musst dich an Merk wenden, aber er ist gerade nicht hier. Komm heut abend wieder vorbei.
  Das ist eher seine Zeit.}
 {184}{}{Ich weiß nicht, was du Lenny getan hast, aber an deiner Stelle würde ich mich nicht hier rumtreiben. Du machst dich damit nicht gerade beliebter.}
 {185}{}{Ich hab dich gewarnt. Also gut...}
@@ -116,7 +116,7 @@
 {195}{}{Ich gehn.}
 {196}{}{Danke - nett von dir. Hast du einen Augenblick Zeit? Ich wollte dich was fragen.}
 {197}{}{Danke. Ich dachte mir, du solltest es erfahren.}
-{198}{}{Du hast WAS? Wenn ich hier nicht Dienst schieben würde, ich würd glatt über den Tresen hüpfen und...und dich knutschen. Dieser kleine Scheißer, es geschieht ihm recht! Ganz unter uns gesagt, ich hab die ganze Zeit gehofft, daß ich mal irgendeinen blöden Ochsen finde, der mir die Dreckarbeit abnimmt. Ich hab auch schon eine kleine Belohnung beiseite gelegt. Die gehört jetzt dir - du hast sie dir redlich verdient, finde ich.}
+{198}{}{Du hast WAS? Wenn ich hier nicht Dienst schieben würde, ich würd glatt über den Tresen hüpfen und...und dich knutschen. Dieser kleine Scheißer, es geschieht ihm recht! Ganz unter uns gesagt, ich hab die ganze Zeit gehofft, dass ich mal irgendeinen blöden Ochsen finde, der mir die Dreckarbeit abnimmt. Ich hab auch schon eine kleine Belohnung beiseite gelegt. Die gehört jetzt dir - du hast sie dir redlich verdient, finde ich.}
 {199}{}{Danke - nett von dir. Hast du einen Augenblick Zeit? Ich wollte dich was fragen.}
 {200}{}{Danke. Ich dachte mir, du solltest es erfahren.}
 {201}{}{Menschenskinder, Dummerchen, du hast mir den Tag gerettet! Ich hab ein kleines Geschenk für dich, gleich hier hinterm Tresen. Es gehört dir.}

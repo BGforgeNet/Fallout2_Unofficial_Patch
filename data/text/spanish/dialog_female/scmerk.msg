@@ -25,7 +25,7 @@
 {124}{}{¿Qué es esto? ¿La hora de la sociabilidad?}
 {125}{}{Soy Merk. ¿Qué puñetas quieres?}
 {126}{}{¿Otra vez tú?}
-{127}{}{Well, keep it polite, punk, or this could get ugly.}
+{127}{}{Bien, mantenga cortés, punk, o esto podría ponerse feo.}
 {128}{}{Oort.}
 {129}{}{Estoy buscando trabajo.}
 {130}{}{Fuentes informadas dicen que eres el hombre al que ver para hacer negocios, si sabes a lo que me refiero.}
@@ -95,7 +95,7 @@
 {194}{}{Bien, soy un hombre culto. ¿Cuál es tu pregunta?}
 {195}{}{Pregunta lo que quieras.}
 {196}{}{Estoy buscando el Refugio 13.}
-{197}{}{Ever heard of a GECK?}
+{197}{}{¿Alguna vez has oído hablar de un GECK?}
 {198}{}{¿Qué sabes acerca de cierto grupo llamado los Rangers?}
 {199}{}{¿Qué puedes decirme de cierto tipo llamado Westin?}
 {200}{}{Estoy buscando información sobre el vicepresidente Carlson.}
@@ -120,7 +120,7 @@
 {219}{}{Oh, bueno, supongo que nunca llegaremos a conocer al hombre. También he oído hablar mucho de él.}
 {220}{}{Eso es todo lo que necesitaba saber.}
 {221}{}{¿Eso es todo?}
-{222}{}{No, I've got some more questions.}
+{222}{}{No, yo tengo algunas preguntas más.}
 {223}{}{Sí, eso es todo por ahora.}
 {224}{}{Oye, un hombre tiene que intentarlo. El Refugio 13 es prácticamente una religión por aquí. Incluso construyeron una estatua de algún idiota que se supone que procedía de allí. Eso es todo lo que sé.}
 {225}{}{Te vendí un mapa. Prueba a usarlo.}
@@ -160,7 +160,7 @@
 {259}{}{ tipo.}
 {260}{}{ chica.}
 {261}{}{Un Hubologista es un fanático religioso chiflado. Se los puede encontrar en la iglesia de la ciudad.}
-{262}{}{Voy de camino.}
+{262}{}{Estoy en camino.}
 {263}{}{¡No hablaré contigo hasta que el trabajo esté hecho! Necesito esos papeles del local del doctor Henry, pronto.}
 {264}{}{No, pero necesito algo de información.}
 {265}{}{Sé que la muerte de Lenny no fue ningún accidente, zorra.}

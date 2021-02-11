@@ -1,7 +1,7 @@
 {100}{}{Du siehst einen fast kahlrasierten Vagabunden.}
 {101}{}{Du siehst Ryan, den Brunnen der Weisheit.}
 {102}{}{Du siehst einen Vagabunden, dem Frechheit und Gelächter ins Gesicht geschrieben steht.}
-{103}{}{Du mußt dich durch den Mist durchboxen, Mann.}
+{103}{}{Du musst dich durch den Mist durchboxen, Mann.}
 {104}{}{Dieser Ort ist ein Dreckloch.}
 {105}{}{Ich werd's dir geben, bis aufs Blut. Wie? Hast du was gesagt?}
 {106}{}{Ay caramba! Nalgas con queso!}
@@ -13,7 +13,7 @@
  spielen? }
 {112}{}{Heiße Sachen für heiße Typen...}
 {113}{}{Man nennt mich den...POLNISCHEN HAMMER.}
-{114}{}{Ich bin nach San Fran gekommen, um ein paar Spiele zu machen und ein bißchen auf den Putz
+{114}{}{Ich bin nach San Fran gekommen, um ein paar Spiele zu machen und ein bisschen auf den Putz
  zu hauen.}
 {115}{}{Sommerliebe...}
 {116}{}{Hola, Señor! Oder vielleicht Señorita?}

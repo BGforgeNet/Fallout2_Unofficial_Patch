@@ -148,7 +148,7 @@
 {247}{}{Nemám èas na kecy o politice. Sbohem.}
 {248}{}{Každej by chtìl to, co má Redding. A nìkterý lidi jsou schopný zajít opravdu daleko. Vysvìtlím ti to.}
 {249}{}{Pokraèuj.}
-{250}{}{Už to nehodlám poslouchat. Sbohem.}
+{250}{}{I've heard enough of your explanation already. Goodbye.}
 {251}{}{Zaplatím ti za ten kontrolní èip $1000.}
 {252}{}{To zní dobøe. Kde ho najdu?}
 {253}{}{To zní dobøe. Tady ho máš.}
@@ -164,7 +164,7 @@
 {263}{}{Jde o to, že vyhoøel kontrolní èip a novej si jen tak nìkde neobjednám. Ale vím, kde se jeden nachází. Zaplatím ti za nìj $1000.}
 {264}{}{Kde je?}
 {265}{}{Když ten èip tak nutnì potøebuješ, tak proè si pro nìj nedojdeš sám?}
-{266}{}{Už takhle mám moc úkolù, takže promiò, kámo. Sbohem.}
+{266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
 {267}{}{Ze spousty dùvodù, vìtšinou hladovejch a ošklivejch. Dùl Wanamingo je totiž plnej hladovejch Wanamingos.}
 {268}{}{Co to ksakru jsou ty Wannamingles?}
 {269}{}{Aha, už chápu. Tím se to vysvìtluje. Budu o tom pøemýšlet. Sbohem.}

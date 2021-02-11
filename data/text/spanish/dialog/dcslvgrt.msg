@@ -53,7 +53,7 @@
 {304}{}{Vale, gracias. Adiós.}
 {310}{}{Está en la habitación del fondo, cruzando esa puerta de ahí.}
 {311}{}{¿Estás jugando conmigo? Está justo al fondo. Tan sólo cruza por esa puerta.}
-{312}{}{De acuerdo.}
+{312}{}{Vale.}
 {313}{}{Gracias.}
 {320}{}{Maldición, ¿no sabes quién es Metzger? ¿Y qué tas haciendo en este pueblo, si no es pa verle? Es el jefe del Gremio de Esclavistas.}
 {321}{}{¿Cuántas veces tengo que decírtelo? Es el maestro esclavista. Dirige los asuntos en este pueblo.}
@@ -76,7 +76,7 @@
 {353}{}{Sólo bromeaba, hombre.}
 {354}{}{Lo siento. Sólo trataba de impresionarte.}
 {360}{}{Sal corriendo antes de que cambie de idea.}
-{361}{}{De acuerdo.}
+{361}{}{Vale.}
 {370}{}{¿Qué? Oh, debes estar buscando el restaurante de Mamá. Te has equivocado. Está en el edificio justo al sur. S-U-R. Por allí. [Aidan señala a la puerta.]}
 {371}{}{¿Eh? Uh… Oh.}
 {380}{}{Parece que encajarías, pero Metzger nunca ha contratado a una mujer. No estoy seguro del porqué, pero dudo que vaya a empezar ahora.}

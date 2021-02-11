@@ -11,6 +11,6 @@
 {128}{}{Não me machucar.}
 {129}{}{Eu não quero ser um idiota.}
 {130}{}{Eu não queria dizer aquelas ameaças de morte.}
-{131}{}{I'm sorry, Buffy!}
-{132}{}{I'm sorry, Unwashed! I just wanted to be noticed.}
+{131}{}{Eu lamento, Buffy!}
+{132}{}{Eu lamento, sujo! Eu só queria ser notado.}
 {133}{}{Eu quero uma versão on-line!}

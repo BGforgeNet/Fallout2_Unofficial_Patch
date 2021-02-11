@@ -9,18 +9,18 @@
 {179}{}{Klorgggg}
 {180}{}{Oog}
 {200}{}{Ich Monte Freund. DU Monte Freund?}
-{201}{}{Me hit people Monte tell me to.}
-{202}{}{Me hit people.}
-{203}{}{Me hit people with fists like playing drum.}
-{204}{}{Me like to hit.}
+{201}{}{Ich hau Leute Monte mir sagen.}
+{202}{}{Ich haun Leute.}
+{203}{}{Ich hau leute mit Faust wie Trommel haun.}
+{204}{}{Ich liebe haun.}
 {205}{}{::Grinst zahnlos::}
 {206}{}{::kratzt sich::}
-{207}{}{::Läßt die Muskeln spielen::}
-{208}{}{Grunt.}
+{207}{}{::Lässt die Muskeln spielen::}
+{208}{}{Grunz.}
 {209}{}{Grunz - Grunz.}
 {210}{}{Ich nix mag reden.}
-{211}{}{Yoo smell guuud.}
-{212}{}{Yoo smell like mom.}
-{213}{}{Yoo cute. Me no hit you.}
-{214}{}{Yoo make me blush.}
+{211}{}{Du riechen guuuuut.}
+{212}{}{Du riechen wie Mami.}
+{213}{}{Du süß. Ich nicht haun dich.}
+{214}{}{Du mich machen rot.}
 {215}{}{Öhh... Ich Rico...}

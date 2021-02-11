@@ -22,9 +22,9 @@
 {121}{}{Qué mala suerte... para ti. Somos los Rangers de la RNC. ¿Has oído hablar de nosotros? Matamos esclavistas.}
 {122}{}{Eres un mentiroso de mierda. ¡A por él!}
 {123}{}{Saludos, forastero. Somos los Rangers de la RNC. ¿Quién eres tú?}
-{124}{}{Nadie que te importe.}
+{124}{}{No es asunto tuyo.}
 {125}{}{Sí, he oído hablar de ti. Eres un Ranger, ¿no?}
 {126}{}{Sí.}
-{127}{}{Nadie que te importe.}
+{127}{}{No es asunto tuyo.}
 {128}{}{Bien, sé todo lo antisocial que quieras. Al menos no eres un esclavista. Adiós.}
 {129}{}{Encantado de conocerte, camarada. Ten cuidado. Nos vemos.}

@@ -454,6 +454,7 @@ procedure Node003 begin
    BOption(242, Node001, 004);
    BOption(243, Node001, 004);
 end
+
 procedure Node004 begin
    if (dude_has_death_briefcase) then begin
       remove_death_briefcase;

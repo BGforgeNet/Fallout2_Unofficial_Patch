@@ -1,5 +1,5 @@
 {100}{}{Ein Computerterminal.}
-{101}{}{It controls the Vault-Tec organ extraction unit.}
+{101}{}{Es steuert das Vault-Tec Organentnahmegerät.}
 {102}{}{Du kannst nicht lesen, was auf dem Monitor steht.}
 {103}{}{Willkommen beim hochmodernen Organentnahmegerät von Vault-Tec. Die Bedienung ist ganz einfach:
                          Organspender in Betriebsraum verbringen und anschließend über die entsprechenden
@@ -24,13 +24,13 @@
 {116}{}{Road Runner auswählen}
 {117}{}{Nagetier auswählen}
 {118}{}{Mensch auswählen}
-{119}{}{[Scratch a new name onto console.]}
+{119}{}{[Ritze eine neue Bezeichnung in Bedientafel ein.]}
 {120}{}{Beenden}
 {121}{}{[Du nimmst dir ein Stück Metall und überlegst, was du in die Bedientafel einritzen könntest.]}
-{122}{}{Carve the word 'Mutant' onto console.}
-{123}{}{Carve the word 'Deathclaw' onto console.}
+{122}{}{Ritze das Wort "Mutant" in die Bedientafel ein.}
+{123}{}{Ritze das Wort "Deathclaw" in die Bedientafel ein.}
 {124}{}{Beenden}
-{125}{}{Current Selection: }
+{125}{}{Momentan ausgewählt:                                                  }
 {126}{}{Spezies: }
 {127}{}{ - Organ: }
 {128}{}{Spezies auswählen}
@@ -61,26 +61,26 @@
 {146}{}{Dickdarm auswählen}
 {147}{}{Beenden}
 {148}{}{Kein Spenderobjekt in Entnahmeraum vorhanden.}
-{149}{}{Extraction failed.}
-{150}{}{Extraction completed.}
-{151}{}{Extraction completed.
-                                           Thank you for using Vault-Tec. Please see our catalog for our complete line of Vault-Tec products.}
+{149}{}{Entnahme fehlgeschlagen.}
+{150}{}{Entnahme abgeschlossen.}
+{151}{}{Entnahme abgeschlossen 
+                                            Danke, dass Sie Vault-Tec benutzt haben. In unserem Katalog finden Sie eine vollständige Übersicht über alle Produkte von Vault-Tec.}
 {152}{}{}
 {153}{}{Beenden}
-{154}{}{Extraction failed-- local sensor overload.}
-{155}{}{Extraction failed-- unable to initialize procedure for subject physiology.}
-{170}{}{Human }
-{171}{}{Canine }
-{172}{}{Feline }
+{154}{}{Extraktion fehlgeschlagen-- Lokale Sensorüberlastung.}
+{155}{}{Extraktion fehlgeschlagen-- nicht in der Lage, das Verfahren für die Physiologie des Patienten zu initialisieren.}
+{170}{}{Mensch }
+{171}{}{Hund }
+{172}{}{Katze }
 {173}{}{Road Runner }
-{174}{}{Rodent }
+{174}{}{Nagetier }
 {175}{}{Mutant }
 {176}{}{Deathclaw }
-{180}{}{Brain }
-{181}{}{Heart }
-{182}{}{Kidney }
-{183}{}{Liver }
-{184}{}{Lung }
-{185}{}{Appendix }
-{186}{}{Colon }
+{180}{}{Gehirn }
+{181}{}{Herz }
+{182}{}{Niere }
+{183}{}{Leber }
+{184}{}{Lunge }
+{185}{}{Blinddarm }
+{186}{}{Dickdarm }
 {200}{}{ kann nicht lesen, was auf dem Monitor steht.}

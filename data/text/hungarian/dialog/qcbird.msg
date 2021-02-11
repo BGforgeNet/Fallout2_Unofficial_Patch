@@ -60,7 +60,7 @@
 {159}{}{Semmiféle probléma újabb fejezete nem vagyok! Én republikánus vagyok.}
 {160}{}{Na, mondom én, hogy a probléma újabb fejezete...}
 {161}{}{Öhm... Nos, talán tudhatja, hogy már régóta úgy vélem, itt az ideje, hogy az emberi faj kilépjen a Naprendszerbe.}
-{162}{}{Hát, lehet, hogy erre még nem állunk ké... hogy hova kéne kilépni?!}
+{162}{}{Aren't we already in the... Uh, to go *where*?}
 {163}{}{Hogy tehetnénk ezt meg?}
 {164}{}{Szerintem a Mars egész jó lenne, szinte ugyanazon a pályán kering... A Mars nagyjából ugyanolyan távolságra van a Naptól, s ez nagyon fontos tényezõ. Láttunk képeket vélhetõen csatornákról, melyekben víz van ugyebár. Ha víz van bennük, akkor van oxigén is. Ha van oxigén, akkor tudunk lélegezni.}
 {165}{}{Nem vártam ilyen "kimerítõ" választ.}

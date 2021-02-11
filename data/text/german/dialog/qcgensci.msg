@@ -6,7 +6,7 @@
 {105}{}{Diese Daten sind konsistent.}
 {106}{}{Diese Punkte ergeben eine schöne Kurve.}
 {107}{}{Wie hoch ist die Standardabweichung?}
-{108}{}{Ich warte darauf, daß diese Verbindungen ins Gleichgewicht kommen.}
+{108}{}{Ich warte darauf, dass diese Verbindungen ins Gleichgewicht kommen.}
 {109}{}{Dieses Spektrometer ist im Eimer.}
 {110}{}{Wo sind bloß die Techniker, wenn man sie mal braucht?}
 {111}{}{Ich habe gerade das IR-Spektrometer kalibriert.}
@@ -20,7 +20,7 @@
 {119}{}{Nur eine Übung.}
 {120}{}{Ich kann meine Arbeit jetzt nicht alleine lassen.}
 {121}{}{Zum Schutzraum schaffe ich es nie.}
-{122}{}{Mir ist ein bißchen übel.}
+{122}{}{Mir ist ein bisschen übel.}
 {123}{}{Was glauben die, wie ich ohne Strom arbeiten soll?}
 {124}{}{Das versaut mir mein Experiment so richtig.}
 {125}{}{Das ist zu viel.}
@@ -36,7 +36,7 @@
 {135}{}{Ohhhh neeeiiiiin.}
 {136}{}{Ich sehe das Licht... Ich komme, Mutti.}
 {137}{}{Ich sehe niemanden.}
-{138}{}{Muß wieder so eine Sicherheitsübung sein.}
+{138}{}{Muss wieder so eine Sicherheitsübung sein.}
 {139}{}{Haben die Soldaten diese Übungen denn nie satt?}
 {140}{}{Nicht schon wieder, schon das zweite Mal in diesem Monat.}
 {141}{}{Diese Hohlköpfe stehen mir bis hier.}
@@ -48,7 +48,7 @@
 {147}{}{Na klasse, wieder ein Fehlalarm.}
 {148}{}{Für den Mist hab ich keine Zeit.}
 {149}{}{Was willst du?}
-{150}{}{Siehst du nicht, daß ich arbeite?}
+{150}{}{Siehst du nicht, dass ich arbeite?}
 {151}{}{Hau ab. Ich hab zu tun.}
 {152}{}{Hast du nichts besseres zu tun?}
 {153}{}{Ich kann mich nicht erinnern, um Testpersonen gebeten zu haben.}

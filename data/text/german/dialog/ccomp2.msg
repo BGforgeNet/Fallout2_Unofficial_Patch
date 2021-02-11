@@ -23,7 +23,7 @@
 {118}{}{Ich verspreche, nichts zu beschädigen.}
 {119}{}{In Ordnung. Über den Terminal da drüben kommst Du in das System hinein. Aber sei bitte
  vorsichtig. Wenn Du die Maschine beschädigst, werden wir beide erschossen. Ach ja, das
- Gast-Paßwort lautet "Snookie".}
+ Gast-Passwort lautet "Snookie".}
 {120}{}{Tut mir leid, aber das kommt nicht in Frage. Ich darf nicht einmal den Angestellten,
  die in diesem Raum arbeiten, erlauben, die Ausstattung zu benutzen.}
 {121}{}{Snookie? Was heißt Snookie?}
@@ -34,7 +34,7 @@
  drüben in der Halle. Sie ist eine der Wachen.}
 {126}{}{Ok, gut. Danke.}
 {127}{}{Is' klar... süß. Danke.}
-{128}{}{You're out of uniform. }
+{128}{}{Du trägst keine Uniform.}
 {129}{}{Zieh Dir besser eine an. Die Waffenkammer ist am Ende der Halle auf der linken Seite.}
 {130}{}{Das ist sehr riskant, ohne Uniform herumzulaufen. Meld dich lieber beim Nachschub.}
 {131}{}{Wer zum Teufel seid ihr...Alarm! Eindringlinge!}

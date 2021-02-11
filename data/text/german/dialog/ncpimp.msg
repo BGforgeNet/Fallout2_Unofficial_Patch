@@ -15,7 +15,7 @@
 {231}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {232}{}{Die Schlampe verheimlicht mir besser nichts...}
 {233}{}{Mach dann weiter. Tue was du willst.}
-{234}{}{Willste 'n bißchen Action?}
+{234}{}{Willste 'n bisschen Action?}
 {235}{}{Wieso nimmst du nicht eines von meinen Mädchen für deine Filme, Bruder?}
 {236}{}{Du willst einen echten Partner, dann Versuch mal eine von meinen Girls für deinen nächsten Film.}
 {237}{}{Brauchste für heute Nacht 'nen Freund? Ich besorg dir was Süüüßes.}
@@ -23,9 +23,9 @@
 {239}{}{Wann führst du mich ins Geschäft ein, Mistah Movie Staaar?}
 {240}{}{Gib mir einen Moment vor der Kamera und ich zeige dir nen echten Star.}
 {241}{}{Ich kann alles was du kannst, wie du es kannst, und kann es sogar besser als du.}
-{242}{}{Du solltest mich dir ein bißchen Nachhilfe geben lassen Bruder.}
+{242}{}{Du solltest mich dir ein bisschen Nachhilfe geben lassen Bruder.}
 {243}{}{Ich hab diese eine Frau, die musst du einfach für deinen nächsten Film testen; Sie hat einen richtig geilen knackigen Arsch.}
-{244}{}{Laß mich für dich sorgen. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
+{244}{}{Lass mich für dich sorgen. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
 {245}{}{Ich verstehe nicht wie jemand wie du ein Star werden konnte...}
 {260}{}{Die Tussi sollte mein Geld lieber haben...}
 {261}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
@@ -49,8 +49,8 @@
 {290}{}{Die Tussi sollte mein Geld lieber haben...}
 {291}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {292}{}{Die Schlampe verheimlicht mir besser nichts...}
-{293}{}{Willste 'n bißchen Action?}
-{294}{}{Willste 'n bißchen Action? Ich gebe dir eine Kostprobe Bruder.}
+{293}{}{Willste 'n bisschen Action?}
+{294}{}{Willste 'n bisschen Action? Ich gebe dir eine Kostprobe Bruder.}
 {295}{}{Wie wäre es wenn ich dir ein wenig entgegenkomme. Ich gebe dir eines meiner Mädchen, für die ganze Nacht.}
 {296}{}{Sprich mit mir mein Freund. Ich hab ne Frau für dich.}
 {297}{}{Deine Familie braucht einen Mann wie mich, der ihre Mädchen an die Leine nimmt}
@@ -59,7 +59,7 @@
 {300}{}{Sag das Wort und ich stehe dir zur Verfügung.}
 {301}{}{Ich stehe hinter dir Bruder.}
 {302}{}{Du bist der Mann, der HAUPT Mann, weißt du was ich meine?}
-{303}{}{Laß mich für dich sorgen. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
+{303}{}{Lass mich für dich sorgen. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
 {304}{}{Der Gangster kommt...}
 {305}{}{Big Man kommt...}
 {320}{}{Die Tussi sollte mein Geld lieber haben...}
@@ -76,8 +76,8 @@
 {350}{}{Die Tussi sollte mein Geld lieber haben...}
 {351}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {352}{}{Die Schlampe verheimlicht mir besser nichts...}
-{353}{}{Willste 'n bißchen Action Champ?}
-{354}{}{Willste 'n bißchen Action Champ? Ich gebe dir ne Kostprobe.}
+{353}{}{Willste 'n bisschen Action Champ?}
+{354}{}{Willste 'n bisschen Action Champ? Ich gebe dir ne Kostprobe.}
 {355}{}{Wie wäre es wenn ich dir ein wenig Entgegenkomme Champ. Ich gebe dir eines meiner Mädchen, für die ganze Nacht.}
 {356}{}{Sprich mit mir Champ. Ich hab ne Frau für dich.}
 {357}{}{Das hier ist keine verarsche Mann, ich gebe dir ne besonders gute Frau?}
@@ -87,7 +87,7 @@
 {361}{}{Brauchst du nen Sparingspartner heute Nacht? Ich hab eine süße für dich.}
 {362}{}{Sag das Wort und ich stehe voll hinter dir Champ.}
 {363}{}{Ich stehe hinter dir Champ.}
-{364}{}{Laß mich für dich sorgen Champ. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
+{364}{}{Lass mich für dich sorgen Champ. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
 {365}{}{Hier kommt der Champ...}
 {366}{}{Big Man kommt...}
 {380}{}{Die Tussi sollte mein Geld lieber haben...}
@@ -107,11 +107,11 @@
 {410}{}{Die Tussi sollte mein Geld lieber haben...}
 {411}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {412}{}{Die Schlampe verheimlicht mir besser nichts...}
-{413}{}{Wollt ihr 'n bißchen Action?}
-{414}{}{Wollt ihr beide... naß werden.}
+{413}{}{Wollt ihr 'n bisschen Action?}
+{414}{}{Wollt ihr beide... nass werden.}
 {415}{}{Yo, Myron! Whazzup?}
 {416}{}{Yo, Myron! Brauchst du Gesellschaft heute Nacht? Ich habe ein paar neue Frauen für dich.}
-{417}{}{Kumpel wollt ihr... naß werden?}
+{417}{}{Kumpel wollt ihr... nass werden?}
 {418}{}{Du findest NIRGENDWO was Besseres.}
 {419}{}{Ich bin so helle, gegen mich sieht Reno dunkel aus.}
 {420}{}{Du siehst aus als würdest du da unten schon verbrennen.}
@@ -153,7 +153,7 @@
 {470}{}{Die Tussi sollte mein Geld lieber haben...}
 {471}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {472}{}{Die Schlampe verheimlicht mir besser nichts...}
-{473}{}{Jo Sklavenhändler! Willste... naß werden?}
+{473}{}{Jo Sklavenhändler! Willste... nass werden?}
 {474}{}{Sklavenhändler, wenn du irgendwo billigere Frauen findest gleiche ich den Preis aus.}
 {475}{}{Ich bin so helle, gegen mich sieht Reno dunkel aus.}
 {476}{}{Sklavenhändler, du siehst aus, als ob du dein Feuer kaum noch kontrollieren könntest.}
@@ -166,7 +166,7 @@
 {483}{}{Ich hab Frauen, die machen aus dir 'nen richtigen Mann und kosten nur ein paar Chips.}
 {484}{}{Ich hab in meinem Stall die besten Pferdchen.}
 {485}{}{Sklavenhändlerin, wenn nachher eine meiner Frauen fehlt, weiß ich wo ich suchen muss. Kapiert?}
-{486}{}{Laß mich für dich sorgen Sklavenhändler. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
+{486}{}{Lass mich für dich sorgen Sklavenhändler. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
 {487}{}{Ich hab da ne Frau die du dir ansehen solltest Sklavenhändlerin, die hat einen echten Prachtarsch.}
 {488}{}{Ich will keine Sklaven kaufen, aber vielleicht habe ich nachher ein paar Frauen, die ich die verkaufen kann.}
 {489}{}{Meine Frauen machen keine Teebeutel Sklavenhändler.}
@@ -194,8 +194,8 @@
 {520}{}{Die Tussi sollte mein Geld lieber haben...}
 {521}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}
 {522}{}{Die Schlampe verheimlicht mir besser nichts...}
-{523}{}{Willste 'n bißchen Action?}
-{524}{}{Willste... naß werden?}
+{523}{}{Willste 'n bisschen Action?}
+{524}{}{Willste... nass werden?}
 {525}{}{Du findest NIRGENDWO was Besseres.}
 {526}{}{Ich bin so helle, gegen mich sieht Reno dunkel aus.}
 {527}{}{Du siehst als ob dir da unten schon ganz heiß wäre.}
@@ -207,13 +207,13 @@
 {533}{}{Die Frau kann einen Golfball durch einen Gartenschlauch saugen.}
 {534}{}{Ich hab Frauen, die machen aus dir 'nen richtigen Mann und kosten nur ein paar Chips.}
 {535}{}{Ich hab in meinem Stall die besten Pferdchen.}
-{536}{}{Laß mich für dich sorgen. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
+{536}{}{Lass mich für dich sorgen. Ich war zwei Jahre in Folge Zuhälter des Jahres.}
 {537}{}{Ich habe diese Frau, die musst du mal ausprobieren, die hat so nen geilen Arsch.}
 {538}{}{Meine Frauen machen keinen Teebeutel.}
 {539}{}{Ich erwische dich besser nicht, wie du meinen Frauen den Hintern grün und blau schlägst.}
 {540}{}{Wehe meine Frauen haben nachher so einen Marschmallowausschlag?}
 {541}{}{Ich töte dich wenn ich dich dabei erwische wie du die Frauen als Stahlarbeiter aus Cleveland verkleidest.}
-{542}{}{Willste 'n bißchen Action?}
+{542}{}{Willste 'n bisschen Action?}
 {543}{}{Ich hab die besten Nutten in ganz New Reno. Probier sie nur aus, wirst schon sehen.}
 {550}{}{Die Tussi sollte mein Geld lieber haben...}
 {551}{}{Diese Touristen sind lange nicht so drauf, wie ich es gern hätte.}

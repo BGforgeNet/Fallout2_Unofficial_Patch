@@ -60,7 +60,7 @@
 {159}{}{Nie jestem czêœci¹ problemu, jestem republikaninem.}
 {160}{}{Czyli jak ju¿ mówi³em - problem.}
 {161}{}{Ach, rozumiem. No có¿, jak prawdopodobnie wiesz, ju¿ od d³u¿szego czasu myœlimy, ¿e czas najwy¿szy, aby rodzaj ludzki wkroczy³ w uk³ad s³oneczny.}
-{162}{}{A czy my przypadkiem ju¿ nie... Ee, gdzie wkroczyæ?}
+{162}{}{Aren't we already in the... Uh, to go *where*?}
 {163}{}{A jak niby mielibyœmy tego dokonaæ?}
 {164}{}{Myœlê, ¿e Mars by³by ca³kiem niez³y, poniewa¿ ma zbli¿ona orbitê... Mars znajduje siê w mniej wiêcej tej samej odleg³oœci od S³oñca, co jest dla nas bardzo wa¿ne. Widzieliœmy zdjêcia, na których uwieczniono kana³y i, jak s¹dzimy, wodê. Jeœli jest tam woda - to jest te¿ tlen. Jeœli zaœ jest tlen - to mo¿emy tam oddychaæ.}
 {165}{}{No to mnie zaskoczy³eœ a¿ tak *pe³n¹* odpowiedzi¹.}

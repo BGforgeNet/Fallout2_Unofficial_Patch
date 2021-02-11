@@ -6,7 +6,7 @@
 {105}{}{Ungläubiger!}
 {106}{}{Warum greifst du uns an?}
 {107}{}{Ich werd die Sippe mit meinem Leben verteidigen!}
-{108}{}{Wie kannst du es nur wagen, unsre Gastfreundschaft zu mißbrauchen.}
+{108}{}{Wie kannst du es nur wagen, unsre Gastfreundschaft zu missbrauchen.}
 {109}{}{Verschwinde!}
 {110}{}{Hau ab.}
 {111}{}{Wir sind ein friedlicher Stamm.}

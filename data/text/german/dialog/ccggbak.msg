@@ -6,7 +6,7 @@
 {105}{}{Beweg dich. Das Tor is' dort.}
 {106}{}{Hol dir lieber deine Ausr¸stung.}
 {107}{}{Lauf bloﬂ nicht ohne Uniform herum.}
-{108}{}{Du bist jetzt in der Armee. Laﬂ dich bloﬂ nicht ohne Uniform erwischen.}
+{108}{}{Du bist jetzt in der Armee. Lass dich bloﬂ nicht ohne Uniform erwischen.}
 {109}{}{Eindringlinge am Haupttor!}
 {110}{}{Schlagt Alarm! Eindringlinge!}
 {111}{}{Verst‰rkung zum Haupttor. Wir haben Eindringlinge!}

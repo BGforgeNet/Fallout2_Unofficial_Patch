@@ -43,8 +43,8 @@
 {972}{}{Vaya pregunta estúpida. Soy yo.}
 {980}{}{No sé nada de eso.}
 {981}{}{Lo siento. Ni idea.}
-{982}{}{Nunce he oido hablar de ello.}
-{1000}{}{Anciana}
+{982}{}{Nunca he oido hablar de ello.}
+{1000}{}{Elder}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}

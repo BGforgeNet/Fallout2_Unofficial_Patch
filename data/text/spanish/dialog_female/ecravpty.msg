@@ -32,7 +32,7 @@
 {131}{}{[Fin]}
 {132}{}{¡Heheheh! Creoquetevendrianbienunosmentats. Dame1000dólares.}
 {133}{}{[Le das 1000 dólares]}
-{134}{}{Me voy, yo.}
+{134}{}{Yo ir.}
 {135}{}{¡OHSI! ¡Esotevaaponercomounamoto!}
 {136}{}{[FIN]}
 {150}{}{Eh, eres bastante mona; ¿cómo te llamas?}

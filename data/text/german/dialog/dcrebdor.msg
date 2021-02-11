@@ -9,9 +9,9 @@
 {214}{}{Viel Vergnügen.}
 {215}{}{Becky hat die billigsten Getränke in der Stadt.}
 {230}{}{Geh sofort da weg.}
-{231}{}{Faß das nicht noch einmal an.}
+{231}{}{Fass das nicht noch einmal an.}
 {232}{}{Zurück!}
-{233}{}{Laß das sein.}
+{233}{}{Lass das sein.}
 {234}{}{Was glaubst du denn, was du da machst?}
 {240}{}{Dieb!}
 {250}{}{Das dulden wir hier nicht.}

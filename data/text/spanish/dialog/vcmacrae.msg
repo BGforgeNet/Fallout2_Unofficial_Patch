@@ -18,7 +18,7 @@
 {114}{}{¿Sabes algo del Refugio?}
 {115}{}{Tomaré una cerveza.}
 {116}{}{Que sea un trago de whisky.}
-{117}{}{¿Qué pasa por aquí?}
+{117}{}{¿Qué está pasando aquí?}
 {118}{}{Nada hoy, gracias. Adiós.}
 {119}{}{¿Por aquí? Lo mismo de siempre, que es nada. Me aburre lo indecible casi todo el tiempo.
  ¿Por qué, estás buscando algo?}
@@ -44,7 +44,7 @@
 {132}{}{Pareces bastante harto del lugar.}
 {133}{}{Siento escuchar eso. ¿Qué sabes del Refugio?}
 {134}{}{Todos cometemos errores... algunos más que otros. ¿Qué es lo que quieres?}
-{135}{}{¿Qué pasa por aquí?}
+{135}{}{¿Qué está pasando aquí?}
 {136}{}{Nada hoy, gracias. Adiós.}
 {137}{}{Sí, me encantaría poder salir de este maldito lugar.}
 {138}{}{¿Por qué no te marchas?}

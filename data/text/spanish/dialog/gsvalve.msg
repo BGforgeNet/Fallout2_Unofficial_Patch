@@ -6,6 +6,6 @@
 {112}{}{Con gran esfuerzo consigues darle dos vueltas a la válvula de cierre del refrigerante.}
 {113}{}{Parece que has cerrado la válvula.}
 {120}{}{Parece faltar una pieza.}
-{121}{}{Eso no hizo nada.}
+{121}{}{Eso no hace nada.}
 {122}{}{Has reparado el reactor.}
 {123}{}{Estás teniendo dificultades en reparar el reactor.}

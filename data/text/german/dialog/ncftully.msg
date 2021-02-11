@@ -2,8 +2,8 @@
 {150}{}{Du siehst einen älteren Mann in brauner Kutte und mit Whiskeyflecken auf den Wangen. Er wirkt in weeeenig wackelig auf den Beinen.}
 {151}{}{Du siehst Vater Tully. Er sieht aus, als ob er sich ein paar hinter die Binde gekippt hat.}
 {200}{}{Ich bin richtig gesegnet.}
-{201}{}{Und die Frauen sollten mich mit einem heiligen Kuß grüßen.}
-{202}{}{Ich trink mir den Teufel aus dem Leib, wenn ich muß.}
+{201}{}{Und die Frauen sollten mich mit einem heiligen Kuss grüßen.}
+{202}{}{Ich trink mir den Teufel aus dem Leib, wenn ich muss.}
 {203}{}{Eine wahre Predigt hat keine Worte...}
 {204}{}{Ich fühl den Himmel in mir.}
 {205}{}{Verdammt, ich werd nüchtern. Ich brauch 'n Drink.}
@@ -28,13 +28,13 @@
 {236}{}{Ich nehmen}
 {237}{}{Ich nicht brauchen... ich wollen raus}
 {238}{}{Klar. Ich nehm alles, was du mir gibst, Vater. Äh, na ja, solange es nichts Unanständiges ist.}
-{239}{}{Äh... nein danke, Vater. Ich muß jetzt wirklich los.}
-{240}{}{(Tully geht zu einer Bank rüber, reißt ein Brett vom Sitz und zieht ein dreckiges Taschenbuch darunter hervor.) Da, bitte. Issn bißchen dreckig, aber... (Gibt es dir.)}
+{239}{}{Äh... nein danke, Vater. Ich muss jetzt wirklich los.}
+{240}{}{(Tully geht zu einer Bank rüber, reißt ein Brett vom Sitz und zieht ein dreckiges Taschenbuch darunter hervor.) Da, bitte. Issn bisschen dreckig, aber... (Gibt es dir.)}
 {241}{}{Danke}
 {242}{}{Danke, Vater. Glaub ich.}
 {245}{}{Du bissn Held. Du hasses verdient. Nich' viele Spieler bringen die Tage ihr Spiel zu ENDE, aber du bist den ganzen Weg gegangen. Ich bin stolz auf dich. Ganz NEW RENO is' stolz auf dich.}
 {246}{}{Dankäh, Vader. Schüs}
-{247}{}{Danke, Vater. Paß auf dich auf, hörst du?}
+{247}{}{Danke, Vater. Pass auf dich auf, hörst du?}
 {250}{}{Grüße, mein Sohn. Was kann Vater Tully in dieser wunner-, wunnerschön' Reno-Nacht für dich tun?}
 {251}{}{Grüße, mein Sohn. Was kann Vater Tully an diesem wunner-, wunnerschön' Reno-Tag für dich tun?}
 {252}{}{Hä-hä. Du stinken wie Brennerei. Du stinken wie Pipi}
@@ -46,10 +46,10 @@
 {258}{}{Bist du betrunken?}
 {259}{}{"Vater" Tully, hä? Machst du auch Scheidungen?}
 {261}{}{Sag mal, ich hab dir was Alk mitgebracht, Vater. Können wir 'n Moment reden...?}
-{262}{}{Egal. Tut mir leid, daß ich dich belästigt habe.}
+{262}{}{Egal. Tut mir leid, dass ich dich belästigt habe.}
 {270}{}{(Schnuppert an seinen Achselhöhlen, dann an seiner Kutte.) Meine Güte, ich riech wirklich streng, was? Himmel, ich stinke wie 'ne Brennerei! Mach mich besser sauber, bevor Mrs. Wright mich erwischt...}
 {271}{}{Tschüssi Pipimann.}
-{275}{}{Himmel, muß verschlafen haben... hätte's doch sonst bemerkt... was zum Teufel hab ich grad gesagt?}
+{275}{}{Himmel, muss verschlafen haben... hätte's doch sonst bemerkt... was zum Teufel hab ich grad gesagt?}
 {290}{}{Vater Tully, zu dein' Diensten. Bin das geistliche Oberhaupt der guten L... naja, der Leute in New Reno.}
 {291}{}{Und das kannst du nur erreichen, indem du dich betrinkst?}
 {292}{}{Ich hab da ein paar Fragen über New Reno...}
@@ -60,25 +60,25 @@
 {303}{}{Aufzu —?}
 {305}{}{Absinenßler-Vereinigung, Mrsss. Wright... is' doch dasselbe. Versucht, New Reno zu sssäubern. Hat wirklich gute Arbeit geleissstet bei mir.}
 {306}{}{Aber sicher. Ich hab da noch ein paar Fragen...}
-{315}{}{Fragen? Kann nich' behaupten, daß ich zuviel weiß. Frach trotzdem.}
+{315}{}{Fragen? Kann nich' behaupten, dass ich zuviel weiß. Frach trotzdem.}
 {316}{}{Hast du schon mal von Vault 13 gehört?}
 {317}{}{Ich bin hier, weil ich meine Sippe suche. Sie sind aus meinem Dorf entführt worden.}
 {318}{}{Du weißt nicht zufällig, wie man einen Öltanker repariert, oder?}
 {319}{}{Hast du schon mal was von einem GECK gehört?}
 {320}{}{Kannst du mir etwas über New Reno erzählen?}
-{323}{}{Vielleicht komm ich noch mal wieder, wenn du ein bißchen trockener bist.}
+{323}{}{Vielleicht komm ich noch mal wieder, wenn du ein bisschen trockener bist.}
 {325}{}{Tja... Reno... is'... na, es is'...}
 {326}{}{Ein Garten-Eden-Erschtellungskitt? Kann nich' behaupten, dassich das schon mal gehört hab. Tja, außer...}
 {327}{}{Vault 13? Keine Ahnung... tja, ich mein, im Norden von hier gibt's Vault City. Is' das vielleicht das, wonach de suchst? Hey, jetzt, wo ich darüber nachdenke...}
-{328}{}{Sklavenhännler vielleicht? Hab gehört, daß die da 'ne Menge ihrer Vorräte herbekommen... naja, außer...}
-{329}{}{Tanker? So 'n Ding mit Leinen und 'nem Faß? Darüber weiß ich nich' viel... na ja... außer...}
+{328}{}{Sklavenhännler vielleicht? Hab gehört, dass die da 'ne Menge ihrer Vorräte herbekommen... naja, außer...}
+{329}{}{Tanker? So 'n Ding mit Leinen und 'nem Fass? Darüber weiß ich nich' viel... na ja... außer...}
 {330}{}{Ja...?}
-{335}{}{Sag mal, entschuldige, wenn ich frage, aber du hast nicht zufällig ein Fläschchen dabei? Ich brauch was für die Messe... und äh, mein Hals issn bißchen trocken.}
+{335}{}{Sag mal, entschuldige, wenn ich frage, aber du hast nicht zufällig ein Fläschchen dabei? Ich brauch was für die Messe... und äh, mein Hals issn bisschen trocken.}
 {336}{}{Klar. Hier, bitte.}
 {337}{}{Hab ich nicht, tut mir leid.}
 {338}{}{Ich könnte ja was holen gehen, wenn du willst.}
 {440}{}{Jetzt bin ich auf dem geraden und beschwerlichen Weg, das verdank ich Mrs. Wright... die Gute. Bin schon seit min'stens einem... äh, Monat trocken. Oder war's doch 'ne Woche? Äh, Mist, ich weiß es nich' mehr. }
-{441}{}{'Ne Woche is' wohl 'n bißchen übertrieben. Sag mal, ich hab da noch ein paar Fragen...}
+{441}{}{'Ne Woche is' wohl 'n bisschen übertrieben. Sag mal, ich hab da noch ein paar Fragen...}
 {442}{}{Trocken wie Sand, was? Wie viele Finger halte ich hoch?}
 {443}{}{Abstinenzler-Vereinigung?}
 {444}{}{Mrs. Wright?}
@@ -88,7 +88,7 @@
 {452}{}{Hmnnn. Hier haste... (Er gibt dir ein paar Chips.) Gesegnet seien die Armen. Geh, gib's im Namen von allem aus, was heilig ist.}
 {453}{}{Trotzdem danke, Vater. Ich werd sehen, ob ich etwas Alk auftreiben kann.}
 {454}{}{Danke, Vater. Ich komm bald mit dem Alk zurück.}
-{460}{}{Schenkt seiner Frau und Tochter keine zwei Sekunden... kein Wunder, daß die ganz wiiild geworden sind. Hä-hä... kommt alles bei der Beichte raus, verstehste...}
+{460}{}{Schenkt seiner Frau und Tochter keine zwei Sekunden... kein Wunder, dass die ganz wiiild geworden sind. Hä-hä... kommt alles bei der Beichte raus, verstehste...}
 {461}{}{Oh, und was sagt Mr. Bishop so bei der Beichte?}
 {462}{}{Oh, und was sagt Mrs. Bishop so bei der Beichte?}
 {463}{}{Was sagt Mrs. Bishop so bei der Beichte? Sie spricht doch nicht über mich, oder... ich meine, weil es da nichts zu erzählen gibt. Alles Lügen.}
@@ -98,8 +98,8 @@
 {470}{}{Nee, Vault City hat gesagt, er soll's sich in den HINTERN stecken. Also... kurz danach wird Vault City plötzlich ständig überfall'n. Schnell. Schmerzhaft. Un' die ganze Zeit sitzt da Bishop und sagt, ich KÖNNT euch ja helfen, WENN ihr euch mit New Reno ssusammentut.}
 {471}{}{Hmmm. Was kannst du mir noch über die Bishops erzählen?}
 {472}{}{Bishop versucht es also mit Erpressung? Ein paar Überfälle, ein paar Tote und Vault City könnte sich mit New Reno anfreunden. Nich' besonders subtil, aber wirkungsvoll. Was kannst du mir noch über die Bishops erzählen?}
-{473}{}{Das klingt nach 'ner seltsamen Taktik... ich meine, ist doch viel wahrscheinlicher, daß Vault City anderswo Hilfe sucht, bevor sie Bishops Druck nachgeben. Was kannst du mir noch über die Bishops erzählen?}
-{474}{}{Das klingt nach 'ner seltsamen Taktik... ich meine, ist doch viel wahrscheinlicher, daß Vault City anderswo Hilfe sucht... in der NCR, zum Beispiel... bevor sie Bishops Druck nachgeben. Was kannst du mir noch über die Bishops erzählen?}
+{473}{}{Das klingt nach 'ner seltsamen Taktik... ich meine, ist doch viel wahrscheinlicher, dass Vault City anderswo Hilfe sucht, bevor sie Bishops Druck nachgeben. Was kannst du mir noch über die Bishops erzählen?}
+{474}{}{Das klingt nach 'ner seltsamen Taktik... ich meine, ist doch viel wahrscheinlicher, dass Vault City anderswo Hilfe sucht... in der NCR, zum Beispiel... bevor sie Bishops Druck nachgeben. Was kannst du mir noch über die Bishops erzählen?}
 {475}{}{Kann ich dir noch ein paar Fragen stellen, Vater?}
 {476}{}{Sehr interessant, Vater. Danke für das Gespräch.}
 {480}{}{(Starrt deine Hand an.) Sinnas sechs? Oder sinnas drei...}
@@ -113,15 +113,15 @@
 {494}{}{Kannste wetten. Können wir gleich anfangen?}
 {495}{}{Vielleicht... ich denk noch darüber nach. Ich könnte aber wiederkommen.}
 {500}{}{Tja, sieht so aus, als ob ich mein Gebetbuch mit dem ganzen offissiell'n Kram verlegt hab...}
-{501}{}{Vergiß doch das Buch. Hier hast du 'n bißchen Schnaps. Kannst du dir nicht was ausdenken?}
-{502}{}{Hier hast du 'n bißchen Alk. Kannst du dir nicht was ausdenken?}
-{503}{}{Vergiß doch das Buch. Wenn ich dir 'ne Flasche bringe, kannst du dir dann vielleicht was ausdenken?}
+{501}{}{Vergiss doch das Buch. Hier hast du 'n bisschen Schnaps. Kannst du dir nicht was ausdenken?}
+{502}{}{Hier hast du 'n bisschen Alk. Kannst du dir nicht was ausdenken?}
+{503}{}{Vergiss doch das Buch. Wenn ich dir 'ne Flasche bringe, kannst du dir dann vielleicht was ausdenken?}
 {504}{}{Wenn ich dir 'ne Flasche bringe, kannst du dir dann vielleicht was ausdenken?}
 {505}{}{Oh, na gut. Vielleicht findet sich das Buch ja wieder ein.}
 {510}{}{Tja, das wär nich' richtig... es sei denn, der Alk is' richtich gut.}
 {511}{}{Keine Angst. Ich komm wieder.}
 {512}{}{Tja, ich kann welchen holen gehen. Aber dann brauch ich erst ein paar Chips.}
-{520}{}{Klar! Laß mich das hier erst austrinken, das Feuer anheizen... (trinkt beängstigend schnell) ...also gut, kommt hier vor, ihr zwei...}
+{520}{}{Klar! Lass mich das hier erst austrinken, das Feuer anheizen... (trinkt beängstigend schnell) ...also gut, kommt hier vor, ihr zwei...}
 {521}{}{Tretet näher...}
 {530}{}{Oh. Also gut. Fragen kostet nichts... also... äh... tut mir leid, wer bist du doch gleich?}
 {531}{}{Weißt du, ich könnte dir etwas Alk besorgen, wenn du willst.}
@@ -129,7 +129,7 @@
 {541}{}{OK. Ich geh was holen. Bin gleich wieder da.}
 {542}{}{OK. Ich geh welches holen. Aber ich brauch dafür ein paar Chips.}
 {550}{}{'Türlich, 'türlich... Chips, Chips... wo hab ich nur die Chips... (Seine Augen fallen auf die Sammelbüchse neben dem Podium.) Ah! Warum hab ich da nich' gleich dran gedacht... Warte 'n Momentchen...}
-{551}{}{Warte geduldig, daß er etwas aus der Sammelbüchse nimmt.}
+{551}{}{Warte geduldig, dass er etwas aus der Sammelbüchse nimmt.}
 {552}{}{Äh, mach dir nichts draus, Vater. Die Runde geb ich aus.}
 {560}{}{(Vater Tully sieht die nun leere Flasche in seiner Hand an.) Sag mal, ich will ja nich'aufdringlich sein, Freund: haste nich' zufällig noch 'ne Flasche von dem edlen Tropfen dabei? Das Ganze macht mich richtig durstig.}
 {570}{}{Vielen herzlichen Dank! (Nimmt 'ne Flasche, trinkt einen Schluck.) Ahhh... tut mir leid... worüber zum Teufel haben wir gerade geredet?}
@@ -173,11 +173,11 @@
 {653}{}{Also gut. Ich sprech dich später, Vater.}
 {660}{}{Das Jet bringt uns noch mal alle um. Kann mir kein anderes Zeugs vorstellen...(Trinkt, stößt auf.)...das mehr Schaden anrichtet als Jet... Tötet Körper und Geist. Diese elenden Mordinos...}
 {661}{}{Was war das mit den Mordinos?}
-{663}{}{Äh, ich würd mir die Flasche das nächste Mal ein bißchen länger aufheben, Vater. Ich sprech dich später.}
-{670}{}{Hä-hä! Wright, was? (Lächelt, wackelt mit den Augenbrauen.) Laß mich dir ein wenig über die WRIGHTS erzählen... das is' 'ne zweischneidige Angelegenheit - 'ne Bande gieriger Trunkenbolde und strenger Puritaner!}
+{663}{}{Äh, ich würd mir die Flasche das nächste Mal ein bisschen länger aufheben, Vater. Ich sprech dich später.}
+{670}{}{Hä-hä! Wright, was? (Lächelt, wackelt mit den Augenbrauen.) Lass mich dir ein wenig über die WRIGHTS erzählen... das is' 'ne zweischneidige Angelegenheit - 'ne Bande gieriger Trunkenbolde und strenger Puritaner!}
 {671}{}{Ach, wirklich?}
 {672}{}{Ich glaub, ich hab genug gehört, Vater. Danke für das Gespräch.}
-{680}{}{Bei den Wrights kommen die Kinder raus wie am Fließband... der olle Orville Wright will wohl die Welt wieder be-völ-kern. Ich hoffe nur, daß Mrs. Wright der Belastung standhält. Hä-hä. Und die Sachen, die die so in der Beichte SAGEN...}
+{680}{}{Bei den Wrights kommen die Kinder raus wie am Fließband... der olle Orville Wright will wohl die Welt wieder be-völ-kern. Ich hoffe nur, dass Mrs. Wright der Belastung standhält. Hä-hä. Und die Sachen, die die so in der Beichte SAGEN...}
 {681}{}{Ach, tatsächlich? Was sagt denn Mrs. Wright so in der Beichte?}
 {682}{}{Ach, tatsächlich? Was sagt denn der olle ORVILLE Wright so in der Beichte?}
 {683}{}{Was kontrolliert die Wright-Familie in New Reno?}
@@ -187,7 +187,7 @@
 {692}{}{Du hast gerade über die Wright-Familie gesprochen...}
 {693}{}{Egal. Ich hätte da ein paar andere Fragen...}
 {694}{}{Nichts groß, glaub ich. Danke für das Gespräch.}
-{700}{}{Oh, richtig, richtig. Tja, äh, in der Beichte hat sie nich' viel zu erzähl'n. Hauptsächlich Schuldgefühle, wenn sie Käfer zertreten hat... oder, daß ihr die Liebe mit ihrem Mann zu viel Spaß macht. Hä-hä. (Nimmt einen Schluck.) Ich liiiebe Schuld.}
+{700}{}{Oh, richtig, richtig. Tja, äh, in der Beichte hat sie nich' viel zu erzähl'n. Hauptsächlich Schuldgefühle, wenn sie Käfer zertreten hat... oder, dass ihr die Liebe mit ihrem Mann zu viel Spaß macht. Hä-hä. (Nimmt einen Schluck.) Ich liiiebe Schuld.}
 {701}{}{Ich hab da noch ein paar Fragen über die Wrights...}
 {702}{}{Ach so. Ich hab da noch ein paar andere Fragen...}
 {703}{}{Man sieht's. Danke für das Gespräch.}
@@ -259,7 +259,7 @@
 {967}{}{Sssssschnarrrrrchhhhh}
 {968}{}{Oh, nich... Mrs. Wright, nein... sznnzzzz}
 {969}{}{Ssssstopp, Mrs. Wright, ich bin 'n Mann der Kirche}
-{970}{}{Verderbtheit... Sünde... zzzz... so viel Schpaßsss}
+{970}{}{Verderbtheit... Sünde... zzzz... so viel Schpasssss}
 {971}{}{Klar bin ich nüchtahn gebliem}
 {1000}{}{Oh Gott segne dich mein... *RÜLPS*}
 {1001}{}{Zuviel getrunken... von diesem Blut... OH HIMMEL, *RÜLLLLLPS*.}

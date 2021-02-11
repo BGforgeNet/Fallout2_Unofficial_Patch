@@ -18,7 +18,7 @@
 {114}{}{Ich habe für heute genug gesagt. Ich glaube, du solltest dich jetzt um deine
  Angelegenheiten kümmern.}
 {115}{}{Warten, ich müssen fragen.}
-{116}{}{Warte, ich muß dir noch ein paar Fragen stellen.}
+{116}{}{Warte, ich muss dir noch ein paar Fragen stellen.}
 {117}{}{Also gut, du darfst noch eine Frage stellen. Was willst du wissen?}
 {118}{}{Du wissen wo finden GECK?}
 {119}{}{Du wissen wo finden Vault 13?}
@@ -38,11 +38,11 @@
 {129}{}{Warte! Wo sein Gilde?}
 {130}{}{Warte, kannst du mir sagen, wo diese Sklavenhändlergilde ist?}
 {131}{}{Du bist's?! Ich hab dir nichts mehr zu sagen.}
-{132}{}{. Ich muß sagen, du bist ein ganz schönes Stück entfernt von dem einfachen Stammesmann
+{132}{}{. Ich muss sagen, du bist ein ganz schönes Stück entfernt von dem einfachen Stammesmann
  von einst. Schau doch irgendwann mal in unserem Büro in der New California Republic
- vorbei. Vielleicht bringt es dir etwas. Wenn du mich jetzt entschuldigst, ich muß weg.}
+ vorbei. Vielleicht bringt es dir etwas. Wenn du mich jetzt entschuldigst, ich muss weg.}
 {133}{}{Du bist's?! Ich hab dir nichts mehr zu sagen.}
 {134}{}{Moment...}
 {135}{}{Dies ist ein privates Büro.}
 {136}{}{Da hast du nichts verloren.}
-{137}{}{Dies ist Privatbesitz. Mach, daß du weiterkommst.}
+{137}{}{Dies ist Privatbesitz. Mach, dass du weiterkommst.}

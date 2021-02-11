@@ -34,32 +34,27 @@
 #include "../headers/command.h"
 
 procedure start;
-procedure timed_event_p_proc;
 procedure pickup_p_proc;
 procedure destroy_p_proc;
+procedure drop_p_proc;
 
 procedure start begin
 end
 
-procedure timed_event_p_proc begin
-   variable item;
-   if (obj_is_carrying_obj(dude_obj, self_obj)) then begin
-      rm_obj_from_inven(dude_obj, self_obj);
-      destroy_object(self_obj);
-      set_map_var(MVAR_Current_Xander_Root, map_var(MVAR_Current_Xander_Root) - 1);
-      item := create_object(PID_XANDER_ROOT, 0, 0);
-      add_obj_to_inven(dude_obj, item);
-   end
-end
-
 procedure pickup_p_proc begin
    if (cur_map_index == MAP_ARROYO_WILDERNESS) then begin
-      add_timer_event(self_obj, 0, DUMMY_PARAM);
+       set_map_var(MVAR_Current_Xander_Root,map_var(MVAR_Current_Xander_Root)-1);
    end
 end
 
 procedure destroy_p_proc begin
    if (cur_map_index == MAP_ARROYO_WILDERNESS) then begin
-      set_map_var(MVAR_Current_Xander_Root, map_var(MVAR_Current_Xander_Root) - 1);
+       set_map_var(MVAR_Current_Xander_Root,map_var(MVAR_Current_Xander_Root)-1);
+   end
+end
+
+procedure drop_p_proc begin
+   if (cur_map_index == MAP_ARROYO_WILDERNESS) then begin
+       set_map_var(MVAR_Current_Xander_Root,map_var(MVAR_Current_Xander_Root)+1);
    end
 end

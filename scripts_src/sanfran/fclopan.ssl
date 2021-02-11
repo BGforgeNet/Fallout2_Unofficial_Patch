@@ -1186,7 +1186,6 @@ procedure checkTestObj begin
    variable obj;
    variable CurrentPid;
 
-   ndebug("tilenum test obj: " + tile_num(local_var(LVAR_Test_Obj)));
    if (local_var(LVAR_Test_Obj)) then begin
       while (TestObjNum < 10) do begin
          if (TestObjNum == 0) then

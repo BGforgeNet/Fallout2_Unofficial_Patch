@@ -20,12 +20,12 @@
 {246}{}{Hey Smitty, was ist eigentlich mit dem Auto, das du verkaufen wolltest?}
 {247}{}{Ich habe dir dein Essen von Mom mitgebracht.}
 {248}{}{Sag mal, Alter, ich hab hier dieses Teil aus Klamath....}
-{249}{}{Ich habe mich nur ein bißchen umgesehen. Bis später, Smitty.}
-{260}{}{Laß den alten Smitty mal einen Blick drauf werfen.}
+{249}{}{Ich habe mich nur ein bisschen umgesehen. Bis später, Smitty.}
+{260}{}{Lass den alten Smitty mal einen Blick drauf werfen.}
 {261}{}{Sicher, hier ist es.}
 {262}{}{Wenn ich es mir recht überlege, möchte ich dich was anderes fragen.}
 {263}{}{Vielleicht ein andermal. Wiedersehn, Smitty.}
-{280}{}{Laß den alten Smitty mal einen Blick drauf werfen.}
+{280}{}{Lass den alten Smitty mal einen Blick drauf werfen.}
 {281}{}{Sicher, hier ist es.}
 {282}{}{Wenn ich es mir recht überlege, möchte ich dich was anderes fragen.}
 {283}{}{Vielleicht ein andermal. Wiedersehn, Smitty.}
@@ -44,33 +44,33 @@
  ein paar Erfahrungspunkte haben?}
 {324}{}{OK, die Verwechslung tut mir leid. Ich hoff nur, Mom wirft mich nicht raus! Ich brauche
  diese Arbeit dringend.}
-{325}{}{Ihr wißt schon, daß es kein kostenloses Essen nach 24 Stunden mehr gibt, oder?}
+{325}{}{Ihr wisst schon, dass es kein kostenloses Essen nach 24 Stunden mehr gibt, oder?}
 {326}{}{Na gut, dann esse ich es eben selbst.}
 {327}{}{Das wird Mom gar nicht gerne hören.}
 {330}{}{Wie du siehst, hab ich 'n Chrysalis Motors Highwayman. Wunderschöne Kiste. Früher hat man
  gesagt, "Nichts kann einen Highwayman aufhalten". Sehr stabile und robuste Bauweise.}
 {331}{}{Na gut, aber was hat das mit mir zu tun?}
-{340}{}{Naja, ich dachte zuerst, daß ich 'ne Batterie für das Teil bräucht, aber eigentlich
+{340}{}{Naja, ich dachte zuerst, dass ich 'ne Batterie für das Teil bräucht, aber eigentlich
  brauch ich 'ne Brennstoff-Steuerung. Die Dinger geben leider immer schnell den Geist auf.}
 {341}{}{Ich glaube, damit kann ich dienen.}
 {350}{}{Sehr gut. Machen wir es so: Du gibst mir $2000 und du kriegst das Auto. Ich baue dir
- sogar die Brennstoff-Steuerung ein. Er müßte dann wieder wie neu laufen. Ich kann dir
+ sogar die Brennstoff-Steuerung ein. Er müsste dann wieder wie neu laufen. Ich kann dir
  das Ding auch mit zusätzlichen Mikrofusionszellen ausstatten.}
 {351}{}{Das hört sich gut an. Hier hast du das Geld und das Teil.}
-{352}{}{Ich glaub, daß muß jetzt nicht sein. Beantworte mir doch noch eine andere Frage, Smitty.}
-{353}{}{Das muß ich mir noch überlegen. Bis später, Smitty.}
+{352}{}{Ich glaub, dass muss jetzt nicht sein. Beantworte mir doch noch eine andere Frage, Smitty.}
+{353}{}{Das muss ich mir noch überlegen. Bis später, Smitty.}
 {370}{}{Geh vorsichtig mit ihm um, bis er warmgelaufen ist.}
 {371}{}{In Ordnung. Danke Smitty.}
 {380}{}{Naja, das reicht eigentlich noch nicht.}
 {381}{}{Häh?}
-{390}{}{Will nur sagen, daß 'n Regulator schon was bringt, aber du brauchst 'ne Brennstoff-Steuerung.}
+{390}{}{Will nur sagen, dass 'n Regulator schon was bringt, aber du brauchst 'ne Brennstoff-Steuerung.}
 {391}{}{Warum das denn?}
 {400}{}{Na wenn du so 'n Controller und $2000 hättst, könnt ich diesen Chrysalis Motors
  Highwayman hier reparieren und du könntst wieder mit Stil Gas geben.}
 {401}{}{Wirklich? Wo kriege ich so eine Brennstoff-Steuerung?}
-{410}{}{Dumme Frage! Wenn ich das wüßte, würd ich das Auto ja wohl längst selbst fahren..}
+{410}{}{Dumme Frage! Wenn ich das wüsste, würd ich das Auto ja wohl längst selbst fahren..}
 {411}{}{Wow! Ich werde mich danach umhören.}
-{420}{}{Gute Idee. Wenn du einen auftreiben kannst, komm einfach wieder her. Ach ja und vergiß
+{420}{}{Gute Idee. Wenn du einen auftreiben kannst, komm einfach wieder her. Ach ja und vergiss
  die 2000 Dollar nicht.}
 {421}{}{Hört sich vernünftig an, Smitty, Kann ich dich was anderes fragen?}
 {422}{}{Ich werd mich gleich nach einem umsehen. Wiedersehn.}
@@ -82,7 +82,7 @@
 {450}{}{Das ist also so ein Brennstoffzellenregler. Mit dem schaffst du mehr Kilometer pro
  Energiezelle. Ich kann ihn dir einbauen, wenn du mir dafür, sagen wir, 750 Dollar gibst.}
 {451}{}{Das klingt nach einem fairen Angebot. Hier ist das Teil und das Geld.}
-{452}{}{Ich muß mir das überlegen, Smitty. Bis später.}
+{452}{}{Ich muss mir das überlegen, Smitty. Bis später.}
 {460}{}{Die meiste Zeit bewache ich nur diesen alten Schrott. Hab nur dieses eine Teil, das was
  wert ist.}
 {461}{}{Was ist das?}
@@ -103,9 +103,9 @@
 {511}{}{Das hört sich interessant an. Ich komm auf dich zurück, wenn ich so eine
  Brennstoff-Steuerung finde. Jetzt möchte ich dich aber etwas anderes fragen.}
 {512}{}{Ich komme wieder, wenn ich einen gefunden hab. Wiedersehn, Smitty.}
-{520}{}{Da hast du ihn. Ganz wie neu. Paß aber ein bißchen auf.}
+{520}{}{Da hast du ihn. Ganz wie neu. Pass aber ein bisschen auf.}
 {521}{}{Das werd ich. Danke, Smitty. Wiedersehn.}
-{600}{}{GEH BLOSS WEG DA VON MEINEM AUTO!}
+{600}{}{GEH BLOß WEG DA VON MEINEM AUTO!}
 {650}{}{Wenn ich dich noch einmal bei meinem Auto erwische, passiert was.}
 {651}{}{Das wird nicht passieren.}
 {652}{}{Uggg-K}

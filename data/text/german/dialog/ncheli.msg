@@ -10,5 +10,5 @@
 {350}{}{Verdammt! Was tust Du, Dummkopf?!}
 {400}{}{[Sieht aus, als ob da eine Tür ist. Öffnen und hineinklettern?]}
 {450}{}{[Die Tür schließt sich hinter Dir und der Vertbird hebt ab! Du kannst die Tür nicht öffnen!]}
-{500}{}{Diese Container sind mit schweren Metallkanistern gefüllt. Die sorgfältige Packung musternd, vermutest Du, daß sie
+{500}{}{Diese Container sind mit schweren Metallkanistern gefüllt. Die sorgfältige Packung musternd, vermutest Du, dass sie
  eine Art von gefährlichen Chemikalien enthalten.}

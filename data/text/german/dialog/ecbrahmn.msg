@@ -1,1 +1,1 @@
-{100}{}{You see a wild brahmin.}
+{100}{}{Du siehst ein wildes Brahmin.}

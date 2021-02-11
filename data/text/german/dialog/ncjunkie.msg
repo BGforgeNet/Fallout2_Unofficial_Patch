@@ -2,20 +2,20 @@
 {101}{}{Du siehst einen hyperaktiven Jetie.}
 {150}{}{Du siehst einen völlig kaputten Jetie. Er bewegt sich sehr langsam.}
 {151}{}{Du siehst einen völlig kaputten Jetie. Er sieht krank aus.}
-{152}{}{Du siehst einen völlig kaputten Jetie. Er ist so dünn, daß er aussieht, als könne er von einem Windstoß umgeweht werden.}
+{152}{}{Du siehst einen völlig kaputten Jetie. Er ist so dünn, dass er aussieht, als könne er von einem Windstoß umgeweht werden.}
 {153}{}{Du siehst einen völlig kaputten Jetie. Er sieht dich mit roten Augen an.}
-{154}{}{Du siehst einen völlig kaputten Jetie. Seine Augen sind so blutunterlaufen, daß er aussieht, als könne er blutige Tränen weinen.}
+{154}{}{Du siehst einen völlig kaputten Jetie. Seine Augen sind so blutunterlaufen, dass er aussieht, als könne er blutige Tränen weinen.}
 {155}{}{Du siehst einen völlig kaputten Jetie. Bei jeder Bewegung zuckt er zusammen, als würde er mit Nadeln gestochen.}
 {156}{}{Du siehst einen völlig kaputten Jetie. Er hat Ringe unter den Augen und einen schmerzverzerrten Gesichtsausdruck.}
 {160}{}{Du siehst einen Jetie. Er sieht glücklich aus.}
 {161}{}{Du siehst einen Jetie. Er lächelt vor sich hin und bewegt sich zu einer unhörbaren Musik.}
 {162}{}{Du siehst einen Jetie. Er starrt ins Leere.}
-{163}{}{Du siehst einen Jetie. Er lächelt und winkt etwas zu, das sich hinter deinem Ohr befinden muß.}
-{164}{}{Du siehst einen Jetie. Er faßt sich dauernd ins Gesicht und murmelt vor sich hin.}
+{163}{}{Du siehst einen Jetie. Er lächelt und winkt etwas zu, das sich hinter deinem Ohr befinden muss.}
+{164}{}{Du siehst einen Jetie. Er fasst sich dauernd ins Gesicht und murmelt vor sich hin.}
 {165}{}{Du siehst einen Jetie. Trotz der Ringe unter seinen Augen lächelt er, als habe er gerade im Lotto gewonnen.}
 {170}{}{Du siehst einen völlig kaputten Jetie. Sie bewegt sich sehr langsam.}
 {171}{}{Du siehst einen völlig kaputten Jetie. Sie sieht aus, als habe sie schon monatelang nichts mehr gegessen.}
-{172}{}{Du siehst einen völlig kaputten Jetie. Sie ist so dünn, daß sie aussieht, als könne sie von einem Windstoß umgeweht werden.}
+{172}{}{Du siehst einen völlig kaputten Jetie. Sie ist so dünn, dass sie aussieht, als könne sie von einem Windstoß umgeweht werden.}
 {173}{}{Du siehst einen völlig kaputten Jetie. Ihre Augen sehen aus wie durchgebrannte Sicherungen.}
 {174}{}{Du siehst einen völlig kaputten Jetie. Sie sieht dich hungrig an.}
 {175}{}{Du siehst einen völlig kaputten Jetie mit blutunterlaufenen Augen.}
@@ -88,15 +88,14 @@
 {295}{}{Nächstes mal, wenn du der Enklave in den Arsch trittst hol mich vorher ab und wir machen das ZUSAMMEN.}
 {296}{}{Tritt in ihren Arsch, }
 {297}{}{Ich weiß du hast die Welt gerettet, aber ist es nicht so, dass wir weniger wichtigen NPCs mit den Konsequenzen leben müssen.}
-{298}{}{You should play the game again as a drug-based character. Really! Take the Drug Reliant Trait!
- I LOVE that one.}
+{298}{}{Du solltest das Spiel noch einmal spielen, diesmal jedoch als Charakter mit erhöhtem Stoffwechsel. Wirklich! Nimm den Perk! Ich LIEBE ihn.}
 {299}{}{Danke für unsere Rettung. Ich würde dich küssen, wenn ich nicht diesen Ausschlag hätte.}
 {300}{}{Ich hätte auch die Enklave besiegen können, wenn ich genug Jet gehabt hätte.}
 {301}{}{[Singt.] "We don't need another hero, we don't need to know the way home..."}
 {302}{}{Chris Avellone hat mich entwickelt und Tom French hat das Skript geschrieben. Technisch betrachtet bin ich für mein Jet benutzen also nicht verantwortlich.}
 {303}{}{Lass uns etwas Jet nehmen und deinen Sieg feiern. Du zahlst.}
 {304}{}{Existieren wir weiter, wenn du das Spiel von deiner Festplatte gelöscht hast?}
-{305}{}{Uh... what kind of drug testing was the Enclave doing? Was there free Jet?}
+{305}{}{Äh... was für ein chemisches Zeug hat die Enklave eigentlich entwickelt? Gab es Jet umsonst?}
 {320}{}{Wie gehst du denn mit dem Ding aufs Klo?}
 {321}{}{Oh... redest du mit mir?}
 {322}{}{Puh, mein Delirium wird ja immer schlimmer. Jetzt reden schon Leute aus Metall mit mir.}
@@ -109,9 +108,9 @@
 {350}{}{Gib mir Jet und ich sage dir wo du hier ganz einfach ein paar Sklaven herbekommst Sklavenhändler.}
 {351}{}{Du kannst meine Kinder haben Sklavenhändler, wenn du mir dafür Jet als Bezahlung gibst...}
 {352}{}{Nur ein paar Chips, dann bin ich dein Sklave... Gib mir aber zuerst Jet.}
-{353}{}{Ich bin dein Sklave, wenn du mir ein bißchen Jet gibst.}
-{354}{}{Du kannst mich, für ein bißchen Jet, in die Sklaverei verkaufen.}
-{355}{}{No, man, I'm off drugs. Uh... why? You buying?}
+{353}{}{Ich bin dein Sklave, wenn du mir ein bisschen Jet gibst.}
+{354}{}{Du kannst mich, für ein bisschen Jet, in die Sklaverei verkaufen.}
+{355}{}{Nein Mann, ich bin clean. Äh... wieso? Hast du was?}
 {360}{}{Bist du der Kämpfer? Haste paar Chips, die ich leihen kann?}
 {361}{}{Komm schon nur ein paar Chips.}
 {362}{}{Kann ich mir 'n paar Chips leihen...? Die kriegste wieder.}
@@ -120,9 +119,9 @@
 {365}{}{Ich brauche dringend Medizin für meinen Sohn. Hilfst du mir.}
 {366}{}{Haste paar Chips über?}
 {367}{}{Ich brauche ein paar Chips um mir Essen zu kaufen...}
-{368}{}{Ich bin dein Sklave, wenn du mir ein bißchen Jet gibst.}
-{369}{}{Du kannst mich, für ein bißchen Jet, in die Sklaverei verkaufen.}
-{370}{}{No, man, I'm off drugs. Uh... why? You buying?}
+{368}{}{Ich bin dein Sklave, wenn du mir ein bisschen Jet gibst.}
+{369}{}{Du kannst mich, für ein bisschen Jet, in die Sklaverei verkaufen.}
+{370}{}{Nein Mann, ich bin clean. Äh... wieso? Hast du was?}
 {371}{}{Du bist ein Mitglied der }
 {372}{}{Kann ich mir ein paar Chips leihen...? Komm schon, mir kann man vertrauen.}
 {373}{}{Ich arbeite für Jet...}
@@ -131,7 +130,7 @@
 {382}{}{Brauchst du jemanden mit dem du high werden kannst?}
 {383}{}{Dad?}
 {384}{}{Ich muss *fliegen*, weißt du was ich meine?}
-{385}{}{No, man, I'm off drugs. Uh... why? You buying?}
+{385}{}{Nein Mann, ich bin clean. Äh... wieso? Hast du was?}
 {386}{}{Psssscht. Kannst du mir was Jet besorgen?}
 {387}{}{Kann ich mir 'n paar Chips leihen...? Die kriegste wieder.}
 {388}{}{Ich arbeite für Jet...}
@@ -142,14 +141,14 @@
 {393}{}{Haste paar Chips über?}
 {394}{}{Ich brauche ein paar Chips um mir Essen zu kaufen...}
 {395}{}{Ich schlafe mit dir. Kostet nur ein paar Chips, oder Jet. Ich bin gesund, versprochen.}
-{396}{}{Ich sollte hier der Obermacker in New Reno sein. Kann ich dir was für ein bißchen Jet geben...}
-{397}{}{Ich bin dein Sklave, wenn du mir ein bißchen Jet gibst.}
-{398}{}{Du kannst mich, für ein bißchen Jet, in die Sklaverei verkaufen.}
+{396}{}{Ich sollte hier der Obermacker in New Reno sein. Kann ich dir was für ein bisschen Jet geben...}
+{397}{}{Ich bin dein Sklave, wenn du mir ein bisschen Jet gibst.}
+{398}{}{Du kannst mich, für ein bisschen Jet, in die Sklaverei verkaufen.}
 {399}{}{He, Schwester? Kannste mir fliegen helfen?}
 {400}{}{kommen Sie Miss, geben sie mir ein paar Chips.}
-{401}{}{He, äh... haste 'n bißchen Jet, Miss?}
+{401}{}{He, äh... haste 'n bisschen Jet, Miss?}
 {402}{}{Ich muss *fliegen*, weißt du was ich meine?}
-{403}{}{No, I'm off drugs. Uh... why? You buying?}
+{403}{}{Nein Schwester, ich bin davon runter. Äh... wieso? Hast du was?}
 {404}{}{Mom?}
 {420}{}{He, Typ? Kannste mir fliegen helfen?}
 {421}{}{Och Mensch, nur 'n paar Chips.}
@@ -158,7 +157,7 @@
 {424}{}{Ich tue alles für ein paar Chips oder etwas Jet, wenn du was davon hast.}
 {425}{}{Ich sollte hier Schönheitskönigin in Reno sein. Ich habs noch immer drauf...}
 {426}{}{Brauchst du jemanden mit dem du high werden kannst?}
-{427}{}{No, man, I'm off drugs. Uh... why? You buying?}
+{427}{}{Nein Mann, ich bin clean. Äh... wieso? Hast du was?}
 {428}{}{Dad?}
 {429}{}{Psssscht. Kannst du mir was Jet besorgen?}
 {430}{}{Kann ich mir 'n paar Chips leihen...? Die kriegste wieder.}
@@ -168,14 +167,14 @@
 {434}{}{Ich brauche dringend Medizin für meinen Sohn. Hilfst du mir.}
 {435}{}{Haste paar Chips über?}
 {436}{}{Ich brauche ein paar Chips um mir Essen zu kaufen...}
-{437}{}{Ich bin dein Sklave, wenn du mir ein bißchen Jet gibst.}
-{438}{}{Du kannst mich, für ein bißchen Jet, in die Sklaverei verkaufen.}
+{437}{}{Ich bin dein Sklave, wenn du mir ein bisschen Jet gibst.}
+{438}{}{Du kannst mich, für ein bisschen Jet, in die Sklaverei verkaufen.}
 {439}{}{kommen Sie Miss, geben sie mir ein paar Chips.}
 {440}{}{He, Schwester? Kannste mir fliegen helfen?}
 {441}{}{Ich tue alles... wenn du etwas Jet für mich hast.}
-{442}{}{He, äh... haste 'n bißchen Jet, Schwester?}
-{443}{}{Schwester, ich muß FLIEGEN, kapiert?}
-{444}{}{No, sister, I'm off drugs. Uh... why? You buying?}
+{442}{}{He, äh... haste 'n bisschen Jet, Schwester?}
+{443}{}{Schwester, ich muss FLIEGEN, kapiert?}
+{444}{}{Nee, Schwester, ich bin clean. Äh... wieso denn? Willste was kaufen?}
 {445}{}{Mom?}
 {450}{}{Heilige...! Was bist du? Eine Art von Ro-bot?}
 {451}{}{Was zum Teufel hast du genommen, dass du jetzt aus Metall bist?}
@@ -193,7 +192,7 @@
 {470}{}{He, wasiss los, Sklavenhändler?!}
 {471}{}{Du willst mir versklaven? Häh? Versuchs doch! Ich bin unsichtbar!}
 {472}{}{Versuche mich doch zu fangen Sklavenhändler!}
-{473}{}{Willste ein bißchen Jet Sklavenhändler?}
+{473}{}{Willste ein bisschen Jet Sklavenhändler?}
 {474}{}{Ich kann dich da unten kaum erkennen Sklavenhändler, so high bin ich.}
 {475}{}{Willste dich mit mir anlegen, Sklavenhändler? Ich bin ein Kraftwerk voll mit Jet! Ich mach dich FERTIG!}
 {476}{}{Willste mit mir fliegen?}
@@ -206,7 +205,7 @@
 {483}{}{Jagged Jimmys Stoff ist der Beste. du wirst so high du kommst gar nicht wieder runter.}
 {484}{}{Du redest mit mir? Du redest mit mir?!}
 {485}{}{Willst du hiervon was?! Na?}
-{486}{}{::Glares at you past drug-hazed eyes::}
+{486}{}{::Sieht dich mit einem von Chemikalien getrübten Blick an::}
 {487}{}{Willste mit mir fliegen?}
 {488}{}{Hey, Champ, wasiss los?!}
 {489}{}{Willst du mit mir boxen? Na los komm doch!}
@@ -224,7 +223,7 @@
 {510}{}{Du redest mit mir? Du redest mit mir?!}
 {511}{}{Willste dich mit mir anlegen, Gangster? Ich bin ein Kraftwerk voll mit Jet! Ich mach dich FERTIG!}
 {512}{}{willst du was davon Gangster?! Häh?}
-{513}{}{::Glares at you past drug-hazed eyes::}
+{513}{}{::Sieht dich mit einem von Chemikalien getrübten Blick an::}
 {520}{}{Puhh... wo bist DU denn drauf? Kann ich was abhaben?}
 {521}{}{Und ich hab gedacht, *ich* wär fertig.}
 {522}{}{Hey, Freund... teilst du dein Zeug mit mir.}
@@ -237,7 +236,7 @@
 {533}{}{Ich habe mich auch mal wie ein Roboter gefühlt... sag ihm er wird wieder ok, wenn er erstmal von seinem Tripp runter ist.}
 {534}{}{Was zum Henker ist mit deinem Freund mit dem Gehirn passiert, hat er seinen Körper verloren?}
 {535}{}{Sag mir, dass das Robogehirn nicht echt ist. Bitte.}
-{536}{}{Whoa. Check out the robot brain. There's your brain on drugs if I've ever seen it.}
+{536}{}{Sieh dir mal das Robohirn an. So was hab ich noch nie auf Drogen gesehen.}
 {537}{}{Willst du mit mir fliegen? Wie stehts mit deinem Robo-freund?}
 {538}{}{Willste dich mit mir anlegen, Robo-lover? Ich bin ein Kraftwerk voll mit Jet! Ich mach dich FERTIG und dann deinen Roboter!}
 {539}{}{Willst du was davon robot-lover?! Häh?}
@@ -248,9 +247,9 @@
 {544}{}{Wenn du für Renesco arbeitest, sag ihm er bekommt sein Geld morgen.}
 {545}{}{Jagged Jimmys Stoff ist der Beste. du wirst so high du kommst gar nicht wieder runter.}
 {546}{}{Du redest mit mir? Du redest mit mir?!}
-{547}{}{::Glares at you past drug-hazed eyes::}
+{547}{}{::Sieht dich mit einem von Chemikalien getrübten Blick an::}
 {548}{}{Schau jetzt nicht hin, Mann, aber da folgt dir ein Mutant.}
-{549}{}{Oh Mann. Ich muß was Schlechtes genommen haben... Hier rennen ja überall Mutanten herum.}
+{549}{}{Oh Mann. Ich muss was Schlechtes genommen haben... Hier rennen ja überall Mutanten herum.}
 {550}{}{Ich bin so high, oder ist dein Freund wirklich über 2 Meter groß?}
 {551}{}{::Lacht:: Dein Mutant hat einen Schraubstock an seiner Schulter.}
 {552}{}{Äh... das ist ein Mutant, oder bin ich so high?}
@@ -262,7 +261,7 @@
 {558}{}{willst du was davon Mutanten Freund?! Häh?}
 {560}{}{Mann, schau nicht hin, aber da folg dir ein Wilder.}
 {561}{}{Whoa. sieh dir mal diesen Wilden an. Big bone.}
-{562}{}{Boah. Weiß dein Freund, daß ihm ein Knochen aus der Nase wächst?}
+{562}{}{Boah. Weiß dein Freund, dass ihm ein Knochen aus der Nase wächst?}
 {563}{}{Boah. Ich muss schlechtes Zeug genommen haben... Ich habe gerade einen Kerl gesehen, dem ein Knochen durch die Nase wächst.}
 {564}{}{Bin ich so high, oder wächst deinen Freund wirklich ein Knochen durch die Nase?}
 {565}{}{Sag deinem Freund besser, dass er einen Knochen in der Nase hat.}
@@ -278,7 +277,7 @@
 {575}{}{Du redest mit mir? Du redest mit mir?!}
 {576}{}{Willste dich mit mir anlegen, Typ? Ich bin ein Kraftwerk voll mit Jet! Ich mach dich FERTIG!}
 {577}{}{Willst du hiervon was?! Na?}
-{578}{}{::Glares at you past drug-hazed eyes::}
+{578}{}{::Sieht dich mit einem von Chemikalien getrübten Blick an::}
 {600}{}{Nett...}
 {601}{}{Mmmm...}
 {602}{}{Du bist ein echter Freund.}

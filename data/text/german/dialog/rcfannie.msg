@@ -3,17 +3,17 @@
 {102}{}{Du siehst eine Frau, die mehr Abnutzung durch ihren Kilometerstand aufweist als durch ihr
  Alter.}
 {103}{}{[Fannie sieht definitiv ungesund aus, wie sie so auf dich zuschwabbelt.] Hallo,
- Schätzchen. Ich fühl mich in letzter Zeit nicht so ganz gut. Gibst du mir ein bißchen Geld,
- damit ich mich schnell erholen kann? Ich kann dafür sorgen, daß es sich auch für dich lohnt.
+ Schätzchen. Ich fühl mich in letzter Zeit nicht so ganz gut. Gibst du mir ein bisschen Geld,
+ damit ich mich schnell erholen kann? Ich kann dafür sorgen, dass es sich auch für dich lohnt.
  [grinst]}
 {104}{}{[Fannie sieht definitiv ungesund aus, wie sie so auf dich zuschwabbelt.] Hallo,
  Schwester, kannst du 'n paar Taler locker machen, um einem Mädel zu helfen, das gerade nicht so
  viel Glück hat? Nur bis ich wieder auf den Beinen bin.}
-{105}{}{[Fannie sieht gar nicht gesund aus.] Hallo, Freund, willste 'n bißchen Spaß haben mit
+{105}{}{[Fannie sieht gar nicht gesund aus.] Hallo, Freund, willste 'n bisschen Spaß haben mit
  Fannie? Für dich zum halben Preis, Liebster. Wo hab ich nur mein Jet hingetan?}
-{106}{}{[Fannie sieht gar nicht gesund aus.] Hey, du da, Lady! Bißchen Geld übrig? Oder
+{106}{}{[Fannie sieht gar nicht gesund aus.] Hey, du da, Lady! Bisschen Geld übrig? Oder
  vielleicht sogar etwas Jet?}
-{107}{}{Fannie, du siehst ja schlimm aus. Warum läßt du nicht 'ne Weile die Finger vom Jet.}
+{107}{}{Fannie, du siehst ja schlimm aus. Warum lässt du nicht 'ne Weile die Finger vom Jet.}
 {108}{}{Ich glaube, du hast schon genug von meiner Wohltätigkeit genossen und es scheint dir gar
  nicht zu helfen..}
 {109}{}{Du hast genug für heute.}
@@ -24,7 +24,7 @@
  noch jede Menge Leute, die für Fannies Charme zahlen mögen. Wenn du mir kein Geld für Jet gibst,
  geh mir doch aus den Augen.}
 {113}{}{Ich habe etwas, das dich von deiner Jet-Sucht heilen sollte.}
-{114}{}{Such dir doch einen anderen Dummen, Fannie. Tschüß.}
+{114}{}{Such dir doch einen anderen Dummen, Fannie. Tschüss.}
 {115}{}{Du bringst dich noch um, wenn du so weitermachst. Ich will dir dabei nicht zusehen.
  Wiedersehn.}
 {116}{}{Bist du nicht 'n toller Anblick.}
@@ -33,8 +33,8 @@
 {119}{}{Du hast die Intelligenz auch nicht gerade mit Löffeln geschluckt, was?}
 {120}{}{Du hast ja wohl den IQ von Knäckebrot, was?}
 {121}{}{Heilen? Was, bist du irre? Seh ich so aus, als ob ich geheilt werden möchte? Willst du,
- daß es mir besser geht, Schätzchen? Dann gib mir noch 'n bißchen Jet.}
-{122}{}{Na gut, nur ein bißchen, damit du über die Runden kommst, wird wohl keinen Schaden
+ dass es mir besser geht, Schätzchen? Dann gib mir noch 'n bisschen Jet.}
+{122}{}{Na gut, nur ein bisschen, damit du über die Runden kommst, wird wohl keinen Schaden
  anrichten. Hier hast du etwas Jet.}
 {123}{}{Du hattest schon mehr Jet, als für dich gut ist. Noch einem der Jet zu sich nimmt
  zusehen, ist wirklich das Letzte, was ich jetzt brauche. Wiedersehn.}
@@ -46,16 +46,16 @@
 {129}{}{Hallo, Schwester, suchst du Arbeit?}
 {130}{}{Äh, ja. Ich bin hier, um dich zu besuchen.}
 {131}{}{Arbeit? Was für Arbeit?}
-{132}{}{Äh, ich hab mich nur mal umgesehen. Tschüß.}
+{132}{}{Äh, ich hab mich nur mal umgesehen. Tschüss.}
 {133}{}{Na, bist du nicht süß. Machst einen auf schüchtern und so. Das kostet dich $60 für
  einen Besuch bei mir, Schnucki.}
-{134}{}{Vielleicht hältst du es ja dieses Mal ein bißchen länger aus, Süßer. Dann kriegst du mehr
+{134}{}{Vielleicht hältst du es ja dieses Mal ein bisschen länger aus, Süßer. Dann kriegst du mehr
  für deine $60.}
 {135}{}{Ganz langsam, Baby. Ich mach es dir wirklich nett für deine $60.}
 {136}{}{$60, was? Hört sich mir nach einem guten Preis an. Hier ist dein Geld.}
 {137}{}{Danke für das Angebot, aber ein anderes Mal wäre es vielleicht besser. Wiedersehn.}
-{138}{}{$60? Ich glaube nicht, daß ich dich für so einen Preis besuchen möchte. Wiedersehn.}
-{139}{}{Du bist so nett zu mir gewesen. Hatte das Gefühl, daß es dir wirklich was bedeutet hat,
+{138}{}{$60? Ich glaube nicht, dass ich dich für so einen Preis besuchen möchte. Wiedersehn.}
+{139}{}{Du bist so nett zu mir gewesen. Hatte das Gefühl, dass es dir wirklich was bedeutet hat,
  als du das getan hast. [Schluchz] Ich wünschte nur, es wäre immer so.}
 {140}{}{Naja, wenn du bei mir bist, ist es das.}
 {141}{}{Du weißt wirklich, wie man mit Worten umgeht.}
@@ -63,7 +63,7 @@
  führen. Sobald ich Lou ausbezahlen kann.}
 {143}{}{Lou ausbezahlen?}
 {144}{}{Hey, ich habe dir schon Geld gegeben. Wovon sprichst du überhaupt?}
-{145}{}{Tja, Naja... ich schuld Lou 'n bißchen Geld und ich kann hier erst weg, wenn ich es ihr
+{145}{}{Tja, Naja... ich schuld Lou 'n bisschen Geld und ich kann hier erst weg, wenn ich es ihr
  gegeben habe. Aber sobald ich das kann, [schnüff] schnapp ich mir meinen Süßen und hau so weit
  wie möglich von diesem Leben ab. Wenn ich nur etwas mehr Geld zusammenkriegen könnte.}
 {146}{}{Wieviel Geld brauchst du denn noch, um Lou auszahlen zu können?}
@@ -77,16 +77,16 @@
  dir hier raushelfen. Hier sind $200.}
 {151}{}{Hört sich wirklich traurig an. Naja, dann solltest du dich wohl besser an die Arbeit
  machen. Wiedersehn.}
-{152}{}{Oh, vielen Dank, Mister. Dankeschön. Ich hätt nie gedacht, daß irgend jemand im
+{152}{}{Oh, vielen Dank, Mister. Dankeschön. Ich hätt nie gedacht, dass irgend jemand im
  wirklichen Leben so nett sein könnte. Du bist doch der Beste. Noch mal danke. Hey, wie wär's
  mit einer freien Runde? Auf das Haus?}
 {153}{}{Na klar, Fannie. Da sag ich nicht nein.}
-{154}{}{Das ist eigentlich nicht nötig, Fannie. Sieh einfach zu, daß du diesem Leben mit dem Geld
+{154}{}{Das ist eigentlich nicht nötig, Fannie. Sieh einfach zu, dass du diesem Leben mit dem Geld
  entkommst. Wiedersehn.}
 {155}{}{Er möchte ja, aber als Bergarbeiter verdient er kaum genug zum Leben. Wir hoffen ja 
- immer, daß er mal das große Glück hat, aber das ist noch nicht passiert. Und letzte Woche ist
+ immer, dass er mal das große Glück hat, aber das ist noch nicht passiert. Und letzte Woche ist
  ihm ein Balken aufs Bein gefallen und hat's gebrochen und jetzt kann er nicht arbeiten. Jetzt
- muß ich ihm das bißchen Geld geben, das ich übrig hab, bis es ihm wieder besser geht.}
+ muss ich ihm das bisschen Geld geben, das ich übrig hab, bis es ihm wieder besser geht.}
 {156}{}{Hört sich so an, als hättet ihr beiden 'ne Menge Pech gehabt. Wieviel brauchst du noch
  mal?}
 {157}{}{Noch mal danke, Mister. Ich kann es kaum erwarten, das meinem Freund zu erzählen. Wir
@@ -96,7 +96,7 @@
 {159}{}{Das wird ein Verlust für die Branche, wenn du gehst, Fannie. Wiedersehn.}
 {160}{}{Hey du. Möchtest du etwas Zeit mit Fannie verbringen?}
 {161}{}{Habe ich dir nicht Geld gegeben, damit du damit aufhören kannst?}
-{162}{}{Klar, hört sich gut an. Prima, daß ich dich noch erwische, bevor du abhaust.}
+{162}{}{Klar, hört sich gut an. Prima, dass ich dich noch erwische, bevor du abhaust.}
 {163}{}{Naja... aber es sieht so aus, als ob ich Lou doch mehr schulde, als ich dachte.}
 {164}{}{Wieviel mehr?}
 {165}{}{Ich hab genug davon gehört. Wiedersehn.}
@@ -108,7 +108,7 @@
  noch $150.}
 {170}{}{Naja, wenn das alles ist, was du brauchst. Aber das ist wirklich alles. Das meine ich so.}
 {171}{}{Ja, klar. Ich bin schon weg. Wiedersehn.}
-{172}{}{Hey, du da, du bist ja zurück. Suchst du ein bißchen Spaß, oder bist du wiedergekommen,
+{172}{}{Hey, du da, du bist ja zurück. Suchst du ein bisschen Spaß, oder bist du wiedergekommen,
  um mir etwas Geld für Lou zu geben?}
 {173}{}{Diesmal bin ich nur für den Spaß da, Fannie. Wir werden ja sehen, wie es läuft.}
 {174}{}{Wieviel brauchst du denn für Lou?}
@@ -127,11 +127,12 @@
 {184}{}{Wirklich? Vielleicht ist das doch nichts für mich. Trotzdem danke für das Angebot.
  Wiedersehn.}
 {185}{}{Ich weiß ja nicht, wie du das durchstehst, aber wahrscheinlich tust du das ja nie.
- Stehen, meine ich. Tschüß.}
-{186}{}{[Fannie looks like a great weight has been lifted from her shoulders] Hey, it's you! Lou told
- me what you did. That stuff she slipped me sure made me sick, but I haven't felt a need for Jet since
- then. (She kisses you on the cheek) I don't know how I can ever thank you... well, I do know *one* way.
- Whenever you're in the mood, just come on by; free of charge. (wink)}
+ Stehen, meine ich. Tschüss.}
+{186}{}{[Fannie scheint eine große Last von den Schultern zu fallen.] Hey, du bist's! Lou hat
+ mir schon erzählt was du getan hast. Das Zeug was sie mir eingeflößt haben hat mich sicher krank gemacht, aber
+ seitdem hatte ich kein Bedürfnis mehr nach Jet. [Sie küsst dich auf die Wange.] Ich stehe für immer in deiner Schuld...
+ vielleicht kann ich wenigstens ein wenig davon begleichen auf eine *ganz besondere* Art. 
+ Wann immer du in Stimmung bist, komm einfach vorbei. [wink]}
 {187}{}{Ich werd darauf zurückkommen. Danke, Fannie.}
 {188}{}{Nochmal danke. [Verführerisch] Und denk daran, bei dir geht alles aufs Haus. [wink]}
 {189}{}{Hey! Lust Fannie zu besuchen? Auf Kosten des Hauses natürlich. [grinst]}

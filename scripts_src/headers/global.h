@@ -1076,6 +1076,7 @@
 #define ACCEPT_DELIVERY_ASSIGNED            (1)
 #define ACCEPT_DELIVERY_HAPPY               (2)
 #define ACCEPT_DELIVERY_DEATH               (3)
+#define ACCEPT_DELIVERY_FAILED              (4) // attacked Bishop
 
 #define HOLODISK_ACCEPTED                   (1)
 #define HOLODISK_DECLINED                   (2)

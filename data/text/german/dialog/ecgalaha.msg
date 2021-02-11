@@ -1,6 +1,6 @@
 {100}{}{Ein Mann in Powerrüstung.}
 {101}{}{Sir Galahad.}
-{102}{}{Er wird rot, als er bemerkt, daß du ihn anstarrst.}
+{102}{}{Er wird rot, als er bemerkt, dass du ihn anstarrst.}
 {103}{}{Sir Galahad bereit!}
 {104}{}{Ich war mal im Gefängnis der Festung Anthrax.}
 {105}{}{Sir Lancelot rettete mich. Hol ihn der Teufel!}

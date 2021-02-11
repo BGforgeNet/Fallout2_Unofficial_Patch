@@ -65,5 +65,5 @@
 {291}{}{¿Quieres un trago de combustible para lanzallamas?}
 {292}{}{Aquí hay algo de combustible para lanzallamas. ¿Puedes hacer algo con ello?}
 {301}{}{Le das tu picana. Eh... después de asegurarte de que la toma por la empuñadura.}
-{302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
+{302}{}{Su BeatCo "Más Grande Frigger" El Poder Del Puño.}
 {400}{}{Yo matado Al. Mejor marcho de aquí}

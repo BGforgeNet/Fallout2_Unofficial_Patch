@@ -87,7 +87,7 @@
 {1001}{}{Puedo hacerlo.}
 {1002}{}{Lo tengo.}
 {1003}{}{Encantado de ayudar.}
-{1004}{}{De acuerdo.}
+{1004}{}{Vale.}
 {1005}{}{Lo intentaré.}
 {1100}{}{Si tienes problemas, avísame.}
 {1101}{}{¿Lo tienes?}

@@ -55,7 +55,7 @@
 {154}{}{Keine Nadeln mehr, nie wieder!}
 {155}{}{Ich halte es nicht aus, die Wände erdrücken mich!}
 {156}{}{(schluchz, schluchz)}
-{157}{}{Laß mein Volk ziehen!}
+{157}{}{Lass mein Volk ziehen!}
 {158}{}{Älteste, führe uns.}
 {159}{}{Womit haben wir diese bösen Geister beleidigt?}
 {160}{}{Das gefällt mir nicht besonders.}
@@ -66,7 +66,7 @@
 {165}{}{Ich verlange, befreit zu werden.}
 {166}{}{Ich bin ein Bürger der Vereinigten Staaten und ich verlange, den Verantwortlichen zu
  sprechen.}
-{167}{}{Laßt mich raus.}
+{167}{}{Lasst mich raus.}
 {168}{}{Das ist so langweilig.}
 {169}{}{Keine Medizin mehr. Ich halte es nicht mehr aus.}
 {170}{}{Sie können uns nicht ewig hier drinnen behalten.}

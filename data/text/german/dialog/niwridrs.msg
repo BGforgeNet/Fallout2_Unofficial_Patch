@@ -1,4 +1,4 @@
-{200}{}{Du weißt, daß dies Richards Zimmer ist und durchsuchst daher gründlich seine Kommode.}
+{200}{}{Du weißt, dass dies Richards Zimmer ist und durchsuchst daher gründlich seine Kommode.}
 {201}{}{He. Ich habe einen leeren Jet-Kanister unter der Kommode entdeckt.}
 {202}{}{Sonst ist hier nichts.}
-{250}{}{You found a... clue. Beneath the dresser. In the Wright mansion.}
+{250}{}{Du findest eine...Spur. Unter der Kommode. In der Villa Wright.}

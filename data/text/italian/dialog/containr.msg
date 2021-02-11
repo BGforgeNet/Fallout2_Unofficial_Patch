@@ -111,3 +111,6 @@
 {211}{}{ non riesce a piazzare una trappola nel contenitore.}
 {212}{}{Vedi un refrigeratore.}
 {400}{}{Apri il contenitore.}
+{601}{}{It is open, dummy.}
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}

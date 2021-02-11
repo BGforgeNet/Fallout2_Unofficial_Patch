@@ -54,10 +54,10 @@
 {450}{}{Hombres}
 {451}{}{Mujeres}
 {452}{}{Niños}
-{453}{}{Super mutants}
+{453}{}{Supermutantes}
 {454}{}{Necrófagos}
 {455}{}{Brahmin}
-{456}{}{Escorpiones}
+{456}{}{Escorpiones Rad}
 {457}{}{Ratas}
 {458}{}{Nómadas}
 {459}{}{Centauros}
@@ -125,7 +125,7 @@
 {551}{}{\nError: obj_examine: proto_ptr failed!}
 {580}{}{Usas %s.}
 {581}{}{Usas %s en %s.}
-{582}{}{Eso no hizo nada.}
+{582}{}{Eso no hace nada.}
 {583}{}{Para tu consternación, te das cuenta de que ya está muerto.}
 {584}{}{Cuando llegas, te das cuenta de que ya está muerto.}
 {585}{}{Desafortunadamente, llegas demasiado tarde.}
@@ -138,10 +138,10 @@
 {596}{}{El coche ya está lleno de energía.}
 {597}{}{La puerta parece bloqueada.}
 {620}{}{Ganas %d puntos de experiencia por matar: %s.}
-{621}{}{%s ganas %d puntos de experiencia.}
+{621}{}{%s que la ganancia de %d puntos de experiencia.}
 {622}{}{Por derrotar a tus enemigos,}
 {623}{}{Por asesinar a tus enemigos,}
-{624}{}{Por salir vencedor en combate,}
+{624}{}{Para ser victorioso en el combate,}
 {625}{}{Por aplastar a tus enemigos,}
 {626}{}{Por destruir a tus enemigos sin sufrir un rasguño,}
 {650}{}{[HECHO]}
@@ -153,7 +153,7 @@
 {656}{}{Err...}
 {660}{}{No puedes mirar ahí.}
 {661}{}{Demasiado lejos.}
-{670}{}{De acuerdo.}
+{670}{}{Vale.}
 {671}{}{Claro.}
 {672}{}{Como quieras.}
 {673}{}{Lo que tu digas.}
@@ -185,7 +185,7 @@
 {1453}{}{Supermutantes}
 {1454}{}{Necrófagos}
 {1455}{}{Brahmin}
-{1456}{}{Escorpiones}
+{1456}{}{Escorpiones Rad}
 {1457}{}{Ratas}
 {1458}{}{Nómadas}
 {1459}{}{Centauros}

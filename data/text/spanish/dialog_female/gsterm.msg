@@ -83,7 +83,7 @@
 {304}{}{Ups.}
 {305}{}{Será mejor que tenga más cuidado.}
 {306}{}{Será mejor que no cometa un error esta vez.}
-{307}{}{Eso no ha sonado bien.}
+{307}{}{Eso no suena bien.}
 {308}{}{Desconexión.}
 {310}{}{Introducir código secundario secuencial de acceso de seguridad: 70Y644, 008Z21, 9X7299, A46123.}
 {311}{}{70Y644}

@@ -8,11 +8,11 @@
 {107}{}{Ich brauche einige Informationen.}
 {108}{}{Klar, zeig mir was du hast.}
 {109}{}{Nicht jetzt.}
-{110}{}{Ich habe gelernt, daß du um so länger lebst, je weniger du weißt. Ich habe keine weiteren
+{110}{}{Ich habe gelernt, dass du um so länger lebst, je weniger du weißt. Ich habe keine weiteren
  Informationen für dich. Möchtest du meine Waren sehen?}
 {111}{}{Ja.}
 {112}{}{Nein.}
-{113}{}{Gut. Laß mal sehen.}
+{113}{}{Gut. Lass mal sehen.}
 {114}{}{}
 {115}{}{OK.}
 {116}{}{Noch irgendwas?}

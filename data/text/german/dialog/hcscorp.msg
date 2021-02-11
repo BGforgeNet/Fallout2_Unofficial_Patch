@@ -1,4 +1,4 @@
-{100}{}{Paﬂ auf! Das ist ein Radskorpion!}
+{100}{}{Pass auf! Das ist ein Radskorpion!}
 {101}{}{Wenn man genauer hinschaut, scheint dieser Skorpion eine drahtumrandete Brille zu tragen.
  Eigentlich sieht das eher intelligent als gef‰hrlich aus.}
 {102}{}{::klick:: ::klick klack::}

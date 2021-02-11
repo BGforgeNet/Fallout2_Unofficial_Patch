@@ -13,11 +13,11 @@
 {224}{}{(Es ist vermutlich das Beste, ihn in Ruhe zu lassen.)}
 {230}{}{Was soll diese beschissene Frage?}
 {231}{}{Sachte, sachte. Ich bin nur neugierig.}
-{232}{}{Schon gut, vergiß es.}
+{232}{}{Schon gut, vergiss es.}
 {240}{}{Jetzt beherrsch dich mal.}
 {241}{}{Aber erst mach ich Sägespäne aus dir.}
 {250}{}{(Der Mann wendet seinen finsteren Blick dir zu.) Siehst vollkommen bescheuert aus.}
 {251}{}{Jetzt mach aber mal halblang. Ich hab dich nur nach deiner Meinung gefragt.}
-{252}{}{Äh...danke, daß du so ehrlich warst.}
-{260}{}{(Er macht eine Handbewegung, die besagt: Halt's Maul und laß mich weitersaufen.)}
+{252}{}{Äh...danke, dass du so ehrlich warst.}
+{260}{}{(Er macht eine Handbewegung, die besagt: Halt's Maul und lass mich weitersaufen.)}
 {261}{}{(Es ist vermutlich das Beste, ihn in Ruhe zu lassen.)}

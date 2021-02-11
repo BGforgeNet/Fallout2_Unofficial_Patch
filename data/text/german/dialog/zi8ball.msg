@@ -3,7 +3,7 @@
 {200}{}{Die Aussichten sind gut.}
 {201}{}{Die Aussichten sind nicht so gut.}
 {202}{}{Meine Antwort ist nein.}
-{203}{}{Verlaß dich nicht darauf.}
+{203}{}{Verlass dich nicht darauf.}
 {204}{}{Darauf kannst du dich verlassen.}
 {205}{}{Frag später noch mal.}
 {206}{}{Höchstwahrscheinlich.}
@@ -29,8 +29,8 @@
 {226}{}{Mir wird schlecht.}
 {227}{}{Mir wird übel.}
 {228}{}{Deine Hände sind warm.}
-{229}{}{Feargus war dagegen, daß ich bei Fallout mitmachen darf. Er is' 'n ziemlicher Fiesling.}
-{230}{}{Du hast 23 von 100 Punkten. Du mußt dich noch ganz schön anstrengen.}
+{229}{}{Feargus war dagegen, dass ich bei Fallout mitmachen darf. Er is' 'n ziemlicher Fiesling.}
+{230}{}{Du hast 23 von 100 Punkten. Du musst dich noch ganz schön anstrengen.}
 {231}{}{Scott Everts stößt einen tiefen Seufzer aus, wenn er sieht, wie viele Inventarobjekte
  im Spiel sind.}
 {232}{}{Sieh im Mordino-Kasino in New Reno in der Herrentoilette im ersten Stock nach.}
@@ -40,7 +40,7 @@
 {236}{}{Hör auf, mich so fest zu schütteln.}
 {237}{}{Du hast 'ne ziemliche GLÜCKSSTRÄHNE. Wenn du mich weiterschüttelst, kannst du noch mehr
  rausholen!}
-{238}{}{Ja, wir WISSEN, daß "Descent to Undermountain" Müll war.}
+{238}{}{Ja, wir WISSEN, dass "Descent to Undermountain" Müll war.}
 {239}{}{Wenn du Bessie an die Metzger in Modoc verkaufst, kannst du sie wieder befreien.}
 {240}{}{Achte auf das, was Curtis sagt, wenn du ihm Mr. Nixon nach Vault City zurückbringst.}
 {241}{}{Bei diesem Ehestreit in Broken Hills hat die Frau tatsächlich die Cat's Paw in den Müll geworfen.}

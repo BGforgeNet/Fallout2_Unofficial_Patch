@@ -2,7 +2,7 @@
 {101}{}{Du siehst einen Mann mit wilden Augen, ungepflegtem Bart und krächzender Stimme. Sein linkes Auge sieht so aus, als würde es gleich aus seinem Kopf springen.}
 {102}{}{Du siehst den Wächter der Todesbrücke.}
 {103}{}{Du siehst einen Mann mit wilden Augen, ungepflegtem Bart und krächzender Stimme. Sein linkes Auge sieht so aus, als würde es gleich aus seinem Kopf springen.}
-{104}{}{Stop! Wer die Todesbrücke beschreiten will, muß erst Antworten der Fragen drei, bevor ich geb den Weg ihm frei.}
+{104}{}{Stop! Wer die Todesbrücke beschreiten will, muss erst Antworten der Fragen drei, bevor ich geb den Weg ihm frei.}
 {105}{}{Cee...Deeee...Eee...efff...Gggee}
 {106}{}{Geh weg.}
 {107}{}{Na schön.}
@@ -30,7 +30,7 @@
 {129}{}{Meine entführte Sippe zu finden.}
 {130}{}{Einen kaputten Tanker zu reparieren.}
 {131}{}{Äh...Anliegen?}
-{132}{}{Vielleicht komm ich einfach wieder, wenn du dich 'n bißchen besser fühlst.}
+{132}{}{Vielleicht komm ich einfach wieder, wenn du dich 'n bisschen besser fühlst.}
 {133}{}{Welche inaktive Figur aus Fallout 1 überlebte für die Folgeversion, obwohl die besagte Person jetzt wohl schon sehr alt sein dürfte?}
 {134}{}{Welche inaktive Figur aus Fallout 1 überlebte für die Folgeversion?}
 {135}{}{Wiiie alt?}
@@ -69,11 +69,11 @@
 {168}{}{Keine Ahnung!}
 {169}{}{Der Spieler löst sich auf.}
 {170}{}{Ha-ha.}
-{171}{}{Irgendwie habe ich das Gefühl, daß ich mein Spiel als ganz neuen Eintrag speichern sollte.}
+{171}{}{Irgendwie habe ich das Gefühl, dass ich mein Spiel als ganz neuen Eintrag speichern sollte.}
 {172}{}{wie dajn Nahme?}
 {173}{}{Ich darf nie die guten Fragen stellen.}
 {174}{}{Ich werde mit meinem Agenten darüber sprechen.}
-{175}{}{Ich hab ihm schon so oft gesagt, daß ich nicht mehr diese idiotischen Dinger machen will.}
+{175}{}{Ich hab ihm schon so oft gesagt, dass ich nicht mehr diese idiotischen Dinger machen will.}
 {176}{}{Wie soll ich die Anerkennung kriegen, die ich verdiene, wenn ich nur in Low-Budget-Filmen und Videospielen zu sehen bin?}
 {177}{}{Hmmm. Ich sollte mir wirklich ernsthaft überlegen, ob ich nicht besser eine Kfz-Werkstatt aufmache.}
 {178}{}{Ich hab gehört, damit wird heutzutage das große Geld gemacht. }

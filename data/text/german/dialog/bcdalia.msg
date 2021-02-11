@@ -16,9 +16,9 @@
 {115}{}{Ich wollen reden.}
 {116}{}{Ja, ich gehn.}
 {117}{}{Ich möchte mit dir reden.}
-{118}{}{Tschüß.}
+{118}{}{Tschüss.}
 {119}{}{Ich sagte, ich bin Dalia. Ich will nicht unhöflich sein, aber im Moment möchte ich allein sein. OK?}
-{120}{}{Okay, Tschüß.}
+{120}{}{Okay, Tschüss.}
 {121}{}{Nur wenig noch.}
 {122}{}{Dann geh ich.}
 {123}{}{Ich möcht dich nur was fragen.}
@@ -35,7 +35,7 @@
 {134}{}{Oh nein, die Nervensäge schon wieder. He, ich hab dir nichts zu erzählen. Hau ab!}
 {135}{}{}
 {136}{}{}
-{137}{}{Ich will keinen Ärger mit dir. Laß mich in Ruhe.}
+{137}{}{Ich will keinen Ärger mit dir. Lass mich in Ruhe.}
 {138}{}{}
 {139}{}{}
 {140}{}{Hallo, ich bin Dalia. Was kann ich für dich tun?}
@@ -48,12 +48,12 @@
 {147}{}{Oh, okay.}
 {148}{}{Mädchen in Gefahr. Junges Mädchen. Jemand Tochter. Du helfen bitte?}
 {149}{}{Ich hab keine Zeit für deinen Mist.}
-{150}{}{Schön, Tschüß.}
+{150}{}{Schön, Tschüss.}
 {151}{}{Schau mal, das Leben eines Mädchens steht hier auf dem Spiel. Die Tochter einer besorgten Mutter. Kannst du mir bitte helfen?}
 {152}{}{Interessiert mich einen Sch... tut mir leid. Ich hab den Auftrag, hier zu stehen und diesen Pfad zu bewachen. Sonst weiß ich nicht, was hier los ist. Ich hatte auch mal eine Tochter und... ja, hier ist jemand vorbeigekommen. Ich hab ihn passieren lassen, weil er das richtige Zeichen kannte... so wie das Zeichen, das du gemacht hast. Geh weiter; ich verzieh mich.}
 {153}{}{Danke. Ich nicht vergessen, Dalia.}
 {154}{}{Danke. Das werde ich dir nie vergessen, Dalia.}
-{155}{}{Dann geh zum Teufel und laß mich hier in Ruhe.}
+{155}{}{Dann geh zum Teufel und lass mich hier in Ruhe.}
 {156}{}{OK.}
-{157}{}{Dann geh zum Teufel und laß mich hier in Ruhe.}
+{157}{}{Dann geh zum Teufel und lass mich hier in Ruhe.}
 {158}{}{OK.}

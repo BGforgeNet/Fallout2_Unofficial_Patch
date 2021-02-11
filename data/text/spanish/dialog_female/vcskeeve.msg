@@ -103,7 +103,7 @@ No parecen concebir que alguien deje que los siervos lleven encima nada importan
 {193}{}{Tú de nuevo. ¿Qué quieres?}
 {194}{}{¿Ref-fugio? ¡Ref-fugio!}
 {195}{}{Dejas de balbucear}
-{196}{}{¿Qué es este lugar?}
+{196}{}{¿Qué lugar es éste?}
 {197}{}{Me gustaría entrar en la ciudad.}
 {198}{}{Me gustaría adquirir esos documentos de Ciudadanía falsos que me ofreciste antes.}
 {199}{}{He decidido entregarte por vender documentos de Ciudadanía falsos.}
@@ -144,11 +144,11 @@ No parecen concebir que alguien deje que los siervos lleven encima nada importan
 {232}{}{¿Qué hace falta para convertirse en auténtico Ciudadano?}
 {233}{}{¿Y qué si lo hago? Podría contarle ahora mismo que estás vendiendo documentos de Ciudadanía falsos.}
 {234}{}{Eso espero. Puedo ser muy persuasivo.}
-{235}{}{Eso lo veremos.}
+{235}{}{Eso ya lo veremos.}
 {236}{}{¡Ja! Me gustaría ver cómo lo intentas. Wallace nunca te creerá.}
 {237}{}{Oh, creo que lo hará en cuanto vea los documentos de Ciudadanía falso que me has dado. Desde luego, si
  resulta que llevas algo de dinero encima, éste puede ser nuestro pequeño secreto.}
-{238}{}{Eso lo veremos.}
+{238}{}{Eso ya lo veremos.}
 {239}{}{Me quedaré con los documentos de Ciudadanía, entonces.}
 {240}{}{Bueno, 200 dólares es demasiado para mí. Puede que vuelva si consigo más dinero.}
 {241}{}{No, gracias. Quizá en algún otro momento.}

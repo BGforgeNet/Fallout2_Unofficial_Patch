@@ -1,4 +1,4 @@
-{100}{}{You see a drug addict.}
+{100}{}{Du siehst einen Jetie.}
 {110}{}{Du siehst eine Jet-Prostituierte.}
 {111}{}{Du siehst eine von Tubbys Jet-Prostituierten.}
 {150}{}{Sie scheint eine Freundin von Tubby zu sein.}
@@ -27,7 +27,7 @@
 {233}{}{Hat das Tätowieren weh getan?}
 {234}{}{Ihr Sklavenhändler seid echt harte Typen.}
 {235}{}{Ist es nicht gefährlich, Sklavenhändler zu sein?}
-{236}{}{Hey, ich hab gehört, dein Boß wurde erschossen oder so. So'n Pech.}
+{236}{}{Hey, ich hab gehört, dein Boss wurde erschossen oder so. So'n Pech.}
 {237}{}{Hey, haste gehört? Metzger ist tot oder sowas.}
 {238}{}{Wow, irgend jemand hat Metzger den Schlächter zu Hackfleisch verarbeitet.}
 {239}{}{Ich hoffe Tubby bleibt im Geschäft, wenn Metz weg ist. }
@@ -47,7 +47,7 @@
 {271}{}{Ja, weißt du was es war?}
 {272}{}{Ich denke, es war ein Vogel.}
 {273}{}{Nein, ein Hund.}
-{274}{}{But it was flying, man.}
+{274}{}{Aber es flog, Mann.}
 {275}{}{Niemals, es rauschte über den Boden.}
 {276}{}{Eh, du bildest dir Sachen ein. }
 {277}{}{Och Komm. Das war Wirklichkeit.}
@@ -67,7 +67,7 @@
 {301}{}{Tiere leben auf Bäumen.}
 {302}{}{Nein, nicht Frauen und Bäume, Frauen und Kartoffeln.}
 {303}{}{Ich kann auf Bäume klettern.}
-{304}{}{Eine Frau, die auf einen Baum klettert und Kartoffeln ißt? Du bist bescheuert.}
+{304}{}{Eine Frau, die auf einen Baum klettert und Kartoffeln isst? Du bist bescheuert.}
 {305}{}{Wo kommen die Bäume her?}
 {306}{}{Du kannst nicht auf einen Baum klettern und Kartoffeln essen.}
 {307}{}{Büsche mag ich auch. }
@@ -85,20 +85,20 @@
 {326}{}{Bitte geh einfach nur.}
 {327}{}{Ich kann jetzt nicht sprechen, Mädel. Die verdammten Kopfschmerzen bringen mich um.}
 {340}{}{Oh Mann, du bist ätzend.}
-{341}{}{Warum mußtest du gehen und einen perfekten Rausch zerstören?}
+{341}{}{Warum musstest du gehen und einen perfekten Rausch zerstören?}
 {342}{}{Mann, das tut weh.}
 {343}{}{Was zum Henker.}
 {344}{}{Wie soll das denn vor sich gehen?}
 {400}{}{Tubby ist so wunderbar.}
 {401}{}{Jet macht mich so scharf.}
-{402}{}{Tubby weiß, wie er sich um seine Frauen kümmern muß.}
+{402}{}{Tubby weiß, wie er sich um seine Frauen kümmern muss.}
 {403}{}{Ist Tubby nicht wunderbar?}
 {404}{}{Oh, Baby - Warte mal! Du bist nicht Tubby.}
 {405}{}{Was macht unser großer Mann gerade?}
 {406}{}{Prickelt deine Haut nicht auch davon?}
 {407}{}{Tubby hat die beste Ware in der Stadt.}
 {408}{}{Ich fühl mich so lebendig!}
-{420}{}{Did you hear a loud bang?}
+{420}{}{Hast du einen lauten Knall gehört?}
 {421}{}{Hab Tubby schon seit einer Weile nicht mehr gesehen.}
 {422}{}{Wo ist Tubby?}
 {423}{}{Tubby gesehen?}
@@ -113,5 +113,5 @@
 {461}{}{Bitte nicht!}
 {462}{}{Ich hab's nicht genommen!}
 {463}{}{Ich war's nicht!}
-{464}{}{Laß mich in Ruh!}
-{465}{}{Ich wußte nicht, daß es deins war.}
+{464}{}{Lass mich in Ruh!}
+{465}{}{Ich wusste nicht, dass es deins war.}

@@ -7,16 +7,16 @@
 {106}{}{¡Guardias! ¡Alerta!}
 {107}{}{¿Qué quieres?}
 {108}{}{¿Kurg?}
-{109}{}{¿Qué es este lugar?}
+{109}{}{¿Qué lugar es éste?}
 {110}{}{Los Rangers me enviaron.}
 {111}{}{Estoy buscando al propietario.}
 {112}{}{Hermano esclavista, tengo algunas preguntas.}
 {113}{}{Perdón, tipo equivocado.}
 {114}{}{Vamos, Fuera de aquí. ¡Ya tengo demasiados guardias idiotas!}
 {115}{}{¿Qué te pasa imbécil, estás ciego? Es un centro de esclavos. Si quieres saber más, habla con Vortis.}
-{116}{}{Is that so? Well, I'm sending you back in a body bag.}
+{116}{}{¿Es así? Bueno, yo voy a enviar de vuelta a un cuerpo de la bolsa.}
 {117}{}{Ese sería Vortis, el viejo.}
-{118}{}{Thanks. Say, you seem like a bright guy. I'll bet you can help me out with a few questions.}
+{118}{}{Gracias. Decir, que usted se parece como un brillante hombre. Apuesto a que usted me puede ayudar con un par de preguntas.}
 {119}{}{El viejo, ¿eh? Está bien.}
 {120}{}{Ahora bien, si pones las cosas de esa manera, no podría decir que no. ¿Qué tienes en mente?}
 {121}{}{Gracias, forastero.}
@@ -42,7 +42,7 @@
 {141}{}{El Enclave.... verás, hay un doctor en la ciudad, se hace llamar Henry. Una noche que estaba borracho empezó a hablar como un loco de unos tipos y los llamó El Enclave.}
 {142}{}{Eso es justo lo que necesitaba saber. Eres un hombre bien informado.}
 {143}{}{No quiero molestarte más. Gracias.}
-{144}{}{Me, I'm always on the lookout - problem is, nobody ever wants to hire a slaver anymore. Vortis, my boss, has got something hush-hush. And in town the ranchers at the Stockman's Association are always hiring plus Dorothy can always use a hand at the power plant if you got skills. Word is even President Tandi's looking for a specialist.}
+{144}{}{A mí, siempre estoy en la búsqueda - problema es que nadie quiere contratar a un esclavista más. Vortis, mi jefe, tiene algo de hush-hush. Y en la ciudad de los hacendados en el Vaquero de la Asociación son siempre la contratación de más de Dorothy siempre se puede utilizar una mano en la planta de energía si usted tiene las habilidades. La palabra es aún el Presidente Tandi que busca a un especialista.}
 {145}{}{Hombre, sabes de todo. Podría pasarme todo el día haciéndote preguntas.}
 {146}{}{Bien, me pondré en el buen camino con estas pistas.}
 {147}{}{Córtales las... ya sabes... por mí, ¿de acuerdo?}

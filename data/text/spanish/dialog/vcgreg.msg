@@ -95,7 +95,7 @@
 {194}{}{Pues... ¡has aprobado! Enhorabuena.}
 {195}{}{Genial. ¿Así que soy Ciudadano?}
 {196}{}{Bueno, aun tenemos que hacer la prueba física. Afortunadamente, tengo el equipamiento aquí mismo. Tal vez quieras quitarte las botas.}
-{197}{}{De acuerdo.}
+{197}{}{Vale.}
 {198}{}{Tú... ¡tienes un sexto dedo! ¡Eres un mutante! ¡Como te atreviste siquiera a INTENTAR ser uno de los nuestros... tú... tú, abominación! ¡Largo! ¡Fuera! ¡Y no vuelvas más!}
 {199}{}{Esta es la parte en la que me cabreo y mato a todos los Ciudadanos de Ciudad Refugio solo para divertirme. Empezando por ti.}
 {200}{}{¡Me voy, me voy!}

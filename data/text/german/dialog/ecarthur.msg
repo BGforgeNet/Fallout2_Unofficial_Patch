@@ -14,7 +14,7 @@
 {113}{}{Jetzt reicht's. Genug ist genug.}
 {114}{}{Die heilige Handgranate von Antiochien? Natürlich weil sie die tollste gegen Menschen gerichtete Handfeuerwaffe ihrer Art ist.}
 {115}{}{Warum suchst du nach einer so schrecklichen Waffe?}
-{116}{}{Wir von der Brotherhood of Steel möchten diese so vernichtende Waffe unserer Vorfahren finden und sie vor denen schützen, die die Macht der heiligen Handgranate von Antiochien mißbrauchen würden.}
+{116}{}{Wir von der Brotherhood of Steel möchten diese so vernichtende Waffe unserer Vorfahren finden und sie vor denen schützen, die die Macht der heiligen Handgranate von Antiochien missbrauchen würden.}
 {117}{}{Warum?}
 {118}{}{Na...weil die Brotherhood of Steel sich geschworen hat, die Schwachen und Schutzlosen zu schützen und dieses Ding könnte wirklich jemanden verletzen.}
 {119}{}{Warum?}
@@ -41,5 +41,5 @@
 {203}{}{Wenn du einen Augenblick Zeit hättest.}
 {204}{}{Ähem.}
 {205}{}{Hey, ignorier mich nicht einfach.}
-{206}{}{Biiiiiiiitte! Ich muß dich was Wichtiges fragen.}
+{206}{}{Biiiiiiiitte! Ich muss dich was Wichtiges fragen.}
 {207}{}{Na denn, wir müssen unsre Suche nach der Handgranate von Antiochien fortsetzen. Komm schon, Mathias.}

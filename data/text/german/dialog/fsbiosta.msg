@@ -23,7 +23,7 @@
 {122}{}{Xeno-Programm.}
 {123}{}{Neueste Personalvermerke.}
 {124}{}{Zurück.}
-{125}{}{(Nach etwa zwanzig Minuten setzt du dir folgende Information zusammen: Dr. Long Wang ist davon überzeugt, daß er mit Hilfe der Grundlagen des FEV-Virus Mutantensoldaten erschaffen kann. Er entwickelt ein Serum, daß interessante Ergebnisse bei Versuchen mit Nagetieren bringt. Er macht einen Selbstversuch und wird zu einer Schmalzlache. Dr. Sheng bricht die Versuchsreihe ab. Nach Dr. Longs Tod wird Dr. Sheng sein Nachfolger. Sheng befiehlt, die Forschungsarbeit auf strahlenabsorbierende Pflanzen zu konzentrieren.)}
+{125}{}{(Nach etwa zwanzig Minuten setzt du dir folgende Information zusammen: Dr. Long Wang ist davon überzeugt, dass er mit Hilfe der Grundlagen des FEV-Virus Mutantensoldaten erschaffen kann. Er entwickelt ein Serum, dass interessante Ergebnisse bei Versuchen mit Nagetieren bringt. Er macht einen Selbstversuch und wird zu einer Schmalzlache. Dr. Sheng bricht die Versuchsreihe ab. Nach Dr. Longs Tod wird Dr. Sheng sein Nachfolger. Sheng befiehlt, die Forschungsarbeit auf strahlenabsorbierende Pflanzen zu konzentrieren.)}
 {126}{}{Botanikprogramm.}
 {127}{}{Xeno-Programm.}
 {128}{}{Neueste Personalvermerke.}
@@ -33,9 +33,10 @@
 {132}{}{Genetikprogramm}
 {133}{}{Neueste Personalvermerke.}
 {134}{}{Zurück.}
-{135}{}{Dr. Wong: New head of Biology Project, in addition to Physics Research.
-Dr. Sheng: Biology Project Head until two months ago. One month sabbatical with new "botany sentience serum" accounted for; further absence a puzzle. Dr. Wong assumes control of Biology Program.
-Dr. Long: Recently deceased via FEV serum.}
+{135}{}{Dr. Wong: Neuer Leiter des Biologischen Projekts, daneben Forschung im Bereich Physik.
+ Dr. Sheng: Bis vor zwei Monaten Leiter des Biologischen Projekts. Ein Forschungsmonat mit dem neuen "botanischen Willensserum" ist belegbar. Nachfolgende Abwesenheit bleibt ein Rätsel.
+ Dr. Wong übernimmt die Leitung des Programms.
+ Dr. Long: Vor kurzem nach einer Injektion des FEV-Serums verstorben.}
 {136}{}{Botanikprogramm.}
 {137}{}{Genetikprogramm}
 {138}{}{Xeno-Programm.}

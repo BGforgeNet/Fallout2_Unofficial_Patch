@@ -30,13 +30,13 @@
 {129}{}{Physik.}
 {130}{}{Geschichte.}
 {131}{}{Zurück.}
-{132}{}{Die Kinder von Shi-Town sind in Gefahr. Die Wahrscheinlichkeit, daß ein Killer unter ihnen ist, liegt bei 50%.}
-{133}{}{Shi-Town ist in Gefahr. Die Wahrscheinlichkeit, daß den Einwohnern etwas zustößt, liegt bei 75%.}
+{132}{}{Die Kinder von Shi-Town sind in Gefahr. Die Wahrscheinlichkeit, dass ein Killer unter ihnen ist, liegt bei 50%.}
+{133}{}{Shi-Town ist in Gefahr. Die Wahrscheinlichkeit, dass den Einwohnern etwas zustößt, liegt bei 75%.}
 {134}{}{Die Wahrscheinlichkeit eines Fehlstarts der Hubologenrakete liegt bei 95%. Gründe: Kein Treibstoff, ungeeignetes Dichtungsmaterial, schlechte Führung, Mangel an Initiative.}
 {135}{}{Die Wahrscheinlichkeit, dass der sogenannte "Auserwählte" seine Aufgabe erfüllt, liegt bei 15%.}
-{136}{}{Eingabewert zeigt, daß "Enklave" stärker als vermutet. Nicht annähern.}
-{137}{}{Chances of submarine reappearing in this game: 0%}
-{138}{}{Wahrscheinlichkeit, daß die Tankervagabunden die Monsterplage ohne Hilfe von außen bewältigen gleich 0%. Nutzen einer Hilfeleistung wird untersucht.}
+{136}{}{Eingabewert zeigt, dass "Enklave" stärker als vermutet. Nicht annähern.}
+{137}{}{Wahrscheinlichkeit, dass U-Boot in diesem Spiel wieder auftaucht: 0%}
+{138}{}{Wahrscheinlichkeit, dass die Tankervagabunden die Monsterplage ohne Hilfe von außen bewältigen gleich 0%. Nutzen einer Hilfeleistung wird untersucht.}
 {139}{}{Eingabe: Poseidon-Öltanker nicht bereit zum Auslaufen. Weitere Eingaben nötig.}
 {140}{}{Keine Bearbeitung. Weitere Eingaben nötig}
 {141}{}{[Mehr]}
@@ -67,7 +67,7 @@
 {166}{}{Nein.}
 {167}{}{Formatierung wird durchgeführt... Formatierung abgeschlossen. Neustart erfordert komplette Installation. System wird heruntergefahren... Beendet...}
 {168}{}{[Erledigt]}
-{169}{}{Data to find: - Botany program - Genetic program - Xeno program.}
+{169}{}{Daten für: - Botanikprogramm - Genetikprogramm - Xeno-Programm.}
 {170}{}{Botanikprogramm.}
 {171}{}{Genetikprogramm}
 {172}{}{Xeno-Programm.}
@@ -76,11 +76,11 @@
 {175}{}{Genetikprogramm}
 {176}{}{Xeno-Programm.}
 {177}{}{Zurück.}
-{178}{}{(Nach etwa zwanzig Minuten setzt du folgende Informationen zusammen: Dr. Long Wang ist davon überzeugt, daß er auf der Grundlage des FEV-Virus Mutantensoldaten erschaffen kann. Er entwickelt ein Serum, das interessante Ergebnisse bei Versuchen mit Nagetieren bringt. Er macht einen Selbstversuch und wird zu einer Schmalzlache. Dr. Sheng stellt die Versuchsreihe ein. Nach dem Tod von Dr. Long wird Dr. Sheng sein Nachfolger. Sheng befiehlt, die Forschungsarbeit auf strahlenabsorbierende Pflanzen zu konzentrieren.)}
+{178}{}{(Nach etwa zwanzig Minuten setzt du folgende Informationen zusammen: Dr. Long Wang ist davon überzeugt, dass er auf der Grundlage des FEV-Virus Mutantensoldaten erschaffen kann. Er entwickelt ein Serum, das interessante Ergebnisse bei Versuchen mit Nagetieren bringt. Er macht einen Selbstversuch und wird zu einer Schmalzlache. Dr. Sheng stellt die Versuchsreihe ein. Nach dem Tod von Dr. Long wird Dr. Sheng sein Nachfolger. Sheng befiehlt, die Forschungsarbeit auf strahlenabsorbierende Pflanzen zu konzentrieren.)}
 {179}{}{Botanikprogramm.}
 {180}{}{Xeno-Programm.}
 {181}{}{Zurück.}
-{182}{}{"The subject on which we had hoped to establish a series of meaningful experiments has disappeared, presumed either destroyed or stolen by the Hubologists. Further inquiries have proven fruitless. Until such time as further specimens are obtained, this database will remain inoperative." - Dr. Sheng.}
+{182}{}{"Das Versuchsobjekt, an dem wir eine Reihe von bedeutenden Experimenten durchführen wollten, ist verschwunden, wahrscheinlich zerstört oder von den Hubologen gestohlen. Alle weiteren Nachforschungen verliefen ergebnislos. Diese Datenbank wird bis zum Erhalt weiterer Exemplare gesperrt bleiben." - Dr. Sheng}
 {183}{}{Botanikprogramm.}
 {184}{}{Genetikprogramm}
 {185}{}{Zurück.}
@@ -88,27 +88,27 @@
 {187}{}{Benzin und Derivate}
 {188}{}{Polymere}
 {189}{}{Zurück.}
-{190}{}{(After sifting through the complex chemical formulae and lab notes, you come to the conclusion that the Shi have created a kind of fuel from plant extracts and sealife. Apparently, they have hooked into previously existing pipelines so they can transport fuel to a wide variety of destinations.)}
+{190}{}{(Nach Durchsicht der komplexen chemischen Formeln und Laboraufzeichnungen, stellst du fest, dass die Shi eine Art Kraftstoff aus Pflanzenextrakten und Meereslebewesen entwickelt haben. Anscheinend  haben sie bereits bestehende Pipelines benutzt, um den Treibstoff an möglichst viele Orte zu transportieren)}
 {191}{}{(Du entdeckst eine unglaubliche Masse komplexer chemischer Formeln und Laboraufzeichnungen. Du weißt nicht genau, was das alles zu bedeuten hat.}
 {192}{}{Leite Benzin zum Poseidon-Tanker.}
 {193}{}{Leite Benzin zu Hubologen.}
 {194}{}{Zurück.}
-{195}{}{(Nachdem du dich durch die Symbolik und die technischen Abhandlungen gekämpft hast, entdeckst du, daß die Shi an einer neuen feuer- und waffensicheren Polymer-Kampfrüstung arbeiten. Sie sind noch meilenweit von der Vollendung entfernt. Es ist außerdem von neuen Waffen und Konstruktionsmöglichkeiten die Rede. Anscheinend haben die Shi so manche Zukunftspläne.}
+{195}{}{(Nachdem du dich durch die Symbolik und die technischen Abhandlungen gekämpft hast, entdeckst du, dass die Shi an einer neuen feuer- und waffensicheren Polymer-Kampfrüstung arbeiten. Sie sind noch meilenweit von der Vollendung entfernt. Es ist außerdem von neuen Waffen und Konstruktionsmöglichkeiten die Rede. Anscheinend haben die Shi so manche Zukunftspläne.}
 {196}{}{Zurück.}
 {197}{}{Benzin wurde entsprechend umgeleitet. Lagertanks = Leer. Programm wird geschlossen.}
 {198}{}{[Erledigt]}
 {199}{}{Benzin wurde entsprechend umgeleitet. Lagertanks = Leer. Programm wird geschlossen.}
 {200}{}{[Erledigt]}
 {201}{}{Physikdatenbank: Forschung - Theorie}
-{202}{}{Exploration.}
-{203}{}{Theory.}
+{202}{}{Erkundung.}
+{203}{}{Theorie.}
 {204}{}{Zurück.}
 {205}{}{"Durch die vor kurzem erworbenen Vertibird-Pläne sind wir der Möglichkeit, eine in der Praxis anwendbare Flugmaschine zu bauen, einen Quantensprung näher gekommen. Wir hoffen, bis zum Jahresende einen flugfähigen Prototypen fertigzustellen und innerhalb der nächsten zwei Jahre mit der Massenproduktion starten zu können." - Dr. Wong}
 {206}{}{[Kopiere Pläne] Zurück.}
 {207}{}{Zurück.}
 {208}{}{"Wir arbeiten noch an dem funktionsfähigen Modell einer Flugmaschine. Keiner der bisherigen Entwürfe konnte in Bezug auf Sicherheit oder Aerodynamik überzeugen. Vielleicht wenn wir Zugriff auf die Pläne der Alten Welt hätten..." - Dr. Wong }
 {209}{}{Zurück.}
-{210}{}{(Nachdem du dich durch die Einleitung und die mathematischen Berechnungen gequält hast, entdeckst du, daß die Shi wieder lernen, Atomenergie zu entwickeln, indem sie die Raumflugtheorien der Alten Welt rekonstruieren - wobei sie die Hubologen belächeln. Neben Sonnenenergie nutzen sie auch Wind- und Wasserkraft, zumindest steht es so in den Aufzeichnungen.)}
+{210}{}{(Nachdem du dich durch die Einleitung und die mathematischen Berechnungen gequält hast, entdeckst du, dass die Shi wieder lernen, Atomenergie zu entwickeln, indem sie die Raumflugtheorien der Alten Welt rekonstruieren - wobei sie die Hubologen belächeln. Neben Sonnenenergie nutzen sie auch Wind- und Wasserkraft, zumindest steht es so in den Aufzeichnungen.)}
 {211}{}{Zurück.}
 {212}{}{Station aktiviert.}
 {213}{}{Zurück.}

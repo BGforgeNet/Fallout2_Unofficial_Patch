@@ -1,15 +1,15 @@
-{100}{}{You see a villager.}
-{101}{}{You see a villager.}
+{100}{}{Du siehst einen Dorfbewohner.}
+{101}{}{Du siehst einen Dorfbewohner.}
 {102}{}{Hallo.}
 {103}{}{Auf Wiedersehen.}
-{104}{}{Welcome to our Village.}
+{104}{}{Willkommen in unserem Dorf.}
 {105}{}{Die Monster beschützen uns.}
-{106}{}{Hurry back.}
-{107}{}{We'll need those guns soon.}
+{106}{}{Komm schnell wieder.}
+{107}{}{Wir brauchen die Gewehre dringend.}
 {108}{}{Hallo.}
-{109}{}{Leave now!}
-{110}{}{Go back to where you came from!}
-{111}{}{Mach, daß du schleunigst hier wegkommst!}
-{112}{}{We're safe now.}
+{109}{}{Geh jetzt!}
+{110}{}{Verschwinde dahin, wo du hergekommen bist!}
+{111}{}{Mach, dass du schleunigst hier wegkommst!}
+{112}{}{Jetzt sind wir sicher.}
 {113}{}{Danke.}
-{114}{}{Bless you, wanderer.}
+{114}{}{Gott segne dich, Reisender.}

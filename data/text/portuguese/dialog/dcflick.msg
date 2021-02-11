@@ -15,7 +15,7 @@
 {240}{}{Que tal fazê-lo para você, amigo?}
 {241}{}{Na verdade, gostaria de dar uma olhada em seus produtos se puder.}
 {242}{}{Na verdade, eu gostaria de lhe fazer uma pergunta.}
-{243}{}{That did it. See you around, Flick.}
+{243}{}{Isso deu certo. Vejo você por aí Flick.}
 {260}{}{Eu sou um fodido provedor, pensou Whaddya? Eu sou como um bom homem samurai-irã.}
 {261}{}{Dizer o que?}
 {262}{}{Yeah, uh, bem...deixe-me perguntar-lhe algo mais.}

@@ -34,13 +34,13 @@
 {133}{}{Och, den ein oder anderen Humanoiden.}
 {134}{}{Dich. Stirb, du Schlampe.}
 {135}{}{Die Bösen.}
-{136}{}{Niemanden. Vergiß es einfach.}
+{136}{}{Niemanden. Vergiss es einfach.}
 {137}{}{Wer hat dir davon erzählt?? Ähh... natürlich nicht! Mach dich nicht lächerlich!}
 {138}{}{Ganz ruhig bleiben. Jacob hat's mir gesagt.}
 {139}{}{Na ja, das ist wohl in der ganzen Stadt ein offenes Geheimnis.}
 {140}{}{Dein Geheimnis ist in guten Händen. Ich hab es aus einer zuverlässigen Quelle.}
-{141}{}{Versuch's doch mal in den Höhlen oder um die Häuser herum. Ich hab gehört, daß es da genügend Monster gibt.}
-{142}{}{Danke. Tschüß.}
+{141}{}{Versuch's doch mal in den Höhlen oder um die Häuser herum. Ich hab gehört, dass es da genügend Monster gibt.}
+{142}{}{Danke. Tschüss.}
 {143}{}{Humanoiden, was? Irgendwelche bestimmten Humanoiden?}
 {144}{}{Menschen.}
 {145}{}{Ghuls.}
@@ -74,7 +74,7 @@
 {173}{}{Wir haben zu. Wir öffnen um acht.}
 {174}{}{Hey! Geh da weg!}
 {175}{}{Jetzt reicht's! Du willst es ja nicht anders!}
-{178}{}{Ist mir völlig egal und wenn du's von Gott persönlich weißt! Ich will nur verdammt sicher sein, daß niemand anders davon erfährt.}
+{178}{}{Ist mir völlig egal und wenn du's von Gott persönlich weißt! Ich will nur verdammt sicher sein, dass niemand anders davon erfährt.}
 {179}{}{He! Geh da nicht runter!}
 {180}{}{Ich warn dich nicht noch mal. Bleib da weg!}
 {181}{}{Das reicht jetzt! Her mit dir!}

@@ -11,7 +11,7 @@
 {10}{}{  Láser}
 {11}{}{  Fuego}
 {12}{}{  Plasma}
-{13}{}{  Explosiv.}
+{13}{}{  Explosión}
 {14}{}{Sin equipar}
 {15}{}{Dañ:}
 {16}{}{Rng:}

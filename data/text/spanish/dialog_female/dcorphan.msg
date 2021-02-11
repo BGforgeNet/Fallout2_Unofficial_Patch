@@ -24,21 +24,21 @@
 {250}{}{Eh, señorita, ¿tiene calderilla suelta?}
 {251}{}{Eh, señor, ¿tiene calderilla suelta?}
 {270}{}{¿Vas a quedarte ahí o vas a entrar?}
-{271}{}{Buenas.}
+{271}{}{Hola.}
 {272}{}{Tengo hambre.}
 {273}{}{¡Eh, tú! Tubby siempre está abierto. Entra.}
 {280}{}{¿Vas a entrar u qué?}
 {281}{}{Ven a ver la tienda Flick.}
-{282}{}{Buenas.}
+{282}{}{Hola.}
 {283}{}{¡Eh, tú! Ven a ver la tienda de Flick.}
 {290}{}{Bien, ¿vas a entrar?}
-{291}{}{Buenas.}
+{291}{}{Hola.}
 {292}{}{No hagas eso.}
 {293}{}{¡Eh! Frankie tiene mercancía muy buena.}
 {300}{}{Deberías entrar, el casino de Becky es muy chulo.}
 {301}{}{Estoy echando un vistazo.}
 {302}{}{Caray, eres muy guapa.}
-{303}{}{Buenas.}
+{303}{}{Hola.}
 {304}{}{¿Cómo te llamas?}
 {305}{}{A Becky le gustarías.}
 {306}{}{¡Eh! Ven a ver a Becky.}

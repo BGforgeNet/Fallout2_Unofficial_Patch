@@ -73,7 +73,7 @@
 {172}{}{Projekt, kterému jsme se zde v Enklávì vìnovali nìkolik posledních desetiletí, má za cíl obnovit lidskou rasu na pevninì Spojenıch státù. Bùh ehnej Americe.}
 {173}{}{Nevidím dùvod, proè by to mìlo zabrat celá desetiletí.}
 {174}{}{U to nebudu poslouchat. Chci se zeptat na nìco jiného.}
-{175}{}{Ano, pouhé zøízení základny nezabere pøíliš dlouho. Vše ji máme zøízeno a pøipraveno v Navarru. Ale dlouho nám trvalo vypracování spolehlivé metody vyhlazovacího postupu.}
+{175}{}{Oh, just establishing an outpost wouldn't take long. We've already done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
 {176}{}{Vyhlazovacího postupu?}
 {177}{}{Ano, nemùeme se pøeci vrátit zpìt na pevninu a riskovat nakaení od všech tìch zmutovanıch skoro-lidskıch bytostí. Aby byly Spojené státy pro lidstvo bezpeèné, musí bıt nejdøíve všichni mutanti vyhlazeni.}
 {178}{}{Coe!?! Zbláznil jste se? To je zrùdné!}
@@ -102,7 +102,7 @@
 {201}{}{Dobøe. Teï u vím, kde jste to našli, ale co je to vlastnì zaè?}
 {202}{}{Pùvodnì byl F.E.V. navren jako virus, kterı mìl pøemìnit lidské bytosti na super vojáky. Tento experiment zøejmì zcela selhal, aèkoliv já jsem zkusil upravenou verzi viru na jednom z našich agentù tajnıch slueb a povedlo se mi dosáhnout jistého úspìchu.}
 {203}{}{Gratuluju, ale co to má spoleèného s vyhlazováním?}
-{204}{}{Ach, ano, u jsem se k tomu dostával... F.E.V. virus se váe jen na specifické ivoèišné druhy... na lidské glykoproteiny. Staèilo jen nìkolik let vızkumu F.E.V. viru, abychom vyvinuli ještì smrtelnìjší verzi. Vısledek je dokonalı ve všech smìrech. }
+{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
 {205}{}{Dokonalı? Jak to?}
 {206}{}{Není to snad jasné, mùj zmutovanı pøíteli? Díky mnì je F.E.V. smrtící toxin a díky jednomu záhadnému géniovi, kterı si teatrálnì øíkal Vùdce, funguje pouze na lidi, a u zmutované nebo ne.}
 {207}{}{Coe?}

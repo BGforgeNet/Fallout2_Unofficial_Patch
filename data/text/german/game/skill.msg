@@ -56,10 +56,10 @@
 {501}{}{Du siehst schon gesund aus.}
 {502}{}{%s sieht schon gesund aus.}
 {503}{}{Du kannst keine Heilung durchführen.}
-{505}{}{Du verdienst %d EP dafür, daß du an deinen Fähigkeiten gefeilt hast.}
+{505}{}{Du verdienst %d EP dafür, dass du an deinen Fähigkeiten gefeilt hast.}
 {510}{}{\nskill_use: invalid skill used.}
 {512}{}{Tote können nicht geheilt werden.}
-{513}{}{Laß die Toten in Frieden ruhen.}
+{513}{}{Lass die Toten in Frieden ruhen.}
 {514}{}{Es ist tot, finde dich damit ab.}
 {520}{}{Du heilst dein(en) %s.}
 {521}{}{Du heilst %s.}
@@ -70,7 +70,7 @@
 {532}{}{verletzten rechten Arm}
 {533}{}{verletztes rechtes Bein}
 {534}{}{verletztes linkes Bein}
-{550}{}{Du schaffst es nicht, das Schloß zu öffnen.}
+{550}{}{Du schaffst es nicht, das Schloss zu öffnen.}
 {551}{}{Du findest keine Fallen.}
 {552}{}{Du lernst nichts.}
 {553}{}{Du kannst das nicht reparieren.}
@@ -78,12 +78,12 @@
 {571}{}{Du stiehlst %s.}
 {572}{}{Du wirst erwischt, als du %s anbringst.}
 {573}{}{Du bringst %s an.}
-{590}{}{Du hast deine Fähigkeit mit dieser Fertigkeit überstrapaziert. Warte ein bißchen.}
+{590}{}{Du hast deine Fähigkeit mit dieser Fertigkeit überstrapaziert. Warte ein bisschen.}
 {591}{}{Du bist zu müde.}
 {592}{}{Die Anstrengung könnte dich umbringen.}
 {600}{}{Du verfügst nicht über die Fähigkeiten, schwere Verletzungen zu heilen.}
 {601}{}{Die Robotereinheit ist nicht mehr zu reparieren.}
-{1000}{}{Laß mich helfen.}
+{1000}{}{Lass mich helfen.}
 {1001}{}{Das mach ich glatt.}
 {1002}{}{Ich hab's.}
 {1003}{}{Ist mir ein Vergnügen.}

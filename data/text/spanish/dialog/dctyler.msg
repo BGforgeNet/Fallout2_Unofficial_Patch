@@ -36,7 +36,7 @@
 {270}{}{Seguro que lo hizo. Nunca te he visto por aquí antes. Ahora, vete.}
 {271}{}{¡Déjame entrar ahí dentro o te parto la cara!}
 {272}{}{Mira, me ha hecho venir al pueblo sólo para inspeccionar esta maldita mierda. Así que tengo que entrar.}
-{273}{}{De acuerdo.}
+{273}{}{Vale.}
 {280}{}{Está bien, esclavista. Entra. ¿Se cree que alguien va a quitarle todo esto? ¿Quién demonios querría hacer eso?}
 {281}{}{Que le den. Entra. ¿Se cree que alguien va a quitarle todo esto? ¿Quién demonios querría hacer eso?}
 {282}{}{Adiós.}
@@ -51,12 +51,12 @@
 {310}{}{Lárgate.}
 {320}{}{Qué bien. Yo Tyler. Yo marcho. Adiós, adiós.}
 {321}{}{Ur.}
-{322}{}{Uh...}
+{322}{}{Eh...}
 {330}{}{Lárgate, bicho raro.}
 {331}{}{¡Sukyu!}
 {332}{}{¡Arug!}
 {340}{}{No lo creo. Ahora lárgate.}
-{341}{}{De acuerdo.}
+{341}{}{Vale.}
 {342}{}{¡Pero!}
 {343}{}{Bien.}
 {350}{}{Sí, seguro que has venido a eso. ¿Quién te envía?}
@@ -90,7 +90,7 @@
 {412}{}{¿Intentas molestarme?}
 {413}{}{No está mal.}
 {414}{}{Cansado.}
-{415}{}{De acuerdo.}
+{415}{}{Vale.}
 {416}{}{Lárgate.}
 {417}{}{He tenido días mejores.}
 {418}{}{Oh.}
@@ -122,7 +122,7 @@
 {501}{}{Pero a mí me gusta hacer el amor, no la guerra.}
 {502}{}{Suena bien.}
 {510}{}{Mira, me importa una mierda lo que te guste. No voy a darte un dólar hasta que aparezcan. Vamos a luchar, pero será mejor que te asegures de que aparecen.}
-{511}{}{De acuerdo.}
+{511}{}{Vale.}
 {600}{}{¿Así que tú eres el nuevo cabeza de turco del jefe?}
 {601}{}{¿Qué quieres?}
 {602}{}{¿Qué le pasa a Metzger? ¿Es que ya no confía en nosotros?}

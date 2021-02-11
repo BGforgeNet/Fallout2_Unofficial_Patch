@@ -111,3 +111,6 @@
 {211}{}{ zawodzi przy zak³adaniu pu³apki na pojemniku.}
 {212}{}{Widzisz lodówkê.}
 {400}{}{Otwierasz pojemnik.}
+{601}{}{It is open, dummy.}
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}

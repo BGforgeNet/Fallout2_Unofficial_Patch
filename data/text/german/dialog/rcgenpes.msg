@@ -54,12 +54,12 @@
 {153}{}{./~ Bier her, Bier her... ./~}
 {154}{}{./~ 99 Flaschen Bier stehen drüben am Klavier... ./~}
 {155}{}{Dieser Man sieht so aus, als ob er sich hier wie zu Hause fühlt.}
-{156}{}{Du siehst einen Mann, der eine Mahlzeit ißt.}
+{156}{}{Du siehst einen Mann, der eine Mahlzeit isst.}
 {157}{}{Du siehst einen Mann, der ein Kleidungsstück stopft.}
 {158}{}{Dieser Mann ruht sich aus.}
 {159}{}{Dieser Mann entspannt sich in seinem Heim.}
 {160}{}{Diese Frau sieht so aus, als ob sie sich hier wie zu Hause fühlt.}
-{161}{}{Du siehst eine Frau, die eine Mahlzeit ißt.}
+{161}{}{Du siehst eine Frau, die eine Mahlzeit isst.}
 {162}{}{Du siehst eine Frau, die ein Kleidungsstück stopft.}
 {163}{}{Diese Frau ruht sich aus.}
 {164}{}{Diese Frau entspannt sich in ihrem Heim.}
@@ -74,7 +74,7 @@
 {173}{}{Du siehst einen müden Bergarbeiter.}
 {174}{}{Du siehst einen Bergarbeiter aus einer Goldmine.}
 {175}{}{Du siehst jemanden, der völlig verdreckt ist.}
-{176}{}{Das muß ein Bergarbeiter sein.}
+{176}{}{Das muss ein Bergarbeiter sein.}
 {177}{}{./~ Noch einen Tag älter & tiefer in Schuld. /~}
 {178}{}{Ich hab überall Dreck.}
 {179}{}{Hier unten ist es wirklich dunkel.}
@@ -85,7 +85,7 @@
 {184}{}{Diese Person ist sehr nervös.}
 {185}{}{Du siehst eine Person, die den Ring beobachtet.}
 {186}{}{Diese Person sieht ganz aufgedreht aus.}
-{187}{}{Du siehst jemanden, der Geld auf die Kämpfe gesetzt haben muß.}
+{187}{}{Du siehst jemanden, der Geld auf die Kämpfe gesetzt haben muss.}
 {188}{}{Diese Person sieht aufgeregt aus.}
 {189}{}{Pack ihn dir!}
 {190}{}{Da geht ein Wochenlohn dahin...schon wieder.}
@@ -95,11 +95,11 @@
 {194}{}{Verstümmel das Schwein!}
 {195}{}{Als drauf!}
 {196}{}{Drum rum! Nein, andersrum!}
-{197}{}{Paß auf!}
+{197}{}{Pass auf!}
 {198}{}{So ist's richtig!}
 {199}{}{Mach mich reich!}
 {200}{}{Gib mir die neuen Schuhe, Baby!}
-{201}{}{Gib mir 'n bißchen Zucker!}
+{201}{}{Gib mir 'n bisschen Zucker!}
 {202}{}{Fußarbeit, du Depp! Fußarbeit!}
 {203}{}{Mach ihn fertig!}
 {204}{}{Kämpf!}
@@ -117,7 +117,7 @@
 {216}{}{Was machst du denn da, Mister?}
 {217}{}{Bist du ein Kannibale?}
 {218}{}{Lauf weg, lauf weg!}
-{219}{}{Ich habe mal einen toten Gecko angefaßt.}
+{219}{}{Ich habe mal einen toten Gecko angefasst.}
 {220}{}{Ißt du Menschen?}
 {221}{}{Ich dachte, du hättest Hörner auf dem Kopf.}
 {222}{}{Woher bist du?}

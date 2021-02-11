@@ -47,7 +47,7 @@
 {271}{}{Sim, você sabe o que era?}
 {272}{}{Eu acho que ele era um pássaro.}
 {273}{}{Não, um cachorro.}
-{274}{}{But it was flying, man.}
+{274}{}{Mas estava voando, cara.}
 {275}{}{De jeito nenhum - aumentou o zoom no chão.}
 {276}{}{Sim, você está vendo coisas, cara.}
 {277}{}{De jeito nenhum. Isso foi real.}

@@ -311,16 +311,16 @@
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
 {753}{}{Der Beißer}
-{1000}{}{Jules führt dich in das Straßengewirr der verfallenen Häuser um New Reno. Du glaubst nicht, daß du diesen Ort allein gefunden hättest. Kurz nach eurer Ankunft verschwindet Jules.}
+{1000}{}{Jules führt dich in das Straßengewirr der verfallenen Häuser um New Reno. Du glaubst nicht, dass du diesen Ort allein gefunden hättest. Kurz nach eurer Ankunft verschwindet Jules.}
 {1100}{}{Der Weg führt in das Straßengewirr der verfallenen Häuser um New Reno.}
 {1200}{}{Du findest eine kleine Geldschatulle aus Metall. Du hättest sie nicht gefunden, wenn du nicht danach gesucht hättest.}
-{1300}{}{Cody führt dich in das Straßengewirr der verfallenen Häuser um New Reno und verschwindet dann auf demselben Weg. Du glaubst nicht, daß du diesen Ort allein gefunden hättest.}
+{1300}{}{Cody führt dich in das Straßengewirr der verfallenen Häuser um New Reno und verschwindet dann auf demselben Weg. Du glaubst nicht, dass du diesen Ort allein gefunden hättest.}
 {1400}{}{Du hast deinen ersten Gegner besiegt.}
 {1401}{}{Du hast deinen zweiten Gegner besiegt.}
 {1402}{}{Du hast deinen dritten Gegner besiegt.}
 {1403}{}{Du hast den Beißer besiegt!}
 {1404}{}{Du bist jetzt der Schwergewichts-Champion von New Reno.}
-{1405}{}{You have defeated your last challenger!}
+{1405}{}{Du hast deinen letzten Herausforderer geschlagen!}
 {1500}{}{Du hast Mrs. Wright dazu gebracht, die Brennerei zu vernichten.}
 {1550}{}{Du hast die geheime Transaktion beobachtet.}
 {1600}{}{Im Eifer des Gefechts reißt der Beißer dir ein Ohr ab.}

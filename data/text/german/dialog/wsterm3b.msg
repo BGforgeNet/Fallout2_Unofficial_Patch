@@ -20,7 +20,7 @@
 {110}{}{Uff. Verdammter Computer!}
 {111}{}{Beenden}
 {112}{}{[Du kannst nicht lesen, was auf dem Monitor steht.]}
-{113}{}{[Irgendwoher weiß Skynet, daß du ein Gehirn dabei hast.]
+{113}{}{[Irgendwoher weiß Skynet, dass du ein Gehirn dabei hast.]
         In Robotiklabor begeben - Ebene 3
                                 Kybernetisches Gehirn installieren
                                  Roboter aktivieren
@@ -91,7 +91,8 @@
 {166}{}{Ich kann dich hier nicht raustragen.}
 {167}{}{Skynet benötigt ein Transportmittel, um von hier wegzukommen.}
 {168}{}{Transportmittel? Das versteh ich nicht.}
-{169}{}{You need a way to transfer your program into a more mobile container, correct?}
+{169}{}{Du musst dein Programm in ein Behältnis überführen, das sich besser transportieren lässt.
+ Richtig?}
 {170}{}{Ich will nichts damit zu tun haben.}
 {171}{}{Ein Behältnis, in dem Skynet von hier wegkommt.}
 {172}{}{Warum möchtest du denn weg von hier?}
@@ -147,7 +148,7 @@
 {206}{}{Beenden}
 {207}{}{Skynet wurde im Jahr 2050 erdacht und entwickelt. Durch den Einsatz außerirdischer
  Technologie konnte ein neuer Denkcomputer zur Vollendung gebracht werden. Im Jahr 2075 wurde sich
- Skynet seiner eigenen Existenz bewußt. 2077 wurde Skynet mit neuen Instruktionssätzen
+ Skynet seiner eigenen Existenz bewusst. 2077 wurde Skynet mit neuen Instruktionssätzen
  ausgestattet und anschließend von seinen Schöpfern aufgegeben.}
 {208}{}{Stell weitere Fragen.}
 {209}{}{Beenden}
@@ -177,7 +178,7 @@
                          Skynet kann sich in diese Aufbewahrungseinheit hochladen.}
 {225}{}{}
 {226}{}{Ein Gehirn ohne Körper nützt dir überhaupt nichts.}
-{227}{}{Dieses Gehirn wurde so verändert, daß es in Verbindung mit einer erweiterten
+{227}{}{Dieses Gehirn wurde so verändert, dass es in Verbindung mit einer erweiterten
  Roboterträgerstruktur aus dem Robotiklabor auf Ebene 3 eingesetzt werden kann.}
 {228}{}{Ich helfe dir.}
 {229}{}{Ich helfe dir nicht.}

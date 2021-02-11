@@ -1,0 +1,10 @@
+Name: "translation\english"; Description: "English"; Flags: exclusive disablenouninstallwarning;
+Name: "translation\czech"; Description: "Czech"; Flags: exclusive disablenouninstallwarning;
+Name: "translation\french"; Description: "French"; Flags: exclusive disablenouninstallwarning;
+Name: "translation\german"; Description: "German"; Flags: exclusive disablenouninstallwarning;
+Name: "translation\hungarian"; Description: "Hungarian"; Flags: exclusive disablenouninstallwarning;
+Name: "translation\italian"; Description: "Italian"; Flags: exclusive disablenouninstallwarning;
+Name: "translation\polish"; Description: "Polish"; Flags: exclusive disablenouninstallwarning;
+Name: "translation\portuguese"; Description: "Portuguese"; Flags: exclusive disablenouninstallwarning;
+Name: "translation\russian"; Description: "Russian"; Flags: exclusive disablenouninstallwarning;
+Name: "translation\spanish"; Description: "Spanish"; Flags: exclusive disablenouninstallwarning;

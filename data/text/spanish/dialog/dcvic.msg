@@ -21,7 +21,7 @@
 {168}{}{¿Cómo puedo ayudarte?}
 {169}{}{Quizás yo pueda repararla.}
 {170}{}{¿Puedes usar esta radio que encontré?}
-{171}{}{Veré lo que puedo hacer.}
+{171}{}{Sé lo que podemos hacer.}
 {172}{}{¿Spa pa?}
 {173}{}{Sé que puedo hacerlo. Tan sólo necesito algunas piezas sueltas. Hay una vieja radio en mi choza de Klamath que es exactamente lo que necesito. ¿Has estado donde los Dunton? Mi choza... bueno, estaba justo al este de su local.}
 {174}{}{¿Quieres decir esta radio?}
@@ -78,7 +78,7 @@
 {710}{}{Podrías decirles que no puedo arreglar esto sin las piezas necesarias. No sé... espera. ¿Quién eres tú? ¿Algún recluta nuevo? Te ha enviado aquí para presionarme otra vez, ¿no? No va serviros de nada. Aquí no puedo arreglarla.}
 {750}{}{¡Caray! ¿Harías eso por mí? Haré lo que sea si puedes sacarme de este lío. El único problema es que Metzger me ha encerrado aquí hasta que arregle esta radio y no tengo las piezas que necesito.}
 {753}{}{¿Dónde puedo encontrar las piezas que necesitas?}
-{754}{}{Veré lo que puedo hacer.}
+{754}{}{Sé lo que podemos hacer.}
 {760}{}{Es una larga historia. Se podría decir que Metzger me ha metido aquí hasta que arregle esta maldita radio. El cristal está roto y no tengo piezas de recambio. ¿Cómo espera que la arregle?}
 {761}{}{Bien, he venido para sacarte de aquí.}
 {764}{}{No lo sé. Nos vemos.}
@@ -183,7 +183,7 @@
 {2809}{}{No te preocupes, Jefe. Sulik y nos llevamos bien, honestamente.}
 {2810}{}{Vamos.}
 {2811}{}{Quédate aquí. Volveré.}
-{2812}{}{Me voy, yo.}
+{2812}{}{Yo ir.}
 {3100}{}{¿Qué? Oh… vale, Jefe. Si tú lo dices.}
 {3101}{}{¿Puedo ponerme otra cosa, Jefe? Estoy un poco preocupado.}
 {3102}{}{Bien… pero no vas a dejarme aquí... ¿Verdad, Jefe?}

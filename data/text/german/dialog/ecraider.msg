@@ -1,6 +1,6 @@
 {100}{}{Du siehst eine fies aussehende Person.}
 {101}{}{Du siehst einen Gangster.}
-{200}{}{Du hast unser Land widerrechtlich betreten. Dafür mußte sterben!}
+{200}{}{Du hast unser Land widerrechtlich betreten. Dafür musste sterben!}
 {201}{}{Wie kannst du's wagen, unaufgefordert hierher zu kommen!}
 {202}{}{Stirb, Penner!}
 {203}{}{Durch deinen Tod komm ich zu etwas Geld.}
@@ -9,7 +9,7 @@
 {206}{}{Keine Zeugen.}
 {207}{}{Deck mich.}
 {208}{}{Keine Gnade!}
-{209}{}{Der Boß sagt, keine Überlebenden.}
+{209}{}{Der Boss sagt, keine Überlebenden.}
 {210}{}{Bishop sagt, kein widerrechtliches Betreten.}
 {211}{}{Holen wir uns unsre Knete!}
 {300}{}{Du siehst Nachtwächter Morton.}

@@ -47,7 +47,7 @@
 {273}{}{Ich hoffe es gibt kein Problem, Sir.}
 {274}{}{Wir wollten nicht Respektlos sein, Sir.}
 {300}{}{Entschuldige das Missverständniss wegen dem Highwayman.}
-{301}{}{Wir wußten nicht, dass der Highwayman dir gehört.}
+{301}{}{Wir wussten nicht, dass der Highwayman dir gehört.}
 {302}{}{Ja, der Highwayman ist kein schlechtes Auto, aber ich hätte lieber einen Omni.}
 {303}{}{Willst du den Highwayman verkaufen?}
 {304}{}{Los, geölter Blitz, los.}
@@ -69,7 +69,7 @@
 {320}{}{Solltest du hier sein?}
 {321}{}{Tut mir leid für den Idioten, der diesen Highwayman herumstehen ließ.}
 {322}{}{Ich würd mir nichts draus machen; der Highwayman hat eine komplettes Analogsystem und keine Elektronik. Nichts von dem hochgezüchteten Zeugs.}
-{330}{}{Laß BLOSS die Finger von dem Auto, verstanden?}
+{330}{}{Lass BLOß die Finger von dem Auto, verstanden?}
 {331}{}{Zum Teufel, verschwinde von dem Auto.}
 {332}{}{Dieses Auto ist wertvoller als dein Leben. Greif es nochmal an, und ich beweise es dir.}
 {5221}{}{?}

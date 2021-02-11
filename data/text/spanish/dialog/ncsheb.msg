@@ -1,4 +1,4 @@
-{100}{}{You see... Sheb.}
+{100}{}{Ya ves... Sheb.}
 {150}{}{Ves a un hombre huesudo con brillantes ropas azules. Por si las ropas no fueran de por sí bastante llamativas, también está gritando a pleno pulmón.}
 {200}{}{¡Botín, botín, boo-tín!}
 {201}{}{¡Entrad, amantes del botín!}

@@ -12,14 +12,14 @@
 {111}{}{Ich bin verstümmelt, kannst du mir helfen?}
 {112}{}{Ich möchte dich was fragen.}
 {113}{}{Ich wollte nur mal Hallo sagen.}
-{114}{}{Ja, sicher. Hier, wir geben dir eine Dosis hiervon — das piekst ein bißchen — jetzt eine Bandage, und schon bist du wieder OK.}
+{114}{}{Ja, sicher. Hier, wir geben dir eine Dosis hiervon — das piekst ein bisschen — jetzt eine Bandage, und schon bist du wieder OK.}
 {115}{}{Danke. Wieder-sehn.}
 {116}{}{Danke Doc. Ich fühl mich schon viel besser.}
-{117}{}{Ja, sicher. Hier, trink das — alles, ich weiß, daß es furchtbar schmeckt. Jetzt leg dich da drüben aufs Bett. Ich weck dich morgen früh.}
-{118}{}{Ich fühlen gut. Tschüß.}
+{117}{}{Ja, sicher. Hier, trink das — alles, ich weiß, dass es furchtbar schmeckt. Jetzt leg dich da drüben aufs Bett. Ich weck dich morgen früh.}
+{118}{}{Ich fühlen gut. Tschüss.}
 {119}{}{Danke, Doc. Das hat geholfen.}
 {120}{}{Tut mir leid, aber ich hab nicht die richtigen Utensilien, um eine Operation durchzuführen. Du solltest in eine der größeren Städte gehn und einen Chirurgen aufsuchen. Versuch es in Vault City. Das ist nördlich von hier.}
-{121}{}{OK. Tschüß.}
+{121}{}{OK. Tschüss.}
 {122}{}{Na gut. Danke trotzdem.}
 {123}{}{Was möchtest du denn wissen?}
 {124}{}{Du Arbeit Darion?}
@@ -35,20 +35,20 @@
 {134}{}{Du sagtest, Darion hat einen Hund?}
 {135}{}{Danke für die Informationen; ich geh jetzt los.}
 {136}{}{Äh, ja und nein. Ich bin nicht ganz freiwillig hier. Ich bin ein Gefangener. Darion wird älter und braucht einen engagierten Arzt, der sich um ihn kümmert. Die Khans behalten mich seinetwegen hier. Ich würde lieber den Leuten oben in der Stadt helfen. Sie haben überhaupt keine medizinische Hilfe und dort gibt es viel zu tun.}
-{137}{}{OK. Muß mehr wissen.}
-{138}{}{Danke. Tschüß.}
+{137}{}{OK. Muss mehr wissen.}
+{138}{}{Danke. Tschüss.}
 {139}{}{Das ist sehr lobenswert von dir.}
 {140}{}{Verstehe. Ich werd jetzt gehn.}
-{141}{}{Das sind bloß illegale Siedler! Laß sie sterben und leb dein eigenes Leben.}
+{141}{}{Das sind bloß illegale Siedler! Lass sie sterben und leb dein eigenes Leben.}
 {142}{}{Nein, ich sitz hier ziemlich in der Falle. Ich komme noch nicht mal weg, um meine medizinischen Vorräte aufzustocken. Darion schickt Leute, um alles zu besorgen, was ich brauche.}
 {143}{}{Ich verstehn. Jetzt gehn.}
 {144}{}{Ich noch Fragen.}
 {145}{}{Ich schätze, du bist keine vertrauenswürdige Person, der man Freiheit zugestehen kann.}
-{146}{}{OK. Tut mir leid, aber ich muß weiter.}
+{146}{}{OK. Tut mir leid, aber ich muss weiter.}
 {147}{}{Tut mir leid, das zu hören.}
 {148}{}{Darion ist schlicht und einfach verrückt. Er hat mehr Wahnvorstellungen im Kopf als sein Hund Flöhe im Fell. Soweit ich weiß, gehörte er früher einer Gang an, die ebenfalls Khans hießen. Sie haben dieses Mädchen Tandi entführt und hielten sie als Geisel. Ihr Vater hat sich darauf nicht eingelassen und heuerte einige Söldner an, um sie zu befreien. Darion hat als einziger überlebt.}
 {149}{}{Oh... du sagen.}
-{150}{}{Muß gehn.}
+{150}{}{Muss gehn.}
 {151}{}{Mhm. Tja, ich werd jetzt gehn.}
 {152}{}{Wow, ich bin beeindruckt von deinem Wissen.}
 {153}{}{Klingt, als wär er mein Typ...}
@@ -57,13 +57,13 @@
 {156}{}{Danke. Ich wohl gehn.}
 {157}{}{Die Schwachen sind oft die Beute der Starken.}
 {158}{}{Tut mir leid, das zu hören.}
-{159}{}{Interessant, aber ich muß jetzt weiter.}
+{159}{}{Interessant, aber ich muss jetzt weiter.}
 {160}{}{Ja, er hat einen Hund. Wenn du mich fragst, ist es die hinterhältigste und abscheulichste Kreatur auf Erden. Aber er scheint Darion zu lieben, also kann er so schrecklich auch wieder nicht sein.}
 {161}{}{Ich mehr Fragen.}
-{162}{}{Äh, Tschüß.}
+{162}{}{Äh, Tschüss.}
 {163}{}{Verstehe. Danke für die Warnung.}
-{164}{}{Ah. Tja, ich muß jetzt gehn.}
+{164}{}{Ah. Tja, ich muss jetzt gehn.}
 {165}{}{Jemandem wie dir werde ich bestimmt nicht helfen. Verschwinde.}
-{166}{}{OK, also paß auf dich auf, und komm wieder wenn du irgendwas brauchst.}
+{166}{}{OK, also pass auf dich auf, und komm wieder wenn du irgendwas brauchst.}
 {167}{}{OK.}
-{168}{}{Jetzt ist er paranoid. Er glaubt, daß Tandi draußen auf ihn lauert. Er ist von Rache besessen: Er will Tandi töten. Außerdem hat er Schuldgefühle, weil er abgehauen ist und überlebt hat und nicht mit seiner Gang gestorben ist... die Liste ist endlos.}
+{168}{}{Jetzt ist er paranoid. Er glaubt, dass Tandi draußen auf ihn lauert. Er ist von Rache besessen: Er will Tandi töten. Außerdem hat er Schuldgefühle, weil er abgehauen ist und überlebt hat und nicht mit seiner Gang gestorben ist... die Liste ist endlos.}

@@ -79,7 +79,7 @@
  Diablos, ¿qué puedo hacer por ti?}
 {361}{}{Um... olvido yo. Marcho.}
 {363}{}{Bueno, buscaba algo de Jet…}
-{364}{}{Hey, I wanted something else...}
+{364}{}{Hola, yo quería algo más...}
 {365}{}{Tengo que irme. Te veré más tarde, Jimmy.}
 {375}{}{(Jimmy cae en un profundo silencio. Crees que le has paralizado el cerebro).}
 {376}{}{(Robas todo lo que tiene).}
@@ -138,7 +138,7 @@
 {510}{}{Me, I got ties to the CREATOR, my pilot friend. I get my Jet straight from the brainiac, the living god of drug n' compounds,
  MYRON.}
 {511}{}{¿Myron?}
-{512}{}{Interesting. Say, I had some other questions...}
+{512}{}{Interesante. Decir, que yo tenía algunas otras preguntas...}
 {513}{}{Myron, ¿eh? ¿Dónde puede encontrar a este… dios viviente?}
 {514}{}{¿En serio? Bueno, me aseguraré de volver y comprar algo más tarde. Gracias, Jimmy.}
 {520}{}{Es el niño mimado de la Familia Mordino. Él INVENTÓ el Jet. Comprar a Jeta Jimmy es como comprar al propio Myron, ¿entiendes? Es por eso
@@ -154,7 +154,7 @@
 {540}{}{Guardias, guardias, y más guardias. Además, la más avanzada seguridad electrónica en Nuevo Reno. Tendrías suerte si llegases siquiera a OÍR
  de alguien que ha visto a Myron, mira si está bien protegido.}
 {541}{}{Bien protegido, ¿eh? ¿Dónde, exactamente?}
-{543}{}{I see. Say, I had some other questions...}
+{543}{}{Lo que yo veo. Decir, que yo tenía algunas otras preguntas...}
 {550}{}{Lo tienen metido en ese sitio llamado "Establo", al norte, fuera de los límites de la ciudad. Sólo estuve una vez
  allí... y no me dejaron pasar de la puerta, ¡y eso que TRABAJO para la Familia.}
 {551}{}{Venga, debe haber algún modo en que pueda verle.}
@@ -178,7 +178,7 @@
 {600}{}{(Se encoge de hombros). Uno de los muchachos de Mordino va a La Garra de la Gata, calle abajo, eso he oído, y elige una para Myron de entre el grupo de
   Miss Kitty… (Jimmy deja de hablar de repente. Te mira fijamente y frunce el ceño). Espera un momento...}
 {601}{}{¿Qué sucede?}
-{602}{}{Uh... nevermind. Say, I had some other questions...}
+{602}{}{Uh... no importa. Decir, que yo tenía algunas otras preguntas...}
 {603}{}{Eh, bien, gracias por la información, Jimmy.}
 {610}{}{¿Por qué quieres saber una gilipollez así? Tengo Jet, eso es todo lo que NECESITAS saber. No necesitas saber nada sobre Myron,
  lo que tuvo para cenar, o lo que hace antes de irse a dormir.}
@@ -186,7 +186,7 @@
  Quieres ir directa a la fuente del Jet, ¿verdad, hermana?}
 {612}{}{No ahora mismo. Veamos lo que tienes, Jimmy.}
 {613}{}{Olvídalo, entonces. Negociemos.}
-{614}{}{Nevermind then. I had some other questions...}
+{614}{}{No importa entonces. Yo tenía algunas otras preguntas...}
 {615}{}{Quizá. Oye, tenía algunas otras preguntas…}
 {616}{}{No, sólo era curiosidad. Gracias, Jimmy. Tengo que irme.}
 {617}{}{De acuerdo entonces. Nos vemos, Jimmy. He de irme.}

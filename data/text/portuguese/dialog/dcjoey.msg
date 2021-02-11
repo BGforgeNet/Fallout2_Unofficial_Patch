@@ -16,7 +16,7 @@
 {162}{}{Você roubou um medalhão daquela casa assombrada?}
 {163}{}{Nada, esquece.}
 {164}{}{Esqueça. Vou matá-lo agora e resolver as peças mais tarde.}
-{165}{}{I-I don't know what you're talking about.}
+{165}{}{Eu-eu não sei do que você está falando.}
 {166}{}{Oh, eu acho que você sabe! Você roubou o medalhão de uma garota morta, e agora seu espírito não pode descansar.}
 {167}{}{Então eu vou levá-lo pela força.}
 {168}{}{I-Isso é louco! Você deveria ter sido r-realmente fodido em alguma merda de Tubby. Eu - eu nunca vi nenhum f-fantasma q-quando eu fiquei a-ali - apenas uma viagem ruim, não f-foi real.}

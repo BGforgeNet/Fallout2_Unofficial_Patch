@@ -22,7 +22,7 @@
 {121}{}{Buena suerte, mutante. La vas a necesitar.}
 {122}{}{¡Alto! ¿Qué estás haciendo aquí?}
 {123}{}{Estoy intentando recuperar a mi gente.}
-{124}{}{Nadie que te importe.}
+{124}{}{No es asunto tuyo.}
 {125}{}{No tengo tiempo para tus preguntas.}
 {126}{}{¿Y quién eres tú?}
 {127}{}{Bueno, ya sabes que ese bicho raro, el agente Horrigan, acaba de irrumpir por aquí. Está esperando a alguien para abalanzarse sobre él.}

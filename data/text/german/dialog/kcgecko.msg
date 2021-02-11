@@ -13,14 +13,14 @@
 {209}{}{96 Krüge Pisse an der Wand, 96 Krüge Pisse....}
 {210}{}{Ich werd in den Süden nach Den gehen, viel Arbeit da.}
 {211}{}{Mehr Gecko-Pisse hier, Salvadore!}
-{212}{}{Das Fallenstellen läuft in letzter Zeit nicht mehr so recht. Es muß einen einfacheren Weg geben, Geld zu machen.}
+{212}{}{Das Fallenstellen läuft in letzter Zeit nicht mehr so recht. Es muss einen einfacheren Weg geben, Geld zu machen.}
 {213}{}{Ich bin nich so bemunkn wie du trenkst.}
 {214}{}{Hey, Alter, sehen die Würfel vielleicht geladen aus? (Klapper, klapper)}
 {215}{}{Frag die Duntons oder den Barmann nach Arbeit, mein Junge.}
 {216}{}{Du hast dir den richtigen Ort zum Trinken ausgesucht, mein Freund.}
 {217}{}{Nein, Bishop, nicht schon wieder das Ding mit dem Messer.}
 {218}{}{Möchte jemand würfeln?}
-{219}{}{Schön, daß Aldo die Luft hier nicht verpestet.}
+{219}{}{Schön, dass Aldo die Luft hier nicht verpestet.}
 {220}{}{Schon mal Brahmin genommen, die dir nicht gehören?}
 {221}{}{Nimm dich in acht vor dem wandelnden Geist!}
 {222}{}{Es gibt einen Geist in einem Canyon östlich von hier.}

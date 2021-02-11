@@ -1,7 +1,7 @@
 {1}{}{Du erhältst %d %s.}
 {2}{}{Du verlierst %d %s.}
 {3}{}{Dir geht es besser.}
-{4}{}{You suffer a fatal heart attack from drug overdose.}
+{4}{}{Du erleidest einen tödlichen Herzanfall aufgrund einer Drogenüberdosis.}
 {5}{}{%s hat keine Ladung mehr.}
 {6}{}{%s ist eingeschaltet.}
 {7}{}{%s ist ausgeschaltet.}
@@ -10,7 +10,7 @@
 {10}{}{Nichts passiert.}
 {50}{}{Das sah nach garnicht so viel aus.}
 {500}{}{Es gibt nicht genügend Licht, um dieses Objekt nachzuladen.}
-{600}{}{%s succumbs to the adverse effects of drugs.}
+{600}{}{%s erliegt den Nebenwirkungen von Drogen.}
 {800}{}{Leicht}
 {801}{}{Mittel}
 {802}{}{Schwer}

@@ -1,5 +1,5 @@
-{100}{}{Du siehst ein Eingangssystem ohne Schloß. Eine Aufschrift besagt: "Tanker-SHS benutzen"}
-{101}{}{Du siehst ein Eingangssystem ohne Schloß. Eine Aufschrift besagt: "Tanker-SHS benutzen"}
+{100}{}{Du siehst ein Eingangssystem ohne Schloss. Eine Aufschrift besagt: "Tanker-SHS benutzen"}
+{101}{}{Du siehst ein Eingangssystem ohne Schloss. Eine Aufschrift besagt: "Tanker-SHS benutzen"}
 {102}{}{Das Schaltpult hat eine schwarze Platte mit einem roten Licht an der Oberseite und einem
  Schild mit der Aufschrift: "Hier Tanker-SHS benutzen"}
 {103}{}{Das Schaltpult hat eine schwarze Platte mit einem grünen Licht an der Oberseite und einem

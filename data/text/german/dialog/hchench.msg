@@ -13,7 +13,7 @@
 {112}{}{Wenn du was brauchst, rede mit Bill, dem H‰ndler.}
 {113}{}{Man sollte nach all dieser Zeit, in der versucht wurde das ÷dland zu zivilisieren, meinen, wir w‰ren einen Schritt weiter.}
 {114}{}{Ich bin diese Mensch/Mutanten-Streitereien satt. Sollen wir nicht ein Vorbild darstellen?}
-{115}{}{Was willste? Siehst du nicht daﬂ ich mich ausruhe??}
+{115}{}{Was willste? Siehst du nicht dass ich mich ausruhe??}
 {116}{}{Wann f‰hrt die n‰chste Karawane los?}
 {117}{}{Patrouille, Patrouille, Patrouille... Was anderes mach ich hier nicht.}
 {118}{}{Ich glaub ich brauch ne Pause.}

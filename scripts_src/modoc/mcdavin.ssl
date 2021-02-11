@@ -470,13 +470,6 @@ procedure Node017 begin
    end
    NOption(g_mstr(353),Node996,004);
 end
-/*
-{152}{}{I don’t believe you pimped me.}
-{153}{}{Let’s try a threesome next time.}
-{154}{}{Ooo…he’s a cutie.}
-{155}{}{Ask her.}
-{156}{}{That was great, who’s next.}
-*/
 
 // party stuff
 procedure Node1001 begin

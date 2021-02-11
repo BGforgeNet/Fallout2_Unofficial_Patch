@@ -14,7 +14,7 @@
 {113}{}{Estoy aquí para ver a la presidente Tandi.}
 {114}{}{Estoy aquí para ver a la presidente Tandi.}
 {115}{}{Estoy buscando trabajo.}
-{116}{}{¿Qué es este lugar?}
+{116}{}{¿Qué lugar es éste?}
 {117}{}{No puedes.}
 {118}{}{Yo me voy.}
 {119}{}{Lo siento, aquí no hay aseos públicos. ¿Por qué no sigues tu camino?}

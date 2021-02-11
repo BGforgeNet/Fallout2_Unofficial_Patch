@@ -8,12 +8,12 @@
 {202}{}{Zerstöre Beckys Destillator}
 {203}{}{Besorg ein Autoersatzteil für Smitty.}
 {204}{}{Bringe Annas Goldmedaillon zurück.}
-{205}{}{Collect Rebecca's money from Fred.}
-{206}{}{Get Rebecca's book from Derek.}
+{205}{}{Treib Rebeccas Geld von Fred ein.}
+{206}{}{Hol Rebeccas Buch von Derek.}
 {207}{}{Liefer das Essen von Mom bei Smitty ab.}
 {208}{}{Lara will wissen, was in der Kirche bewacht wird.}
-{209}{}{Get permission from Metzger for the gang war.}
-{210}{}{Find a weakness in Tyler's gang guarding the church.}
+{209}{}{Hol bei Metzger Erlaubnis für Bandenkrieg ein.}
+{210}{}{Finde eine Schwachstelle bei Tylers Gang, die die Kirche bewacht.}
 {211}{}{Hilf Lara beim Angriff auf Tylers Gang.}
 {300}{}{Füll den Destillator wieder auf.}
 {301}{}{Rette den Fallensteller Smiley.}
@@ -23,19 +23,19 @@
 {305}{}{Rette Torr.}
 {400}{}{Bei der Farm nordöstlich von Modoc gehen seltsame Dinge vor. Kundschafte das aus und erstatte Jo Bericht.}
 {401}{}{Cornelius hat seine goldene Taschenuhr verloren. Such sie, und gib sie ihm wieder.}
-{402}{}{Farrel will, daß du Cornelius' goldene Taschenuhr findest. Such sie, und gib sie Farrel wieder.}
+{402}{}{Farrel will, dass du Cornelius' goldene Taschenuhr findest. Such sie, und gib sie Farrel wieder.}
 {403}{}{Jonny ist verschwunden. Such ihn, und bring ihn nach Hause zu Balthas zurück.}
 {404}{}{Jonny ist in den Höhlen der Schlacken. Finde eine Möglichkeit, Jonny nach Hause zu Balthas zu bringen.}
 {405}{}{Werde die Plage in Farrels Garten los.}
-{406}{}{Deliver the Slag's message to Jo in Modoc.}
+{406}{}{Überbringe die Nachricht der Schlacken an Jo in Modoc.}
 {407}{}{Jo findet die Schlacken verdächtig. Informiere dich über die Leichen in der Geisterfarm, und finde heraus, was Karl zugestoßen ist.}
-{408}{}{Geh nach Den und sag Karl, daß er wieder nach Hause kommen kann.}
+{408}{}{Geh nach Den und sag Karl, dass er wieder nach Hause kommen kann.}
 {409}{}{Bewache Grishams Brahmin.}
 {500}{}{Besorg einen Pflug für Mr. Smith.}
 {501}{}{Liefere Moores Aktentasche bei Mr. Bishop in New Reno ab.}
 {502}{}{Liefere eine Jet-Probe bei Dr. Troy ab.}
 {503}{}{Löse das Problem im Kraftwerk von Gecko.}
-{504}{}{Liefere Lynettes Holodisk bei Westin in der NCR ab.}
+{504}{}{Liefere Lynettes Holo-Disk bei Westin in der NCR ab.}
 {505}{}{Rette Amandas Mann Joshua.}
 {506}{}{Liefere je 10 Flaschen Bier und Schnaps an Lydia.}
 {507}{}{Liefere eine Zange (Werkzeug) und einen Schraubenschlüssel bei Valerie ab.}
@@ -67,25 +67,25 @@
 {809}{}{Hilf bei der Bewachung einer geheimen Transaktion in der Wüste.}
 {810}{}{Such ein paar Endorphinblocker, um ein Gegenmittel gegen Jet herzustellen.}
 {811}{}{Jage den Destillator der Wrights unter dem Bahnhof in die Luft.}
-{812}{}{Bring Westin in der NCR um, ohne daß es wie ein Mord aussieht.}
+{812}{}{Bring Westin in der NCR um, ohne dass es wie ein Mord aussieht.}
 {813}{}{Bring Carlson in der NCR um.}
 {814}{}{Liefere zehn Cat's Paw-Zeitschriften bei Miss Kitty ab.}
 {815}{}{Liefere eine Laserpistole bei Eldridge ab.}
 {816}{}{Bring das Paket von Big Jesus zu Ramirez bei den Ställen.}
 {817}{}{Treibe die Abgabe von den Korsischen Brüdern ein.}
-{818}{}{Bring Boß Salvatore für Big Jesus Mordino um.}
+{818}{}{Bring Boss Salvatore für Big Jesus Mordino um.}
 {900}{}{}
 {1000}{}{}
 {1100}{}{Berge Teile aus/Verschaffe dir Zugang zu Vault 15.}
 {1101}{}{"Kümmere" dich für Mira um Offizier Jack.}
-{1102}{}{Complete the brahmin drive.}
-{1103}{}{Retrieve the papers from Dr. Henry.}
-{1104}{}{Test the mutagenic serum on a super-mutant. Try Broken Hills.}
+{1102}{}{Schließ die Brahmin-Tour ab.}
+{1103}{}{Hol die Papiere von Dr. Henry.}
+{1104}{}{Teste das Mutationsserum an einem Supermutanten. Versuch es in Broken Hills.}
 {1105}{}{Schaff Mr. Bishop aus dem Weg.}
-{1106}{}{Bring Westins Holodisk zu Lynette nach Vault City.}
+{1106}{}{Bring Westins Holo-Disk zu Lynette nach Vault City.}
 {1107}{}{Beschaffe die Karte von den NCR-Rangern für Vortis, den Sklavenhändler.}
 {1108}{}{Befreie die Sklaven im Sklavenpferch für die Ranger.}
-{1109}{}{Deliver the Hubologist's field report to AHS-9 in San Francisco.}
+{1109}{}{Liefere den Feldbericht der Erleuchteten bei AHS-9 in San Francisco ab.}
 {1110}{}{Töte die Erleuchtete in der NCR für Merk.}
 {1111}{}{Beende die Brahmin-Diebstähle.}
 {1200}{}{Repariere den Computer in Vault 13.}
@@ -107,9 +107,9 @@
 {1509}{}{Die Shi brauchen Vertibird-Pläne aus Navarro.}
 {1510}{}{Stiehl den Hubologen die Vertibird-Pläne.}
 {1511}{}{Suche die Freundin von Dachs im Schiffsbauch.}
-{1512}{}{Der Drache will, daß du mit Lo Pan aus dem Weg räumst - im Kampf Mann gegen Mann.}
-{1513}{}{Lo Pan will, daß du mit den Drachen aus dem Weg räumst - wenn möglich im Kampf Mann gegen Mann.}
-{1514}{}{Get Chip's spleen back.}
+{1512}{}{Der Drache will, dass du mit Lo Pan aus dem Weg räumst - im Kampf Mann gegen Mann.}
+{1513}{}{Lo Pan will, dass du mit den Drachen aus dem Weg räumst - wenn möglich im Kampf Mann gegen Mann.}
+{1514}{}{Hol Chips Milz zurück.}
 {1515}{}{Besorg eine gehärtete Powerrüstung von Crockett.}
 {1516}{}{Hol die Vertibird-Pläne von der Brotherhood of Steel.}
 {1600}{}{Kümmere dich um die Deathclaw.}
@@ -132,5 +132,5 @@
 {3100}{}{}
 {3200}{}{Rette Chrissy}
 {3201}{}{Töte Darion}
-{3202}{}{Complete the deal with NCR.}
-{3203}{}{Give the Spy Holodisk to the authorities in NCR.}
+{3202}{}{Schließ die Vereinbarung mit der NCR ab.}
+{3203}{}{Gib die Spion-Holodisk bei der Regierung der NCR ab.}

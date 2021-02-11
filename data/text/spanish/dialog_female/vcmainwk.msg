@@ -31,7 +31,7 @@
 {130}{}{Estaba buscando el Refugio. ¿Puedes decirme dónde está?}
 {131}{}{En realidad, ya me marchaba.}
 {132}{}{Es ese gran agujero de la montaña del este, más allá de los dos guardias armados. ¿Hay algo más que quieras saber o puedo volver el trabajo?}
-{133}{}{¿Qué es este lugar?}
+{133}{}{¿Qué lugar es éste?}
 {134}{}{Cuidado. Hoy no estoy de humor para chorradas.}
 {135}{}{Gracias por las indicaciones. Adiós.}
 {136}{}{Como si Ciudad Refugio no tuviera bastantes brahmines humanos... mira, NO PUEDES ESTAR AQUÍ, ¿VALE? ¡Te puedes HACER DAÑO! ¡AHORA SAL DE AQUÍ! ¡FUERA!}

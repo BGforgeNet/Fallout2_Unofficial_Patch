@@ -14,10 +14,10 @@
 {113}{}{OK.}
 {114}{}{Warum 'lein?}
 {115}{}{Nein, ich gehen.}
-{116}{}{Alles klar, laß uns gehn.}
+{116}{}{Alles klar, lass uns gehn.}
 {117}{}{Warum so geheimnisvoll?}
 {118}{}{Nein danke, ich will damit nichts zu tun haben.}
-{119}{}{[Flüsternd] Du denkst vielleicht, daß ich verrückt bin, aber ich hab das Gefühl, ständig beobachtet zu werden. Das ist ziemlich aufreibend und macht mich nervös.}
+{119}{}{[Flüsternd] Du denkst vielleicht, dass ich verrückt bin, aber ich hab das Gefühl, ständig beobachtet zu werden. Das ist ziemlich aufreibend und macht mich nervös.}
 {120}{}{OK, gehn reden.}
 {121}{}{Keine Zeit für kranker Kopf.}
 {122}{}{OK, wo können wir uns unterhalten?}
@@ -32,22 +32,22 @@
 {131}{}{Ich habe eine Tochter, Chrissy und Sie ist ein kleiner Wildfang. Sie rennt gern herum,
  erkundet die Umgebung und ist sehr neugierig. Aber Chrissy ist ein gutes Kind. Sie macht
  keine Probleme, sie ist immer pünktlich zu Hause und hat sich zu einer
- verantwortungsbewußten jungen Frau gemausert. Also laß ich sie die meiste Zeit machen, was
+ verantwortungsbewussten jungen Frau gemausert. Also lass ich sie die meiste Zeit machen, was
  sie will. Letzte Woche ist Chrissy nicht nach Hause gekommen. Ich hab rumgefragt und keiner
  hat sie gesehen oder etwas gehört. Ich wollt sie selbst suchen, aber Zeke, er ist... sowas
  wie ein Bürgermeister hier... hat mich daran gehindert. Er sagte, es sei zu gefährlich, wenn ich allein
  rausgehe. Er würde einige seiner Männer schicken. Sie haben meine Tochter nicht gefunden
  und meinten, die Sklavenhändler hätten sie vielleicht erwischt.}
 {132}{}{Nein, ich misch nicht ein.}
-{133}{}{Muß erst denken, dann entscheiden.}
+{133}{}{Muss erst denken, dann entscheiden.}
 {134}{}{OK, ich scheinen Held sein.}
 {135}{}{Tut mir leid. Kein Interesse.}
-{136}{}{Ich muß darüber nachdenken.}
+{136}{}{Ich muss darüber nachdenken.}
 {137}{}{OK, Rebecca, ich versuch, dir zu helfen.}
 {138}{}{Wenn ich dir helfe, was springt dabei für mich heraus.}
 {139}{}{Was willst du wissen?}
 {140}{}{Was hier los?}
-{141}{}{Wer Boß?}
+{141}{}{Wer Boss?}
 {142}{}{Ich versuchen, Vault 13 finden. Du wissen, wo sein?}
 {143}{}{Erzähl von Vault.}
 {144}{}{Erzähl von Darion.}
@@ -57,15 +57,15 @@
 {148}{}{Ich suche Vault 13. Weißt du was darüber?}
 {149}{}{Erzähl mir über die Vault.}
 {150}{}{Erzähl mir über Darion.}
-{151}{}{Danke Rebecca. Laß uns jetzt über dein Problem sprechen.}
-{152}{}{Wir nennen diesen Ort die "Siedlung", weil er von den Obdachlosen vieler Städte besiedelt wurde. Es ist nicht viel, aber es ist alles, was wir haben. Im Westen liegt eine Stadt die NCR heißt. Sie wußten schon länger daß wir hier sind, haben uns aber nie Hilfe angeboten oder uns behindert. Jetzt erheben sie plötzlich Ansprüche auf dieses Gebiet als die Heimat ihrer Vorfahren und wollen es zurück.}
+{151}{}{Danke Rebecca. Lass uns jetzt über dein Problem sprechen.}
+{152}{}{Wir nennen diesen Ort die "Siedlung", weil er von den Obdachlosen vieler Städte besiedelt wurde. Es ist nicht viel, aber es ist alles, was wir haben. Im Westen liegt eine Stadt die NCR heißt. Sie wussten schon länger dass wir hier sind, haben uns aber nie Hilfe angeboten oder uns behindert. Jetzt erheben sie plötzlich Ansprüche auf dieses Gebiet als die Heimat ihrer Vorfahren und wollen es zurück.}
 {153}{}{OK.}
 {154}{}{Was sie wollen?}
 {155}{}{Verstehe.}
 {156}{}{Was gibt es denn hier, das sie unbedingt wollen?}
 {157}{}{Naja... hier ist eine Vault, ich glaub die Nummer 15. Sie wollen sie wegen irgend einer alten Technologie plündern, die wohl noch da drinnen zu finden ist.}
 {158}{}{Ah, verstehn.}
-{159}{}{Ich wußte, daß hier noch was anderes sein muß als diese verkommenen Einwohner.}
+{159}{}{Ich wusste, dass hier noch was anderes sein muss als diese verkommenen Einwohner.}
 {160}{}{Kapiert.}
 {161}{}{Das erklärt einiges. Du hast mir sehr geholfen. Ich hab noch ein paar Fragen.}
 {162}{}{Das würde Zeke sein. Er schmeißt den Laden hier. Du findest ihn im Gebäude da drüben. [Zeigt nach Nordosten]}
@@ -75,9 +75,9 @@
 {166}{}{OK, ich tun.}
 {167}{}{OK, das mach ich.}
 {168}{}{Tja... wir sollen eigentlich nicht darüber reden, aber da ich deine Hilfe brauche... Die Vault wird gerade von Darion repariert. Er ist unser Gönner. Wenn wieder alles funktioniert, sollen wir alle dort einziehen, weil wir dann sicher vor Räubern, Sklavenhändlern und so sind. Im Moment hat er die Nahrungsmittel- und Trinkwassersysteme repariert, aber das ist alles.}
-{169}{}{Ich verstehn. Muß noch wissen.}
-{170}{}{Ich muß noch mehr erfahren.}
-{171}{}{Da gibt's nicht viel zu erzählen. Darion ist sehr verschlossen und verläßt die Vault nie. Wenn er was zu sagen hat, läßt er es durch Zeke mitteilen. Ich hab ihn nur einmal getroffen, und er schien ganz nett zu sein.}
+{169}{}{Ich verstehn. Muss noch wissen.}
+{170}{}{Ich muss noch mehr erfahren.}
+{171}{}{Da gibt's nicht viel zu erzählen. Darion ist sehr verschlossen und verlässt die Vault nie. Wenn er was zu sagen hat, lässt er es durch Zeke mitteilen. Ich hab ihn nur einmal getroffen, und er schien ganz nett zu sein.}
 {172}{}{OK.}
 {173}{}{Nette bringen es zu nichts. Ich frage mich, was er vor hat?}
 {174}{}{Verstehe.}
@@ -103,16 +103,16 @@
 {194}{}{Nein, tut mir leid.}
 {195}{}{Ich helfen.}
 {196}{}{Ja, ich werde dir helfen.}
-{197}{}{Du mußt die Person sein, die meine Tochter gerettet hat. Ich stehe ewig in deiner Schuld. Danke! Ich muß sofort mit Chrissy sprechen. Bitte warte hier, ich möchte danach mit dir sprechen.}
-{198}{}{Du hast meine Tochter gerettet. Ich stehe ewig in deiner Schuld. Danke! Ich muß sofort mit Chrissy sprechen. Bitte warte hier, ich möchte danach mit dir sprechen.}
+{197}{}{Du musst die Person sein, die meine Tochter gerettet hat. Ich stehe ewig in deiner Schuld. Danke! Ich muss sofort mit Chrissy sprechen. Bitte warte hier, ich möchte danach mit dir sprechen.}
+{198}{}{Du hast meine Tochter gerettet. Ich stehe ewig in deiner Schuld. Danke! Ich muss sofort mit Chrissy sprechen. Bitte warte hier, ich möchte danach mit dir sprechen.}
 {199}{}{OK.}
-{200}{}{Meine Tochter hat mir alles erzählt. Ich kann es kaum glauben, daß Darion so ein Monster ist, nach all dem, was er für uns getan hat. Und wenn ich daran denke, daß wir ihm geholfen haben, seine Räubereien zu verbergen. Ich garantier dir, das wird sich jetzt ganz schnell ändern. Ich hab bereits mit Zeke gesprochen. Er will dich sehen. Du solltest jetzt zu ihm gehn.}
-{201}{}{Ich kann kaum glauben, daß Darion so ein Monster ist, nach all dem, was er für uns getan hat. Und wenn ich daran denke, daß wir ihm geholfen haben, seine Räubereien zu verbergen. Ich garantier dir, das wird sich jetzt ganz schnell ändern. Ich werde mit Zeke sprechen und ihm alles erklären. Ich bin mir sicher, er wird dann mit dir sprechen wollen. Du solltest später zu ihm gehn.}
+{200}{}{Meine Tochter hat mir alles erzählt. Ich kann es kaum glauben, dass Darion so ein Monster ist, nach all dem, was er für uns getan hat. Und wenn ich daran denke, dass wir ihm geholfen haben, seine Räubereien zu verbergen. Ich garantier dir, das wird sich jetzt ganz schnell ändern. Ich hab bereits mit Zeke gesprochen. Er will dich sehen. Du solltest jetzt zu ihm gehn.}
+{201}{}{Ich kann kaum glauben, dass Darion so ein Monster ist, nach all dem, was er für uns getan hat. Und wenn ich daran denke, dass wir ihm geholfen haben, seine Räubereien zu verbergen. Ich garantier dir, das wird sich jetzt ganz schnell ändern. Ich werde mit Zeke sprechen und ihm alles erklären. Ich bin mir sicher, er wird dann mit dir sprechen wollen. Du solltest später zu ihm gehn.}
 {202}{}{Danke.}
 {203}{}{Ich hoffe, du findest Chrissy bald.}
 {204}{}{Ich suchen.}
 {205}{}{Ich werde weiter nach ihr suchen.}
 {206}{}{Danke für alles, was du für mich getan hast.}
-{207}{}{Ich weiß nicht warum, aber ich glaube nicht, daß die Sklavenhändler sie erwischt haben. Ich hab das ungute Gefühl, daß da noch was anderes läuft. Und dann hab ich ständig das Gefühl, daß mich jemand verfolgt. Das ist, seitdem ich mit Zeke über Chrissy gesprochen habe. Ich brauche jemanden, der mir hilft, meine Tochter zu finden. Würdest du mir helfen? Bitte!}
-{208}{}{Sie schicken ständig Leute her, die uns überreden sollen, unser Heim zu verlassen. Sie scheinen nicht zu verstehen, daß wir nirgendwo anders hin können. Wir sind nicht in der Lage, allein zu überleben, wenn wir diesen Ort verlassen.}
-{209}{}{Es ist schon merkwürdig, daß sie in der Lage sind, so etwas Komplexes zu reparieren aber das Licht kriegen sie nicht hin. Der verdammte Ort ist mit Fackeln erleuchtet. Und Darion will nicht, daß jemand weiß, was in der Vault vor sich geht. Er hat Angst, daß sie uns alles wegnehmen, wenn sie es herausfinden. Wir haben die Anweisung, jeden wegzujagen, der hier aufkreuzt — besonders die von der NCR.}
+{207}{}{Ich weiß nicht warum, aber ich glaube nicht, dass die Sklavenhändler sie erwischt haben. Ich hab das ungute Gefühl, dass da noch was anderes läuft. Und dann hab ich ständig das Gefühl, dass mich jemand verfolgt. Das ist, seitdem ich mit Zeke über Chrissy gesprochen habe. Ich brauche jemanden, der mir hilft, meine Tochter zu finden. Würdest du mir helfen? Bitte!}
+{208}{}{Sie schicken ständig Leute her, die uns überreden sollen, unser Heim zu verlassen. Sie scheinen nicht zu verstehen, dass wir nirgendwo anders hin können. Wir sind nicht in der Lage, allein zu überleben, wenn wir diesen Ort verlassen.}
+{209}{}{Es ist schon merkwürdig, dass sie in der Lage sind, so etwas Komplexes zu reparieren aber das Licht kriegen sie nicht hin. Der verdammte Ort ist mit Fackeln erleuchtet. Und Darion will nicht, dass jemand weiß, was in der Vault vor sich geht. Er hat Angst, dass sie uns alles wegnehmen, wenn sie es herausfinden. Wir haben die Anweisung, jeden wegzujagen, der hier aufkreuzt — besonders die von der NCR.}

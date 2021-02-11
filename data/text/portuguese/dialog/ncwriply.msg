@@ -128,15 +128,14 @@
 {456}{}{"Metal insects?"}
 {457}{}{Oh, okay. I was just curious.}
 {458}{}{Nooooo... I think I better be going.}
-{470}{}{(Glares at you.) C'mon, I know how to use guns like that! I'm in Family Wright! Let me see it! Pleeease?}
-{471}{}{Look: In the wrong hands, a gun is a deadly weapon. Well, I mean, it's ALWAYS a deadly weapon, but in the wrong hands... it's, uh... deadly... hold on, let me start over.}
-{472}{}{Look, if your family trusted you with a gun they would have given you one. Forget it.}
-{473}{}{I don't care if you're in Family Badass, you ain't getting this gun.}
-{474}{}{Well, all right. [Give him an unloaded pistol.]}
-{475}{}{Well, all right. [Give him a loaded pistol.]}
-{476}{}{Forget it. Go play with your friends.}
-{485}{}{Yeah, metal insects! We SAW one when we were out in th' desert! It was as big... (Takes a deep breath.) ...as big as
- a HOUSE! N'it had metal PEOPLE in it.}
+{470}{}{(Olha para você.) Vamos, eu sei como usar armas assim! Sou da Família Wright! Deixa eu ver! Por favor?}
+{471}{}{Veja: nas mãos erradas, uma pistola é uma arma mortal. Bem, quero dizer, é SEMPRE uma arma mortal, mas nas mãos erradas... é, uh... mortal... espere, deixe-me começar de novo.}
+{472}{}{Olha, se sua família lhe confiasse uma arma, eles teriam lhe dado uma. Esqueça.}
+{473}{}{Eu não me importo se você está na Família Badass, você não vai conseguir essa arma.}
+{474}{}{Humm, tudo bem. [Dê a ele uma pistola descarregada.]}
+{475}{}{Humm, tudo bem. [Dê a ele uma pistola carregada.]}
+{476}{}{Esqueça. Vá brincar com seus amigos.}
+{485}{}{Sim, insetos de metal! Vimos um quando estávamos no deserto! Era tão grande... (respira fundo.) ... tão grande quanto uma CASA! Não havia PESSOAS de metal nele.}
 {486}{}{Really! Wow! Where did you see it?}
 {487}{}{You're lying!}
 {488}{}{I don't believe you. You're lying.}

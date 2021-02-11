@@ -4,7 +4,7 @@
 {103}{}{¿Sí, soldado?}
 {104}{}{¿Qué es este lugar?}
 {105}{}{Sólo digo hola. Marcho.}
-{106}{}{¿Qué es este lugar?}
+{106}{}{¿Qué lugar es éste?}
 {107}{}{Sólo pasaba a saludar. Nos vemos.}
 {108}{}{Esta es la sala de la computadora. Eso es la computadora central de todo esto, la interfaz del terminal está al lado, y estos aparatos son las unidades holográficas de almacenamiento de datos. Son lo último y, desde luego, lo mejor.}
 {109}{}{Oh. Eh, ¿qué haces tú?}
@@ -12,7 +12,7 @@
 {111}{}{Soy el jefe de análisis informático. Desde aquí me encargo de mantener todo el equipo.}
 {112}{}{Oh. ¿Puedo usar computadora?}
 {113}{}{No entiendo. Me voy.}
-{114}{}{Dime, ¿puedo usar el sistema por un minuto? Ya sabes, para revisarlo.}
+{114}{}{Decir, ¿puedo utilizar el sistema durante un minuto? Sabes, échale un vistazo?}
 {115}{}{Eh, encantado de hablar contigo. Te veré mas tarde.}
 {116}{}{Bueno... se supone que no se permite a personal no cualificado usar el equipo. Es todo muy complejo y delicado, ya me entiendes.}
 {117}{}{¿Por favor? No rompo yo.}

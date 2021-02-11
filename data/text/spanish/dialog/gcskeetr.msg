@@ -161,7 +161,7 @@
  ojos]. Bueno, es un reto, pero creo que puedo mejorarlo realmente
  bien para ti. Siéntate durante un rato. [Skeeter tiende el arma sobre su
  mesa de trabajo y la inmoviliza con un gran torno].}
-{641}{}{De acuerdo.}
+{641}{}{Vale.}
 {650}{}{[Mientras esperas, ves cómo Skeeter te da la espalda mientras trabaja con tu arma. No
  sabes exactamente qué está haciendo pero su extraña risa y todos los martillazos
  te están poniendo nervioso].}

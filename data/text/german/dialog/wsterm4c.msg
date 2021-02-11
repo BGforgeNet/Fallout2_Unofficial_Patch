@@ -89,8 +89,8 @@
 {163}{}{Versuche Anpassungen vorzunehmen}
 {164}{}{Zurück zum Entnahmemenü}
 {165}{}{Zu einem späteren Zeitpunkt noch mal versuchen.}
-{166}{}{[Wegen deiner Ungeschicklichkeit sterben alle Gehirne ab. Daß du die Temperatur auf 
- 98,6 °C erhöht hast, war wohl doch ein bißchen viel des Guten. Wissenschaft war noch nie deine
+{166}{}{[Wegen deiner Ungeschicklichkeit sterben alle Gehirne ab. Dass du die Temperatur auf 
+ 98,6 °C erhöht hast, war wohl doch ein bisschen viel des Guten. Wissenschaft war noch nie deine
  Stärke.]}
 {167}{}{Beenden}
 {168}{}{[Offensichtlich probierst du nach dem Motto "Aus Fehlern wird man klug" einfach alle
@@ -101,7 +101,7 @@
  zu retten. Deine Methode weist dich nicht gerade als waschechten Wissenschaftler aus.]}
 {171}{}{Gehirn holen}
 {172}{}{[Klarer Fall: Du weißt, was du tust. Du hast nur einen einzigen Fehler gemacht und
- konntest somit drei von vier Gehirnen retten. Es hat sich gelohnt, daß du immer brav deine
+ konntest somit drei von vier Gehirnen retten. Es hat sich gelohnt, dass du immer brav deine
  Wissenschaftsmagazine gelesen hast.]}
 {173}{}{Gehirn holen}
 {174}{}{[Du konntest die Krise mit ein paar schnellen Tasteneingaben abwenden und alle Gehirne retten. Die Wissenschaft ist eindeutig mehr als nur ein Steckenpferd für dich.]}
@@ -141,7 +141,7 @@
 {212}{}{[Die Gehirnaktivität entspricht in keiner Weisen den Vorgaben! Ihrem Aussehen nach zu 
 urteilen, sind die Signale teils digitalen, teils menschlichen Ursprungs.] Holen?}
 {216}{}{[Der Roboter macht sich unverzüglich auf den Weg, das von dir angeforderte Gehirn
- herbeizuschaffen. Als er zurückkehrt, hast du den Eindruck, daß es Probleme gibt. Dieser
+ herbeizuschaffen. Als er zurückkehrt, hast du den Eindruck, dass es Probleme gibt. Dieser
  Eindruck bestätigt sich auf krasse Weise, als der Roboter plötzlich explodiert. Aber du hattest
  Glück: Er hat das Gehirn noch rechtzeitig abgeliefert.]}
 {217}{}{Beenden}

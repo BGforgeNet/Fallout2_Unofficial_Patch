@@ -51,7 +51,7 @@
 {269}{}{Deine Plasmapistole Glock 86.}
 {270}{}{Such in deinem Rucksack und gib ihm etwas anderes...}
 {271}{}{Mach dir nichts draus, Al. Bis später.}
-{272}{}{Mach dir nichts draus, Kleiner....heute gibt's keine Spielzeuge für dich. Tschüß.}
+{272}{}{Mach dir nichts draus, Kleiner....heute gibt's keine Spielzeuge für dich. Tschüss.}
 {276}{}{Dein Colt-Jagdgewehr.}
 {277}{}{Dein AK-112-Sturmgewehr.}
 {278}{}{Dein FN FAL.}
@@ -59,7 +59,7 @@
 {280}{}{Deinen Flammenwerfer Flambe 450.}
 {281}{}{Dein Plasmagewehr.}
 {291}{}{Willst du einen Schluck von dem Flammenwerferbenzin hier?}
-{292}{}{Hier hast du ein bißchen Benzin für den Flammenwerfer. Kannst du damit was anfangen?}
-{301}{}{Gib ihm deinen Elektroschock-Stab. Paß auf, daß er ihn am Griff anfaßt.}
-{302}{}{Your BeatCo "Bigger Frigger" Power Fist.}
+{292}{}{Hier hast du ein bisschen Benzin für den Flammenwerfer. Kannst du damit was anfangen?}
+{301}{}{Gib ihm deinen Elektroschock-Stab. Pass auf, dass er ihn am Griff anfasst.}
+{302}{}{Deine Powerfaust "Bigger Frigger" von der Beat Co.}
 {400}{}{Ich Al töten. Besser weg hier.}

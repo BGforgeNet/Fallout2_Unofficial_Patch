@@ -22,7 +22,7 @@
 {121}{}{Necesito un momento para prepararme.}
 {122}{}{El camino del Elegido no es una senda fácil de seguir, }
 {123}{}{. Te enfrentarás a muchos desafíos a lo largo de tu vida, y el más difícil de ellos será el de tener que luchar contra un compañero. Habrá un momento en el que ni la diplomacia ni el ingenio te serán útiles y en su lugar deberás usar la fuerza. Este desafío te prepara para hacerle frente a otro ser humano, mirarle a los ojos, y saber que tienes que matarlo.}
-{124}{}{De acuerdo.}
+{124}{}{Vale.}
 {125}{}{Ya veo.}
 {126}{}{No, amiga mía, sólo tienes que derrotarme. Cuando lo hagas, terminará el combate.}
 {127}{}{Yo entiendo.}

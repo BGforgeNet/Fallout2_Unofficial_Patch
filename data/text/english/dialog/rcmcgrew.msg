@@ -200,7 +200,7 @@
 {248}{}{Everyone wants what Redding's got. Some folks are going to be nicer about how they get it out
  of us, though. Let me explain the situation.}
 {249}{}{Go ahead.}
-{250}{}{I've heard enough of your explanation all ready. Goodbye.}
+{250}{}{I've heard enough of your explanation already. Goodbye.}
 {251}{}{I'll pay you $1,000 for that Excavator Chip.}
 {252}{}{That sounds good to me. Where do I find it?}
 {253}{}{Sounds good to me. Here's your chip.}
@@ -220,7 +220,7 @@
  Be willing to pay $1,000 for it, too.}
 {264}{}{Where is it?}
 {265}{}{If you need it so bad, how come you haven't gone to get it yourself?}
-{266}{}{I'm packed to the gills with quests all ready. Sorry, pal. Goodbye.}
+{266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
 {267}{}{Plenty of reasons, most of 'em hungry and nasty. Wanamingo mine's just chock-full of hungry
  Wanamingos.}
 {268}{}{What the hell is a Wanna-mingle?}

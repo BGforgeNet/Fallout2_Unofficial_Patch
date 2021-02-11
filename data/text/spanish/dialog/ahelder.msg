@@ -16,7 +16,7 @@
 {119}{}{Estoy listo para la sagrada búsqueda.}
 {120}{}{Necesito algo más de información.}
 {121}{}{¡No voy a hacer que me maten!}
-{122}{}{¿Qué se supone que tenía que hacer ahora?}
+{122}{}{¿Qué se supone que tenía que volver a hacer?}
 {123}{}{Me largo.}
 {124}{aeld5}{Esas son buenas noticias, pero no es suficiente para salvarnos. Debes volver pronto con el GECK o ¡nuestro pueblo morirá!}
 {125}{}{Necesito algo más de información.}
@@ -58,7 +58,7 @@
 {162}{}{Deséame suerte, Anciana, y no te fallaré.}
 {163}{aeld16}{Encuentra a Vic en Klamath. Contamos contigo.}
 {164}{aeld17}{Qué bueno volver a verte, hijo. No quiero ser abrupta pero veo que no has completado la búsqueda del sagrado Trece. Por favor, no pierdas el tiempo hablando. La necesidad de nuestra gente es grande. ¡Encuentra el Refugio!}
-{165}{}{Marcho ahora.}
+{165}{}{Yo irme ahora.}
 {166}{}{Está bien, ya me marcho.}
 {167}{}{No te fallaré, Anciana.}
 {168}{}{Estoy trabajando en ello, ¿vale?}
@@ -68,13 +68,13 @@
 {172}{}{No te fallaré ni a ti ni a nuestra gente, Anciana.}
 {173}{}{Oye. Si crees que tú puedes hacerlo mejor...}
 {174}{aeld19}{Elegido, las cosas no marchan bien. Necesitamos el GECK si nuestro poblado quiere sobrevivir. Nuestra gente se debilita por el hambre y nuestras reservas de comida no durarán mucho más. Por favor encuentra el sagrado Trece y vuelve aquí. Vete ya.}
-{175}{}{Me voy, yo.}
+{175}{}{Yo ir.}
 {176}{}{Muy bien. Me largo de aquí.}
 {177}{}{Haré todo lo que esté en mi mano para encontrar el GECK y salvar a nuestro pueblo.}
 {178}{}{No me presiones, vieja. Hago lo que puedo.}
 {179}{aeld20}{Hijo, nuestra necesidad es mayor que nunca. Nuestra gente enferma, el ganado muere y nuestra comida se ha acabado. La ruina de esta tierra sólo puede ser curada con el GECK. Ve, encuentra el GECK y salva a nuestro pueblo.}
 {180}{}{Yo entiendo.}
-{181}{}{Voy de camino.}
+{181}{}{Estoy en camino.}
 {182}{}{Perdóname, Anciana. Encontraré el GECK sin demora.}
 {183}{}{Sí, sí. Estás empezando a sonar como un disco rayado...}
 {200}{eeld1}{¡Elegido! ¿Cómo has llegado hasta aquí?}
@@ -104,13 +104,13 @@
 {224}{}{Perdón, no eres una vieja zorra. Y ahora ¿qué está pasando aquí?}
 {225}{}{Como si pudieras ayudarme desde ahí. Que te jodan, muérete.}
 {226}{eeld9}{Vete. No eres mejor que estos demonios. Me arrepiento del día en que fuiste nombrado Elegido.}
-{227}{eeld10}{¿Por qué estás aquí? Cada minuto que gastas otro de nuestra gente puede ser aniquilado. Y no te olvides del GECK. ¡Debemos tenerlo!}
+{227}{eeld10}{¿Por qué sigues aquí? Cada minuto que pierdas otro de los nuestros podría ser asesinado. ¡Y no olvides el GECK! Debemos conseguirlo.}
 {228}{}{¿¿Nuh??}
 {229}{}{¿A dónde se supone que debía ir?}
 {230}{}{Sólo quería cabrearte. Estoy en ello, no te preocupes.}
 {231}{eeld11}{(suspira) Ve abajo. Mata. Destruye máquinas. ¡Ahora!}
 {232}{eeld12}{¡Escucha por una vez! Ve a los niveles de abajo. Encuentra la máquina que da energía. Deténla para que podamos escapar. Los hombres de aquí no son fieles al sueño del Refugio. Son malvados. Y, si no has encontrado aún el GECK, búscalo aquí. Nuestra libertad no servirá de nada si nuestro poblado no puede salvarse. ¡Ahora vete!}
-{233}{}{Entiendo.}
+{233}{}{Entendido.}
 {234}{eeld13}{Así es como lo llaman. Nos clavan agujas en la piel, como estimulantes, pero ocurren cosas terribles. Entonces... (le dan arcadas)}
 {235}{}{¿Y entonces qué?}
 {236}{}{Esto me va a hacer vomitar, ¿no?}

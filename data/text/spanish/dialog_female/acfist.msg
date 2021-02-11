@@ -26,9 +26,9 @@
 {125}{}{Necesitas aprender más cosas sobre combatir antes de que pueda ayudarte, hermanita.}
 {126}{}{Oh, vale.}
 {127}{}{Puedo enseñarte cómo dar patadas más fuertes, pero nos llevará todo un día.}
-{128}{}{De acuerdo.}
+{128}{}{Vale.}
 {129}{}{Puedo enseñarte a pelear mejor, pero nos llevará todo un día.}
-{130}{}{De acuerdo.}
+{130}{}{Vale.}
 {131}{}{Has aprendido bien, Elegida. Que los vientos te sean favorables.}
 {132}{}{Gracias por tu ayuda.}
 {133}{}{Te he enseñado todo lo que sé, Elegida. Buena suerte en tu búsqueda.}

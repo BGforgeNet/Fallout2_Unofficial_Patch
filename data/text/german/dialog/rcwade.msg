@@ -2,11 +2,11 @@
 {101}{}{Du siehst Ben Wade, den Karawanen-Meister für die Strecke zwischen Redding und Vault City.}
 {102}{}{Du siehst einen Mann in einem Vaultanzug.}
 {103}{}{Du hast Nerven, hier nach einem Job zu fragen. Für mich wirst du nie wieder arbeiten.}
-{104}{}{Sieh bloß zu, daß du mir aus den Augen gehst.}
+{104}{}{Sieh bloß zu, dass du mir aus den Augen gehst.}
 {105}{}{Schmeißen wir sie raus. Hoch mit euch!}
 {106}{}{OK, gehen wir.}
 {107}{}{Hallo, du da. Mein Name ist Ben. Ben Wade. Ich führe die Handelskarawanen zwischen Redding und Vault City an. In der Regel kann ich eine Extrawache gebrauchen und wir wollen gerade aufbrechen.}
-{108}{}{Hallo, du da. Mein Name ist Ben. Ben Wade. Ich führe die Handelskarawanen zwischen Redding und Vault City an. In der Regel kann ich ein paar Extrawachen gebrauchen. Wir brechen jeden Ersten des Monats aus der Stadt auf. Wenn du für mich arbeiten möchtest, sieh zu, daß du dann hier bist.}
+{108}{}{Hallo, du da. Mein Name ist Ben. Ben Wade. Ich führe die Handelskarawanen zwischen Redding und Vault City an. In der Regel kann ich ein paar Extrawachen gebrauchen. Wir brechen jeden Ersten des Monats aus der Stadt auf. Wenn du für mich arbeiten möchtest, sieh zu, dass du dann hier bist.}
 {109}{}{Was willst du jetzt?}
 {110}{}{Muh-Muhs?}
 {111}{}{Soso, du brauchst eine Wache?}
@@ -15,7 +15,7 @@
 {114}{}{Ich glaube, das ist nichts für mich. Auf Wiedersehen.}
 {115}{}{Scheint so, als ob es jedes Mal schwerer wird.}
 {116}{}{Ha, meine Karawane anzugreifen hätten die sich besser zweimal überlegen sollen.}
-{117}{}{Gut, daß du auf dieser Reise dabei bist.}
+{117}{}{Gut, dass du auf dieser Reise dabei bist.}
 {118}{}{Wie ärgerlich. Hier ist es auch nicht mehr so, wie es mal war.}
 {119}{}{Die Öde ist einfach nicht mehr so sicher wie früher.}
 {120}{}{Du bist gar keine Wache, du bist ein Schwindler. Raus hier, du Feigling.}
@@ -26,7 +26,7 @@
 {125}{}{Wenn du deine Arbeit ordentlich gemacht und meine Karawane bewacht hättest, hätte ich jetzt genug Geld, dich zu bezahlen. So wie die Dinge
  stehen...na ja, man sät, was man erntet. Du bekommst nichts.}
 {126}{}{Du Sauhund! Dafür wirst du bezahlen! Auf Wiedersehen.}
-{127}{}{Na gut, manchmal hat man mehr Glück und manchmal weniger. Das war wohl kein Glückstag. Tschüß.}
+{127}{}{Na gut, manchmal hat man mehr Glück und manchmal weniger. Das war wohl kein Glückstag. Tschüss.}
 {128}{}{Das war eine schlechte Tour. Ich kann dir nur $500 geben - und selbst dann bin ich pleite. Tut mir leid.}
 {129}{}{Na, das ist besser als nichts. Wiedersehn.}
 {130}{}{Du Schweinehund! Niemand hätte das besser machen können. Das wirst du noch bereuen! Auf Wiedersehen.}
@@ -34,16 +34,16 @@
  wieder.}
 {132}{}{Ich will, glaube ich, nie wieder so lange auf den Hintern eines Brahmins starren müssen. Auf Wiedersehen.}
 {133}{}{Das war gar nicht so schlecht. Man sieht sich. Wiedersehen.}
-{134}{}{Wow! Das war vielleicht 'ne gute Tour! $1000 für dich und hier hast du noch mal $200 als Bonus. Du mußt so 'ne Art
+{134}{}{Wow! Das war vielleicht 'ne gute Tour! $1000 für dich und hier hast du noch mal $200 als Bonus. Du musst so 'ne Art
  Maskottchen sein. Wenn du mal wieder in der Nähe bist, komm doch wieder mit uns mit.}
-{135}{}{Nett zu wissen, daß es jemanden gibt, der Qualität zu schätzen weiß. Vielleicht sieht man sich ja mal wieder. Wiedersehn!}
+{135}{}{Nett zu wissen, dass es jemanden gibt, der Qualität zu schätzen weiß. Vielleicht sieht man sich ja mal wieder. Wiedersehn!}
 {136}{}{Ich bin immer froh, ein paar Mäuse dazuverdienen zu können. Danke und auf Wiedersehen.}
 {137}{}{Hm, schwer zu sagen. Das hängt wahrscheinlich davon ab, wie lang es dauert, genug Erz zusammenzukriegen. Ich bin
- kein Bergarbeiter, aber ich glaube nicht, daß es länger als ein paar Wochen dauert.}
+ kein Bergarbeiter, aber ich glaube nicht, dass es länger als ein paar Wochen dauert.}
 {138}{}{Ich bin mir nicht sicher, wie lange ich brauche, um alle Medikamente aufzutreiben. Wahrscheinlich aber nicht viel länger
  als ein paar Wochen. Frag halt immer mal nach.}
 {139}{}{Was transportiert ihr denn normalerweise?}
-{140}{}{Ich möcht dich noch was andres fragen.}
+{140}{}{Ich möchte dich noch was anderes fragen.}
 {141}{}{Danke, das werde ich tun. Wiedersehn.}
 {142}{}{Wir suchen eigentlich immer nach Wachen für die Karawane, aber diese Karawane ist noch eine Weile nicht bereit zur Abreise. Du kannst
  aber immer mal nachfragen.}
@@ -55,7 +55,7 @@
 {148}{}{Tja, wir holen meistens Medikamente aus Vault City ab und tauschen sie in Redding gegen
  Golderz ein.}
 {149}{}{Interessant. Und du sagst, du suchst nach Wachen?}
-{150}{}{Ich möcht dich noch was andres fragen.}
+{150}{}{Ich möchte dich noch was anderes fragen.}
 {151}{}{Oh, OK. Wiedersehn.}
 {152}{}{Genau zum richtigen Zeitpunkt. Wir wollten gerade aufbrechen. Es gibt $1000 für den Job, aber ich zahle nur dich dafür,
  weil ich nur noch eine Wache brauche. Alles klar?}

@@ -72,10 +72,10 @@
 {324}{}{Bien, ya podéis marchar.}
 {325}{}{Entonces, id moviéndoos.}
 {326}{}{Bien. Ven a verme cuando hayas acabado.}
-{327}{}{De acuerdo.}
+{327}{}{Vale.}
 {328}{}{Uh.}
 {340}{}{Mata sólo a los hostiles. Si te atacan, mátalos. No quiero tener que lidiar con ellos, son un fastidio demasiado grande. Una vez que hayas acabado, los otros esclavistas rodearan y marcarán al resto.}
-{341}{}{De acuerdo.}
+{341}{}{Vale.}
 {342}{}{Oh.}
 {350}{}{Una vez que empiecen a marcar a los esclavos, puedes volverte si quieres. Se necesita un entrenamiento especial, así que no trates de someterlos por ti mismo. Puedes hacer lo que quieras siempre y cuando no dañes a la mercancía.}
 {351}{}{De acuerdo.}
@@ -88,9 +88,9 @@
 {365}{}{Otro primitivo. Esto parece un espectáculo de monstruitos. Aunque parece fuerte y ese aspecto podría darme más dinero. ¿}
 {366}{}{¿Qué tal otro?}
 {367}{}{Bueno, entonces déjame hacerte otra pregunta.}
-{368}{}{De acuerdo.}
+{368}{}{Vale.}
 {369}{}{Bien.}
-{370}{}{De acuerdo.}
+{370}{}{Vale.}
 {371}{}{No es suficiente.}
 {372}{}{No.}
 {380}{}{De acuerdo, chicos, metedle en las jaulas.}
@@ -131,7 +131,7 @@
 {477}{}{Gracias.}
 {485}{}{El Enclave y Nuevo... Eh, ¿qué demonios te importa a ti? Es mi negocio. Tengo que asegurarme de que nadie intenta joderme. Es todo lo que tengo que decir.}
 {486}{}{Métete en tus propios asuntos.}
-{487}{}{De acuerdo.}
+{487}{}{Vale.}
 {495}{}{Claro, pero te costará }
 {496}{}{¿}
 {497}{}{¿No podemos llegar a un acuerdo?}
@@ -207,7 +207,7 @@
 {711}{}{¿Qué?}
 {712}{}{Oh, caray...}
 {720}{}{Me alegra que estemos de acuerdo. [Metzger mira a sus guardias.] Chicos, día de paga.}
-{721}{}{Uh...}
+{721}{}{Eh...}
 {730}{}{Sí. Es una pena, la verdad. Esta persona no parece entenderlo, pero va a hacerlo muy pronto. [Ves como Metzger realiza un pequeño gesto con la mano a sus hombres.] Hora de jugar.}
 {731}{}{Oh, ¿en serio?}
 {732}{}{Oh, oh.}

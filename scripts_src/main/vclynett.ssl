@@ -1190,7 +1190,7 @@ end
 
 procedure Node044a begin
    call Node051;
-//   if (skill_success(dude_obj,SKILL_CONVERSANT,-10)) then
+//   if (skill_success(dude_obj,SKILL_SPEECH,-10)) then
 //       call Node051;
 //   else
 //       call Node041;
@@ -1481,7 +1481,7 @@ procedure Node056a begin
 end
 
 procedure Node056b begin
-   //if (skill_success(dude_obj,SKILL_CONVERSANT,-20)) then begin
+   //if (skill_success(dude_obj,SKILL_SPEECH,-20)) then begin
        set_neutral_critter_reaction;
        call Node053;
    //end

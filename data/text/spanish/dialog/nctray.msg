@@ -58,7 +58,7 @@
 {304}{}{Oh-no}
 {306}{}{Vamos al grano.}
 {307}{}{Eh, no gracias. He cambiado de opinión. Adiós.}
-{320}{}{Aiight then...}
+{320}{}{Aiight entonces...}
 {321}{}{Oh-oh-oh}
 {330}{}{Ay, ¿entonces estás JUGANDO con T-Ray? De acuerdo entonces. Vete, mujer… tengo mejores puñeteras cosas que hacer con mi tiempo.}
 {331}{}{El tiempo hace tic tac, tic tac, tic tac… hacia el futuuuuro}
@@ -81,7 +81,7 @@
  Reno, ¿sabes? Le entregaré esta máquina, y habrá… beneficios ALTERNATIVOS.}
 {376}{}{¿Vas a igualar la oferta de BISHOP? Eso es un montón de pasta, chica. Un MONTÓN de fichas. Además, él es uno de los hombres más importantes de
  Reno, y¿sabes? Le entregaré esta máquina, y habrá… beneficios ALTERNATIVOS.}
-{377}{}{I'm listening...}
+{377}{}{Estoy escuchando...}
 {378}{}{¿1.000 fichas te harán cambiar de opinión?}
 {379}{}{¿750 fichas te harán cambiar de opinión?}
 {380}{}{¿500 fichas te harán cambiar de opinión?}
@@ -170,7 +170,7 @@
 {631}{}{De acuerdo.}
 {632}{}{Lo siento, sólo cuando se TRATE de negocios. Nos vemos, T-Ray.}
 {640}{}{¡Maldición, golfa! Te di lo tuyo hace cinco minutos! ¿Pretendes matarme?}
-{641}{}{Now, hold on...}
+{641}{}{Espera...}
 {642}{}{Venga, necesito una carga, y sólo TU dulce amor me la va a dar.}
 {643}{}{Entonces no importa. Tú en tu línea.}
 {650}{}{No, ya tengo un perro al que darle un hueso, y no quiero tener una perrera. A juzgar por tu pinta, no tienes
@@ -209,7 +209,7 @@
 {747}{}{Será mejor que la próxima vez tengas cuidado. Me largo de aquí.}
 {755}{}{Vale, vaaaale… este es el trato: puedo instalarle todas las mejoras, engalanarlo, y entregárselo al señor Bishop pronto.
  El precio… (se encoge de hombros y sonríe)… la pregunta es: ¿cómo PUEDE uno ponerle precio a un Highwayman como este?}
-{756}{}{Sigue.}
+{756}{}{Continúa.}
 {757}{}{No tengo TIEMPO para tus gilipolleces. ¿Cuál es el resumen?}
 {758}{}{Tienes razón. No puedes. Me llevaré el coche conmigo, y el señor Bishop te permitirá seguir con tus operaciones aquí.}
 {759}{}{No tengo tiempo para esto. Me largo de aquí.}

@@ -13,13 +13,13 @@
 {231}{}{...Dios mío...}
 {232}{}{...mi corazón...}
 {233}{}{hurrkkkk}
-{240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes.}
-{241}{}{(He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
-{242}{}{(He's staring at you; it looks like he's waiting for you to speak.)}
-{243}{}{[Stare back at him with your meanest stare.]}
-{244}{}{[Stare back at him with mild disinterest.]}
-{245}{}{[Stare back at him with a sneering gaze.]}
-{246}{}{[Stare back at him with affected disinterest.]}
+{240}{}{(El hombre se dirige a la cara. Él se ve enfermo, con fiebre: el Sudor chorrea por su rostro y las manchas de su ropa. }
+{241}{}{Él está ignorando y mirando a Myron; parece como si estuviera esperando a Myron a hablar.)}
+{242}{}{Él está mirando a usted; parece que él está esperando para hablar.)}
+{243}{}{[Mirada hacia él con su mejor mirada.]}
+{244}{}{[Mirada hacia él con una leve falta de interés.]}
+{245}{}{[Mirada hacia él con una mirada de desprecio,.]}
+{246}{}{[Mirada hacia él con los afectados desinterés.]}
 {247}{}{[Te alejas]}
 {248}{}{¿Quién eres?}
 {249}{}{¿Eres Jesús Mordino?}
@@ -129,7 +129,7 @@
 {460}{}{Dirígete al norte de la calle Virgin, pasados los casinos... sigue la senda que conduce al exterior de la ciudad. Llegarás... al
  Establo. Vete ahora.}
 {461}{}{(Sigues sus indicaciones...)}
-{470}{}{Have... you done as I asked?}
+{470}{}{... Han hecho lo que le pedí?}
 {471}{}{No, aún no he entregado el paquete.}
 {472}{}{Sí, le entregué a Ramirez lo que usted pidió.}
 {473}{}{Sí, he estado en el Establo y he tirado su paquete… ¿sabe lo que están HACIENDO allí? Están torturando a esclavos con drogas.}
@@ -147,7 +147,7 @@
 {502}{}{Eh... sólo lo comprobaba. Acerca de mi pago...}
 {510}{}{No tengo más... trabajo para ti. (Señala la puerta) Quisiera estar solo. Vete ahora... y NO vuelvas.}
 {511}{}{Eh, vamos. Debe haber ALGÚN otro trabajo que pueda hacer...}
-{512}{}{De acuerdo.}
+{512}{}{Vale.}
 {520}{}{Tengo… más trabajo para ti. Necesito a alguien… (jadea para respirar profundamente, y luego se seca el sudor de la frente) … para recaudar
  mi porcentaje de los... Hermanos Corsican. Se han RETRASADO en sus pagos.}
 {523}{}{Creo que voy a pasar. Gracias de todos modos.}
@@ -251,7 +251,7 @@
 {752}{}{Lo haré. Gracias, Señor Mordino.}
 {760}{}{El calor no… me conviene. Mi respiración es… difícil a veces. En momentos de presión o actividad
  física, me canso con rapidez. A veces, tengo dolores en el pecho.}
-{761}{}{Really? Well, it's good you don't take any methamphetamines or stimulants, then. I had some other questions...}
+{761}{}{De verdad? Bien, es bueno no tomar ninguna anfetaminas o estimulantes, entonces. Yo tenía algunas otras preguntas...}
 {762}{}{Ya veo. Será mejor que me vaya ahora.}
 {770}{}{No te conozco... vienes a mí... sin nada que decir que tenga... peso. (Se seca la frente, luego toma
  una profunda y ruidosa bocanada de aire) NO tengo trabajo para ti.}

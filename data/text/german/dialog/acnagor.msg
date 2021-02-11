@@ -6,13 +6,13 @@
 {105}{}{Dann geh ich allein raus in die Wildnis.}
 {106}{}{Warte doch, wobei brauchst du Hilfe?}
 {107}{}{Tu das.}
-{108}{}{Rauch ist in die Jagdgründe gelaufen und nicht zurückgekommen. Und jetzt läßt Morlis mich
+{108}{}{Rauch ist in die Jagdgründe gelaufen und nicht zurückgekommen. Und jetzt lässt Morlis mich
  nicht nach ihm suchen. Sie sagt, es sei zu gefährlich und er wär ja nur ein Hund, aber ich
  wollte trotzdem gehen. Aber jetzt bist du ja da - du könntest für mich gehn, dann bekomm ich
  keinen Ärger.}
 {109}{}{Sicher. Aber wo sind die Jagdgründe?}
 {110}{}{Na klar. Ich werd mich gleich auf die Suche machen.}
-{111}{}{Vergiß es. Ich hab keine Zeit dafür.}
+{111}{}{Vergiss es. Ich hab keine Zeit dafür.}
 {112}{}{Was ist denn mit dir los? Ist dir was auf die Birne gefallen? Sie sind jenseits von
  Hakunins Zelt, nördlich des Dorfes.}
 {113}{}{Ich bin bald mit ihm zurück.}
@@ -30,7 +30,7 @@
 {123}{}{Naja,... Nein, das will ich nicht. OK, ich bleib hier, aber das ist nicht fair!}
 {124}{}{Rauch wird's schon schaffen. Mach's gut.}
 {125}{}{Du hast Rauch gefunden! Danke! Rauch, du bist ein böser Hund!}
-{126}{}{Gern geschehn. Tschüß.}
+{126}{}{Gern geschehn. Tschüss.}
 {127}{}{Noch mal vielen Dank. Ich hoffe, du hast 'ne tolle Reise.}
 {128}{}{Ich vermisse Rauch. Warum konntest du ihn nicht retten? Du bist doch das Auserwählte
  Wesen!}
@@ -42,7 +42,7 @@
 {201}{}{Hallo, Cousin... äh, ich meine Auserwähltes Wesen. Ich hoffe, du hast das GECK gefunden.
  Ich hab viel Gerede über schlechte Zeiten gehört.}
 {202}{}{Ich noch such, Nagor.}
-{203}{}{I'm still looking, cousin.}
+{203}{}{Ich suche noch, Cousin.}
 {204}{}{Willkommen zu Hause, Cousin. Hier wird's allmählich ungemütlich. Hast du die heilige
  Dreizehn und das GECK gefunden?}
 {205}{}{Willkommen zu Hause, Cousin. Hier wird's allmählich ungemütlich. Hast du die heilige

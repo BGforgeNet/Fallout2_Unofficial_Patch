@@ -73,7 +73,7 @@
 {172}{}{Projekt, który Enklawa przygotowywa³a przez ostatnie kilka dekad, polega na przygotowaniu terenów dawnych Stanów Zjednoczonych do zasiedlenia przez ludzi. Bo¿e b³ogos³aw Amerykê!}
 {173}{}{To nie brzmi tak, jakby mia³o zaj¹æ ca³e dekady.}
 {174}{}{Mam ju¿ dosyæ. Pozwól, ¿e zapytam ciê o coœ innego.}
-{175}{}{Och, przygotowanie placówki nie trwa d³ugo. Ju¿ dokonaliœmy tego w Navarro. D³ugo zajê³o nam przygotowanie odpowiedniej metody oczyszczania.}
+{175}{}{Oh, just establishing an outpost wouldn't take long. We've already done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
 {176}{}{Oczyszczania?}
 {177}{}{Oczywiœcie, nie mo¿emy tak po prostu zejœæ na l¹d ryzykuj¹c, ¿e zarazimy siê od mutantów. By Stany Zjednoczone by³y bezpieczne dla ludzkoœci, mutanty musz¹ zostaæ wyeliminowane.}
 {178}{}{Co!?! Zwariowa³eœ? To potworne!}
@@ -102,7 +102,7 @@
 {201}{}{Tak, wiem dobrze gdzie to znaleŸliœcie, ale co to robi?}
 {202}{}{F.E.V. zosta³ zaprojektowany jako wirus maj¹cy za zadanie zmieniaæ zwyk³ych ludzi w super-¿o³nierzy. Tamten eksperyment zakoñczy³ siê fiaskiem. Pomimo to dokona³em pewnych modyfikacji i w tej postaci przetestowa³em na jednym z naszych agentów - odnios³em nawet czêœciowy sukces.}
 {203}{}{Brawo, ale jaki to ma zwi¹zek z planami eksterminacji kogokolwiek?}
-{204}{}{Ach tak, có¿, w³aœnie do tego przechodzi³em... Wi¹zanie wirusa F.E.V. jest bardzo specyficzne, powi¹zuje siê tylko z ludzkimi glikoproteinami. Potrzbowa³em tylko kilku lat, aby uczyniæ F.E.V bardziej zabójczym, ni¿ by³ do tej pory. Rezultat by³ perfekcyjny w ka¿dym calu.}
+{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
 {205}{}{Perfekcyjny? Jak to?}
 {206}{}{Czy to nie oczywiste, mój zmutowany przyjacielu? F.E.V, dziêki mnie, jest œmierteln¹ trucizn¹, a dziêki jakiemuœ tajemniczemu geniuszowi, nazywaj¹cemu siê, raczej dramatycznie, Mistrzem, dzia³a tylko na ludzi, zmutowanych lub nie.}
 {207}{}{No i?}

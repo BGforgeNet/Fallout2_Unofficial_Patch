@@ -4,7 +4,7 @@
 {103}{}{Nichts los.}
 {104}{}{Ich kann keinen Fisch mehr sehn.}
 {105}{}{Je eher wir weiterziehen, desto besser.}
-{106}{}{Das beste am Nomadenleben ist, daß du über dich selbst bestimmen kannst. }
+{106}{}{Das beste am Nomadenleben ist, dass du über dich selbst bestimmen kannst. }
 {107}{}{Ich würde lieber sterben, als dich etwas bestimmen lassen.}
 {108}{}{Niemand bestimmt mein Leben! Ich bin mein eigener Herr!}
 {109}{}{Ich bin mein eigener Chef.}
@@ -17,12 +17,12 @@
 {116}{}{Ich bin aufgeschlossen, ne?}
 {117}{}{Ich teile meine Freundin, wenn du deine teilst.}
 {118}{}{Guck dir nur all diese neuen Vagabunden an. Angeber!}
-{119}{}{AHS-9 hat uns betrogen und er wird auch dich betrügen, wenn du ihn läßt.}
+{119}{}{AHS-9 hat uns betrogen und er wird auch dich betrügen, wenn du ihn lässt.}
 {120}{}{Vieh. Du bist nichts anderes als ein triebgesteuertes Vieh.}
-{121}{}{Sag diesen dreckigen Hubologen, daß wir uns ihnen niemals anschließen werden.}
+{121}{}{Sag diesen dreckigen Hubologen, dass wir uns ihnen niemals anschließen werden.}
 {122}{}{Wir werden uns nie dem Hub anschließen.}
 {123}{}{Ich hoffe, du bist stolz auf dich.}
-{124}{}{Sie sollten endlich begreifen, daß es nichts nützt, unseren "Anführer" umzubringen, wir
+{124}{}{Sie sollten endlich begreifen, dass es nichts nützt, unseren "Anführer" umzubringen, wir
  werden trotzdem ihrem nicht folgen!}
 {125}{}{Du bist ein Muffkopf.}
 {126}{}{Määh! Määh!}
@@ -44,25 +44,25 @@
 {142}{}{Chip-Hasser!}
 {143}{}{Kann ich was für dich tun? Schade! }
 {144}{}{Rede nicht mit mir.}
-{145}{}{Netter Zug, daß du dich um Chips Milz gekümmert hast.}
+{145}{}{Netter Zug, dass du dich um Chips Milz gekümmert hast.}
 {146}{}{Wenigstens hast du's versucht.}
 {147}{}{Armer Chip.}
 {148}{}{Pech für den alten Chippie.}
 {149}{}{Chip wird immer schwächer. Ein Jammer.}
 {150}{}{Gute Arbeit mit der Milz!}
 {151}{}{Wow...ein Held UND Milzfinder.}
-{152}{}{Ich wußte nicht, daß man eine Milz herstellen kann.}
-{153}{}{Danke, daß du Chip gerettet hast.}
+{152}{}{Ich wusste nicht, dass man eine Milz herstellen kann.}
+{153}{}{Danke, dass du Chip gerettet hast.}
 {154}{}{Hallo du, Freund von Chip!}
 {155}{}{Wir freuen uns alle für Chip.}
-{156}{}{Danke, daß du Chip gerettet hast.}
+{156}{}{Danke, dass du Chip gerettet hast.}
 {157}{}{Jetzt wird Dachs erträglicher sein.}
-{158}{}{Ich habe Susi immer gern gehabt. Bin froh, daß sie noch lebt.}
+{158}{}{Ich habe Susi immer gern gehabt. Bin froh, dass sie noch lebt.}
 {159}{}{Ob Susi wohl den Babysitter für meine Kinder spielen würde?}
 {160}{}{Monster killen, die Freundin retten...gibt es irgendeine verdammte Heldentat, die du
  nich' machst?}
 {161}{}{Kannst du meine Freundin auch retten? Ha ha!}
-{162}{}{Vielleicht schläft Dachs mit dir, zum Dank, daß du seine Freundin gerettet hast.}
+{162}{}{Vielleicht schläft Dachs mit dir, zum Dank, dass du seine Freundin gerettet hast.}
 {163}{}{Dachs ist jetzt bestimmt total happy.}
 {164}{}{Vielleicht solltest du Dachs um ein paar Gefallen bitten.}
 {165}{}{Armer Dachs. Arme Susi.}
@@ -72,14 +72,14 @@
 {169}{}{Tod auf dem Schiff. Arme Susi.}
 {170}{}{Mann...wird das Leben jemals besser?}
 {171}{}{Da unten ist es gefährlich!}
-{172}{}{Verdammt...warum mußte sie auch da runter gehen?}
+{172}{}{Verdammt...warum musste sie auch da runter gehen?}
 {173}{}{Wir sollten den Laderaum abriegeln.}
 {174}{}{Gehen wir vom Schiff.}
 {175}{}{Du willst den Tanker nach Westen lenken?}
 {176}{}{Schätze, es ist Zeit, das Schiff zu verlassen.}
 {177}{}{Ich bin soweit, von hier abzuhauen.}
 {178}{}{Ich hab meinen ganzen Kram zusammengepackt.}
-{179}{}{Ich glaub nicht, daß ich nach Westen will.}
+{179}{}{Ich glaub nicht, dass ich nach Westen will.}
 {180}{}{}
 {181}{}{}
 {182}{}{}
@@ -92,6 +92,6 @@
 {189}{}{Mann...Dachs kannte alle coolen Plätze hier.}
 {190}{}{Jetzt werd ich nie seine Band spielen hören!}
 {191}{}{Verdammte Killer...Dachs einfach so kaltzumachen...verdammt.}
-{192}{}{Ich bin jetzt so voller Haß.}
+{192}{}{Ich bin jetzt so voller Hass.}
 {193}{}{Ich will Rache für Dachs!}
 {194}{}{Das Leben ist so sinnlos ohne Dachs.}

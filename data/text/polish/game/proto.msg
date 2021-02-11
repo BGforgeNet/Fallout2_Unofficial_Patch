@@ -138,10 +138,10 @@
 {596}{}{Samochód nie potrzebuje wiêcej mocy.}
 {597}{}{Drzwi s¹ najwyraŸniej zablokowane.}
 {620}{}{Zdobywasz %d PD za zabicie: %s.}
-{621}{}{%s zdobywasz %d PD.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{Za pokonanie swoich wrogów}
 {623}{}{Za zg³adzenie swoich przeciwników}
-{624}{}{Odnosisz zwyciêstwo w walce i}
+{624}{}{For being victorious in combat,}
 {625}{}{Za zmiecenie swoich przeciwników z powierzchni ziemi}
 {626}{}{Wychodzisz z tej walki bez jednego zadrapania, za co}
 {650}{}{[Zrobione]}

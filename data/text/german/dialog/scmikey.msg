@@ -12,12 +12,12 @@
 {109}{}{Guten Appetit, Fremdling!}
 {110}{}{Da drüben stehen Senf und Zwiebeln.}
 {111}{}{Hey, Kumpel.}
-{112}{}{Ja, tschüß.}
+{112}{}{Ja, tschüss.}
 {113}{}{Der nächste, bitte!}
-{114}{}{Paß mal auf: Ich hab da so meine Prinzipien. Und eins von diesen Prinzipien ist, daß ich
+{114}{}{Pass mal auf: Ich hab da so meine Prinzipien. Und eins von diesen Prinzipien ist, dass ich
  nie über irgend jemand rede. Damit erspare ich mir einen ganzen Haufen Probleme. Kapiert?}
 {115}{}{Ich höre nichts, ich sehe nichts und vor allem sage ich nichts. Es hat also gar keinen
- Sinn, daß du mich mit diesem Zeug belästigt.}
+ Sinn, dass du mich mit diesem Zeug belästigt.}
 {116}{}{Sehr gut. Ich hab Hunger.}
 {117}{}{Hast du ein GECK?}
 {118}{}{'tschuldigung! Wer wird sich denn gleich so aufregen!}
@@ -26,4 +26,4 @@
  als sie aus Vault 15 rauskamen. Damit fing hier alles an, sagen sie. Ist inzwischen alles
  verbraucht.}
 {120}{}{Ich hab immer noch Hunger.}
-{121}{}{Na dann, danke für das bißchen.}
+{121}{}{Na dann, danke für das bisschen.}

@@ -53,13 +53,13 @@
 {134}{}{Hier gibt's nichts zu entdecken!}
 {135}{}{Du durchsuchst die Archive und kannst nichts entdecken.}
 {136}{}{Du hast diesen Computer 53 mal durchsucht. Du hast nichts Interessantes gefunden.}
-{137}{}{Du mußtest es unbedingt noch einmal versuchen, nicht wahr? Tststs...}
+{137}{}{Du musstest es unbedingt noch einmal versuchen, nicht wahr? Tststs...}
 {138}{}{Ok, hör zu. Ich verrate dir ein Geheimnis. Geh auf jeden Fall noch mal zu dem
  Hauptcomputer auf Level 3, wenn du das Spiel beendet hast. Jetzt melde dich ab und spiel draußen
  weiter.}
 {139}{}{Du durchsuchst die Archive und kannst nichts entdecken.}
 {140}{}{Fahre mit dem Durchsuchen der Archive fort.}
-{141}{}{Durchsuche die Datenbank erneut, um sicherzugehen, daß dir nichts entgangen ist.}
+{141}{}{Durchsuche die Datenbank erneut, um sicherzugehen, dass dir nichts entgangen ist.}
 {142}{}{Fahre mit dem Durchsuchen der Archive fort.}
 {143}{}{Melde dich beim Terminal ab.}
 {144}{}{Du verbringst fast eine Stunde mit dem Durchsuchen der Archive. Während du tiefer in die
@@ -80,7 +80,7 @@
 {200}{}{Du hast das Durchsuchen der medizinischen Datenbank von Vault City beendet.}
 {201}{}{Dein Freund versucht deine Aufmerksamkeit auf das bunte Kästchen mit dem Sichtfenster zu
  ziehen, das Pieptöne von sich gibt. Es gelingt dir jedoch nicht, es zu öffnen. Schließlich wird
- es dir zu langweilig und du läßt den Kasten in Ruhe.}
+ es dir zu langweilig und du lässt den Kasten in Ruhe.}
 {202}{}{Geh woanders hin.}
 {203}{}{*Piep*}
 {204}{}{Biep. Biiieeee-eep.}

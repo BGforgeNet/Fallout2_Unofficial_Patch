@@ -27,9 +27,9 @@
 {171}{}{No, iré directamente. Adiós.}
 {172}{}{Puede que vuelva más tarde. Adiós.}
 {180}{}{Puedes deberías elegir seguir vivo. Lárgate de aquí.}
-{181}{}{De acuerdo.}
+{181}{}{Vale.}
 {200}{}{Sí, puedes Renovarte por completo ahí dentro.}
-{201}{}{De acuerdo.}
+{201}{}{Vale.}
 {210}{}{¿Ook? ¿Qué quieres decir con eso? ¿Es que eres tonto?}
 {211}{}{¿Goop?}
 {220}{}{Lárgate de aquí. El Cerebro no tiene tiempo para los de tu clase.}

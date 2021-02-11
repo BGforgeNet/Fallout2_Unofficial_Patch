@@ -13,7 +13,7 @@
 {112}{}{Primitiva, ¿eh? Tú. ¿Preguntas? Pregúntame. ¿Vale?}
 {113}{}{¿Refugio 13?}
 {114}{}{GECK?}
-{115}{}{De acuerdo.}
+{115}{}{Vale.}
 {116}{}{No. Eso es algo que incluso la presidente Tandi querría saber. Resuelve muchos problemas.}
 {117}{}{¿Problemas?}
 {118}{}{¿Presidente Tandi?}
@@ -38,10 +38,10 @@
 {137}{}{¡Arrgh! ¡NO HAY 13, IMBÉCIL INTEGRAL! No 13. No se encuentra. ¡Nunca! ¡Jamás!}
 {138}{}{Tandi es gran jefe. Tandi quiere ayuda. Habla con Tandi. Ve a casa de Con-gre-so. ¿Vale?}
 {139}{}{GECK?}
-{140}{}{De acuerdo.}
+{140}{}{Vale.}
 {141}{}{No GECK. Yo sana. No enferma.}
 {142}{}{¿Refugio 13?}
-{143}{}{De acuerdo.}
+{143}{}{Vale.}
 {144}{}{Mira a tu alrededor. RNC es un lugar en crecimiento. Necesitamos piezas, computadoras, un poco de todo. Ha sido un problema desde que los okupas se trasladaron al Refugio 15.}
 {145}{}{¿Refugio 15? ¿Okupas? ¿Qué está pasando?}
 {146}{}{¿Qué pasa con la presidente Tandi?}
@@ -53,8 +53,8 @@
 {152}{}{Gracias. Lo haré.}
 {153}{}{¿Sabes algo de un GECK?}
 {154}{}{¡Vaya, eso es muy audaz por tu parte, forastera... y también jodidamente presuntuoso. ¡Ni te conozco lo más mínimo ni me gusta la pinta que tienes! No te recomendaría a nadie. Ahora, tengo trabajo que hacer.}
-{155}{}{Well, there's Duppo at the Stockman's. He does the hiring for the brahmin drives. Then there's Mr. Westin. If you talk to him, tell him I sent you. Even President Tandi's been asking around for some help.}
-{156}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him.}
+{155}{}{Bueno, hay Duppo en el de Vaquero. Él hace la contratación para el brahmán unidades. Luego está el Señor Westin. Si usted habla con él, dile que me ha enviado a vosotros. Incluso el Presidente Tandi del estado preguntando alrededor para un poco de ayuda.}
+{156}{}{Duppo en el Vaquero de la Asociación de rollos manos para que el brahmán unidades. Ir a tratar de él.}
 {157}{}{¿Westin?}
 {158}{}{¿Presidente Tandi?}
 {159}{}{Tengo que irme.}
@@ -75,6 +75,6 @@
 {174}{}{¿Tandi?}
 {175}{}{Lo tendré en consideración.}
 {176}{}{No hay más trabajo, que yo sepa.}
-{177}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. President Tandi's been asking around for some help.}
+{177}{}{Duppo en el Vaquero de la Asociación de rollos manos para que el brahmán unidades. El presidente Tandi del estado preguntando alrededor para un poco de ayuda.}
 {178}{}{Alguien como tú debería abandonar la ciudad, así que ya ni hablar de buscar trabajo.}
-{179}{}{Duppo up at the Stockman's Association wrangles hands for the brahmin drives. Go try him. Then there's Mr. Westin. If you talk to him, tell him I sent you.}
+{179}{}{Duppo en el Vaquero de la Asociación de rollos manos para que el brahmán unidades. Ir a tratar de él. Luego está el Señor Westin. Si usted habla con él, dile que me ha enviado a vosotros.}

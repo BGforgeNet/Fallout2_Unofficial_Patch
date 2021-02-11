@@ -1,5 +1,5 @@
 /*
-	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
+    Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
 */
 
 /*
@@ -121,6 +121,8 @@ procedure Kill_The_Party;
 #define Dist_Med                        (1)
 #define Dist_Long                       (2)
 
+#define EVENT_KILL_THE_PARTY 2
+
 /* Imported variables from the Map scripts. These should only be
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
@@ -134,6 +136,7 @@ end
 
 procedure map_enter_p_proc begin
    party_member_map_enter;
+   if local_var(LVAR_Party_Target) == 1 then call Kill_The_Party; // continue attacking if party ran away before Skynet reached one of them
 end
 
 /* This procedure will get called each time that the map is first entered. It will
@@ -220,17 +223,9 @@ procedure critter_p_proc begin
 end
 
 procedure timed_event_p_proc begin
-   /*if (fixed_param == 1) then begin - comment out by killap
-       call Node015;
-   end*/
-
-   if (fixed_param == 2) then begin
+   if (fixed_param == EVENT_KILL_THE_PARTY) then begin
        call Kill_The_Party;
    end
-
-   /*else if (fixed_param == 3) then begin - comment out by killap
-       set_local_var(LVAR_Hostile,2);
-   end*/
 end
 
 /* Whenever the critter takes damage of any type, this procedure will be called. Things
@@ -690,29 +685,6 @@ procedure Node023 begin
    NOption(203,Node999,004);
 end
 
-/*procedure Node024 begin
-
-   if ((local_var(LVAR_Alarm_1) == 0) and (self_elevation == 0)) then begin
-       set_global_var(GVAR_SIERRA_BASE_ALERT,0);
-       set_global_var(GVAR_SIERRA_BASE_SECURITY,0);
-       floater(204);
-       set_local_var(LVAR_Alarm_1,1);
-   end
-   else if ((local_var(LVAR_Alarm_2) == 0) and (self_elevation == 1)) then begin
-       set_global_var(GVAR_SIERRA_BASE_ALERT,0);
-       set_global_var(GVAR_SIERRA_BASE_SECURITY,0);
-       floater(205);
-       set_local_var(LVAR_Alarm_2,1);
-   end
-   else if ((local_var(LVAR_Alarm_3) == 0) and (self_elevation == 2)) then begin
-       set_global_var(GVAR_SIERRA_BASE_ALERT,0);
-       set_global_var(GVAR_SIERRA_BASE_SECURITY,0);
-       floater(206);
-       set_local_var(LVAR_Alarm_3,1);
-   end
-end*/
-
-//edit by killap
 procedure Node024 begin
 
    if (cur_map_index == MAP_SIERRA_123) then begin
@@ -744,102 +716,26 @@ procedure Node024 begin
       end
    end
 end
-//end edit
 
 procedure Kill_The_Party begin
-   if (Vic_Ptr != 0) then begin
-       if (tile_distance_objs(self_obj,Vic_Ptr) < 2) then begin
-           critter_dmg(Vic_Ptr,1000,DMG_explosion);
-           //call Node015; --comment out by killap
-       end
-       else begin
-           self_run_to_tile(tile_num_in_direction(tile_num(Vic_Ptr),random(0,5),1));
-           set_local_var(LVAR_Party_Target,1);
-           add_timer_event(self_obj,game_ticks(3),2);
-       end
-   end
-
-   else if (Myron_Ptr != 0) then begin
-       if (tile_distance_objs(self_obj,Myron_Ptr) < 2) then begin
-           critter_dmg(Myron_Ptr,1000,DMG_explosion);
-           //call Node015; --comment out by killap
-       end
-       else begin
-           self_run_to_tile(tile_num_in_direction(tile_num(Myron_Ptr),random(0,5),1));
-           set_local_var(LVAR_Party_Target,2);
-           add_timer_event(self_obj,game_ticks(3),2);
-       end
-   end
-
-   else if (Sulik_Ptr != 0) then begin
-       if (tile_distance_objs(self_obj,Sulik_Ptr) < 2) then begin
-           critter_dmg(Sulik_Ptr,1000,DMG_explosion);
-           //call Node015; --comment out by killap
-       end
-       else begin
-           self_run_to_tile(tile_num_in_direction(tile_num(Sulik_Ptr),random(0,5),1));
-           set_local_var(LVAR_Party_Target,3);
-           add_timer_event(self_obj,game_ticks(3),2);
-       end
-   end
-
-   else if (Lenny_Ptr != 0) then begin
-       if (tile_distance_objs(self_obj,Lenny_Ptr) < 2) then begin
-           critter_dmg(Lenny_Ptr,1000,DMG_explosion);
-           //call Node015; --comment out by killap
-       end
-       else begin
-           self_run_to_tile(tile_num_in_direction(tile_num(Lenny_Ptr),random(0,5),1));
-           set_local_var(LVAR_Party_Target,4);
-           add_timer_event(self_obj,game_ticks(3),2);
-       end
-   end
-
-   else if (MacRae_Ptr != 0) then begin
-       if (tile_distance_objs(self_obj,MacRae_Ptr) < 2) then begin
-           critter_dmg(MacRae_Ptr,1000,DMG_explosion);
-           //call Node015; --comment out by killap
-       end
-       else begin
-           self_run_to_tile(tile_num_in_direction(tile_num(MacRae_Ptr),random(0,5),1));
-           set_local_var(LVAR_Party_Target,5);
-           add_timer_event(self_obj,game_ticks(3),2);
-       end
-   end
-
-   else if (Davin_Ptr != 0) then begin
-       if (tile_distance_objs(self_obj,Davin_Ptr) < 2) then begin
-           critter_dmg(Davin_Ptr,1000,DMG_explosion);
-           //call Node015; --comment out by killap
-       end
-       else begin
-           self_run_to_tile(tile_num_in_direction(tile_num(Davin_Ptr),random(0,5),1));
-           set_local_var(LVAR_Party_Target,6);
-           add_timer_event(self_obj,game_ticks(3),2);
-       end
-   end
-
-   else if (Miria_Ptr != 0) then begin
-       if (tile_distance_objs(self_obj,Miria_Ptr) < 2) then begin
-           critter_dmg(Miria_Ptr,1000,DMG_explosion);
-           //call Node015; --comment out by killap
-       end
-       else begin
-           self_run_to_tile(tile_num_in_direction(tile_num(Miria_Ptr),random(0,5),1));
-           set_local_var(LVAR_Party_Target,7);
-           add_timer_event(self_obj,game_ticks(3),2);
-       end
-   end
-
-   else if (tile_distance_objs(self_obj,dude_obj) < 2) then begin
+    variable who;
+    who = closest_party_member(self_obj);
+    if who then begin
+        if tile_distance_objs(self_obj, tile_num(who)) < 2 then begin
+           critter_dmg(who, 1000, DMG_explosion);
+           call Node015;
+        end else begin
+            set_local_var(LVAR_Party_Target, 1);
+            self_run_to_tile(tile_num_in_direction(tile_num(who), random(0,5),1));
+            add_timer_event(self_obj, game_ticks(3), EVENT_KILL_THE_PARTY);
+        end
+    end else if tile_distance_objs(self_obj, dude_obj) < 2 then begin
        call Node015;
-   end
-
-   else begin
-       self_run_to_tile(tile_num_in_direction(dude_tile,random(0,5),1));
-       set_local_var(LVAR_Party_Target,8);
-       add_timer_event(self_obj,game_ticks(3),2);
-   end
+    end else begin
+        set_local_var(LVAR_Party_Target, 1);
+        self_run_to_tile(tile_num_in_direction(dude_tile,random(0,5),1));
+        add_timer_event(self_obj, game_ticks(3), EVENT_KILL_THE_PARTY);
+    end
 end
 
 //xxxxxxxxxxxxxxxxxxxx

@@ -148,7 +148,7 @@
 {247}{}{Nie mam czasu na politykê. Do widzenia.}
 {248}{}{Ka¿dy chce tego, co ma Redding. Niektórzy jednak¿e zastosuj¹ ³agodniejsze metody zdobycia tego czegoœ od nas. Pozwól, ¿e ci to wyjaœniê...}
 {249}{}{No, dalej.}
-{250}{}{Ju¿ siê wystarczaj¹co nagada³eœ. Do widzenia.}
+{250}{}{I've heard enough of your explanation already. Goodbye.}
 {251}{}{Zap³acê ci $1000 za modu³ do koparki.}
 {252}{}{Brzmi nieŸle. Gdzie mo¿na go znaleŸæ?}
 {253}{}{Brzmi nieŸle. Masz...}
@@ -164,7 +164,7 @@
 {263}{}{Procesor kontrolny spali³ siê i nie ma mo¿liwoœci zamówienia nowego. Ale wiem, gdzie mo¿na taki znaleŸæ. Zap³acê za niego $1000.}
 {264}{}{Gdzie on jest?}
 {265}{}{Skoro potrzebujesz go tak bardzo, to czemu sam go sobie nie przynios³eœ?}
-{266}{}{Mam w tej chwili po uszy rozmaitych zadañ. Przykro mi, stary. Do widzenia.}
+{266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
 {267}{}{Mam mnóstwo powodów. Wiêkszoœæ jest g³odna i ogólnie niemi³a. Kopalnia Wanamingo jest po prostu pe³na g³odnych Wanamingos.}
 {268}{}{Co to do cholery jest Wanna-minka?}
 {269}{}{Aha, to by tlumaczy³o ca³¹ sprawê. Pomyœlê nad tym. Do widzenia.}

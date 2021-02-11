@@ -27,7 +27,7 @@
 {122}{}{Ich glaub, ich will noch nicht wieder mit. Wiedersehn.}
 {123}{}{Rawuff? <boing> Raggy?}
 {124}{}{Wie geht's?}
-{125}{}{Du mußt hier warten, bis ich wieder da bin.}
+{125}{}{Du musst hier warten, bis ich wieder da bin.}
 {126}{}{Das wär's dann vorerst mal.}
 {127}{}{<klick> winsel}
 {128}{}{Macht nichts.}
@@ -49,4 +49,4 @@
 {2000}{}{.schwirrrrr... Ich bin kein Daggit.}
 {2100}{}{GRRR-RAWUFF!}
 {2200}{}{Wuff! Wu-wu-wu-<klick>wuff?}
-{2204}{}{Okay, du ziehst dich jetzt erst mal ein bißchen zurück.}
+{2204}{}{Okay, du ziehst dich jetzt erst mal ein bisschen zurück.}

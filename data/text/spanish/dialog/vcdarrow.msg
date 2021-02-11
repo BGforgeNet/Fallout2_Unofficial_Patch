@@ -27,7 +27,7 @@
 {124}{}{Perdona, ¿te puedo ayudar en algo?}
 {125}{}{¿Algo? Go go goooo}
 {126}{}{Dejas de balbucear}
-{127}{}{¿Qué es este lugar?}
+{127}{}{¿Qué lugar es éste?}
 {128}{}{¿Puedo ver lo que tienes a la venta?}
 {129}{}{Hoy nada, gracias.}
 {130}{}{Espera aquí un momento, ¿vale? Traeré a alguien que mostrará la salida.}

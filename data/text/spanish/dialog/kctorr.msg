@@ -92,7 +92,7 @@
 {273}{}{¿Eng?}
 {274}{}{Me meo.}
 {275}{}{Hola.}
-{276}{}{Buenas.}
+{276}{}{Hola.}
 {277}{}{¡Torr!}
 {279}{}{¡Torr saluda }
 {280}{}{! (Hola de nuevo, amigo. ¿Puedo serte de ayuda?)}

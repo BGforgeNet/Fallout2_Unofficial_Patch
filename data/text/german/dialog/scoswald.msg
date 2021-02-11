@@ -4,7 +4,7 @@
  und in seinem Blick liegt etwas Wahnsinniges, wie man das bei Raufbolden und Banditen häufiger
  sieht.}
 {103}{}{Du verschwendest deine Zeit. Ich hab weder dir noch irgend jemand anderem was zu sagen.}
-{104}{}{Geh weg und laß mich in Ruhe, du Schwein.}
+{104}{}{Geh weg und lass mich in Ruhe, du Schwein.}
 {105}{}{Riecht das nicht plötzlich ziemlich übel hier?}
 {106}{}{Was hast du vor - willst du mir angst machen, damit ich was sag?}
 {107}{}{Mir jagst du keine Angst ein.}
@@ -15,11 +15,11 @@
 {112}{}{Schon gut, schon gut! Was willste wissen? Tu mir bloß nicht mehr weh.}
 {113}{}{Vault 15 - du sagen!}
 {114}{}{Was weißt du über Vault 15?}
-{115}{}{Hör mal, ich hab hier gar nichts zu melden. Dafür ist Darion zuständig. An den mußt du
+{115}{}{Hör mal, ich hab hier gar nichts zu melden. Dafür ist Darion zuständig. An den musst du
  dich wenden. Der ist voll fixiert auf Shady Sands und diese alte Kuh Tandi. Er hat 'n Versteck
  in Vault 15 und die Einwohner glauben sogar, er wär auf ihrer Seite. Das ist alles, was ich
  weiß. Ehrlich!}
 {116}{}{Mehr weiß ich nicht, ich schwör's! Ich hab alles gesagt, was ich weiß, wirklich! Tu mir
  nicht mehr weh.}
-{117}{}{Auf solche miesen Tricks fall ich nicht rein. PENG! - auf der Flucht erschossen. Vergiß
+{117}{}{Auf solche miesen Tricks fall ich nicht rein. PENG! - auf der Flucht erschossen. Vergiss
  es!}

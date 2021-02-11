@@ -5,7 +5,7 @@
  geistesabwesend.}
 {103}{}{Mal sehn... für morgen früh stehen erst mal drei Impfungen auf dem Programm.}
 {104}{}{Gregory simuliert garantiert nur...}
-{105}{}{Dann muß ich noch die drei neuen Diener untersuchen.}
+{105}{}{Dann muss ich noch die drei neuen Diener untersuchen.}
 {106}{}{Phyllis, könntest mal eben den Bluttest vom ProKonsul herbringen, bitte?}
 {107}{}{Komisch... die Werte stimmen nicht mit einem niedrigen Hämoglobinspiegel überein.}
 {108}{}{Vielleicht können wir die Milz aus den Zellen klonen, die wir heute mittag entnommen
@@ -13,7 +13,7 @@
 {109}{}{Da müssen mehr Vitamine in die Nahrungszusätze.}
 {110}{}{Hmmmmm.}
 {111}{}{Phyllis, würdest du mir bitte mal eben Helens Krankenakte bringen?}
-{112}{}{Wenn ich bedenke, daß ich auch den gemütlichen Job als Briefkastenonkel hätte annehmen
+{112}{}{Wenn ich bedenke, dass ich auch den gemütlichen Job als Briefkastenonkel hätte annehmen
  können...}
 {113}{}{Mir hängt's zum Hals raus, ewig diese Listen für die Erstbürgerin auszufüllen.}
 {114}{}{Was, sie hat schon wieder eine Liste der Arzneimittelvorräte angefordert? Ich hab ihr
@@ -32,12 +32,12 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {125}{}{Ich würde sehr gerne etwas über die medizinischen Methoden erfahren, die ihr
  hier in der Stadt verwendet.}
 {126}{}{Im Moment nicht. Ich hätte da ein paar andere Fragen...}
-{127}{}{Vielleicht später. Ich muß weiter.}
+{127}{}{Vielleicht später. Ich muss weiter.}
 {128}{}{Hervorragend! Gut, dann zeige ich dir zuerst mal alles. Hier drüben sind die
  Überwachungsgeräte...}
 {129}{}{}
 {130}{}{...und hier siehst du, wie wir Zellen klonen, um Ersatzorgane herzustellen. Dabei müssen
- wir aufpassen, daß die Gewebekulturen nicht verunreinigt werden. Aber ich glaube, jetzt haben
+ wir aufpassen, dass die Gewebekulturen nicht verunreinigt werden. Aber ich glaube, jetzt haben
  wir genug geredet... hoffentlich war das interessant für dich.}
 {131}{}{Oh ja, mit Sicherheit. Ich wollte auch noch was anderes fragen...}
 {132}{}{Vielen Dank für die Führung, Doktor Troy. Das war wirklich sehr informativ.}
@@ -67,12 +67,12 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {151}{}{Warum willst du das wissen?}
 {152}{}{Das geht dich nichts an, "Doktor". Kann ich jetzt gehen, oder hast du noch mehr Fragen?}
 {153}{}{Ich möchte nicht über meine Vergangenheit reden.}
-{154}{}{Arroyo? Davon habe ich noch nie etwas gehört, glaube ich. Entschuldige, daß ich so
+{154}{}{Arroyo? Davon habe ich noch nie etwas gehört, glaube ich. Entschuldige, dass ich so
  neugierig bin. Aber ich suche jemanden, der schon mal außerhalb von Vault City war... Die
  meisten Bürger hier haben die Stadt noch nie verlassen.}
 {155}{}{Du suchst jemanden? Warum?}
 {156}{}{*Faszinierend*. Aber was hat das mit mir zu tun?}
-{157}{}{Entschuldige, daß ich so neugierig bin. Aber ich suche jemanden, der schon mal außerhalb
+{157}{}{Entschuldige, dass ich so neugierig bin. Aber ich suche jemanden, der schon mal außerhalb
  von Vault City war... Die meisten Bürger hier haben die Stadt noch nie verlassen.}
 {158}{}{Du suchst jemanden? Warum?}
 {159}{}{*Faszinierend*. Aber was hat das mit mir zu tun?}
@@ -85,8 +85,8 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {163}{}{Ich suche jemanden, der einen speziellen Botenauftrag für mich erledigen kann.}
 {164}{}{Was ist es?}
 {165}{}{Danke, kein Interesse.}
-{166}{}{Hervorragend! Freut mich, daß du es dir anders überlegt hast.}
-{167}{}{Ich habe erfahren, daß es im Ödland etwas neues geben soll. Es heißt "Jet",
+{166}{}{Hervorragend! Freut mich, dass du es dir anders überlegt hast.}
+{167}{}{Ich habe erfahren, dass es im Ödland etwas neues geben soll. Es heißt "Jet",
  glaube ich. Wenn ich ein wenig von diesem "Jet" für Testzwecke bekommen könnte, würde ich
  tausend Dollar dafür zahlen.}
 {168}{}{Jet? Davon habe ich zufällig was dabei.}
@@ -100,22 +100,22 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {175}{}{Da sind noch mehr Fragen, die ich dir stellen wollte...}
 {176}{}{Entschädigen? Ähh... Bar auf die Hand wär's mir lieber. Wiedersehn.}
 {177}{}{Alles klar. Wiedersehen.}
-{178}{}{Hmmmmm. Das ist wirklich ein fairer Preis, wenn man bedenkt, daß du es dabei hast. Also gut. Hier
+{178}{}{Hmmmmm. Das ist wirklich ein fairer Preis, wenn man bedenkt, dass du es dabei hast. Also gut. Hier
  ist dein Geld, und... danke schön.}
 {179}{}{Ich möchte gern noch was anderes fragen...}
-{180}{}{Ich kann mir einfach nicht vorstellen, daß du wirklich dieses... Zeug... inhalieren willst.
+{180}{}{Ich kann mir einfach nicht vorstellen, dass du wirklich dieses... Zeug... inhalieren willst.
  Vertrau mir.}
-{181}{}{Soll ich dir verraten, wie man das Zeug einnimmt? Also ich hab herausgefunden, daß es am
+{181}{}{Soll ich dir verraten, wie man das Zeug einnimmt? Also ich hab herausgefunden, dass es am
  besten wirkt, wenn man sich die Nase zuhält, so tief wie möglich ausatmet, inhaliert und das
  Zeug ungefähr eine Minute lang drin behält...}
 {182}{}{Es ist eine Freude, mit dir Geschäfte machen, Doktor. Sei vorsichtig mit dem Zeug.}
 {183}{}{*Danke*. Du darfst jetzt gehen.}
 {184}{}{Ich möchte vorher gern noch was fragen...}
-{185}{}{Ich kann mir einfach nicht vorstellen, daß du wirklich dieses... Zeug... inhalieren willst.
+{185}{}{Ich kann mir einfach nicht vorstellen, dass du wirklich dieses... Zeug... inhalieren willst.
  Vertrau mir.}
 {186}{}{Tut mir leid, wollte nur behilflich sein. Bis dann, Doktor.}
 {187}{}{Wovon redest du?}
-{188}{}{Vergiß es. Ich möchte dich gern noch was anderes fragen...}
+{188}{}{Vergiss es. Ich möchte dich gern noch was anderes fragen...}
 {189}{}{Dieses Zeug wird aus Brahmin-Mist gewonnen.}
 {190}{}{In dem Jet-Kanister sind Dämpfe von verbranntem Brahmin-Mist. Stark, was?}
 {191}{}{In dem Jet-Kanister sind Dämpfe von verbranntem Brahmin-Mist. Stark, was? Hey Mann,
@@ -126,45 +126,45 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {194}{}{Nun, diesem Wunderknaben hier zufolge, befinden sich in diesem Jet-Kanister Dämpfe
  von verbranntem Brahmin-Mist. Stark, was? Hey Mann, übrigens... Wir bräuchten
  ein paar Endorphin-Blocker. Hast du welche?}
-{195}{}{Ähhh... vergiß es. Vielleicht ist es besser, wenn du's nicht weißt.}
+{195}{}{Ähhh... vergiss es. Vielleicht ist es besser, wenn du's nicht weißt.}
 {196}{}{Ich glaube, du... irrst dich.}
 {197}{}{Ist nicht leicht zu schlucken. Ich hätte da ein paar andere Fragen...}
 {198}{}{Nein, ehrlich... Die kultivieren Jet auf Brahmin-Mist... der dient als Dünger.}
 {199}{}{Nein, ehrlich... Anfangs züchteten sie Jet-haltige Pflanzen auf Brahmin-Mist, aber dann
- haben sie rausgefunden, daß die Arbeiter schon von den *Dämpfen* des Mists benebelt wurden. Es
- stellte sich raus, daß im Stoffwechsel von Brahmins dieses verunreinigte Vorkriegs-Protein
+ haben sie rausgefunden, dass die Arbeiter schon von den *Dämpfen* des Mists benebelt wurden. Es
+ stellte sich raus, dass im Stoffwechsel von Brahmins dieses verunreinigte Vorkriegs-Protein
  vorkommt...}
 {200}{}{Möglicherweise. Ich glaube es ja selbst nicht. Bis dann, Doktor.}
-{201}{}{Wirklich? Hmmmmm. Ich nehme an, daß Brahmin-... Exkremente einen guten Dünger abgeben.
+{201}{}{Wirklich? Hmmmmm. Ich nehme an, dass Brahmin-... Exkremente einen guten Dünger abgeben.
  Darüber hatte ich bisher noch nicht nachgedacht. Danke schön, mein Freund. Ich wollte unbedingt
- etwas über den Herstellungsprozeß herausfinden.}
-{202}{}{Ja, außer daß sie zur Herstellung von Jet Brahmin-Mist nehmen und keine "Exkremente".
- Tschüß, Doc.}
+ etwas über den Herstellungsprozess herausfinden.}
+{202}{}{Ja, außer dass sie zur Herstellung von Jet Brahmin-Mist nehmen und keine "Exkremente".
+ Tschüss, Doc.}
 {203}{}{Kein Problem. Sei vorsichtig mit dem Zeug, OK?}
 {204}{}{Hey, war's das? Bis dann Doktor.}
 {205}{}{Das ist wirklich... faszinierend. Hmmmm. Vielleicht sollte ich Blutproben von den Brahmins
  im Vorhof sammeln und danach... OK, danke, mein Freund. Wirklich, vielen, vielen Dank. Ich wollte
- unbedingt etwas über den Herstellungsprozeß wissen.}
+ unbedingt etwas über den Herstellungsprozess wissen.}
 {206}{}{Kein Problem. Sei vorsichtig mit dem Zeug, OK?}
 {207}{}{Hey, war's das? Bis dann Doktor.}
 {208}{}{Endorphin-Blocker? Wofür das denn?}
-{209}{}{Ich glaube, daß man mit Endorphin-Blockern das Jet im menschlichen Stoffwechsel
+{209}{}{Ich glaube, dass man mit Endorphin-Blockern das Jet im menschlichen Stoffwechsel
  neutralisieren könnte. Aber ich kann es nicht ausprobieren, weil ich keine Endorphin-Blocker
  habe.}
-{210}{}{Vergiß es. Ich möchte gern noch was anderes fragen...}
-{211}{}{Nichts. Ich muß jetzt gehen.}
+{210}{}{Vergiss es. Ich möchte gern noch was anderes fragen...}
+{211}{}{Nichts. Ich muss jetzt gehen.}
 {212}{}{Wir haben hier zwar keine Endorphin-Blocker, aber ich könnte den Autodoc so
- programmieren, daß er welche herstellt. Würde es dir etwas ausmachen, mir deine Theorie zu
+ programmieren, dass er welche herstellt. Würde es dir etwas ausmachen, mir deine Theorie zu
  erläutern?}
 {213}{}{Also, ich sehe das so: Wahrscheinlich ist die körperliche Abhängigkeit bei Jet das
- größere Problem und darum habe ich mir überlegt, daß man mit Endorphin-Blockern vielleicht...}
+ größere Problem und darum habe ich mir überlegt, dass man mit Endorphin-Blockern vielleicht...}
 {215}{}{Ich bin... sprachlos. Das ist einfach der genialste Vorschlag, den ich jemals gehört habe.
  Ich habe seit Monaten herumexperimentiert, um eine Methode zur Heilung der Jet-Sucht zu finden,
  aber keine gefunden.}
 {216}{}{Du hast auch versucht, ein Gegenmittel zu finden?}
 {217}{}{Ja, deshalb brauchte ich ja eine Jet-Probe.}
 {218}{}{Ja, aber ohne Erfolg.}
-{219}{}{Der Würgegriff der Droge muß beendet werden, bevor er sich immer weiter ausdehnt. Mit den von dir gelieferten
+{219}{}{Der Würgegriff der Droge muss beendet werden, bevor er sich immer weiter ausdehnt. Mit den von dir gelieferten
  Informationen könnten wir noch heute mit der Herstellung des Heilmittels anfangen. Moment.}
 {220}{}{Klasse! Danke, Doktor.}
 {221}{}{Dieser junge Mann hier? Der hat Jet erfunden?}
@@ -181,38 +181,38 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
  sollte ich Blutproben von den Brahmins im Vorhof sammeln und danach... OK, danke, mein Freund.}
 {230}{}{Kein Problem.}
 {231}{}{Sicher.}
-{232}{}{Du kannst deinem kleinen Schläger-Freund ausrichten, daß er sein beträchtliches
+{232}{}{Du kannst deinem kleinen Schläger-Freund ausrichten, dass er sein beträchtliches
  Gehirnschmalz nicht mit der Herstellung von Jet vergeuden soll. Außerdem lassen seine Manieren
  und seine Ausdrucksweise *EINIGES* zu wünschen übrig.}
 {233}{}{Erzähl mir mehr darüber.}
 {234}{}{Entspann dich, Doktor. Geringfügiger Jetkonsum juckt wirklich kein Schwein. Außer
- vielleicht bei Super-Stimpaks... und Buffout... und Psycho. Wirklich, vergiß es. Ich gehe jetzt.}
+ vielleicht bei Super-Stimpaks... und Buffout... und Psycho. Wirklich, vergiss es. Ich gehe jetzt.}
 {235}{}{Ich werd's weitergeben.}
 {236}{}{Ich bin bereit, dir für die Probe und dein Stillschweigen eintausend Dollar zu bezahlen.}
-{237}{}{Ich habe zufällig ein bißchen Jet dabei.}
+{237}{}{Ich habe zufällig ein bisschen Jet dabei.}
 {238}{}{Wofür brauchst du das Jet?}
 {239}{}{Klingt gut. Einverstanden.}
 {240}{}{Bin nicht interessiert.}
 {241}{}{Es wäre für mich und für meine Arbeit von... großem Nutzen, wenn du mir ein wenig von
  diesem "Jet" beschaffen könntest. Ich zahle dir bei Lieferung tausend Dollar. Aber es ist von
- äußerster Wichtigkeit, daß du diese Abmachung vertraulich behandelst.}
+ äußerster Wichtigkeit, dass du diese Abmachung vertraulich behandelst.}
 {242}{}{Ähhh... vertraulich?}
-{243}{}{Ach tatsächlich? Wieviel zahlst du mir denn dafür, daß ich den Mund halte? Ich könnte
+{243}{}{Ach tatsächlich? Wieviel zahlst du mir denn dafür, dass ich den Mund halte? Ich könnte
  dich jetzt sofort anzeigen.}
-{244}{}{Ich habe zufällig ein bißchen Jet dabei.}
+{244}{}{Ich habe zufällig ein bisschen Jet dabei.}
 {245}{}{Wofür brauchst du das Jet?}
 {246}{}{Kein Problem. Du kannst auf mich zählen.}
 {247}{}{Bin nicht interessiert.}
 {248}{}{Ähhh, aha... vertraulich. Das bedeutet: Eine Sache nur zwischen uns beiden. Niemand etwas
  davon erzählen.}
-{249}{}{Ich habe zufällig ein bißchen Jet dabei.}
+{249}{}{Ich habe zufällig ein bisschen Jet dabei.}
 {250}{}{Wofür brauchst du das Jet?}
 {251}{}{Was sollte mich davon abhalten, dich jetzt sofort anzuzeigen?}
 {252}{}{Kein Problem. Ich werd's "vertraulich", oder wie auch immer du das nennst, behandeln.}
 {253}{}{Bin nicht interessiert.}
 {254}{}{Das geht dich nichts an. Besorg eine Probe Jet, bring sie mir, und ich zahle dir
  tausend Dollar für die Probe und dein Schweigen.}
-{255}{}{Tja... Ich habe zufällig ein bißchen Jet dabei...}
+{255}{}{Tja... Ich habe zufällig ein bisschen Jet dabei...}
 {256}{}{Was sollte mich davon abhalten, dich jetzt sofort anzuzeigen?}
 {257}{}{Kein Problem. Du kannst auf mich zählen.}
 {258}{}{Bin nicht interessiert.}
@@ -234,7 +234,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
  Verstanden?}
 {272}{}{Darüber macht man KEINE Witze, das ist eine sehr ernste Angelegenheit. Ich zahle tausend
  Dollar für das Jet, dein Stillschweigen... und du stellst keine Fragen mehr. Willst du den Job?}
-{273}{}{Gut, was möchtest du wissen? Ich habe zufällig ein bißchen Jet dabei.}
+{273}{}{Gut, was möchtest du wissen? Ich habe zufällig ein bisschen Jet dabei.}
 {274}{}{Was sollte mich davon abhalten, dich jetzt sofort anzuzeigen?}
 {275}{}{Klar, mach ich.}
 {276}{}{Bin nicht interessiert.}
@@ -242,7 +242,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {278}{}{Hervorragend! Danke, mein Lieber... Du ahnst ja nicht, wie wichtig das für meine Arbeit
  ist. Hier hast du dein Geld, wie besprochen.}
 {279}{}{Klasse! Bevor ich gehe, möchte ich noch was fragen...}
-{280}{}{Ich kann mir einfach nicht vorstellen, daß du wirklich dieses... Zeug... inhalieren willst.
+{280}{}{Ich kann mir einfach nicht vorstellen, dass du wirklich dieses... Zeug... inhalieren willst.
  Vertrau mir.}
 {281}{}{Kein Problem. Danke, Doktor.}
 {282}{}{Hallo, Hauptmann. Kann ich irgendwie behilflich sein?}
@@ -260,7 +260,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {294}{}{Was das Jet anbelangt, das du bestellt hast... das wird die anderen Bürger vermutlich auch
  interessieren.}
 {295}{}{Heute nicht. Schönen Tag noch, Doktor.}
-{296}{}{Sicher. Tut mir leid... Es ist einige Zeit her, daß ich die das letzte Mal verabreicht
+{296}{}{Sicher. Tut mir leid... Es ist einige Zeit her, dass ich die das letzte Mal verabreicht
  habe. Die meisten Bürger haben ihre Ration vor vielen, vielen Jahren gekriegt. Warte mal, ich
  stelle den Autodoc kurz darauf ein...}
 {297}{}{Also gut.}
@@ -273,32 +273,32 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {303}{}{Ich bin vergiftet.}
 {304}{}{Ich bin verstrahlt.}
 {305}{}{Ich komme, um mein Geld abzuholen. Hast du es?}
-{306}{}{Ich bin hier, um dich daran zu erinnern, daß bald der Erste ist und ich mein Geld haben
+{306}{}{Ich bin hier, um dich daran zu erinnern, dass bald der Erste ist und ich mein Geld haben
  will.}
 {307}{}{Heute... nichts.}
 {308}{}{Das habe ich nicht vergessen. Hier ist das Geld. Und jetzt verschwinde.}
 {309}{}{Einen Moment noch... Ich brauche auch ärztliche Behandlung.}
-{310}{}{Moment... Ich bin vergiftet. Du mußt mich heilen.}
-{311}{}{Moment... Ich bin verstrahlt. Du mußt mich heilen.}
-{312}{}{Es ist ein Vergnügen, mit dir Geschäfte zu machen. Tschüß, Doc.}
+{310}{}{Moment... Ich bin vergiftet. Du musst mich heilen.}
+{311}{}{Moment... Ich bin verstrahlt. Du musst mich heilen.}
+{312}{}{Es ist ein Vergnügen, mit dir Geschäfte zu machen. Tschüss, Doc.}
 {313}{}{Das habe ich nicht vergessen. Du kriegst dein Geld schon. Und jetzt verschwinde.}
 {314}{}{Einen Moment noch... Ich brauche auch ärztliche Behandlung.}
-{315}{}{Moment... Ich bin vergiftet. Du mußt mich heilen.}
-{316}{}{Moment... Ich bin verstrahlt. Du mußt mich heilen.}
+{315}{}{Moment... Ich bin vergiftet. Du musst mich heilen.}
+{316}{}{Moment... Ich bin verstrahlt. Du musst mich heilen.}
 {317}{}{Das wollte ich hören. Bis bald, Doc.}
-{318}{}{So, so. Dann muß ich erst einmal deine Organfunktionen prüfen... Lehn dich zurück,
+{318}{}{So, so. Dann muss ich erst einmal deine Organfunktionen prüfen... Lehn dich zurück,
  damit ich dich an den Autodoc anschließen kann.}
 {320}{}{Hmmmm. Sieht so aus, als wäre beim Einschalten des Autodoc eine Fehlfunktion aufgetreten,
  durch die dir der Autodoc versehentlich eine Dosis Natriumtriethylen injiziert hat.}
 {321}{}{Was? Was soll das heißen?}
-{322}{}{Das soll heißen, daß du noch knapp zehn Sekunden zu leben hast. Deine Dummheit ist
+{322}{}{Das soll heißen, dass du noch knapp zehn Sekunden zu leben hast. Deine Dummheit ist
  geradezu umwerfend. Erst jemanden erpressen und ihm dann sein Leben anvertrauen... Wirklich sehr
  witzig. Gute Reise... und auf Nimmerwiedersehen.}
-{323}{}{Jetzt muß ich schon wieder das Spiel neu laden! Ist das beschissen! Wenn ich das Spiel
+{323}{}{Jetzt muss ich schon wieder das Spiel neu laden! Ist das beschissen! Wenn ich das Spiel
  neu geladen habe, mache ich dich fertig.}
 {324}{}{Und was ist mit dem Hippokratischen Eid?! He! Ich...}
 {325}{}{Ich werde dich noch aus dem Grab heraus heimsuchen. Das schwöre ich!}
-{326}{}{Wie bist du hierher gekommen? Tut mir leid, aber du mußt sofort wieder gehen. Warte mal
+{326}{}{Wie bist du hierher gekommen? Tut mir leid, aber du musst sofort wieder gehen. Warte mal
  kurz. Ich rufe die Wache, damit sie dich rausbringt.}
 {327}{}{IG NIX GEE!}
 {328}{}{Bleib mal einen Moment da stehen.}
@@ -307,7 +307,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {330}{}{Gute Nachrichten... Es ist mir gelungen, aufgrund deiner Angaben ein Gegengift
  herzustellen.}
 {331}{}{Dieses Gegengift beseitigt die Entzugssymptome und... neutralisiert die mit dem
- Drogengenuß verbundenen Glücksgefühle.}
+ Drogengenuss verbundenen Glücksgefühle.}
 {332}{}{Super! Kann ich was davon haben?}
 {333}{}{Kann ich eine Probe davon bekommen? Das wäre für die Leute in Redding bestimmt eine große
  Hilfe.}
@@ -326,7 +326,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
  Stabilisatorplatten und Wärmeableitfolien in das Skelett implantiert werden, die gegen
  Stoßverletzungen und Hitzeeinwirkung schützen sollen. Warum fragst du?}
 {342}{}{Ja, du hast schon mal von diesen Implantaten gesprochen. Tut mir leid, aber ich führe
- diese Operation nicht durch. Die Operation läßt sich nicht mehr rückgängig machen und die
+ diese Operation nicht durch. Die Operation lässt sich nicht mehr rückgängig machen und die
  Implantate schaden mehr als sie nutzen.}
 {343}{}{Ich bin in der medizinischen Datenbank von Vault City darauf gestoßen. Kannst du diese
  Operation an mir durchführen?}
@@ -347,7 +347,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {354}{}{Tut mir leid. Die medizinischen Einrichtungen stehen nur für Bürger zur Verfügung und in
  der Datenbank ist eine vollständige Patientenliste gespeichert. [Mit gedämpfter Stimme:] Aber,
  die Stimpaks in den Versorgungsspinden im Untergeschoß wird schon niemand vermissen,
- wenn du ein paar mitgehen läßt.}
+ wenn du ein paar mitgehen lässt.}
 {355}{}{Hmmm. OK, dann hätte da noch ein paar weitere Fragen...}
 {356}{}{Danke. Ich werd' mir ein paar holen.}
 {357}{}{Natürlich, Hauptmann. Mal schauen, was ich für dich und deine Freunde tun kann.}
@@ -355,9 +355,9 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {359}{}{Ich prüfe erst mal deine Körperfunktionen... leg dich mal hin, damit ich dich an den
  Autodoc anschließen kann...}
 {361}{}{Ach du liebe Zeit. Im Körper deines Mutantenfreundes hier steckten jede Menge Kugeln und
- Granatsplitter. Ist ein wahres Wunder, daß er keine Bleivergiftung hat. Jetzt habe ich sie
+ Granatsplitter. Ist ein wahres Wunder, dass er keine Bleivergiftung hat. Jetzt habe ich sie
  endlich alle draußen. Hier ist die ganze Ladung.}
-{362}{}{Das müßte das Problem beheben. Sag es mir ruhig, wenn du eine weitere Behandlung
+{362}{}{Das müsste das Problem beheben. Sag es mir ruhig, wenn du eine weitere Behandlung
  benötigst.}
 {363}{}{Ich brauche auch eine ärztliche Behandlung.}
 {364}{}{Ich bräuchte eine Behandlung, ich bin verstrahlt.}
@@ -378,7 +378,7 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {379}{}{Nichts. Danke, Doktor.}
 {380}{}{Schön. Ich prüfe jetzt erst mal deine Organfunktionen... leg dich mal hin, damit ich dich
  an den Autodoc anschließen kann...}
-{382}{}{Das müßte dich wieder auf die Beine bringen. Wie fühlst du dich?}
+{382}{}{Das müsste dich wieder auf die Beine bringen. Wie fühlst du dich?}
 {383}{}{Super! Kannst du meinen Freund auch behandeln?}
 {384}{}{Phantastisch! Kannst du meine Freunde auch behandeln?}
 {385}{}{Kennst du dich mit Hautimplantaten aus?}
@@ -386,9 +386,9 @@ Fachsimpeln? Ich habe nur selten Gelegenheit zu einem Gespräch mit einem Fachkol
 {387}{}{Klasse! Danke, Doktor.}
 {388}{}{Schön. Ich prüfe jetzt erst mal deine Organfunktionen... leg dich mal hin, damit ich dich
  an den Autodoc anschließen kann...}
-{390}{}{Das müßte dich wieder auf die Beine bringen. Wie fühlst du dich?}
+{390}{}{Das müsste dich wieder auf die Beine bringen. Wie fühlst du dich?}
 {391}{}{Viel besser, danke. Falls ich noch mal vergiftet oder verstrahlt werde: Als du mir das
- Labor gezeigt hast, hast du erwähnt, daß du einen Impfstoff hättest, der gegen Gifte und
+ Labor gezeigt hast, hast du erwähnt, dass du einen Impfstoff hättest, der gegen Gifte und
  Strahlung schützt. Könnte ich den bekommen?}
 {392}{}{Super! Kannst du meinen Freund auch behandeln?}
 {393}{}{Phantastisch! Kannst du meine Freunde auch behandeln?}

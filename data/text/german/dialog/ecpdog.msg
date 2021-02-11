@@ -1,6 +1,6 @@
 {100}{}{Dieses Tier sollte man wirklich von seinem Elend befreien.}
-{101}{}{Es sieht aus wie ein Hund. Schade, daß ihm die Haare büschelweise ausfallen.}
-{102}{}{Du siehst einen zerzausten häßlichen Hund. Er mag dich aber.}
+{101}{}{Es sieht aus wie ein Hund. Schade, dass ihm die Haare büschelweise ausfallen.}
+{102}{}{Du siehst einen zerzausten hässlichen Hund. Er mag dich aber.}
 {110}{}{Wuff}
 {111}{}{Wuuuuuffff}
 {112}{}{Wufffffffuuffff}

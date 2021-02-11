@@ -4,7 +4,7 @@
 {103}{}{La RNC no da la bienvenida a los desertores. Fuera de aquí.}
 {104}{}{Sabes lo que opino de los de tu calaña. Sal ya de mi vista.}
 {105}{}{Yiii-jaa! Afuera.}
-{106}{}{Okay, let's go.}
+{106}{}{Bueno, vamos a ir.}
 {107}{}{Soy Stanwell. Yo me encargo de la caravana entre Redding y la República de Nueva California. Brahmin por
  oro. Nos vendría bien un guardia extra, y estamos listos para irnos ahora mismo. }
 {108}{}{La gente me llama Stanwell. Yo me encargo de la caravana entre Redding y la República de Nueva California.

@@ -1,7 +1,7 @@
 {100}{}{Du siehst einen Banditen.}
 {101}{}{Na, na, was haben wir denn da?}
 {102}{}{Einfache Reisende, was? Gibt's ja nicht. Hilfe bei euren Wertsachen gefällig?}
-{103}{}{Paß auf, wo du dich in Reno aufhältst, sonst könnte dir was zustoßen. Bleib mir bloß vom
+{103}{}{Pass auf, wo du dich in Reno aufhältst, sonst könnte dir was zustoßen. Bleib mir bloß vom
  Leib.}
 {104}{}{Hallo, }
 {105}{}{.}

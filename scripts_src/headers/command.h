@@ -37,6 +37,7 @@ variable global_temp;
 
 #define Current_Distance_From_Obj(the_obj)  tile_distance_objs(self_obj,the_obj)
 #define Current_Distance_From_Dude          Current_Distance_From_Obj(dude_obj)
+#define distance_dude                       tile_distance_objs(self_obj,dude_obj)
 
 #define Future_Distance_From_Obj(x, y)      tile_num_in_direction(tile_num(x), ((has_trait(TRAIT_OBJECT,x,OBJECT_CUR_ROT) + 3)%6), y)
 #define Future_Distance_From_Dude(x)        Future_Distance_From_Obj(dude_obj, x)
@@ -305,6 +306,7 @@ variable step_tile;
 #define dude_rads                           get_rads(dude_obj)
 #define self_rads                           get_rads(self_obj)
 
+#define get_cur_rot(cr)                     has_trait(TRAIT_OBJECT,cr,OBJECT_CUR_ROT)
 #define dude_cur_rot                        (has_trait(TRAIT_OBJECT,dude_obj,OBJECT_CUR_ROT))
 #define dude_inv_rot                        ((dude_cur_rot + 3)%6)
 #define dude_tile                           (tile_num(dude_obj))
@@ -1319,6 +1321,11 @@ variable removed_qty;
 // raiders macros end
 
 //see the file for disambiguation
-#include "rpu_command.h"
+#include "command_extra.h"
+
+#define prone_to_gas(x) ( \
+  not protected_from_gas(x) and (critter_kill_type(x) != KILL_TYPE_robot_kills) \
+)
+#define can_be_gas_poisoned(x) ((x == dude_obj) and not (protected_from_gas(x)))
 
 #endif // COMMAND_H

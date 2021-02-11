@@ -410,7 +410,6 @@ end
 
 procedure checkConvince begin
    variable val;
-   // skill_check(dude_obj, SKILL_CONVERSANT, -((amount of money wanted / amount of money payed) * 10));
 
    ndebug("skill checked with negative: " + -(BRIBE_AMOUNT / payAmount) * 10);
    if (payAmount < BRIBE_AMOUNT) then begin

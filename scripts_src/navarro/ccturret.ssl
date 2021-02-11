@@ -53,6 +53,7 @@ variable Only_Once:=0;
 variable worn;
 variable temp;
 variable said_intruder:=0;
+#define max_attack_distance 17
 
 procedure start begin
 end
@@ -65,8 +66,8 @@ end
 
 procedure critter_p_proc begin
 
- if (self_can_see_dude) then begin //added by killap
-   if (dude_elevation == self_elevation)then begin
+ if (self_can_see_dude) and (distance_dude <= max_attack_distance) then begin
+   if (dude_elevation == self_elevation) then begin
       if (local_var(LVAR_Hostile) == 2) then begin
          set_local_var(LVAR_Hostile,1);
          attack(dude_obj);

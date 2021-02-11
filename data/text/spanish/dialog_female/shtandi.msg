@@ -66,7 +66,7 @@
 {165}{}{Nada más por ahora. Me marcho.}
 {166}{tand8}{Está justo al este de aquí, un Refugio subterráneo de la guerra. La mayoría de familias de RNC proceden de allí, así que es legítimamente nuestro.}
 {167}{}{Cuéntame más.}
-{168}{}{Sigue.}
+{168}{}{Continúa.}
 {169}{tand9}{Hace un par de años algunos okupas llegaron y construyeron un mísero asentamiento en la superficie. Lo llaman 'Ocupación'. Son como el perro del hortelano. No pueden entrar en el Refugio pero no nos dejan acercarnos.}
 {170}{}{Más preguntas.}
 {171}{}{Ya veo. Necesito preguntarte acerca de algunas otras cosas.}
@@ -74,7 +74,7 @@
 {173}{}{Saber más.}
 {174}{}{Unas cuantas preguntas más, por favor.}
 {175}{tand11}{Pero rápido. No puedo perder todo el día contigo.}
-{176}{}{Ok, me hurry.}
+{176}{}{Ok, me apuro.}
 {177}{}{Intentaré darme prisa.}
 {178}{tand12}{Con ese uniforme que llevas me figuraba que ya lo sabías.}
 {179}{}{Uniforme en poblado mucho tiempo. Era de Morador del Refugio, hacedor de tribu.}
@@ -168,7 +168,7 @@
 {267}{}{Sólo una cosa más. ¿Y si te dijera que he encontrado el Refugio 13?}
 {268}{}{Hablaré con él. Adiós.}
 {269}{tand36}{Sólo negocios, ¿eh? De acuerdo. Quinientos, cuando esté hecho. Yo no regateo, así que tómalo o no me hagas perder el tiempo.}
-{270}{}{Me take but me need ask questions.}
+{270}{}{Me tome pero me necesitan hacer preguntas.}
 {271}{}{No interesado.}
 {272}{}{Lo aceptaré pero necesito cierta información.}
 {273}{}{No estoy interesado.}
@@ -204,7 +204,7 @@
 {303}{}{Está lleno de Garras mortales inteligentes. Incluso pueden hablar.}
 {304}{tand44a}{Ya, claro (mueve la cabeza). Dios, eres más tonta incluso de lo que dijo Hoss! (suspira) Ahí está la puerta.}
 {305}{tand44b}{Vale (mueve la cabeza). Está bien, dejemos de perder el tiempo. (suspira) Ahí está la puerta.}
-{306}{}{Marcho ahora.}
+{306}{}{Yo irme ahora.}
 {307}{}{De acuerdo. Me iré.}
 {308}{tand45}{Te has ganado una bonificación. Mi ayudante lo arreglará.}
 {309}{}{}

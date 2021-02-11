@@ -4,6 +4,6 @@
 {103}{}{Nein.}
 {104}{}{Agh.}
 {105}{}{Dann hau ab! Wir sind beschäftigt.}
-{106}{}{Ich paß schon auf, daß die Alkoholmischung genau richtig ist.}
+{106}{}{Ich pass schon auf, dass die Alkoholmischung genau richtig ist.}
 {107}{}{Baka. Baka BAKA!}
 {108}{}{Danke für das gute Geschäft.}

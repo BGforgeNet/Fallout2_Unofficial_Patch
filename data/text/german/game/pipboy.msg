@@ -38,7 +38,7 @@
 {313}{}{Bis Mitternacht (00:00) ausruhen}
 {314}{}{Bis zur Heilung ausruhen}
 {315}{}{Bis zur Heilung der Gruppe ausruhen}
-{400}{}{Holodisk von Vault 13}
+{400}{}{Holo-Disk von Vault 13}
 {401}{}{Militärbasis, Außen}
 {402}{}{Militärbasis, Ebene 1}
 {403}{}{Militärbasis, Ebene 2}
@@ -52,9 +52,9 @@
 {411}{}{Lehre der Hubologen}
 {412}{}{Vault City Designerhinweise}
 {413}{}{Vault City Reisebericht}
-{414}{}{NCR-Spion-Holodisk}
+{414}{}{NCR-Spion-Holo-Disk}
 {415}{}{NCR-Geschichts-Disk}
-{416}{}{Westins Holodisk}
+{416}{}{Westins Holo-Disk}
 {417}{}{Lage der Nation}
 {418}{}{Wortliste}
 {419}{}{Das Projekt}
@@ -82,7 +82,7 @@
 {603}{}{Archive}
 {604}{}{Wecker}
 {605}{}{Du da du da dum di di dudly du dam dam dam du da}
-{606}{}{Welcome to the RobCo Pip-Boy 2000.}
+{606}{}{Dein RobCo PIPBoy 2000 grüßt dich.}
 {607}{}{Machs gut.}
 {608}{}{Aufwachen.}
 {700}{}{Vault 13}
@@ -132,13 +132,13 @@
 {810}{}{Kathedrale}
 {1000}{}{  Vault 13 HOLO von Ziggy}
 {1001}{}{ verschiedene wasserdichte Türen in der gesamten}
-{1002}{}{ Diese Holodisk gibt den Standort von Vault 13}
+{1002}{}{ Diese Holo-Disk gibt den Standort von Vault 13}
 {1003}{}{ an. Der Standort ist auf deiner Karte markiert}
 {1004}{}{ Notfall auszuschließen). Dadurch kommt es zu}
 {2000}{}{ An: CHQ}
 {2001}{}{ Unsere Wissenschaftler haben die Tests an der}
 {2002}{}{ Probe beendet, die wir in der Basis gefunden}
-{2003}{}{ haben. Es hat sich bestätigt, daß sie 99 % rein}
+{2003}{}{ haben. Es hat sich bestätigt, dass sie 99 % rein}
 {2004}{}{ ist. Sie können die Probe in Kürze erwarten. Wie}
 {2005}{}{ erwartet sind die Arbeiter schnell mutiert, sobald}
 {2006}{}{ sie einer reinen Quelle ausgesetzt wurden. Schwere,}
@@ -159,15 +159,15 @@
 {4002}{}{ ich kann hören, wie sie den Minenschacht}
 {4003}{}{ hochkommen. Scheiße! Riesige, widerliche grüne}
 {4004}{}{ Wesen kommen von den unteren Ebenen}
-{4005}{}{ heraufgeklettert! Sowas muß der Traum unserer}
+{4005}{}{ heraufgeklettert! Sowas muss der Traum unserer}
 {4006}{}{ Führung sein. Eine Art Supersoldat. Sobald wir}
 {4007}{}{ sie erschießen, klettern die nächsten zwei aus}
 {4008}{}{ Notfall auszuschließen). Dadurch kommt es zu}
 {5000}{}{ Feldwebel Bracks berichtet von Kontrollpunkt 3.}
 {5001}{}{ Alles ist normal, genau wie gestern und vorgestern.}
-{5002}{}{ Ich verstehe nicht, warum die Führung will, daß wir}
+{5002}{}{ Ich verstehe nicht, warum die Führung will, dass wir}
 {5003}{}{ diese armen Bergleute bewachen. Die sind so}
-{5004}{}{ ausgemergelt und schwach, daß sie kaum eine}
+{5004}{}{ ausgemergelt und schwach, dass sie kaum eine}
 {5005}{}{ Spitzhacke heben können. Egal, die}
 {5006}{}{ Schreibtischhengste waren vor kurzem mit einer Art}
 {5007}{}{ Probe da. Sie schienen ziemlich aufgeregt zu sein.}
@@ -183,7 +183,7 @@
 {6003}{}{ FEV-Virus in den Luft- und Bodenproben, die wir}
 {6004}{}{ genommen haben. Zum Glück ist in unsere Anzüge}
 {6005}{}{ ein Filter gegen das Virus eingebaut. Sag den}
-{6006}{}{ Mitgliedern der Enklave, daß sie vermutlich bald}
+{6006}{}{ Mitgliedern der Enklave, dass sie vermutlich bald}
 {6007}{}{ verschiedene wasserdichte Türen in der gesamten}
 {6008}{}{**END-PAR**}
 {6009}{}{ Ich habe auch Änderungen an den Bergleuten}
@@ -193,18 +193,18 @@
 {6013}{}{ Anzeichen für eine Mutation durch FEV. Die Männer}
 {6014}{}{ werden langsam nervös, weil auch sie die Änderungen}
 {6015}{}{ bemerkt haben. Obwohl ich die Anzahl der Wachen}
-{6016}{}{ erhöht habe, fürchte ich, daß wir, wenn die}
+{6016}{}{ erhöht habe, fürchte ich, dass wir, wenn die}
 {6017}{}{ Arbeiter vollständig mutieren, zahlenmäßig weit}
 {6018}{}{ unterlegen sind. Da wir nur die örtliche}
 {6019}{}{ Bevölkerung als Arbeitskräfte einsetzen, hoffe}
-{6020}{}{ ich, daß keine vollständige Mutation eintritt,}
+{6020}{}{ ich, dass keine vollständige Mutation eintritt,}
 {6021}{}{ solange sie nicht direkt einer reinen Quelle}
 {6022}{}{ ausgesetzt sind (eingetaucht werden), oder solange}
 {6023}{}{ sie dem Virus nicht längere Zeit ausgesetzt sind.}
-{6024}{}{ Sie werden sich erinnern, daß kleinste Mengen des}
+{6024}{}{ Sie werden sich erinnern, dass kleinste Mengen des}
 {6025}{}{ Virus in der Region entdeckt wurden.}
 {6026}{}{ Untersuchungen an Versuchspersonen, die in diesem}
-{6027}{}{ Gebiet leben, haben gezeigt, daß sie eine gewisse}
+{6027}{}{ Gebiet leben, haben gezeigt, dass sie eine gewisse}
 {6028}{}{ Toleranz gegenüber dem FEV-Virus entwickelt haben.}
 {6029}{}{ Notfall auszuschließen). Dadurch kommt es zu}
 {7000}{}{ Sierra Army Depot - F & E}
@@ -217,9 +217,9 @@
 {7007}{}{ Einstellungen an meinem automatischen Vault-Tec-}
 {7008}{}{ Organentnehmer geändert. Ich hab vielleicht}
 {7009}{}{ gestaunt, als der Gefreite Callow ohne Dickdarm}
-{7010}{}{ aus dem Operationssaal kam. Ein Glück, daß er schon}
+{7010}{}{ aus dem Operationssaal kam. Ein Glück, dass er schon}
 {7011}{}{ tot war, sonst hätte ich Ärger bekommen. Ich hab die}
-{7012}{}{ Maschine jetzt so verdrahtet, daß sie nur noch Hirne}
+{7012}{}{ Maschine jetzt so verdrahtet, dass sie nur noch Hirne}
 {7013}{}{ verschiedene wasserdichte Türen in der gesamten}
 {7014}{}{ die Kerle noch ran!}
 {7015}{}{**END-PAR**}
@@ -229,7 +229,7 @@
 {7019}{}{ ins Biolager schicken, garniert mit Bohnen und}
 {7020}{}{ verschiedene wasserdichte Türen in der gesamten}
 {7021}{}{ spezielles Dankeschön für ihre gute Arbeit gewesen.}
-{7022}{}{I tried a new drug cocktail of Buffout and Psychos}
+{7022}{}{Ich habe einen neuen Drogencocktail aus Buffout und Psychos probiert.}
 {7023}{}{**END-PAR**}
 {7024}{}{ 30. Juni 2077}
 {7025}{}{ Ich habe einen neuen Drogencocktail aus Buffout und}
@@ -240,7 +240,7 @@
 {7030}{}{ verschiedene wasserdichte Türen in der gesamten}
 {7031}{}{ und konnte aus dem Zimmer ausbrechen. Zum Glück}
 {7032}{}{ waren die neuen Sicherheitsroboter zur Stelle und}
-{7033}{}{ haben ihn ruhiggestellt. Ich muß die Techniker}
+{7033}{}{ haben ihn ruhiggestellt. Ich muss die Techniker}
 {7034}{}{ bitten, die Tür auszutauschen.}
 {7035}{}{**END-PAR**}
 {7036}{}{ 1. Juli 2077}
@@ -259,7 +259,7 @@
 {7049}{}{**END-PAR**}
 {7050}{}{ verschiedene wasserdichte Türen in der gesamten}
 {7051}{}{ 9. Juni 2077}
-{7052}{}{ teurer Computer so umkonfiguriert wird, daß er die}
+{7052}{}{ teurer Computer so umkonfiguriert wird, dass er die}
 {7053}{}{ Basis für die Evakuierung leitet. Ich bin auch}
 {7054}{}{ nicht eben begeistert, da Skynet bei der}
 {7055}{}{ Entwicklung des neuen kybernetischen Gehirns}
@@ -295,7 +295,7 @@
 {8024}{}{ einem späteren Zeitpunkt wieder einsetzen. Dieses}
 {8025}{}{ experimentelle Bio-Gel wirkt stimulierend auf das}
 {8026}{}{ Wachstum lebender Zellen. Es ist jedoch}
-{8027}{}{ bedauerlich, daß wir dieses neue Gel unter}
+{8027}{}{ bedauerlich, dass wir dieses neue Gel unter}
 {8028}{}{ Notfall auszuschließen). Dadurch kommt es zu}
 {9000}{}{ 9. Juni 2077}
 {9001}{}{ Dringlich}
@@ -304,10 +304,10 @@
 {9004}{}{ Nachricht an die gesamte Mannschaft.}
 {9005}{}{ Die Evakuierung des Sierra Army Depots wurde um}
 {9006}{}{ 1 Woche vorverlegt. Die Installation der Sicherheits-}
-{9007}{}{ und Abwehrmaßnahmen muß bis zu diesem Zeitpunkt}
-{9008}{}{ abgeschlossen sein. Der gesamte Trupp muß sich}
+{9007}{}{ und Abwehrmaßnahmen muss bis zu diesem Zeitpunkt}
+{9008}{}{ abgeschlossen sein. Der gesamte Trupp muss sich}
 {9009}{}{ aufgrund der geänderten Befehle mit den}
-{9010}{}{strictly enforced; ID badges must be worn}
+{9010}{}{ Abteilungsleitern in Verbindung setzen, um}
 {9011}{}{ geänderte Anordnungen entgegenzunehmen. Während}
 {9012}{}{}
 {9013}{}{ Kennmarken müssen ständig getragen werden.}
@@ -341,8 +341,8 @@
 {10026}{}{ Sierra Army Depot}
 {10027}{}{ Missionsbericht 2077}
 {10028}{}{ Aufgrund der Knappheit an ausgebildetem Personal}
-{10029}{}{personnel are to be relocated to neighboring}
-{10030}{}{installations or sent to the front line.}
+{10029}{}{ ist das Sierra Army Depot in eine automatisierte}
+{10030}{}{ Verteidigungsbasis umzuwandeln. Das gesamte}
 {10031}{}{ Notfall auszuschließen). Dadurch kommt es zu}
 {11000}{}{ mit der Art und Weise zufrieden sind, in der der}
 {11001}{}{ Abschrift der Übertragung vom 11. Januar 2073}
@@ -354,7 +354,7 @@
 {11007}{}{ Ozean befindet. Da die Ölvorräte der Erde zur Neige}
 {11008}{}{ gehen, kam es zu einer Art Wettrennen, um die beste}
 {11009}{}{ Methode zur Erschließung dieses Ölvorkommens zu }
-{11010}{}{ entwickeln. Wir hier bei GNN melden mit Stolz, daß}
+{11010}{}{ entwickeln. Wir hier bei GNN melden mit Stolz, dass}
 {11011}{}{ die USA als erste dieses Ziel erreicht haben und}
 {11012}{}{ das Öl folglich zum Eigentum der Vereinigten}
 {11013}{}{ Staaten erklärt wird.}
@@ -362,7 +362,7 @@
 {11015}{}{**END-PAR**}
 {11016}{}{ China protestiert, als die Erfolgsnachricht}
 {11017}{}{ um die ganze Welt geht. Laut dem chinesischen}
-{11018}{}{ Präsidenten Xin war der Abschluß des chinesischen}
+{11018}{}{ Präsidenten Xin war der Abschluss des chinesischen}
 {11019}{}{ Bohrprojekts Monate vor dem der USA geplant,}
 {11020}{}{ jedoch wurden die Arbeiten an der chinesischen}
 {11021}{}{ Bohrplattform durch eine Reihe von Unfällen}
@@ -390,7 +390,7 @@
 {11043}{}{ stand, als der Präsident die Ölverhandlungen mit den}
 {11044}{}{ anderen Weltmächten während der Sitzung verließ.}
 {11045}{}{ verschiedene wasserdichte Türen in der gesamten}
-{11046}{}{ aus der Sitzung und erklärte, daß das letzte}
+{11046}{}{ aus der Sitzung und erklärte, dass das letzte}
 {11047}{}{ bekannte Erdölvorkommen einzig und allein von den}
 {11048}{}{ USA genutzt werden und die USA kein Öl an Dritte }
 {11049}{}{ verkaufen oder damit Handel treiben wird.}
@@ -407,14 +407,14 @@
 {11060}{}{ Galaxy News Network}
 {11061}{}{ Abschrift der Übertragung vom 14. Februar 2075}
 {11062}{}{ Heute wurde Geschichte gemacht, als Kanada im}
-{11063}{}{ Anschluß einer Volksabstimmung von den USA annektiert}
+{11063}{}{ Anschluss einer Volksabstimmung von den USA annektiert}
 {11064}{}{ verschiedene wasserdichte Türen in der gesamten}
 {11065}{}{ Hockeyspieler der Welt" und ist daher in den Reihen}
 {11066}{}{ der Bundesstaaten willkommen. Gut unterrichteten}
 {11067}{}{ Quellen zufolge erhält Kanada als Gegenleistung volle}
 {11068}{}{ 10 % der restlichen Ölvorräte der Welt, die}
-{11069}{}{to score the winning touchdown during the final seconds}
-{11070}{}{ einen 50%igen Steuernachlaß, da Kanada jetzt unter}
+{11069}{}{ ausschließlich von den USA kontrolliert werden, sowie}
+{11070}{}{ einen 50%igen Steuernachlass, da Kanada jetzt unter}
 {11071}{}{ die Steuergesetzgebung der USA fällt.}
 {11072}{}{ verschiedene wasserdichte Türen in der gesamten}
 {11073}{}{ mit der Art und Weise zufrieden sind, in der der}
@@ -422,7 +422,7 @@
 {11075}{}{ Zitterpartie, aber J. Montana IV rettete sein Team,}
 {11076}{}{ als er den Ball von der 5-Yard-Linie an in die}
 {11077}{}{ gegnerische Hälfte trieb und Sekunden vor dem}
-{11078}{}{ Schlußpfiff den siegreichen Touchdown erzielte.}
+{11078}{}{ Schlusspfiff den siegreichen Touchdown erzielte.}
 {11079}{}{ Der Spielstand lautete am Ende 95 - 90.}
 {11080}{}{ Die Anaheim Jets gewinnen den Super Bowl CXII.}
 {11081}{}{ verschiedene wasserdichte Türen in der gesamten}
@@ -431,12 +431,12 @@
 {11084}{}{ In einer verblüffenden Demonstration von Einigkeit}
 {11085}{}{ stimmten das Repräsentantenhaus und der Kongreß}
 {11086}{}{ einstimmig für die Einleitung eines Amtsenthebungs-}
-{11087}{}{military exercises staged by the Chinese fleet that are}
+{11087}{}{ verfahrens gegen den Präsidenten aufgrund von}
 {11088}{}{ unachtsamem Verhalten im Straßenverkehr. Beide}
-{11089}{}{ Häuser betonten, daß der Präsident nicht über}
+{11089}{}{ Häuser betonten, dass der Präsident nicht über}
 {11090}{}{ verschiedene wasserdichte Türen in der gesamten}
 {11091}{}{ Fußgänger an die Straßenverkehrsordnung zu halten}
-{11092}{}{ habe. Beide Seiten leugnen, daß diese Maßnahme}
+{11092}{}{ habe. Beide Seiten leugnen, dass diese Maßnahme}
 {11093}{}{ mit der kürzlich stattgefundenen Annektierung}
 {11094}{}{ von Kanada zusammenhängt.}
 {11095}{}{**END-PAR**}
@@ -450,7 +450,7 @@
 {11103}{}{ ausgeführt werden." Die chinesische Regierung}
 {11104}{}{ stritt feindliche Absichten ab.}
 {11105}{}{**END-PAR**}
-{11106}{}{ Eine vor kurzem durchgeführte Umfrage belegt, daß}
+{11106}{}{ Eine vor kurzem durchgeführte Umfrage belegt, dass}
 {11107}{}{ 54% der GNN-Zuschauer den Streit um die Ölreserven}
 {11108}{}{ für ein Ablenkungsmanöver des Präsidenten von seinen}
 {11109}{}{ erst kürzlich bekanntgewordenen zahlreichen}
@@ -459,18 +459,18 @@
 {11112}{}{ verschiedene wasserdichte Türen in der gesamten}
 {11113}{}{ mit der Art und Weise zufrieden sind, in der der}
 {11114}{}{ Präsident das Land regiert. Unglaubliche 60% glauben}
-{11115}{}{ sogar, daß er weiterhin Affären haben sollte, wenn}
+{11115}{}{ sogar, dass er weiterhin Affären haben sollte, wenn}
 {11116}{}{ dies zur guten Verwaltung des Landes beiträgt.}
 {11117}{}{**END-PAR**}
 {11118}{}{ Galaxy News Network}
 {11119}{}{ Abschrift der Übertragung vom 10. Oktober 2077}
 {11120}{}{ Notfall auszuschließen). Dadurch kommt es zu}
 {12000}{}{Willkommen!}
-{12001}{}{Welcome to the Hubology Holodisk! Within these electronic}
+{12001}{}{ Willkommen zur Hubologie-Holo-Disk! Auf diesen}
 {12002}{}{ elektronischen Seiten befindet sich eine}
 {12003}{}{ Kurzbeschreibung unserer Philosophie}
-{12004}{}{This holodisk isn't meant to represent the final word on}
-{12005}{}{ Diese Holodisk soll kein umfassendes Werk über die}
+{12004}{}{ einschließlich der früher verbotenen Lehren des Hub.}
+{12005}{}{ Diese Holo-Disk soll kein umfassendes Werk über die}
 {12006}{}{ Hubologie darstellen - sie ist einfach eine Einführung,}
 {12007}{}{ verschiedene wasserdichte Türen in der gesamten}
 {12008}{}{**END-PAR**}
@@ -485,7 +485,7 @@
 {12017}{}{ Autor und vielversprechendem Visionär namens Dick}
 {12018}{}{ Hubbell gegründet. Er sah das Versagen der Medizin}
 {12019}{}{ zu dieser Zeit, das Versagen der Religion und das}
-{12020}{}{ Versagen der Regierung. Er erkannte, daß die Welt}
+{12020}{}{ Versagen der Regierung. Er erkannte, dass die Welt}
 {12021}{}{ etwas Neues brauchte...die Welt brauchte die Hubologie.}
 {12022}{}{ Inspiriert durch die Musik seiner Zeit und seine}
 {12023}{}{ persönlichen Erfahrungen mit außerirdischen Wesen}
@@ -526,33 +526,33 @@
 {12058}{}{ Hierdurch kam eine leichte Gegenstimmung gegen unsere}
 {12059}{}{ Religion auf. Der Mann auf der Straße zweifelte}
 {12060}{}{ plötzlich an der Hubologie, weil die Lehre der Medien}
-{12061}{}{ ihre Wirklichkeit völlig verzerrt hatte, und wir mußten}
+{12061}{}{ ihre Wirklichkeit völlig verzerrt hatte, und wir mussten}
 {12062}{}{ einen langen Kampf gegen jene führen, die uns als}
 {12063}{}{ Verrückte bezeichneten. Zu dieser Zeit verließ uns}
 {12064}{}{ der große Hub leider für immer.}
 {12065}{}{**END-PAR**}
-{12066}{}{ Sicher in dem Wissen, daß der Hub eine Einheit mit}
+{12066}{}{ Sicher in dem Wissen, dass der Hub eine Einheit mit}
 {12067}{}{ dem großen Sternenvater erreicht hatte, wodurch das}
 {12068}{}{ Rad des Kosmos in unsere Richtung gedreht wurde und}
-{12069}{}{ wir eine andere Bewußtseinsebene erreichen konnten,}
-{12070}{}{ vertrauten wir darauf, daß unser Weg der wahre Weg}
+{12069}{}{ wir eine andere Bewusstseinsebene erreichen konnten,}
+{12070}{}{ vertrauten wir darauf, dass unser Weg der wahre Weg}
 {12071}{}{ verschiedene wasserdichte Türen in der gesamten}
 {12072}{}{ von denen die Mehrzahl einfach nur glauben wollte,}
-{12073}{}{ daß es irgendwo einen besseren Ort als diese Welt}
+{12073}{}{ dass es irgendwo einen besseren Ort als diese Welt}
 {12074}{}{ gibt. Wir liefern den Beweis für Leben auf anderen}
 {12075}{}{ Planeten und bieten eine Philosophie, die uns das}
 {12076}{}{ Verständnis des Universums erleichtert. Seit vielen}
 {12077}{}{ Jahren kommen die Menschen jetzt schon zu uns, weil}
 {12078}{}{ sie von der Richtigkeit unserer Gedanken überzeugt}
-{12079}{}{ sind. Die Tatsache, daß wir die Große Flut unbeschadet}
-{12080}{}{ überstanden haben, lehrt uns, daß sich das große Rad}
+{12079}{}{ sind. Die Tatsache, dass wir die Große Flut unbeschadet}
+{12080}{}{ überstanden haben, lehrt uns, dass sich das große Rad}
 {12081}{}{ auf unsere Lehre zudreht!}
 {12082}{}{ verschiedene wasserdichte Türen in der gesamten}
 {12083}{}{ PHILOSOPHIE}
 {12084}{}{ Die Hubologie enthält eine einfache Philosophie, die}
 {12085}{}{ sich aus den fortschrittlichsten philosophischen und}
 {12086}{}{ religiösen Gedanken der Erde aus der Zeit vor der}
-{12087}{}{ Großen Flut zusammensetzt - wir glauben, daß das}
+{12087}{}{ Großen Flut zusammensetzt - wir glauben, dass das}
 {12088}{}{ Leben, das Universum und der ganze Rest am besten}
 {12089}{}{ durch ein sich drehendes Rad symbolisiert werden.}
 {12090}{}{ Am äußeren Rand des Rads befinden sich diejenigen,}
@@ -590,7 +590,7 @@
 {12122}{}{ Wir sehen uns selbst als Religion, verbunden mit dem}
 {12123}{}{ Besten an wissenschaftlicher Methodik - wir nennen}
 {12124}{}{ es wissenschaftliche Spiritualität ...und wir hoffen,}
-{12125}{}{ daß auch du unsere Lehre bald so verstehst!}
+{12125}{}{ dass auch du unsere Lehre bald so verstehst!}
 {12126}{}{**END-PAR**}
 {12127}{}{ Dies ist unsere Entstehungsgeschichte:}
 {12128}{}{ Vor Jahrmillionen lebten alle in Frieden und Harmonie}
@@ -606,7 +606,7 @@
 {12138}{}{ Das große Rad war kurz davor, sich von der Achse des}
 {12139}{}{ Daseins zu lösen, seine Speichen waren in dem von}
 {12140}{}{ Thrakazog heraufbeschworenen Tumult zerbrochen.}
-{12141}{}{ Es mußte neues Leben entstehen.}
+{12141}{}{ Es musste neues Leben entstehen.}
 {12142}{}{**END-PAR**}
 {12143}{}{ verschiedene wasserdichte Türen in der gesamten}
 {12144}{}{ Terra und anderen Planeten im ganzen Universum.}
@@ -617,9 +617,9 @@
 {12149}{}{ verschiedene wasserdichte Türen in der gesamten}
 {12150}{}{ wie wir selbst nützliche Speichen werden können.)}
 {12151}{}{ Dieses neue Leben wurde durch Seelenpartikel der}
-{12152}{}{ Toten verunreinigt. Es kam dadurch zu Haß und}
-{12153}{}{ Mißverständnissen sowie Kriegen auf Terra. Eines}
-{12154}{}{ Tages erkannte ein Visionär, daß der einzige Weg}
+{12152}{}{ Toten verunreinigt. Es kam dadurch zu Hass und}
+{12153}{}{ Missverständnissen sowie Kriegen auf Terra. Eines}
+{12154}{}{ Tages erkannte ein Visionär, dass der einzige Weg}
 {12155}{}{ hin zu Frieden, gegenseitigem Verständnis und}
 {12156}{}{ Erleuchtung darin bestand, diese Seelenpartikel}
 {12157}{}{ verschiedene wasserdichte Türen in der gesamten}
@@ -634,7 +634,7 @@
 {12166}{}{ eine Umwandlung in positive geistige Energie erreicht}
 {12167}{}{ werden. Wenn du einen ausreichend starken Grad an}
 {12168}{}{ Zeta-Energie erzielt hast, kannst du zum Quetzel}
-{12169}{}{ reisen oder abwarten und hoffen, daß sich die}
+{12169}{}{ reisen oder abwarten und hoffen, dass sich die}
 {12170}{}{ verschiedene wasserdichte Türen in der gesamten}
 {12171}{}{**END-PAR**}
 {12172}{}{ Ausrichtung : Wenn ein Neurodyn unrein ist und die}
@@ -647,7 +647,7 @@
 {12179}{}{**END-PAR**}
 {12180}{}{ Erleuchtung: Erleuchtung ist der nach AHS-9}
 {12181}{}{ erreichte Zustand, in dem der Suchende so viel}
-{12182}{}{ Wissen angesammelt hat, daß er ein integraler}
+{12182}{}{ Wissen angesammelt hat, dass er ein integraler}
 {12183}{}{ verschiedene wasserdichte Türen in der gesamten}
 {12184}{}{ das irdische Leben hinter sich. Einige Erleuchtete}
 {12185}{}{ bleiben auf Terra, um uns Übrige in einen Zustand}
@@ -670,10 +670,10 @@
 {12202}{}{**END-PAR**}
 {12203}{}{ Repressive: Repressive sind diejenigen, die}
 {12204}{}{ so voller negativer Energie und verunreinigter}
-{12205}{}{ Seelenpartikel sind, daß sie allein durch ihre}
+{12205}{}{ Seelenpartikel sind, dass sie allein durch ihre}
 {12206}{}{ Anwesenheit die Erleuchtung Suchenden mit sich}
 {12207}{}{ nach unten ziehen. Daher sind sie zu meiden.}
-{12208}{}{ Viele von ihnen sind so verunreinigt, daß sie}
+{12208}{}{ Viele von ihnen sind so verunreinigt, dass sie}
 {12209}{}{ verschiedene wasserdichte Türen in der gesamten}
 {12210}{}{ wertschätzen können. Sie tun daher ihr Bestes,}
 {12211}{}{ um das große Rad von seinem Kurs abzubringen.}
@@ -710,7 +710,7 @@
 {13023}{}{ Bei Split Enz für die gute Musik, James Cameron für}
 {13024}{}{ "True Lies", Joe Viskocil für seine unglaublichen}
 {13025}{}{ Explosionen, Chong's am Triangle Square für das Essen,}
-{13026}{}{ Carlos Kotkin dafür, daß er's endlich gewagt hat (sein}
+{13026}{}{ Carlos Kotkin dafür, dass er's endlich gewagt hat (sein}
 {13027}{}{ erster Film kann jetzt jeden Tag herauskommen),}
 {13028}{}{ Jon Land für die unterhaltsam unwahrscheinlichen }
 {13029}{}{ verschiedene wasserdichte Türen in der gesamten}
@@ -719,15 +719,15 @@
 {13032}{}{ Rob Hertenstein möchte sich bei folgenden Leuten}
 {13033}{}{ bedanken: Bei Becky Warner (die immer noch versucht,}
 {13034}{}{ mich von allem Ärger fernzuhalten), bei Billie Ryder}
-{13035}{}{ (dafür, daß sie während des ganzen Projekts meine}
+{13035}{}{ (dafür, dass sie während des ganzen Projekts meine}
 {13036}{}{ verschiedene wasserdichte Türen in der gesamten}
 {13037}{}{ ungefähr zur selben Zeit herauskommen soll wie dieses}
-{13038}{}{ Spiel), und Nicole Roman (dafür, daß sie da war).}
+{13038}{}{ Spiel), und Nicole Roman (dafür, dass sie da war).}
 {13039}{}{**END-PAR**}
 {13040}{}{ Eric Pribish möchte sich bei folgenden Leuten  bedanken:}
-{13041}{}{ Bei Tommy Hood, Jr., Joe Isip und Julio Mata dafür, daß}
+{13041}{}{ Bei Tommy Hood, Jr., Joe Isip und Julio Mata dafür, dass}
 {13042}{}{ sie mich nicht enteignet haben, als ich bei D&D kürzer}
-{13043}{}{ treten mußte. Bei meinen alten Freunden Brad und Dave}
+{13043}{}{ treten musste. Bei meinen alten Freunden Brad und Dave}
 {13044}{}{ Carnes, weil sie (all die Jahre) nie den Kontakt haben}
 {13045}{}{ abreißen lassen. Zu guter Letzt auch Dank an meine}
 {13046}{}{ verschiedene wasserdichte Türen in der gesamten}
@@ -768,7 +768,7 @@
 {14026}{}{ BEVÖLKERUNG: Es sind keine genauen}
 {14027}{}{ Einwohnerzahlen verfügbar, jedoch leben in}
 {14028}{}{ und der hohen Kontaminierungsgefahr wird}
-{14029}{}{ vereinnahmen, so daß Bürger von Vault City bei}
+{14029}{}{ vereinnahmen, so dass Bürger von Vault City bei}
 {14030}{}{ tausend..."Leute."}
 {14031}{}{ verschiedene wasserdichte Türen in der gesamten}
 {14032}{}{ MUTATIONSRATE: Unbekannt, vermutlich niedrig.}
@@ -777,8 +777,8 @@
 {14035}{}{ Tauscht mit Vault City Golderz gegen}
 {14036}{}{ medizinische Vorräte. Reno ist im Krieg kaum}
 {14037}{}{ zerstört worden (obwohl großer Schaden durch}
-{14038}{}{enforcement. Gambling, prostitution, and drug use}
-{14039}{}{ so daß viele Straßen und Gebäude noch stehen.}
+{14038}{}{ Plünderungen und Vandalismus entstanden ist),}
+{14039}{}{ so dass viele Straßen und Gebäude noch stehen.}
 {14040}{}{ Warnung! Es gibt weder eine verantwortliche}
 {14041}{}{}
 {14042}{}{ Glücksspiel, Prostitution und Drogenabhängigkeit }
@@ -787,7 +787,7 @@
 {14045}{}{ UNBEDINGT zu meiden!}
 {14046}{}{ }
 {14047}{}{ und der hohen Kontaminierungsgefahr wird}
-{14048}{}{ vereinnahmen, so daß Bürger von Vault City bei}
+{14048}{}{ vereinnahmen, so dass Bürger von Vault City bei}
 {14049}{}{ tausend..."Leute."}
 {14050}{}{ verschiedene wasserdichte Türen in der gesamten}
 {14051}{}{ Zustand ähnlich der Anarchie. Berichten zufolge}
@@ -803,7 +803,7 @@
 {14061}{}{ Produkten gegen Medizintechnologie aus}
 {14062}{}{ Vault City. Die NCR betreibt in letzter Zeit den}
 {14063}{}{ und der hohen Kontaminierungsgefahr wird}
-{14064}{}{ vereinnahmen, so daß Bürger von Vault City bei}
+{14064}{}{ vereinnahmen, so dass Bürger von Vault City bei}
 {14065}{}{ Reisen in die NCR äußerste Vorsicht walten lassen}
 {14066}{}{ verschiedene wasserdichte Türen in der gesamten}
 {14067}{}{ }
@@ -819,7 +819,7 @@
 {14077}{}{ Vault City. Dort wird Uranerz gefördert, das}
 {14078}{}{ mit Vault City gegen medizinische Vorräte,}
 {14079}{}{ zumeist Rad-X und RadAway getauscht wird. Es}
-{14080}{}{ ist zu vermuten, daß die Menschen in der Stadt}
+{14080}{}{ ist zu vermuten, dass die Menschen in der Stadt}
 {14081}{}{ zum Zusammenleben mit Mutanten und Ghuls}
 {14082}{}{ gezwungen werden. Aufgrund der Einwohnersituation}
 {14083}{}{ und der hohen Kontaminierungsgefahr wird}
@@ -868,7 +868,7 @@
 {16009}{}{**END-PAR**}
 {16010}{}{ WIE GROSS IST DIE NCR?}
 {16011}{}{ Die NCR wurde vor achtzig Jahren gegründet und}
-{16012}{}{ umfaßt heute die Staaten Shady, Los Angeles,}
+{16012}{}{ umfasst heute die Staaten Shady, Los Angeles,}
 {16013}{}{ Maxson, Hub und Dayglow. Ca. 700.000 Bürger sind}
 {16014}{}{ verschiedene wasserdichte Türen in der gesamten}
 {16015}{}{**END-PAR**}
@@ -889,7 +889,7 @@
 {16030}{}{ "Ein sicheres Volk ist ein starkes Volk."}
 {16031}{}{**END-PAR**}
 {16032}{}{ WER HAT HIER DAS SAGEN?}
-{16033}{}{ Die NCR unterscheidet sich vielleicht ein bißchen}
+{16033}{}{ Die NCR unterscheidet sich vielleicht ein bisschen}
 {16034}{}{ von dem, was du gewohnt bist. Es gibt hier keine}
 {16035}{}{ Häuptlinge oder Mafiabosse, Könige oder Diktatoren.}
 {16036}{}{ Unsere Anführer werden vom Volk gewählt! Genau —}
@@ -910,7 +910,7 @@
 {16051}{}{ Nach dem Bürgertraining und der Bearbeitung}
 {16052}{}{ deines Antrags wirst du über deinen neuen Status}
 {16053}{}{ verschiedene wasserdichte Türen in der gesamten}
-{16054}{}{BUT WHAT IF MY ENTIRE TOWN WANTS TO JOIN?}
+{16054}{}{ Dann ist es nur noch ein kleiner Schritt bis zur}
 {16055}{}{ vollwertigen Bürgerschaft!}
 {16056}{}{**END-PAR**}
 {16057}{}{ Natürlich kann die NCR nicht alle aufnehmen -}
@@ -939,7 +939,7 @@
 {17008}{}{ zwischen der NCR und New Reno empfindlich}
 {17009}{}{ behindern, wenn nicht sogar zunichte machen.}
 {17010}{}{**END-PAR**}
-{17011}{}{ Ich kann Ihnen nur versichern, daß, wenn ich wie}
+{17011}{}{ Ich kann Ihnen nur versichern, dass, wenn ich wie}
 {17012}{}{ erwartet freie Hand erhalte, es keine weiteren}
 {17013}{}{ Störungen oder Provokationen durch die NCR}
 {17014}{}{ verschiedene wasserdichte Türen in der gesamten}
@@ -968,11 +968,11 @@
 {18019}{}{ Dr. Charles Curling, die Stunde der Errettung }
 {18020}{}{ verschiedene wasserdichte Türen in der gesamten}
 {18021}{}{**END-PAR**}
-{18022}{}{ Mutig, zielbewußt, blah, blah, blah. Mein Gott,}
+{18022}{}{ Mutig, zielbewusst, blah, blah, blah. Mein Gott,}
 {18023}{}{ hört sich denn wirklich jemand dieses Zeug an?}
 {18024}{}{**END-PAR**}
 {18025}{}{ verschiedene wasserdichte Türen in der gesamten}
-{18026}{}{ 1) Noch ein bißchen mehr in diesem Stil zu}
+{18026}{}{ 1) Noch ein bisschen mehr in diesem Stil zu}
 {18027}{}{ verschiedene wasserdichte Türen in der gesamten}
 {18028}{}{ 2) Allen vorsülzen, wie mutig, zielstrebig,}
 {18029}{}{    etc. sie sind.}
@@ -1014,21 +1014,21 @@
 {20003}{}{ Thema: Projekt fast vollständig abgeschlossen.}
 {20004}{}{ verschiedene wasserdichte Türen in der gesamten}
 {20005}{}{ Es ist mir eine Ehre und ein besonderes Privileg,}
-{20006}{}{ den baldigen Abschluß des Projekts anzukündigen.}
+{20006}{}{ den baldigen Abschluss des Projekts anzukündigen.}
 {20007}{}{ Nach jahrelanger Arbeit haben wir die Isolierung}
 {20008}{}{ der am stärksten toxischen Bestandteile des}
 {20009}{}{ F.E.V.- Virus erreicht. Einige der erst kürzlich}
 {20010}{}{ decodierten Informationen aus dem verlassenen}
 {20011}{}{ verschiedene wasserdichte Türen in der gesamten}
 {20012}{}{ Fortschritte bei unseren Forschungen wesentlich}
-{20013}{}{designed to be used as an agent for the creation of}
-{20014}{}{super-soldiers. Initially, it appears, the F.E.V. was }
-{20015}{}{ Wir haben entdeckt, daß das F.E.V.-Virus}
+{20013}{}{ begünstigt.}
+{20014}{}{**END-PAR**}
+{20015}{}{ Wir haben entdeckt, dass das F.E.V.-Virus}
 {20016}{}{ ursprünglich nicht für die Entwicklung von Super-}
 {20017}{}{ verschiedene wasserdichte Türen in der gesamten}
 {20018}{}{ offensichtlich als virulentes Toxin entwickelt.}
 {20019}{}{ Erst später wurde das F.E.V.- Virus dann}
-{20020}{}{ dahingehend manipuliert, daß Supersoldaten}
+{20020}{}{ dahingehend manipuliert, dass Supersoldaten}
 {20021}{}{ entstehen konnten.}
 {20022}{}{**END-PAR**}
 {20023}{}{ verschiedene wasserdichte Türen in der gesamten}
@@ -1112,7 +1112,7 @@
 {21049}{}{ verschiedene wasserdichte Türen in der gesamten}
 {21050}{}{ Steuerstäbe befinden. Hier zirkuliert es durch den}
 {21051}{}{ Kern und wird von der stattfindenden Kernreaktion}
-{21052}{}{ erhitzt. Das Seewasser erreicht den Siedepunkt;}
+{21052}{}{ erhitzt. Das Seewasser erreicht den Siedepunkt.}
 {21053}{}{ mit dem entstehenden Dampf wird der}
 {21054}{}{ Turbinengenerator betrieben, der all unsere}
 {21055}{}{ Elektrizität generiert. Daraufhin kondensiert der}
@@ -1125,7 +1125,7 @@
 {21062}{}{ toxische Stoffe werden durch eine Leitung für}
 {21063}{}{ Abfallprodukte geleitet, die 1,5 km von hier endet.}
 {21064}{}{ Berichte unserer Untersuchungstrupps haben}
-{21065}{}{ gezeigt, daß unsere Abwässer entlang der Küste}
+{21065}{}{ gezeigt, dass unsere Abwässer entlang der Küste}
 {21066}{}{ Südkaliforniens und Mexikos zu irreversiblen}
 {21067}{}{ ökologischen Schäden führen. Viele Strände }
 {21068}{}{ sind mit toxischem Abfall und stark verstrahlten}

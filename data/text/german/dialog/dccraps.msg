@@ -1,1 +1,1 @@
-{100}{}{Tut mir leid, der Boﬂ sagt, du darfst hier nicht mehr spielen.}
+{100}{}{Tut mir leid, der Boss sagt, du darfst hier nicht mehr spielen.}

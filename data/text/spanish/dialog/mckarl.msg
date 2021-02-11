@@ -24,7 +24,7 @@
 {173}{}{Lo siento, no tengo nada para ti. Adiós.}
 {174}{}{¿Sabes dónde puedo encontrar un GECK?}
 {175}{}{Antes has mencionado algo sobre un huerto. Cuéntame más sobre ello.}
-{178}{}{Me voy, yo.}
+{178}{}{Yo ir.}
 {179}{}{¡Eh, tacaño! (hic) Vamos, sé que tienes dinero... (hic) Tan sólo un poco de calderilla...(hic) algo, ¡lo que sea! Un poco de compasión.}
 {180}{}{Toma. Aquí tienes 25 dólares.}
 {184}{}{Toma. Aquí tienes 1 dólar.}

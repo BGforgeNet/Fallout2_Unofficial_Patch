@@ -19,19 +19,19 @@
  und ich kann euch wieder zusammenflicken, wenn ihr wollt.}
 {114}{}{Hallo; Ich bin Doc Johnson, und meiner professionellen Meinung nach siehst du nicht so
  ganz gut aus. Soll ich dich wieder hinbiegen?}
-{115}{}{Hallo, ich bin Doc Johnson. Ich muß mir deinen Freund etwas genauer anschauen, wenn ich
+{115}{}{Hallo, ich bin Doc Johnson. Ich muss mir deinen Freund etwas genauer anschauen, wenn ich
  das wieder hinbekommen soll. Sieht gar nicht gut aus.}
 {116}{}{Was ihr Kerle euch auch eingefangen habt, ich kann das sicher wieder in Ordnung bringen.
  Ich bin Doc Johnson.}
-{117}{}{Ziemlich zerschunden, was? Na, laß Doc Johnson mal schauen. Ganz ruhig jetzt. Das ist
+{117}{}{Ziemlich zerschunden, was? Na, lass Doc Johnson mal schauen. Ganz ruhig jetzt. Das ist
  mein Beruf.}
-{118}{}{Was habt ihr denn angestellt? Laßt den alten Doc Johnson mal nachschauen.}
+{118}{}{Was habt ihr denn angestellt? Lasst den alten Doc Johnson mal nachschauen.}
 {119}{}{Danke, Doc. Wieviel kostet uns das?}
 {120}{}{Ich wollte eigentlich nur ein paar Vorräte kaufen.}
 {121}{}{Im Moment brauche ich Heilung nicht so dringend wie ein paar Antworten auf meine Fragen.}
 {122}{}{Nett, dich zu treffen, aber eine Heilung ist jetzt nicht so dringend. Trotzdem danke,
  Doc. Wiedersehen.}
-{123}{}{Das kostet $50 und ich flicke dich so zusammen, daß du so gut wie neu aussiehst.}
+{123}{}{Das kostet $50 und ich flicke dich so zusammen, dass du so gut wie neu aussiehst.}
 {124}{}{Kostet dich $50 um deinen Freund wieder zusammengeflickt zu bekommen. So gut wie neu,
  das garantiere ich.}
 {125}{}{Hier ist dein Geld, Doc.}
@@ -43,9 +43,9 @@
 {129}{}{Hier ist dein Geld, Doc. Dann mal los.}
 {130}{}{Das können wir uns, glaub ich, im Moment nicht leisten. Tut mir leid, Doc, vielleicht
  ein anderes Mal.}
-{131}{}{$100, huh? Maybe we'll have that done later. Goodbye, Doc.}
+{131}{}{$100, was? Vielleicht lassen wir das später mal machen. Wiedersehn, Doc.}
 {132}{}{Sieht so aus, als ob es dir nicht allzu gut geht. Ich kann dein Leiden für $100 heilen.
- Willst du, daß ich es mal probiere?}
+ Willst du, dass ich es mal probiere?}
 {133}{}{Deinem Freund geht es aber gar nicht gut. Ich glaube, ich kann sein Leiden für $100
  lindern. Soll ich es mal probieren?}
 {134}{}{Ich hoffe, du probierst es nicht nur, Doc. Hier ist dein Geld.}
@@ -68,22 +68,22 @@
  Welt ist nichts umsonst - das schließt auch mich nicht aus.}
 {146}{}{Danke, Doc. Ich weiß das wirklich zu schätzen. Das nächste Mal bringe ich Bares mit.
  Versprochen.}
-{147}{}{Ich hab schon ein schlechtes Gewissen, daß ich mich so aufdränge. Ich komme besser
+{147}{}{Ich hab schon ein schlechtes Gewissen, dass ich mich so aufdränge. Ich komme besser
  zurück, wenn ich Geld habe, um dich zu bezahlen.}
-{148}{}{OK, tut mir leid. Aber bevor ich gehe, laß mich etwas fragen.}
+{148}{}{OK, tut mir leid. Aber bevor ich gehe, lass mich etwas fragen.}
 {149}{}{OK, OK. Ich bin ja schon unterwegs. Wiedersehn, Doc.}
 {150}{}{Tut mir leid. Kein Geld, keine Behandlung. Ich kann nicht Medikamente an jeden austeilen,
  der danach fragt. Dann wäre ich innerhalb einer Woche pleite. Komm wieder, wenn du das Geld
  für meine Bezahlung hast.}
 {151}{}{Ich hab kein Bargeld, aber dafür hab ich Zeug zum Tauschen. Kann ich nicht irgend etwas
  gegen deine Behandlung eintauschen?}
-{152}{}{Bevor ich gehe, laß mich dich noch etwas fragen.}
+{152}{}{Bevor ich gehe, lass mich dich noch etwas fragen.}
 {153}{}{OK, ich werde versuchen, etwas Geld zusammenzubekommen. Wiedersehn.}
 {154}{}{Was möchtest du denn wissen?}
 {155}{}{Was denn jetzt noch?}
 {156}{}{Ich glaub, ich habe eine Lösung für das Jet-Problem, das du hier hast.}
-{157}{}{Ich habe gehört, daß Redding in der letzten Zeit Probleme mit seinen Exporten hatte.}
-{158}{}{Ich könnte wirklich ein bißchen Heilung gebrauchen.}
+{157}{}{Ich habe gehört, dass Redding in der letzten Zeit Probleme mit seinen Exporten hatte.}
+{158}{}{Ich könnte wirklich ein bisschen Heilung gebrauchen.}
 {159}{}{Ich frag mich nur, was in der letzten Zeit so in der Stadt los war.}
 {160}{}{Warum nennt man dich den "Schmerzlosen Doc Johnson"?}
 {161}{}{Hast du Medikamente zum Tauschen?}
@@ -92,7 +92,7 @@
  medizinischen Dienstleistungen. Ich will einfach nur in ehrlichen Golddollars bezahlt werden,
  vielen Dank. Komm zurück, wenn du welche hast.}
 {164}{}{Na gut. Ich verstehe schon. Wiedersehn.}
-{165}{}{Ich könnte dich vielleicht mit ein paar Medikamenten versorgen, laß mal sehen, was
+{165}{}{Ich könnte dich vielleicht mit ein paar Medikamenten versorgen, lass mal sehen, was
  du hast.}
 {166}{}{OK, Doc.}
 {167}{}{Ich meinte doch nicht gleich jetzt. Ich wollte nur wissen, ob du überhaupt etwas hast,
@@ -101,7 +101,7 @@
 {169}{}{Hast du alles bekommen, was du brauchst?}
 {170}{}{Na, und? Hat's das gebracht?}
 {171}{}{Tja, eigentlich würde ich gern noch einen Blick auf deinen Kram werfen.}
-{172}{}{Danke, Doc. Laß mich dich noch etwas fragen.}
+{172}{}{Danke, Doc. Lass mich dich noch etwas fragen.}
 {173}{}{Allerdings, Doc. Danke. Auf Wiedersehen.}
 {174}{}{Da hast du. Alles besser. Hat das geholfen?}
 {175}{}{Eigentlich wollte ich dir ein paar Fragen stellen.}
@@ -109,22 +109,22 @@
 {177}{}{Das würde ich nicht zu lange vernachlässigen. Manche Wunden fangen an zu eitern, das ist
  ziemlich eklig. Und dann hätten wir da noch Wundbrand. Klar, in letzter Zeit habe ich meine
  Messer auch nich' mehr so oft geschwungen, wie ich's gern hätte. Roste langsam etwas ein. Ich
- sag dir was, laß es doch einfach so lange siffen, wie du magst. Vielleicht kann ich ja später
+ sag dir was, lass es doch einfach so lange siffen, wie du magst. Vielleicht kann ich ja später
  wieder in Übung kommen.}
-{178}{}{Ach so. Während ich eitere, laß mich dich etwas fragen.}
+{178}{}{Ach so. Während ich eitere, lass mich dich etwas fragen.}
 {179}{}{Äh, naja, ich werde drüber nachdenken. Wiedersehn, Doc.}
 {180}{}{In letzter Zeit scheinen immer mehr Bergarbeiter immer länger auf Jet zu fliegen als zu
  arbeiten. Wenn das so weitergeht, kommt Reddings Goldproduktion noch zum Stillstand. New Reno
  scheint das allerdings nichts auszumachen.}
-{181}{}{Alle Bergarbeiter hier arbeiten nur gerade so viel, daß sie sich ihren nächsten Schuß
+{181}{}{Alle Bergarbeiter hier arbeiten nur gerade so viel, dass sie sich ihren nächsten Schuss
  Jet leisten können. Die Produktion ist ganz schön zurückgegangen. Wenn das so weitergeht,
  gehört Redding bald New Reno.}
 {182}{}{Alles, was die Bergarbeiter in letzter Zeit hier tun, ist Jet nehmen. Es gräbt kaum
- noch jemand nach Gold. Ich mach mir Sorgen, daß New Reno die Stadt bald in der Tasche hat. Ich
- wünschte wirklich, daß es einen Weg gäbe, diesem Jet bald ein Ende zu bereiten.}
+ noch jemand nach Gold. Ich mach mir Sorgen, dass New Reno die Stadt bald in der Tasche hat. Ich
+ wünschte wirklich, dass es einen Weg gäbe, diesem Jet bald ein Ende zu bereiten.}
 {183}{}{Was hat denn New Reno damit zu tun?}
 {184}{}{Woher kommt denn das Jet?}
-{185}{}{Ach so. Laß mich dich noch was fragen.}
+{185}{}{Ach so. Lass mich dich noch was fragen.}
 {186}{}{Danke für die Information. Man sieht sich, Doc. Wiedersehn.}
 {187}{}{Hallo. Ich bin der Schmerzlose Doc Johnson. Was kann ich für dich tun?}
 {188}{}{Was kann der alte Doc Johnson denn diesmal für dich tun?}
@@ -136,63 +136,65 @@
 {193}{}{Dank dir kriege ich dieses Jet-Problem in den Griff. Dieses Gegenmittel, das ich in
  die Jet-Lieferung gemischt habe, setzt diese Jet-Piloten wirklich alle gründlich auf den Boden
  zurück.}
-{194}{}{Ich bin froh, daß es funktioniert. Laß mich dich noch etwas fragen.}
+{194}{}{Ich bin froh, dass es funktioniert. Lass mich dich noch etwas fragen.}
 {195}{}{Schöpfen denn die Leute keinen Verdacht, wenn ihnen von dem Jet schlecht wird, das du
  ihnen verkauft hast?}
-{196}{}{Bin froh, daß es funktioniert, Doc. Ich muß dann mal los. Wiedersehn.}
+{196}{}{Bin froh, dass es funktioniert, Doc. Ich muss dann mal los. Wiedersehn.}
 {197}{}{Mit Hilfe des Gegenmittels, das du mir gebracht hast, gehören die Probleme mit Jet in
  Redding jetzt der Vergangenheit an. Sieht so aus, als ob New Reno sich einen anderen Weg
- ausdenken muß, wie sie uns einkassieren können.}
-{198}{}{Ich bin froh, daß ich helfen konnte. Laß mich dich noch etwas fragen.}
+ ausdenken muss, wie sie uns einkassieren können.}
+{198}{}{Ich bin froh, dass ich helfen konnte. Lass mich dich noch etwas fragen.}
 {199}{}{Haben denn die Leute keinen Verdacht geschöpft, als ihnen von dem Jet schlecht wurde,
  das du ihnen verkauft hast?}
 {200}{}{Was hat denn New Reno damit zu tun gehabt?}
-{201}{}{Bin froh, daß es funktioniert hat, Doc. Dann Tschüß.}
+{201}{}{Bin froh, dass es funktioniert hat, Doc. Dann Tschüss.}
 {202}{}{Eine Lösung? Was meinst du?}
-{203}{}{Ich meine, daß ich ein Mittel gegen Jet habe. Es ist von Dr. Troy aus Vault City und
- es sollte eigentlich das Jet-Problem lösen, daß ihr hier habt.}
-{204}{}{Och, nichts. Laß mich dich noch etwas fragen, Doc.}
+{203}{}{Ich meine, dass ich ein Mittel gegen Jet habe. Es ist von Dr. Troy aus Vault City und
+ es sollte eigentlich das Jet-Problem lösen, dass ihr hier habt.}
+{204}{}{Och, nichts. Lass mich dich noch etwas fragen, Doc.}
 {205}{}{Allerdings, zuviel Jet, zu wenig Arbeit... aber wo hast du das gehört?}
 {206}{}{McClure aus Vault City hat's mir erzählt.}
 {207}{}{Ich hab nur ein Gerücht gehört, das ist alles.}
-{208}{}{Ist nicht so wichtig. Laß mich dich noch etwas fragen.}
-{209}{}{New Reno sells Jet pretty cheap. Jet's real addictive, like nothing you've ever seen before.
- They figure that if they get enough people in an area using it, those people will do anything to get
- more. That gives them de facto control of an area - like Redding.}
-{210}{}{Ach so. Laß mich dich noch etwas fragen, Doc.}
-{211}{}{Wenn du also nicht möchtest, daß New Reno Redding kontrolliert, wer soll dann deiner
+{208}{}{Ist nicht so wichtig. Lass mich dich noch etwas fragen.}
+{209}{}{New Reno verkauft Jet ziemlich billig. Jet macht richtig süchtig, schlimmer als alles,
+ was du je gesehen hast. Die denken sich, wenn erst mal genug Leute in einer Gegend Jet nehmen,
+ werden sie alles tun, um mehr zu bekommen. Das bedeutet, dass sie de facto die Kontrolle über so
+ eine Gegend haben - wie in Redding.}
+{210}{}{Ach so. Lass mich dich noch etwas fragen, Doc.}
+{211}{}{Wenn du also nicht möchtest, dass New Reno Redding kontrolliert, wer soll dann deiner
  Meinung nach das Ruder hier übernehmen?}
 {212}{}{Danke für die Erklärung, Doc. Wiedersehen.}
 {213}{}{Das gesamte Jet hier in der Stadt kommt von der Mordino-Familie in New Reno. Es kommt
- in der Regel in großen Paketen an und ich fülle es dann in Ampullen für die Leute... so daß ich
+ in der Regel in großen Paketen an und ich fülle es dann in Ampullen für die Leute... so dass ich
  dann alles hier verkaufe.}
-{214}{}{Daraus mußt du ja einen ganz schönen Gewinn schlagen.}
-{215}{}{Dann mußt du dich mit den Leuten in New Reno ja wirklich gut verstehen.}
-{216}{}{Ach so. Laß mich dich noch was fragen.}
+{214}{}{Daraus musst du ja einen ganz schönen Gewinn schlagen.}
+{215}{}{Dann musst du dich mit den Leuten in New Reno ja wirklich gut verstehen.}
+{216}{}{Ach so. Lass mich dich noch was fragen.}
 {217}{}{Hast du dann auch etwas Jet für mich da?}
-{218}{}{Eigentlich nicht. Die sind es wahrscheinlich so sehr gewohnt, daß ich das Jet für die
- Süchtigen aufbereite, daß sie daran keine unnötigen Gedanken verschwenden. Ich mach das schon
+{218}{}{Eigentlich nicht. Die sind es wahrscheinlich so sehr gewohnt, dass ich das Jet für die
+ Süchtigen aufbereite, dass sie daran keine unnötigen Gedanken verschwenden. Ich mach das schon
  eine ganze Weile und ich bin schon lange der Arzt hier.}
-{219}{}{Ich bin froh, daß es dich nicht in Schwierigkeiten gebracht hat. Laß mich dich noch
+{219}{}{Ich bin froh, dass es dich nicht in Schwierigkeiten gebracht hat. Lass mich dich noch
  was fragen, Doc.}
-{220}{}{Gut, ich wette, die Sache könnte ziemlich häßlich werden, wenn sie jemals Verdacht
+{220}{}{Gut, ich wette, die Sache könnte ziemlich hässlich werden, wenn sie jemals Verdacht
  schöpfen. Na dann, Wiedersehn, Doc.}
-{221}{}{Well, everyone wants a part of the gold here in Redding, so we're going to be controlled
- by someone, eventually. I just want us to have the master that's going to do the best job for Redding.}
+{221}{}{Naja, jeder will einen Teil des Goldes hier in Redding, also werden wir über kurz oder
+ lang von irgend jemandem kontrolliert werden. Ich möchte nur, dass jemand über Redding
+ entscheidet, der das Beste für uns tut.}
 {222}{}{Und wer glaubst du, ist das?}
 {223}{}{So wie ich das sehe, hat Redding die beste Chance, wenn Vault City hier das Ruder
  übernimmt. Da komme ich her, ich habe also wahrscheinlich Vorurteile, aber ich glaube wirklich,
- daß Vault City den Bürgern von Redding besser helfen kann.}
+ dass Vault City den Bürgern von Redding besser helfen kann.}
 {224}{}{Und warum?}
 {225}{}{Weil sie in Vault City gerecht und human sind. So wären sie auch Redding gegenüber.
  Da bin ich mir sicher.}
 {226}{}{Vault City kümmert sich schon gut um seine Bürger, aber andere werden wie Dreck
  behandelt.}
 {227}{}{Ach so, Doc. Ja, das klingt logisch.}
-{228}{}{Sie werden schon bald merken, was die Vorteile sind. Ich bin sicher, daß sie die
+{228}{}{Sie werden schon bald merken, was die Vorteile sind. Ich bin sicher, dass sie die
  Verwaltung von Vault City mit offenen Armen begrüßen werden - äh, naja, letztendlich
  jedenfalls.}
-{229}{}{Ach so. Tja, laß mich dich über etwas anderes befragen als über Politik.}
+{229}{}{Ach so. Tja, lass mich dich über etwas anderes befragen als über Politik.}
 {230}{}{Hmm, ich weiß ja nicht so recht. Wiedersehn.}
 {231}{}{Das ist Unsinn. Vault City gewährt seinen Bürgern besondere Privilegien, aber nur, weil
  sie besser qualifiziert sind, diese Dinge zu genießen, als diese barbarischen Nicht-Bürger.
@@ -201,10 +203,11 @@
 {232}{}{Ich bin mir nicht so sicher, wie die Leute hier in Redding auf eine Vault City
  Herrschaft reagieren würden.}
 {233}{}{Ja, zweifellos. Wiedersehn, Doc.}
-{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
- Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
- the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
-{235}{}{Was für'n netter Kerl du doch bist, Doc. Das finde ich toll. Laß mich dich noch etwas
+{234}{}{Füllen und Verteilen der Jet-Ampullen ist ein Gefallen für die Leute von Redding. Ich
+ mache damit keine Geschäfte. Wenn ich es nicht täte, würde irgendso ein Quacksalber die Droge
+ mit verkeimter, rostiger Ausrüstung aufbereiten. Danach würde ich die Bevölkerung nie wieder
+ gesund kriegen.}
+{235}{}{Was für'n netter Kerl du doch bist, Doc. Das finde ich toll. Lass mich dich noch etwas
  fragen.}
 {236}{}{Wie *nobel* von dir, Doc.}
 {237}{}{Das ist interessant. Man sieht sich, Doc. Wiedersehn.}
@@ -212,17 +215,17 @@
  willst, ich ziehe den Ausdruck praktisch vor. Die Minenbesitzer zahlen mir ein Gehalt, damit
  ich die Bergarbeiter relativ gesund und arbeitsfähig halte. Wenn ich jemand anderen mit dem Jet
  arbeiten ließe, könnte ich nie den Job machen, für den ich bezahlt werde.}
-{239}{}{Ach so. Na gut, dann laß mich dich noch etwas fragen.}
-{240}{}{Hmm, danke, daß du mir das erzählt hast. Wiedersehn, Doc.}
+{239}{}{Ach so. Na gut, dann lass mich dich noch etwas fragen.}
+{240}{}{Hmm, danke, dass du mir das erzählt hast. Wiedersehn, Doc.}
 {241}{}{Dr. Troy? Den kenn ich. Ein toller und begabter Arzt. Wir haben zusammen gearbeitet,
  als ich noch in Vault City war. Erzähl mir von diesem Gegenmittel.}
 {242}{}{Du hast mal in Vault City gearbeitet?}
-{243}{}{Dr. Troy sagte, ich sollte dir das Gegenmittel bringen und daß du schon wüßtest, was du
+{243}{}{Dr. Troy sagte, ich sollte dir das Gegenmittel bringen und dass du schon wüsstest, was du
  damit zu tun hättest.}
 {244}{}{Ja, da habe ich meine Ausbildung zum Arzt erhalten. Ich bin Bürger von Vault City.
- Ich habe aber festgestellt, daß viele andere Orte in der Welt mein medizinisches Können nötiger
+ Ich habe aber festgestellt, dass viele andere Orte in der Welt mein medizinisches Können nötiger
  hatten als Vault City. So bin ich hier gelandet. Und jetzt zu diesem Gegenmittel...}
-{245}{}{Dr. Troy sagte, ich sollte dir das Gegenmittel bringen und daß du schon wüßtest, was du
+{245}{}{Dr. Troy sagte, ich sollte dir das Gegenmittel bringen und dass du schon wüsstest, was du
  damit zu tun hättest.}
 {246}{}{In der Tat. Also gib's mir schon.}
 {247}{}{Hier ist es, Doc.}
@@ -232,10 +235,10 @@
 {251}{}{Immer mit der Ruhe, Doc, solche Reden machen mich ganz schwach und zitterig. Ich könnte
  leicht etwas fallen lassen... wie zum Beispiel diese Flasche mit dem Gegenmittel.}
 {252}{}{OK, OK. Hey, ich hab doch nur Spaß gemacht. Hier ist es.}
-{253}{}{Dankeschön. Ich werde dafür sorgen, daß die Bergarbeiter mit ihrer nächsten Ladung Jet
+{253}{}{Dankeschön. Ich werde dafür sorgen, dass die Bergarbeiter mit ihrer nächsten Ladung Jet
  ein kleines *Extra* bekommen.}
 {254}{}{Werden die denn keinen Verdacht schöpfen, Doc?}
-{255}{}{Ich bin froh, daß ich helfen konnte. Laß mich dich noch was fragen, Doc.}
+{255}{}{Ich bin froh, dass ich helfen konnte. Lass mich dich noch was fragen, Doc.}
 {256}{}{Gut, ich mag es nämlich gar nicht, ständig überall diese Jet-Piloten rumfliegen
  zu sehen. Wiedersehen, Doc und alles Gute.}
 {257}{}{OK, du hast gewonnen. Ich geb dir $2000 dafür. Das ist alles, was ich habe.}
@@ -246,23 +249,23 @@
 {261}{}{Na gut, OK, dann nehme ich eben die $2000. Hier ist das Gegenmittel, Doc.}
 {262}{}{Wir werden sehen. Wiedersehn, Doc.}
 {263}{}{Ich kenne McClure. Er ist im Stadtrat von Vault City. Was hat er dir erzählt?}
-{264}{}{Daß die Produktion der Goldminen zurückgeht und der Goldpreis dafür nach oben schießt.}
+{264}{}{Dass die Produktion der Goldminen zurückgeht und der Goldpreis dafür nach oben schießt.}
 {265}{}{Ich weiß nicht so recht, ob ich dir das sagen soll.}
 {266}{}{Oh? Und was besagt dieses Gerücht?}
-{267}{}{Daß die Produktion der Goldminen zurückgeht und der Goldpreis dafür nach oben schießt.}
-{268}{}{Ach, nur den üblichen Mist. Hey, laß mich dich noch etwas fragen, Doc.}
+{267}{}{Dass die Produktion der Goldminen zurückgeht und der Goldpreis dafür nach oben schießt.}
+{268}{}{Ach, nur den üblichen Mist. Hey, lass mich dich noch etwas fragen, Doc.}
 {269}{}{Das ist wahr. Die Bergarbeiter nehmen nur noch Jet und arbeiten deshalb kaum. Das
- bedeutet, daß der Export im Keller ist und die Preise in den Wolken sind. Diese Situation kann
+ bedeutet, dass der Export im Keller ist und die Preise in den Wolken sind. Diese Situation kann
  nicht mehr lange anhalten.}
-{270}{}{Das klingt nicht gut. Hmm, laß mich dich noch etwas fragen.}
+{270}{}{Das klingt nicht gut. Hmm, lass mich dich noch etwas fragen.}
 {271}{}{Das klingt nicht gut, Doc. Wiedersehn.}
 {272}{}{Ich heiße so, weil meine Patienten in der Regel ohnmächtig werden, bevor sie zuviel
  schreien können. Ist nur so 'ne Art Witz.}
-{273}{}{Ach so. Naja, das ist, äh, beruhigend. Glaub ich. Laß mich dich noch etwas fragen.}
-{274}{}{Ich glaube, ich muß los. Gerade fällt mir da so'n wichtiger Termin ein, bei, äh,
+{273}{}{Ach so. Naja, das ist, äh, beruhigend. Glaub ich. Lass mich dich noch etwas fragen.}
+{274}{}{Ich glaube, ich muss los. Gerade fällt mir da so'n wichtiger Termin ein, bei, äh,
  irgend jemandem. Äh, Wiedersehn, Doc.}
 {275}{}{Du kannst es mir ruhig sagen. Ich bin Arzt.}
-{276}{}{Oh, ja. Na gut, OK. Er hat mir gesagt, daß die Goldproduktion hier in Redding sehr flau
+{276}{}{Oh, ja. Na gut, OK. Er hat mir gesagt, dass die Goldproduktion hier in Redding sehr flau
  ist und die Preise sehr hoch sind.}
 {277}{}{Darüber habe ich auch etwas gelesen. Das ist gar nicht so schwer, wenn man die Ausbildung
  hat. Und die Ausrüstung natürlich.}
@@ -282,9 +285,9 @@
  Abwehrverstärkung. Bevor du eine Abwehrverstärkung bekommen kannst, brauchst du aber erst mal
  die Grundrüstung.}
 {286}{}{Über welche Operation möchtest du etwas wissen?}
-{287}{}{Ich glaube, so etwas möchte ich nicht machen lassen. Laß mich dich etwas anderes fragen.}
+{287}{}{Ich glaube, so etwas möchte ich nicht machen lassen. Lass mich dich etwas anderes fragen.}
 {288}{}{Erzähl mir über die Implantate; ich glaube, ich will die Operation.}
-{289}{}{Ich weiß eigentlich schon genug. Ich muß erst mal darüber nachdenken. Wiedersehen.}
+{289}{}{Ich weiß eigentlich schon genug. Ich muss erst mal darüber nachdenken. Wiedersehen.}
 {290}{}{Und an welcher Operation bist du interessiert?}
 {291}{}{Die Hautstabilisatorrüstung.}
 {292}{}{Das Phoenix-Rüstungsimplantat.}
@@ -330,7 +333,7 @@
  Membranen einer Kampfrüstung. Das Ganze kostet $8.000. Aber mach dir keine Sorgen, diese
  Operation sollte *eigentlich* nur ganz geringe Narben hinterlassen - jedenfalls habe ich das so
  gelesen.}
-{311}{}{Das hört sich toll an. Doc. Dann müßte ich mir wahrhaftig keine Sorgen mehr um 
+{311}{}{Das hört sich toll an. Doc. Dann müsste ich mir wahrhaftig keine Sorgen mehr um 
 zusätzlichen Sonnenschutz machen.}
 {312}{}{Erzähl mir noch etwas von den anderen Operationen, Doc.}
 {313}{}{Dann komm ich zurück, wenn ich mehr Geld habe, Doc. Wiedersehn.}
@@ -357,8 +360,8 @@ zusätzlichen Sonnenschutz machen.}
 {323}{}{Na bitte, das war es schon. Die Operation war ein Erfolg. Jetzt solltest du dir über
  Stöße und blaue Flecken nicht mehr allzu viele Sorgen machen müssen. Die Schwellung und
  Empfindlichkeit gibt sich in ein paar Tagen.}
-{324}{}{Ich hätte nie gedacht, daß unter deiner Haut Platz für so viele Abwehrplatten sein
- könnte, aber jetzt bist du gut gewappnet. Du siehst nur ein bißchen aus wie Frankensteins
+{324}{}{Ich hätte nie gedacht, dass unter deiner Haut Platz für so viele Abwehrplatten sein
+ könnte, aber jetzt bist du gut gewappnet. Du siehst nur ein bisschen aus wie Frankensteins
  Monster, aber du solltest auch genauso zäh sein. Äh, versuch am besten, die Sonne etwas zu
  meiden, bis der Schorf so weit ab ist.}
 {325}{}{Das ist mir ziemlich gut gelungen, finde ich. Die Phoenix-Rüstung hat sich viel besser
@@ -368,7 +371,7 @@ zusätzlichen Sonnenschutz machen.}
  In ein paar Wochen siehst du nicht mehr ganz so klumpig aus, aber du wirst auch keine
  Schönheitswettbewerbe mehr gewinnen. Versuch am besten, nicht an der Eiterkruste um die
  Drainage-Einschnitte zu pulen, solange sie noch eitern und nässen.}
-{327}{}{Danke für den guten Rat, Doc. Das ist toll. Hey, laß mich dich noch was fragen.}
+{327}{}{Danke für den guten Rat, Doc. Das ist toll. Hey, lass mich dich noch was fragen.}
 {328}{}{Danke für die prima Handarbeit, Doc. Ich mach mich dann mal lieber auf den Weg.
  Wiedersehn.}
 {329}{}{Du bringst das Jet-Heilmittel zu Dr. John.}

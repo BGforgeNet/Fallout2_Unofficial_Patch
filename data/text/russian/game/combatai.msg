@@ -3387,7 +3387,7 @@
 {44548}{}{Начинаю атаку}
 {44549}{}{Нейтрализация угрозы}
 {44560}{}{Engaging evasive maneuvers.}
-{44561}{}{Defensive protocol Beta initiated.}
+{44561}{}{Защитный протокол Бета запущен.}
 {44562}{}{Enemy's targeting capability inferior. Reassessing threat level.}
 {44563}{}{Enemy missed. Recalculating enemy's offensive capability.}
 {44564}{}{Analysis: enemy effectiveness minimal.}

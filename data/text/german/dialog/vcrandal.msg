@@ -12,9 +12,9 @@
 {111}{}{Vault City wird bestehen, Hauptmann.}
 {112}{}{Guten Tag, Bürger.}
 {113}{}{Vault City wird bestehen, Bürger.}
-{114}{}{Ich muß Verteilungsdiagramme an die Nebenstellen A und B des Büros für Annehmlichkeiten
+{114}{}{Ich muss Verteilungsdiagramme an die Nebenstellen A und B des Büros für Annehmlichkeiten
  senden...}
-{115}{}{Ich muß die aktuellen Bestandsaufnahmen zusammenstellen und auf den Listenserver
+{115}{}{Ich muss die aktuellen Bestandsaufnahmen zusammenstellen und auf den Listenserver
  transferieren...}
 {116}{}{Ich vermisse DOS. Mit diesem neuen Betriebssystem ist es viel schwieriger, die Listen
  einzugeben.}
@@ -30,7 +30,7 @@
 {124}{}{Kommt drauf an. Wo bin ich denn hier?}
 {125}{}{Heute mal nichts.}
 {126}{}{Ein GECK? Ein Garden-Eden-Creation-Kit, so eine Art grauen Koffer, meinst du das? Meine
- Güte, es ist eine halbe Ewigkeit her, daß ich jemand davon habe rede hören.}
+ Güte, es ist eine halbe Ewigkeit her, dass ich jemand davon habe rede hören.}
 {127}{}{BRAUCHE Geckkkh}
 {128}{}{Verzieh dich}
 {129}{}{Hast du so was?}
@@ -108,18 +108,18 @@
  die Straße runter, am Park vorbei. Du kannst es eigentlich gar nicht verfehlen.}
 {183}{}{Verstehe. Darf ich dir noch eine Frage stellen?}
 {184}{}{Danke für die Auskunft. Ich seh mich nach ihr um.}
-{185}{}{Wirklich? Ich kann nicht behaupten, daß du mir bekannt vorkommst. Hast du zufällig deine
+{185}{}{Wirklich? Ich kann nicht behaupten, dass du mir bekannt vorkommst. Hast du zufällig deine
  Papiere dabei? Dann ließe sich die Sache sofort klären.}
 {186}{}{Nein, ich hab sie grade nicht dabei.}
 {187}{}{Ja, hier bitte.}
 {188}{}{Egal. Ich komm später wieder auf dich zurück.}
-{189}{}{Gut, dann legen wir sie schnell in das Lesegerät, damit wir ganz sicher sein können, daß
+{189}{}{Gut, dann legen wir sie schnell in das Lesegerät, damit wir ganz sicher sein können, dass
  alles seine Richtigkeit hat. Dauert nur einen klitzekleinen Moment.}
 {190}{}{Aber-...was soll das! Gib mir meine Papiere zurück!}
 {191}{}{Ähm...eigentlich hab ich grade keine Zeit, was zu kaufen. Gib mir meine Papiere zurück,
- ich muß gehen.}
+ ich muss gehen.}
 {192}{}{Also gut. Ich bin sicher, alles ist in Ordnung.}
-{193}{}{Na ja...ähm, wenn's denn sein muß.}
+{193}{}{Na ja...ähm, wenn's denn sein muss.}
 {194}{}{Darf ich dir ein paar Fragen stellen?}
 {195}{}{Wir sehen uns.}
 {196}{}{Alles bestens. Hier hast du deine Papiere wieder. Was kann ich für dich tun?}
@@ -127,10 +127,10 @@
 {198}{}{Würde es dir was ausmachen, wenn ich dir statt dessen ein paar Fragen stelle?}
 {199}{}{Heute mal nichts.}
 {200}{}{So...du bist also Bürger }
-{201}{}{Ja, er sagte so was, von wegen daß du hier vorbeikommen würdest...}
+{201}{}{Ja, er sagte so was, von wegen dass du hier vorbeikommen würdest...}
 {202}{}{Also gut.}
 {203}{}{Ist gar nicht dringend. Ich komm später wieder.}
-{204}{}{Okay, hier, bitte schön. Ein Hy-Mag. Sieht ein bißchen wie eine Lavalampe aus, findest du
+{204}{}{Okay, hier, bitte schön. Ein Hy-Mag. Sieht ein bisschen wie eine Lavalampe aus, findest du
  nicht? Vorsicht, nicht fallenlassen...ist ziemlich empfindlich, das gute Stück.}
 {205}{}{Was hast du sonst noch so am Lager?}
 {206}{}{Darf ich dir ein paar Fragen stellen?}
@@ -144,18 +144,18 @@
 {212}{}{Könnte ich's bei dir zurücklegen? Ich würde es dann später abholen.}
 {213}{}{Nichts Geringeres als eine Heckler & Koch G11, eines der besten Sturmgewehre aller
  Zeiten... (wiegt das Gewehr in der Hand, reicht es an dich weiter)...wird mit hülsenlosen
- 4,7mm-Patronen geladen. Das Magazin faßt fünfzig Schuß. Wenn diese Waffe spricht, hören alle
+ 4,7mm-Patronen geladen. Das Magazin fasst fünfzig Schuss. Wenn diese Waffe spricht, hören alle
  zu.}
 {214}{}{Kein Zweifel. Danke.}
 {215}{}{Kein Problem. Hier hast du noch ein paar Splittergranaten, die gehen auf meine Kappe. Als
- Dank dafür, daß du diese Gangster beseitigt hast.}
+ Dank dafür, dass du diese Gangster beseitigt hast.}
 {216}{}{Spitze. Kann ich mir ansehen, was du sonst noch am Lager hast?}
 {217}{}{Kann ich dich noch ein paar andere Dinge fragen?}
 {218}{}{Danke. Ich werd sie bestimmt gebrauchen können.}
 {219}{}{Wär's das dann?}
 {220}{}{Würde es dir was ausmachen, wenn ich dir ein paar Fragen stelle?}
 {221}{}{Ja, das wär's für heute.}
-{222}{}{Ja, ich weiß. Ich warte immer noch darauf, daß der Server die Requisitionslisten
+{222}{}{Ja, ich weiß. Ich warte immer noch darauf, dass der Server die Requisitionslisten
  rüberschickt, aber das dauert wohl noch ein Weilchen. Alles braucht seine Zeit, mehr fällt mir
  dazu nicht ein.}
 {223}{}{Verstehe. Kann ich dir noch ein paar weitere Fragen stellen?}

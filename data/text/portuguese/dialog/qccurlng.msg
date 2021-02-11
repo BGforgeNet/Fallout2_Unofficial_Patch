@@ -73,7 +73,7 @@
 {172}{}{O Projeto no qual a Enclave se dedicou nessas últimas décadas é o restabelecimento da raça humana sobre o continente dos Estados Unidos. Deus abençoe a América.}
 {173}{}{Isso não soa como se precisasse de décadas para ser alcançado.}
 {174}{}{Já ouvi o suficiente sobre isso. Deixa eu te perguntar outra coisa.}
-{175}{}{Ah, apenas estabelecer um posto avançado não leva tanto tempo. Nós já temos tudo pronto em Navarro. Mas leva muito tempo para trabalhar em um método propíco para o procedimento de erradicação.}
+{175}{}{Oh, just establishing an outpost wouldn't take long. We've already done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
 {176}{}{Procedimento de erradicação?}
 {177}{}{Claro, nós não podemos nos mudar para o continente com o risco de sermos contaminados pelos mutantes quase-humanos de lá. Para deixar o Estados Unidos seguro para a humanidade, todos os mutantes devem ser eliminados primeiro.}
 {178}{}{O quê!?! Você é louco? Isso é monstruoso!}
@@ -102,7 +102,7 @@
 {201}{}{Certo, agora eu sei onde o acharam, mas o que ele faz?}
 {202}{}{O F.E.V. foi inicialmente desenvolvido como um vírus que supostamente transformaria humanos em super-soldados. Esse experimento parece ter fracassado totalmente, no entanto eu tentei uma modificação no vírus em um de nossos agentes do Serviço Secreto com sucesso.}
 {203}{}{Ótimo pra você, mas o que isso tem a ver com a erradicação de todos?}
-{204}{}{Ah, claro, eu já ia chegar nesse ponto... O alvo do F.E.V. é específico, só age em glicoproteínas humanas. Só levou alguns anos pra deixar o vírus F.E.V. mais letal do que já era. O resultado foi como o doutor ordenou, perfeito. }
+{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
 {205}{}{Perfeito? Como?}
 {206}{}{Não é óbvio, meu caro mutante? O F.E.V. é, graças a mim, uma toxina letal. E graças a um estranho gênio chamado, dramaticalmente, de the Master, ele só age em humanos, mutados ou não.}
 {207}{}{Então?}

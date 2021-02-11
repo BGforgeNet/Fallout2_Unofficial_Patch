@@ -5,7 +5,7 @@
 {202}{}{Sklavenhändlergilde?}
 {203}{}{Slawenhändegulden?}
 {204}{}{Aruk kun sung?}
-{215}{}{[Aidan begutachtet dich.] Hm, du wirkst so, als würdest du gut dazupassen, aber du mußt natürlich zuerst mit
+{215}{}{[Aidan begutachtet dich.] Hm, du wirkst so, als würdest du gut dazupassen, aber du musst natürlich zuerst mit
  Metzger reden. Durch diese Hintertür.}
 {216}{}{[Aidan begutachtet dich.] Also, du siehst eigentlich nicht so aus, als könntste das ab, aber wer kann das schon sagen... Red mit
  Metzger, dort durch die Hintertür.}
@@ -14,7 +14,7 @@
 {219}{}{Noch eine Frage für dich.}
 {220}{}{Danke, das werd ich.}
 {221}{}{Medger}
-{222}{}{Uh... kay.}
+{222}{}{Äh...ok.}
 {230}{}{Jetzt wirst du sterben.}
 {240}{}{Soll das 'n Witz sein? Wir fangen und verkaufen Sklaven. Deswegen biste ja wohl hier, oder? Kämpfste gerne?}
 {241}{}{Soll das 'n Witz sein? Wir fangen und verkaufen Sklaven. Wennde nich' deswegen hier bist, was willste dann?}
@@ -31,42 +31,42 @@
 {250}{}{Kennst du einen Mann namens Vic?}
 {251}{}{Ich suche nach einem Händler.}
 {252}{}{Hast du schon mal von Vault 13 gehört?}
-{253}{}{Tschüß.}
+{253}{}{Tschüss.}
 {254}{}{Arbeit.}
 {255}{}{Essen.}
 {256}{}{Tötn.}
 {257}{}{Agh.}
-{270}{}{Also was ganz Blutrünstiges, wie? Na, da solltest du dich mit dem Boß unterhalten, Wir
+{270}{}{Also was ganz Blutrünstiges, wie? Na, da solltest du dich mit dem Boss unterhalten, Wir
  haben vielleicht eine Stelle für dich. Durch diese Hintertür.}
 {271}{}{Metzger hat noch nie eine Frau eingestellt, aber wenn du wirklich so blutrünstig
  bist, kann man es ja mal versuchen. Er ist gleich hinter dieser Tür.}
 {272}{}{Okkeh.}
 {273}{}{Oh.}
 {274}{}{Gauna}
-{280}{}{Darüber mußte mit Metzger sprechen. Der verkauft normalerweise nicht öffentlich. Er
+{280}{}{Darüber musste mit Metzger sprechen. Der verkauft normalerweise nicht öffentlich. Er
  hat alle Hände voll mit ... größeren Kunden zu tun.}
 {281}{}{Wer ist Metzger?}
 {282}{}{Kann ich dann was anderes fragen?}
-{283}{}{Okay, Tschüß.}
+{283}{}{Okay, Tschüss.}
 {284}{}{Was ist mit Vic?}
 {290}{}{Was du nicht sagst. Hau ab!}
 {291}{}{Blöde Kuh.}
 {292}{}{Uuuk?}
 {293}{}{Hmpf.}
 {300}{}{Eher unwahrscheinlich. Metzger hat sich über ihn wegen einem Funkgerät oder sowas aufgeregt. Glaub kaum,
- daß er ihn verkaufen würde. Du mußt selbst mit ihm reden.}
+ dass er ihn verkaufen würde. Du musst selbst mit ihm reden.}
 {301}{}{Ich hab gehört, er hat das Funkgerät endlich repariert. Du solltest Metzger fragen. Er ist
  kaum zu gebrauchen, keine sehr gute Handelsqualität.}
 {302}{}{Wer ist Metzger?}
 {303}{}{Wo ist Metzger?}
-{304}{}{OK, danke, Tschüß.}
+{304}{}{OK, danke, Tschüss.}
 {310}{}{Er ist im Hinterzimmer gleich hinter der Tür da drüben.}
 {311}{}{Machst du Witze? Er ist gleich dort hinten. Geh einfach durch die Tür da.}
 {312}{}{OK.}
 {313}{}{Danke.}
 {320}{}{Du Vollidiot, du kennst Metzger nicht? Warum bist du nach Den gekommen, wenn nicht, um
  ihn zu sehen? Er ist der Anführer der Sklavenhändlergilde.}
-{321}{}{Wie oft muß ich dir das noch sagen? Er ist der Meister der Sklavenhändler. Er hat in
+{321}{}{Wie oft muss ich dir das noch sagen? Er ist der Meister der Sklavenhändler. Er hat in
  dieser Stadt das Sagen.}
 {322}{}{Kann ich dich noch etwas anderes fragen?}
 {323}{}{Okay, danke.}
@@ -75,7 +75,7 @@
 {331}{}{Wie gesagt, darüber rede ich nicht.}
 {332}{}{Sag es mir, bevor ich dir ein Loch in den Kopf puste.}
 {333}{}{Ich verstehe. Noch weitere Fragen?}
-{334}{}{Okay, Tschüß.}
+{334}{}{Okay, Tschüss.}
 {340}{}{Jetzt hör mal zu, du Wurm. Wage es nicht, mich oder jemand anderes aus unserer Gilde zu
  bedrohen, oder du bist tot. Haste das kapiert? Tot.}
 {341}{}{Jetzt hör mal zu, du kleine Ratte. Wage es nicht, mich oder jemand anderes aus unserer
@@ -97,17 +97,17 @@
 {371}{}{Häh? Äh... Oh.}
 {380}{}{So wie de aussiehst, würdste ja schon dazupassen, aber Metzger hat noch nie 'ne
  Frau angestellt. Weiß auch nicht, warum. Aber kann mir nich' vorstell'n, dasser jetzt damit anfängt.}
-{381}{}{So wie de aussiehst, paßte eigentlich nicht dazu, außerdem hat Metzger noch nie
+{381}{}{So wie de aussiehst, passte eigentlich nicht dazu, außerdem hat Metzger noch nie
  'ne Frau angestellt. Weiß auch nicht, warum. Aber kann mir nich' vorstell'n, dasser jetzt damit anfängt.}
-{382}{}{Ich hab gesagt, du mußt mit Metzger sprechen.}
+{382}{}{Ich hab gesagt, du musst mit Metzger sprechen.}
 {383}{}{Wer ist Metzger?}
 {384}{}{Noch eine Frage.}
 {385}{}{Danke, das werd ich.}
 {386}{}{Medger}
-{387}{}{Uh... kay.}
-{400}{}{Nein, aber ich würd mal den Boß fragen. Der war schon so ziemlich überall.}
+{387}{}{Äh...ok.}
+{400}{}{Nein, aber ich würd mal den Boss fragen. Der war schon so ziemlich überall.}
 {401}{}{Noch eine Frage.}
-{402}{}{OK, danke, Tschüß.}
+{402}{}{OK, danke, Tschüss.}
 {410}{}{Händler? Oh, du meinst sicher Vic, diesen Verkäufer von altem Vaultzeug. Der sitzt in der Tinte.
  Metzger hat ihn auf dem Kieker.}
 {411}{}{Ja, Vic... Dieser Händler, der das altes Vaultzeug verkauft. Der sitzt in der Tinte.

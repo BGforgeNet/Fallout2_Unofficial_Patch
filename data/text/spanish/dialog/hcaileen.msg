@@ -39,6 +39,6 @@
 {138}{}{Encantada de que nos visites. Ahora largo.}
 {139}{}{¿Por qué has dejado todas esas pisadas de barro?}
 {140}{}{¿Podrías actuar de esa manera en tu propia, eh, tienda?}
-{141}{}{Por favor, déjame solo.}
+{141}{}{Por favor, déjame tranquilo.}
 {142}{}{No sé lo que pretendes, pero sólo quiero que me dejes en paz.}
 {143}{}{¡Nos tendieron una trampa! ¡No asesinamos a esa gente en los túneles!}

@@ -7,12 +7,12 @@
 {105}{}{Fisch und Seetang. Das ist alles, was wir hier kriegen.}
 {106}{}{Ha ha! Nun schau dir nur diese komischen Rundaugen an!}
 {107}{}{Du siehst aus wie ein Hubologe.}
-{108}{}{Laß uns zufrieden.}
+{108}{}{Lass uns zufrieden.}
 {109}{}{Lang lebe Lo Pan!}
 {110}{}{Nieder mit dem Drachen!}
 {111}{}{Lo Pan ist ein Held.}
 {112}{}{Nimm dich in Acht vor dem Drachen. Mit ihm ist nicht gut Kirschen essen.}
-{113}{}{Daß dieser Pöbel immer so laut sein muß!}
+{113}{}{Dass dieser Pöbel immer so laut sein muss!}
 {114}{}{Arbeiten, arbeiten, arbeiten. Reis, Reis, Reis. ::Seufz::}
 {115}{}{Gibt es denn nichts anderes im Leben?}
 {116}{}{Wir sind schlauer, als du glaubst.}
@@ -66,10 +66,10 @@
 {170}{}{Du bist wohl doch kein Spion.}
 {171}{}{Schweinepriester! Stirb!}
 {172}{}{Du hast deine Familie entehrt!}
-{173}{}{Laß uns in Ruhe, Lao Wai!}
+{173}{}{Lass uns in Ruhe, Lao Wai!}
 {174}{}{Hast du nicht schon genug angerichtet?}
 {175}{}{Ich hasse dich!}
-{176}{}{Verlaß diese Stadt!}
+{176}{}{Verlass diese Stadt!}
 {177}{}{Geh nach Hause zu deinem Volk!}
 {178}{}{Verdunkle mein Leben nicht durch deinen Anblick!}
 {179}{}{Was sollen wir bloß machen, damit du verschwindest?!}

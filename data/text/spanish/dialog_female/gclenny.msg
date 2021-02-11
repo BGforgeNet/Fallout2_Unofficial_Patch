@@ -108,7 +108,7 @@
 {372}{}{Siento que te vayas, Lenny.}
 {373}{}{¿No puedes soportarlo, eh? Bueno, será mejor que arrastres tu cuerpo a medio pudrir lejos de aquí antes de que decida si liquidarte vale un cartucho o no.}
 {374}{}{*Eructo* Sí, lo que sea. Supongo que tienes otras cosas que hacer, como gastar tu tiempo libre intentando recordar cómo era tener una piel que no parecía como el cadáver podrido de una rata atropellada en pleno julio. Vete de aquí, jodido fenómeno.}
-{375}{}{De acuerdo.}
+{375}{}{Vale.}
 {380}{}{¿Q-Qué q-quieres que haga?}
 {381}{}{Lenny, sé que lo estás intentando, pero por favor, quítate de mi camino.}
 {382}{}{Necesito que pelees de una manera distinta, Lenny.}
@@ -138,7 +138,7 @@
 {424}{}{No importa.}
 {430}{}{P-parece que p-puedes e-enseñarle trucos nuevos a un perro v-viejo. Genial.}
 {431}{}{Por alguna razón n-no puedo pillarle el truco.}
-{432}{}{De acuerdo.}
+{432}{}{Vale.}
 {440}{}{Oh, está bien. Esperaré aquí hasta que vuelvas. Dame algo de tiempo para descansar mis articulaciones doloridas.}
 {441}{}{Hazlo, Lenny. Adiós.}
 {442}{}{Deberías esperar aquí; oh, y otra cosa...}
@@ -188,7 +188,7 @@
 {1300}{}{Esa es una buena idea. Me estaba preguntando cuando nos detendríamos para hacer eso, estoy bastante lastimado.}
 {1400}{}{Necesito curarme ahora mismo o moriré.}
 {1500}{}{Oh, está bien. Esperaré aquí hasta que vuelvas. Dame algo de tiempo para descansar mis articulaciones doloridas.}
-{1600}{}{De acuerdo.}
+{1600}{}{Vale.}
 {1700}{}{Me m-mantendré c-cerca de ti.}
 {1800}{}{S-supongo que no queremos ser un b-blanco fácil, ¿eh?}
 {1900}{}{Está bien, me m-mantendré un poco más lejos. D-de todas formas la g-gente siempre parece querer matarte.}
@@ -211,7 +211,7 @@
 {3005}{}{N-no quiero t-tener nada que ver c-contigo.}
 {4000}{}{Vale, pero no me gusta mucho la idea de quedarme solo aquí.}
 {4001}{}{Está bien, si realmente crees que es una buena idea.}
-{4002}{}{Bueno, no me gusta usar armas a menos que sea absolutamente necesario, pero supongo q-que podría utilizar un cuchillo. También puedo usar pistolas, o a-al menos podía. Si realmente tuviese que hacerlo, p-podría manejar un subfusil. Si no fuesen tan escandalosas... Soy un médico, no un luchador.}
+{4002}{}{Bueno, no me gusta usar las armas, a menos que realmente tengo, pero supongo que me podría usar un cuchillo, creo. Puedo usar una pistola, al menos yo solía ser capaz de. Si yo realmente, creo que podría manejar una ametralladora. Si tan sólo no fuera tan fuerte. Soy un sanador, no un luchador.}
 {4003}{}{Cielos, espero no necesitar eso.}
 {5000}{}{Creo que p-podría tener un m-miembro roto.}
 {5001}{}{Creo que p-podría s-ser irradiado.}

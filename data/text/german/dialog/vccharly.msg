@@ -29,14 +29,14 @@
 {123}{}{*Keuch*}
 {124}{}{*Hust-Hust*}
 {125}{}{*Ahhhhhh*}
-{126}{}{Das ist das letzte Mal, daß ich das verdammte Wasser in dieser Stadt getrunken habe, das
+{126}{}{Das ist das letzte Mal, dass ich das verdammte Wasser in dieser Stadt getrunken habe, das
  kann ich dir sagen.}
-{127}{}{Komisch, daß ich noch nicht wie 'ne Glühbirne leuchte...}
+{127}{}{Komisch, dass ich noch nicht wie 'ne Glühbirne leuchte...}
 {128}{}{Von dem verdammten RadAway krieg ich Durchfall.}
 {129}{}{Danke, Fremdling. Ich weiß deine Hilfe zu schätzen. Den Autodoc hätt ich mir nicht
  leisten können.}
 {130}{}{Würd mich gern revanchieren, bin aber total abgebrannt.}
-{131}{}{Das ist das letzte Mal, daß ich das verdammte Wasser in dieser Stadt getrunken habe, das
+{131}{}{Das ist das letzte Mal, dass ich das verdammte Wasser in dieser Stadt getrunken habe, das
  kann ich dir sagen.}
-{132}{}{Komisch, daß ich noch nicht wie 'ne Glühbirne leuchte...}
+{132}{}{Komisch, dass ich noch nicht wie 'ne Glühbirne leuchte...}
 {133}{}{Von dem verdammten RadAway krieg ich Durchfall.}

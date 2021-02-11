@@ -7,17 +7,17 @@
 {105}{}{Fisch und Seetang. Das ist alles, was wir hier kriegen.}
 {106}{}{Ha ha! Nun schau dir nur diese komischen Rundaugen an!}
 {107}{}{Du siehst aus wie ein Hubologe.}
-{108}{}{Laﬂ uns zufrieden.}
+{108}{}{Lass uns zufrieden.}
 {109}{}{Lang lebe der Drache!}
 {110}{}{Nieder mit Lo Pan!}
 {111}{}{Der Drache ist ein Held.}
 {112}{}{Nimm dich in Acht vor Lo Pan. Mit ihm ist nicht gut Kirschen essen.}
-{113}{}{Daﬂ dieser Pˆbel immer so laut sein muﬂ!}
+{113}{}{Dass dieser Pˆbel immer so laut sein muss!}
 {114}{}{Arbeiten, arbeiten, arbeiten. Reis, Reis, Reis. ::Seufz::}
 {115}{}{Gibt es denn nichts anderes im Leben?}
 {116}{}{Wir sind schlauer, als du glaubst.}
 {117}{}{Schaut! Ein Lao Wai!}
-{118}{}{Ich glaube nicht, daﬂ ich Dich mag.}
+{118}{}{Ich glaube nicht, dass ich Dich mag.}
 {119}{}{Du machst mir Angst.}
 {120}{}{Bitte tu mir nichts.}
 {121}{}{Lo Pan w¸rdest du bestimmt gefallen.}
@@ -31,7 +31,7 @@
 {129}{}{Jetzt zu den Hubologen!}
 {130}{}{Nun schau dir nur diese komischen Rundaugen an!}
 {131}{}{Du siehst aus wie ein Hubologe.}
-{132}{}{Laﬂ uns zufrieden.}
+{132}{}{Lass uns zufrieden.}
 {133}{}{Lang lebe der Drache!}
 {134}{}{Lang lebe der Kaiser!}
 {135}{}{Arbeiten, arbeiten, arbeiten. Reis, Reis, Reis. ::Seufz::}
@@ -67,10 +67,10 @@
 {171}{}{Ich glaube, du bist doch kein Spion.}
 {172}{}{Schweinepriester! Stirb!}
 {173}{}{Du hast deine Familie entehrt!}
-{174}{}{Laﬂ uns in Ruhe, Lao Wai!}
+{174}{}{Lass uns in Ruhe, Lao Wai!}
 {175}{}{Hast du nicht schon genug angerichtet?}
 {176}{}{Ich hasse dich!}
-{177}{}{Verlaﬂ diese Stadt!}
+{177}{}{Verlass diese Stadt!}
 {178}{}{Geh nach Hause zu deinem Volk!}
 {179}{}{Verdunkle mein Leben nicht durch deinen Anblick!}
 {180}{}{Was sollen wir bloﬂ machen, damit du verschwindest?!}

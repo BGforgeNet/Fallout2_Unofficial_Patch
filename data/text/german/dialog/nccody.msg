@@ -56,14 +56,14 @@
 {294}{}{Oh, Wirklich? Gut, das mach ich später mit ihm aus. Kannst du mich dahin bringen wo mein Auto jetzt ist?}
 {300}{}{(Cody zuckt mit den Schultern.)}
 {301}{}{Kannst du mich dahin bringen, wo mein Auto jetzt ist?}
-{302}{}{Gut, ich war nur neugierig. Tschüß.}
+{302}{}{Gut, ich war nur neugierig. Tschüss.}
 {310}{}{(Cody nickt noch einmal, dann rennt er weg.)}
 {311}{}{[Renn ihm hinterher.]}
 {312}{}{Oh, ich folge... uuuiii, schau mal, Sand! Er ist so hellbraun! Oh, wo ist Cody hin?}
 {313}{}{Cody, warte! Ich möchte da noch nicht hin... Ich habe noch ein paar andere Dinge um die ich mich zuerst kümmern muss. Ich bin gleich zurück.}
 {320}{}{(Das Kind starrt dich an als du näher kommst. Er ist in Lumpen gekleidet und du kannst sein Gesicht unter den ganzen Schichten Dreck kaum sehen. Als du näher kommst, blinzelt er dich an. Dann reißt er die Augen auf und rennt weg.)}
-{321}{}{(Aus der Ferne siehst du, daß er scheinbar in Lumpen gekleidet ist. Als du dich mit deiner Powerrüstung näherst, werden seine Augen immer größer und dann rennt er weg.)}
-{322}{}{Tschüß.}
+{321}{}{(Aus der Ferne siehst du, dass er scheinbar in Lumpen gekleidet ist. Als du dich mit deiner Powerrüstung näherst, werden seine Augen immer größer und dann rennt er weg.)}
+{322}{}{Tschüss.}
 {324}{}{Ich sollte den kleinen undankbaren Scheißer in die Sklaverei verkaufen... mhh, warte mal...}
 {330}{}{(Aus der Entfernung sieht es aus, als würde das Kind Lumpen tragen. Das Kind starrt dich an. Als du dich näherst, blinzelt er dich an. Dann reißt er die Augen auf und rennt weg.)}
 {340}{}{(Aus der Entfernung sieht es aus, als würde das Kind Lumpen tragen. Als er jedoch Markus näher kommen sieht, reißt er die Augen auf und rennt weg.)}
@@ -73,7 +73,7 @@
 {362}{}{Haaallloooo Codee}
 {363}{}{Tschüüüüüssss, Codee.}
 {364}{}{Wie gehts dir, Codee?}
-{365}{}{Hey, Cody. Ich bin fertig damit die Welt zu retten. Man war das ein QUAL. Wer hätte gedacht, daß der Präsident so ein Bastard ist.) Egal, wie gehts dir?}
+{365}{}{Hey, Cody. Ich bin fertig damit die Welt zu retten. Man war das ein QUAL. Wer hätte gedacht, dass der Präsident so ein Bastard ist.) Egal, wie gehts dir?}
 {366}{}{Dachte, ich schau mal vorbei und sag hallo, Cody. Du passt auf New Reno auf, Ok?}
 {370}{}{(Cody lächelt dich immer noch an.)}
 {371}{}{(Cody lächelt dich weiter an.)}
@@ -85,8 +85,8 @@
 {382}{}{Was, Cody? Was hast du gerade gesagt?}
 {390}{}{(Cody blinzelt, dann nuschelt er wieder. Du kannst es kaum verstehen, aber es hört sich an wie "Danke".)}
 {391}{}{(Cody blinzelt, dann nuschelt er wieder. Du kannst es kaum verstehen, aber es hört sich an wie "Verpiss dich".)}
-{392}{}{Thank YOU, Codee. Witout Npee Cees like you, me in VERY borrin world.}
-{393}{}{ICH TÖTE DICH ICH TÖTE DICH}
+{392}{}{Dankeschön Codee. Ohne EN-PEE-CEEs wie dich, wäre ich in einer SEHR langweiligen Welt.}
+{393}{}{ICH DICH TÖTEN  ICH DICH TÖTEN}
 {394}{}{Hey, kein Problem, Cody. Die Welt zu retten liegt mir scheinbar im Blut. Pass jetzt auf, hörst du?}
 {395}{}{Du kleiner Hosenscheißer! Ich werde dich töten! Ich werde dich töten --!}
 {1204}{}{ traurig. Du gesehen }

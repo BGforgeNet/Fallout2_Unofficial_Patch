@@ -1,4 +1,4 @@
 1:Die Einwohner von New Reno wurden getötet und die Stadt zerfiel.
 2:Alle Lichter der Stadt sind erloschen und in ihren Straßen gibt es nur noch Wildhunde und Geier.
-3:Die Wüstenstämme meiden den riesigen Friedhof. Sie glauben, daß böse Geister dort ihr Unwesen treiben.
+3:Die Wüstenstämme meiden den riesigen Friedhof. Sie glauben, dass böse Geister dort ihr Unwesen treiben.
 4:Manche behaupten, die Zerstörung von New Reno sei die Bestrafung durch eine höhere Macht.

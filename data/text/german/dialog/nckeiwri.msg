@@ -5,11 +5,11 @@
 {201}{}{Was willste'n?}
 {220}{}{Hey, }
 {230}{}{Noch einen Schritt in Richtung Tür und es wird dir leid tun.}
-{240}{}{Ich kann immer noch nicht glauben, daß mein Papa tot ist. Ich wollte ihm noch so viel sagen...}
+{240}{}{Ich kann immer noch nicht glauben, dass mein Papa tot ist. Ich wollte ihm noch so viel sagen...}
 {250}{}{Sklavenhändler, du bist hier im falschen Viertel. Wenn du das jetzt nicht bald erklärst, kriegste ganz schön Ärger.}
 {251}{}{Ich kenn dich nich', mein Vater kennt dich nicht und wenn du jetzt nicht bald was sagst, ist das alles egal.}
 {252}{}{Wie geht's, }
-{253}{}{Danke, daß du herausgefunden hast, wer Richard umgebracht hat, }
+{253}{}{Danke, dass du herausgefunden hast, wer Richard umgebracht hat, }
 {254}{}{Was willste denn jetzt?}
 {255}{}{Muttah. Mann is' Muttah!}
 {256}{}{Jabawukie Ding Dong}
@@ -45,14 +45,14 @@
 {366}{}{Ich gehe NICHT.}
 {367}{}{Also gut.}
 {375}{}{Ich hab dich GEWARNT...}
-{376}{}{Willst du was HIERVON, KLEINER?! Ja? Willst du DAS mal zu spüren kriegen?! Dann mach, daß --}
+{376}{}{Willst du was HIERVON, KLEINER?! Ja? Willst du DAS mal zu spüren kriegen?! Dann mach, dass --}
 {380}{}{Äh...was ist denn mit ihr? Ist sie wieder in Schwierigkeiten?}
 {381}{}{Nein. Kommt das denn öfter vor?}
 {383}{}{Nö, ich wollt's nur wissen. Bis dann, Keith.}
-{390}{}{Manchmal ja. Sie predigt immer über die Laster Alkohol und Glücksspiel und sonst noch so einiges. Erregt immer viel Aufsehen und das paßt Dad gar nicht.}
+{390}{}{Manchmal ja. Sie predigt immer über die Laster Alkohol und Glücksspiel und sonst noch so einiges. Erregt immer viel Aufsehen und das passt Dad gar nicht.}
 {391}{}{Weiß deine Mutter denn, was eure Familie so macht?}
 {392}{}{Kann ich mir denken. OK, dann danke für die Auskünfte, Keith.}
-{400}{}{Nee, sie weiß nicht mal die Hälfte. Sie hält Dad für trocken und glaubt, daß er nicht spielt, aber sie kriegt gar nicht so richtig mit, was er alles macht. Wenn sie die Brennerei unterm Bahnhof finden würde, wär hier die Hölle los.}
+{400}{}{Nee, sie weiß nicht mal die Hälfte. Sie hält Dad für trocken und glaubt, dass er nicht spielt, aber sie kriegt gar nicht so richtig mit, was er alles macht. Wenn sie die Brennerei unterm Bahnhof finden würde, wär hier die Hölle los.}
 {401}{}{Ach so. Dann danke, Keith.}
 {410}{}{(Schüttelt den Kopf) Diesmal hat sie wirklich den Vogel abgeschossen. Sie hat Dads Brennerei und alles kaputtgehauen. Die Arbeiter hatten viel zu viel Angst, um sie aufzuhalten. Dad kriegte einen Anfall und sie kriegte auch einen. (Zuckt die Achseln.) Pa wird eine Weile brauchen, bis er wieder auf die Beine kommt.}
 {420}{}{Guter Junge. Wenn wir den jemals finden, der ihm das angetan hat...}
@@ -65,13 +65,13 @@
 {441}{}{Little Jesus Mordino?}
 {442}{}{Kannst du mir noch was über Richard erzählen?}
 {443}{}{Danke für die Info, Keith.}
-{450}{}{Ruhiger, sauberer Junge. Hielt sich aus Ärger raus und das ist schon was für einen Wright. Wir haben ihn vor einiger Zeit auf der Golgotha-Ebene begraben, aber Ma will immer noch nicht, daß etwas in seinem Zimmer verändert wird. Sie kann ihn einfach noch nicht loslassen.}
+{450}{}{Ruhiger, sauberer Junge. Hielt sich aus Ärger raus und das ist schon was für einen Wright. Wir haben ihn vor einiger Zeit auf der Golgotha-Ebene begraben, aber Ma will immer noch nicht, dass etwas in seinem Zimmer verändert wird. Sie kann ihn einfach noch nicht loslassen.}
 {451}{}{Wo war denn sein Zimmer? Hätte deine Mutter wohl was dagegen, wenn ich da mal reinschauen würde?}
 {452}{}{Hast du ein paar Händler im Verdacht, die ihm das Jet gegeben haben könnten?}
 {454}{}{Auf Golgotha begraben? Hmmm. Danke für die Info, Keith.}
 {460}{}{Sein Zimmer? Ach, das mittlere da von der Hausseite aus gesehen. Hmm.. und wenn du dich da umsehen willst, bleib nicht zu lange und bring nichts durcheinander, sonst bekommt Ma einen Anfall.}
 {461}{}{Danke, Keith. Dauert nicht lange.}
-{470}{}{Warte mal. (Klopft an die Tür hinter ihm) Pa? (Er steckt seinen Kopf hinein, murmelt etwas, kommt zurück und nickt zur Tür hin.) OK, du kannst rein, aber paß auf. Dad hat eine Mistlaune.}
+{470}{}{Warte mal. (Klopft an die Tür hinter ihm) Pa? (Er steckt seinen Kopf hinein, murmelt etwas, kommt zurück und nickt zur Tür hin.) OK, du kannst rein, aber pass auf. Dad hat eine Mistlaune.}
 {471}{}{Danke.}
 {480}{}{Er ist der Sohn von Big Jesus. Außerdem ist er ein Mistkerl. Er hat Richard vielleicht alleine getroffen und ihn dann aus lauter Gemeinheit mit Jet vollgepumpt. Wenn du ihn suchst, sieh mal im Desperado nach. Little Jesus hängt da immer mit seinem Alten ab.}
 {1220}{}{. Was ist los?}

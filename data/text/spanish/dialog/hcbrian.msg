@@ -5,7 +5,7 @@
 {104}{}{¿Qué quieres?}
 {105}{}{Nyug aarg.}
 {106}{}{¿Quién eres?}
-{107}{}{¿Qué es este lugar?}
+{107}{}{¿Qué lugar es éste?}
 {108}{}{¿Alguna vez has oído hablar de un GECK?}
 {109}{}{Eric me pidió que ajustara el suministro de energía de su casa. Dijo que estaba sudando demasiado.}
 {110}{}{Oye, Eric está realmente contento con su bonita y chula casa. Y veo que la energía no se ha cortado en la ciudad.}

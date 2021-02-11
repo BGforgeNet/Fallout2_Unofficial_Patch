@@ -2,8 +2,8 @@
 {101}{}{Você vê Metzger, o mestre escravista.}
 {150}{}{Metzger é o chefe da Guilda dos Escravistas.}
 {200}{}{Você vai pagar por isso.}
-{210}{}{What the fuck do you want? This is the Slaver's Guild, not some safe
- house for you fucking jetheads.}
+{210}{}{Que porra você quer? Esta é a Guilda dos Escravistas, não algum
+ esconderijo pra vocês porras de drogados.}
 {211}{}{Que diabos você quer, sua vadia feia? Esta é a Guilda
   dos Escravistas, e não a porra de um puteiro.}
 {212}{}{Que diabos você quer, vadia? Esta é a Guilda dos Escravistas, não a

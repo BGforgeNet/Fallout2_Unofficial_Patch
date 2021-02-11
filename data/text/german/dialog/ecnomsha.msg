@@ -5,7 +5,7 @@
 {104}{}{Hallo.}
 {105}{}{Ich brauche Heilung.}
 {106}{}{Kannst du die Xander-Wurzel und die Broc-Blume zusammenmischen?}
-{107}{}{Tschüß.}
+{107}{}{Tschüss.}
 {108}{}{Ooga.}
 {109}{}{Beweg dich nicht, damit ich dich untersuchen kann.}
 {110}{}{[Mehr]}
@@ -15,11 +15,11 @@
 {114}{}{Bitte zieh das Gift aus meinem Körper.}
 {115}{}{Bitte heil mich.}
 {116}{}{Sieh dir mal an, ob du was für mein gebrochenes Gliedmaß tun kannst.}
-{117}{}{Tschüß.}
+{117}{}{Tschüss.}
 {118}{}{Du bist geheilt.}
 {119}{}{Du bist geheilt.}
 {120}{}{Du bist geheilt.}
-{121}{}{Ich muß deine Fähigkeiten weiter in Anspruch nehmen.}
+{121}{}{Ich muss deine Fähigkeiten weiter in Anspruch nehmen.}
 {122}{}{Danke, jetzt fühl ich mich schon viel besser. Wiedersehn.}
 {123}{}{Meine Fähigkeiten sind beschränkt und ich kann dir hier nicht weiterhelfen.}
 {124}{}{[Mehr]}
@@ -27,9 +27,9 @@
 {126}{}{[Mehr]}
 {127}{}{Ahh...Du kennst die heilende Wirkung dieser beiden Pflanzen. Das kostet nur}
 {128}{}{Bitte misch die beiden Pflanzen für mich.}
-{129}{}{Vielleicht später. Tschüß.}
+{129}{}{Vielleicht später. Tschüss.}
 {130}{}{[Du siehst zu, wie er die beiden Pflanzen vorsichtig zerstößt und mischt und dir dann die richtige Dosis des Pulvers gibt.]}
-{131}{}{Tschüß.}
+{131}{}{Tschüss.}
 {132}{}{Du bist wohl knapp bei Kasse. Komm später wieder, wenn mehr in deinem Geldbeutel ist.}
 {133}{}{[Ende]}
 {134}{}{Für so 'n Blödsinn hab ich keine Zeit. Verschwinde!}

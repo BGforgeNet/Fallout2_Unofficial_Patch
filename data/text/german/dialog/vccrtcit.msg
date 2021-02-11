@@ -8,7 +8,7 @@
 {106}{}{Entschuldigung.}
 {107}{}{Du stehst mir im Weg.}
 {108}{}{Warum gehst du nicht mit den anderen wieder nach draußen?}
-{109}{}{Könntest du bitte ein bißchen Abstand halten?}
+{109}{}{Könntest du bitte ein bisschen Abstand halten?}
 {110}{}{Bleib einfach dort drüben.}
 {111}{}{Du solltest dich jetzt auf den Weg machen.}
 {112}{}{Verschwinde.}

@@ -104,10 +104,7 @@
 {203}{}{Тогда я пойду и спрошу их.}
 {204}{}{Надо сказать, что с ними все в порядке... Но всегда есть к чему стремиться.}
 {205}{}{Хех. Спасибо за информацию.}
-{206}{}{Well, as the mutants are not only getting old and senile -- the gas keeps them young, or
- something -- I'd have to say things are pretty good. I mean, we don't want to kill everyone, and as
- far as I can tell, the humans don't think too poorly of us. 'Course, that's not including the humans
- from the other places around here... now those are some bastards.}
+{206}{}{Ну, поскольку мутанты не стареют и не дряхлеют -- газ сохраняет их молодость или что-то вроде того -- то скажу, что все чертовски хорошо. Я имею в виду, что мы не хотим никого убивать, и, в общем, люди не слишком плохо к нам относятся. Конечно, я не имею в виду людей из других городов... некоторые из них - редкостные ублюдки.}
 {207}{}{Хорошо, спасибо. Пока.}
 {300}{}{. Как тебе это?}
 {301}{}{. Как тебе это?}

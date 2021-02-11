@@ -9,11 +9,11 @@
 {106}{}{Vault City lebe hoch....}
 {107}{}{Guten Tag, Bürger.}
 {108}{}{Vault City wird bestehen, Bürger.}
-{109}{}{Du wirst es noch bereuen, daß du in die Stadt gekommen bist...Wache!}
+{109}{}{Du wirst es noch bereuen, dass du in die Stadt gekommen bist...Wache!}
 {110}{}{Ein Mutant! Wache!}
 {111}{}{Ein Ghul! Wache!}
-{112}{}{Muß noch die Munitionslisten fertigmachen...}
-{113}{}{Muß morgen die Waffenspinde unten in der Vault kontrollieren...}
+{112}{}{Muss noch die Munitionslisten fertigmachen...}
+{113}{}{Muss morgen die Waffenspinde unten in der Vault kontrollieren...}
 {114}{}{Vielleicht lernt ihr ja in diesen Zellen, wie man sich benimmt.}
 {115}{}{Und ihr bleibt so lange in diesen Zellen, bis die Erstbürgerin euch begnadigt.}
 {116}{}{Tut mir leid, Bürger, aber nach Einbruch der Dunkelheit darf keiner mehr die
@@ -29,8 +29,8 @@
 {124}{}{Ich habe meine Papiere momentan nicht bei mir.}
 {125}{}{Bitte.}
 {126}{}{Dann bin ich fertig mit dir, "Bürger". Fort mit dir.}
-{127}{}{Für heute ist Schluß mit Erledigungen. Und jetzt fort mit dir.}
-{128}{}{Ich rühr mich nicht von der Stelle. Wenn du mich anfaßt, dann knallt's.}
+{127}{}{Für heute ist Schluss mit Erledigungen. Und jetzt fort mit dir.}
+{128}{}{Ich rühr mich nicht von der Stelle. Wenn du mich anfasst, dann knallt's.}
 {129}{}{In Ordnung, ich gehe schon. }
 {130}{}{Hauptmann. Kann ich dir helfen...Sir?}
 {131}{}{Kann ich dir helfen, Bürger?}
@@ -54,7 +54,7 @@
 {149}{}{Ich mache DEINE Arbeit, Mister.}
 {150}{}{Ich leite die Besserungsanstalt. Und gehorche deinen Befehlen, Mister.}
 {151}{}{Ich leite die Besserungsanstalt hier. Bring den Außenweltlern Manieren bei. Sorge dafür,
- daß die Diener spuren. Organisiere Streifengänge. Seh zu, daß die Stadt vor Gangstern sicher
+ dass die Diener spuren. Organisiere Streifengänge. Seh zu, dass die Stadt vor Gangstern sicher
  ist.}
 {152}{}{Hast du ein Problem, Sergeant?}
 {153}{}{Warst du das mit Cassidys Bar?}
@@ -72,39 +72,39 @@
  und Frauen unter MEINEM Befehl vertrauen mir und respektieren mich - ganz im Gegensatz zu dir...
  Mister.}
 {165}{}{Das ist der Grund, warum ich dich auf deinem Posten brauche, Sergeant. Es kann keinen
- Zweifel geben, daß du die nötigen Fähigkeiten besitzt und Vault City besser kennst als ich.
- Trotzdem, ich kann ERGEBNISSE vorweisen, wo du keine erzielt hast. Vergiß das nicht.}
+ Zweifel geben, dass du die nötigen Fähigkeiten besitzt und Vault City besser kennst als ich.
+ Trotzdem, ich kann ERGEBNISSE vorweisen, wo du keine erzielt hast. Vergiss das nicht.}
 {166}{}{Alles klar, Sergeant. Jetzt hab ich ein paar Fragen an dich.}
-{167}{}{Alles klar, Sergeant. Ich würd vorschlagen, daß du wieder von deinem hohen Roß
+{167}{}{Alles klar, Sergeant. Ich würd vorschlagen, dass du wieder von deinem hohen Roß
  herunterkommst und mit deiner Arbeit weitermachst. Guten Tag.}
 {168}{}{Ich habe verstanden, Sir.}
 {169}{}{Jetzt habe ich ein paar Fragen an dich.}
 {170}{}{Dann mal los, Sergeant.}
 {171}{}{Ja, Mister. Ich habe eine vorab genehmigte Razzia im Lokal von Mr. Cassidy durchgeführt.}
-{172}{}{Vielleicht hat dir dein Freund Cassidy nicht verraten, daß er verbotene Substanzen in
- seinem Haus hatte und daß seine Lizenz für den Alkoholausschank ausgelaufen war. Hast du
+{172}{}{Vielleicht hat dir dein Freund Cassidy nicht verraten, dass er verbotene Substanzen in
+ seinem Haus hatte und dass seine Lizenz für den Alkoholausschank ausgelaufen war. Hast du
  vergessen, das deinem Freund hier mitzuteilen, Cassidy?}
 {173}{}{Cassidy sagt, er hätte alles bezahlt und du hättest trotzdem eine Razzia in seinem Lokal
  durchgeführt.}
-{174}{}{Vergiß es. Ich hätte da noch ein paar weitere Fragen...}
+{174}{}{Vergiss es. Ich hätte da noch ein paar weitere Fragen...}
 {175}{}{Na, egal. Wiedersehn.}
 {176}{}{Nein, Mister. Mr. Cassidy hatte die Monatsgebühr für die Schanklizenz nicht bezahlt und
  trotzdem weiterhin Alkohol in seinem Laden verkauft. Seine Zahlungen sind alle im Computer
- erfaßt.}
+ erfasst.}
 {177}{}{Cassidy hat sich des Alkoholbesitzes ohne Lizenz schuldig gemacht. Wenn ihm das nicht
- paßt, kann er Vault City ja verlassen. So einfach ist das.}
-{178}{}{Ich glaube dir, Sergeant. Gut gemacht. Und jetzt hör mir mal zu: Ich möchte, daß du alle
- Vorwürfe gegen Mr. Cassidy fallenläßt und aus seiner Akte tilgst und daß du ihm außerdem den
+ passt, kann er Vault City ja verlassen. So einfach ist das.}
+{178}{}{Ich glaube dir, Sergeant. Gut gemacht. Und jetzt hör mir mal zu: Ich möchte, dass du alle
+ Vorwürfe gegen Mr. Cassidy fallenlässt und aus seiner Akte tilgst und dass du ihm außerdem den
  Schaden ersetzt, den du in seinem Lokal angerichtet hast.}
 {179}{}{Ich hab den Eindruck, meine Faust und dein Gesicht sollten sich mal näher kennenlernen.}
-{180}{}{Vergiß es. Ich hätte da noch ein paar weitere Fragen...}
+{180}{}{Vergiss es. Ich hätte da noch ein paar weitere Fragen...}
 {181}{}{Na, egal. Wiedersehn.}
-{182}{}{Danke, daß du dich für mich um die Sache gekümmert hast, Freund. Stark ist nicht nur ein
+{182}{}{Danke, dass du dich für mich um die Sache gekümmert hast, Freund. Stark ist nicht nur ein
  Schweinehund, sondern auch noch stur wie ein Elefant.}
 {183}{}{Probier's doch. Es soll mir ein Vergnügen sein, so ein Lumpengesindel wie dich und
  Cassidy dahin zu befördern, wo ihr hingehört.}
 {184}{}{Sehr schön. Ich hatte schon lange Lust, dir mal so richtig einen reinzuwürgen.}
-{185}{}{Vergiß es. Ich hätte da noch ein paar weitere Fragen...}
+{185}{}{Vergiss es. Ich hätte da noch ein paar weitere Fragen...}
 {186}{}{Na, egal. Wiedersehn.}
 {187}{}{Ja...SIR.}
 {188}{}{SOFORT, Sergeant.}
@@ -114,14 +114,14 @@
 {192}{}{Sehr gut, Sergeant. Weiter.}
 {193}{}{Ja, er war dieser betrunkene Außenweltler, der bei der Schlägerei im "Spucknapf" einen
  aus meiner Wache verletzt hat. Er ist drüben im Amt für Dienerzuteilung, wo sie ihm ein
- bißchen...Disziplin beibringen. Wenn du da hinwillst: Einfach die Straße runter.}
+ bisschen...Disziplin beibringen. Wenn du da hinwillst: Einfach die Straße runter.}
 {194}{}{Ich hätte da noch 'ne Frage...}
 {195}{}{Hmmm. Dann geh ich da wohl mal hin.}
 {196}{}{Die Vault ist gleich vor der Tür...Sir.}
-{197}{}{Die Vault ist gleich vor der Tür. Sag der Wache, daß du ein Bürger bist, dann lassen sie
+{197}{}{Die Vault ist gleich vor der Tür. Sag der Wache, dass du ein Bürger bist, dann lassen sie
  dich durch.}
 {198}{}{Die Vault ist gleich vor der Tür. Der Zutritt ist nur Bürgern erlaubt. Wenn ich
- mitbekomme, daß du der Wache Ärger machst, kriegst du selber welchen, darauf kannst du dich
+ mitbekomme, dass du der Wache Ärger machst, kriegst du selber welchen, darauf kannst du dich
  verlassen.}
 {199}{}{Kann ich dich noch etwas anderes fragen?}
 {200}{}{Aber ich bin doch Bürger.}
@@ -129,14 +129,14 @@
 {202}{}{Vielen Dank. Auf Wiedersehn.}
 {203}{}{Das soll ich dir glauben? Ich kenne jeden einzelnen Bürger von Vault City und dich hab
  ich noch nie gesehen. }
-{204}{}{Hier ist mein Paß. Es ist alles in Ordnung, überzeug dich selbst.}
+{204}{}{Hier ist mein Pass. Es ist alles in Ordnung, überzeug dich selbst.}
 {205}{}{Na, egal. Ich hätte da noch ein paar weitere Fragen...}
 {206}{}{Ich geh jetzt lieber.}
 {207}{}{Aha! Wenn das mal nicht die Papiere sind, die letzten Monat entwendet wurden. Sieht so
  aus, als hätte ich endlich den Schuldigen gefunden. Mitkommen, Outsider.}
 {208}{}{Wenn du mir auch nur ein Härchen krümmst, dann knallt's.}
 {209}{}{Ich geh ja schon, ich geh ja schon. Nur nicht drängeln.}
-{210}{}{Ich wurde als Bürger GEBOREN. Du willst Bürger werden? Da mußt du dich an einen von den
+{210}{}{Ich wurde als Bürger GEBOREN. Du willst Bürger werden? Da musst du dich an einen von den
  Stadträten wenden.}
 {211}{}{Kann ich dich noch etwas anderes fragen?}
 {212}{}{Das werd ich tun, danke. Mach's gut.}
@@ -145,7 +145,7 @@
 {215}{}{Ich hab sie beseitigt.}
 {216}{}{Hast du irgendeine Ahnung, wo sie ihre Basis haben?}
 {217}{}{Schwamm drüber. Ich hätte da ein paar Fragen...}
-{218}{}{Vergiß es. Vielleicht unterhalten wir uns ein andermal.}
+{218}{}{Vergiss es. Vielleicht unterhalten wir uns ein andermal.}
 {219}{}{Du hast sie gefunden? Wo denn?}
 {220}{}{Ja, das hast du schon mal gesagt. Geh zur Erstbürgerin und erstatte ihr Bericht, wenn du
  das noch nicht getan hast.}
@@ -168,21 +168,21 @@
  setzen.}
 {234}{}{Nur neugierig.}
 {235}{}{Schwamm drüber. Ich hätte da ein paar Fragen...}
-{236}{}{Vergiß es. Vielleicht unterhalten wir uns ein andermal.}
+{236}{}{Vergiss es. Vielleicht unterhalten wir uns ein andermal.}
 {237}{}{Du willst wohl so eine Art barmherziger Samariter sein. Ich nehm dir das nicht ab.}
 {238}{}{Ich bin kein Samariter. Ich stamme aus Arroyo - das ist ein Dorf im Westen.}
 {239}{}{Ich würde gerne helfen, wenn ich kann.}
-{240}{}{Ich habe in meinem Leben die Erfahrung gemacht, daß es sich immer lohnt, seinen
+{240}{}{Ich habe in meinem Leben die Erfahrung gemacht, dass es sich immer lohnt, seinen
  Mitmenschen zu helfen. Irgendwann ist man nämlich selber auf ihre Hilfe angewiesen.}
 {241}{}{Schwamm drüber. Ich hätte da ein paar Fragen...}
-{242}{}{Vergiß es. Vielleicht unterhalten wir uns ein andermal.}
+{242}{}{Vergiss es. Vielleicht unterhalten wir uns ein andermal.}
 {243}{}{Willst du hier den Klugscheißer spielen, oder was?}
-{244}{}{So, so. Ich weiß nicht, ob du dir da nicht ein bißchen viel vornimmst. Mit einer
- Gangsterbande ist nicht zu spaßen.}
+{244}{}{So, so. Ich weiß nicht, ob du dir da nicht ein bisschen viel vornimmst. Mit einer
+ Gangsterbande ist nicht zu spassen.}
 {245}{}{Nein, aber wenn du Hilfe brauchst, kannst du auf mich zählen.}
 {246}{}{Ich würde trotzdem gerne irgendwie behilflich sein.}
 {247}{}{Na, egal. Ich hätte da ein paar Fragen...}
-{248}{}{Vergiß es. Vielleicht unterhalten wir uns ein andermal.}
+{248}{}{Vergiss es. Vielleicht unterhalten wir uns ein andermal.}
 {249}{}{Hmmm. Na ja, ich kann zur Zeit jede Art von Hilfe gebrauchen. Wenn du ihre Basis findest
  oder, noch besser, sie beseitigst, gehst du zur Erstbürgerin und erstattest ihr Bericht.}
 {250}{}{Genaugenommen hab ich ihre Basis schon gefunden.}
@@ -195,7 +195,7 @@
  setzen.}
 {257}{}{Ich weiß überhaupt nichts. Darum frag ich dich.}
 {258}{}{Schwamm drüber. Ich hätte da ein paar Fragen...}
-{259}{}{Vergiß es. Vielleicht unterhalten wir uns ein andermal.}
+{259}{}{Vergiss es. Vielleicht unterhalten wir uns ein andermal.}
 {260}{}{Du weißt überhaupt nichts? Vielleicht fällt dir ja wieder was ein, wenn ich dich ein
  Weilchen hier in der Besserungsanstalt behalte.}
 {261}{}{Ich möchte versuchen, ihre Basis aufzuspüren. Vielleicht kann ich den Überfällen ein Ende
@@ -212,7 +212,7 @@
 {268}{}{In Ordnung also...}
 {269}{}{Aufhören! Aufhören! Ich hab doch gar --}
 {270}{}{Dann mal los, Leiche.}
-{271}{}{Ich finde nicht, daß wir dieses Thema einfach so unter den Tisch kehren sollten. Also,
+{271}{}{Ich finde nicht, dass wir dieses Thema einfach so unter den Tisch kehren sollten. Also,
  wie ist das mit diesen Gangstern?}
 {272}{}{Ich möchte versuchen, ihre Basis aufzuspüren. Vielleicht kann ich den Überfällen ein Ende
  setzen.}
@@ -223,33 +223,33 @@
  sind.}
 {276}{}{Was meinst du damit?}
 {277}{}{Ich hab da noch ein paar Fragen...}
-{278}{}{Ich muß jetzt weg.}
+{278}{}{Ich muss jetzt weg.}
 {279}{}{Sie haben ein enormes Waffenarsenal, alles von der feinsten Sorte. Sie kennen sich in
  militärischer Strategie aus. Sie halten ihre Reihen geschlossen. Sie gehen nie über ihre
  Feuerlinien hinaus. Und sie haben noch nie unsere Verteidigungsanlagen durchbrochen, auch wenn
  sie schon kurz davor waren.}
 {280}{}{Wie...sie durchbrechen eure Verteidigungsanlagen nicht, obwohl sie's könnten?}
 {281}{}{Ich hab da noch ein paar Fragen...}
-{282}{}{Ich muß jetzt weg.}
+{282}{}{Ich muss jetzt weg.}
 {283}{}{Ja, ich hab's selber erlebt. Beim letzten Angriff haben sie eine Laserkanone an der
- westlichen Flanke außer Gefecht gesetzt. Sie hatten freies Schußfeld auf die Stadt. Dann hab ich
+ westlichen Flanke außer Gefecht gesetzt. Sie hatten freies Schussfeld auf die Stadt. Dann hab ich
  gesehen, wie einer von ihren "Offizieren" den Rückzug ANGEORDNET hat. Völlig rätselhaft.}
 {284}{}{Hast du eine Ahnung, woher sie kommen?}
 {285}{}{Hmmm. Ich hatte noch ein paar andere Fragen...}
-{286}{}{Interessant. Ich muß gehen.}
+{286}{}{Interessant. Ich muss gehen.}
 {287}{}{Nein. Genau das ist es, was mich am meisten ärgert. Sie ziehen sich jedesmal Richtung
  Süden zurück. Ich habe keine Leute übrig, die ich als Kundschafter hinschicken könnte. Wenn du
  mich fragst, haben die Gangster einen Helfer aus der Gegend, der sie durch die südlichen
  Canyons führt.}
 {288}{}{Was ist denn da im Süden?}
 {289}{}{Hmmm. Ich hatte noch ein paar andere Fragen...}
-{290}{}{Interessant. Ich muß gehen.}
+{290}{}{Interessant. Ich muss gehen.}
 {291}{}{Da gibt es reichlich Möglichkeiten, sich zu verstecken. Es wimmelt da förmlich von
- Höhlen. Man muß sich schon verdammt gut auskennen, um da jemanden zu finden.}
+ Höhlen. Man muss sich schon verdammt gut auskennen, um da jemanden zu finden.}
 {292}{}{Ich könnte sie vielleicht finden.}
 {293}{}{Ich hab da noch ein paar Fragen...}
 {294}{}{Hmmm. Ich werde dran denken. Mach's gut.}
-{295}{}{Tu, was du nicht lassen kannst. Die müßten uns schon eine Landkarte geben, damit wir sie
+{295}{}{Tu, was du nicht lassen kannst. Die müssten uns schon eine Landkarte geben, damit wir sie
  da unten finden.}
 {296}{}{Ich hab da noch ein paar Fragen...}
 {297}{}{Wenn's das ist, was man braucht...danke für die Auskunft.}
@@ -262,7 +262,7 @@
 {303}{}{Erkundungen.}
 {304}{}{Was meinst du damit?}
 {305}{}{Ich könnte für euch sondieren, falls es euch an den nötigen Leuten fehlt.}
-{306}{}{Vergiß es. Ich hätte da noch ein paar weitere Fragen...}
+{306}{}{Vergiss es. Ich hätte da noch ein paar weitere Fragen...}
 {307}{}{Na, egal. Wiedersehn.}
 {308}{}{Nein, um diesen Auftrag richtig hinzukriegen, braucht man einen PIPBoy, und ich kann
  momentan keinen erübrigen.}
@@ -300,14 +300,14 @@
 {332}{}{Super. Ich hätte da noch ein paar weitere Fragen...}
 {333}{}{Danke. Es ist wirklich ein Vergnügen, mit dir Geschäfte zu machen.}
 {334}{}{Doch, da wär was...Ich bräuchte jemanden für die NCR. In letzter Zeit mehren sich die
- Anzeichen, daß die Republik aufrüstet. Ob da nun was dran ist oder nicht, ich brauche unbedingt
+ Anzeichen, dass die Republik aufrüstet. Ob da nun was dran ist oder nicht, ich brauche unbedingt
  jemanden, der eine Route in die NCR findet und hinterher Bericht erstattet.}
 {335}{}{Kann Problem. Ist bereits geschehen.}
 {336}{}{Einfach in die NCR gehen und anschließend wieder herkommen?}
-{337}{}{Vergiß es. Ich hätte da noch ein paar weitere Fragen...}
-{338}{}{Nein danke. Tschüß.}
+{337}{}{Vergiss es. Ich hätte da noch ein paar weitere Fragen...}
+{338}{}{Nein danke. Tschüss.}
 {339}{}{Das ist alles. Die Route interessiert mich mehr als die Republik selber. Trotzdem möchte
- ich, daß du in die Stadt hineingehst, sobald du dort angelangt bist.}
+ ich, dass du in die Stadt hineingehst, sobald du dort angelangt bist.}
 {340}{}{Kann Problem. Ist bereits geschehen.}
 {341}{}{Ich mach den Auftrag. Ich melde mich wieder hier, wenn ich zurück bin.}
 {342}{}{Ich mach den Job. Aber ich hätte noch ein paar Fragen, bevor ich gehe...}
@@ -346,7 +346,7 @@
 {369}{}{Hast du noch mehr Sondierungsarbeit für mich?}
 {370}{}{Ich hab die Route in die NCR für dich rausgefunden.}
 {371}{}{Wegen diesen Gangstern...}
-{372}{}{Vergiß es. Mach's gut.}
+{372}{}{Vergiss es. Mach's gut.}
 {373}{}{Guten Tag...Madame.}
 {374}{}{Vault City lebe hoch...Madame.}
 {375}{}{Hauptmann. Kann ich dir helfen...Madame?}
@@ -361,7 +361,7 @@
 {382}{}{Ja, Madame. Ich habe eine vorab genehmigte Razzia im Lokal von Mr. Cassidy durchgeführt.}
 {383}{}{Nein, Madame. Mr. Cassidy hatte die Monatsgebühr für die Schanklizenz nicht bezahlt und
  trotzdem weiterhin Alkohol in seinem Laden verkauft. Seine Zahlungen sind alle im Computer
- erfaßt.}
+ erfasst.}
 {384}{}{Ja...MADAME.}
 {385}{}{Bitte schön, MADAME.}
 {386}{}{Du hast gegenüber Stark den Vorgesetzten raushängen lassen, um deinem Freund Cassidy zu

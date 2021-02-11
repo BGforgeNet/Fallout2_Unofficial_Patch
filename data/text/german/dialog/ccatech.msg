@@ -2,7 +2,7 @@
 {101}{}{Du siehst einen Enklave-Techniker.}
 {102}{}{Du siehst jemanden, der einen Laborkittel trägt. Er wirkt überzeugt und selbstsicher.}
 {103}{}{Ja, Soldat?}
-{104}{}{Ich neu hier. Muß Frage stellen.}
+{104}{}{Ich neu hier. Muss Frage stellen.}
 {105}{}{Ich nur sagen Hallo. Ich gehen.}
 {106}{}{Ich bin neu hier und möchte mich mit der Basis vertraut machen. Darf ich dich etwas
  fragen?}
@@ -17,8 +17,8 @@
 {118}{}{Was ist das alles hier?}
 {119}{}{Was ist dein Job hier?}
 {120}{}{Wo liegt die Enklave-Hauptbasis?}
-{121}{}{Ich muß die Vertibird-Pläne sehen. Wo werden die aufbewahrt?}
-{125}{}{Nichts, ich muß gehen.}
+{121}{}{Ich muss die Vertibird-Pläne sehen. Wo werden die aufbewahrt?}
+{125}{}{Nichts, ich muss gehen.}
 {126}{}{Das ist die Luftverkehrsüberwachung. Von hier aus können wir alle Vertibird-Bewegungen
  nachvollziehen.}
 {127}{}{Verstehen. Mehr fragen.}
@@ -30,7 +30,7 @@
 {132}{}{Kommst du nicht von dort?}
 {133}{}{Äh...nein, ich von Norden oben.}
 {134}{}{Nein, ich komme eigentlich aus dem Norden.}
-{135}{}{Oh...ich wußte nicht, daß wir dort einen Außenposten haben. Egal, die Hauptbasis liegt
+{135}{}{Oh...ich wusste nicht, dass wir dort einen Außenposten haben. Egal, die Hauptbasis liegt
  ein ganzes Stück vor der Küste von Frisco.}
 {136}{}{Wie dorthin kommen?}
 {137}{}{Und...Wie kommt man da hin?}
@@ -38,11 +38,11 @@
  Schiff. Zum Schwimmen ist es zu weit.}
 {139}{}{Danke.}
 {140}{}{Danke.}
-{141}{}{Vertibird-Pläne... Ich wüßte nicht, wozu du sowas wissen mußt. Rede doch mal mit der
+{141}{}{Vertibird-Pläne... Ich wüsste nicht, wozu du sowas wissen musst. Rede doch mal mit der
  Wartungsabteilung nebenan.}
 {142}{}{OK.}
 {143}{}{Kapiert.}
-{153}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Laß dich ausrüsten!}
+{153}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Lass dich ausrüsten!}
 {154}{}{Wenn der Sergeant dich ohne Uniform erwischt, kannst du deinen Kopf unterm Arm tragen.}
 {155}{}{Warum trägst du keine Uniform? }
 {156}{}{Heiliger Strohsack! Wir werden überfallen! Alarm!}

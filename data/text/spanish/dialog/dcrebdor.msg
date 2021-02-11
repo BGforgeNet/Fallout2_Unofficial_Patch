@@ -5,7 +5,7 @@
 {210}{}{Está es la habitación de Rebecca. No se permite la entrada.}
 {211}{}{Espero que lo esté pasando bien.}
 {212}{}{¿Estás buscando a Becky? Está justo ahí.}
-{213}{}{Buenas.}
+{213}{}{Hola.}
 {214}{}{Disfruta de las mesas.}
 {215}{}{Becky tiene las mejores bebidas del pueblo.}
 {230}{}{Aléjate de ahí ahora mismo.}

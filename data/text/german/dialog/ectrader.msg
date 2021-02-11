@@ -1,10 +1,10 @@
 {100}{}{Ein Verkäufer.}
 {101}{}{Frank.}
 {102}{}{Ein aalglatter Vertreter.}
-{103}{}{Greetings, friend, my name is Willy and have I got a deal for you. [He seems to be reading from
- a card, and after a while you doze off.]}
+{103}{}{Sei gegrüßt, Freund, ich heiße Willy und hab ein Superangebot für dich. [Er liest
+ scheinbar von einer Karte ab, nach einer Weile döst du ein.]}
 {104}{}{Zzzzzzz...}
-{105}{}{[Du machst ganz erschöpft die Augen auf, als du merkst, daß dich jemand tritt.] Hast du
+{105}{}{[Du machst ganz erschöpft die Augen auf, als du merkst, dass dich jemand tritt.] Hast du
  nun Interesse oder nicht?}
 {106}{}{Interesse an was?}
 {107}{}{Hä?}
@@ -17,11 +17,11 @@
  sich in deine Hand schmiegt. Und keine Angst - unsere Ingenieure haben sie auf Sicherheit und
  Zuverlässigkeit geprüft. Kein Dieb, der hier oben noch richtig tickt, würde sich an dich
  rantrauen, wenn du dieses Ding da in die Luft hältst. Und es kostet dich nur }
-{111}{}{Dieses kleine Ding ist wirklich ein Prachtstück. Aus dem fernen...Du mußt's nur so
+{111}{}{Dieses kleine Ding ist wirklich ein Prachtstück. Aus dem fernen...Du musst's nur so
  halten...Hör mal, ich weiß nicht, was das ist. Willst du's oder nicht? Es kostet }
 {112}{}{Dieser kleine Freund bringt die Message rüber. "Nicht mit mir!" Allein bei seinem
  Anblick werden deine Feinde die Flucht ergreifen. Ein günstiges Geschäft für }
-{113}{}{Das seh ich sofort, daß du zu den Typen gehörst, die mit Gesindel gern persönlich
+{113}{}{Das seh ich sofort, dass du zu den Typen gehörst, die mit Gesindel gern persönlich
  abrechnen. Na, da ist dieses kleine Ding genau das Richtige und es kostet dich nur }
 {114}{}{Ich nehm's.}
 {115}{}{Nein, danke.}

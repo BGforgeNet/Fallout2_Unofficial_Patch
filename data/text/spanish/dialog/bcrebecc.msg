@@ -4,14 +4,14 @@
 {103}{}{Hola, soy Rebecca. ¿Podemos hablar en privado, por favor?}
 {104}{}{¿Habla de qué?}
 {105}{}{¿Por qué privado?}
-{106}{}{De acuerdo.}
+{106}{}{Vale.}
 {107}{}{No. Marcho yo.}
 {108}{}{Lo siento, no me interesa.}
 {109}{}{¿De qué quieres que hablemos?}
 {110}{}{Claro, ¿dónde podemos hablar en privado?}
 {111}{}{¿Por qué en privado?}
 {112}{}{(susurrando) Mi hija ha desaparecido y necesito ayuda para encontrarla. No puedo hablar de eso aquí. ¿Podemos ir a algún lugar en privado?}
-{113}{}{De acuerdo.}
+{113}{}{Vale.}
 {114}{}{¿Por qué privado?}
 {115}{}{No, marcho.}
 {116}{}{De acuerdo, vamos.}
@@ -23,7 +23,7 @@
 {122}{}{De acuerdo; ¿a dónde podemos ir a hablar?}
 {123}{}{Lo siento, no me gusta cómo suena esto.}
 {124}{}{Gracias; podemos ir a mi tienda.}
-{125}{}{De acuerdo.}
+{125}{}{Vale.}
 {126}{}{Deberíamos poder hablar aquí.}
 {127}{}{Vale, ¿cual problema?}
 {128}{}{Yo preguntas antes.}
@@ -44,21 +44,21 @@
 {143}{}{Habla a yo de Refugio.}
 {144}{}{Habla a yo de Darion.}
 {145}{}{Gracias. ¿Hablamos tu problema?}
-{146}{}{¿Qué pasa por aquí?}
+{146}{}{¿Qué está pasando aquí?}
 {147}{}{¿Quién está al mando aquí?}
 {148}{}{Estoy buscando el Refugio 13. ¿Sabes algo de él?}
 {149}{}{Háblame del Refugio.}
 {150}{}{Háblame de Darion.}
 {151}{}{Gracias Rebecca. Ahora, hablemos de tu problema.}
 {152}{}{Llamamos a este sitio "Ocupación" porque fue ocupado por los okupas de muchas ciudades. No es mucho, pero es todo lo que tenemos. Al oeste hay una ciudad llamada RNC. Saben de nosotros desde hace tiempo, pero nunca nos han ofrecido ningún tipo de ayuda ni nos han molestado. Ahora, de repente llegan diciendo que esta zona es su hogar ancestral y que quieren recuperarlo.}
-{153}{}{De acuerdo.}
+{153}{}{Vale.}
 {154}{}{¿Qué quieren de aquí?}
 {155}{}{Ya veo.}
 {156}{}{¿Qué hay aquí que quieran tanto?}
 {157}{}{Bueno... aquí hay un Refugio, creo que el número 15. Quieren recuperar lo que quiera que aún quede ahí de la vieja tecnología.}
 {158}{}{Ah. Entiendo yo.}
 {159}{}{Sabía que tenía que haber algo aparte de esta escoria de gente.}
-{160}{}{Entiendo.}
+{160}{}{Entendido.}
 {161}{}{Eso explica todo. Has sido de mucha ayuda, pero me gustaría preguntarte una cosa más.}
 {162}{}{Ese debe ser Zeke. Controla todo aquí. Puedes encontrarle en ese edificio de ahí. ::señala al nordeste::}
 {163}{}{Gracias. Más preguntas.}
@@ -70,7 +70,7 @@
 {169}{}{Veo. Tengo saber más.}
 {170}{}{Necesito saber más cosas.}
 {171}{}{No hay mucho que contar, la verdad. Darion es muy reservado y nunca abandona el Refugio. Si tiene algo que decir, lo dice a través de Zeke. Sólo lo he visto una vez, y me pareció un buen tipo.}
-{172}{}{De acuerdo.}
+{172}{}{Vale.}
 {173}{}{Los chicos buenos terminan último. ¿Me pregunto qué estará haciendo?}
 {174}{}{Ya veo.}
 {175}{}{Eso está bien. Eres de mucha ayuda.}
@@ -97,7 +97,7 @@
 {196}{}{Sí, te ayudaré.}
 {197}{}{Tú debes ser la persona que ha salvado a mi hija. Nunca podré compensarte por tu bondad. Gracias. Por favor, espera aquí, necesito hablar con Chrissy y después me gustaría hablar contigo.}
 {198}{}{Has salvado a mi hija. Nunca podré compensarte por tu bondad. Gracias. Por favor espera aquí, necesito hablar con Chrissy y después me gustaría hablar contigo.}
-{199}{}{De acuerdo.}
+{199}{}{Vale.}
 {200}{}{Mi hija me lo ha contado todo. Cuesta creer que Darion sea tal clase de monstruo después de todo lo que ha hecho por nosotros. Y encima, hemos estado ayudándole en sus operaciones de bandidaje. Puedo garantizarte que no vamos a seguir aguantando esto. Ya he hablado con Zeke, y quiere verte. Deberías ir a hablar con él ahora.}
 {201}{}{Mi hija me lo ha contado todo. Cuesta creer que Darion sea tal clase de monstruo después de todo lo que ha hecho por nosotros. Y encima, hemos estado ayudándole en sus operaciones de bandidaje. Puedo garantizarte que no vamos a seguir aguantando esto. Hablaré con Zeke y se lo explicaré todo. Estoy segura de que querrá verte. Deberías ir a hablar con él más tarde.}
 {202}{}{Gracias.}

@@ -9,8 +9,8 @@
 {156}{}{Es fällt dir nichts Ungewöhnliches an ihm auf.}
 {157}{}{Es fällt dir nichts Ungewöhnliches an ihr auf.}
 {200}{}{Lass mich in Ruhe!}
-{201}{}{Laß mich in Ruh!}
-{202}{}{Faß mich nicht an!}
+{201}{}{Lass mich in Ruh!}
+{202}{}{Fass mich nicht an!}
 {203}{}{Hör auf!}
 {204}{}{Was machst du?}
 {300}{}{Tut mir leid, ich kann gerade nicht reden.}
@@ -28,18 +28,18 @@
 {312}{}{Bist du 'n Freund von Becky?}
 {313}{}{Hol dir 'n Drink, mein Freund.}
 {314}{}{Trink aus! Die Getränke sind billig!}
-{315}{}{Ausgeschlossen, daß die verwässert sind.}
+{315}{}{Ausgeschlossen, dass die verwässert sind.}
 {316}{}{Die Dyers kennen sich aus mit dem Zeug.}
 {317}{}{Einfach nur gute Getränke und gute Gesellschaft.}
-{318}{}{Das einzige Problem mit Beckys Drinks ist, daß man zuviel davon trinkt.}
+{318}{}{Das einzige Problem mit Beckys Drinks ist, dass man zuviel davon trinkt.}
 {319}{}{Becky... ich meine, Rebecca ist wirklich ein Schatz.}
-{320}{}{Wer auch immer sie nur anfaßt, wird es bereuen.}
+{320}{}{Wer auch immer sie nur anfasst, wird es bereuen.}
 {321}{}{Das ist echt gutes Zeug.}
 {340}{}{Für das, was du getan hast, sollten wir dich umbringen.}
 {341}{}{Ich weiß nicht, was sie dir getan hat, aber sie hat's nicht verdient zu sterben. }
 {342}{}{Vielleicht sollten wir nach New Reno gehen, jetzt wo Becky's eh geschlossen ist...}
 {343}{}{Ich vermisse Beckys Lächeln.}
-{344}{}{Schluß mit dem billigen Schnaps.}
+{344}{}{Schluss mit dem billigen Schnaps.}
 {345}{}{Den ist nicht mehr dasselbe ohne Becky.}
 {360}{}{Frankie's ist wirklich ein Loch... in der Mauer.}
 {361}{}{Mir gefällt das Loch besser als Becky's.}
@@ -47,7 +47,7 @@
 {363}{}{Setz dich. Oh, warte. Vielleicht doch nicht. }
 {364}{}{Bei Frankie ist was los. Bei Becky ziehen sie einem nur das Geld aus der Tasche.}
 {365}{}{Frankie mag Becky sicher nicht.}
-{366}{}{Frankie sagt, daß Beckys Drinks gestreckt sind. }
+{366}{}{Frankie sagt, dass Beckys Drinks gestreckt sind. }
 {367}{}{Wie geht's.}
 {368}{}{Frankie weiß, wie man feiert.}
 {369}{}{Becky's Tische sind manipuliert. Naja, das sagt Frankie jedenfalls.}
@@ -55,7 +55,7 @@
 {390}{}{Verdammt, ich habe Frankie gewarnt, wie er die Leute behandelt.}
 {391}{}{Frankie hätte die Nerven behalten sollen. }
 {392}{}{Wo gehen wir jetzt zum Rumhängen hin?}
-{393}{}{Zu schade, daß Frankie hopps ist. Er wußte, wie man Partys feiert.}
+{393}{}{Zu schade, dass Frankie hopps ist. Er wusste, wie man Partys feiert.}
 {394}{}{Du bist ganz schön aggressiv. Was hat dir Frankie getan?}
 {395}{}{Hat Frankie deine Mutter beleidigt oder was?}
 {410}{}{Ich schau mich nur um.}
@@ -85,7 +85,7 @@
 {462}{}{Flick hat seine Nase in gefährliche Angelegenheiten gesteckt.}
 {463}{}{Das ist echt Kacke mit Flick.}
 {464}{}{Ich frage mich, was all die Kinder machen werden, jetzt wo Flick tot ist.}
-{465}{}{Bin überrascht, daß Flick so lange gelebt hat.}
+{465}{}{Bin überrascht, dass Flick so lange gelebt hat.}
 {480}{}{Wir nennen es Zuhause.}
 {481}{}{Die meisten von uns wurden mit Moms Essen groß.}
 {482}{}{Ich kenn Mom seit ich klein war.}
@@ -99,5 +99,5 @@
 {501}{}{Ich kenne... kannte Mom mein ganzes Leben...}
 {502}{}{Hat sie dir jemals etwas getan?}
 {503}{}{Mörder! Arme Mom...}
-{504}{}{Warum mußtest du das tun?}
+{504}{}{Warum musstest du das tun?}
 {505}{}{Herzloses Monster.}

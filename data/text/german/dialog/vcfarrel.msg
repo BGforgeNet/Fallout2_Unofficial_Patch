@@ -13,7 +13,7 @@
 {110}{}{Ein Mutant! Wache! Wache!}
 {111}{}{Ein Ghul! Wache! Wache!}
 {112}{}{Mal sehn... drei Stimpaks, eine Schachtel Rad-X...}
-{113}{}{Ich muß noch diese Bestandsaufnahme für Offizier Randal machen.}
+{113}{}{Ich muss noch diese Bestandsaufnahme für Offizier Randal machen.}
 {114}{}{Mal sehn: das Lager durchsehen, den Bestand auflisten, die Liste nachprüfen und dann die
  Liste ins System eingeben...}
 {115}{}{Ich sollte noch ein paar Erste-Hilfe-Kästen sicherstellen...}
@@ -35,7 +35,7 @@
 {133}{}{Geh nächstes Mal lieber in den Laden im Vorhof vor der Stadt. Die haben da sicher alles,
  was ihr... Outsider so braucht.}
 {134}{}{Äh, danke.}
-{135}{}{Ich kauf da ein, wo's mir paßt, kapiert?}
+{135}{}{Ich kauf da ein, wo's mir passt, kapiert?}
 {136}{}{Danke schön. Vault City lebe hoch, Bürger.}
 {137}{}{Danke schön. Vault City lebe hoch, Hauptmann.}
 {138}{}{Vault City wird bestehen, Bürger.}
@@ -53,6 +53,6 @@
  zur Verteilung in Vault City aufbewahrt. Ich bin Offizier Holden vom Büro für Annehmlichkeiten.
  Womit kann ich dienen, Hauptmann?}
 {151}{}{Hey! Weg da!}
-{152}{}{Das reicht! Mach, daß du wegkommst!}
+{152}{}{Das reicht! Mach, dass du wegkommst!}
 {153}{}{Danke.}
 {154}{}{[Fortfahren]}

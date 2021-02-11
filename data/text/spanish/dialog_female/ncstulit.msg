@@ -48,7 +48,7 @@
 {290}{}{(Sonríe). Muy bien, es un trato. Me llamo Stuart, la mayoría me llama Pequeño Stuart, pero eso sólo es porque… bien, todo lo que
  necesitas saber es que soy grande en las cuestiones importantes. ¿Tienes un nombre, caraculo?}
 {291}{}{Yo }
-{292}{}{Me... uh... me...}
+{292}{}{Yo... eh... yo...}
 {293}{}{Yo Gran Stu.}
 {296}{}{[Te alejas en busca de aventuras].}
 {300}{}{Mi-a-mi, ¿eh? "Miami…" Me GUSTA. Me GUSTA. Está bien, hagamos un poco de daño.}
@@ -182,7 +182,7 @@
 {530}{}{¿Y qué te hace pensar que alguna vez he formado parte de un circo, y mucho menos haber sido esclavizado por uno?}
 {531}{}{Eh… bien, sé que la mayoría de los ciudadanos de Nuevo Reno actúan como salidos de un circo, y pensé…}
 {540}{}{PENSASTE que porque soy una persona de poca estatura, la única carrera que podría conseguir sería el estar confinado bajo lo que llaman 'la carpa'.}
-{541}{}{Uh... well, now...}
+{541}{}{Uh... bien, ahora...}
 {550}{}{Me miraste por ENCIMA y pensaste que podías saberlo todo sobre mi vida. Nunca se te hubiera ocurrido que una
  persona de mi altura podría haber obtenido un título en "Gestión Boxística".}
 {551}{}{Lo siento, no pretendía ofender.}
@@ -200,7 +200,7 @@
 {600}{}{He reparado en tu físico ridículamente sobre-musculado, tu enérgica actitud de aprendiz de Mad Max, tu poco imaginativa
  asignación de puntos de personaje, y he concluido que eres un "enano" a medio terminar.}
 {601}{}{He reparado en tus pechos sobre-pixelados, tu ridículo vaivén cuando caminas, tu poco imaginativa asignación de puntos de personaje, y he concluido que eres una aprendiz de Laura Kroft a medio terminar… una "munchkin".}
-{602}{}{I...}
+{602}{}{Yo...}
 {610}{}{No eres más que el típico 'modelo masculino de héroe de RPG', si lo prefieres, uno de los MUCHOS modelos que parecen llenar este
  mundo a borbotones.}
 {611}{}{No eres más que la típica 'modelo femenina de heroína de RPG', si lo prefieres, una de los MUCHOS modelos que parecen llenar este

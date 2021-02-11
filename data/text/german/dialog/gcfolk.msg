@@ -3,14 +3,14 @@
 {102}{}{Du siehst eine Gestalt, deren Haut von Radioaktivität verbrannt ist. Derartige Strahlungskonzentrationen hätten normalerweise alles getötet, aber dieser hier scheint noch ganz munter.}
 {110}{}{Die Gestalt, die du siehst, glüht leicht. Die Haut sieht ziemlich verbrannt aus.}
 {111}{}{Du siehst einen verstrahlten Ghul, einen Einwohner von Gecko.}
-{112}{}{Du siehst jemanden, der so hoher Radioaktivität ausgesetzt war, daß der Körper leicht glüht. Derartige Strahlungskonzentrationen hätten normalerweise alles getötet, aber dieser hier scheint noch ganz munter.}
-{120}{}{Danke, daß du uns vor Vault City gerettet hast.}
+{112}{}{Du siehst jemanden, der so hoher Radioaktivität ausgesetzt war, dass der Körper leicht glüht. Derartige Strahlungskonzentrationen hätten normalerweise alles getötet, aber dieser hier scheint noch ganz munter.}
+{120}{}{Danke, dass du uns vor Vault City gerettet hast.}
 {121}{}{Wenn du nicht gewesen wärst, hätten uns diese Fanatiker in Vault City umgebracht.}
 {122}{}{Du bist ein Held.}
 {123}{}{Du kannst jederzeit auf ein Gecko-Gulasch zu mir kommen.}
-{124}{}{Danke, daß du unseren Reaktor repariert hast.}
-{125}{}{Scheint jetzt kühler zu sein. Danke, daß du das Loch im Reaktor abgedichtet hast.}
-{126}{}{Danke, daß du dich um diese Wahnsinnigen in Vault City gekümmert hast.}
+{124}{}{Danke, dass du unseren Reaktor repariert hast.}
+{125}{}{Scheint jetzt kühler zu sein. Danke, dass du das Loch im Reaktor abgedichtet hast.}
+{126}{}{Danke, dass du dich um diese Wahnsinnigen in Vault City gekümmert hast.}
 {127}{}{Wenn du uns nicht geholfen hättest, hätte Vault City uns zerstört.}
 {128}{}{Du bist unser Held.}
 {129}{}{Noch mal danke.}
@@ -27,7 +27,7 @@
 {147}{}{Ich glühe vor Stolz über unseren Atomreaktor.}
 {148}{}{Wir haben hier die Kraft des Atoms gezähmt.}
 {149}{}{Irgendwann werden andere auch von unsrem Strom profitieren.}
-{150}{}{Ich bin froh, daß nicht alle Glatthäute so sind wie die in Vault City. }
+{150}{}{Ich bin froh, dass nicht alle Glatthäute so sind wie die in Vault City. }
 {151}{}{Wenn die Leute in Vault City wie du wären, hätten wir keine Probleme mit ihnen.}
 {160}{}{Hmpf, noch so eine hinterlistige Glatthaut.}
 {161}{}{Hey, Glatthaut.}
@@ -42,20 +42,20 @@
 {180}{}{War schon recht trocken in letzter Zeit.}
 {181}{}{Verdammtes Unkaut überall.}
 {182}{}{Wegen dem Atomreaktor wird's immer schlimmer mit dem Unkraut.}
-{183}{}{Ich hab gehört, daß manches Unkaut gefährlich ist.}
+{183}{}{Ich hab gehört, dass manches Unkaut gefährlich ist.}
 {184}{}{Ich hab gehört, die von den Sippen können Regnen machen.}
 {185}{}{Gute Ernte dieses Jahr.}
 {186}{}{Das Korn wächst bis auf Augenhöhe einer Deathclaw.}
 {187}{}{Gemüse ist gut für dich.}
 {188}{}{Kann bald geerntet werden.}
-{189}{}{Ein bißchen mehr Regen könnte nicht schaden.}
-{200}{}{Ich muß diese Brahmin im Auge behalten.}
-{201}{}{Diese Brahmin sind ja so süß. Mir graut schon, wenn ich sie umbringen muß.}
+{189}{}{Ein bisschen mehr Regen könnte nicht schaden.}
+{200}{}{Ich muss diese Brahmin im Auge behalten.}
+{201}{}{Diese Brahmin sind ja so süß. Mir graut schon, wenn ich sie umbringen muss.}
 {202}{}{Mir ist so langweilig.}
 {203}{}{Muh, muh, muh?}
 {204}{}{Ich bin schon zu lang hier.}
 {205}{}{Stinkst du so oder die Brahmin?}
-{206}{}{Sie schauen so, als ob sie wüßten, was kommt.}
+{206}{}{Sie schauen so, als ob sie wüssten, was kommt.}
 {207}{}{Jemand hat ihnen letzte Nacht einen Tip gegeben.}
 {208}{}{Manche sind viel niedlicher als andere.}
 {209}{}{Hmm, ich frag mich, warum niemand auf ihnen reitet.}
@@ -92,23 +92,23 @@
 {280}{}{Mann, ich liebe dich.}
 {281}{}{Du bist einfach klasse.}
 {282}{}{Wir werden Vault City mit Kernwaffen angreifen, bis es strahlt!}
-{283}{}{./~ 99 syringes of Rad-away on the wall, 99 syringes... /~}
+{283}{}{./~99 RadAway-Spritzen seh ich im Regal dort sitzen, 99 Spritzen... ./~}
 {284}{}{./~ Im Re-ak-tor arbeit' ich, arbeit' ich den ganzen Tag.... ./~}
 {285}{}{Bevor ich dich kennengelernt hab, hätt ich keiner Glatthaut getraut.}
 {286}{}{Scheint, als ob manche Glatthäute ganz OK sind.}
-{287}{}{Wir müßten Chester überreden, einen mit uns zu trinken.}
+{287}{}{Wir müssten Chester überreden, einen mit uns zu trinken.}
 {288}{}{Wenn ich mich erneuere, will ich werden wie du.}
-{289}{}{Ich bin echt froh, daß unser Reaktor funktioniert.}
-{290}{}{Ich muß einen in der Krone haben. Das Gelaber von Wooz macht langsam Sinn.}
+{289}{}{Ich bin echt froh, dass unser Reaktor funktioniert.}
+{290}{}{Ich muss einen in der Krone haben. Das Gelaber von Wooz macht langsam Sinn.}
 {291}{}{Ich glaub, ich hab mal einen Apfel gesehen... oder war's 'ne Banane?}
 {300}{}{Der Reaktor arbeitet so gut. man kann ihn fast summen hören.}
-{301}{}{Danke, daß du das mit Vault City geregelt hast.}
+{301}{}{Danke, dass du das mit Vault City geregelt hast.}
 {302}{}{Wir werden jetzt jede Menge Strom erzeugen.}
 {303}{}{Wird nicht mehr lang dauern und wir werden Strom an Vault City verkaufen.}
 {304}{}{Gott, wir werden jetzt verdammt viel Kupfer aus Redding brauchen.}
 {305}{}{Der Reaktor läuft jetzt einwandfrei. Danke.}
 {306}{}{Du bist einfach klasse.}
-{307}{}{Danke, daß du unsren Atomreaktor repariert hast.}
+{307}{}{Danke, dass du unsren Atomreaktor repariert hast.}
 {308}{}{Der Reaktor schnurrt jetzt wie geölt. Danke.}
 {309}{}{Du bist die beste Glatthaut, die mir je über den Weg gelaufen ist.}
 {320}{}{Erneuere Kamerad. Erneuere!}
@@ -120,9 +120,9 @@
 {326}{}{Erneuer das (macht eine Geste mit der Hand), Vollidiot.}
 {327}{}{Komm her, dann erneuer ich dich, Kumpel.}
 {328}{}{Man kann wirklich keinen Schritt mehr machen, ohne einem dieser verdammten Okkultisten zu begegnen.}
-{329}{}{Du wirst nie erleben, daß ich eine überdimensionale Ratte verehre.}
+{329}{}{Du wirst nie erleben, dass ich eine überdimensionale Ratte verehre.}
 {340}{}{Lenny sollte sich deine Verletzungen mal ansehn.}
-{341}{}{Du siehst ja ziemlich fertig aus. Laß dich mal von Lenny durchchecken.}
+{341}{}{Du siehst ja ziemlich fertig aus. Lass dich mal von Lenny durchchecken.}
 {342}{}{Du solltest dich einfach nicht mit Deathclaws anlegen. Schau mal bei Lenny vorbei.}
 {343}{}{Lenny ist in Harolds Büro. Er soll sich deine Verletzungen mal ansehn.}
 {344}{}{Warum siehst du bloß so zerschunden aus?}

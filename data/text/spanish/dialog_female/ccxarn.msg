@@ -6,7 +6,7 @@
 {105}{}{No, estoy aquí para rescatarte.}
 {106}{}{No lo sé. Me gustaría saber por qué estás aquí.}
 {107}{}{Que así sea. Pero no pretendo morir sin más, humano. ¡Hagamos que ésta sea una batalla para recordar!}
-{108}{}{De acuerdo.}
+{108}{}{Vale.}
 {109}{}{Espera. Cambio de idea. ¿Por qué tu aquí?}
 {110}{}{Estoy listo. Que empiece la fiesta.}
 {111}{}{Espera un momento. ¿Por qué estás aquí?}
@@ -94,7 +94,7 @@
 {193}{}{Bien. Estamos juntos en esto. ¡Saca tus garras y que comience la fiesta!}
 {194}{}{Ve por tu cuenta, amigo. Yo me largo de aquí.}
 {195}{}{Te lo agradezco, humana. ¡Vamos a patear algunos culos del Enclave! ¡Manada de Gruthar! ¡Grrrrrrrhh!}
-{196}{}{De acuerdo.}
+{196}{}{Vale.}
 {200}{}{[MÁS]}
 {201}{}{Sí. ¿Quién eres?}
 {202}{}{¿Cómo?}

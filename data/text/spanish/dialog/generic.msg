@@ -1,7 +1,7 @@
 {100}{}{Ganas }
 {101}{}{ puntos de experiencia.}
 {102}{}{Has desarmado la trampa.}
-{103}{}{No consigues desactivar la trampa.}
+{103}{}{No consigues desarmar la trampa.}
 {104}{}{Haces saltar accidentalmente la trampa.}
 {105}{}{ desarma la trampa.}
 {106}{}{ falla al desarmar la trampa.}
@@ -254,7 +254,7 @@
 {10012}{}{Necesito que te quites la armadura que llevas.}
 {10013}{}{Necesito saber qué clase de armas puedes usar.}
 {10100}{}{Vamos.}
-{20000}{}{Eso no hizo nada.}
+{20000}{}{Eso no hace nada.}
 {20100}{}{No hay cerradura en esta puerta.}
 {21020}{}{veinte}
 {30000}{}{Has robado de tu propia tribu.}

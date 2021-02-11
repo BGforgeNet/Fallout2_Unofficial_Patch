@@ -116,9 +116,9 @@ variable ValueOfRollCheck:=ROLL_FAILURE;
 #define COND028(x)              if (obj_pid(critter_inven_obj(dude_obj,INVEN_TYPE_WORN)) == PID_TESLA_ARMOR) then
 
 /* Skills */
-#define COND029(x)              if (is_success(roll_vs_skill(dude_obj,SKILL_CONVERSANT,x))) then
-#define COND030(x)              if (has_skill(dude_obj,SKILL_CONVERSANT) >= x) then
-#define COND031(x)              if (has_skill(dude_obj,SKILL_CONVERSANT) <= x) then
+#define COND029(x)              if (is_success(roll_vs_skill(dude_obj,SKILL_SPEECH,x))) then
+#define COND030(x)              if (has_skill(dude_obj,SKILL_SPEECH) >= x) then
+#define COND031(x)              if (has_skill(dude_obj,SKILL_SPEECH) <= x) then
 
 #define COND032(x)              if (is_success(roll_vs_skill(dude_obj,SKILL_BARTER,x))) then
 #define COND033(x)              if (has_skill(dude_obj,SKILL_BARTER) >= x) then
@@ -172,8 +172,8 @@ variable ValueOfRollCheck:=ROLL_FAILURE;
 /* Health */
 #define COND068(x)              if (get_poison(dude_obj) > 0) then
 #define COND069(x)              if (get_critter_stat(dude_obj,STAT_current_rad) > 0) then
-#define COND070(x)              if (get_critter_stat(dude_obj,STAT_current_hp) >= ((x * get_critter_stat(dude_obj,STAT_max_hit_points))/100)) then
-#define COND071(x)              if (get_critter_stat(dude_obj,STAT_current_hp) <= ((x * get_critter_stat(dude_obj,STAT_max_hit_points))/100)) then
+#define COND070(x)              if (get_critter_stat(dude_obj,STAT_current_hp) >= ((x * get_critter_stat(dude_obj,STAT_max_hp))/100)) then
+#define COND071(x)              if (get_critter_stat(dude_obj,STAT_current_hp) <= ((x * get_critter_stat(dude_obj,STAT_max_hp))/100)) then
 
 /* Money */
 #define COND072(x)              if (item_caps_total(dude_obj) >= x) then
@@ -356,18 +356,18 @@ variable ValueOfRollCheck:=ROLL_FAILURE;
 
 
 /* Skills */
-#define FORK029(x,Node1,Node2)              ValueOfRollCheck:=roll_vs_skill(dude_obj,SKILL_CONVERSANT,x);                       \
+#define FORK029(x,Node1,Node2)              ValueOfRollCheck:=roll_vs_skill(dude_obj,SKILL_SPEECH,x);                       \
                                             if (is_success(ValueOfRollCheck)) then                                              \
                                                 call Node1;                                                                     \
                                             else                                                                                \
                                                 call Node2
 
-#define FORK030(x,Node1,Node2)              if (has_skill(dude_obj,SKILL_CONVERSANT) >= x) then                                 \
+#define FORK030(x,Node1,Node2)              if (has_skill(dude_obj,SKILL_SPEECH) >= x) then                                 \
                                                 call Node1;                                                                     \
                                             else                                                                                \
                                                 call Node2
 
-#define FORK031(x,Node1,Node2)              if (has_skill(dude_obj,SKILL_CONVERSANT) <= x) then                                 \
+#define FORK031(x,Node1,Node2)              if (has_skill(dude_obj,SKILL_SPEECH) <= x) then                                 \
                                                 call Node1;                                                                     \
                                             else                                                                                \
                                                 call Node2
@@ -589,12 +589,12 @@ variable ValueOfRollCheck:=ROLL_FAILURE;
                                             else                                                                                \
                                                 call Node2
 
-#define FORK070(x,Node1,Node2)              if (get_critter_stat(dude_obj,STAT_current_hp) >= ((x * get_critter_stat(dude_obj,STAT_max_hit_points))/100)) then   \
+#define FORK070(x,Node1,Node2)              if (get_critter_stat(dude_obj,STAT_current_hp) >= ((x * get_critter_stat(dude_obj,STAT_max_hp))/100)) then   \
                                                 call Node1;                                                                                                      \
                                             else                                                                                                                 \
                                                 call Node2
 
-#define FORK071(x,Node1,Node2)              if (get_critter_stat(dude_obj,STAT_current_hp) <= ((x * get_critter_stat(dude_obj,STAT_max_hit_points))/100)) then   \
+#define FORK071(x,Node1,Node2)              if (get_critter_stat(dude_obj,STAT_current_hp) <= ((x * get_critter_stat(dude_obj,STAT_max_hp))/100)) then   \
                                                 call Node1;                                                                                                      \
                                             else                                                                                                                 \
                                                 call Node2

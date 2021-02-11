@@ -62,7 +62,7 @@
 {205}{}{No me junto con los de tu clase.}
 {206}{}{¿Quién te dejó entrar?}
 {207}{}{No sé por qué no te vas de la ciudad.}
-{208}{}{Por favor, déjame solo.}
+{208}{}{Por favor, déjame tranquilo.}
 {209}{}{No me molestes.}
 {210}{}{No puedo ayudarte. Márchate.}
 {211}{}{Muere en el desierto, capullo.}

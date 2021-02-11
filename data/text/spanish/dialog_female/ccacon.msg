@@ -3,7 +3,7 @@
 {102}{}{Ves a alguien que viste uniforme militar, pero parece ser más un técnico que un soldado.}
 {103}{}{Eh. ¿Qué tal te va?}
 {104}{}{"Recibido, te tengo en la mira": lo siento, pero me pillas liado con algo ahora mismo.}
-{105}{}{No puedo hablar ahora.}
+{105}{}{Ahora no puedo hablar.}
 {106}{}{Eres libre de echar un vistazo, pero no toques nada.}
 {107}{}{¿Estás tonta, andando por aquí sin uniforme? ¡Ve a vestirte!}
 {108}{}{Si el sargento te pilla sin el uniforme, te va a partir el culo.}

@@ -10,12 +10,12 @@
 {108}{}{Was hast du zu Tauschen?}
 {109}{}{Ich hab nichts zum Tauschen. Tut mir leid.}
 {110}{}{Vielleicht zu einer anderen Zeit? Mögen deine Reisen frei von Gefahr sein.}
-{111}{}{Tschüß.}
+{111}{}{Tschüss.}
 {112}{}{Wie Schade. Dann Ruhe dich aus und sei willkommen in meinem Lager.}
-{113}{}{Tschüß.}
+{113}{}{Tschüss.}
 {114}{}{Mein Schattenangebot ist zu spät für dich. Die Sonne muss dir die Worte ausgekocht haben. 
  Ich muss freundlich zu denen sein, die weniger Glücklich sind als ich. Bleib in meinem Lager solange du willst, dusseliger Einer.}
-{115}{}{Tschüß.}
+{115}{}{Tschüss.}
 {116}{}{Ungläubiger!}
 {117}{}{Warum greifst du uns an?}
 {118}{}{Ich werd die Sippe mit meinem Leben verteidigen!}

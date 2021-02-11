@@ -7,7 +7,7 @@
 {130}{}{Você vê um homem de aparência esfarrapada.}
 {131}{}{Este parece bastante forte.}
 {140}{}{Você vê um homem em roupas esfarrapadas.}
-{141}{}{He moves with suggesting speed.}
+{141}{}{Ele se move com velocidade sugestiva.}
 {150}{}{Você vê uma mulher muito suja.}
 {151}{}{Ela não parece ter se banhado.}
 {160}{}{Você vê uma mulher bem grande.}

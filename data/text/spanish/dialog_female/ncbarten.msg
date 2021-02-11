@@ -9,7 +9,7 @@
 {213}{}{Aquí hay un torniquete si lo necesitas.}
 {214}{}{No inhales el Jet todo de una vez… toma un poco, una inspiración profunda, y dale
  tiempo para que haga efecto.}
-{215}{}{You want two half ounce bags, or a canister?}
+{215}{}{Quieres dos, media onza de bolsas, o de un recipiente?}
 {216}{}{El inhalador de Jet es aparte…}
 {217}{}{Déjame adivinar: ¿lo pongo en tu cuenta?}
 {218}{}{Marchando un Nuclear con hielo.}

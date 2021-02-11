@@ -5,7 +5,7 @@
 {104}{}{Hay que joderse. Supongo que la evolución puede ir hacia atrás.}
 {105}{}{No llevas a todos tus perros con una sola correa, ¿verdad?}
 {106}{}{No tengo tiempo para ti. Creo que tienes menos luces que una cacerola.}
-{107}{}{Just a couple of clowns short of a circus, aren't you?}
+{107}{}{Sólo un par de payasos corto de un circo, no?}
 {108}{}{Hola. Me llamo Dañino Dan McGrew. Dirijo la mina Morningstar. ¿Qué puedo hacer
  por ti?}
 {109}{}{¿Qué necesitas de mí?}
@@ -198,7 +198,7 @@
 {248}{}{Todo el mundo quiere lo que Redding tiene. Pero algunas personas van a ser más agradables que otras en la
  forma de sacárnoslo. Deja que te explique la situación.}
 {249}{}{Adelante.}
-{250}{}{Ya he he oído más que suficiente de tu explicación. Adiós.}
+{250}{}{He oído suficiente de su explicación ya. Adiós.}
 {251}{}{Te pagaré 1.000 dólares por el chip de excavación.}
 {252}{}{Eso me suena bien. ¿Dónde puedo encontrarlo?}
 {253}{}{Me suena bien. Aquí tienes el chip.}
@@ -216,7 +216,7 @@
  Y estoy dispuesto a pagar 1.000 dólares por él.}
 {264}{}{¿Dónde está?}
 {265}{}{Si lo necesitas tan desesperadamente, ¿cómo es que no has ido a por él tú mismo?}
-{266}{}{Estoy hasta arriba de misiones que hacer. Lo siento, amigo. Adiós.}
+{266}{}{Estoy lleno hasta los topes con las misiones ya. Lo siento, amigo. Adiós.}
 {267}{}{Por un montón de razones, casi todas ellas hambrientas y desagradables. La mina Wanamingo está hasta arriba de wanamingos
  hambrientos.}
 {268}{}{¿Qué demonios es un wana-min-lo que sea?}

@@ -28,11 +28,11 @@
               Behälter für Bio–Gel - vollständig befüllt 
                        Organaufbewahrungseinheit - reagiert 
                            Aktivierung nicht empfohlen.}
-{116}{}{Please Wait...
-                                                           Robot Body - Replace Motivator
-                                   Biomed gel reservoirs - Full
-                                        Organic Storage Device - Not Present
-                   Activation not recommended}
+{116}{}{Bitte warten...
+                                                           Roboterträgerstruktur - Motivator austauschen 
+			             Behälter für Bio–Gel - voll 
+                  Organaufbewahrungseinheit - nicht vorhanden
+                  Aktivierung nicht empfohlen.}
 {117}{}{Bitte warten...
                                                            Roboterträgerstruktur - OK  
                                      Behälter für Bio–Gel - nachfüllen erforderlich

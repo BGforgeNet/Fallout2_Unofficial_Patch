@@ -1,9 +1,9 @@
 {100}{}{Du siehst einen streng dreinschauenden Wachmann von Vault City.}
 {101}{}{Du siehst einen fiesen Wachmann.}
 {102}{}{Los, du hast doch sicher was zu tun.}
-{103}{}{Wird Zeit, daß du verschwindest.}
-{104}{}{Mir paßt deine Visage nicht.}
-{105}{}{Paß bloß auf.}
+{103}{}{Wird Zeit, dass du verschwindest.}
+{104}{}{Mir passt deine Visage nicht.}
+{105}{}{Pass bloß auf.}
 {106}{}{Hallo Bürger.}
 {107}{}{Sei gegrüßt, Bürger.}
 {108}{}{Viel zu tun, Bürger?}

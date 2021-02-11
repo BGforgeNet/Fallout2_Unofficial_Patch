@@ -33,17 +33,11 @@
 #define NAME                    SCRIPT_ARGARDEN
 
 #include "../headers/command.h"
-#include "../sfall/define_extra.h"
-
-#define Spawn_Geckos(total, gecko_pid, mapvar)                    Spawn_Type(total, OBJ_TYPE_CRITTER, gecko_pid, SCRIPT_ACGECKO, mapvar)
-#define Spawn_Plants(total, plant_pid, plant_script, mapvar)      Spawn_Type(total, OBJ_TYPE_ITEM, plant_pid, plant_script, mapvar)
 
 procedure start;
 procedure map_enter_p_proc;
 procedure map_update_p_proc;
 
-procedure Restock;
-procedure Spawn_Type(variable total, variable type, variable object_pid, variable object_script, variable mapvar);
 procedure Make_Geckos;
 procedure Make_Plants;
 procedure Kill_Brat;
@@ -55,112 +49,146 @@ procedure start begin
 end
 
 procedure map_enter_p_proc begin
+   variable item;
+
    Lighting;
 
    if (map_var(MVAR_Last_Respawn_Map) == 0) then begin
-       call Restock;
+       set_map_var(MVAR_Last_Respawn_Map,game_time);
+       call Make_Geckos;
+       call Make_Plants;
+       if (not(tile_contains_obj_pid(24298,0,PID_XANDER_ROOT))) then begin
+           item:=create_object(PID_XANDER_ROOT,0,0);
+           move_to(item,24298,0);
+       end
    end
 
    if (((game_time - map_var(MVAR_Last_Respawn_Map)) >= ONE_GAME_DAY) and (not(is_loading_game))) then begin
-       call Restock;
+       set_map_var(MVAR_Last_Respawn_Map,game_time);
+       call Make_Geckos;
+       call Make_Plants;
+       if (not(tile_contains_obj_pid(24298,0,PID_XANDER_ROOT))) then begin
+           item:=create_object(PID_XANDER_ROOT,0,0);
+           move_to(item,24298,0);
+       end
    end
 
    if ((global_var(GVAR_ARROYO_DOG) == DOG_RUN_OFF) and (map_var(MVAR_Kill_Runaway) == 0)) then begin
-       set_map_var(MVAR_Kill_Runaway, 1);
+       set_map_var(MVAR_Kill_Runaway,1);
        call Kill_Brat;
    end
-   set_global_var(GVAR_LOAD_MAP_INDEX, 0);
+   set_global_var(GVAR_LOAD_MAP_INDEX,0);
 end
 
 procedure map_update_p_proc begin
    Lighting;
 end
 
-//Extracted procedure to reduce duplication
-procedure Restock begin
-   variable item;
-
-   set_map_var(MVAR_Last_Respawn_Map, game_time);
-   call Make_Geckos;
-   call Make_Plants;
-   if (not(tile_contains_obj_pid(HEX_XANDER, 0, PID_XANDER_ROOT))) then begin
-       item := create_object_sid(PID_XANDER_ROOT, 0, 0, SCRIPT_AIXANDER);
-       move_to(item, HEX_XANDER, 0);
-       set_map_var(MVAR_Current_Xander_Root, map_var(MVAR_Current_Xander_Root) + 1);
-   end
-end
-
-procedure Spawn_Type(variable total, variable type, variable object_pid, variable object_script, variable mapvar) begin
-   variable counter := 0;
-   variable item;
-   variable item_hex := 0;
-
-   for (counter := 0; counter < total; counter++) begin
-      Next_Hex;
-      item := create_object_sid(object_pid, 0, 0, object_script);
-      while (item_hex <= 0) do begin
-         item_hex := tile_num_in_direction(map_var(MVAR_Last_Spot), random(0, 5), random(0, 3));
-      end
-      set_map_var(mapvar, map_var(mapvar) + 1);
-      if (type == OBJ_TYPE_CRITTER) then
-         critter_attempt_placement(item, item_hex, 0);
-      else if (type == OBJ_TYPE_ITEM) then
-         move_to(item, item_hex, 0);
-      counter += 1;
-      item_hex := 0;
-   end
-end
-
 procedure Make_Geckos begin
-   variable New_Geckos := 0;
-   variable New_SmGeckos := 0;
+   variable Gecko_Counter:=0;
+   variable SmGecko_Counter:=0;
+   variable New_Geckos:=0;
+   variable New_SmGeckos:=0;
+   variable item;
+   variable item_hex;
 
 // Small Geckos
    if (map_var(MVAR_Current_Gecko_Easy) < MIN_SMALL_GECKO) then begin
-       New_SmGeckos := random(MIN_SMALL_GECKO, MAX_SMALL_GECKO);
+       New_SmGeckos:=random(MIN_SMALL_GECKO,MAX_SMALL_GECKO);
+       ndebug("Making "+New_SmGeckos+" new small Geckos.");
+       while (SmGecko_Counter < New_SmGeckos) do begin
+           Next_Hex;
+           item:=create_object_sid(PID_GECKO_SMALL,0,0,SCRIPT_ACGECKO);
+           while (item_hex <= 0) do begin
+               item_hex:=tile_num_in_direction(map_var(MVAR_Last_Spot),random(0,5),random(0,3));  //edit by killap - was 0,10 but they often spawned out of reach - expansion
+           end
+           set_map_var(MVAR_Current_Gecko_Easy,map_var(MVAR_Current_Gecko_Easy)+1);
+           critter_attempt_placement(item,item_hex,0);
+           SmGecko_Counter+=1;
+           item_hex:=0;
+       end
    end
    else if ((map_var(MVAR_Current_Gecko_Easy) >= MIN_SMALL_GECKO) and (map_var(MVAR_Current_Gecko_Easy) < MAX_SMALL_GECKO)) then begin
-       New_SmGeckos := random(0, MAX_SMALL_GECKO - MIN_SMALL_GECKO);
+       New_SmGeckos:=random(0,MAX_SMALL_GECKO-MIN_SMALL_GECKO);
+       ndebug("Making "+New_SmGeckos+" new small Geckos.");
+       while (SmGecko_Counter < New_SmGeckos) do begin
+           Next_Hex;
+           item:=create_object_sid(PID_GECKO_SMALL,0,0,SCRIPT_ACGECKO);
+           while (item_hex <= 0) do begin
+               item_hex:=tile_num_in_direction(map_var(MVAR_Last_Spot),random(0,5),random(0,3));  //edit by killap - was 0,10 but they often spawned out of reach - expansion
+           end
+           set_map_var(MVAR_Current_Gecko_Easy,map_var(MVAR_Current_Gecko_Easy)+1);
+           SmGecko_Counter+=1;
+           critter_attempt_placement(item,item_hex,0);
+           item_hex:=0;
+       end
    end
 
-   ndebug("Making " + New_SmGeckos + " new small Geckos.");
-   call Spawn_Geckos(New_SmGeckos, PID_GECKO_SMALL, MVAR_Current_Gecko_Easy);
+   item_hex:=0;
 
 // Tough small Geckos
    if (map_var(MVAR_Current_Gecko_Hard) < MIN_TOUGH_GECKO) then begin
-       New_Geckos := random(MIN_TOUGH_GECKO, MAX_TOUGH_GECKO);
+       New_Geckos:=random(MIN_TOUGH_GECKO,MIN_TOUGH_GECKO);
+       ndebug("Making "+New_Geckos+" new small tough Geckos.");
+       while (Gecko_Counter < New_Geckos) do begin
+           Next_Hex;
+           item:=create_object_sid(PID_TOUGH_GECKO_SMALL,0,0,SCRIPT_ACGECKO);
+           while (item_hex <= 0) do begin
+               item_hex:=tile_num_in_direction(map_var(MVAR_Last_Spot),random(0,5),random(0,6));  //edit by killap - was 0,10 but they often spawned out of reach - expansion
+           end
+           set_map_var(MVAR_Current_Gecko_Hard,map_var(MVAR_Current_Gecko_Hard)+1);
+           critter_attempt_placement(item,item_hex,0);
+           Gecko_Counter+=1;
+           item_hex:=0;
+       end
    end
    else if ((map_var(MVAR_Current_Gecko_Hard) >= MIN_TOUGH_GECKO) and (map_var(MVAR_Current_Gecko_Hard) < MAX_TOUGH_GECKO)) then begin
-       New_Geckos := random(0, MAX_TOUGH_GECKO - MIN_TOUGH_GECKO);
+       New_Geckos:=random(0,MAX_TOUGH_GECKO-MIN_TOUGH_GECKO);
+       ndebug("Making "+New_Geckos+" new small tough Geckos.");
+       while (Gecko_Counter < New_Geckos) do begin
+           Next_Hex;
+           item:=create_object_sid(PID_TOUGH_GECKO_SMALL,0,0,SCRIPT_ACGECKO);
+           while (item_hex <= 0) do begin
+               item_hex:=tile_num_in_direction(map_var(MVAR_Last_Spot),random(0,5),random(0,6));  //edit by killap - was 0,10 but they often spawned out of reach - expansion
+           end
+           set_map_var(MVAR_Current_Gecko_Hard,map_var(MVAR_Current_Gecko_Hard)+1);
+           critter_attempt_placement(item,item_hex,0);
+           Gecko_Counter+=1;
+           item_hex:=0;
+       end
    end
-
-   ndebug("Making " + New_Geckos + " new small tough Geckos.");
-   call Spawn_Geckos(New_Geckos, PID_TOUGH_GECKO_SMALL, MVAR_Current_Gecko_Hard);
 end
 
 procedure Make_Plants begin
-   variable Xander_Counter := 0;
-   variable New_Xanders := 0;
-   variable Broc_Counter := 0;
-   variable New_Broc := 0;
+   variable Xander_Counter:=0;
+   variable New_Xanders:=0;
+   variable Broc_Counter:=0;
+   variable New_Broc:=0;
    variable item;
    variable item_hex;
 
 // Xander Root Restock
-   if (map_var(MVAR_Current_Xander_Root) < MIN_XANDER_ROOT) then begin
-      New_Xanders := random(MIN_XANDER_ROOT, MAX_XANDER_ROOT);
-   end
-
-   ndebug("Making " + New_Xanders + " new Xander Roots.");
-   call Spawn_Plants(New_Xanders, PID_XANDER_ROOT, SCRIPT_AIXANDER, MVAR_Current_Xander_Root);
+      New_Xanders:=random(MIN_XANDER_ROOT,MAX_XANDER_ROOT);
+       ndebug("Making "+New_Xanders+" new Xander Roots.");
+       while (Xander_Counter < New_Xanders) do begin
+           Next_Hex;
+           item:=create_object(PID_XANDER_ROOT,0,0);
+           item_hex:=tile_num_in_direction(map_var(MVAR_Last_Spot),random(0,5),random(0,3)); //edit by killap - was 0,10 but they often spawned out of reach - expansion
+           move_to(item,item_hex,0);
+           Xander_Counter+=1;
+       end
 
 // Broc Flower Restock
-   if (map_var(MVAR_Current_Broc_Flower) < MIN_BROC_FLOWER) then begin
-       New_Broc := random(MIN_BROC_FLOWER, MAX_BROC_FLOWER);
-   end
+       New_Broc:=random(MIN_BROC_FLOWER,MAX_BROC_FLOWER);
+       ndebug("Making "+New_Broc+" new Broc Flowers.");
+       while (Broc_Counter < New_Broc) do begin
+           Next_Hex;
+           item:=create_object(PID_BROC_FLOWER,0,0);
+           item_hex:=tile_num_in_direction(map_var(MVAR_Last_Spot),random(0,5),random(0,3)); //edit by killap - was 0,10 but they often spawned out of reach - expansion
+           move_to(item,item_hex,0);
+           Broc_Counter+=1;
+       end
 
-   ndebug("Making " + New_Broc + " new Broc Flowers.");
-   call Spawn_Plants(New_Broc, PID_BROC_FLOWER, SCRIPT_AIBROC, MVAR_Current_Broc_Flower);
 end
 
 procedure Kill_Brat begin
@@ -169,23 +197,25 @@ procedure Kill_Brat begin
    variable gecko;
    variable spear;
 
-   cousin := create_object(PID_PRIMITIVE_VILLAGER_MALE, 0, 0);
-   gecko := create_object(PID_TOUGH_GECKO_SMALL, 0, 0);
-   spear := create_object(PID_SPEAR, 0, 0);
+   //kill_critter_type(PID_DOG,KILL_DONT_LEAVE_BODY);
 
-   critter_attempt_placement(cousin, HEX_DEAD_COUSIN, 0);
-   critter_attempt_placement(gecko, HEX_DEAD_GECKO, 0);
+   cousin:=create_object(PID_PRIMITIVE_VILLAGER_MALE,0,0);
+   gecko:=create_object(PID_TOUGH_GECKO_SMALL,0,0);
+   spear:=create_object(PID_SPEAR,0,0);
+
+   critter_attempt_placement(cousin,HEX_DEAD_COUSIN,0);
+   critter_attempt_placement(gecko,HEX_DEAD_GECKO,0);
 
    if (map_var(MVAR_Dog_Already_Dead) == 0) then begin
-       dog := create_object(PID_DOG, 0, 0);
-       critter_attempt_placement(dog, HEX_DEAD_DOG, 0);
+       dog:=create_object(PID_DOG,0,0);
+       critter_attempt_placement(dog,HEX_DEAD_DOG,0);
    end
 
-   Face_Critter(cousin, gecko);
+   Face_Critter(cousin,gecko);
 
-   add_mult_objs_to_inven(cousin, spear, 1);
+   add_mult_objs_to_inven(cousin,spear,1);
 
-   kill_critter(dog, ANIM_fall_front_blood_sf);
-   kill_critter(cousin, ANIM_fall_front_blood_sf);
-   kill_critter(gecko, ANIM_fall_back_blood_sf);
+   kill_critter(dog,ANIM_fall_front_blood_sf);
+   kill_critter(cousin,ANIM_fall_front_blood_sf);
+   kill_critter(gecko,ANIM_fall_back_blood_sf);
 end

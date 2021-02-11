@@ -27,7 +27,7 @@
 {126}{}{Creo que la presidente tiene un trabajo que hay que hacer.}
 {127}{}{La Señora Presidente no concede entrevistas referidas al Refugio 13. Lo siento. Está demasiado ocupada como para ver a cada prospector que se deja caer por aquí.}
 {128}{}{¿Eh? No lo entiendo.}
-{129}{}{What about a GECK? She might know something about that?}
+{129}{}{¿Qué acerca de un GECK? Ella puede saber algo acerca de eso?}
 {130}{}{Se habló sobre un trabajo.}
 {131}{}{Me resultas inútil. Me marcho.}
 {132}{}{Entonces te sugiero que leas la placa de la estatua del exterior. Y ahora, buenos días.}
@@ -43,7 +43,7 @@
 {142}{}{Sí.}
 {143}{}{No.}
 {144}{}{Bien, lo siento, pero la Señora Presidente está muy ocupada. ¿Por qué no vuelves cuando el trabajo esté hecho?}
-{145}{}{De acuerdo.}
+{145}{}{Vale.}
 {146}{}{¡Excelente! Avisaré de que vas.}
 {147}{}{¡Bastardo! ¡Guardias! ¡Asesino! ¡Asesino!}
 {148}{}{¡Ya de vuelta! ¿Y ahora qué?}
@@ -66,7 +66,7 @@
 {165}{}{Gracias. Que tengas un buen día.}
 {166}{}{Oh, eres tú. Mira, este no es un buen momento. De hecho, creo que la Señora Presidente preferiría que no te involucraras en nada más. Gracias y buenos días.}
 {167}{}{Te voy a hablar claro. La presidente no va a verte... ni ahora ni nunca. Se te ha pagado. Ahora simplemente vete.}
-{171}{}{Me voy, yo.}
+{171}{}{Yo ir.}
 {172}{}{Absolutamente nada.}
 {173}{}{¡Zorra! ¡Guardias! ¡Asesino! ¡Asesino!}
 {174}{}{He estado en el Refugio 15 y necesito hablarle a tu jefa sobre ello.}

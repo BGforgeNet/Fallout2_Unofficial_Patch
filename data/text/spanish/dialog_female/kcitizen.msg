@@ -46,7 +46,7 @@
 {202}{}{Saludos, forastera.}
 {203}{}{Ten cuidado con los Dunton; son peligrosos.}
 {204}{}{El barrio de los tramperos está plagado de ratas.}
-{1000}{}{Anciana}
+{1000}{}{Elder}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}

@@ -3,7 +3,7 @@
 {151}{}{Der Kerl hat nur einen Zahn.}
 {152}{}{[GESPRÄCH]}
 {153}{}{Deine Frau ist wirklich hübsch!}
-{154}{}{Laß uns zufrieden.}
+{154}{}{Lass uns zufrieden.}
 {155}{}{Magst sie, häh?}
 {156}{}{Ja.}
 {157}{}{Jo.}
@@ -11,20 +11,20 @@
 {159}{}{Na, dann los.}
 {160}{}{OK. Das macht $50.}
 {161}{}{Klar, es kostet aber $200.}
-{162}{}{Niemals! Laß uns zufrieden.}
+{162}{}{Niemals! Lass uns zufrieden.}
 {163}{}{OK.}
 {164}{}{Nein.}
 {165}{}{In Ordnung. Komm jetzt mit Billy, Schätzchen.}
 {166}{}{Nein, hau ab.}
-{167}{}{Danke. Tschüß.}
-{168}{}{Tschüß.}
+{167}{}{Danke. Tschüss.}
+{168}{}{Tschüss.}
 {169}{}{Ah, verdammt.}
 {170}{}{[Erledigt]}
 {171}{}{Ich bin vollkommen fix und fertig.}
-{172}{}{I'll come back.}
+{172}{}{Ich komm zurück.}
 {173}{}{OK.}
 {174}{}{Du bist wirklich ein hübsches Ding.}
-{175}{}{Laß mich in Ruhe.}
+{175}{}{Lass mich in Ruhe.}
 {176}{}{Gib mir $200 und du kannst mit mir allein sein.}
 {177}{}{Ich bin für $50 zu haben, Kumpel.}
 {178}{}{Hi hi. Danke.}
@@ -35,11 +35,11 @@
 {183}{}{Nerv mich nicht. Ich bin auf der Suche nach gutaussehenden Bräuten. }
 {184}{}{Viel Glück dann. Du kannst es gebrauchen.}
 {185}{}{Was bin ich, etwa gehackte Leber?}
-{186}{}{Tschüß.}
-{187}{}{Uuuh. OK. Tschüß.}
+{186}{}{Tschüss.}
+{187}{}{Uuuh. OK. Tschüss.}
 {188}{}{[schaut dich von oben bis unten an] Nein. Ich mag gehackte Leber.}
-{189}{}{Das muß ich mir von dir nicht anhören!}
-{190}{}{Entschuldige, ich muß gehen.}
+{189}{}{Das muss ich mir von dir nicht anhören!}
+{190}{}{Entschuldige, ich muss gehen.}
 {191}{}{Schade. Ich fand dich ganz süß.}
 {203}{}{Ich will mein Geld zurück. }
 {204}{}{Von mir kriegst du außer einer Kugel in den Kopf gar nichts. }
@@ -51,12 +51,12 @@
 {210}{}{Ich hab dir 'ne Chance gegeben und du hast sie vertan.}
 {211}{}{OK, aber nur noch eine Chance.}
 {212}{}{So ist's brav.}
-{213}{}{Dann muß ich dich wohl einfach umbringen.}
+{213}{}{Dann muss ich dich wohl einfach umbringen.}
 {220}{}{Hey Frankie, ich brauch mal eben dein Hinterzimmer.}
 {221}{}{Hey Frankie, guck mal wen ich mir geschnappt habe.}
 {222}{}{Äh, Frankie, wenn mich... äh... jemand sucht, ich bin hinten.}
 {223}{}{Komm mit.}
-{224}{}{Das muß jetzt warten. Ich rede später mit dir.}
+{224}{}{Das muss jetzt warten. Ich rede später mit dir.}
 {225}{}{Ich hab's nicht.}
 {300}{}{Verdammt, ich bin fix und fertig.}
 {301}{}{Juhuu.}
@@ -70,7 +70,7 @@
 {323}{}{Gut... Aber es ist dir nicht bis in die Haarspitzen geschossen.}
 {324}{}{Man soll aufhören, wenn's am schönsten ist...}
 {350}{}{Sieht so aus, als könnt ich mich wieder nützlich machen.}
-{351}{}{Paß auf, daß dir die Tür beim Rausgehen nicht auf deinen TROCKENEN HINTERN schlägt!}
+{351}{}{Pass auf, dass dir die Tür beim Rausgehen nicht auf deinen TROCKENEN HINTERN schlägt!}
 {352}{}{Zeit, zu beenden, was du noch nicht mal anfangen hast!}
 {370}{}{Oh, das ist nett.}
 {371}{}{Billy mag das.}
@@ -80,7 +80,7 @@
 {375}{}{Großer Gott.}
 {376}{}{Ich möcht weder Samen noch Dramen.}
 {377}{}{Ich spioniere mit meinem dicken Penis.}
-{390}{}{Hey, siehst du nicht, daß ich beschäftigt bin?}
+{390}{}{Hey, siehst du nicht, dass ich beschäftigt bin?}
 {391}{}{Hey, hey, raus, zum Teufel!}
 {392}{}{Hey, du hast es nicht zu Ende gebracht, also hau ab.}
 {393}{}{Besorgst du mir einen Mop und kommst in 5 Minuten wieder?}
@@ -99,8 +99,8 @@
 {511}{}{Kann das nicht warten, ich brauch unbedingt 'nen Drink.}
 {512}{}{Gut, wenn du mich sprechen willst, ich bin im Loch. }
 {513}{}{Wie wär's, wenn wir uns im Loch treffen, und ich einen ausgebe?}
-{520}{}{Tut mir leid, aber ich muß dringend nach Hause. Habe gerade ein paar neue Pornos gekriegt.}
-{521}{}{I'm uhhh, tired, please let me go home and uhhh, sleep...}
+{520}{}{Tut mir leid, aber ich muss dringend nach Hause. Habe gerade ein paar neue Pornos gekriegt.}
+{521}{}{Ich ähhh, bin müde. Bitte lass mich nachhause gehen und ähhh, schlafen...}
 {522}{}{Ich gehe rüber zu Dave. Er hat eine ganze Porno-Abteilung.}
-{530}{}{Ähhh, nee danke. Lieber schieb ich mit dem Stuhl 'ne Nummer, als daß ich noch mal sowas Ödes mitmache.}
+{530}{}{Ähhh, nee danke. Lieber schieb ich mit dem Stuhl 'ne Nummer, als dass ich noch mal sowas Ödes mitmache.}
 {540}{}{Gut, ich geb deinem Hintern noch 'ne Chance.}

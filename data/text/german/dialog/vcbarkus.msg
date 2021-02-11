@@ -7,7 +7,7 @@
 {106}{}{Das Amt für Dienerzuteilung ist geschlossen. Komm bitte morgen wieder.}
 {107}{}{Ja, Hauptmann?}
 {108}{}{Ja, Bürger?}
-{109}{}{Ja, was gibt es? Ich muß noch jede Menge Zuteilungen bearbeiten.}
+{109}{}{Ja, was gibt es? Ich muss noch jede Menge Zuteilungen bearbeiten.}
 {110}{}{Emm... Igg suck Valt!}
 {111}{}{Verzieh dich}
 {112}{}{Was ist das für ein Gebäude?}
@@ -27,11 +27,11 @@
 {125}{}{Was ist das für ein Gebäude?}
 {126}{}{Kann da jeder rein?}
 {127}{}{Ich hätt da noch 'ne andere Frage...}
-{128}{}{Danke für die Beschreibung. Tschüß.}
+{128}{}{Danke für die Beschreibung. Tschüss.}
 {129}{}{Was zum -? Bist du einer der neuen Diener}
 {130}{}{Jo}
 {131}{}{Uh-uh ich gehen.}
-{132}{}{Du bist hier wohl neu. Paß auf, ich erklär's dir... langsam.}
+{132}{}{Du bist hier wohl neu. Pass auf, ich erklär's dir... langsam.}
 {133}{}{Bürger, die Hilfe bei niederen Arbeiten benötigen, kommen hierher, um sich einen Tag lang
  einen Diener zuteilen zu lassen.}
 {134}{}{Klingt aber ziemlich nach Sklaverei.}
@@ -40,7 +40,7 @@
 {137}{}{Ich such einen bestimmten Diener... Joshua, glaub ich. Ist er hier?}
 {138}{}{Möchtest du jetzt ein paar Sklaven... äh... Diener kaufen?}
 {139}{}{Alles klar, war nur mal neugierig, danke. Schönen Tag noch.}
-{140}{}{Ich hab's so satt, daß sie mir ständig Diener ohne anständige Anweisungen schicken...*seufz*...mal sehn - du suchst die Vault? Dann bist du heute wohl da zugewiesen. Schön. Ich lasse dich dorthin bringen}
+{140}{}{Ich hab's so satt, dass sie mir ständig Diener ohne anständige Anweisungen schicken...*seufz*...mal sehn - du suchst die Vault? Dann bist du heute wohl da zugewiesen. Schön. Ich lasse dich dorthin bringen}
 {141}{}{Valt! Valt!}
 {142}{}{Wenn ich du wäre, würde ich meine Zunge im Zaum halten. Es ist KEINE Sklaverei. Wir
  kümmern uns um die Flüchtlinge und die haben bei uns ein gutes Leben... besser als das, was sie
@@ -64,7 +64,7 @@
 {156}{}{Nein, keine Skripter, du Schwachkopf.}
 {157}{}{Schwachkopf? Ich hab hart gearbeitet, um auf den Mindestfaktor 9 für Intelligenz- und
  Wahrnehmung zu kommen, um diesen Node hier zu finden. Na egal, was wolltest du sagen?}
-{158}{}{Du bist grade der Richtige, um Moralpredigten zu halten, Sklavenhändler. Mach, daß du
+{158}{}{Du bist grade der Richtige, um Moralpredigten zu halten, Sklavenhändler. Mach, dass du
  wegkommst.}
 {159}{}{Du hörst dich genau an, wie dieser Idiot Moore.. genau das, was Vault City braucht.
  Hör mal zu. Wer du auch bist, ich hab zu tun! Würdest du dich also freundlicherweise jetzt
@@ -75,41 +75,41 @@
  Richtige für dich. Es war... schwierig, ihn auszubilden. Ich bin mir nicht sicher, ob er
  überhaupt ausgebildet werden kann.}
 {163}{}{Joshua? Ich denke, wir hatten mal einen Diener dieses Namens, aber jetzt nicht mehr.}
-{164}{}{Ich muß ihn in einer die Sicherheit Vault City betreffenden Angelegenheit befragen.
+{164}{}{Ich muss ihn in einer die Sicherheit Vault City betreffenden Angelegenheit befragen.
  Sende ihn sofort zum Vorhof.}
-{165}{}{Ich möchte trotzdem, daß er mir zugeteilt wird.}
+{165}{}{Ich möchte trotzdem, dass er mir zugeteilt wird.}
 {166}{}{Schwierig?}
-{167}{}{Oh, ich möchte nicht, daß er mir zugeteilt wird. Bloß nicht. Ich habe gehört, daß er
+{167}{}{Oh, ich möchte nicht, dass er mir zugeteilt wird. Bloß nicht. Ich habe gehört, dass er
  infiziert ist.}
 {168}{}{Hmmm. Noch 'ne andere Frage...}
 {169}{}{Alles klar. Wiedersehen.}
-{170}{}{Ich glaube nicht, daß das eine gute Idee ist. Warte lieber, bis er noch weiter
+{170}{}{Ich glaube nicht, dass das eine gute Idee ist. Warte lieber, bis er noch weiter
  ausgebildet wurde. Dann werde ich es in Betracht ziehen.}
 {171}{}{Was sagst du, er ist schwierig?}
 {172}{}{Nur noch eine Frage...}
 {173}{}{Alles klar. Wiedersehen.}
 {174}{}{Ja, er ist so ungefähr der widerspenstigste Diener, den wir hier je hatten. Wenn ich's
- nicht besser wüßte, würde ich glauben, er sei der Sohn eines Brahmins.}
+ nicht besser wüsste, würde ich glauben, er sei der Sohn eines Brahmins.}
 {175}{}{Sein Verhalten könnte sich als Problem erweisen. Was, wenn die anderen Diener seinem
  Beispiel folgen?}
 {176}{}{Ich könnte ihn kaufen, dann wärt ihr ihn los. Nimmt diese Behörde hier auch... "Spenden"
  entgegen?}
 {177}{}{Nur noch eine Frage...}
 {178}{}{Alles klar. Wiedersehen.}
-{179}{}{Das stimmt. Ich mußte ihn bereits von den anderen Dienern trennen... und gestern besaß
+{179}{}{Das stimmt. Ich musste ihn bereits von den anderen Dienern trennen... und gestern besaß
  einer der Diener tatsächlich die Frechheit, eine meiner Anweisungen in Frage zu stellen.}
 {180}{}{Du solltest ihn freilassen, bevor es noch schlimmer wird.}
 {181}{}{Joshua? Ja, wir haben einen Diener dieses Namens. Er wurde kürzlich aus der
  Umerziehungsanstalt entlassen, glaube ich. Warum interessierst du dich für ihn?}
 {182}{}{Ich möchte über seine Freilassung verhandeln. }
-{183}{}{Ich befürchte, daß er eine ansteckende Krankheit hat. Du solltest ihn besser freilassen,
+{183}{}{Ich befürchte, dass er eine ansteckende Krankheit hat. Du solltest ihn besser freilassen,
  bevor er die anderen Diener ansteckt.}
 {184}{}{Nur so. Ich hätte da noch ein paar weitere Fragen...}
 {185}{}{Alles klar. Wiedersehen.}
 {186}{}{Ach tatsächlich? Und wieso sollte ich ihn freilassen?}
 {187}{}{Eine beträchtliche Spende für den Betriebsmittelfond des Amts für Dienerzuteilung,
  vielleicht?}
-{188}{}{Ich befürchte, daß er eine ansteckende Krankheit hat. Du solltest ihn besser freilassen,
+{188}{}{Ich befürchte, dass er eine ansteckende Krankheit hat. Du solltest ihn besser freilassen,
  bevor er die anderen Diener ansteckt.}
 {189}{}{Nur so. Ich hätte da noch ein paar weitere Fragen...}
 {190}{}{Alles klar. Wiedersehen.}
@@ -123,7 +123,7 @@
 {198}{}{Verstehe. Ich komm vielleicht später noch mal wieder.}
 {199}{}{Verstehe. Ich komm vielleicht später noch einmal wieder, wenn ich über die Mittel für
  eine Spende verfüge.}
-{200}{}{Naja, ein bißchen mehr könnt's schon sein, aber es reicht. Ich werde dafür sorgen, daß
+{200}{}{Naja, ein bisschen mehr könnt's schon sein, aber es reicht. Ich werde dafür sorgen, dass
  dieser Joshua, den du angefordert hast, zur weiteren Verfügung in den Vorhof überstellt wird. 
  Einen Moment, ich veranlasse eben alles Erforderliche.}
 {201}{}{OK.}
@@ -131,8 +131,8 @@
  restlichen Außenweltlern in den Vorhof gebracht.}
 {203}{}{Danke. Ich hätte da noch ein paar Fragen...}
 {204}{}{Sehr schön. Dann geh ich ihn jetzt da abholen.}
-{205}{}{Sounds good. Hopefully, he won't make his way back into the city.}
-{206}{}{Tatsächlich? Weißt du nicht, daß alle Diener sorgfältig überprüft werden, bevor sie in
+{205}{}{Klingt gut. Hoffentlich schlüpft er nicht wieder irgendwie in die Stadt rein.}
+{206}{}{Tatsächlich? Weißt du nicht, dass alle Diener sorgfältig überprüft werden, bevor sie in
  das Zuteilungszentrum eingelassen werden?}
 {207}{}{Vielleicht irre ich mich. Aber ich möchte trotzdem über seine Freilassung verhandeln.}
 {208}{}{Hast du schon mal was vom }
@@ -143,9 +143,9 @@
  aufgefallen? Ihre allgemeine Griesgrämigkeit?}
 {212}{}{Das ist barer Unsinn. Wenn du jetzt endlich damit fertig wärst, meine Zeit mit deinen
  Lügen zu vergeuden...}
-{213}{}{OK, vergiß das "}
+{213}{}{OK, vergiss das "}
 {214}{}{-Syndrom". Aber ich möchte trotzdem über Joshuas Freilassung verhandeln.}
-{215}{}{Dann vergiß es. Ich hätte da noch ein paar Fragen...}
+{215}{}{Dann vergiss es. Ich hätte da noch ein paar Fragen...}
 {216}{}{Ich geh ja schon. Schönen Tag noch.}
 {217}{}{Infiziert? Infiziert mit was?}
 {218}{}{Symptome? Was für Symptome?}
@@ -154,7 +154,7 @@
  das Anfangsstadium.}
 {220}{}{Äh...}
 {221}{}{-Syndrom. Viele Außenweltler leiden darunter. Zu den Symptomen zählt auch, ähh, sprechen,
- ohne daß man dazu aufgefordert wurde. Und daß man sich flegelhaft ausdrückt.}
+ ohne dass man dazu aufgefordert wurde. Und dass man sich flegelhaft ausdrückt.}
 {222}{}{Hmmmm. Das wär's noch, wenn sich die Bürger anfangen würden, sich über Probleme mit den
  Dienern zu beschweren... na schön, ich werde Joshua sofort freilassen. Einen Moment, ich
  veranlasse eben alles Erforderliche...}
@@ -183,27 +183,28 @@
 {238}{}{Das ist ein fairer Preis. Der Diener gehört dir.}
 {239}{}{Den wollt ich eigentlich im Moment nicht verkaufen. Ich hatte da ein paar Fragen an
  dich...}
-{240}{}{Den will ich im Moment nicht verkaufen. Laß uns ein anderes Mal Geschäfte machen.}
+{240}{}{Den will ich im Moment nicht verkaufen. Lass uns ein anderes Mal Geschäfte machen.}
 {241}{}{Auch gut. Ich hätt da aber trotzdem noch ein paar Fragen...}
 {242}{}{OK. Dann ein anderes Mal, wenn ich was Besseres im Angebot habe.}
-{243}{}{Nein, finde ich nicht...250, oder vergiß es.}
+{243}{}{Nein, finde ich nicht...250, oder vergiss es.}
 {244}{}{Nein, der Junge sieht so aus, als ob er schwierig auszubilden wäre...200 oder gar nichts.}
 {245}{}{Überleg mal. Das wird 'ne ganze Woche dauern, den Geruch von dem Sippenhannes hier
- wegzukriegen. 100 oder vergiß es.}
-{246}{}{You can't even promise me that he won't have a heart attack once he leaves your care. He's old. 100 or nothing.}
+ wegzukriegen. 100 oder vergiss es.}
+{246}{}{Wer garantiert mir, dass er nicht in 10 Minuten einen Herzinfarkt kriegt? Er ist alt.
+ 100 oder gar nichts.}
 {247}{}{OK, das ist fair. Der Diener gehört dir.}
-{248}{}{Dann vergiß es. Ich hab da noch ein paar Fragen an dich...}
+{248}{}{Dann vergiss es. Ich hab da noch ein paar Fragen an dich...}
 {249}{}{Dann wird nichts draus. Kann mir nicht leisten, meinen Diener für den Preis abzustoßen.
  Vielleicht ein anderes Mal.}
 {250}{}{Hmmmm... Sie sieht wie ein gesundes Exemplar aus... vielleicht lasse ich sie hier bei mir
  arbeiten. 500 Dollar. Und das ist mein letztes Angebot. }
 {251}{}{Hmmmm. Er ist ein gesundes Exemplar. Gut. 400 Dollar dann.}
-{252}{}{Hmmmm. Na gut. Dann 200 Dollar. Aber jetzt Schluß mit dem Feilschen.}
+{252}{}{Hmmmm. Na gut. Dann 200 Dollar. Aber jetzt Schluss mit dem Feilschen.}
 {253}{}{Hmmmmmmm. 200 Dollar. Und nicht einen Dollar mehr.}
 {254}{}{Das ist fair. Der Diener gehört dir.}
 {255}{}{Den wollt ich eigentlich im Moment nicht verkaufen. Ich hatte da ein paar Fragen an
  dich...}
-{256}{}{Den will ich im Moment nicht verkaufen. Laß uns ein anderes Mal Geschäfte machen.}
+{256}{}{Den will ich im Moment nicht verkaufen. Lass uns ein anderes Mal Geschäfte machen.}
 {257}{}{Hervorragend. Hier ist dein Geld. Ich werde sie erst mal medizinisch untersuchen und
  behandeln lassen.}
 {258}{}{Hervorragend. Hier ist dein Geld. Ich werde ihn erst mal medizinisch untersuchen und
@@ -221,8 +222,8 @@
 {264}{}{Tja, Diener bleibt Diener... Ich wollt dich noch was anderes fragen...}
 {265}{}{Wirklich? Ich denke, sie werden im Lauf der Zeit schon gefügiger werden. Bist du an
  irgendeiner anderen Begleitung interessiert?}
-{266}{}{Ja, die können anfangs ein bißchen schwierig sein. Aber sie werden sich schon dran
+{266}{}{Ja, die können anfangs ein bisschen schwierig sein. Aber sie werden sich schon dran
  gewöhnen. Schönen Tag noch.}
-{267}{}{Was machst du denn hier? Ich hab dich doch zur Vault geschickt! Das ist doch... Na schön, ich laß dich von jemandem wieder hinbringen.}
+{267}{}{Was machst du denn hier? Ich hab dich doch zur Vault geschickt! Das ist doch... Na schön, ich lass dich von jemandem wieder hinbringen.}
 {268}{}{Oh-keeehh}
 {269}{}{Du hast Barkus dazu überredet, Joshua freizulassen.}

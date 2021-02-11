@@ -86,7 +86,7 @@
 {613}{}{Drei - Don't Line-Wetten gewinnen.}
 {614}{}{Zwölf - Schiebt die Don't Line-Wetten.}
 {620}{}{Proposition-Wette 7}
-{621}{}{Prop bet double 3s}
+{621}{}{Proposition-Wette 3er Pasch}
 {622}{}{Proposition-Wette 4er Pasch}
 {623}{}{Proposition-Wette 5er Pasch}
 {624}{}{Proposition-Wette 2er Pasch}
@@ -128,7 +128,7 @@
 {702}{}{Spiel nicht}
 {710}{}{Würfel1:}
 {711}{}{Würfel2:}
-{712}{}{Tut mir leid, ich muß gehn.}
+{712}{}{Tut mir leid, ich muss gehn.}
 {713}{}{Nein, danke, ich möchte nicht setzen.}
 {714}{}{Points sind off.}
 {800}{}{Gewinnquote auf Spielnummern nehmen.}

@@ -40,19 +40,19 @@
 {186}{}{Balthas}
 {187}{}{Davin}
 {188}{}{Joshua}
-{189}{}{Don't you trust me Jonny?}
+{189}{}{No puedes confiar en mí Jonny?}
 {190}{}{Hmm… no. Gracias por traer de vuelta a mi perro, pero ahora tengo que irme. Adiós.}
 {191}{}{Me alegro de haberte conocido, pero ahora tengo que irme. Adiós.}
-{192}{}{That's right! Yipee! I'm going home. Ask Vegeir if it's all right for you to take me home. He's been
- so nice to me, I don't want to leave until he says it's all right. Please hurry, I'm homesick.}
+{192}{}{Eso es correcto! Yipee! Me voy a casa. Pedir Vegeir si es del todo correcto para que me lleve a casa. Él ha sido
+ tan bueno conmigo, no quiero salir hasta que él dice que todo está correcto. Por favor, date prisa, estoy nostálgico.}
 {193}{}{Vale señor, le creo. Pregúntele a Vegeir si puede llevarme a casa. Se ha portado muy bien conmigo, y no quiero irme hasta que diga que puedo hacerlo.}
 {194}{}{Vale señora, la creo. Pregúntele a Vegeir si puede llevarme a casa. Se ha portado muy bien conmigo, y no quiero irme hasta que diga que puedo hacerlo.}
 {195}{}{No. Ahora voy a ir a jugar con mis amigos. Adiós.}
 {196}{}{Se supone que no debo hablar con extraños. Adiós.}
 {197}{}{¡Eso es! ¿Cómo lo has sabido? Laddie ha debido decírtelo. Es un perro tan listo.}
 {198}{}{Tu madre y tu padre me han enviado a buscarte.}
-{199}{}{You're coming with me kid. There's a reward for bringing you back.}
+{199}{}{Vas a venir conmigo de niño. Hay una recompensa por traer de vuelta.}
 {200}{}{Sí, creo que es lo mejor. Aunque confío en ti, estoy seguro de que Vegeir tan sólo quiere asegurarse de que vuelvo a casa sano y salvo. Gracias por tu ayuda.}
 {201}{}{Por favor, date prisa. Quiero volver a casa.}
 {202}{}{¡No! ¡No te creo! ¡Devuélveme a mi perro! [¡Buaaaaaa!]}
-{203}{}{Oh no! Don't you know Rose uses dog in her dishes! Laddie is probably a burger by now.}
+{203}{}{Oh no! No sabes Rose utiliza perro en sus platos! Laddie es, probablemente, una hamburguesa por ahora.}

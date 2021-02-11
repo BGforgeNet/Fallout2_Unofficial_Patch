@@ -364,7 +364,6 @@ procedure Node920 begin
       dude_caps_adjust(-5);
       item:=create_object(PID_GAMMA_GULP_BEER,0,0);
       add_obj_to_inven(dude_obj,item);
-      //use_obj_on_obj(create_object(PID_GAMMA_GULP_BEER,0,0), dude_obj);
 
       //killap
       Reply(723);
@@ -385,7 +384,6 @@ procedure Node922 begin
       dude_caps_adjust(-12);
       item:=create_object(PID_ROENTGEN_RUM,0,0);
       add_obj_to_inven(dude_obj,item);
-      //use_obj_on_obj(create_object(PID_ROENTGEN_RUM,0,0), dude_obj);
 
       //killap
       Reply(723);
@@ -405,7 +403,6 @@ procedure Node924 begin
       dude_caps_adjust(-35);
       item:=create_object(PID_GAMMA_GULP_BEER,0,0);
       add_obj_to_inven(dude_obj,item);
-      //use_obj_on_obj(create_object(PID_GAMMA_GULP_BEER,0,0), dude_obj);
       set_local_var(LVAR_drink_round, local_var(LVAR_drink_round) + 1);
       if (local_var(LVAR_drink_round) == 1) then begin
          set_map_var(MVAR_Round_Of_Drinks,1);
@@ -423,9 +420,7 @@ procedure Node924 begin
       end
       else begin
          set_local_var(LVAR_drink_round,4);
-         //drink_round:=4;
       end
-      //call Node999;
 
       //killap
       Reply(731);

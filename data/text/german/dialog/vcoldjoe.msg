@@ -6,18 +6,18 @@
 {105}{}{Ja, das ist schon lange her. Was hast du so getrieben?}
 {106}{}{Dieses und jenes. Woher kennst du mich?}
 {107}{}{Hör mal, Alter. Ich hab nicht die geringste Ahnung, wer du bist.}
-{108}{}{Jaja. Bin viel herumgekommen. Zum Schluß bin ich hier an diesem gottverlassenen Ort
+{108}{}{Jaja. Bin viel herumgekommen. Zum Schluss bin ich hier an diesem gottverlassenen Ort
  gelandet. Ist eben alles nicht mehr so wie früher. Nee, wirklich...}
 {109}{}{Ja die guten alten Zeiten. Ich erinnere mich noch, als wir mal...}
 {110}{}{Ist jedenfalls alles nicht mehr das, was es mal war. Also, was haben wir denn zusammen
  gemacht?}
-{111}{}{Du erinnerst dich nicht an mich, was? Naja, du siehst auch noch 'n bißchen zu jung aus.}
+{111}{}{Du erinnerst dich nicht an mich, was? Naja, du siehst auch noch 'n bisschen zu jung aus.}
 {112}{}{Was versuchst du mir eigentlich die ganze Zeit zu sagen?}
-{113}{}{Aber du kommst mir trotzdem irgendwie bekannt vor. Naja, muß an meinen alten Augen
+{113}{}{Aber du kommst mir trotzdem irgendwie bekannt vor. Naja, muss an meinen alten Augen
  liegen. Na, jedenfalls schönen Tag noch.}
 {114}{}{Äh, ja. Wiedersehn.}
 {115}{}{Klar, wir haben dem Meister schön eingeheizt, stimmt's? Trotzdem brach alles auseinander,
- nachdem du weg warst. Mußte abhauen und meinen Namen ändern. Wo bist du schließlich gelandet?}
+ nachdem du weg warst. Musste abhauen und meinen Namen ändern. Wo bist du schließlich gelandet?}
 {116}{}{Ich hab in einem kleinen Dorf gelebt.}
 {117}{}{Hör, mal, sei hier lieber vorsichtig. Es ist alles nicht mehr so einfach, wie's mal war.
  Halt dir den Rücken frei.}
@@ -26,11 +26,11 @@
  ein paar gute Nachrichten für deinen alten Freund Ian?}
 {120}{}{Ian?}
 {121}{}{Ja, Ian. Kennst du mich nicht mehr? Ist schon 'n paar Jährchen her. Aber normalerweise
- vergißt man doch seinen besten Kumpel nicht. Naja, bis auf die Sache mit dem Schuß in den
+ vergisst man doch seinen besten Kumpel nicht. Naja, bis auf die Sache mit dem Schuss in den
  Rücken. Du, ich sag's noch mal: Tut mir wirklich leid.}
 {122}{}{Tut mir leid, aber du hältst mich wohl für den Vaultbewohner. Mein Dorf wurde
  von ihm gegründet.}
-{123}{}{Ja, das macht schon etwas mehr Sinn. Gut zu hören, daß mein Freund Erfolg gehabt hat. Hör
+{123}{}{Ja, das macht schon etwas mehr Sinn. Gut zu hören, dass mein Freund Erfolg gehabt hat. Hör
  zu, der alte Ian gibt dir jetzt einen Rat. Gib acht dort draußen. Das ist hier nicht so
  idyllisch, wie's aussieht. }
 {124}{}{Was läuft hier?}
@@ -39,9 +39,9 @@
  drüber geht. Besser, man sieht dich nicht mit mir verrücktem altem Mann reden. Am besten machst
  du dich jetzt davon.}
 {126}{}{Danke für die Hilfe.}
-{127}{}{Laß mich alten Mann in Frieden.}
+{127}{}{Lass mich alten Mann in Frieden.}
 {128}{}{So vertraut...}
-{129}{}{Laß mich jetzt in Ruhe.}
+{129}{}{Lass mich jetzt in Ruhe.}
 {130}{}{Besser du gehst jetzt.}
-{131}{}{Die werden mißtrauisch, wenn wir weiter reden.}
+{131}{}{Die werden misstrauisch, wenn wir weiter reden.}
 {132}{}{Na los. Wird's bald! Und enttäusche mich nicht.}

@@ -3,7 +3,7 @@
 {102}{}{An diesem Typ ist alles normal - der Inbegriff eines Bürohengstes.}
 {103}{}{Willkommen im Kongreßgebäude. Was kann ich für dich tun?}
 {104}{}{Aha, da bist du ja wieder. Wie kann ich dir diesmal helfen?}
-{105}{}{Now, what can I do for you?}
+{105}{}{Nun, was kann ich für dich tun?}
 {106}{}{Ähhh...}
 {107}{}{Ich zu Tandi?}
 {108}{}{Ich zu Tandi?}
@@ -41,20 +41,20 @@
 {140}{}{Das kannst du ihr gleich persönlich sagen. Rede einfach mal mit Gunther.}
 {141}{}{Klingt nicht allzu gut. Und jetzt entschuldige mich bitte, ich habe noch zu arbeiten.}
 {142}{}{Ich habe ihr etwas mitzuteilen.}
-{143}{}{Na wunderbar. Sag ihr, daß in ihrem Büro ein Spion ist.}
-{144}{}{Sag ihr einfach, daß ich mit ihr reden möchte. Klar?}
+{143}{}{Na wunderbar. Sag ihr, dass in ihrem Büro ein Spion ist.}
+{144}{}{Sag ihr einfach, dass ich mit ihr reden möchte. Klar?}
 {145}{}{Da kann ich dir leider nicht weiterhelfen.}
 {146}{}{(Weiter)}
 {147}{}{Macht ja nichts. Mein Fehler. 13, sagtest du? Ich hab davon keine Ahnung.}
 {148}{}{(Weiter)}
 {149}{}{Ich Problem weg. Töten bösen Mann. Wollen Geld.}
-{150}{}{Sag ihr, daß ich das Problem mit den illegalen Siedlern gelöst habe.}
+{150}{}{Sag ihr, dass ich das Problem mit den illegalen Siedlern gelöst habe.}
 {151}{}{Darion ist tot? Oh, ich bitte um Verzeihung. Geh einfach rein.}
 {152}{}{Tatsächlich? Wenn das mal keine gute Nachricht ist! Hast du sonst noch was in Erfahrung bringen können?}
 {153}{}{Nein.}
 {154}{}{Ja, da wäre noch was - es geht um einen Spion.}
-{155}{}{Was für eine Erlei- ich meine, ich bin froh, daß alles vorbei ist. Geh einfach rein.}
+{155}{}{Was für eine Erlei- ich meine, ich bin froh, dass alles vorbei ist. Geh einfach rein.}
 {500}{}{Entschuldige, aber du kannst ohne Erlaubnis nicht hinein.}
-{501}{}{Ich muß dich darum bitten, deine Einmischungsversuche zu unterlassen.}
-{502}{}{Das ist meine letzte Warnung: Geh, oder ich muß andere Saiten aufziehen.}
+{501}{}{Ich muss dich darum bitten, deine Einmischungsversuche zu unterlassen.}
+{502}{}{Das ist meine letzte Warnung: Geh, oder ich muss andere Saiten aufziehen.}
 {503}{}{Wache, bitte entfernt diesen "Gast".}

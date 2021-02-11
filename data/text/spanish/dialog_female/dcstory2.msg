@@ -1,7 +1,7 @@
 {100}{}{Ves a una parroquiana.}
 {101}{}{Ves a Stacy.}
 {102}{}{Parece un poco triste.}
-{103}{}{¡Para!}
+{103}{}{¡Déjalo!}
 {104}{}{¿Cómo te atreves?}
 {105}{}{¡Aléjate de mi!}
 {106}{}{¿Por qué?}
@@ -13,7 +13,7 @@
 {112}{}{Lo siento, no se me ocurre nada más de interés que decir.}
 {113}{}{Tengo el cerebro seco.}
 {114}{}{Eso es todo.}
-{115}{}{Buenas.}
+{115}{}{Hola.}
 {116}{}{¿Aún no has ido a ver a Mamá?}
 {117}{}{Oh, hola.}
 {118}{}{Oh, tú otra vez.}
@@ -47,7 +47,7 @@
 {152}{}{Qué raro.}
 {153}{}{Mimosa solía ayudarme a dormir por la noche. Pienso en ella cada vez que me voy a la cama.}
 {154}{}{Qué bien.}
-{155}{}{Sigue.}
+{155}{}{Continúa.}
 {156}{}{Estaba conmigo cuando era pequeña, pero desapareció. Entonces no supe lo que le había pasado, era demasiado joven.}
 {157}{}{¿Por qué?}
 {158}{}{Bueno, entonces la comida era escasa y la gente tenía que comer. Es bastante triste...}

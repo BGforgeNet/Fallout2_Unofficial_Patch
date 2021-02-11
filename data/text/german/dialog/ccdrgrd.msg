@@ -12,10 +12,10 @@
 {110}{}{Ich soll hier das Büro des Kommandanten putzen.}
 {111}{}{Macht nichts.}
 {112}{}{Dies ist das Büro des Basiskommandanten. Dem Personal ist der Zutritt zu diesem Bereich
- nicht gestattet. Ich muß dich bitten zu gehen.}
+ nicht gestattet. Ich muss dich bitten zu gehen.}
 {113}{}{Ich was erledigen mit Kommandant.}
 {114}{}{Wie du willst.}
-{115}{}{Ich muß etwas mit dem Kommandanten erledigen.}
+{115}{}{Ich muss etwas mit dem Kommandanten erledigen.}
 {116}{}{Also gut.}
 {117}{}{Um welche Angelegenheit dreht es sich?}
 {118}{}{Äh...}
@@ -23,13 +23,13 @@
 {120}{}{Egal. Ich gehen}
 {121}{}{Also...}
 {122}{}{Äh, wir haben einen Anruf von der Sicherheitsabteilung erhalten. Die scheinen sich Sorgen
- zu machen, daß der Tankerschlüssel in falsche Hände gerät. Wir sollen ihn wegsperren.}
+ zu machen, dass der Tankerschlüssel in falsche Hände gerät. Wir sollen ihn wegsperren.}
 {123}{}{Ich verschwinde.}
-{124}{}{Das ist die letzte Warnung. Ich muß dich bitten, diesen Bereich zu verlassen.}
+{124}{}{Das ist die letzte Warnung. Ich muss dich bitten, diesen Bereich zu verlassen.}
 {125}{}{OK.}
 {126}{}{Ach...Teufel. Ich schießen frei.}
 {127}{}{Zur Hölle. Ich schieß mir den Weg frei.}
-{128}{}{Was? Oh, kapiert. Du hast Mist gebaut und Dornan läßt dich jetzt Putzdienst machen.}
+{128}{}{Was? Oh, kapiert. Du hast Mist gebaut und Dornan lässt dich jetzt Putzdienst machen.}
 {129}{}{Ja...ich Mist...und...igitt.}
 {130}{}{[Zu sich selber] Kommandant. Reinigungsdienst ist hier. [Pause] Jawohl, Sir. [Sieht dich
  an] Rein mit dir.}
@@ -50,7 +50,7 @@
  an] Rein mit dir.}
 {142}{}{Du bist zu früh dran. Komm später wieder.}
 {143}{}{OK.}
-{144}{}{Dann geh zurück zur Kommandozentrale und laß den Befehl ausdrucken.}
+{144}{}{Dann geh zurück zur Kommandozentrale und lass den Befehl ausdrucken.}
 {145}{}{OK.}
 {146}{}{Du suchst bestimmt die Waffenkammer. Zurück in den Flur, dann rechts und die erste Tür
  links. Dort kriegst du deine Ausrüstung.}

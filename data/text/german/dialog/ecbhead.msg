@@ -1,7 +1,7 @@
 {100}{}{Du siehst ein großes Steinmonument, das scheinbar...vor sich hinmurmelt.}
-{101}{}{Du siehst ein Steinmonument. Es ist der Kopf des Vaultbewohners. Eine ziemlich schmeichelhafte Ähnlichkeit, obwohl du bezweifelst, daß der Kopf des Vaultbewohners tatsächlich so groß war.}
+{101}{}{Du siehst ein Steinmonument. Es ist der Kopf des Vaultbewohners. Eine ziemlich schmeichelhafte Ähnlichkeit, obwohl du bezweifelst, dass der Kopf des Vaultbewohners tatsächlich so groß war.}
 {102}{}{Du siehst ein großes Steinmonument.}
-{103}{}{Du siehst ein Steinmonument. Es ist der Kopf des Vaultbewohners. Eine ziemlich schmeichelhafte Ähnlichkeit, obwohl du bezweifelst, daß der Kopf des Vaultbewohners tatsächlich so groß war.}
+{103}{}{Du siehst ein Steinmonument. Es ist der Kopf des Vaultbewohners. Eine ziemlich schmeichelhafte Ähnlichkeit, obwohl du bezweifelst, dass der Kopf des Vaultbewohners tatsächlich so groß war.}
 {104}{}{Verdammte Touristen...}
 {105}{}{"Ich bin das Auserwählte Wesen". Was'n Scheiss.}
 {106}{}{Wenn ich du wär, "Auserwähltes Wesen", würd ich hier lieber verschwinden.}
@@ -15,8 +15,8 @@
 {114}{}{Ich bin sicher, diese steinefressenden Ameisen werden jeden Moment da sein und mich fressen.}
 {115}{}{"Ein großer Steinkopf sein! Die Welt sehn!" Was für ein Mist.}
 {116}{}{Es ist mir schleierhaft, wie ich hier in der Wüste gelandet bin.}
-{117}{}{Ich weiß immer noch nicht, wieso ich hier in der Wüste stehn muß während dieser andere Kopf im Dorf rumsteht.}
-{118}{}{Ich mein, er wird verehrt und gesäubert und angebetet...und ich muß den ganzen Tag auf Sand starren.}
+{117}{}{Ich weiß immer noch nicht, wieso ich hier in der Wüste stehn muss während dieser andere Kopf im Dorf rumsteht.}
+{118}{}{Ich mein, er wird verehrt und gesäubert und angebetet...und ich muss den ganzen Tag auf Sand starren.}
 {119}{}{Die Jungs auf der Osterinsel haben's echt gut.}
 {120}{}{Stonehenge hat bestimmt viel mehr Besucher als ich.}
 {121}{}{Hrnnfff...uh-uh, Mama...heut ist keine Schule...Zsnzzzzz}

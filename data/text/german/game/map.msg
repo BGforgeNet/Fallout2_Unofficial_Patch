@@ -517,7 +517,7 @@
 {651}{}{Desert}
 {652}{}{Desert}
 {653}{}{Entrance}
-{654}{}{Downstairs}
+{654}{}{Treppe runter}
 {655}{}{Desert}
 {656}{}{}
 {657}{}{}

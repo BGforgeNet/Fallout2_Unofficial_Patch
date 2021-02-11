@@ -191,7 +191,7 @@ procedure talk_p_proc begin
          call Node004;
       end else if ((myron_left_stables) or (myron_dead)) then begin
          start_dialog_at_node(Node032);
-      end else if ( (myron_permission) or (myron_date) ) then begin
+      end else if ( (myron_permission) or (myron_date) or (self_family == dude_family)) then begin
          start_dialog_at_node(Node031);
       end else begin
          start_dialog_at_node(Node018);

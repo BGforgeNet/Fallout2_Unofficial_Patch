@@ -1,7 +1,7 @@
 {100}{}{Du siehst eine Person in einem Vaultähnlichen Anzug.}
 {101}{}{Du siehst einen Bürger der Enklave.}
 {102}{}{Du siehst einen bleichen, doch gesunden Bürger.}
-{103}{}{Kann mich ein bißchen ausruhen.}
+{103}{}{Kann mich ein bisschen ausruhen.}
 {104}{}{Was für ein Sicherheitsfilm heute wohl läuft.}
 {105}{}{Was bist du?}
 {106}{}{Das Wetter hier ist immer gleich.}
@@ -10,7 +10,7 @@
 {109}{}{Meine nächste Schicht ist erst in ein paar Stunden.}
 {110}{}{Gott segne Amerika.}
 {111}{}{Das Projekt ist unsere Rettung.}
-{112}{}{Bin ich froh, daß ich nicht auf dem Festland bin.}
+{112}{}{Bin ich froh, dass ich nicht auf dem Festland bin.}
 {113}{}{Nur eine Übung.}
 {114}{}{Was soll der Lärm?}
 {115}{}{Das ist der Reaktoralarm.}
@@ -27,10 +27,10 @@
 {126}{}{Die Luft verbrennt meinen Hals.}
 {127}{}{Mann, hab ich vielleicht Sodbrennen.}
 {128}{}{Meine Lungen brennen.}
-{129}{}{Ich glaub, ich brauch ein bißchen frische Luft.}
+{129}{}{Ich glaub, ich brauch ein bisschen frische Luft.}
 {130}{}{Wird's hier drin dunkler?}
-{131}{}{So müde, muß mich ausruhen.}
-{132}{}{Ich glaub, ich setz mich ein bißchen hin.}
+{131}{}{So müde, muss mich ausruhen.}
+{132}{}{Ich glaub, ich setz mich ein bisschen hin.}
 {133}{}{Noch eine Übung?}
 {134}{}{Ich glaub, ich hab Schüsse gehört.}
 {135}{}{He, wer bist du?}
@@ -40,7 +40,7 @@
 {139}{}{Mach dir da keine Sorgen.}
 {140}{}{Die Soldaten kümmern sich um uns.}
 {141}{}{Wo ist ein Soldat, wenn man mal einen braucht.}
-{142}{}{Ich muß nur ruhig bleiben, ganz ruhig.}
+{142}{}{Ich muss nur ruhig bleiben, ganz ruhig.}
 {143}{}{Damit werde ich nie fertig.}
 {144}{}{Ich wär lieber woanders.}
 {145}{}{Die Puppe am Terminal war richtig süß.}

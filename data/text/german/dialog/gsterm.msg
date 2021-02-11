@@ -16,7 +16,7 @@
 {132}{}{Ein Roboter, hm? Mal sehen, was ich dazu rausfinde.}
 {133}{}{Abmelden.}
 {140}{}{Dieses Terminal ist zum Eingeben von Befehlen für die Wartungs- und Reparatureinheit des Roboters, die dem Poseidon-Ölreaktor Nr. 5 zugewiesen ist. Und man hat außerdem Zugriff auf PoseidoNet.}
-{141}{}{Ein Roboter? Mal sehen, was sich damit machen läßt.}
+{141}{}{Ein Roboter? Mal sehen, was sich damit machen lässt.}
 {142}{}{Ein Netzwerk, hm? Mal sehen, ob ich darauf zugreifen kann.}
 {143}{}{Abmelden.}
 {150}{}{Fl>)$#_~)u-*+$#\)_+@#$%-0? %#$ (dkhdsdsklfjsd? Win21 wird gestartet. Bitte warten.... Pear-OS-Befehl nicht identifiziert. DOD HDD Löschvorgang wird initialisiert.}
@@ -70,7 +70,7 @@
 {231}{}{Das war leichter als ich dachte.}
 {232}{}{Abmelden.}
 {240}{}{Reparaturservice initialisiert. Suchvorgang... Hydroelektrischer Magnetosphären-Regulator erforderlich. Vorbereitung für Wechsel zum Hauptkühlungsventil für das Auswechseln von Teilen. Teil in die Übertragungsvorrichtung unter dem Terminal einsetzen.}
-{241}{}{Ah, das muß dieses Ding hier sein.}
+{241}{}{Ah, das muss dieses Ding hier sein.}
 {242}{}{Ich fürchte, das passende Teil hab ich nicht.}
 {243}{}{Abmelden.}
 {250}{}{Dieses Terminal wurde aus Sicherheitsgründen heruntergefahren. Bitte informieren Sie den PoseidoNet-Supervisor.}
@@ -122,7 +122,7 @@
 {376}{}{Sag nachher nicht, ich hätte Dich nicht gewarnt. (Gerade als du dies liest, merkst du, wie ein Stromstoß von der Tastatur in deine Finger fährt.)}
 {377}{}{Vielleicht sollte ich's noch mal versuchen?}
 {378}{}{Soviel dazu. Ich sollte besser versuchen, diese RW&RR-Einheit in Betrieb zu setzen. }
-{379}{}{Verdammt, die Verbindung muß unterbrochen worden sein.}
+{379}{}{Verdammt, die Verbindung muss unterbrochen worden sein.}
 {380}{}{Hydroelektrischer Magnetosphären-Regulator erforderlich, bevor Reparatursequenz beginnen kann.}
 {381}{}{Kühlanlagenwartung initialisieren}
 {382}{}{Abmelden.}
@@ -141,13 +141,13 @@
 {430}{}{Einheit wird in die Station zurückgeführt, wenn das Befehlsprogramm Terminalfehler enthält.}
 {431}{}{Ah, das erklärt einiges. Aber was ist mit dem Fehler der logischen Schaltkreise?}
 {432}{}{Ich werd dieses Ding in Betrieb setzen.}
-{440}{}{Manuelle Steuerung: Die RW&RR-Einheit muß manuell an das Ziel gesteuert werden. Die Einheit folgt den angegebenen Steuerungsbefehlen. Ist der Weg blockiert oder wird die Einheit beschädigt, wird sie automatisch in die Station zurückgeführt.}
-{441}{}{Wo muß ich den Roboter hinschicken? Ich werd mir den Vorgang mal anschauen.}
+{440}{}{Manuelle Steuerung: Die RW&RR-Einheit muss manuell an das Ziel gesteuert werden. Die Einheit folgt den angegebenen Steuerungsbefehlen. Ist der Weg blockiert oder wird die Einheit beschädigt, wird sie automatisch in die Station zurückgeführt.}
+{441}{}{Wo muss ich den Roboter hinschicken? Ich werd mir den Vorgang mal anschauen.}
 {442}{}{Ich denke, jetzt kann ich anfangen.}
 {443}{}{Abmelden.}
 {450}{}{Informationsanfrage zum Vorgang:}
 {451}{}{Ich möchte wissen, wo ich den Hydroelektrischen Magnetosphären-Regulator ersetzen kann.}
-{452}{}{Und ich muß wissen, wo das Hauptkühlungsventil ausgeschaltet wird.}
+{452}{}{Und ich muss wissen, wo das Hauptkühlungsventil ausgeschaltet wird.}
 {453}{}{Abmelden.}
 {460}{}{Der Hydroelektrische Magnetosphären-Regulator befindet sich an der Ostwand des Reaktorkerns. Er befindet sich gleich rechts neben dem Ausschalter des Hauptkühlungsventils.}
 {461}{}{Wo ist der Ausschalter für das Hauptkühlungsventil?}
@@ -176,7 +176,9 @@
 {512}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 75% der Einheitstoleranz. Befehle?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16}
 {514}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 80% der Einheitstoleranz. Befehle?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17}
 {516}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 85% der Einheitstoleranz. Befehle?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18}
-{518}{}{If this has been attempted before, show the previous set of movement commands here. Heat at 90% of unit tolerance. Shutdown imminent. Commands?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
+{518}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 90% der Einheitstoleranz.
+ Befehle?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9,
+ MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19}
 {520}{}{Wurde dies bereits versucht, hier die vorige Befehlsabfolge anzeigen. Temperatur bei 95% der Einheitstoleranz. Befehle?: MoveVar1, MoveVar2, MoveVar3, MoveVar4, MoveVar5, MoveVar6, MoveVar7, MoveVar8, MoveVar9, MoveVar10, MoveVar11,MoveVar12, MoveVar13, MoveVar14, MoveVar15, MoveVar16, MoveVar17, MoveVar18, MoveVar19, MoveVar20}
 {522}{}{Nach links.}
 {524}{}{Nach rechts.}

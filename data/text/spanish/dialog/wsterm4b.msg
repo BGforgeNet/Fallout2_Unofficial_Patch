@@ -1,5 +1,5 @@
 {100}{}{Un terminal de computadora.}
-{101}{}{It controls the Vault-Tec organ extraction unit.}
+{101}{}{Controla el Vault-Tec extracción de órganos de la unidad.}
 {102}{}{Eres incapaz de leer lo que pone en el monitor.}
 {103}{}{Bienvenido al equipo de extracción de órganos de alta tecnología Vault-Tec. Para operarlo, por favor coloque al donante en la sala de extracciones, gire el disco para asignar la especie, y seleccione el órgano para ser extraído.}
 {104}{}{Seleccionar especie.}
@@ -22,15 +22,15 @@
 {116}{}{Seleccionar Correcaminos.}
 {117}{}{Seleccionar Roedor.}
 {118}{}{Seleccionar Humano.}
-{119}{}{[Scratch a new name onto console.]}
+{119}{}{[Cero un nuevo nombre en la consola.]}
 {120}{}{Salir.}
 {121}{}{[Recoges un pedazo de metal y reflexionas sobre qué escribir en la consola].}
-{122}{}{Carve the word 'Mutant' onto console.}
-{123}{}{Carve the word 'Deathclaw' onto console.}
+{122}{}{Tallar la palabra "Mutante" en la consola.}
+{123}{}{Tallar la palabra 'Deathclaw' en la consola.}
 {124}{}{Salir.}
-{125}{}{Current Selection: }
-{126}{}{ Especie - }
-{127}{}{   Órgano - }
+{125}{}{La Selección Actual: }
+{126}{}{Especie:- }
+{127}{}{Órgano - }
 {128}{}{Seleccionar especie.}
 {129}{}{Seleccionar órgano.}
 {130}{}{Proceder a la extracción.}
@@ -59,26 +59,26 @@
 {146}{}{Seleccionar Colon.}
 {147}{}{Salir.}
 {148}{}{El sujeto donante no está presente en la sala de extracción.}
-{149}{}{Extraction failed.}
-{150}{}{Extraction completed.}
-{151}{}{Extraction completed.
-                                           Thank you for using Vault-Tec. Please see our catalog for our complete line of Vault-Tec products.}
+{149}{}{La extracción de error.}
+{150}{}{La extracción completa.}
+{151}{}{La extracción completa.
+ Gracias por el uso de Vault-Tec. Por favor, consulte nuestro catálogo para nuestra línea completa de Vault-Tec productos.}
 {152}{}{}
 {153}{}{Salir.}
 {154}{}{Extraccion fallida-- Sobrecarga del sensor.}
-{155}{}{Extraction failed-- unable to initialize procedure for subject physiology.}
-{170}{}{Human }
-{171}{}{Canine }
-{172}{}{Feline }
+{155}{}{Extracción fracasado: no se puede inicializar el procedimiento para la asignatura de fisiología.}
+{170}{}{Humanos }
+{171}{}{Canino }
+{172}{}{Felino }
 {173}{}{Road Runner }
-{174}{}{Rodent }
-{175}{}{Mutant }
+{174}{}{Roedores }
+{175}{}{Mutante }
 {176}{}{Deathclaw }
-{180}{}{Brain }
-{181}{}{Heart }
-{182}{}{Kidney }
-{183}{}{Liver }
-{184}{}{Lung }
-{185}{}{Appendix }
+{180}{}{Cerebro }
+{181}{}{Corazón }
+{182}{}{Riñón }
+{183}{}{Hígado }
+{184}{}{Pulmón }
+{185}{}{Apéndice }
 {186}{}{Colon }
 {200}{}{ es incapaz de leer lo que pone en el monitor.}

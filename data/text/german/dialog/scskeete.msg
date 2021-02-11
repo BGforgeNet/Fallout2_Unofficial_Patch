@@ -2,15 +2,15 @@
 {101}{}{Das ist Doofus, der Parkplatzwächter.}
 {102}{}{Dieser Typ ist eine verlauste kleine Ratte. Er wird ständig von Krämpfen und Zuckungen
  geschüttelt. Zweifellos drogensüchtig.}
-{103}{}{Supergefährt, Mann, absolut genial! Oh Mann, ich bin genau das, was du brauchst - ich paß
+{103}{}{Supergefährt, Mann, absolut genial! Oh Mann, ich bin genau das, was du brauchst - ich pass
  auf dein Auto auf und verscheuch die Wanzen. Fünf Mäuse, kein Problem. Fünf Mäuse und Doofus
  macht den Job. Rund um die Uhr, schlafen kann ich, wenn ich tot bin.}
-{104}{}{Ich bin der Parkplatzwächter, Mann, ich paß hier auf die Autos auf - kostet ganze fünf
- Dollar. Keiner faßt die Kisten an, wenn Doofus sie bewacht.}
+{104}{}{Ich bin der Parkplatzwächter, Mann, ich pass hier auf die Autos auf - kostet ganze fünf
+ Dollar. Keiner fasst die Kisten an, wenn Doofus sie bewacht.}
 {105}{}{Klar, logisch, Mann.}
 {106}{}{Wie sieht's aus, Mann, soll ich deine Karre beschützen?}
-{107}{}{Good. Do.}
-{108}{}{Nein. Du nix anfaß.}
+{107}{}{Gut. Mach.}
+{108}{}{Nein. Du nix anfass.}
 {109}{}{Von wegen Mann!}
 {110}{}{Wo bin ich hier?}
 {111}{}{Abgemacht. Fünf Dollar - du bewachst das Auto.}
@@ -38,7 +38,7 @@
  zu machen!}
 {132}{}{Was ist das alles hier?}
 {133}{}{Gut. Halt's Maul.}
-{134}{}{Wenn du die Knete nicht hast, dann sieh zu, daß du dich verdrückst. Ich hab Wichtiges zu
+{134}{}{Wenn du die Knete nicht hast, dann sieh zu, dass du dich verdrückst. Ich hab Wichtiges zu
  tun.}
 {135}{}{Hey, Mann, Doofus hat dich gewarnt.}
 {136}{}{Du kannst mich mal. Von mir kriegst du keine Antwort.}
@@ -58,19 +58,22 @@
 {147}{}{Görg, ladal spaf!}
 {148}{}{TAK!}
 {149}{}{Duff? Ganja kalk sar!}
-{150}{}{Right - obey the giant, man. It's the way things are supposed to be. What should I do, giant?}
+{150}{}{Also gut - dem Riesen muss man gehorchen, Mann. So läuft das halt. Was soll ich machen,
+ Riese?}
 {151}{}{Das ist 'ne ganze Menge, Mann. Riese, ich bin Doofus, der Parkplatzwächter und meine
  Aufgabe ist, auf die Autos aufzupassen, die die Leute hier abstellen. Aber dann hab ich noch
- dieses... Ding hier, verstehst du und manchmal brauch ich halt 'n bißchen mehr Geld und so, wenn
+ dieses... Ding hier, verstehst du und manchmal brauch ich halt 'n bisschen mehr Geld und so, wenn
  du verstehst, was ich meine.}
-{152}{}{Ja, genau. Manchmal wird's eben ein bißchen knapp und ich hab da so meine Bedürfnisse,
+{152}{}{Ja, genau. Manchmal wird's eben ein bisschen knapp und ich hab da so meine Bedürfnisse,
  verstehst du und wenn's mir dann wieder beschissen geht und ich ein paar Pillen einschmeißen
- muß, dann geh ich zu Merk.}
-{153}{}{Mann, Merk, das ist ein Typ. Der hat Power und so. Manchmal läßt er mich im "Rawhide"
+ muss, dann geh ich zu Merk.}
+{153}{}{Mann, Merk, das ist ein Typ. Der hat Power und so. Manchmal lässt er mich im "Rawhide"
  schlafen, nachdem da geschlossen ist. Dafür will er dann natürlich 'ne Gegenleistung sehen.}
 {154}{}{Jaja, immer der Reihe nach - oh Mann, was für Farben! Merk will manchmal Zeugs aus den
  Autos haben, die ich bewache. Aber ich führ ihn an der Nase rum!}
-{155}{}{See I only take from the cars I ain't paid to watch. He thinks I'm jacking my customers, but I don't do that. Man, I got to quit talking. I'm like seeing things... oh, man, the glow. It's all about glowing.}
+{155}{}{Ich nehm nur Sachen aus den Auto raus, bei denen ich nicht als Aufpasser bezahlt werde.
+ Er glaubt, dass ich meine Kunden ausnehm, aber das mach ich nicht. Mann, ich kann nicht mehr
+ weiterreden. Ich sehe... Dinge, oh Mann, so ein Leuchten. Was für ein irres Leuchten.}
 {156}{}{Gib mir dein ganzes Zeugs.}
 {157}{}{Sag mir alles, was du weißt.}
 {158}{}{Das reicht, mehr halt ich nicht aus.}
@@ -84,24 +87,25 @@
 {165}{}{Stimmt, Mann. Geh zu Merk. Bei dem gibt's immer was zu tun.}
 {166}{}{Mach winke-winke!}
 {167}{}{Oh Mann, du hast alles versaut! Merk wird total sauer werden, wenn er davon erfährt.}
-{168}{}{Goodbye, dope-head.}
-{169}{}{Okay! Look, it was Merk's crew. They were jacking cars last night. Ask around and you might find them.}
+{168}{}{Tschüss, du vollgepisste Dumpfbacke.}
+{169}{}{Okay! Das waren Merks Leute. okay. Letzte Nacht haben sie Autos ausgenommen. Schau dich
+ um, vielleicht findest du sie.}
 {170}{}{Du lüg, ich töt.}
 {171}{}{Erzähl keinen Unfug, sonst komm ich wieder.}
 {172}{}{Klar. Ich brech vor Angst zusammen.}
 {173}{}{Für 50 Hühner wird's dir schon wieder einfallen.}
 {174}{}{Leck mich, Blödmann.}
 {175}{}{Du kannst mich mal. Ich mach 'ne Fliege.}
-{176}{}{Brauchste jemand, der auf deine Karre aufpaßt? Kein Problem. Ich übernehm das.}
-{177}{}{Yeah, ich paß auf deine Karre auf... auf deine KARRE .. KARRE... yeah...!}
+{176}{}{Brauchste jemand, der auf deine Karre aufpasst? Kein Problem. Ich übernehm das.}
+{177}{}{Yeah, ich pass auf deine Karre auf... auf deine KARRE .. KARRE... yeah...!}
 {178}{}{LA LA LA LA, 'ne KARRE, hey, gib mir deine Karre und ICH PASS DRAUF AUF.}
-{179}{}{PASS AUF, ich paß drauf auf, PASS AUF, PAAAASSE AUF, drauf auf}
+{179}{}{PASS AUF, ich pass drauf auf, PASS AUF, PAAAASSE AUF, drauf auf}
 {180}{}{Ich hab 'nen Song drüber gemacht, willste hör'n? Okay, es geht los...}
 {181}{}{Karre KARRE KARRE Karre KARRE KARRRRE Karre KATZE}
-{182}{}{Katze?! Klar Mann, ich paß auch auf Katzen auf. Hat hier zufällig jemand 'ne KATZE!!}
+{182}{}{Katze?! Klar Mann, ich pass auch auf Katzen auf. Hat hier zufällig jemand 'ne KATZE!!}
 {183}{}{ICH MAG KATZEN, KLINGT WIE KARREN, UND AUF KARREN PASS ICH AUF!}
 {184}{}{Du stehst auf deine Karre, ich bewach sie falkengleich mit Augen wie ein Luchs.}
-{185}{}{Ich paß darauf auf, steh immer hier rum, die Leute lästern schon, aber ich paß einfach
+{185}{}{Ich pass darauf auf, steh immer hier rum, die Leute lästern schon, aber ich pass einfach
  immer auf}
 {186}{}{Yeah, mir geht's so gut, YEAH, SO GUT, SO GUT, yeah.}
 {187}{}{Klar, Kumpel, greif dir alles.}

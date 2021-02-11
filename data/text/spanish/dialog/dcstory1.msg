@@ -1,7 +1,7 @@
 {100}{}{Ves a un cliente del bar.}
 {101}{}{Ves a Leanne.}
 {102}{}{Es muy hermosa, pero parece ensimismada en sus pensamientos.}
-{103}{}{¡Para!}
+{103}{}{¡Déjalo!}
 {104}{}{¿Por qué estás haciendo esto?}
 {105}{}{¡Déjame!}
 {106}{}{¡Por favor, para!}
@@ -46,7 +46,7 @@
 {151}{}{Unos mutantes enormes con unas armas tan grandes como tú y yo vinieron desde el sur. Mamá decía que parecía alguna clase de migración.}
 {152}{}{¿Cuántos eran?}
 {153}{}{No lo sé, pero había muchos grupos de ellos. Algunos continuaron hacia el norte, otros se dirigieron al este. Nadie sabe a dónde fueron.}
-{154}{}{Sigue.}
+{154}{}{Continúa.}
 {155}{}{Estaban bastante cabreados y parecían huir de algo.}
 {156}{}{¿De verdad?}
 {157}{}{Sí, había otros que vestían unas túnicas moradas que estaban sucias y hechas jirones... Balbuceaban algo sobre cómo 'El Maestro' había muerto...}

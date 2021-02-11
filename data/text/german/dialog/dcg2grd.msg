@@ -19,7 +19,7 @@
 {245}{}{Danke für deine Hilfe!}
 {246}{}{Wir haben's geschafft!}
 {247}{}{Willst du uns verkohlen?}
-{248}{}{Paß auf, was du sagst.}
+{248}{}{Pass auf, was du sagst.}
 {249}{}{Lara ist der einzige Grund, warum wir dich nicht gleich aufhängen.}
 {250}{}{Was wolltest du da abziehen?}
 {251}{}{Feigling.}
@@ -27,11 +27,11 @@
 {253}{}{Mach 'ne Fliege.}
 {254}{}{Hau ab.}
 {255}{}{Wenn du so weit bist, sind wir es auch.}
-{256}{}{Es ist an der Zeit, daß wir es ihnen zurückzahlen.}
+{256}{}{Es ist an der Zeit, dass wir es ihnen zurückzahlen.}
 {257}{}{Ich hasse Warten.}
-{258}{}{Laß uns schon mal losgehen.}
+{258}{}{Lass uns schon mal losgehen.}
 {259}{}{Endlich fertig?}
-{260}{}{Laß Lara wissen, wann es an der Zeit ist.}
+{260}{}{Lass Lara wissen, wann es an der Zeit ist.}
 {270}{}{Willste beitreten?}
 {271}{}{Du willst bestimmt zu Lara, oder?}
 {272}{}{Wie geht's.}
@@ -40,7 +40,7 @@
 {275}{}{Willste zu Lara?}
 {300}{}{Hey.}
 {301}{}{Wie geht's.}
-{302}{}{Ich hoffe, daß alles gut läuft.}
+{302}{}{Ich hoffe, dass alles gut läuft.}
 {303}{}{Du könntest uns also raushelfen?}
 {304}{}{Gut, dich zu sehen}
 {305}{}{Bald zahlen wir es Tyler heim...}
@@ -49,7 +49,7 @@
 {311}{}{Endlich haben wir sie!}
 {312}{}{Ohne dich hätten wir das nicht geschafft.}
 {313}{}{Wenigstens hat es Lara im  Kampf erwischt.}
-{314}{}{Ich kann gar nicht glauben, daß Lara es nicht geschafft hat.}
+{314}{}{Ich kann gar nicht glauben, dass Lara es nicht geschafft hat.}
 {315}{}{Jedenfalls haben wir Metzger gezeigt, wer die Besseren sind. }
 {316}{}{Metzger sollte sich lieber mit uns zusammentun.}
 {350}{}{Du sagst es!}

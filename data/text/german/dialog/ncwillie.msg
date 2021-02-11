@@ -7,12 +7,12 @@
 {204}{}{Aus dem Weg, Glatthaut.}
 {205}{}{Dad?}
 {206}{}{Jetzt nicht, Lenny, ich bin nicht in der Stimmung zum Reden.}
-{300}{}{Da fahr ich nach Reno für 'n bißchen Alk und Dirnen, da schmeißen mich die verdammten Glatthäute hier ins Grab...}
+{300}{}{Da fahr ich nach Reno für 'n bisschen Alk und Dirnen, da schmeißen mich die verdammten Glatthäute hier ins Grab...}
 {301}{}{Zum Glück hab ich keine Nase, sonst würd ich ja an meinem eigenen Gestank ersticken.}
 {302}{}{Ghuls werden einfach nicht mit Respekt behandelt.}
 {303}{}{Wollte nur einen trinken in der Stadt, da begraben mich diese Säcke aus Reno lebendig.}
 {304}{}{Gibt doch nichts Langweiligeres, als monatelang im Sarg rumzuliegen.}
-{305}{}{Pfoten weg, Glatthaut. Ich muß weg.}
+{305}{}{Pfoten weg, Glatthaut. Ich muss weg.}
 {306}{}{Weg mit deinen glatten Händchen, ist das klar?}
 {500}{}{Auf dem Kreuz steht: "Hier liegt der dümmste Hundesohn, der New Reno je betreten hat."}
 {550}{}{Von dem Grab steigt ein ekelerregender Gestank auf.}

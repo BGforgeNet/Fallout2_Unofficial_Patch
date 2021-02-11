@@ -84,8 +84,8 @@ variable How_Many_Party_Members_Armed;
 #define party_size_biped                    (party_size_male + party_size_female)
 
 // Health of Party Members
-#define Is_Injured(Who)                     (get_critter_stat(Who, STAT_current_hp) < get_critter_stat(Who, STAT_max_hit_points))
-#define Injured_How_Much(Who)               (get_critter_stat(Who, STAT_max_hit_points) - get_critter_stat(Who, STAT_current_hp))
+#define Is_Injured(Who)                     (get_critter_stat(Who, STAT_current_hp) < get_critter_stat(Who, STAT_max_hp))
+#define Injured_How_Much(Who)               (get_critter_stat(Who, STAT_max_hp) - get_critter_stat(Who, STAT_current_hp))
 #define Is_Crippled(Who)                    (critter_state(Who) BWAND (DAM_CRIP_LEG_LEFT BWOR DAM_CRIP_LEG_RIGHT BWOR DAM_CRIP_ARM_LEFT BWOR DAM_CRIP_ARM_RIGHT))
 #define Is_Blind(Who)                       (critter_state(Who) BWAND DAM_BLIND)
 //#define Is_Armed(Who)                       (((obj_item_subtype(critter_inven_obj(Who,INVEN_TYPE_RIGHT_HAND))) == item_type_weapon)       \

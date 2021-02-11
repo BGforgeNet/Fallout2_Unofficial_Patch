@@ -67,7 +67,7 @@ end
 
 //added by killap
 procedure map_enter_p_proc begin
-   if (self_pid != -1) then begin
+   if self_exists then begin
        FIELD_PTR:=self_obj;
    end
 
@@ -75,7 +75,7 @@ procedure map_enter_p_proc begin
    if (local_var(LVAR_Timed_Event) == 1) then begin
        set_local_var(LVAR_Timed_Event,0);
        set_map_var(FIELD_STATUS,FIELD_ENABLED);
-       if (self_pid != -1) then begin
+       if self_exists then begin
            set_self_visible;                  // vis
        end
    end
@@ -83,12 +83,12 @@ end
 //end added
 
 procedure map_update_p_proc begin
-   if (self_pid != -1) then begin
+   if self_exists then begin
        FIELD_PTR:=self_obj;
    end
 
    if (global_var(GVAR_SIERRA_BASE_POWER) == 0) then begin              // power on
-       if ((self_pid != -1) and (map_var(FIELD_STATUS) != FIELD_DAMAGED)) then begin
+       if (self_exists and (map_var(FIELD_STATUS) != FIELD_DAMAGED)) then begin
            if (self_pid == PID_NS_PAIN_FIELD) then begin
                FIELD_PTR:=create_object_sid(PID_NS_FORCE_FIELD,self_tile,self_elevation,CUR_SCRIPT);
                destroy_object(self_obj);
@@ -106,7 +106,7 @@ procedure map_update_p_proc begin
        end
    end
 
-   else if (self_pid != -1) then begin
+   else if self_exists then begin
        if (self_pid == PID_NS_FORCE_FIELD) then begin
            FIELD_PTR:=create_object_sid(PID_NS_PAIN_FIELD,self_tile,self_elevation,CUR_SCRIPT);
            destroy_object(self_obj);
@@ -122,7 +122,7 @@ procedure timed_event_p_proc begin
    if (fixed_param == 1) then begin
        set_local_var(LVAR_Timed_Event,0);
        set_map_var(FIELD_STATUS,FIELD_ENABLED);
-       if (self_pid != -1) then begin
+       if self_exists then begin
            set_self_visible;                  // vis
        end
    end

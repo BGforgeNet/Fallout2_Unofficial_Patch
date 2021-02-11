@@ -32,12 +32,12 @@
 {215}{}{Hola, }
 {216}{}{Si estás buscando un poco de compañía para más tarde…}
 {217}{}{Oye, tú… [guiño]… ¿te gustaría jugar?}
-{218}{}{He looks so...[shivers]...dangerous.}
+{218}{}{Se ve tan...[escalofríos]...peligroso.}
 {219}{}{Bienvenido al casino, }
 {220}{}{¿Le hablará bien al jefe de mí?}
 {221}{}{Hola, señorita. Hágame saber si puedo ayudarla con algo.}
 {222}{}{¿Quiere jugar, señorita?}
-{223}{}{She looks so...[shivers]...dangerous.}
+{223}{}{Ella se ve tan...[escalofríos]...peligroso.}
 {235}{}{Parece que éste ya está apostando con su vida.}
 {236}{}{Eh, creo que acaba de entrar en el casino equivocado…}
 {237}{}{Si no sale antes de que los muchachos le vean…}
@@ -132,8 +132,8 @@
 {2261}{}{. Házme saber si puedo ayudarte con lo que sea.}
 {2262}{}{?}
 {2263}{}{.}
-{2321}{}{ dólares. Haz tu apuesta…}
-{2327}{}{ dólares.] }
+{2321}{}{. dólares. Haz tu apuesta…}
+{2327}{}{.] }
 {2328}{}{.}
 {2344}{}{ siempre se puede usar un nuevo objeto del inventario [Te marchas].}
 {2352}{}{? '¿Demasiado rico para este planeta?' [Se burla]. Amigo, estás en la ciudad equivocada.}

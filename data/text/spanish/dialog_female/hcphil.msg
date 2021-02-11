@@ -5,7 +5,7 @@
 {104}{}{¿Doi?}
 {105}{}{!}
 {106}{}{.}
-{107}{}{Ninguno que te incumba, colega.}
+{107}{}{Nadie que te importe, colega.}
 {108}{}{Bueno, ahora mismo soy una especie de agente encubierto.}
 {109}{}{¿Doi es tu nombre? ¡Ja! Sólo era una broma, colega. Ten. Toma una Nuka-Cola. Intenta no molestar a los demás
  clientes.}
@@ -128,4 +128,4 @@
 {1981}{}{Un par de bribones han sido encerrados por la difusión de propaganda de odio.}
 {1982}{}{Los purificadores de la mina están abajo.}
 {1983}{}{Caravanas por todo el lugar. Eso es normal.}
-{1984}{}{Sigue.}
+{1984}{}{Continúa.}

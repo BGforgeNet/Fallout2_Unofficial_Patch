@@ -60,7 +60,7 @@
 {159}{}{I am not part of the problem. I am a Republican.}
 {160}{}{Like I said, part of the problem.}
 {161}{}{Ah, I see. Well, as you may know, I've long thought that it's time for the human race to enter the solar system.}
-{162}{}{Aren't we all ready in the... Uh, to go *where*?}
+{162}{}{Aren't we already in the... Uh, to go *where*?}
 {163}{}{How would we do that?}
 {164}{}{I think that maybe Mars would be nice because Mars is essentially in the same orbit... Mars is somewhat the same distance from the Sun, which is very important. We have seen pictures where there are canals, we believe, and water. If there is water, that means there is oxygen. If oxygen, that means we can breathe.}
 {165}{}{I didn't expect such a, uh, *complete* answer.}

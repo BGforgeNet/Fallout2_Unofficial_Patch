@@ -7,6 +7,6 @@
 {106}{}{Zeit, sich anderswo umzusehen.}
 {107}{}{Geh doch zur Marine.}
 {108}{}{Verdammt!}
-{109}{}{Oh Gott! Schon so sp‰t, ich muﬂ los!}
+{109}{}{Oh Gott! Schon so sp‰t, ich muss los!}
 {110}{}{Neuling.}
 {111}{}{Sergeant.}

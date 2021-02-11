@@ -13,7 +13,7 @@
 {112}{}{¡Frazz-urb-luuw!}
 {113}{}{Dejas de balbucear}
 {114}{}{¿Quién eres?}
-{115}{}{¿Qué es este lugar?}
+{115}{}{¿Qué lugar es éste?}
 {116}{}{Creo que tu ayudante, Skeev, está involucrado en actividades ilegales.}
 {117}{}{Hoy nada, gracias.}
 {118}{}{Vaya, ya veo que voy a tener que charlar con los guardias del Patio. Parece que hoy en día están dejando entrar a CUALQUIER errante en Ciudad Refugio. }
@@ -147,7 +147,7 @@
 {246}{}{¿Qué más querías saber?}
 {247}{}{¡Frazz-urb-luuw!}
 {248}{}{Dejas de balbucear}
-{249}{}{¿Qué es este lugar?}
+{249}{}{¿Qué lugar es éste?}
 {250}{}{¿Qué tipo de envíos recibís aquí?}
 {251}{}{Tu ayudante, Skeev, está involucrado en actividades ilegales.}
 {252}{}{¿Puedo obtener otro pase de día?}

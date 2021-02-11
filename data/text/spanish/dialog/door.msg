@@ -142,14 +142,14 @@
 {194}{}{Localizas una trampa en la puerta.}
 {195}{}{No consigues encontrar ninguna trampa en la puerta.}
 {196}{}{Hábilmente desactivas una trampa de la tumba.}
-{198}{}{No consigues desactivar la trampa.}
+{198}{}{No consigues desarmar la trampa.}
 {199}{}{ localiza una trampa en la puerta.}
 {200}{}{ no consigue encontrar ninguna trampa en la puerta.}
 {201}{}{ hábilmente desactiva la trampa.}
 {202}{}{ no consigue desarmar la trampa.}
 {203}{}{La puerta parece estar bloqueada.}
-{204}{}{Notas una trampa en el marco de la puerta.}
-{205}{}{ nota una trampa en el marco de la puerta.}
+{204}{}{You notice a trap in the door jamb.}
+{205}{}{ notices a trap in the door jamb.}
 {206}{}{No puedes poner una trampa en esta puerta, porque
  está abierta.}
 {207}{}{ no consigue poner una trampa en esta puerta, porque
@@ -175,3 +175,6 @@
 {501}{}{Parece que antes necesitarás hacer funcionar el generador.}
 {502}{}{Ves: Puerta de ascensor.}
 {503}{}{Parece que necesitas un aparato eléctrico para abrir esta cerradura.}
+{601}{}{It is open, dummy.}
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}

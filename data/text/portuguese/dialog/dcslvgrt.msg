@@ -15,7 +15,7 @@
 {219}{}{Outra pergunta para você, então.}
 {220}{}{Obrigado, eu vou.}
 {221}{}{Medger}
-{222}{}{Uh... kay.}
+{222}{}{Uh... ok.}
 {230}{}{Agora você morre.}
 {240}{}{Tem que me fazer uma merda! Nós capturamos e vendemos escravos. Isso é por que você está aqui, certo?
   Você está procurando alguma ação?}
@@ -91,7 +91,7 @@
 {384}{}{Outra pergunta.}
 {385}{}{Obrigado, eu vou.}
 {386}{}{Medger}
-{387}{}{Uh... kay.}
+{387}{}{Uh... ok.}
 {400}{}{Não, mas eu falaria com o chefe. Ele provavelmente já esteve em tudo quanto é canto.}
 {401}{}{Outra pergunta.}
 {402}{}{Ok, obrigado. Tchau.}

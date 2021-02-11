@@ -7,5 +7,5 @@
 {203}{}{Vatis Künstlername ist Melchior der Großartige.}
 {204}{}{Sein bester Trick war, eine Ratte aus einem Hut zu zaubern.}
 {205}{}{Er ging weg mit einigen Männern in Metallkleidern.}
-{206}{}{Ich hoffe, Vati kommt bald zurück. Ich vermiß seine Zaubertricks.}
+{206}{}{Ich hoffe, Vati kommt bald zurück. Ich vermiss seine Zaubertricks.}
 {207}{}{Ich werd mal 'n großer Zauberer wie mein Vati.}

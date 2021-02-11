@@ -352,6 +352,7 @@
 #define SCRIPT_ATDEATH          (333)   // ATDeath.int     ; Spatial telling the player about Nagor dead
 #define SCRIPT_SIFAKHLO         (334)   // SIFakhlo.int    ; Fake vault13 holo disk you get from Merk in ncr
 #define SCRIPT_SCLENNY          (335)   // SCLenny.int     ; Lenny guy in NCR entrance
+#define SCRIPT_SIPTBOX          (336)   // SIPtbox.int     ; Temporary box for the players crap.
 #define SCRIPT_NCPROSTI         (337)   // ncProsti.int    ; New Reno Prostitute with billions of messages
 #define SCRIPT_NCSLAVE          (338)   // ncSlave.int     ; New Reno Slaves
 #define SCRIPT_NCRICO           (339)   // ncRico.int      ; New Reno Rico, Monte's thug
@@ -597,7 +598,7 @@
 #define SCRIPT_MCRAT            (579)   // mcRat.int       ; Modoc Garden Rat
 #define SCRIPT_ZISUNSPT         (580)   // ziSunSpt.int    ; Generic Sun Spot
 #define SCRIPT_MCBESS           (581)   // mcBess.int      ; Modoc Bess the Brahmin
-#define SCRIPT_MCJKYBOX         (582)   // mcJkyBox.int    ; Modoc Jerky box
+#define SCRIPT_MIJKYBOX         (582)   // miJkyBox.int    ; Modoc Jerky box
 #define SCRIPT_ZCCRPDEL         (583)   // ZCCrpDel.int    ; Craps Dealer
 #define SCRIPT_BCGENGRD         (584)   // BCGenGrd.int    ; Generic Guard for Vault 15, Khan Guard
 #define SCRIPT_MCSLAG           (585)   // mcSlag.int      ; Modoc Generic Slag
@@ -624,7 +625,7 @@
 #define SCRIPT_HCSUPER          (606)   // hcSuper.int     ; Supervisor in Broken Hills
 #define SCRIPT_HCZAIUS          (607)   // hcZaius.int     ; Zaius in Broken Hills
 #define SCRIPT_HCJACOB          (608)   // hcJacob.int     ; Jacob in Broken Hills
-#define SCRIPT_HICHEMS          (609)   // hchems.int      ; Chemistry Set in Broken Hills
+#define SCRIPT_HCHEMS           (609)   // hchems.int      ; Chemistry Set in Broken Hills
 #define SCRIPT_MIGSTPRP         (610)   // miGstPrp.int    ; Modoc Ghost Farm Prop
 #define SCRIPT_BSSDOR1          (611)   // BiSdor1.int     ; Shack doors on v15sent.map
 #define SCRIPT_BSCOMP1          (612)   // BSComp1.int     ; ibrary computer vault 15
@@ -654,7 +655,7 @@
 #define SCRIPT_BSCOMP5          (636)   // BSComp5.int     ; Computer terminal 5 Vault 15
 #define SCRIPT_BSPOWER          (637)   // BSPower.int     ; Power Generator in Vault 15
 #define SCRIPT_BSFIELD          (638)   // BSField.int     ; Force Field in Vault 15
-#define SCRIPT_PEASAN           (639)   // mcPeasan.int    ; Modoc Peasant Person
+// #define SCRIPT_MCPEASAN         (639)   // mcPeasan.int    ; Modoc Peasant Person
 #define SCRIPT_BSEMTR           (640)   // BSEmtr.int      ; Emitter in vault 15
 #define SCRIPT_OSV13DR          (641)   // OSV13Dr.int     ; Vault 13 Door
 #define SCRIPT_OSDOOR1          (642)   // OSdoor1.int     ; Vault 13 Door that shows the deathclaws.
@@ -1011,7 +1012,7 @@
 #define SCRIPT_HIBH1BOX         (993)   // HIBh1Box.int    ; Broken Hills Temp Inventory BoxtM
 #define SCRIPT_FCJUAVKI         (994)   // FCJuaVki.int    ; Juan/Vikkin in San Fran Elron Camp
 #define SCRIPT_HIMANHOL         (995)   // HIManHol.int    ; Manhole to Basement in Liz's Storea
-#define SCRIPT_FCELRONB         (996)   // SFElronb.int    ; Elron Base map Script
+#define SCRIPT_SFELRONB         (996)   // SFElronb.int    ; Elron Base map Script
 #define SCRIPT_HILADDER         (997)   // HILadder.int    ; Ladder up to Liz's Store
 #define SCRIPT_WIPNCHBG         (998)   // WIPnchBg.int    ; Punching Bag in the Sierra Depot
 #define SCRIPT_WIBAYDOR         (999)   // WIBayDor.int    ; Sierra Base Repair Bay Door
@@ -1065,7 +1066,7 @@
 #define SCRIPT_VCSLAV2          (1047)  // VCSlav2.int     ; Vault City Prisoner Slaves
 #define SCRIPT_VCBARCIT         (1048)  // VCBarCit.int    ; Vault City Bar Patrons
 #define SCRIPT_NIBASDOR         (1049)  // niBasDor.int    ; New Reno Locking Doors
-#define SCRIPT_NIFIGHTR         (1050)  // ncFightr.int    ; New Reno Boxer Actually Fighting
+#define SCRIPT_NCFIGHTR         (1050)  // ncFightr.int    ; New Reno Boxer Actually Fighting
 #define SCRIPT_RIVLTDOR         (1051)  // RIVltDor.int    ; Locked Vault Door in Redding
 #define SCRIPT_CCXARN           (1052)  // CcXarn.int      ; Xarn in Navarro
 #define SCRIPT_CCRAUL           (1053)  // CcRaul.int      ; Raul in Navarro
@@ -1120,8 +1121,8 @@
 #define SCRIPT_FCTNKGMR         (1102)  // FCTnkGmr.int    ; Tanker Gun Merchant San Fran
 #define SCRIPT_FCTNKBAR         (1103)  // FCTnkBar.int    ; Tanker Bartender
 #define SCRIPT_FCTNKMER         (1104)  // FCTnkMer.int    ; Tanker Merchant
-#define SCRIPT_FCTGUNTB         (1105)  // FCTGunTb.int    ; Tanker Gun Merchant's table YEAH yeah YEAH
-#define SCRIPT_FCTMERTB         (1106)  // FCTMerTb.int    ; Tanker Merchant Table
+#define SCRIPT_FITGUNTB         (1105)  // FITGunTb.int    ; Tanker Gun Merchant's table YEAH yeah YEAH
+#define SCRIPT_FITMERTB         (1106)  // FITMerTb.int    ; Tanker Merchant Table
 #define SCRIPT_FSPEMTR1         (1107)  // FSPEmtr1.int    ; Palace Emitter 1 in China Town
 #define SCRIPT_FSPEMTR2         (1108)  // FSPEmtr2.int    ; Palace Emitter 2 in China Town
 #define SCRIPT_FSPEMTR3         (1109)  // FSPEmtr3.int    ; Palace Emitter 3 in China Town
@@ -1163,7 +1164,7 @@
 #define SCRIPT_VTALOMRK         (1145)  // VTAloMrk.int    ; Spatial Script for Allocation Computer VCityp
 #define SCRIPT_CAVE7            (1146)  // Cave7.int       ; Fake Vault 13 map
 #define SCRIPT_NIDERMAL         (1147)  // niDermal.int    ; New Reno Dermal Pip Boy
-#define SCRIPTS_NCELDDOG        (1148)  // ncEldDog.int    ; New Reno Eldridge Dogs
+#define SCRIPT_NCELDDOG         (1148)  // ncEldDog.int    ; New Reno Eldridge Dogs
 #define SCRIPT_RCRATRAY         (1149)  // RCRatray.int    ; Rattray, Doc Johnson's assistant
 #define SCRIPT_HCHUSWIF         (1150)  // HCHusWif.int    ; Mutant Husband/Wife Broken HillsJ
 #define SCRIPT_FCLOGRD          (1151)  // FCLoGrd.int     ; Lo Pan Guard in San Fran
@@ -1185,7 +1186,7 @@
 #define SCRIPT_VITERM           (1167)  // viTerm.int      ; Vault City Vault Terminal
 #define SCRIPT_RCMOTGNG         (1168)  // RCMotGng.int    ; Frog Morton's gang
 #define SCRIPT_CCCHEAT          (1169)  // ccCheat.int     ; cheat character in Navarro
-#define SCRIPT_FCTNKRDR         (1170)  // FSTnkrDr.int    ; Tanker Doors in San Frans
+#define SCRIPT_FSTNKRDR         (1170)  // FSTnkrDr.int    ; Tanker Doors in San Frans
 #define SCRIPT_SCPEAON          (1171)  // SCPeaon.int     ; NCR Peaons
 #define SCRIPT_DIREBBOK         (1172)  // diRebBok.int    ; Den Becky's Book
 #define SCRIPT_HCSCORP          (1173)  // hcScorp.int     ; Broken Hills Scorpion

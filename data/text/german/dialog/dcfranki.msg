@@ -13,7 +13,7 @@
 {160}{}{Frauen.}
 {161}{}{Männer.}
 {162}{}{Informationen.}
-{163}{}{Heute nichts. Tschüß.}
+{163}{}{Heute nichts. Tschüss.}
 {164}{}{Pipiiiee.}
 {165}{}{Hey! Du solltest dein Loch lieber zumachen!}
 {166}{}{Oder was?}
@@ -30,10 +30,10 @@
 {177}{}{Nein, Danke.}
 {178}{}{Du hast nicht genug Geld! Wir sind doch kein Wohltätigkeitsverein!}
 {179}{}{Oh, tut mir leid. Ich bin knapp bei Kasse.}
-{180}{}{I'll come back.}
+{180}{}{Ich komm zurück.}
 {181}{}{Was willst du?}
 {182}{}{Whiskey.}
-{183}{}{Nothing. I'm leaving.}
+{183}{}{Nichts, ich muss weiter.}
 {184}{}{Wiiie schaadeee!}
 {185}{}{Und bleib bloß draußen!}
 {186}{}{[Ausgang]}
@@ -65,32 +65,32 @@
 {210}{}{Dann hast du hier die $500. Danke.}
 {211}{}{Nett, mit dir Geschäfte zu machen.}
 {212}{}{Weißt du Frankie, ich glaube, sie wird einfach einen neuen bauen.}
-{213}{}{Danke, Tschüß.}
+{213}{}{Danke, Tschüss.}
 {214}{}{Verdammt! Ja, aber in der Zwischenzeit hat sie keinen Schnaps.}
-{215}{}{Warum sie bekämpfen, Frankie? Du mußt dich mit ihr zusammentun.}
+{215}{}{Warum sie bekämpfen, Frankie? Du musst dich mit ihr zusammentun.}
 {216}{}{Denk nach. Wo kannst du sonst noch Spirituosen kriegen?}
 {217}{}{Was meinst du damit?}
 {218}{}{Kauf den Alkohol bei ihr. Er ist billiger als der aus New Reno und du kannst mehr Geld
  damit machen.}
-{219}{}{I don't want to do this.}
+{219}{}{Ich will das nicht tun!}
 {220}{}{Macht nichts.}
-{221}{}{Paß auf, ich möcht nur, daß ihr Destillator zerstört wird. Machst du das?}
+{221}{}{Pass auf, ich möcht nur, dass ihr Destillator zerstört wird. Machst du das?}
 {222}{}{In Ordnung, ich mach's.}
 {223}{}{Nein, das mach ich nicht. Wiedersehn.}
 {224}{}{Vielleicht haste recht. Ich werde mit ihr reden. Danke.}
 {225}{}{Hey, wozu hat man denn Freunde?}
-{226}{}{Tschüß.}
+{226}{}{Tschüss.}
 {227}{}{Hier gibt's keine Informationen.}
 {228}{}{Wirklich? Und was ist mit Beckys Getränken, warum sind sie so viel billiger als deine?}
-{229}{}{Ich dachte, Barkeeper wüßten alles.}
-{230}{}{Dann bin ich im falschen Laden. Tschüß.}
+{229}{}{Ich dachte, Barkeeper wüssten alles.}
+{230}{}{Dann bin ich im falschen Laden. Tschüss.}
 {231}{}{Red mit Sheila. Hey, Sheila, du hast einen Kunden.}
 {232}{}{Warte, das will ich doch gar nicht.}
-{233}{}{Danke. Tschüß.}
+{233}{}{Danke. Tschüss.}
 {234}{}{Versuch dein Glück woanders, Schwester. Ha, ha!}
 {235}{}{Wie wär's, wenn wir etwas anderes ausprobieren?}
 {236}{}{Also, du kleines...}
-{237}{}{Das muß ich mir von dir nicht anhören!}
+{237}{}{Das muss ich mir von dir nicht anhören!}
 {238}{}{Da drüben habe ich ein Zimmer. Wir zwei könnten es benutzen.}
 {239}{}{OK.}
 {240}{}{Nein, das habe ich nicht gemeint!}
@@ -99,12 +99,12 @@
 {244}{}{Du warst das Beste, was ich jemals hatte. Wirklich, ich mein das so.}
 {245}{}{Ich hasse es, gehetzt zu werden, aber...}
 {246}{}{Dann bis später.}
-{247}{}{Tschüß.}
+{247}{}{Tschüss.}
 {248}{}{Ja, was auch immer. Aber diesmal machst du hinter dir sauber, ja?}
 {249}{}{Hey, ihr alle! Ein Hoch für für Billy. Er läuft auf Hochtouren!}
 {250}{}{Brauchst du einen Lappen?}
 {251}{}{Bis gleich.}
-{252}{}{Sheila! Paß auf die Bar auf!}
+{252}{}{Sheila! Pass auf die Bar auf!}
 {253}{}{Hey, Billy, raus hier!}
 {254}{}{Wo waren wir gerade?}
 {255}{}{Junge Frau, wo bist du?}
@@ -113,16 +113,16 @@
 {258}{}{Komm mit.}
 {259}{}{Keine Frau versetzt mich. Verdammt, hau ab hier.}
 {260}{}{Wie du willst.}
-{261}{}{Hab vergessen, daß ich mich jetzt noch um was anderes kümmern muß. Bitte verzeih mir,
+{261}{}{Hab vergessen, dass ich mich jetzt noch um was anderes kümmern muss. Bitte verzeih mir,
  Baby.}
-{262}{}{Ich hab sowieso beschlossen, nicht mit deinem häßlichen Hintern ins Bett zu gehen.}
-{263}{}{Dein Glück, daß ich ein netter Typ bin. Aber komm mir mit dem Mist nicht noch mal.}
+{262}{}{Ich hab sowieso beschlossen, nicht mit deinem hässlichen Hintern ins Bett zu gehen.}
+{263}{}{Dein Glück, dass ich ein netter Typ bin. Aber komm mir mit dem Mist nicht noch mal.}
 {264}{}{Mach ich nicht Baby, ich versprech's.}
 {265}{}{Ich werd dir in den Hintern treten, Alte!}
 {266}{}{Niemand redet so mit mir! Verrecke!}
 {267}{}{Ich hab dir alle möglichen Chancen gegeben. Jetzt hau ab.}
 {268}{}{Mit dieser Ratte gehst du nicht in mein Hinterzimmer!}
-{300}{}{Hey, ich hab dir verdammt noch mal nicht gesagt, daß ich dich bezahle, damit du die
+{300}{}{Hey, ich hab dir verdammt noch mal nicht gesagt, dass ich dich bezahle, damit du die
  Olle umbringst. Mach dich weg!}
 {350}{}{Wow! Heiliger Himmel. Das war unglaublich.}
 {351}{}{Verdammt, du warst wirklich gut, Baby.}

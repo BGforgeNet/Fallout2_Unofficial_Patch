@@ -21,7 +21,7 @@
 {120}{}{Zurück.}
 {121}{}{"Wir arbeiten noch an einem funktionsfähigen Modell einer Flugmaschine. Keiner der bisherigen Entwürfe konnte in Bezug auf Sicherheit oder Aerodynamik überzeugen. Mit den Plänen der Alten Welt könnte es uns gelingen..." - Dr. Wong}
 {122}{}{Zurück.}
-{123}{}{(Nachdem du dich durch die Einleitung und die mathematischen Berechnungen gequält hast, entdeckst du, daß die Shi wieder lernen, Atomenergie zu entwickeln, indem sie die Raumflugtheorien der Alten Welt rekonstruieren - wobei sie die Hubologen belächeln. Neben Sonnenenergie nutzen sie auch Wind- und Wasserkraft, zumindest steht es so in den Aufzeichnungen.)}
+{123}{}{(Nachdem du dich durch die Einleitung und die mathematischen Berechnungen gequält hast, entdeckst du, dass die Shi wieder lernen, Atomenergie zu entwickeln, indem sie die Raumflugtheorien der Alten Welt rekonstruieren - wobei sie die Hubologen belächeln. Neben Sonnenenergie nutzen sie auch Wind- und Wasserkraft, zumindest steht es so in den Aufzeichnungen.)}
 {124}{}{Zurück.}
 {125}{}{Station deaktiviert.}
 {126}{}{Aktiviere Station.}

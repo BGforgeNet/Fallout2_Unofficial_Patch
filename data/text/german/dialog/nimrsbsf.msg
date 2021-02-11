@@ -1,9 +1,9 @@
 {100}{}{Du siehst einen Safe, sicher in die Wand eingelassen. Er ist verschlossen.}
 {150}{}{Du siehst einen Safe, sicher in die Wand eingelassen. Er ist offen.}
-{200}{}{(Da ist eine kleine Tür in der Wand. Eine sehr, sehr kleine Person muß darin leben. In der Mitte der Tür ist ein
+{200}{}{(Da ist eine kleine Tür in der Wand. Eine sehr, sehr kleine Person muss darin leben. In der Mitte der Tür ist ein
  Türknopf mit Zahlen darauf.)}
 {220}{}{(Ein Knarzen ertönt und der Safe öffnet sich.)}
-{230}{}{(You pry up a small panel on the bottom of the safe. You don't think you would have found it if Mrs. Bishop hadn't told you about it. Inside is an odd-looking Pip-Boy attachment.)}
+{230}{}{(Du entdeckst ein kleines Fach im Safeboden. Du glaubst nicht, dass Du es gefunden hättest, wenn Frau Bishop es Dir nicht erzählt hätte. Darin ist ein merkwürdig aussehender PIPBoy befestigt.)}
 {240}{}{(Du drehst einige Minuten lang langsam die Nummernscheibe, aber es tut sich nichts.)}
 {250}{}{(Du findest keine Fallen am Safe.)}
 {260}{}{(Du drehst den Knopf... als plötzlich ein Knarzen ertönt und sich die Tür öffnet!)}

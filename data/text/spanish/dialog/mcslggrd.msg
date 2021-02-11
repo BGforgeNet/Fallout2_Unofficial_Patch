@@ -24,6 +24,6 @@
 {242}{}{[Matarlos y dejar que se reunan con cualesquiera sean los dioses a los que adoren]}
 {250}{}{Lo siento; no puedes ir por aquí.}
 {251}{}{Esta entrada es para los trabajadores.}
-{252}{}{It takes too much effort to set up the ramps for just one person.}
+{252}{}{Se necesita demasiado esfuerzo para establecer las rampas para una sola persona.}
 {253}{}{Si quieres irte, habla con Vegeir.}
 {260}{}{Si, vale.}

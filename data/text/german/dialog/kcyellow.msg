@@ -4,11 +4,11 @@
 {111}{}{Wuff, Arf, Arf?}
 {112}{}{(In die Augen des Hundes starrend) Grrrr! Arrrrrgh! Grrrrrrrr!}
 {113}{}{Hmm, ich wette, du knurrst so, weil du was willst.}
-{114}{}{Du hast einfach nur Hunger, was, alter Junge? Laß mich mal sehen, ob ich was von dem leckeren Dunton-Dörrfleisch für dich hab.}
-{120}{}{Wuff! (Der Hund springt mit gefletschten Zähnen nach vorn - er schnappt das Fleisch aus deiner ausgestreckten Hand und frißt das Fleisch ziemlich geräuschvoll)}
-{121}{}{Wuff! (Der gelbe Hund schnappt zufrieden nach dem leckeren Dörrfleisch und verliert dabei einen Schlüssel, den er im Maul gehabt haben muß - du hebst den Schlüssel auf)}
+{114}{}{Du hast einfach nur Hunger, was, alter Junge? Lass mich mal sehen, ob ich was von dem leckeren Dunton-Dörrfleisch für dich hab.}
+{120}{}{Wuff! (Der Hund springt mit gefletschten Zähnen nach vorn - er schnappt das Fleisch aus deiner ausgestreckten Hand und frisst das Fleisch ziemlich geräuschvoll)}
+{121}{}{Wuff! (Der gelbe Hund schnappt zufrieden nach dem leckeren Dörrfleisch und verliert dabei einen Schlüssel, den er im Maul gehabt haben muss - du hebst den Schlüssel auf)}
 {122}{}{Mmm, Fleischchen}
-{123}{}{Ah, armer Junge, du mußt ja wirklich hungrig gewesen sein. (Den Kopf des Hundes tätschelnd.)}
+{123}{}{Ah, armer Junge, du musst ja wirklich hungrig gewesen sein. (Den Kopf des Hundes tätschelnd.)}
 {130}{}{Grrr. Wuff! Wuff!}
 {131}{}{Arf-arf Hundchen. Heh, heh.}
 {132}{}{Wiedersehn, Hundchen.}

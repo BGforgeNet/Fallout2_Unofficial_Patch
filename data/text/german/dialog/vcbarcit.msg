@@ -16,7 +16,7 @@
 {113}{}{Verzeihung, hast Du einen Tagesausweis? }
 {114}{}{Hmmmph. Noch ein Outsider.}
 {115}{}{Scheint, als ob mehr und mehr Outsiders ihren Weg in dieses Gemäuer finden...}
-{116}{}{Ich hoffe wirklich, daß Du einen Tagesausweis hast.}
+{116}{}{Ich hoffe wirklich, dass Du einen Tagesausweis hast.}
 {117}{}{Scheint, als ob sie in letzter Zeit für so ziemlich *jeden* Outsider einen Tagesausweis ausstellen...}
 {118}{}{Ich habe von Deinen mutigen Taten gehört. Du hast Vault City einen großen Dienst erwiesen...und der Welt.}
 {119}{}{Dein Kampf gegen die Enklave hat selbst der Erstbürgerin beeindruckt.}
@@ -28,10 +28,10 @@
 {124}{}{Du darfst gerne solange bleiben, wie Du möchtest, Held.}
 {125}{}{Du solltest Deine Heldentaten gegen die Enklave in einer schönen, ordentlichen Liste festhalten.}
 {126}{}{*Gähn*...hrmnnn? Ja? Was ist das?}
-{127}{}{Es ist ein bißchen spät für Besucher. }
+{127}{}{Es ist ein bisschen spät für Besucher. }
 {128}{}{Die MEISTEN Bürger würden zu dieser Stunde schlafen.}
 {129}{}{Schlafen? Nein, nicht mehr.}
-{130}{}{Bitte... komm am Morgen wieder. Morgen wird es ein langer Tag, weil ich die Listen machen muß.}
+{130}{}{Bitte... komm am Morgen wieder. Morgen wird es ein langer Tag, weil ich die Listen machen muss.}
 {131}{}{Guten Tag, Hauptmann.}
 {132}{}{Vault City wird bestehen, Hauptmann.}
 {133}{}{Kann ich Dir einen Donut bringen, Hauptmann?}
@@ -47,7 +47,7 @@
 {142}{}{Ich arbeite im Listenbüro. Die meisten von uns tun das. Wir hier in Vault City *lieben* es, Listen zu erstellen.}
 {143}{}{Ich habe fast den ganzen Tag damit verbracht, diese Liste für das Listenbüro auf den neuesten Stand zu bringen. Es
  war gute, ehrliche, produktive Arbeit.}
-{144}{}{Ich habe gehört, daß Du tatsächlich in die Outsiderwelt gereist bist. Wie hast Du bei diesen dreckigen Outsidern überlebt?}
+{144}{}{Ich habe gehört, dass Du tatsächlich in die Outsiderwelt gereist bist. Wie hast Du bei diesen dreckigen Outsidern überlebt?}
 {145}{}{Oh! Du bist der neue Bürger. Willkommen in Vault City.}
 {146}{}{Brauchst Du eine Bleibe, während Du in der Stadt bist?}
 {147}{}{Dem Rat liegen unsere Interessen am Herzen.}
@@ -66,5 +66,5 @@
 {159}{}{Bitte steh' dort drüben hin.}
 {160}{}{Die Diener geben uns mehr Zeit für die wichtigeren Angelegenheiten. Hauptsächlich Listen erstellen.}
 {161}{}{Die Diener? Oh, wir benutzen sie für untergeordnete Aufgaben.}
-{162}{}{Ja, ich kann riechen... äh, sehen, daß Du ein Outsider bist.}
+{162}{}{Ja, ich kann riechen... äh, sehen, dass Du ein Outsider bist.}
 {163}{}{Du bist ein Outsider? Wie putzig.}

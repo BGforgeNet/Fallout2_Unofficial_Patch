@@ -34,7 +34,7 @@
  drüben in der Halle. Sie ist eine der Wachen.}
 {126}{}{Ok, gut. Danke.}
 {127}{}{Ja...Putzig. Danke.}
-{128}{}{You're out of uniform. }
+{128}{}{Du trägst keine Uniform.}
 {129}{}{Zieh Dir besser eine an. Die Waffenkammer ist am Ende der Halle auf der linken Seite.}
 {130}{}{Das ist sehr riskant, ohne Uniform herumzulaufen. Meld dich lieber beim Nachschub.}
 {131}{}{Wer zum Teufel seid ihr...Alarm! Eindringlinge!}

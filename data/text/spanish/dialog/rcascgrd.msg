@@ -31,7 +31,7 @@
 {130}{}{Te voy a hacer pedazos por iniciar aquí una pelea.}
 {131}{}{Tonto del culo.}
 {132}{}{No puedes hacer eso y seguir con vida.}
-{133}{}{Time to take you outta' da' gene-pool.}
+{133}{}{Tiempo para tomar usted outta' da' gen de la piscina.}
 {134}{}{Deberías saberlo mejor.}
 {135}{}{Lamento haber llegado a esto.}
 {136}{}{Perdedor.}
@@ -42,7 +42,7 @@
 {141}{}{Ahora tenemos que darte una buena paliza.}
 {142}{}{Esto va a ser realmente doloroso... para ti.}
 {143}{}{Será mejor que agarres esa pipa, colega.}
-{144}{}{We don't want any trouble here, friend. Put that away.}
+{144}{}{No queremos ningún problema aquí, amigo. Puesto que la distancia.}
 {145}{}{Mejor que apartes eso.}
 {146}{}{Mantenla enfundada, tío.}
 {147}{}{Aparta ese arma.}

@@ -12,7 +12,7 @@
 {124}{}{Cuando a tu piel le falta ese "brillo especial"...}
 {125}{}{¡Elije Cerveza Tragos Gamma!}
 {143}{}{...la Garra de la Gata!}
-{144}{}{When you got that itch that you NEED to scratch...}
+{144}{}{Cuando tienes que picar que usted NECESITA para rascarse...}
 {145}{}{¡Dirígete a la Garra de la Gata!}
 {163}{}{...Armas Nuevo Reno!}
 {164}{}{Cuando necesitas matar a alguien desde una distancia segura...}

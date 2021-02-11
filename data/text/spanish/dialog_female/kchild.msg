@@ -4,7 +4,7 @@
 {151}{}{¡Eeeee! ¡El hombre del saco!}
 {152}{}{Papi dice que eres mala.}
 {153}{}{¡Aieeee! ¡Corred!}
-{154}{}{Me estás asustando.}
+{154}{}{Me estás dando miedo.}
 {155}{}{Deja de mirarme.}
 {156}{}{Se supone que no debo de hablar con tribales.}
 {157}{}{Eres igual que los Dunton.}
@@ -73,7 +73,7 @@
 {221}{}{¿Te gusto?}
 {222}{}{¿Estás casada?}
 {223}{}{Uno, dos, tres - ¡siii!}
-{1000}{}{Anciana}
+{1000}{}{Elder}
 {1001}{}{Fundador}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}

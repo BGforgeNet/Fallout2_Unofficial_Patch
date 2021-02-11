@@ -102,8 +102,8 @@
 {201}{}{ zkušenì odstraòuje past.}
 {202}{}{ se nepodaøilo zneškodnit past na dveøích.}
 {203}{}{Dveøe se zdají bıt zamèené.}
-{204}{}{You notice a trap in the door jam.}
-{205}{}{ notices a trap in the door jam.}
+{204}{}{You notice a trap in the door jamb.}
+{205}{}{ notices a trap in the door jamb.}
 {206}{}{Nemùeš umístit past na dveøe, kdy jsou otevøené.}
 {207}{}{ nemùe umístit past na dveøe, kdy jsou otevøené.}
 {208}{}{Zkušenì umisuješ past na rám dveøí.}
@@ -125,3 +125,6 @@
 {501}{}{Vypadá to, e musíš nejdøíve zprovoznit generátor.}
 {502}{}{Vidíš dveøe od vıtahu.}
 {503}{}{Vypadá to, e k otevøení tohoto zámku budeš potøebovat nìjaké elektrické zaøízení.}
+{601}{}{It is open, dummy.}
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}

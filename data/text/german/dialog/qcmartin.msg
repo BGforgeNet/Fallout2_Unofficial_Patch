@@ -24,14 +24,14 @@
 {123}{}{Ich bin der Martin, ne.}
 {124}{}{Ich kann dir sagen, was passiert ist.}
 {125}{}{Hallo, ich bin Martin Frobisher. Ich spreche im Namen dieser Leute. Dem Himmel sei Dank,
- daß du hier bist.}
+ dass du hier bist.}
 {126}{}{Was möchtest du denn wissen?}
 {127}{}{Nette Klamotten, wie meine. Wer seid ihr?}
 {128}{}{Was macht ihr hier?}
 {129}{}{Bist du der Aufseher?}
 {130}{}{Wie seid ihr hierher gekommen?}
-{131}{}{Schön dich kennenzulernen, Martin, aber ich muß Leute befreien. Tschüß.}
-{132}{}{Ja, ich hatte gehofft, daß du deswegen hier bist. Du mußt uns befreien.}
+{131}{}{Schön dich kennenzulernen, Martin, aber ich muss Leute befreien. Tschüss.}
+{132}{}{Ja, ich hatte gehofft, dass du deswegen hier bist. Du musst uns befreien.}
 {133}{}{Euch befreien? Ich wollte nur meine Sippe befreien.}
 {134}{}{Aber klar, ich würde niemanden hier festsitzen lassen.}
 {135}{}{Was macht ihr hier eigentlich?}
@@ -39,9 +39,9 @@
 {137}{}{Was für ein Virus?}
 {138}{}{Das klingt nicht gut. Ich möchte noch etwas fragen.}
 {139}{}{Habt ihr ein Glück. Vielleicht lernt ihr jetzt den Schmerz kennen, den mein Vorfahr, der
- Vaultbewohner, fühlte. Schmort in der Hölle. Tschüß.}
+ Vaultbewohner, fühlte. Schmort in der Hölle. Tschüss.}
 {140}{}{Die nennen es F.E.V.-Gift. Bevor es tötet, stellt es furchtbare Sachen mit den Menschen
- an. Das einzig *Gute* daran ist, daß es so schnell tötet, aber es sieht ziemlich schmerzhaft
+ an. Das einzig *Gute* daran ist, dass es so schnell tötet, aber es sieht ziemlich schmerzhaft
  aus.}
 {141}{}{Das klingt ja übel. Warum verwenden die eure Leute für die Tests?}
 {142}{}{Sie brachten uns alle aus unserer Vault, weil sie Testpersonen für das Gegenmittel
@@ -63,32 +63,32 @@
 {152}{}{Du hast gesehen, wie sie ein GECK verladen haben? Weißt du, wo sie es hingebracht haben?}
 {153}{}{Das ist schon OK. Ich hab mir schon ein GECK von unserer Vault besorgt. Ich habe noch
  eine Frage.}
-{154}{}{Ich weiß nicht genau, wo sie es hingebracht haben, aber einer sagte, daß sie es in der
+{154}{}{Ich weiß nicht genau, wo sie es hingebracht haben, aber einer sagte, dass sie es in der
  Sperrebene lassen wollten, genau unter dieser Ebene, glaube ich.}
-{155}{}{Super. Danke. Ich muß jetzt los.}
+{155}{}{Super. Danke. Ich muss jetzt los.}
 {156}{}{Ah, ich verstehe. Ich habe da noch eine Frage.}
-{157}{}{Warte! Du mußt uns hier rausholen.}
+{157}{}{Warte! Du musst uns hier rausholen.}
 {158}{}{Das hab ich auch vor. Ich gehe nach unten ins Kraftwerk, um den Strom auszuschalten und
  euch zu befreien. Wenn die Felder deaktiviert sind, lauft nach oben zu meinem Schiff, das dort
  liegt.}
 {159}{}{Wie kann ich das tun?}
 {160}{}{Daran hättet ihr denken sollen, *bevor* ihr meinen Vorfahren aus dem Vault geschmissen
- habt. Hoffentlich verfault ihr alle hier. Tschüß.}
+ habt. Hoffentlich verfault ihr alle hier. Tschüss.}
 {161}{}{Danke. Gottes Segen und viel Glück, mein Freund.}
 {162}{}{Auf Wiedersehen und viel Glück.}
 {163}{}{Danke, aber vorher möchte ich dich was fragen.}
-{164}{}{Mein Gefühl sagt mir, daß ich es brauchen kann. Auf Wiedersehen.}
-{165}{}{Wenn du die Kraftfelder ausschalten willst, mußt du wohl die Hauptstromversorgung
+{164}{}{Mein Gefühl sagt mir, dass ich es brauchen kann. Auf Wiedersehen.}
+{165}{}{Wenn du die Kraftfelder ausschalten willst, musst du wohl die Hauptstromversorgung
  ausschalten.}
 {166}{}{Wie soll ich denn das schaffen?}
 {167}{}{Ich habe gelauscht und ich glaube, der Reaktor wird von einem großen Computer drei Ebenen
- unter uns gesteuert. Wenn du den in die Luft jagst, müßte der Strom ausfallen und wir sind
+ unter uns gesteuert. Wenn du den in die Luft jagst, müsste der Strom ausfallen und wir sind
  wieder frei.}
 {168}{}{Super Idee. Mit meinem Sprengstoff kann ich den Computer sprengen. Dann könnt ihr nach
  oben laufen, zu meinem Schiff. Ich komme nach.}
 {169}{}{Super Idee, aber ich weiß nicht wie ich den Reaktor sprengen kann. Ich habe keinen
  Sprengstoff.}
-{170}{}{Bei den Baracken der Wachen muß es auch ein Waffenlager geben. Und dort haben die auch
+{170}{}{Bei den Baracken der Wachen muss es auch ein Waffenlager geben. Und dort haben die auch
  Sprengstoff, ganz sicher.}
 {171}{}{Gute Idee. Ich hol mir den Sprengstoff und jage damit den Computer in die Luft. Dann
  könnt ihr nach oben laufen, zu meinem Schiff. Ich komme nach.}
@@ -105,11 +105,11 @@
 {177}{}{He! Du redest von *meinem* Vorfahren und den Leuten, die mein Dorf gründeten. Sie
  stammten alle aus der Vault der Heiligen 13.}
 {178}{}{Geschieht euch recht. Ich möchte dich noch etwas fragen.}
-{179}{}{Ich finde, dafür habt ihr noch nicht genug gelitten. Tschüß.}
+{179}{}{Ich finde, dafür habt ihr noch nicht genug gelitten. Tschüss.}
 {180}{}{Unglaublich, das ist unsere Vault! Wieder ist das Vaultvolk auf jemanden angewiesen,
  diesmal auf den Urenkel des Vaultbewohners.}
 {181}{}{Unglaublich, das ist unsere Vault! Wieder ist das Vaultvolk auf jemanden angewiesen,
  diesmal auf die Urenkelin des Vaultbewohners.}
-{182}{}{Wenn ich bloß wüßte, wie ich euch retten kann.}
+{182}{}{Wenn ich bloß wüsste, wie ich euch retten kann.}
 {183}{}{Ich denk darüber nach.}
 {184}{}{So ein bizarrer Zufall. Ich habe da noch eine Frage.}

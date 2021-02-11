@@ -26,7 +26,7 @@
 {122}{}{Nächstes Mal kümmere ich mich um Lou.}
 {123}{}{Du bist schlauer, als du aussiehst.}
 {124}{}{Blöde Ollen, die sind alle gleich. Wo ist mein Rasiermesser?}
-{125}{}{Hab gehört, daß vielleicht jemand mit dem alten Hakeswill sprechen will. Ein Freiwilliger,
+{125}{}{Hab gehört, dass vielleicht jemand mit dem alten Hakeswill sprechen will. Ein Freiwilliger,
  der Obidiah das Gesetz lehren will. Bist du das?}
 {126}{}{Ich such den Bergarbeiter, der Lous Mädchen entstellt hat. Hört sich mir ganz so an, als
  ob du das gerade zugegeben hast.}
@@ -51,7 +51,7 @@
  einer Warnung davon. Aber wenn du das noch mal machst...}
 {138}{}{Oh, danke, Mister. Jawohl, Sir Obidiah wird aufpassen, Sir. Danke.}
 {139}{}{Danke, Madame. Ja, Madame. Obidiah wird schon aufpassen, Madame. Danke.}
-{140}{}{Sieh bloß zu, daß du dich zusammenreißt. Ich will sowas nicht noch mal hören.
+{140}{}{Sieh bloß zu, dass du dich zusammenreißt. Ich will sowas nicht noch mal hören.
  Wiedersehn.}
 {141}{}{Sie hat sich über meine Ma lustig gemacht. Niemand macht sich über Hakeswills Ma lustig.
  Sie ist das einzig Gute in dieser ganzen verdorbenen Welt.}
@@ -59,10 +59,10 @@
 {143}{}{Deine Ma hätte eine zuverlässigere Empfängnisverhütung benutzen sollen.}
 {144}{}{Sie hat sich über deine Mutter lustig gemacht? Das ist aber wirklich nicht nett. Trotzdem
  hast du überreagiert.}
-{145}{}{Na gut, hab ich. Aber die Jungs und ich hier in der Morningstar finden, daß hätt sie
+{145}{}{Na gut, hab ich. Aber die Jungs und ich hier in der Morningstar finden, dass hätt sie
  nicht tun dürfen. Aber ich versprech, es wird nicht wieder vorkommen.}
-{146}{}{Tja, ich sollte dich einlochen dafür, daß du dem Mädchen das halbe Gesicht entstellt hast
- - aber solang du das nicht zur Gewohnheit machst... Diesmal laß ich dich noch mal davonkommen.}
+{146}{}{Tja, ich sollte dich einlochen dafür, dass du dem Mädchen das halbe Gesicht entstellt hast
+ - aber solang du das nicht zur Gewohnheit machst... Diesmal lass ich dich noch mal davonkommen.}
 {147}{}{Ich bin sicher, die Geschworenen werden das berücksichtigen. Ich loch dich trotzdem ein.}
 {148}{}{Wenn die anderen Bergarbeiter dieselbe brutale Einstellung haben wie du, dann tut ihnen
  das Exempel nur gut, das ich an dir statuieren werde.}

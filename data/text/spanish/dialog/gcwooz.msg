@@ -90,7 +90,7 @@ apestosos zombis.}
 {271}{}{Lo sabía. Te estaba poniendo a prueba. Wooz, qué listo eres. Cuéntame algo más.}
 {272}{}{¡No lo soy! Tú sí que eres tonto. Me largo. Adiós.}
 {280}{}{(Wooz se te acerca) Déjame susurrártelo…}
-{281}{}{De acuerdo.}
+{281}{}{Vale.}
 {282}{}{Ni hablar; tú lo que estás intentando es comerme los sesos, ¿no? Me voy. Hasta la próxima.}
 {290}{}{¡¡¡QUE TE DEN!!! Sal de mi bar ahora mismo. Elegido. Por Cristo, menudo perdedor.}
 {291}{}{De todas formas no me quiero quedar en tu estúpido bar. No hace falta que grites. Adiós.}

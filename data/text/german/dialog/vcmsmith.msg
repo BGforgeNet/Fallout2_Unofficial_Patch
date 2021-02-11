@@ -21,11 +21,11 @@
 {118}{}{Warum bist du nicht in der Stadt?}
 {119}{}{Kann ich dich noch etwas anderes fragen?}
 {120}{}{Ja, harte Zeiten sind das. Mach's gut.}
-{121}{}{Stimmt, alter Knabe. Ich muß jetzt los.}
+{121}{}{Stimmt, alter Knabe. Ich muss jetzt los.}
 {122}{}{Meinst du die Vault in der Stadt? Ich hab sie nur einmal gesehen... sie ist innerhalb der
  Stadtmauern am Abhang, glaube ich. Da lassen sie aber nur Bürger rein.}
 {123}{}{Kann ich dich noch etwas anderes fragen?}
-{124}{}{Danke für die Beschreibung. Tschüß.}
+{124}{}{Danke für die Beschreibung. Tschüss.}
 {125}{}{So Leute wie mich und meine Familie lassen sie da nicht rein. Wir leben hier unter dem
  Schutz der Stadt.}
 {126}{}{Warum dürft ihr nicht in der Stadt leben?}
@@ -54,23 +54,23 @@
 {146}{}{Uahh! Wenn ihr nichts zahlen könnt, kann ich euch auch nicht helfen.}
 {147}{}{Kein Problem. Ich helf euch gerne.}
 {148}{}{Kann ich dich noch etwas anderes fragen?}
-{149}{}{Ich werde mal drüber nachdenken. Tschüß.}
+{149}{}{Ich werde mal drüber nachdenken. Tschüss.}
 {150}{}{Wir haben ungefähr 150 Dollar gespart, vielleicht nützt das ja was. Aber wir können die
  nächste Zahlung nicht mehr leisten, wenn wir den Pflug nicht bis nächste Woche haben.}
 {151}{}{Ich nehme das Geld mit.}
 {152}{}{Macht euch keine Sorgen um das Geld. Ich helf euch auf jeden Fall.}
-{153}{}{Vergiß es... ich kann euch nicht helfen. Tschüß.}
+{153}{}{Vergiss es... ich kann euch nicht helfen. Tschüss.}
 {154}{}{Herzlichen Dank, Fremdling.}
 {155}{}{Weißt du, wo ich einen Pflug finden kann?}
 {156}{}{Beim Waffen- und Munitionsgeschäft liegt einer. Vielleicht verkauft Harry ihn.}
 {157}{}{OK. Mal sehn, ob ich ihn finde.}
 {158}{}{Hast du einen Pflug bekommen?}
 {159}{}{Tut mir leid. Noch nicht.}
-{160}{}{Ich glaub kaum, daß ich euch einen besorgen kann.}
+{160}{}{Ich glaub kaum, dass ich euch einen besorgen kann.}
 {161}{}{Naja, ein Weilchen kommen wir noch ohne aus. Aber nicht sehr viel länger.}
 {162}{}{Mein Vater hat mir beigebracht, mich vor Leuten wie dir zu hüten... verschwinde. Na los. Wird's bald!}
 {163}{}{Herzlichen Dank. Das hier hat Vater mir gegeben, bevor er gestorben ist. Jetzt, wo die
  Wachen uns beschützen, brauchen wir es nicht... aber du kannst damit vielleicht was anfangen.}
-{164}{}{Vielen Dank. Ich bin sicher, daß kam genau richtig. Paß auf dich auf.}
+{164}{}{Vielen Dank. Ich bin sicher, dass kam genau richtig. Pass auf dich auf.}
 {165}{}{Danke für deine Hilfe, Fremder. Das werden wir dir nie vergessen.}
 {166}{}{Du hast einen Pflug für Mr. Smith und seiner Familie gefunden.}

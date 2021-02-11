@@ -116,8 +116,6 @@ procedure timed_event_p_proc begin
                self_walk_to_tile(tile_num_in_direction(local_var(LVAR_Home_Tile),random(0,5),random(1,3)));
             end
             if ((night) or (random(1,100) == 42)) then begin
-               //give_pid_qty(self_obj, PID_JET, 1)
-               //use_obj_on_obj(restock_obj,self_obj);
                use_obj_on_obj(create_object(PID_JET,0,0),self_obj); //edit by killap
             end
             if (self_can_see_dude) then begin

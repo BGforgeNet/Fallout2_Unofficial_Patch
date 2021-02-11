@@ -13,7 +13,7 @@
  meine Ware werfen?}
 {112}{}{Ja.}
 {113}{}{Nein.}
-{114}{}{Mein Sortiment wird dir bestimmt gefallen. Laﬂ dir Zeit und schau alles in Ruhe an.}
+{114}{}{Mein Sortiment wird dir bestimmt gefallen. Lass dir Zeit und schau alles in Ruhe an.}
 {115}{}{OK.}
 {116}{}{Darf es sonst noch was sein?}
 {117}{}{Ja.}

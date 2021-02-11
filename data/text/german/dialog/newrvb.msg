@@ -34,9 +34,9 @@
 {401}{}{Jo}
 {402}{}{[Verschwinde]}
 {403}{}{Steig in den Vertibird.}
-{404}{}{Du läßt die Finger davon.}
+{404}{}{Du lässt die Finger davon.}
 {450}{}{[Die Tür schließt sich hinter Dir und der Vertbird hebt ab! Du kannst die Tür nicht öffnen!]}
 {451}{}{Oh-oh}
 {452}{}{Oh, Mist...}
-{500}{}{Diese Kisten sind mit schweren Metallkanistern gefüllt. So sorgfältig, wie sie verpackt wurden, gehst du davon aus, daß sie irgendwelche gefährlichen Chemikalien enthalten.}
+{500}{}{Diese Kisten sind mit schweren Metallkanistern gefüllt. So sorgfältig, wie sie verpackt wurden, gehst du davon aus, dass sie irgendwelche gefährlichen Chemikalien enthalten.}
 {550}{}{Dies ist vermutlich nicht der beste Zeitpunkt, um ein Gespräch zu beginnen.}

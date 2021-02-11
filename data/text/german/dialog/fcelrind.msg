@@ -9,7 +9,7 @@
 {108}{}{Hey! Bring meine Neurodyne nicht durcheinander!}
 {109}{}{Verschwinde, Ungläubiges Wesen!}
 {110}{}{Quatsch mich nicht an. Ich bin sehr beschäftigt.}
-{111}{}{Hey! Laß meine Neurodyne in Ruhe!}
+{111}{}{Hey! Lass meine Neurodyne in Ruhe!}
 {112}{}{Wenn du ausgerichtet wärst, könnte ich dich vielleicht besser leiden.}
 {113}{}{Der Sternenvater wird dich lieben, wenn du ihm die Gelegenheit gibst.}
 {114}{}{Willst du den Quetzel nicht sehen? Komm, schließ dich uns an!}
@@ -31,9 +31,9 @@
 {139}{}{Der Unerleuchtete!}
 {140}{}{Komm mir nicht zu nahe, Elender!}
 {141}{}{Offensichtlich hast du einige schlechte Neurodyne!}
-{142}{}{Nein! Vergifte mich nicht mit deinem Haß!}
+{142}{}{Nein! Vergifte mich nicht mit deinem Hass!}
 {143}{}{Wachen! Wachen! Der Barbar ist hier!}
-{144}{}{Faß mich nicht an!}
+{144}{}{Fass mich nicht an!}
 {145}{}{Hilfe! Wachen!}
 {146}{}{Der Feind unseres Volkes!}
 {147}{}{Die dunklen Zeiten sind zurück!}
@@ -48,7 +48,7 @@
 {156}{}{Wir sind auf dem Weg zur Quetzel!}
 {157}{}{Ich freue mich schon darauf, zu den Sternen zurückzukehren.}
 {158}{}{Es wird Zeit für meine Ausrichtung.}
-{159}{}{Ich warte darauf, daß AHS-9 wieder spricht!}
+{159}{}{Ich warte darauf, dass AHS-9 wieder spricht!}
 {160}{}{Hoffentlich sind meine Neurodyne in Ordnung.}
 {161}{}{Ich möchte ein höherer Ausgerichteter Hub-Sucher sein.}
 {162}{}{Es wird Zeit, mich um mein inneres Wachstum zu kümmern.}
@@ -63,6 +63,6 @@
 {183}{}{Aah! Der Sternenvater! Der Sternenvater! }
 {184}{}{Ich kann den Start kaum noch erwarten! }
 {185}{}{Wann geht's endlich los?}
-{186}{}{Ich wette, daß die hohen AHSs nicht so nervös sind.}
+{186}{}{Ich wette, dass die hohen AHSs nicht so nervös sind.}
 {187}{}{Wow... die Sterne. Endlich.}
 {188}{}{Ich werde nie wieder einen Aluhut tragen müssen!}

@@ -39,36 +39,36 @@
 {137}{}{Diese NCR-Schweine. Die sollten sich hier nicht mehr blicken lassen, wenn ihnen ihr Leben
  lieb ist.}
 {138}{}{Vielleicht stecken ja UNSERE Menschen dahinter...}
-{139}{}{Danke, daß du die Mutanten gerettet hast.}
+{139}{}{Danke, dass du die Mutanten gerettet hast.}
 {140}{}{Wir sollten das Schwein umbringen, das unsere Mutanten vergiften wollte.}
 {141}{}{Es passiert alles auf einmal...mir ist ganz schwindelig...}
-{142}{}{Ich muß wohl langsam wieder zurück zur Arbeit.}
+{142}{}{Ich muss wohl langsam wieder zurück zur Arbeit.}
 {143}{}{Wer hat bloß diese zwei Nichtsnutze befreit? Und auch noch Wachen dabei umgebracht...
- Marcus muß ganz schön sauer sein.}
+ Marcus muss ganz schön sauer sein.}
 {144}{}{In dieser Stadt tut sich irgendwas Komisches.}
-{145}{}{Ist dir auch aufgefallen, daß es in der Stadt immer mehr nach Ärger aussieht?}
-{146}{}{Ich dachte eigentlich, daß man sich hier ganz friedlich niederlassen könnte. Da hab ich
+{145}{}{Ist dir auch aufgefallen, dass es in der Stadt immer mehr nach Ärger aussieht?}
+{146}{}{Ich dachte eigentlich, dass man sich hier ganz friedlich niederlassen könnte. Da hab ich
  mich wohl vertan.}
 {147}{}{Wer hätte denn mit solcher Gewalt in Broken Hills gerechnet?}
 {148}{}{Franc und Manson...irgend jemand wünscht den Mutanten den Tod.}
 {149}{}{Wie konntest du die beiden entkommen lassen?}
 {150}{}{Du solltest dich was schämen.}
-{151}{}{Hoffentlich hast du recht damit, daß Franc und Manson nicht gefährlich sind...die
+{151}{}{Hoffentlich hast du recht damit, dass Franc und Manson nicht gefährlich sind...die
  Mutanten werden dich für alles verantwortlich machen.}
 {152}{}{Franc und Manson...wieder frei... Puhh. Vielleicht sollte ich hier wegziehen.}
 {153}{}{In dieser Stadt tut sich irgendwas Komisches.}
-{154}{}{Ist dir auch aufgefallen, daß es in der Stadt immer mehr nach Ärger aussieht?}
+{154}{}{Ist dir auch aufgefallen, dass es in der Stadt immer mehr nach Ärger aussieht?}
 {155}{}{Sehr gut! Die haben gekriegt was sie verdienen!}
-{156}{}{Mir kam Jacob immer schon ein bißchen komisch vor.}
+{156}{}{Mir kam Jacob immer schon ein bisschen komisch vor.}
 {157}{}{Das wird die Menschen lehren, die Gesetze zu brechen.}
-{158}{}{Ach, komm...Aileen? Ich kann mir nicht vorstellen, daß sie das macht.}
+{158}{}{Ach, komm...Aileen? Ich kann mir nicht vorstellen, dass sie das macht.}
 {159}{}{Ganz schöner Schlag für die Menschen! Die sind im Moment ganz schön in der Defensive und
  schämen sich.}
 {160}{}{Ob sich Broken Hills je wieder von den Spannungen zwischen Menschen und Mutanten erholt?}
 {161}{}{Diese Schweine Jacob und Aileen haben mich immer wie einen Bürger zweiter Klasse
  behandelt. Das haben sie jetzt davon.}
-{162}{}{Ich glaube nicht, daß sich Broken Hills je wieder vom Verlust der Mine erholt...}
-{163}{}{All the mutants... dead...}
+{162}{}{Ich glaube nicht, dass sich Broken Hills je wieder vom Verlust der Mine erholt...}
+{163}{}{Alle Mutanten… tot…}
 {164}{}{...jetzt werden wir nie herausfinden, ob es Frieden zwischen Menschen und Mutanten hätte
  geben können...}
 {165}{}{Jetzt sollten wir aber von hier abhauen und sehen, was der Rest der Welt so zu bieten
@@ -79,16 +79,16 @@
 {168}{}{Du gottverdammter Bastard. }
 {169}{}{Hast du denn gar kein Schamgefühl?}
 {170}{}{Warum willst du unsere Stadt zerstören?}
-{171}{}{Begreifst du denn nicht, daß du mit der Mine auch uns zerstört hättest?}
+{171}{}{Begreifst du denn nicht, dass du mit der Mine auch uns zerstört hättest?}
 {172}{}{Will mit dir nicht reden.}
 {173}{}{Hau ab.}
 {174}{}{Gute Arbeit.}
-{175}{}{Wirklich schade, daß die alle unter der Stadt begraben worden sind.}
-{176}{}{Wie konnten sie bloß diese Tunnel graben, ohne daß wir es gemerkt haben?}
+{175}{}{Wirklich schade, dass die alle unter der Stadt begraben worden sind.}
+{176}{}{Wie konnten sie bloß diese Tunnel graben, ohne dass wir es gemerkt haben?}
 {177}{}{Jetzt wissen wir also, was Franc und Manson vorhatten.}
 {178}{}{Die armen Leute. Und ihre armen Familien.}
 {180}{}{Tu mir nicht weh.}
-{181}{}{Laß mich in Ruhe.}
+{181}{}{Lass mich in Ruhe.}
 {182}{}{Nein! Nein! Nein!}
 {183}{}{Ich mach mich dann mal auf den Weg.}
 {184}{}{Raus aus unserer Stadt!}

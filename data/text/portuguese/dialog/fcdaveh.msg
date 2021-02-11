@@ -13,8 +13,8 @@
 {112}{}{Falei com Vikki. Ela disse que você é gostoso e ela quer você em algum momento.}
 {113}{}{Você quer que eu fale com Vikki para você?}
 {114}{}{Deixa pra lá. Tchau.}
-{115}{}{Ummm... oookay. Whatever. Say, what's that over there?
-[As you turn to look, he whips back to what he was doing and ignores you.]}
+{115}{}{Ummm ... oookay. Tanto faz. Diga, o que está logo ali?
+[Conforme você se vira pra olhar, ele voltou para o que ele estava fazendo e ignora você.]}
 {116}{}{[FEITO]}
 {117}{}{Sou Dave Handy. Sou do Canadá.}
 {118}{}{Então, o que você faz aqui?}

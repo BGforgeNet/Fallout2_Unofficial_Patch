@@ -105,7 +105,7 @@
 {441}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso. Fue sabio permitirte unirte a mi culto. ¿No hay algo que deberías estar haciendo en este momento?}
 {442}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso.}
 {443}{}{(crunch, munch, crunch) Mmmm, me encantan las bolitas de queso, saben tanto a, bueno, eh, queso.}
-{444}{}{De acuerdo.}
+{444}{}{Vale.}
 {450}{}{Que así sea. ¡Zomak! ¡Mata a este idiota por mí! ¡Pero ten cuidado con las bolitas de queso!}
 {460}{}{Tienes que usar el disco de datos del reactor en la computadora central de Ciudad Refugio. Puedes colarte
  en ella y usarlo, o, si tienes el disco de datos económicos, dirigirte a McClure.}

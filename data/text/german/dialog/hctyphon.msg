@@ -6,7 +6,7 @@
 {105}{}{Heim der alten Ghuls?}
 {106}{}{Wer bist du?}
 {107}{}{Hey, schon mal vom GECK gehört?}
-{108}{}{Tschüß.}
+{108}{}{Tschüss.}
 {109}{}{Noch so ein Wüsten-Baby, he? Hey, Kid, willst du ein Geheimnis wissen?}
 {110}{}{Ja!}
 {111}{}{Nö.}
@@ -18,8 +18,8 @@
 {117}{}{Ich hatte noch andere Fragen.}
 {118}{}{Wiedersehn!}
 {119}{}{Ha. Also gut. Ich hab nichts für dich. Zieh Leine, Kind.}
-{120}{}{Tschüß.}
-{121}{}{Kid, zuerst mußt du mir einen Gefallen tun.}
+{120}{}{Tschüss.}
+{121}{}{Kid, zuerst musst du mir einen Gefallen tun.}
 {122}{}{Okay!}
 {123}{}{Nö!}
 {124}{}{Was ist es?}
@@ -52,18 +52,18 @@
 {151}{}{Noch etwas, was du mir erzählen könntest?}
 {152}{}{Es ist eine Art Witz. Es gibt außer alten Ghuls keine Ghuls. Wir sind alle sterilisiert, aber haben eine lange Lebensdauer, verstehst du. Wir sind die erste und letzte Generation von Ghuls. Dieser Ort hier ist für diejenigen von uns, die sich ein wenig ausruhen wollen.}
 {153}{}{Ich verstehe. Ich habe weitere Fragen.}
-{154}{}{Alles klar. Tschüß.}
+{154}{}{Alles klar. Tschüss.}
 {155}{}{Ich bin Typhon. Schon mal was von Set gehört? Er hat die Stadt Necropolis in den alten Zeiten geschmissen. Ich bin sein Sohn. Wurde geboren, bevor die radioaktive Verstrahlung uns getroffen hat, deshalb bin ich mutiert aufgewachsen. Hat für mich nie einen anderen Weg gegeben.}
 {156}{}{Erzähl mir über Set.}
 {157}{}{Set? Ich habe gehört, er war ein totaler Bastard!}
 {158}{}{Ich verstehe. Ich habe weitere Fragen.}
-{159}{}{Alles klar. Tschüß.}
+{159}{}{Alles klar. Tschüss.}
 {160}{}{Ja. Hatte mal welche, aber all diese hochgeborenen Menschenwesen haben sie gestohlen, um ihr eigenes kleines Paradies zu schaffen. Vault City ist wahrscheinlich der beste Ort, um welche zu finden. Entweder dort oder im Süden der New California Republic.}
 {161}{}{Verdammt. Okay, ich habe weitere Fragen.}
 {162}{}{Verdammt. Wiedersehen.}
-{163}{}{"Alter Bastard" wäre eine gute Bezeichnung für den alten Mann. Daß er durch die radioaktive Strahlung in einen Ghul verwandelt worden ist, hat seinem Sinn für Humor und Autorität nicht viel geholfen, soviel steht fest. Klar, es hat alle auch etwas verwirrt in der Birne gemacht. Ich glaube, es war für mich eine Erleichterung, daß ich als Ghul aufgewachsen bin.}
+{163}{}{"Alter Bastard" wäre eine gute Bezeichnung für den alten Mann. Dass er durch die radioaktive Strahlung in einen Ghul verwandelt worden ist, hat seinem Sinn für Humor und Autorität nicht viel geholfen, soviel steht fest. Klar, es hat alle auch etwas verwirrt in der Birne gemacht. Ich glaube, es war für mich eine Erleichterung, dass ich als Ghul aufgewachsen bin.}
 {164}{}{Ich verstehe. Ich habe weitere Fragen.}
-{165}{}{Danke. Tschüß.}
+{165}{}{Danke. Tschüss.}
 {166}{}{Und? Hast du mir schon ein Cat's Paw Magazin besorgt?}
 {167}{}{Ja. [Du gibst Typhon das Cat's Paw Magazin.]}
 {168}{}{Nah-ah.}
@@ -72,25 +72,25 @@
 {171}{}{Nö.}
 {172}{}{Na, dann beeil dich mal! Ich bin eine uralter Ghul und ich kann dir versichern, ich brauch die Entspannung! Also los, geh, geh, geh!}
 {173}{}{[Erledigt]}
-{174}{}{Kid, das Magazin hat meine alten Säfte wieder aufgemischt und ich finde, daß du mir für den Schatz, von dem ich dir erzählt habe, ruhig noch ein paar Dinge mehr besorgen kannst. Hol mir eine aufblasbare Puppe. Du kannst wahrscheinlich eine in New Reno auftreiben.}
-{175}{}{Okay! Tschüß!}
+{174}{}{Kid, das Magazin hat meine alten Säfte wieder aufgemischt und ich finde, dass du mir für den Schatz, von dem ich dir erzählt habe, ruhig noch ein paar Dinge mehr besorgen kannst. Hol mir eine aufblasbare Puppe. Du kannst wahrscheinlich eine in New Reno auftreiben.}
+{175}{}{Okay! Tschüss!}
 {176}{}{Äh, nö!}
 {177}{}{Da hast du sie! [Du gibst Typhon eine aufblasbare Puppe.]}
 {178}{}{In Ordnung. Ich habe weitere Fragen.}
-{179}{}{Alles klar. Tschüß dann.}
+{179}{}{Alles klar. Tschüss dann.}
 {180}{}{Vergiss es.}
 {181}{}{Da ist sie. [Du gibst Typhon die aufblasbare Puppe.]}
 {182}{}{Das hier, Kid, wird der Knüller. Gib mir ein paar Stündchen, dann reden wir weiter. Los, geh. [Er beäugt lüstern die Puppe.]}
 {183}{}{[Erledigt]}
-{184}{}{Kann man nicht ein bißchen Privatsphäre haben! Hau ab! Los! Verschwinde!}
+{184}{}{Kann man nicht ein bisschen Privatsphäre haben! Hau ab! Los! Verschwinde!}
 {185}{}{[Erledigt]}
 {186}{}{Ich bin jetzt völlig erledigt. Bring mir einen Rachenputzer, dann können wir über den Schatz reden. Phil der Barkeeper sollte dir welchen besorgen können.}
-{187}{}{Klar! Tschüß!}
+{187}{}{Klar! Tschüss!}
 {188}{}{Nein!}
 {189}{}{Da, nimm! [Du gibst Typhon einen Rachenputzer.]}
 {190}{}{Hab ihn schon. Hier. [Du gibst Typhon einen Rachenputzer.]}
 {191}{}{War's das dann?}
-{192}{}{Alles klar. Tschüß dann.}
+{192}{}{Alles klar. Tschüss dann.}
 {193}{}{Vergiss es.}
 {194}{}{Ich möchte vielleicht... oh, noch eine Sache. Ich verrate dir, was es ist, wenn du mir meinen Rachenputzer bringst, O.K.?}
 {195}{}{Na gut, ich besorge dir welchen.}
@@ -103,27 +103,27 @@
 {202}{}{Nö.}
 {203}{}{Noch nicht.}
 {204}{}{Nee. Ich habe ein paar Fragen.}
-{205}{}{Nee. Tschüß.}
+{205}{}{Nee. Tschüss.}
 {206}{}{Na, dann such mal weiter. Du wirst ihn ganz bestimmt bald finden.}
 {207}{}{OK.}
-{208}{}{Ich hoffe. Tschüß.}
+{208}{}{Ich hoffe. Tschüss.}
 {209}{}{Was macht der Schatz, Kid?}
 {210}{}{Zu dumm! Deckel!}
 {211}{}{Lauter Flaschendeckel! Völlig wertlos!}
 {212}{}{Ha ha. Sehr lustig. Ich habe ein paar Fragen.}
 {213}{}{Vergiss es.}
-{214}{}{Puh! Tschüß.}
-{215}{}{Was, benutzt man denn Deckel heutzutage nicht mehr als Zahlungsmittel? Willst du damit sagen, daß ich diesen ganzen Aufwand und die ganzen Sorgen darüber, daß jemand meinen Schatz finden könnte, umsonst gemacht habe? Verdammter Mist! Tut mir echt leid, Kid, daß ich dich umsonst habe herumhetzen lassen. Wenn ich das gewußt hätte...}
-{216}{}{Schon okay. Tschüß!}
+{214}{}{Puh! Tschüss.}
+{215}{}{Was, benutzt man denn Deckel heutzutage nicht mehr als Zahlungsmittel? Willst du damit sagen, dass ich diesen ganzen Aufwand und die ganzen Sorgen darüber, dass jemand meinen Schatz finden könnte, umsonst gemacht habe? Verdammter Mist! Tut mir echt leid, Kid, dass ich dich umsonst habe herumhetzen lassen. Wenn ich das gewusst hätte...}
+{216}{}{Schon okay. Tschüss!}
 {217}{}{Tja, das war dann wohl dein letzter Fehler, alter Ghul. Zeit zu sterben.}
 {218}{}{Kann ja jedem mal passieren. Ich habe ein paar Fragen.}
-{219}{}{Jaja, sicher. Tschüß.}
-{220}{}{Schätze, daß war keine böse Absicht. Tschüß.}
+{219}{}{Jaja, sicher. Tschüss.}
+{220}{}{Schätze, dass war keine böse Absicht. Tschüss.}
 {221}{}{Gut, wo ist die Kohle?}
 {222}{}{Mann, Typhon. Du bist so rücksichtsvoll. Also, wo ist die Kohle?}
-{223}{}{In Ordnung. Ich erinnere mich, daß ich das Geld irgendwo in der Stadt verbuddelt hab. Das liegt aber schon viele Jahre zurück und in der Zwischenzeit sind die Häuser dort so oft auf- und abgebaut worden, daß ich nicht mehr genau weiß, wo der Platz ist. Falls es dir irgendwie hilft, ich weiß noch, wie ich damals versucht hab, einen Ort zu finden, der weder abgerissen noch umgepflügt werden kann. Sozusagen ein unzerstörbarer Platz, weißt du? Also, viel Glück für dich.}
+{223}{}{In Ordnung. Ich erinnere mich, dass ich das Geld irgendwo in der Stadt verbuddelt hab. Das liegt aber schon viele Jahre zurück und in der Zwischenzeit sind die Häuser dort so oft auf- und abgebaut worden, dass ich nicht mehr genau weiß, wo der Platz ist. Falls es dir irgendwie hilft, ich weiß noch, wie ich damals versucht hab, einen Ort zu finden, der weder abgerissen noch umgepflügt werden kann. Sozusagen ein unzerstörbarer Platz, weißt du? Also, viel Glück für dich.}
 {224}{}{Du hast Typhon endlich soweit bekommen, mehr Infos über die versteckte Beute auszuspucken.}
-{300}{}{Aber Hegels Dialektik zieht nicht in Betracht, daß...}
+{300}{}{Aber Hegels Dialektik zieht nicht in Betracht, dass...}
 {301}{}{Hegel, Hegel, Hegel! Was hast du bloß mit deinem Hegel!}
 {302}{}{Und dann sagt die Frau, "Herr Pfarrer, das ist doch kein Hase!"}
 {303}{}{Ha ha ha ha!}
@@ -131,7 +131,7 @@
 {305}{}{[stöhn] Ich verwelke, das ist wirklich zu schlimm.}
 {306}{}{Es ist halt nicht leicht, grün zu sein.}
 {307}{}{Erzähl mir mehr darüber.}
-{308}{}{Aber es ist doch ganz offensichtlich, daß das aus philosophischer Sicht in eine Sackgasse führt!}
+{308}{}{Aber es ist doch ganz offensichtlich, dass das aus philosophischer Sicht in eine Sackgasse führt!}
 {309}{}{Das liegt aber nur daran, weil du nicht alle Verzweigungen berücksichtigt hast. Also, wenn du...}
 {310}{}{Möchtest du etwas Obst?}
 {311}{}{Fütter mich, Seymour.}
@@ -142,10 +142,10 @@
 {316}{}{Das kannst du mir glauben, es geht nichts über einen guten, schnellen Lauf.}
 {317}{}{Du fühlst, wie dir der Wind durchs Haar bläst, oder?}
 {318}{}{Ich bin schon seit Jahren nicht mehr bestäubt worden!}
-{319}{}{Stell dir mal vor, du wärst in DIESEM Körper gefangen! Keine Action! Kein bißchen Action!}
+{319}{}{Stell dir mal vor, du wärst in DIESEM Körper gefangen! Keine Action! Kein bisschen Action!}
 {320}{}{Vielleicht solltest du der Photosynthese mal eine Chance geben...}
 {321}{}{Ich kann nichts für meine evolutionären Wurzeln, du grüner Bastard!}
-{322}{}{Hoppla! Ich hoffe, daß du den biologischen Prozeß vorantreiben kannst!}
+{322}{}{Hoppla! Ich hoffe, dass du den biologischen Prozess vorantreiben kannst!}
 {323}{}{Mein Blätter! Meine armen Blätter! Aaaaah!}
 {324}{}{Mir gefällt es hier. Ich überlege mir, hier Wurzeln zu schlagen.}
 {325}{}{Okay, genug Pflanzenwitze für heute, Kumpel.}
@@ -153,17 +153,17 @@
 {327}{}{Klar, was sonst! Es sei denn, ein paar von diesen Rattenbastarden haben sie erledigt.}
 {328}{}{Ähm, ich glaube, ich öffne mal die Tür oder so...}
 {329}{}{Ich glaube, ich leide unter Stempelneid.}
-{330}{}{Nicht, daß wir uns hier auf einen Ast begeben...}
+{330}{}{Nicht, dass wir uns hier auf einen Ast begeben...}
 {331}{}{Aaaaaaaaaaaaaah! Bitte keine Pflanzenwitze mehr!}
 {332}{}{Schau dir mal die Körner von der Ähre da an! Hohooo!}
-{333}{}{Komm runter, Junge! Ich glaube nicht, daß du das schaffst.}
+{333}{}{Komm runter, Junge! Ich glaube nicht, dass du das schaffst.}
 {334}{}{Soll ich eine Geschichte vorlesen?}
 {335}{}{Wie wäre es mit Jack und die Riesenbohne? Oder der Prinzessin auf der Erbse? Oder das Schlingpflanzenmonster?}
 {336}{}{Ein GECK? Jau, da war so ein Typ, der...}
 {337}{}{Psst! Psst! Jemand hört zu!}
 {338}{}{Es ist der Zyklus des Lebens, weißt du... das eine Lebewesen lebt vom anderen und immer so weiter...}
-{339}{}{Aha. Aber DU ißt noch immer Dünger. Blödsinn... Pflanzenphilosophie...}
+{339}{}{Aha. Aber DU isst noch immer Dünger. Blödsinn... Pflanzenphilosophie...}
 {340}{}{Kann ich mal irgendwann mit deiner Powerrüstung spielen?}
 {341}{}{Sprichst du von diesem alten Anzug, den ich in der Abstellkammer habe? Hihi...}
-{342}{}{Ja, ich habe mich mit Planzenkreuzung befaßt.}
-{343}{}{Nicht, daß etwas damit nicht in Ordnung wäre.}
+{342}{}{Ja, ich habe mich mit Planzenkreuzung befasst.}
+{343}{}{Nicht, dass etwas damit nicht in Ordnung wäre.}

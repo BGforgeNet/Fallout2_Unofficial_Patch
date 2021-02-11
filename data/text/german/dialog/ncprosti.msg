@@ -5,18 +5,18 @@
 {153}{}{Du siehst eine Prostituierte. Sie riecht wie Blumen.}
 {154}{}{Du siehst eine Prostituierte. Sie riecht wie Mutter.}
 {155}{}{Du siehst eine Prostituierte. Es ist dir ein Rätsel, wie die zerrissenen Lumpen ihre Brüste verdecken können.}
-{156}{}{Du siehst eine Prostituierte. Sie sieht aus, als ob sie ihre Freier umbringt und auffrißt.}
+{156}{}{Du siehst eine Prostituierte. Sie sieht aus, als ob sie ihre Freier umbringt und auffrisst.}
 {157}{}{Du siehst eine Prostituierte. Sie taxiert dich wie ein Juwelier.}
 {158}{}{Du siehst eine Prostituierte. Ihre zerlumpten Kleider sind verführerisch um ihren Körper drapiert.}
-{175}{}{Oh my... it's him.}
+{175}{}{Oh mein Gott... Er ist es.}
 {176}{}{Du bist der größte Hengst der Welt.}
 {177}{}{::Wird ohnmächtig::}
 {178}{}{Yeah, }
 {179}{}{::Klatscht::}
 {180}{}{::Jubelt::}
-{181}{}{Oh my... it's her.}
+{181}{}{Oh mein Gott... sie ist es. }
 {182}{}{Weg da, Mädel!}
-{183}{}{::Gives you the thumbs up sign::}
+{183}{}{::Gibt dir einen Daumen-hoch-Zeichen::}
 {190}{}{Du hast nicht genug Chips dabei, damit du mich mit dem DING besteigen könntest.}
 {195}{}{Hier drüben }
 {196}{}{Da! Das ist er!}
@@ -25,25 +25,25 @@
 {199}{}{Wann kommt dein nächster Film raus?}
 {200}{}{Mmmm-mmmm. Mach weiter, Schätzchen.}
 {201}{}{Für was brauchst du mich, Schwarzer Mann?}
-{202}{}{Ooops. I dropped something in your pants. Let me get it.}
-{203}{}{I loved you in Great Balls for Hire.}
-{204}{}{I loved you in Good Will Humping.}
+{202}{}{Hoppla. Mir ist da etwas in deine Hose gefallen. Lass es mich holen.}
+{203}{}{Du warst echt Klasse in Great Balls for Hire.}
+{204}{}{Du warst spitze in Good Will Humping.}
 {205}{}{Du warst klasse in Vault Sexzehn.}
-{206}{}{You were great in Pokeahotass.}
+{206}{}{Ich bin ein großer Fan deiner Arbeit in Pokeahotass.}
 {207}{}{Mmmmm-mmmm. Wie hältst du dich so fit?}
-{208}{}{Can I have your autograph? On my chest?}
-{209}{}{Could I act in your next movie?}
+{208}{}{Gibst du mir ein Autogramm? Auf die Brust?}
+{209}{}{Könnte ich in deinem nächsten Film mitspielen?}
 {210}{}{Ich würde DIR nie einen Orgasmus vorspielen, }
 {211}{}{Werde... schwach. kann... nicht mehr aushalten... Muss... Sex... haben... mit dir...}
 {212}{}{Sie ist kein Star, sie ist nur "wilder" Abfall...}
 {213}{}{Ich wusste gar nicht, dass man Pornostars erlaubt so fett zu werden...}
-{214}{}{Sie ist sooo häßlich.}
+{214}{}{Sie ist sooo hässlich.}
 {215}{}{Sie hat so viel Sexappeal wie eine nasse Papiertüte...}
-{216}{}{Häßlich wie die Hölle...}
+{216}{}{Hässlich wie die Hölle...}
 {217}{}{Die Art wie sie spielt, man denkt sie wäre ein Superheldenmodell und kein Pornostar.}
 {218}{}{Wenn sie mir blöd kommt, Werde ich sie zerkratzen...}
 {219}{}{Ich weiß nicht, was die Korsischen Brüder in IHR sehen...}
-{220}{}{Sie ist so talentiert wie ein Fels und doppelt so häßlich.}
+{220}{}{Sie ist so talentiert wie ein Fels und doppelt so hässlich.}
 {221}{}{Ja so ist gut, GEH besser weiter.}
 {222}{}{Mir wird schon von ihrem Aussehen schlecht...}
 {223}{}{Schaut sie mal an, wie sie da rumstolziert...}
@@ -51,7 +51,7 @@
 {225}{}{Wenn das nich Königin Scheißhaufen ist.}
 {226}{}{Wenn das nicht die kleine Miss, ich bin eine Schlampe ist...}
 {227}{}{Wenn das nicht die kleine Miss-Porno-Star ist...}
-{228}{}{Häßlicher als der Arsch eines Brahmins.}
+{228}{}{Hässlicher als der Arsch eines Brahmins.}
 {229}{}{Verpiss dich! Dass hier ist unsere Ecke, Schlampe!}
 {230}{}{Beweg deinen fetten Arsch aus meinem Sichtfeld.}
 {231}{}{Du bist so talentiert wie mein Schuh.}
@@ -73,15 +73,15 @@
 {247}{}{Verpiss dich, Hure.}
 {248}{}{Versuch was, dann zerkratz ich dich...}
 {249}{}{Ich weiß nicht, was die Korsischen Brüder in dir sehen...}
-{250}{}{du hast das Talent eines Felsens und bist dabei doppelt so häßlich.}
+{250}{}{du hast das Talent eines Felsens und bist dabei doppelt so hässlich.}
 {251}{}{Ich rede nicht mit Abfall wie dir.}
 {252}{}{Schaut euch mal diese Muskeln an! Ich werde schwach...}
 {253}{}{WOW!}
 {254}{}{::Pfeift::}
-{255}{}{He's built like a tank. Check out that barrel.}
-{256}{}{Ich würde mal gerne deinen Ölstand checken...}
+{255}{}{Es ist wie ein Panzer gebaut. Seht euch das Kanonenrohr an.}
+{256}{}{Schau dir diese Kanone an...}
 {257}{}{Der gehört mir...}
-{258}{}{::Sigh::}
+{258}{}{::Seufz::}
 {259}{}{Was für ein Bad Boy.}
 {260}{}{Der junge macht mich schwach.}
 {261}{}{Der König der Stecher...}
@@ -98,8 +98,8 @@
 {272}{}{Brauchst du Gesellschaft, }
 {273}{}{Du bist So ein böser Junge.}
 {274}{}{Du machst mich schwach, weißt du?}
-{275}{}{Nice unit you got there.}
-{276}{}{Need someone to take care of that for you, champ?}
+{275}{}{Nettes Outfit hast du da.}
+{276}{}{Brauchst du wen, der sich für dich darum kümmert, Champ?}
 {277}{}{Hey... pass auf den Masticator auf. Ein echter Drecksack. Er hat mal versucht mir ein Ohr abzubeißen.}
 {278}{}{Schaut! Es ist }
 {279}{}{Brauchst du Gesellschaft, }
@@ -226,7 +226,7 @@
 {400}{}{Ziehst du mich aus?}
 {401}{}{Mmm-mmm. Sieht aus als wäre wieder Paarungszeit.}
 {402}{}{Brauchst du einen Freund?}
-{403}{}{I kicked Jules in his family jewels last week.}
+{403}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {404}{}{Wohin willst du Sklavenhändler?}
 {405}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
 {406}{}{Ich liebe die Kondome mit Brahmin Aroma.}
@@ -283,7 +283,7 @@
 {457}{}{Wo brennt's denn Sklavenhändlerin?}
 {458}{}{Die Sklavenhändlerin ist ziemlich frech.}
 {459}{}{Diese Sklavenhändlerin lässt meine Geigerzähler durch brennen.}
-{460}{}{I guarantee I'm better in the sack than that robot following you around.}
+{460}{}{Ich garantiere dir ich bin besser in meinem Geschäft, als der Roboter, der dir gerade folgt.}
 {461}{}{Ist der Roboter voll FUNKTIONSFÄHIG?}
 {462}{}{Ist das eine Art Spielautomat, was da hinter dir herrennt? }
 {463}{}{Ist das ein einarmiger Bandit?}
@@ -298,7 +298,7 @@
 {472}{}{Myron! Süßer! Wann willst du zurückkommen und mir zusehen, wie ich mich einöle?}
 {473}{}{My-ron. Myyyyyy-ron.}
 {474}{}{Myron, wer ist den dein süßer Freund?}
-{475}{}{Myron, süßer! Myron! Suchst du ein bißchen Action?}
+{475}{}{Myron, süßer! Myron! Suchst du ein bisschen Action?}
 {476}{}{Yoo-hoo! Myron!}
 {477}{}{Ich vermisse dich Myron!}
 {478}{}{Myron du bist ein Traum. Ein toller Traum.}
@@ -320,7 +320,7 @@
 {494}{}{Suchst du Unterhaltung?}
 {495}{}{Der einzige Sport, der gerade in Reno angesagt ist, ist Mandelhockey...}
 {496}{}{Möchtest du tanzen?}
-{497}{}{Vergiß die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
+{497}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
 {498}{}{Ich kann nicht fassen wie viele Stripper auf Feargus Junggesellenabend waren.}
 {499}{}{Ein neuer Fremder in der Stadt, sieht aus wie...}
 {500}{}{Kannst du einen 6 cm Nagel, mit deinen Penis in ein Brett schlagen?}
@@ -334,7 +334,7 @@
 {508}{}{Es gibt zu viele Obdachlose in der Stadt und viel zu wenige Chips die im Umlauf sind.}
 {509}{}{Ich laufe seit der letzten Nacht in dieser Straße rum...}
 {510}{}{Brauchst du einen Freund für den Abend? Oder nur für zehn Minuten?}
-{511}{}{Möchtest du 'n bißchen Spaß?}
+{511}{}{Möchtest du 'n bisschen Spaß?}
 {512}{}{Möchtest du in die Stadt gehen?}
 {513}{}{Ich mag deinen Gecko.}
 {514}{}{Den Gecko in deiner Hose?}
@@ -343,7 +343,7 @@
 {517}{}{Junge, lass mich dich zum Mann machen.}
 {518}{}{Ich finde es beschämend wie manche Frauen hier rumlaufen.}
 {519}{}{Willst du die Paarungszeit der Deathclaws nachspielen?}
-{520}{}{Dieser Mann läßt meinen Geigerzähler durchbrennen.}
+{520}{}{Dieser Mann lässt meinen Geigerzähler durchbrennen.}
 {521}{}{Wenn ich hinterher mit dir reden soll, kostet's extra.}
 {522}{}{Kann ich dir irgendwie helfen Fremder?}
 {523}{}{Du weißt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
@@ -374,7 +374,7 @@
 {548}{}{::Flüstert dir zu::}
 {549}{}{Ich hasse Teebeutel.}
 {550}{}{Willst du mit mir spielen.}
-{551}{}{Möchtest du 'n bißchen Spaß?}
+{551}{}{Möchtest du 'n bisschen Spaß?}
 {552}{}{Pure Reno Liebe, gibts nur hier.}
 {553}{}{Ich will mit dir spielen.}
 {554}{}{Ich bin schmutzig und heiß.}
@@ -414,7 +414,7 @@
 {588}{}{Ziehst du mich aus?}
 {589}{}{Mmm-mmm. Sieht aus als wäre wieder Paarungszeit.}
 {590}{}{Willst du ein wenig Zeit totschlagen?}
-{591}{}{I kicked Jules in his family jewels last week.}
+{591}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {592}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
 {593}{}{Ich liebe die Kondome mit Brahmin Aroma.}
 {594}{}{Magst du mal Spaß mit einer Dame haben?}
@@ -492,7 +492,7 @@
 {666}{}{Suchst du Unterhaltung?}
 {667}{}{Der einzige Sport, der gerade in Reno angesagt ist, ist Mandelhockey...}
 {668}{}{Möchtest du tanzen?}
-{669}{}{Vergiß die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
+{669}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
 {670}{}{Ich kann nicht fassen wie viele Stripper auf Feargus Junggesellenabend waren.}
 {671}{}{Ein neuer Fremder in der Stadt, sieht aus wie...}
 {672}{}{Kannst du einen 6 cm Nagel, mit deinen Penis in ein Brett schlagen?}
@@ -506,7 +506,7 @@
 {680}{}{Es gibt zu viele Obdachlose in der Stadt und viel zu wenige Chips die im Umlauf sind.}
 {681}{}{Ich bin seit gestern Nacht hier unterwegs...}
 {682}{}{Brauchst du einen Freund für den Abend? Oder nur für zehn Minuten?}
-{683}{}{Möchtest du 'n bißchen Spaß?}
+{683}{}{Möchtest du 'n bisschen Spaß?}
 {684}{}{Möchtest du in die Stadt gehen?}
 {685}{}{Ich mag deinen Gecko.}
 {686}{}{Den Gecko in deiner Hose?}
@@ -515,7 +515,7 @@
 {689}{}{Junge, lass mich dich zum Mann machen.}
 {690}{}{Mmmmm-mmmmm.}
 {691}{}{Willst du die Paarungszeit der Deathclaws nachspielen?}
-{692}{}{Dieser Mann läßt meinen Geigerzähler durchbrennen.}
+{692}{}{Dieser Mann lässt meinen Geigerzähler durchbrennen.}
 {693}{}{Wenn ich nachher noch mit dir reden soll kostet das extra..}
 {694}{}{Kann ich dir irgendwie helfen Fremder?}
 {695}{}{Du weißt nicht was Liebe ist, bis du die Liebe in Reno kennenlernst.}
@@ -537,7 +537,7 @@
 {711}{}{::Flüstert dir zu::}
 {712}{}{Ich hasse Teebeutel.}
 {713}{}{Willst du mit mir spielen.}
-{714}{}{Möchtest du 'n bißchen Spaß?}
+{714}{}{Möchtest du 'n bisschen Spaß?}
 {715}{}{Pure Reno Liebe, gibts nur hier.}
 {716}{}{Ich will mit dir spielen.}
 {717}{}{Ich bin schmutzig und heiß.}
@@ -577,7 +577,7 @@
 {751}{}{Ziehst du mich aus?}
 {752}{}{Mmm-mmm. Sieht aus als wäre wieder Paarungszeit.}
 {753}{}{Willst du ein wenig Zeit totschlagen?}
-{754}{}{I kicked Jules in his family jewels last week.}
+{754}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {755}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
 {756}{}{Ich liebe die Kondome mit Brahmin Aroma.}
 {757}{}{Magst du mal Spaß mit einer Dame haben?}
@@ -642,7 +642,7 @@
 {816}{}{Wo brennt's denn Mädchen?}
 {817}{}{Diese Frau lässt meinen Geigerzähler durch brennen.}
 {818}{}{Die Enklave? Präsident? Erzähl mir die ganze Geschichte.}
-{819}{}{Tom French scripted me. He has soft, gentle hands.}
+{819}{}{Tom French hat mir ein Drehbuch geschrieben. Er hat weiche, sanfte Hände.}
 {820}{}{Die wollten schon wieder einen KRIEG? Echt! Gut das du diese Bastarde erledigt hast.}
 {821}{}{Du bist ein echter Bad Boy. Ich meine du hast als speerwerfender Wilder begonnen - ohne Erfahrung - und du gehst aus und rettest die Welt. Du trittst ihnen in den Arsch. Ende der Geschichte.}
 {822}{}{Du solltest das spiel nochmal, mit einen anderen Charakter durchspielen.}
@@ -651,7 +651,7 @@
 {825}{}{Ich weiß nicht, wie du gegen diese Enklavenschweine eine Chance hattest, aber du bist die mutigste Person die ich kenne.}
 {826}{}{Tim Cain? Ja, er ist einer meiner Stammkunden.}
 {827}{}{Küss mich du Enklaven zerstörender Held.}
-{828}{}{I hear the Brothers are looking for you. They want to do a film based on your adventure.}
+{828}{}{Wie ich höre, suchen die Brüder nach dir. Die wollen 'nen Film über dein Abenteuer drehen.}
 {829}{}{Wir vermissen Tim Cain. er kann wunderbar Brot backen. Dann hat er uns immer den Hintern versohlt, wie kleinen Kindern.}
 {830}{}{Ich weiß, ich bin nur ein NPC, aber in bin sehr erbost, wie Frauen hier in New Reno behandelt werden.}
 {831}{}{Die Frauen in dieser Stadt scheinen von einem sexhungrigen Nerd entworfen worden zu sein, der noch immer bei seinen Eltern im Keller wohnt.}
@@ -746,7 +746,7 @@
 {920}{}{Willst du Meister und Sklave spielen?}
 {921}{}{Wenn ich nachher noch etwas bleiben soll kostet das extra.}
 {922}{}{Willst du sehen wo der Bär steppt?}
-{923}{}{Vergiß die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
+{923}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
 {924}{}{Ich bin nicht billig, aber ich kann dafür einiges bieten.}
 {925}{}{Ich werde passen wie ein frischer Anzug.}
 {926}{}{lass uns über Sackläuse reden, ich habe welche.}
@@ -768,10 +768,10 @@
 {942}{}{Ich wünschte Myron würde umziehen. Weit weg.}
 {943}{}{Du kannst ALLES haben was du willst Sklavenhändler... für den entsprechenden Preis versteht sich.}
 {944}{}{Ich bin fertig, Schätzchen. Wie stehts bei dir?}
-{945}{}{Vergiß die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
+{945}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
 {946}{}{Ich hasse Teebeutel.}
 {947}{}{Willst du mit mir spielen Sklavenhändler.}
-{948}{}{Möchtest du 'n bißchen Spaß?}
+{948}{}{Möchtest du 'n bisschen Spaß?}
 {949}{}{Pure Reno Liebe, gibts nur hier.}
 {950}{}{Ich will mit dir spielen.}
 {951}{}{Ich bin schmutzig und heiß.}
@@ -807,8 +807,8 @@
 {981}{}{Ziehst du mich aus?}
 {982}{}{Entschuldigung, was hast du gesagt? Ich war von deinem Arsch abgelenkt.}
 {983}{}{Willst du ein wenig Zeit totschlagen?}
-{984}{}{Möchtest du 'n bißchen Spaß?}
-{985}{}{I kicked Jules in his family jewels last week.}
+{984}{}{Möchtest du 'n bisschen Spaß?}
+{985}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {986}{}{Möchtest du in die Stadt gehen?}
 {987}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
 {988}{}{Natürlich! Ich liebe die Kondome mit Brahmin Aroma. Lecker.}
@@ -824,7 +824,7 @@
 {998}{}{Ich so geil.}
 {999}{}{Wenn du ganz dringend was brauchst, helf ich dir aus.}
 {1000}{}{Lass mich dein inneres Kind erwecken.}
-{1001}{}{I'm just doing this to pay for college.}
+{1001}{}{Ich mach das nur, um das College zu bezahlen.}
 {1002}{}{Pass auch, zum letzten Mal. Ich ziehe mich nicht wie der "Vaultbewohner" an}
 {1003}{}{Willst du dein Gebiet markieren?}
 {1004}{}{Willst du mich zum stöhnen bringen?}
@@ -904,7 +904,7 @@
 {1078}{}{Hast du dich verlaufen Cowboy?}
 {1079}{}{Hast du eine Waffe die entladen werden muss, Soldat?}
 {1080}{}{Kann ich dir irgendwie helfen Fremder?}
-{1081}{}{Möchtest du 'n bißchen Spaß?}
+{1081}{}{Möchtest du 'n bisschen Spaß?}
 {1082}{}{Möchtest du in die Stadt gehen?}
 {1083}{}{Ich mag deinen Gecko.}
 {1084}{}{Den Gecko in deiner Hose?}
@@ -942,10 +942,10 @@
 {1116}{}{Ich wünschte Myron würde umziehen. Weit weg.}
 {1117}{}{Du kannst ALLES haben was du willst... für den entsprechenden Preis versteht sich.}
 {1118}{}{Ich bin fertig, Schätzchen. Wie stehts bei dir?}
-{1119}{}{Vergiß die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
+{1119}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
 {1120}{}{Ich hasse Teebeutel.}
 {1121}{}{Willst du mit mir spielen.}
-{1122}{}{Möchtest du 'n bißchen Spaß?}
+{1122}{}{Möchtest du 'n bisschen Spaß?}
 {1123}{}{Ich kann nicht fassen wie viele Stripper auf Feargus Junggesellenabend waren.}
 {1124}{}{Pure Reno Liebe, gibts nur hier.}
 {1125}{}{Ich will mit dir spielen.}
@@ -982,7 +982,7 @@
 {1156}{}{Ziehst du mich aus?}
 {1157}{}{Entschuldigung, was hast du gesagt? Ich war von deinem Arsch abgelenkt.}
 {1158}{}{Willst du ein wenig Zeit totschlagen?}
-{1159}{}{I kicked Jules in his family jewels last week.}
+{1159}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {1160}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
 {1161}{}{Natürlich! Ich liebe die Kondome mit Brahmin Aroma. Lecker.}
 {1162}{}{Magst du mal Spaß mit einer Dame haben?}
@@ -998,7 +998,7 @@
 {1172}{}{Ich so geil.}
 {1173}{}{Wenn du ganz dringend was brauchst, helf ich dir aus.}
 {1174}{}{Lass mich dein inneres Kind erwecken.}
-{1175}{}{I'm just doing this to pay for college.}
+{1175}{}{Ich mach das nur, um das College zu bezahlen.}
 {1176}{}{Willst du tanzen Süßer?}
 {1177}{}{Pass auf, zum letzten Mal. Ich werde mich nicht als "Vaultbewohner" verkleiden.}
 {1178}{}{Willst du dein Gebiet markieren?}
@@ -1077,7 +1077,7 @@
 {1251}{}{Hast du dich verlaufen Cowboy?}
 {1252}{}{Hast du eine Waffe die entladen werden muss, Soldat?}
 {1253}{}{Kann ich dir irgendwie helfen Fremder?}
-{1254}{}{Möchtest du 'n bißchen Spaß?}
+{1254}{}{Möchtest du 'n bisschen Spaß?}
 {1255}{}{Möchtest du in die Stadt gehen?}
 {1256}{}{Ich mag deinen Gecko.}
 {1257}{}{Den Gecko in deiner Hose?}
@@ -1090,7 +1090,7 @@
 {1264}{}{Dieser Kerl, Fred Hatch, er wollte von mir wissen, ob es auch mollige Frauen in der Stadt gibt. Komisch.}
 {1265}{}{Wenn ich nach der Liebe wach bleiben soll, kostet's extra.}
 {1266}{}{Willst du sehen wo der Bär steppt?}
-{1267}{}{Vergiß die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
+{1267}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
 {1268}{}{Ich bin nicht billig, aber ich kann dafür einiges bieten.}
 {1269}{}{Hey Süßer.}
 {1270}{}{Willst du ringen?}
@@ -1115,7 +1115,7 @@
 {1289}{}{Ich wünschte Myron würde umziehen. Weit weg.}
 {1290}{}{Du kannst ALLES haben was du willst... für den entsprechenden Preis versteht sich.}
 {1291}{}{Ich bin fertig, Schätzchen. Wie stehts bei dir?}
-{1292}{}{Vergiß die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
+{1292}{}{Vergiss die Spielautomaten. Bei mir ist die Gewinnauszahlung VIEL besser.}
 {1293}{}{Ich hasse Teebeutel.}
 {1294}{}{Willst du mit mir spielen.}
 {1295}{}{Suchst du etwas Spaß?}
@@ -1155,7 +1155,7 @@
 {1329}{}{Ziehst du mich aus?}
 {1330}{}{Entschuldigung was hast du gesagt? Ich war von deinen tollen Körper abgelenkt.}
 {1331}{}{Willst du ein wenig Zeit totschlagen?}
-{1332}{}{I kicked Jules in his family jewels last week.}
+{1332}{}{Ich hab Jules letzte Woche in seine Familienjuwelen getreten.}
 {1333}{}{Sie nennen mich nicht umsonst die Glücksmarie.}
 {1334}{}{Natürlich! Ich liebe die Kondome mit Brahmin Aroma. Lecker.}
 {1335}{}{Magst du mal Spaß mit einer Dame haben?}
@@ -1171,7 +1171,7 @@
 {1345}{}{Ich so geil.}
 {1346}{}{Wenn du ganz dringend was brauchst, helf ich dir aus.}
 {1347}{}{Lass mich dein inneres Kind erwecken.}
-{1348}{}{I'm just doing this to pay for college.}
+{1348}{}{Ich mach das nur, um das College zu bezahlen.}
 {1349}{}{Willst du tanzen Süßer?}
 {1350}{}{Pass auf, zum letzten Mal. Ich werde mich nicht als "Vaultbewohner" verkleiden.}
 {1351}{}{Willst du dein Gebiet markieren?}
@@ -1219,9 +1219,9 @@
 {1393}{}{Brauchst du ein wenig Action Süße?}
 {1394}{}{Wo brennt's denn Mädchen?}
 {1395}{}{Du hast die Knete, ich habe die Zeit.}
-{2175}{}{. Ihr wißt schon - hat der Enklave in den Hintern getreten.}
+{2175}{}{. Ihr wisst schon - hat der Enklave in den Hintern getreten.}
 {2178}{}{! Was 'ne Art, der Enklave eins überzuziehen!}
-{2181}{}{. Ihr wißt schon - hat der Enklave in den Hintern getreten.}
+{2181}{}{. Ihr wisst schon - hat der Enklave in den Hintern getreten.}
 {2195}{}{!}
 {2197}{}{! Kannst du mir einen Job im Studio besorgen?}
 {2210}{}{.}
@@ -1252,7 +1252,7 @@
 {3153}{}{Du siehst ein Mädchen aus dem Cat's Paw. Sie riecht wie Blumen.}
 {3154}{}{Du siehst ein Mädchen aus dem Cat's Paw. Sie riecht wie Mutter.}
 {3155}{}{Du siehst ein Mädchen aus dem Cat's Paw. Es ist dir ein Rätsel, wie die zerrissenen Lumpen ihre Brüste verdecken können.}
-{3156}{}{Du siehst ein Mädchen aus dem Cat's Paw. Sie sieht aus, als ob sie ihre Freier umbringt und auffrißt.}
+{3156}{}{Du siehst ein Mädchen aus dem Cat's Paw. Sie sieht aus, als ob sie ihre Freier umbringt und auffrisst.}
 {3157}{}{Du siehst ein Mädchen aus dem Cat's Paw. Sie taxiert dich wie ein Juwelier.}
 {3158}{}{Du siehst ein Mädchen aus dem Cat's Paw. Ihre zerlumpten Kleider sind verführerisch um ihren Körper drapiert.}
 {3200}{}{Oh, Goott! Oh Goott! OhGoottohGoottohGoott... ooooooh Goooott.}

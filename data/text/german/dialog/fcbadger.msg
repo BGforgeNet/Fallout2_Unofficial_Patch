@@ -7,7 +7,7 @@
 {106}{}{Wer bist du?}
 {107}{}{Was weißt du über diesen Tanker?}
 {108}{}{Was machst du hier?}
-{109}{}{Ich möchte, daß du dich für mich in einen Computer hackst.}
+{109}{}{Ich möchte, dass du dich für mich in einen Computer hackst.}
 {110}{}{Wie läuft's mit dem Hacken?}
 {111}{}{Gar nichts. Gut gerülpst.}
 {112}{}{[Er stößt noch einen Rülpser aus]}
@@ -20,7 +20,7 @@
 {119}{}{Was für Sachen machst du denn am Computer?}
 {120}{}{Ich wette deine Band war der größte Mist.}
 {121}{}{War die Band gut?}
-{122}{}{Danke. Tschüß.}
+{122}{}{Danke. Tschüss.}
 {123}{}{Ääh... OK.}
 {124}{}{Wiedersehn!}
 {125}{}{Du solltest mit Marc oder dem Kapitän darüber sprechen.}
@@ -28,7 +28,7 @@
 {127}{}{Wo finde ich den Kapitän?}
 {128}{}{Ich bin das hiesige Computergenie.}
 {129}{}{Was für Sachen machst du denn am Computer?}
-{130}{}{Danke. Tschüß.}
+{130}{}{Danke. Tschüss.}
 {131}{}{Nerv mich nicht. [Er furzt] Ich mach ja schon, alles klar?}
 {132}{}{OK, OK. Sag mir nur Bescheid, wenn du fertig bist.}
 {133}{}{Tja, man könnte mich als einen Spezialisten für Informationsbeschaffung bezeichnen.}
@@ -37,8 +37,8 @@
 {136}{}{Hey Mann, LMAA.}
 {137}{}{He!}
 {138}{}{LMAA.}
-{139}{}{Ich sag dir, wir ham's echt gebracht! Unser Sänger war... naja...'n bißchen schwul und Aaron schwitze immer und das übrige war Todds Schuld. Aber wir waren gut.}
-{140}{}{Schade, daß ihr nicht mehr zusammen seid. Ich hätte euch gern gehört.}
+{139}{}{Ich sag dir, wir ham's echt gebracht! Unser Sänger war... naja...'n bisschen schwul und Aaron schwitze immer und das übrige war Todds Schuld. Aber wir waren gut.}
+{140}{}{Schade, dass ihr nicht mehr zusammen seid. Ich hätte euch gern gehört.}
 {141}{}{Hmm. Bestimmt. Ich habe noch weitere Fragen.}
 {142}{}{Ihr wart sicher Müll.}
 {143}{}{Normalerweise kannst du Marc unten in der Kneipe treffen.}
@@ -49,12 +49,12 @@
 {148}{}{Danke. Das war's.}
 {149}{}{Ja, aber es wird dich was kosten.}
 {150}{}{Was ist dein Preis?}
-{151}{}{Ja, egal. Ich muß gehn.}
-{152}{}{Das heißt, daß ich dir die Daten besorgen kann, die du brauchst.}
-{153}{}{Can you do something for me?}
+{151}{}{Ja, egal. Ich muss gehn.}
+{152}{}{Das heißt, dass ich dir die Daten besorgen kann, die du brauchst.}
+{153}{}{Kannst du etwas für mich tun?}
 {154}{}{Ah ja. Cool. Ich habe noch weitere Fragen.}
 {155}{}{Verstehe. Danke.}
-{156}{}{Ja, war ja klar. Jedenfalls muß ich jetzt weitermachen..}
+{156}{}{Ja, war ja klar. Jedenfalls muss ich jetzt weitermachen..}
 {157}{}{Warte. Ich habe weitere Fragen.}
 {158}{}{Danke. Bis dann.}
 {159}{}{Ich glaube, ich mag dich jetzt genug, ich kann's gleich für dich tun. Wen soll ich für dich besuchen?}
@@ -65,22 +65,22 @@
 {164}{}{Die Hubologen.}
 {165}{}{Die Shi.}
 {166}{}{Weder noch. Ich wollte nur mal fragen.}
-{167}{}{Zuerst mußt du mir aber einen Gefallen tun. Meine Freundin hat sich auf dem Tanker verlaufen. Finde sie für mich und ich werd's tun.}
+{167}{}{Zuerst musst du mir aber einen Gefallen tun. Meine Freundin hat sich auf dem Tanker verlaufen. Finde sie für mich und ich werd's tun.}
 {168}{}{Genau, bis dann.}
-{169}{}{Vergiß es. Bis dann.}
+{169}{}{Vergiss es. Bis dann.}
 {170}{}{Totales Kinderspiel. Die finden mich nie. Was willst du eigentlich von ihnen?}
 {171}{}{OK. Ich habe noch mehr Fragen.}
 {172}{}{Toll. Ich komme wieder.}
-{173}{}{Ich kann sie kriegen. Die haben ihre Infos ganz schön gesichert und sie haben heftige Sicherheitsmaßnahmen für ihre Maschinen. Bist du sicher, daß ich mich da einschleichen soll?}
+{173}{}{Ich kann sie kriegen. Die haben ihre Infos ganz schön gesichert und sie haben heftige Sicherheitsmaßnahmen für ihre Maschinen. Bist du sicher, dass ich mich da einschleichen soll?}
 {174}{}{Tja dann, viel Glück. Ich habe weitere Fragen.}
 {175}{}{Viel Glück. Ich komme später wieder.}
 {176}{}{Hey, finde meine Freundin, dann können wir weiter reden.}
 {177}{}{Schon gut, schon gut.}
 {178}{}{Sie ist tot? Sie ist TOT? Wie ist sie gestorben? Nein warte... sag's mir nicht. Gib mir ein paar Stunden, um mich wieder einzukriegen.}
 {179}{}{Klar doch.}
-{180}{}{Laß das, Witzbold. Wir haben noch was zu tun.}
+{180}{}{Lass das, Witzbold. Wir haben noch was zu tun.}
 {181}{}{In Ordnung. Es geht mir jetzt besser.}
-{182}{}{Gut. Ich muß dich was fragen.}
+{182}{}{Gut. Ich muss dich was fragen.}
 {183}{}{Dein Glück. Ich wollte eigentlich gar nicht mit dir reden.}
 {184}{}{Danke, ich danke dir vielmals, vielen, vielen Dank. Ich kann dir für ihre Rettung gar nicht genug danken. Was soll ich für dich tun?}
 {185}{}{Ich habe ein paar Fragen.}
@@ -94,11 +94,11 @@
 {193}{}{Du hast gerade einen großen Fehler gemacht, Kumpel. Ich habe die Shi und die Hubologen mit Hilfe ihrer Computer gegen dich aufgebracht. In San Francisco bist du erledigt.}
 {194}{}{Tja, dann werde ich dich wohl töten müssen.}
 {195}{}{Gib mir ein paar Stunden, um mich wieder einzukriegen.}
-{196}{}{Du willst, daß ich mich in einen formatierten Computer hacke? Die Informationen sind weg. Da ist nichts mehr zu wollen!}
-{197}{}{Ich muß mich von hier verziehen.}
+{196}{}{Du willst, dass ich mich in einen formatierten Computer hacke? Die Informationen sind weg. Da ist nichts mehr zu wollen!}
+{197}{}{Ich muss mich von hier verziehen.}
 {198}{}{Schön, dich zu sehn, Mann.}
 {199}{}{Ich brauche etwas Benzin.}
-{200}{}{Ich habe gehört, daß die Hubologen Benzin haben und ich könnte für dich einen Blick in ihren Computer werfen.}
+{200}{}{Ich habe gehört, dass die Hubologen Benzin haben und ich könnte für dich einen Blick in ihren Computer werfen.}
 {201}{}{Die Shi haben das ganze Benzin in dieser Gegend. Ich könnte für dich einen Blick in ihren Großrechner werfen.}
 {202}{}{Kannst du das?}
 {203}{}{Was zum Teufel willst du?}
@@ -116,7 +116,7 @@
 {215}{}{Kannst du das Benzin aus ihrem Lager in den Tanker umleiten?}
 {216}{}{Na, egal. Ich mach's irgendwie anders.}
 {217}{}{Macht nichts.}
-{218}{}{OK. Komm morgen oder so zu mir und ich laß es dich wissen.}
+{218}{}{OK. Komm morgen oder so zu mir und ich lass es dich wissen.}
 {219}{}{Hast du bekommen, was ich wollte?}
 {220}{}{Ja, ich habe das Benzin.}
 {221}{}{Ja, ich habe die Verti-Pläne.}

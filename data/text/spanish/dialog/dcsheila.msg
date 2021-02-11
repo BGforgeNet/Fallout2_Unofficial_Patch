@@ -55,7 +55,7 @@
 {205}{}{¿No fuki fuki?}
 {206}{}{Vuelve cuando quieras.}
 {207}{}{Vale. Adiós.}
-{208}{}{Si, de acuerdo.}
+{208}{}{Sí, claro.}
 {209}{}{¡Whoo!}
 {210}{}{Nos vemos.}
 {211}{}{Adiós.}

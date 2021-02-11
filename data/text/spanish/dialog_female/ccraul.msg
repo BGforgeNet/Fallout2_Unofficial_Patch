@@ -9,12 +9,12 @@
 {108}{}{Bien. Adiós.}
 {109}{}{Raúl, Quincy quiere verte.}
 {110}{}{Quincy, ¿eh? Bien, Raúl no quiere verle, amigo. Raúl está cansado de su mierda, ¿sabes?}
-{111}{}{De acuerdo.}
+{111}{}{Vale.}
 {112}{}{Quincy dice que tú gilipollas. Que no tienes huevos de ver él.}
 {113}{}{Bien.}
 {114}{}{Quincy dice que eres un gilipollas y que no tienes cojones de ir a verle.}
 {115}{}{Eh, amigo, a Raúl nadie le toma el pelo. ¿Ves a Quincy trabajando en estos pájaros? No, amigo. Sólo Raúl trabaja en estas monadas. ¿Sabes por qué? Porque Quincy no sabe un carajo, amigo, ¡por eso es!}
-{116}{}{Uh...}
+{116}{}{Eh...}
 {117}{}{Bueno...}
 {118}{}{Eh, perdona, amigo. Raúl no debería haberte gritado, ¿sabes? No es culpa tuya; sólo eres el mensajero. Eh, amigo, ¿estás ocupado?}
 {119}{}{No, no ocupada. ¿Por qué?}
@@ -23,7 +23,7 @@
 {122}{}{Yo vigilo.}
 {123}{}{Claro, Raúl. Por cualquier otro no lo haría, pero por ti si.}
 {124}{}{Eh, gracias, amigo. ¡Raúl te debe una! No te alejes y, amigo, si alguien intenta joderla con los pájaros de Raúl, les pateas el culo, ¿vale?}
-{125}{}{De acuerdo.}
+{125}{}{Vale.}
 {126}{}{Eh, amigo, ¿qué crees que estás haciendo? ¡Aléjate de ese pájaro, amigo! Raúl ya tiene bastantes problemas sin que vosotros los soldaditos vengáis jodiendo las cosas, ¿sabes? ¡Los malditos pilotos ya son un dolor!}
 {127}{}{Eh, amigo. Raúl te dijo que te alejaras de sus pájaros. Ahora Raúl va a enseñarte a hacerle caso. Vamos, pendejo. Quítate esa puta armadura y enfréntate a Raúl mano a mano.}
 {128}{}{No, no pienso eso yo.}
@@ -31,7 +31,7 @@
 {130}{}{No, gracias; eres demasiado duro para mí, amigo.}
 {131}{}{¿Por qué voy a usar los puños cuando tengo una bonita arma?}
 {132}{}{¡Entonces no toques los pájaros de Raúl, amiga! ¡Fuera de aquí!}
-{133}{}{De acuerdo.}
+{133}{}{Vale.}
 {134}{}{Raúl cree que estás loca yendo por aquí sin uniforme.}
 {135}{}{Eh, amigo, si el sargento te pilla sin uniforme te va a romper el culo.}
 {136}{}{¿Por qué no llevas el uniforme, amiga?}

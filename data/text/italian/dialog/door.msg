@@ -101,8 +101,8 @@
 {201}{}{ riesce a disattivare la trappola.}
 {202}{}{ non riesce a disattivare la trappola.}
 {203}{}{La porta si direbbe chiusa a chiave.}
-{204}{}{Noti una trappola nello stipite della porta.}
-{205}{}{ nota una trappola nello stipite della porta.}
+{204}{}{You notice a trap in the door jamb.}
+{205}{}{ notices a trap in the door jamb.}
 {206}{}{Non sei in grado di piazzare una trappola su questa porta perche' la porta e' aperta.}
 {207}{}{ non e' in grado di piazzare una trappola su questa porta perche' la porta e' aperta.}
 {208}{}{Piazzi una trappola nello stipite.}
@@ -124,3 +124,6 @@
 {501}{}{Pare tu debba prima riattivare il generatore.}
 {502}{}{Vedi: Porta dell'Ascensore.}
 {503}{}{Pare tu abbia bisogno di un dispositivo elettrico per aprire questa porta.}
+{601}{}{It is open, dummy.}
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}

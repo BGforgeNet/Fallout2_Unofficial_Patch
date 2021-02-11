@@ -44,7 +44,7 @@
 {135}{}{¿Cuando se va la próxima caravana?}
 {136}{}{Nada, gracias.}
 {137}{}{Habla con Bill, igual que siempre.}
-{138}{}{De acuerdo.}
+{138}{}{Vale.}
 {139}{}{¿Después de lo que sucedió con Chad? No lo creo. ¿Algo más?}
 {140}{}{Ya estamos aquí. Aquí están tus 500 dólares. Si quieres volver, partiremos al finalizar el día. También
  ganarás el dinero del viaje de vuelta, si te interesa. Pero de una u otra forma, nos iremos en ese momento.}

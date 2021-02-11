@@ -4,7 +4,7 @@
 {103}{}{Hola, soy Ariel. No creo haberte visto por aquí antes. ¿Quién eres?}
 {104}{}{Yo }
 {105}{}{Eh... pareces triste. ¿Por qué?}
-{106}{}{Marcho ahora.}
+{106}{}{Yo irme ahora.}
 {107}{}{Hola, Ariel, mi nombre es}
 {108}{}{Hola. Pareces desanimada. ¿Qué sucede?}
 {109}{}{No necesitas saber mi nombre, pero necesito de ti cierta información.}

@@ -516,7 +516,7 @@ position=wedge, spacing:2
 
 [Encounter: DEN_Slave_Run]
 type_00=ratio:50%, pid:16777433, Item:5(wielded), Item:(0-10)41, Script:627                    ; Male Slaver w/ Club
-type_01=ratio:50%, pid:16777434, Item:20(wielded), Item:(0-10)41, Script:627                   ; Female Slaver w/ Crowbar
+type_01=ratio:50%, pid:16777434, Item:4(wielded), Item:(0-10)41, Script:627                   ; Female Slaver w/ Knife
 position=Surrounding
 
 [Encounter: DEN_Slaves]

@@ -140,7 +140,7 @@
 {487}{}{Du lügst!}
 {488}{}{Ich glaube dir nicht. Du lügst.}
 {489}{}{Du solltest die Finger lieber von dem Jet lassen, das Zeug wird dich früher oder später umbringen.}
-{490}{}{Wirklich? Das ist unglaublich. Ich muss da auch mal hin und mir das persönlich anschauen. Tschüß.}
+{490}{}{Wirklich? Das ist unglaublich. Ich muss da auch mal hin und mir das persönlich anschauen. Tschüss.}
 {500}{}{In der Wüste. (Schielt dich ungläubig an.) Es ist wahrscheinlich eh nicht mehr da.}
 {501}{}{Bist du sicher, dass du es mir nicht zeigen willst?}
 {502}{}{Kannst du mir nicht zeigen, wo du es gesehen hast?}

@@ -1,13 +1,13 @@
 {100}{}{Du siehst einen Mann in Militäruniform.}
-{101}{}{You see Quincy, the mechanic.}
+{101}{}{Du siehst Quincy, den Mechaniker.}
 {102}{}{Du siehst einen Mann in Militäruniform. Den Ölflecken nach zu urteilen, hältst du ihn
  eher für einen Mechaniker als für einen Soldaten.}
 {103}{}{Ich heiße Quincy, Soldat. Warum klopfst du mir auf die Schulter und siehst verwirrt aus?}
 {104}{}{Ich müssen fragen.}
 {105}{}{Nichts.}
-{106}{}{Hi, ich muß dich was fragen.}
+{106}{}{Hi, ich muss dich was fragen.}
 {107}{}{Macht nichts.}
-{108}{}{In Ordnung, aber beeil dich. Ich muß Inventur machen.}
+{108}{}{In Ordnung, aber beeil dich. Ich muss Inventur machen.}
 {109}{}{Was willst du wissen?}
 {110}{}{Was sein das hier?}
 {111}{}{Ich suchen Vertibird-Pläne. Wo finden?}
@@ -15,8 +15,8 @@
 {113}{}{Ich gehn.}
 {114}{}{Was ist das alles hier?}
 {115}{}{Ich suche die Vertibird-Pläne. Weißt du, wo die sind?}
-{116}{}{Ein Techniker hat mir gesagt, daß ich die Vertibird-Pläne hier finde.}
-{117}{}{Naja, muß los.}
+{116}{}{Ein Techniker hat mir gesagt, dass ich die Vertibird-Pläne hier finde.}
+{117}{}{Naja, muss los.}
 {118}{}{Hier ist die Wartungsabteilung. Wir reparieren so ziemlich alles außer den Vertibirds.}
 {119}{}{Wo Vertibirds reparieren?}
 {120}{}{Wo werden die Vertibirds repariert?}
@@ -28,7 +28,7 @@
 {125}{}{Ich Freunde Süden, wollen Pläne.}
 {126}{}{Äh...also...}
 {127}{}{Ich hab 'n paar Freunde im Süden, die die gern hätten.}
-{128}{}{Der Sarge hat mir gesagt, daß ich die holen soll.}
+{128}{}{Der Sarge hat mir gesagt, dass ich die holen soll.}
 {129}{}{Im Süden... Heiliger Strohsack! Ein Spion! Wache! Alarm!}
 {130}{}{Uups.}
 {131}{}{Huch. Jetzt hab ich's richtig vermasselt.}
@@ -47,9 +47,9 @@
 {141}{}{Klar, der war's.}
 {142}{}{Nein, ich glaube, es war nicht Raul.}
 {143}{}{Verdammt! Dieser Raul würde sogar seinen Kopf verlieren, wenn der nicht angewachsen wäre!
- Das ist das dritte Mal in den letzten drei Monaten, daß er die Pläne verliert! Und jetzt ist er
+ Das ist das dritte Mal in den letzten drei Monaten, dass er die Pläne verliert! Und jetzt ist er
  nicht mal Manns genug, mich darum zu bitten? In Ordnung, sie sind in der Schublade da drüben.
- Oh, und wenn du sie ihm gibst, sag dem Rindvieh, daß ich ihn sehen will.}
+ Oh, und wenn du sie ihm gibst, sag dem Rindvieh, dass ich ihn sehen will.}
 {144}{}{Danke.}
 {145}{}{Du bist wieder da. Hast du die Vollmacht?}
 {146}{}{Du schon wieder? Was ist jetzt?}
@@ -59,9 +59,9 @@
 {150}{}{Nein, noch nicht.}
 {151}{}{Ich fragen was.}
 {152}{}{Nur sagen Hallo.}
-{153}{}{Ich muß dich was fragen.}
+{153}{}{Ich muss dich was fragen.}
 {154}{}{Nichts, wollte nur vorbeischauen.}
-{155}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Laß dich ausrüsten!}
+{155}{}{Bist du verrückt, hier ohne Uniform herumzulaufen? Lass dich ausrüsten!}
 {156}{}{Wenn der Sergeant dich ohne Uniform erwischt, kannst du deinen Kopf unterm Arm tragen.}
 {157}{}{Warum trägst du keine Uniform? }
 {158}{}{Heiliger Strohsack! Wir werden überfallen! Alarm!}
@@ -74,6 +74,6 @@
 {165}{}{Ich hab dir doch gesagt, du sollst nicht in meinen Sachen rumwühlen! Wachen!}
 {200}{}{Ja, Mann, du darfst nicht alles glauben, was du so hörst.}
 {201}{}{Wer hat dir das erzählt? Der is' nämlich dann der nächste, nachdem ich dir etwas Verstand eingebleut hab.}
-{300}{}{Siehst du nicht, daß ich beschäftigt bin?}
+{300}{}{Siehst du nicht, dass ich beschäftigt bin?}
 {301}{}{He! An den Spinden hast du nichts verloren!}
 {302}{}{Ich hab dir doch gesagt, du sollst nicht in meinen Sachen rumwühlen! Wachen!}

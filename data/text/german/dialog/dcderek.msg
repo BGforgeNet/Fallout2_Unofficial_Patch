@@ -10,7 +10,7 @@
 {206}{}{Doh!}
 {207}{}{Hey, was machst du hier?}
 {220}{}{Halt dich von Metzger fern, du Sippenhannes.}
-{221}{}{Warum muß es immer so verdammt heiß sein.}
+{221}{}{Warum muss es immer so verdammt heiß sein.}
 {222}{}{Warum leben wir in der Wüste?}
 {223}{}{Ich bin ein guter Koch.}
 {224}{}{Eines Tages werd ich mein eigenes Restaurant haben.}
@@ -34,16 +34,16 @@
 {260}{}{Hey, suchst du frisch gebackenes Brot?}
 {261}{}{Ja.}
 {262}{}{Ich suche Beckys Buch.}
-{263}{}{Nein, Tschüß.}
+{263}{}{Nein, Tschüss.}
 {270}{}{Oh, hallo.}
 {271}{}{Und, wo ist Beckys Buch?}
-{272}{}{Hey, wie wär's mit einem bißchen von dem Brot?}
-{273}{}{Tschüß.}
+{272}{}{Hey, wie wär's mit einem bisschen von dem Brot?}
+{273}{}{Tschüss.}
 {280}{}{Ha! Genau wie ich. Hab ich dir erzählt, was ich für ein großartiger Koch bin? Aus
  irgendwelchen Gründen stellt Becky mich nicht ein. Sie sagt, ich sei labil.}
 {281}{}{Wahrscheinlich hat sie recht.}
 {282}{}{Ich suche Beckys Buch.}
-{283}{}{Großartig. Ich muß äh... gehen.}
+{283}{}{Großartig. Ich muss äh... gehen.}
 {290}{}{Was? Du! Scher dich zum Teufel, Alter! Ich bin nicht... Au! Mist.}
 {291}{}{Was? Du! Scher dich zum Teufel, Mädchen! Ich bin nicht... Au! Mist.}
 {292}{}{Verdammt.}
@@ -51,7 +51,7 @@
 {300}{}{Oh ja. Mir hat es nicht gefallen. Zuviel Knutscherei. Ich hab's in die Ecke von diesem 
 Gebäude geworfen... nein, diesem Gebäude... nein...}
 {301}{}{Buch? Ach, Das Buch. Wer hat dich geschickt? Ich weiß nicht, ob es die richtige Seite
- ist. Vergiß das Taschentuch nicht.}
+ ist. Vergiss das Taschentuch nicht.}
 {302}{}{Ich kann nicht! Sie sind... oh Mist... Hast du den Käse? Versteck dich. }
 {303}{}{Hey! Das ist nicht mein Problem. Was sollte ich denn tun? Gegen sie kämpfen? Kleine grüne
  Männer, große spitze Zähne. Mist! Autsch! Aufhören!}
@@ -62,7 +62,7 @@ Gebäude geworfen... nein, diesem Gebäude... nein...}
  Ich hör keine Stimmen im Kopf!}
 {311}{}{Ich werde... Sch....! Mist! Verdammt! Hör auf. Sei ruhig. Was? OK.}
 {312}{}{Hey! Hö... ma... Mist.}
-{313}{}{Tschüß.}
+{313}{}{Tschüss.}
 {314}{}{Nichts.}
-{320}{}{Hey! Laß mich zufrieden!}
-{321}{}{Faß mich nicht an!}
+{320}{}{Hey! Lass mich zufrieden!}
+{321}{}{Fass mich nicht an!}

@@ -15,7 +15,7 @@
 {114}{}{Voy a irme ahora.}
 {115}{}{Hmm... Me gustas. No aburro hablando. Quédate y comerciamos tú y yo.}
 {116}{}{K'}
-{117}{}{Me voy, yo.}
+{117}{}{Yo ir.}
 {118}{}{Buena charla. Ahora tú marchas. Estoy cansado.}
 {119}{}{[FIN]}
 {120}{}{Hablar me hace dolor de cabeza. Marcho.}

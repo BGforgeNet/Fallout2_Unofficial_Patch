@@ -197,16 +197,6 @@ procedure damage_p_proc begin
 
 end
 
-/*
-procedure combat_p_proc begin
-   if (self_item_count() == 0) then begin
-      item := create_object(PID_COMBAT_SHOTGUN,0,0);
-      add_obj_to_inven(self_obj, item);
-   end
-end
-*/
-
-
 /* Any time that the player is caught stealing from this critter, Pickup_proc will be called.
    In here, various things can happen. The most common response is instant hostility which
    will be remembered. */

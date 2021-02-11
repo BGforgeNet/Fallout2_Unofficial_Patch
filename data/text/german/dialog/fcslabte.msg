@@ -4,7 +4,7 @@
 {103}{}{Mann...Wong ist doch ein elender alter Sklaventreiber.}
 {104}{}{Arbeit, Arbeit, Arbeit. Das ist alles, wozu wir taugen.}
 {105}{}{Mit diesem Experiment werden wir das Ödland verändern!}
-{106}{}{Paß auf, Ödland. Wir haben hier was für dich!}
+{106}{}{Pass auf, Ödland. Wir haben hier was für dich!}
 {107}{}{Ich möchte mal wieder die Sonne sehen.}
 {108}{}{Misch dies, misch das. Manchmal ödet mich alles so an.}
 {109}{}{Hast du die letzten Ergebnisse des großen Experiments gesehen? Sehr zufriedenstellend!}
@@ -16,7 +16,7 @@
 {120}{}{Dieser Hacker hat's nicht lange gemacht.}
 {121}{}{Arbeit, Arbeit, Arbeit. Das ist alles, wozu wir taugen.}
 {122}{}{Wir werden das Ödland verändern!}
-{123}{}{Mach dich auf was gefaßt, Ödland!}
+{123}{}{Mach dich auf was gefasst, Ödland!}
 {124}{}{Ich möchte mal wieder die Sonne sehen.}
 {127}{}{Sheng Ming ist eine widerliche Kröte.}
 {128}{}{Bald werden wir soweit sein.}

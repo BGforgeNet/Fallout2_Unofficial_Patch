@@ -37,7 +37,7 @@
 {247}{}{Depende… ¿cuál es el menú?}
 {248}{}{Me gustaría sorprender a mi amigo con algo especial.}
 {249}{}{Me gustaría sorprender a uno de mis amigos. Es su… eh, cumpleaños.}
-{250}{}{I'd like to ask you some questions...}
+{250}{}{Me gustaría hacerle algunas preguntas...}
 {251}{}{En realidad, he cambiado de opinión. Ansiedad pre-actuación y todo eso. Adiós.}
 {255}{}{Me siento halagada, pero… no. No puedo.}
 {256}{}{Oh, vamos. Tan solo una copa. Sin presiones. Nos lo pasaremos bien.}
@@ -193,7 +193,7 @@ el mismo mensaje continuamente. Aunque seguro que TODAVÍA seguirá saliendo, aunq
 {597}{}{Sí… sí, creo que lo harías bien. ¿Te interesa probar? El resto de mis chicas
  están… hartas de ello.}
 {598}{}{Claro.}
-{599}{}{Hmmmph. I had some other questions...}
+{599}{}{Hmmmph. Yo tenía algunas otras preguntas...}
 {600}{}{No, pero igual te lo vuelvo a plantear más tarde. Tenía más preguntas…}
 {610}{}{(Asiente) Excelente. Uno de los lugartenientes de Mordino tiene que aparecer por aquí dentro de poco. Si quieres
  tomar asiento, te presentaré como una de las… aspirantes.}

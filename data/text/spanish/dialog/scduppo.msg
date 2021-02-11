@@ -1,5 +1,5 @@
 {100}{}{Ves a un hombre de aspecto amigable, con el rostro enrojecido.}
-{101}{}{It's Duppo. He runs the Stockman's Association.}
+{101}{}{Es Duppo. Corre el Vaquero de la Asociación.}
 {102}{}{Es un tipo fornido con la cara constantemente enrojecida y una mata de fino pelo rubio. Camina con una leve cojera.}
 {103}{}{Saludos, forastero. No te tengo visto por aquí, de modo que no eres un ganadero. ¿Vienes buscando trabajo o estas aquí por negocios?}
 {104}{}{¿Qué va a ser, forastero?}

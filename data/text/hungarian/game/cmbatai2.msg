@@ -249,7 +249,7 @@
 {1587}{}{Gyere ide, hogy megölhesselek!}
 {1588}{}{Sötétség! Sötétség! Ajjj!}
 {1589}{}{Hol a szemem? Hova tûnt!?!}
-{1590}{}{Így is van elég leszármazottam!}
+{1590}{}{I have too many young already.}
 {1591}{}{Nem harcolsz becsületesen!}
 {1592}{}{Úgyse használtam, házas vagyok...}
 {1593}{}{Szent szellemek, a világ felrobbant.}

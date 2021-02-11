@@ -91,7 +91,7 @@
 {386}{}{Claro.}
 {395}{}{(Eldridge toma el objeto y lo examina atentamente). Muy bien... espera un momentito, y veré lo que puedo hacer.
  (Desaparece en la trastienda).}
-{396}{}{De acuerdo.}
+{396}{}{Vale.}
 {400}{}{(Esperas...)}
 {401}{}{Esperas...}
 {405}{}{(Esperas más tiempo...)}

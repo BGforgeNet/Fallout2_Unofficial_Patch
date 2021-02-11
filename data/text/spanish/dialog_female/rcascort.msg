@@ -210,8 +210,8 @@ se le cure esa pierna rota. Podrías ir a hablar con él. Su oficina está al sur d
 {269}{}{Puede que dé un paseo hasta allí y hable con ellos. Gracias, alcalde. Adiós.}
 {270}{}{Últimamente nuestros envíos de oro han empezado a menguar porque los mineros se pasan demasiado
  tiempo colocados con Jet.}
-{271}{}{Almost all of the miners are spending more time flying Jet than mining for gold... so our prices
- are up, and our exports are down. Bad for business all the way around.}
+{271}{}{Casi todos los mineros están gastando más tiempo de vuelo de Jet de la minería de oro... así que nuestros precios
+ y nuestras exportaciones son hacia abajo. Malo para los negocios de todo el camino alrededor.}
 {272}{}{Todo el mundo toma demasiado Jet como para trabajar eficazmente. No estamos produciendo ni la décima parte de los
  envíos de oro que solíamos, y por eso tuvimos que aumentar los precios. Esto no puede continuar así.}
 {273}{}{Parece como si todos hubieran tomado una mala dosis de Jet. Todos los enganchados están pasando por una

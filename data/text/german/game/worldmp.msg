@@ -41,10 +41,10 @@
 {304}{}{Warehouse}
 {310}{}{Entrance}
 {311}{}{Interior}
-{500}{}{You gained 10,000 experience points!}
+{500}{}{Du erhälst 10,000 Erfahrungspunkte!}
 {501}{}{Ruins}
 {1000}{}{Desert}
 {1001}{}{Mountains}
 {1002}{}{City}
 {1003}{}{Coast}
-{1004}{}{Unknown}
+{1004}{}{Unbekannt}

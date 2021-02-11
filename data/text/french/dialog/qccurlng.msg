@@ -73,7 +73,7 @@
 {172}{}{Le Projet auquel s'est attachée l'Enclave au cours des dernières décennies a été le rétablissement de la race humaine sur la partie continentale des Etats-Unis. Dieu bénisse l'Amérique.}
 {173}{}{Ca ne devrait pas prendre des décennies.}
 {174}{}{J'en ai assez entendu. J'ai une autre question à te poser.}
-{175}{}{Oh, l'établissement d'un poste avancé ne serait pas difficile. On a déjà fait ça à Navarro. C'est la procédure d'éradication qui demande plus de temps.}
+{175}{}{Oh, just establishing an outpost wouldn't take long. We've already done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
 {176}{}{Procédure d'éradication ?}
 {177}{}{Eh bien oui, on ne peut pas revenir sur le continent en raison des risques de contamination par tous les presqu'humains. Pour rendre les Etats-Unis sûrs pour l'humanité, les mutants doivent d'abord être exterminés.}
 {178}{}{Quoi !?! Tu débloques ? C'est monstrueux !}
@@ -102,7 +102,7 @@
 {201}{}{D'accord, maintenant je vois où vous l'avez trouvé mais ça sert à quoi ?}
 {202}{}{A l'origine, le FEV a été conçu comme un virus pour produire des SuperSoldats. Cette expérience a complètement échoué bien que j'aie réussi à appliquer une variante modifiée sur l'un de nos agents des services secrets.}
 {203}{}{Super, mais quel rapport avec tes projets d'extermination ?}
-{204}{}{Oh, oui, eh bien j'allais justement y venir.... Le virus FEV est lié à une espèce, il ne peut se lier qu'aux glycoprotéines humaines. Il n'a fallu que quelques années pour rendre le virus FEV encore plus dévastateur. Le résultat correspondait exactement aux attentes du docteur, parfait.}
+{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
 {205}{}{Parfait ? Dans quel sens ?}
 {206}{}{Tu ne vois donc pas, mutant ? Le FEV est, grâce à moi, une toxine mortelle et grâce à un génie mystérieux appelé, plutôt théâtralement, le Maître, il n'a d'effets que sur les humains, mutants ou non.}
 {207}{}{Et alors ?}

@@ -27,7 +27,7 @@
 {126}{}{¿Sabes de Darion?}
 {127}{}{¿Cómo vienes aquí?}
 {128}{}{¿Darion tiene perrito?}
-{129}{}{Marcho ahora.}
+{129}{}{Yo irme ahora.}
 {130}{}{¿Trabajas para Darion?}
 {131}{}{¿Puedes marcharte si lo deseas?}
 {132}{}{¿Qué puedes contarme de Darion?}

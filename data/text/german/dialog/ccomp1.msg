@@ -2,9 +2,9 @@
 {101}{}{Du siehst einen Computertechniker.}
 {102}{}{Du siehst jemanden, der einen Laborkittel trägt, komplett mit Brusttasche und Stiften.}
 {103}{}{Guten Tag, Soldat.}
-{104}{}{Bitte, faß nichts an.}
+{104}{}{Bitte, fass nichts an.}
 {105}{}{Ihr Füchse sollt hier nicht reinkommen.}
-{106}{}{You're out of uniform. }
+{106}{}{Du trägst keine Uniform.}
 {107}{}{Zieh Dir besser eine an. Die Waffenkammer ist am Ende der Halle auf der linken Seite.}
 {108}{}{Das ist sehr riskant, ohne Uniform herumzulaufen. Meld dich lieber beim Nachschub.}
 {109}{}{Wer zum Teufel seid ihr...Alarm! Eindringlinge!}

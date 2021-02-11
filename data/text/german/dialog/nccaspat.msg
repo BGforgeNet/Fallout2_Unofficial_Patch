@@ -76,7 +76,7 @@
 {259}{}{Hast du Hummeln im Hintern, dass er beim gehen so wackelt, Puppe?}
 {260}{}{Vielleicht tanzt sie heute Abend.}
 {261}{}{Hast du ihren neuesten Film gesehen? Heiß, Mann, BRANDHEISS.}
-{262}{}{Entschuldige mich. Ich muß schnell auf die Toilette und äh, kurz meine Haare kämmen.}
+{262}{}{Entschuldige mich. Ich muss schnell auf die Toilette und äh, kurz meine Haare kämmen.}
 {263}{}{Ich möchte ihr Slip sein.}
 {264}{}{Ich möchte ihre Unterwäsche sein.}
 {265}{}{Ich möchte an ihrem Höschen riechen.}
@@ -164,12 +164,12 @@
 {347}{}{Kann sich deine Rüstung in ein Düsenflugzeug verwandeln und herumfliegen? Würd mich interessieren.}
 {348}{}{Ja, ja, 'schepper-surrr-schepper' auch dir.}
 {349}{}{Wenn du denkst, dass mich deine Rüstung einschüchtert, hast du Recht.}
-{350}{}{Du mußt einer dieser Videospielautomaten von vor dem Krieg sein.}
+{350}{}{Du musst einer dieser Videospielautomaten von vor dem Krieg sein.}
 {351}{}{Hör mal, bitte... ich will keine Schwierigkeiten. Ich bin nur diesen Tag in der Stadt.}
 {352}{}{Sieh mal, bitte...ich will keinen Ärger.}
 {353}{}{Entschuldigung, war ich im Weg? Ich werde die Stadt verlassen.}
 {354}{}{Verzeihung, nehme ich dir die Luft? Ich halt den Atem an.}
-{355}{}{Grüß deinen Boß von mir.}
+{355}{}{Grüß deinen Boss von mir.}
 {356}{}{Äh... *Schluck*... stimmt was nicht?}
 {357}{}{Hör mal, bitte... ich will keine Schwierigkeiten. Ich bin nur diesen Tag in der Stadt.}
 {358}{}{Sieh mal, bitte...ich will keinen Ärger.}
@@ -183,7 +183,7 @@
 {366}{}{Ich hab deinen Höhepunkt genau hier.}
 {367}{}{Diese Beine gehen bis da hinauf?}
 {368}{}{Gehst du heute abend tanzen?}
-{369}{}{Entschuldige mich. Ich muß schnell auf die Toilette und äh, kurz meine Haare kämmen.}
+{369}{}{Entschuldige mich. Ich muss schnell auf die Toilette und äh, kurz meine Haare kämmen.}
 {370}{}{Ich möchte deine Unterwäsche sein.}
 {371}{}{Ich möchte an deinem Höschen riechen.}
 {372}{}{Du bist so ein sexy Biest.}

@@ -10,7 +10,7 @@
 {250}{}{Eso estará bien.}
 {251}{}{Lo siento, pero tengo que marcharme.}
 {252}{}{Ya. ¡Yo tengo cosas!}
-{253}{}{Me voy, yo.}
+{253}{}{Yo ir.}
 {260}{}{Un buen trueque contigo. Buena suerte en tus viajes.}
 {261}{}{Adiós.}
 {270}{}{Me alegra que hayas vuelto. ¿Te interesa algo de lo que tengo?}

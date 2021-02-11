@@ -175,7 +175,7 @@
 {820}{}{El nombre del chico es Myron. Y en cuanto a dónde ESTÁ, eso es algo que no necesitas saber.}
 {821}{}{El nombre del chico es Myron. Lo tenemos alojado en el establo, al norte de la ciudad, probando nuevas drogas. Podrías pasarte por allí a verlo si quieres, pero está ocupado la mayor parte del tiempo… o con las drogas o con las mujeres.}
 {822}{}{¿Por qué no eres un poco listo y me respondes de todos modos?}
-{823}{}{Got it. I had some other questions...}
+{823}{}{Lo consiguió. Yo tenía algunas otras preguntas...}
 {824}{}{Myron, ¿eh? De acuerdo entonces, Jesús. Gracias por la conversación.}
 {840}{}{El Desperado es el lugar adecuado, amigo. Tenemos el Jet, los juegos, la acción… y tenemos a todas las putas que necesitas
  justo a la entrada, húmedas y dispuestas. El Paraíso, amigo. Para jugar.}
@@ -194,7 +194,7 @@
 {862}{}{Inténtalo y verás lo que sucede, PEQUEÑO Jesús.}
 {863}{}{Inténtalo, y te haré tantas cicatrices en la cara que parecerás un puzzle.}
 {864}{}{Calma… sólo te tomaba el pelo.}
-{865}{}{Chill. I had some other questions...}
+{865}{}{Chill. Yo tenía algunas otras preguntas...}
 {867}{}{Me marcho. Es genial hablar con alguien tan culto como tú.}
 {880}{}{¡Ja! Seguro que no, chica. Seguro que no. Pequeño Jesús va a mantener sus ojos sobre ti… tampoco es que no es que pueda evitarlo. ¿Qué
  puedo hacer por ti?}
@@ -240,7 +240,7 @@
  a cargar con la culpa.}
 {952}{}{No te creo. Creo que TÚ fuiste el responsable. Tú, y el resto de los Mordino.}
 {953}{}{¿Quién supones que podría haberlo hecho?}
-{954}{}{Okay... look, I had some other questions...}
+{954}{}{Bueno... mira, yo tenía otras preguntas...}
 {955}{}{De acuerdo. Sólo preguntaba.}
 {965}{}{(Entorna los ojos). Oye, yo no he tenido NADA que ver con la muerte de ese chico. No sé qué es lo que has oído, pero si yo hubiera matado
  al chico, lo habría hecho pedazos, no empapado en Jet, ¿vale?}
@@ -295,7 +295,7 @@
 {1054}{}{Te daré cien fichas.}
 {1055}{}{Te daré doscientas fichas.}
 {1056}{}{Mi forma de amar también es un arte. ¿Intercambiamos estilos?}
-{1058}{}{Actually, I had some questions...}
+{1058}{}{En realidad, yo tenía algunas preguntas...}
 {1059}{}{En algún otro momento, entonces… cuando tenga fichas suficientes para hacerte cambiar de opinión.}
 {1060}{}{Tal ven algún otro momento entonces, gracias.}
 {1070}{}{Hmmmmm. 200 y tenemos un trato.}

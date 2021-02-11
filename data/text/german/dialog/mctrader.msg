@@ -14,15 +14,15 @@
 {140}{}{Ich frage mich, warum ich mir die Mühe mache, hierher zu kommen, um zu handeln.}
 {141}{}{Diese Stadt ist tot.}
 {142}{}{Das hier war mal eine wohlhabende Stadt mit viel Landwirtschaft.}
-{150}{}{Ich habe gehört, daß Modoc eine wohlhabende Farm nordöstlich von hier 'erworben' hat.}
+{150}{}{Ich habe gehört, dass Modoc eine wohlhabende Farm nordöstlich von hier 'erworben' hat.}
 {151}{}{Ich bin mir nicht sicher, ob ich mit Nahrungsmitteln handeln möchte, die auf der Geisterfarm gewachsen sind.}
 {152}{}{Wohlmöglich ist das Getreide von der Geisterfarm verflucht.}
-{160}{}{Ich habe gehört, daß sie unschuldige Kinder und Frauen geschlachtet haben.}
+{160}{}{Ich habe gehört, dass sie unschuldige Kinder und Frauen geschlachtet haben.}
 {161}{}{Ich möchte nicht mit Barbaren handeln, die wie die Wilden töten.}
-{162}{}{Als ich gehört habe, was sie getan haben, mußte ich mich fast erbrechen.}
-{163}{}{Was auch immer ihr Grund sein mag, ich glaube nicht, daß ich weiterhin nach Modoc komme, um zu handeln.}
+{162}{}{Als ich gehört habe, was sie getan haben, musste ich mich fast erbrechen.}
+{163}{}{Was auch immer ihr Grund sein mag, ich glaube nicht, dass ich weiterhin nach Modoc komme, um zu handeln.}
 {164}{}{Die Bewohner von Modoc sind Mörder.}
-{170}{}{Sieht aus, als würden sich die Dinge hier eine bißchen aufhellen.}
+{170}{}{Sieht aus, als würden sich die Dinge hier eine bisschen aufhellen.}
 {171}{}{Wahrscheinlich brauche ich noch ein weiteres Team, um das ganze Essen von hier wegzutragen.}
 {172}{}{Sieht aus, als ob es doch noch ein gutes Ende für Modoc gibt.}
 {500}{}{Du siehst einen Händler.}

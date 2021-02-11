@@ -73,7 +73,7 @@
 {172}{}{The Project that the Enclave has dedicated itself to these past several decades has been the reestablishment of the human race upon the continental United States. God bless America.}
 {173}{}{Ez nem úgy hangzik, amihez évtizedek kellenének...}
 {174}{}{Eleget hallottam ebbõl. Hadd kérdezzek más valamit!}
-{175}{}{Ah, egy elõörs létesítése nem tart évtizedekig. Egyébként ezt már meg is tettük, lásd Navarro. Sajnos a kiirtási folyamat megtervezése és kivitelezése az, ami sok idõbe kerül.}
+{175}{}{Oh, just establishing an outpost wouldn't take long. We've already done that at Navarro. But it has taken a long time to work out the proper method for the eradication procedure.}
 {176}{}{Kiirtási folyamatot mondott?}
 {177}{}{Hát persze! Miért, mit gondolt? Nem mehetünk csak úgy vissza a szárazföldre anélkül, hogy ne kockáztatnánk a fertõzés veszélyét a mutánsokkal való érintkezés miatt. Ezért, az Egyesült Államok biztonsága érdekében, elõször minden mutánsnak pusztulnia kell.}
 {178}{}{What!?! Are you insane? That's monstrous!}
@@ -102,7 +102,7 @@
 {201}{}{Oké, most már tudom, hogy honnan származik. De mik a hatásai?}
 {202}{}{Az F.E.V. vírust eredetileg arra tervezték, hogy az embereket szuper-harcosokká változtassa. A kísérlet csúnya kudarcba torkollott, bár néhány változtatással a vírust sikeresen alkalmaztam az egyik titkosszolgálati ügynökön.}
 {203}{}{Gratulálok! De hogy jön ez bárkinek a kiirtásához?}
-{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it all ready was. The result was just what the doctor ordered, perfect in every way. }
+{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
 {205}{}{Tökéletes? Hogyhogy?}
 {206}{}{Hát nem nyilvánvaló, mutáns barátom? Az F.E.V. toxin egy halálos vírus, hála nekem, és hála az ismeretlen zseninek, sõt, Mesternek, csak emberekre hat, függetlenül attól, mutáns-e vagy sem.}
 {207}{}{És?}

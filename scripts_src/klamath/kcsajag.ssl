@@ -349,7 +349,6 @@ end
 procedure addbeer begin
    item:=create_object(PID_BEER,0,0);
    add_obj_to_inven(dude_obj,item);
-   //use_obj_on_obj(create_object(PID_BEER,0,0), dude_obj);
 end
 
 procedure Node904 begin

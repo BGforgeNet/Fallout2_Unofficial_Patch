@@ -13,5 +13,5 @@
 {303}{}{Als getreuer Soldat der Enklave hab ich den Befehl, dich zu erschießen. Hoffe, das macht dir nichts aus.}
 {304}{}{Du! Typen wie du haben diese einst mächtige Nation zerstört. Dafür wirst du bezahlen!}
 {305}{}{Keine Sorge, ist nur 'ne Ödland-Tussi. Hält nicht lang durch im Kampf.}
-{306}{}{Schade, daß wir uns nicht unter andern Umständen kennengelernt haben.}
+{306}{}{Schade, dass wir uns nicht unter andern Umständen kennengelernt haben.}
 {307}{}{Sprich nicht mit mir! Du wirst mich nicht mit deinen weiblichen Reizen rumkriegen! Stirb!}

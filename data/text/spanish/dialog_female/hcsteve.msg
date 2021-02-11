@@ -36,7 +36,7 @@
 {135}{}{Nominalmente, el sheriff Marcus está al cargo de la ciudad. Ayudó a fundarla, y nos ayuda a atravesar nuestras crisis. Lo cierto, sin embargo, es que todos en la ciudad tienen voz.}
 {136}{}{Eso parece impracticable.}
 {137}{}{Parece una buena forma de dirigir las cosas.}
-{138}{}{Sigue.}
+{138}{}{Continúa.}
 {139}{}{¿El tipo que ayudó a crear la ciudad sigue al cargo? Eso implica que será muy, muy viejo.}
 {140}{}{Gracias. Adiós.}
 {141}{}{Sin contar que todos los mutantes estén MUERTOS y el pueblo CONDENADO…}
@@ -48,7 +48,7 @@
 {147}{}{Tengo más preguntas.}
 {148}{}{Adiós.}
 {149}{}{Oh. Otra vez tú.}
-{150}{}{Hola de nuevo.}
+{150}{}{Hola otra vez.}
 {151}{}{Bienvenida de nuevo.}
 {152}{}{¿Quieres saber más?}
 {153}{}{¿Qué hay de nuevo?}

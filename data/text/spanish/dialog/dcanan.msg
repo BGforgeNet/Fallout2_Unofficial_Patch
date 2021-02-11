@@ -28,7 +28,7 @@
 {132}{}{No creo que esto sea adecuado para ti.}
 {133}{}{¿Porqué no te llevas a tu pequeño tribal a otra parte?}
 {134}{}{De verdad que esto no es para ti.}
-{135}{}{Ya veo, hmmm, (te señala) ¿qué tal si TE VAS?}
+{135}{}{Ya veo, hmmm, (señala) ¿qué tal si TE VAS?}
 {136}{}{Para una persona de tu distinguida clase, estaría encantado de mostrarte éste único e histórico espécimen por una mera suma de $25.}
 {137}{}{Vale, apoquinaré la pasta. Ahora... ¡Enséñame la momia!}
 {138}{}{No quiero gastar tanto dinero. Creo que me las arreglaré sin ver esa cosa. Adiós.}

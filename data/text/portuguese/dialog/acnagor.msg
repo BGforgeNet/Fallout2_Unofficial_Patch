@@ -37,7 +37,7 @@
 {201}{}{Olá primo ... eu quero dizer Escolhido. Espero que você tenha encontrado o GECK. Ouvi muito
   Falar sobre tempos difíceis vindo. }
 {202}{}{Eu ainda olho, Nagor.}
-{203}{}{I'm still looking, cousin.}
+{203}{}{Eu ainda estou procurando, primo.}
 {204}{}{Bem-vindo a casa, primo. As coisas estão ficando um pouco apertadas por aqui. Você já encontrou o santo Treze e o GECK?}
 {205}{}{Bem-vindo a casa, primo. As coisas estão ficando um pouco apertadas por aqui. Você já encontrou o santo Treze e o GECK?}
 {206}{}{Não encontrei. Desculpa.}

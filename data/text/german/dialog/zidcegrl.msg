@@ -31,13 +31,13 @@
 {204}{}{Ich dacht schon, du hättest uns beim Retten der Welt ganz und gar vergessen.}
 {215}{}{Hallo, }
 {216}{}{wenn du noch eine Begleitung für später suchst...}
-{217}{}{Hey, you...[winks]...you looking to gamble?}
-{218}{}{He looks so...[shivers]...dangerous.}
+{217}{}{Hey, du…[winkt]…willst du spielen?}
+{218}{}{Er sieht so...[erschaudert]...gefährlich aus.}
 {219}{}{Willkommen im Kasino, }
 {220}{}{Legst du beim Boss ein gutes Wort für mich ein?}
 {221}{}{Hallo, Verehrteste. Lass mich wissen, wenn ich dir irgendwie behilflich sein kann.}
 {222}{}{Wollen sie spielen Verehrteste?}
-{223}{}{She looks so...[shivers]...dangerous.}
+{223}{}{Sie sieht so...[erschaudert]...gefährlich aus.}
 {235}{}{Sieht so aus, als würdest du schon mit deinen Leben spielen.}
 {236}{}{Äh, ich denke du bist hier im falschen Kasino…}
 {237}{}{Wenn der nicht abhaut, bevor ihn die Jungs sehen…}
@@ -117,7 +117,7 @@
 {422}{}{Gewonnen! Du hast dein Geld verdoppelt! Gut gemacht Ma'am!}
 {430}{}{Gewonnen! du hast dein Geld verdreifacht!}
 {431}{}{Gewonnen! du hast dein Geld verdreifacht! Du hast wohl ne Glückssträhne! Gut gemacht Sir!}
-{432}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, ma'am!}
+{432}{}{Gewonnen! du hast dein Geld verdreifacht! Du hast wohl ne Glückssträhne! Gut gemacht Ma'am!}
 {440}{}{Ist heute wohl dein Tag.}
 {441}{}{Ist heute wohl deinen Nacht.}
 {450}{}{Tut mir leid, dieser Tisch ist geschlossen. Jemand hat die Würfel gezinkt.}

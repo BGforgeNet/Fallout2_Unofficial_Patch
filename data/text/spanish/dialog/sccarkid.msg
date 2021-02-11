@@ -24,7 +24,7 @@
 {123}{}{Dile a tu padre que tengo noticias sobre el señor Bishop. ¿Te acordarás?}
 {124}{}{Fnuh.}
 {125}{}{¡Eres un cerebro de mosquito! ¡Cerebro de mosquito!}
-{126}{}{De acuerdo.}
+{126}{}{Vale.}
 {127}{}{Noticias sobre el señor Bishop. ¿Vale?}
 {128}{}{Bastante bien.}
 {129}{}{Papá dice que no puede verte.}

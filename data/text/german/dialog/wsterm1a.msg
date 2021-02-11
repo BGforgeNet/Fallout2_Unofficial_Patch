@@ -32,7 +32,7 @@
 {130}{}{Armageddon}
 {131}{}{In Sicherheitssysteme einhacken.}
 {132}{}{Du hast nicht die mindeste Ahnung. Beenden.}
-{133}{}{[Wenn man <Strg><Alt><C> drückt, stürzt das Programm ab. Du hoffst, daß sich die übrigen
+{133}{}{[Wenn man <Strg><Alt><C> drückt, stürzt das Programm ab. Du hoffst, dass sich die übrigen
  Sicherheitsmechanismen auf ähnlich einfache Weise ausschalten lassen.]}
 {134}{}{Beenden}
 {135}{}{Sicherheitsverstoß Ebene 1                                           Sicherheitsprotokoll wird aktiviert

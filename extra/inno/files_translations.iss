@@ -1,0 +1,9 @@
+Source: "translations\{#basename}_czech.dat"; DestDir: "{#mods_dir}"; Components: translation\czech; Flags: ignoreversion overwritereadonly
+Source: "translations\{#basename}_french.dat"; DestDir: "{#mods_dir}"; Components: translation\french; Flags: ignoreversion overwritereadonly
+Source: "translations\{#basename}_german.dat"; DestDir: "{#mods_dir}"; Components: translation\german; Flags: ignoreversion overwritereadonly
+Source: "translations\{#basename}_hungarian.dat"; DestDir: "{#mods_dir}"; Components: translation\hungarian; Flags: ignoreversion overwritereadonly
+Source: "translations\{#basename}_italian.dat"; DestDir: "{#mods_dir}"; Components: translation\italian; Flags: ignoreversion overwritereadonly
+Source: "translations\{#basename}_polish.dat"; DestDir: "{#mods_dir}"; Components: translation\polish; Flags: ignoreversion overwritereadonly
+Source: "translations\{#basename}_portuguese.dat"; DestDir: "{#mods_dir}"; Components: translation\portuguese; Flags: ignoreversion overwritereadonly
+Source: "translations\{#basename}_russian.dat"; DestDir: "{#mods_dir}"; Components: translation\russian; Flags: ignoreversion overwritereadonly
+Source: "translations\{#basename}_spanish.dat"; DestDir: "{#mods_dir}"; Components: translation\spanish; Flags: ignoreversion overwritereadonly

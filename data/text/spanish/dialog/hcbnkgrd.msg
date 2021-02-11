@@ -15,7 +15,7 @@
 {114}{}{Oh. De acuerdo.}
 {115}{}{Podemos ayudar a cualquiera que venga aquí por alguna razón. Si no se te puede ayudar, entonces debes irte. Márchate antes de que te ayudemos.}
 {116}{}{¿Me captas?}
-{117}{}{Entiendo.}
+{117}{}{Entendido.}
 {118}{}{Estás aquí para hablar con ellos, ¿no? Bien, puedes hablar con nosotros. ¿Qué tienes que decir?}
 {119}{}{¿Habéis considerado que los estéis reteniendo ilegalmente?}
 {120}{}{¡Cómete esa, mutante!}

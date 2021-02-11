@@ -204,7 +204,7 @@ variable whiskey_bottle;
    if (dude_caps >= whiskey_cost) then begin
       self_caps_adjust(whiskey_cost);
       dude_caps_adjust(-whiskey_cost);
-      use_obj_on_obj(create_object(PID_BOOZE,0,0), dude_obj);
+      call create_and_use_itempid_on(dude_obj, PID_BOOZE);
       call Node005;
    end else begin
       call Node006;

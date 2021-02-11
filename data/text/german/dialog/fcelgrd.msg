@@ -1,5 +1,5 @@
 {100}{}{Du siehst eine schwer bewaffnete Wache.}
-{101}{}{You see an Hubologist guard.}
+{101}{}{Du siehst eine Wache der Hubologen.}
 {102}{}{Du siehst eine schwer bewaffnete Gestalt, der die Grausamkeit ins Gesicht geschrieben steht}
 {103}{}{Einbrecher!}
 {104}{}{Schnappt euch den Eindringling!}
@@ -12,8 +12,8 @@
 {111}{}{Wir sind der lange Arm des Hub-Gesetzes.}
 {112}{}{‹belt‰ter!}
 {113}{}{Vorsicht.}
-{114}{}{Paﬂ auf, Outsider.}
-{115}{}{Faﬂ nichts an, was du nicht darfst.}
+{114}{}{Pass auf, Outsider.}
+{115}{}{Fass nichts an, was du nicht darfst.}
 {116}{}{Wenn du aus der Reihe tanzt, machen wir Hackfleisch aus dir.}
 {117}{}{Sei ‰uﬂerst vorsichtig.}
 {118}{}{Wir sind das Gesetz des Hub. Brich es nicht.}

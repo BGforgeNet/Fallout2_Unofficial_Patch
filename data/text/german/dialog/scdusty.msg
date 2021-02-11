@@ -11,13 +11,13 @@
 {108}{}{Was kann man in dieser Stadt so unternehmen?}
 {109}{}{Wiedersehn.}
 {110}{}{Das ist Hoss, der Sohn von Präsidentin Tandi. Wird ziemlich schnell unberechenbar, wenn
- er getrunken hat. An deiner Stelle würd ich aufpassen, daß ich ihm nicht zu nahe komme.}
+ er getrunken hat. An deiner Stelle würd ich aufpassen, dass ich ihm nicht zu nahe komme.}
 {111}{}{Das war Hoss, der Sohn von Präsidentin Tandi. Junge, Junge, dem hast du's aber gegeben!}
 {112}{}{Präsidentin Tandi?}
 {113}{}{Brutaler Typ, was? Danke.}
 {114}{}{Nicht viel. Wenn du Streit suchst, geh woanders einen trinken, von mir aus im Rawhide.
  Wenn du Arbeit brauchst, empfehle ich dir Westins Ranch westlich der Stadt. Ich hab auch
- gehört, daß Präsidentin Tandi einen Fachmann sucht.}
+ gehört, dass Präsidentin Tandi einen Fachmann sucht.}
 {115}{}{Einen Fachmann?}
 {116}{}{Präsidentin Tandi?}
 {117}{}{Danke.}

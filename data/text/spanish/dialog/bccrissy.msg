@@ -17,7 +17,7 @@
 {116}{}{}
 {117}{}{Quiero saber quien eres y que esta pasando aquí.}
 {118}{}{¿En serio? ¡Fenomenal! Vamos.}
-{119}{}{De acuerdo.}
+{119}{}{Vale.}
 {120}{}{Me llamo Chrissy y soy de los Okupas. Estaba explorando la semana pasada cuando encontré una entrada por allí. Pensé que podría ser una mina abandonada o algo así, y entonces decidí comprobarlo. Bien, no es una mina; es una entrada secreta al Refugio 15. El refugio lo están usando como base una banda de saqueadores llamados Nuevos Khans. Me pillaron curioseando por los alrededores y su líder, Darion, me encerró aquí.}
 {121}{}{Vale. Yo llevo a casa tuya.}
 {122}{}{De acuerdo, te llevaré a tu hogar.}

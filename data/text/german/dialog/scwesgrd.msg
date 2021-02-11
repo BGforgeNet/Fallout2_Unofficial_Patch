@@ -9,11 +9,11 @@
 {108}{}{Willst du nun gehen oder nicht?}
 {109}{}{Will gehn.}
 {110}{}{Nein. Bleib.}
-{111}{}{Ja, ich muß jetzt gehen.}
-{112}{}{Nein, ich treib mich noch ein bißchen rum hier.}
+{111}{}{Ja, ich muss jetzt gehen.}
+{112}{}{Nein, ich treib mich noch ein bisschen rum hier.}
 {113}{}{Das ist Westins Ranch. Hier wohnt Stadtrat Westin.}
-{114}{}{Muß sehn.}
-{115}{}{Gut. Tschüß.}
+{114}{}{Muss sehn.}
+{115}{}{Gut. Tschüss.}
 {116}{}{Ich möchte bitte den Stadtrat sprechen.}
 {117}{}{Verstehe. Dann geh ich also.}
 {118}{}{Was wünschst du von Mr. Westin?}
@@ -44,4 +44,4 @@
 {139}{}{Ich haben Sachen von Vault City für Mr. Westin.}
 {140}{}{Ich habe etwas aus Vault City für Mr. Westin.}
 {141}{}{Na gut, komm herein. Mach ja keinen Ärger. Ich beobachte dich.}
-{142}{}{You're not allowed on to the ranch without official business.}
+{142}{}{Ohne irgendwelche Geschäfte zu machen, kommst du nicht auf die Farm.}

@@ -2,8 +2,8 @@
 {101}{}{Sie sind noch immer gut bewaffnete Fremde.}
 {102}{}{Sie tragen saubere, gut polierte Waffen und eine Art Abzeichen an ihrer Brust.}
 {103}{}{Wir halten nach Sklavenhändler-Patrouillen Ausschau. Hast du welche gesehn, Fremdling?}
-{104}{}{Sei gegrüßt, Fremdling. Ich hoff für dich, daß du kein Sklavenhändler bist.}
-{105}{}{War schön, dich kennengelernt zu haben, Fremdling. Laß dich von uns nicht stören, dann
+{104}{}{Sei gegrüßt, Fremdling. Ich hoff für dich, dass du kein Sklavenhändler bist.}
+{105}{}{War schön, dich kennengelernt zu haben, Fremdling. Lass dich von uns nicht stören, dann
  kriegst du auch keinen Ärger.}
 {106}{}{Wir sind die NCR-Ranger. Wir schaffen eine bessere Welt. Dachte, das interessiert dich
  vielleicht.}
@@ -25,10 +25,10 @@
 {121}{}{Dumm gelaufen für dich. Wir sind NCR-Ranger. Schon mal von uns gehört? Wir töten
  Sklavenhändler.}
 {122}{}{Du bist ein verlogenes Stück Dreck. Los, drauf!}
-{123}{}{Greetings, stranger. We're NCR Rangers. Who be you?}
+{123}{}{Sei gegrüßt, Fremdling. Wir sind NCR-Ranger. Und du?}
 {124}{}{Geht dich nix an.}
 {125}{}{Ah, den Namen hab ich schon mal gehört. Du bist ein Ranger, oder?}
 {126}{}{Ja.}
 {127}{}{Geht dich nix an.}
-{128}{}{Gut, dann mach auf blöd. Zumindest biste kein Sklavenhändler. Tschüß.}
+{128}{}{Gut, dann mach auf blöd. Zumindest biste kein Sklavenhändler. Tschüss.}
 {129}{}{Schön, dich kennenzulernen, Kamerad. Halt die Augen offen. Bis bald.}

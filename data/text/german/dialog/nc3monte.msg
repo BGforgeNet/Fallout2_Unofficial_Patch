@@ -8,7 +8,7 @@
 {231}{}{(Der alte Mann lächelt, dabei bilden sich Falten um seine Augen.) Lust auf ein Spiel, Freund?}
 {250}{}{Mit was loslegen? Dem Spiel natürlich!}
 {260}{}{(Du gibst das Geld rüber. Monte nickt, zeigt dir die Karten, dann legt er sie hin.)}
-{280}{}{(Monte turns over the card. It is the two of spades.)}
+{280}{}{(Monte wendet die Karte. Es ist Pik Zwei.}
 {300}{}{(Du gibst das Geld rüber. Monte nickt, zeigt dir die Karten, dann legt er sie hin. Gleichzeitig versteckt er eine Karte so schnell, dass du es kaum mitbekommst. Dann vertauscht er die Karten noch ne Weile.)}
 {320}{}{WAS hast du gesagt, Kumpel?}
 {330}{}{Pass auf, Ich hab keine Zeit für schlechte Verlierer. Du hast bezahlt, du hast deine Chance gehabt. Wenn du spielen willst, gut, wenn du aber rumzickst wenn du verlierst, verschwinde von hier!}

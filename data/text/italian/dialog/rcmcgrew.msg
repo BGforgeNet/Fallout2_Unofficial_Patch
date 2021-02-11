@@ -148,7 +148,7 @@
 {247}{}{Adesso non ho tempo per stare ad ascoltare le tue lezioni di politica. Ci vediamo.}
 {248}{}{Tutti vogliono quello che Redding possiede. Alcune persone, pero', ce lo prenderanno piu' gentilmente di altre. Lascia che ti spieghi la situazione.}
 {249}{}{Continua.}
-{250}{}{Ne ho gia' avuto abbastanza delle tue spiegazioni. Addio.}
+{250}{}{I've heard enough of your explanation already. Goodbye.}
 {251}{}{Ti daro' 1.000$ per quel chip per scavatrici.}
 {252}{}{Mi sta bene. Dove lo trovo?}
 {253}{}{Mi sta bene. Ecco il tuo chip.}
@@ -164,7 +164,7 @@
 {263}{}{Si e' fuso il suo chip di controllo e non posso certo ordinarne uno nuovo. Ma so dove trovarne uno. E sono pronto a pagare 1.000$ per averlo.}
 {264}{}{Dove si trova?}
 {265}{}{Se ne hai un bisogno cosi' disperato, com'e' che non sei andato a prendertelo da solo?}
-{266}{}{Sono gia' pieno di missioni fino al collo. Spiacente, amico. Ci vediamo.}
+{266}{}{I'm packed to the gills with quests already. Sorry, pal. Goodbye.}
 {267}{}{Ci sono un sacco di ragioni e la maggior parte di queste sono affamate e crudeli. La miniera Wanamingo e' piena zeppa di Wanamingo affamati.}
 {268}{}{Cosa diavolo e' un Val-na-menga?}
 {269}{}{Oh, capisco. Beh, questo spiega tutto. Ci devo pensare. Arrivederci.}

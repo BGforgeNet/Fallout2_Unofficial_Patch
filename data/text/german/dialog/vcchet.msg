@@ -1,27 +1,27 @@
-{100}{}{You see Illicit Allocations Chief, Chet.}
-{101}{}{You see a shifty-looking man wearing a Vault 13 jumpsuit.}
-{102}{}{You see Illicit Allocations Chief, Chet.}
-{103}{}{You see a shifty-looking man wearing a Vault 13 jumpsuit.}
-{104}{}{Hey, there. I'm the Illicit Allocations Chief...but you can call me Chet. You need something?}
-{105}{}{Need anything else?}
-{106}{}{Set the endgame flag, Chet. I'm all done.}
-{107}{}{Make me Captain of the Guard. Now.}
-{108}{}{Make me a real citizen, if you please.}
-{109}{}{Make me a fake citizen and give me the papers.}
-{110}{}{Make me a kicked out citizen.}
-{111}{}{Change my reputation.}
-{112}{}{(Doesn't work) I need a character in my party.}
-{113}{}{Nope, nothing.}
-{114}{}{To what?}
-{115}{}{Make me a slaver.}
-{116}{}{Make me a childkiller.}
-{117}{}{Nothing...just lower my karma by a 100.}
+{100}{}{Du siehst den Leiter für Unerlaubte Zuteilungen, Chet.}
+{101}{}{Sie sehen einen verschlagen wirkenden Mann in einem Vault 13-Overall.}
+{102}{}{Du siehst den Leiter für Unerlaubte Zuteilungen, Chet.}
+{103}{}{Sie sehen einen verschlagen wirkenden Mann in einem Vault 13-Overall.}
+{104}{}{Hey, du. Ich bin der Leiter für Unerlaubte Zuteilungen... aber du kannst mich Chet nennen. Brauchst du etwas?}
+{105}{}{Sonst noch was?}
+{106}{}{Setze den Endgame-Flag, Chet. Ich bin fertig.}
+{107}{}{Mach mich zum Hauptmann der Wache. Jetzt.}
+{108}{}{Mach mich zu einem echten Bürger, wenn du willst.}
+{109}{}{Mach mich zu einem gefälschtem Bürger und gib mir die Papiere.}
+{110}{}{Mach mich zu einem rausgeworfenen Bürger.}
+{111}{}{Ändere meinen Ruf.}
+{112}{}{(Funktioniert nicht) Ich brauche einen Charakter in meiner Party.}
+{113}{}{Nee, nichts.}
+{114}{}{Zu was?}
+{115}{}{Mach mich zum Sklavenhalter.}
+{116}{}{Mach mich zum Kindermörder.}
+{117}{}{Nichts...nur mein Karma um 100 % senken.}
 {118}{}{Na, egal. Ich wollte was anderes...}
-{119}{}{Nope, nothing.}
+{119}{}{Nee, nichts.}
 {120}{}{Wer?}
 {121}{}{Marcus.}
 {122}{}{Lenny.}
 {123}{}{Vic.}
 {124}{}{Myron.}
-{125}{}{Nobody. I have more needs.}
-{126}{}{Schon gut. Tschüß.}
+{125}{}{Niemand. Ich habe noch mehr Bedürfnisse.}
+{126}{}{Schon gut. Tschüss.}

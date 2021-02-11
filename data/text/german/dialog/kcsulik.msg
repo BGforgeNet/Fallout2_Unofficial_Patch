@@ -1,12 +1,12 @@
 {100}{}{Du siehst einen großen Mann mit Tätowierungen im Gesicht und einem großen Knochen durch die Nase.}
 {101}{}{Du siehst Sulik.}
-{102}{}{Du siehst einen großen, muskulösen Wilden. Er hat einen Knochen durch die Nase, Tätowierungen im Gesicht und verhält sich selbstsicher und gefaßt.}
+{102}{}{Du siehst einen großen, muskulösen Wilden. Er hat einen Knochen durch die Nase, Tätowierungen im Gesicht und verhält sich selbstsicher und gefasst.}
 {103}{}{.}
 {104}{slk1}{He, Freund! Ich heißen Sulik. Was du wollen?}
 {105}{}{Uh?}
 {107}{slk2a}{Oh, nein. Du nicht mit uns sprechen. Einer von euch mitnehmen unser Schwester. Nix gut... für dich.}
 {108}{slk2b}{Oh, nein. Wir nix sprechen mit Sklavenhalter.}
-{109}{slk3}{Viele Menschen haben böse Geister. Du? Du einfach nur dumme Geister. Geh' zu Schamane, laß dich schlagen Loch in Kopf... großes Loch... sehr großes Loch... riesiges Loch.}
+{109}{slk3}{Viele Menschen haben böse Geister. Du? Du einfach nur dumme Geister. Geh' zu Schamane, lass dich schlagen Loch in Kopf... großes Loch... sehr großes Loch... riesiges Loch.}
 {110}{}{Hmm?}
 {111}{}{Jup!}
 {112}{}{Gug! (Du siehst beunruhigt aus.)}
@@ -16,7 +16,7 @@
 {116}{slk5a}{Ah Mist, Freund. Sklavenhändler haben mitgenommen Schwester. Sulik was trinken, dann schlagen kaputt. Jetzt bezahlen Maida. Und dann gehen suchen Schwester.}
 {117}{slk5b}{Wir bereit zu gehen. Suchen Schwester. Sie geraubt von Sklavenhändler.}
 {118}{}{Uh?}
-{119}{}{Hmm, wieviel mußt du zahlen, bevor du frei bist?}
+{119}{}{Hmm, wieviel musst du zahlen, bevor du frei bist?}
 {120}{}{A-ha.}
 {121}{}{Ich suche auch nach was. Vielleicht könntest du mit mir kommen.}
 {122}{slk6}{Schulden Maida 350 Dollar. Du gehen Richtung Süden? Wir gehen mit und suchen Schwester. Du haben 350 Dollar?}
@@ -26,7 +26,7 @@
 {126}{}{Wer ist "wir"?}
 {127}{}{Vielleicht, Sulik. Ich möchte dich was fragen.}
 {128}{}{350 Dollar ist 'ne Menge Kies. Du wirst wohl noch 'ne Weile hier sein. Wiedersehn.}
-{129}{}{Mit einer Herrin kommst du wahrscheinlich nicht so schnell in Schwierigkeiten. Ich glaub nicht, daß du bald Richtung Süden gehen wirst. Wiedersehn.}
+{129}{}{Mit einer Herrin kommst du wahrscheinlich nicht so schnell in Schwierigkeiten. Ich glaub nicht, dass du bald Richtung Süden gehen wirst. Wiedersehn.}
 {140}{slk6a}{Geister sein mit mir, Freund! Sie sein überall. Manchmal sie sprechen.}
 {141}{}{Ein paar lockere Schräubchen, was?}
 {142}{}{Was für Geister?}
@@ -40,7 +40,7 @@
 {170}{slk6d}{Geister sein überall. Du kommen mit uns. Großvater Knochen sprechen am meisten.}
 {171}{}{Ich möcht dich noch was anderes fragen.}
 {180}{slk6e}{Das alles, was er sagen jetzt. Geister sehen und sagen anders als normales Volk.}
-{181}{}{Ach, und du meinst, du wüßtest, was normal ist?!}
+{181}{}{Ach, und du meinst, du wüsstest, was normal ist?!}
 {182}{}{Erzähl mir von Großvater Knochen.}
 {190}{slk6f}{Er starker Geist. Tragen große Ehre.}
 {191}{}{Moment. Redest du etwa von dem Knochen in deiner Nase da?}
@@ -50,7 +50,7 @@
 {211}{}{Vielleicht können wir uns ein andermal ausführlicher unterhalten. Tschau.}
 {220}{slk7}{Vic sein Verräter, nix Händler. Kommen in Dorf, sagen, wissen alles über Sklavenhändler, sagen, wir kommen zu ihm. Wir gehen, er nicht da.}
 {221}{}{Deine Schwester wurde von Sklavenhändlern geraubt?}
-{222}{}{Ich möcht dich noch was andres fragen.}
+{222}{}{Ich möchte dich noch was anderes fragen.}
 {223}{}{Ich glaube, das ist im Augenblick alles. Wiedersehn.}
 {230}{slk8}{Wir dir wollen danken. Heißen Sulik. Wie können wir gutmachen?}
 {231}{}{Oh.}
@@ -58,7 +58,7 @@
 {233}{}{Wer ist "wir"?}
 {234}{}{Ich hab gern geholfen, Sulik. Erzähl mir was von dir.}
 {235}{}{Wie wär's, wenn du mir sagst, was in der Stadt so vor sich geht?}
-{236}{}{Ich wollte nicht, daß du noch länger ein Gefangener bleibst. Mach's gut.}
+{236}{}{Ich wollte nicht, dass du noch länger ein Gefangener bleibst. Mach's gut.}
 {237}{}{Erzähl mir  von dir.}
 {240}{slk9a}{Machen wir.}
 {241}{slk9b}{Wir sein Geist von Zorn, Freund.}
@@ -88,7 +88,7 @@
 {300}{slk23a}{Wir einfach sagen nein.}
 {301}{}{Verstehe. Mehr brauch ich im Augenblick nicht zu wissen. Wiedersehn.}
 {302}{slk23b}{Wir einfach sagen nein.}
-{310}{slk25a}{Sie sein Boß. Wir zahlen und gehen Schwester suchen.}
+{310}{slk25a}{Sie sein Boss. Wir zahlen und gehen Schwester suchen.}
 {311}{slk25b}{Früher Maida bestimmen unser Leben. Wir glauben, sie uns mögen - sie nicht wollen, wir sein frei.}
 {312}{}{Hmm... Erzähl mir was anderes.}
 {320}{slk26a}{Sie wollen jetzt nicht sprechen.}
@@ -118,7 +118,7 @@
 {401}{slk27fb}{Geister nicht glücklich. Andere tun, als ob wären Geister, versuchen, ihnen angst machen wie Kindern.}
 {402}{slk27fc}{Der, der sein bei Geistern, es nicht sein... Das sie haben gesagt.}
 {403}{slk27fd}{Nicht alle in Erde sein tot.}
-{410}{slk27ga}{Großvater Knochen sagen, alles kann werden gut, aber Hilfe muß kommen von außen.}
+{410}{slk27ga}{Großvater Knochen sagen, alles kann werden gut, aber Hilfe muss kommen von außen.}
 {411}{slk27gb}{Ein Ort helfen dem anderen, selbst zu helfen. Schade, sie nicht können sehen, obwohl Augen offen.}
 {420}{slk27ha}{Wir müssen gehen, wohin Geister gehen, aber nicht sein, was sie sind.}
 {421}{slk27hb}{Dies nicht sein, aber es helfen, zu sein... vielleicht Geister wissen mehr, vielleicht nicht. Wir glauben, sie gerne reden so.}
@@ -135,9 +135,9 @@
 {462}{slk27lc}{Dieser Ort ist voller Gift.}
 {470}{slk27ma}{Die vorne stehen fallen euch in den Rücken.}
 {471}{slk27mb}{Boden glüht mit Licht, das nicht von den Geistern kommt.}
-{480}{slk27na}{Du mußt eine Brücke zwischen Seiten sein.}
+{480}{slk27na}{Du musst eine Brücke zwischen Seiten sein.}
 {481}{slk27nb}{Beruhige, was im Wasser ist oder dein Stamm wird ebenso untergehen.}
-{482}{slk27nc}{Was den großen Stahlbaum in den Himmel treibt, muß den Stamm halten.}
+{482}{slk27nc}{Was den großen Stahlbaum in den Himmel treibt, muss den Stamm halten.}
 {483}{slk27nd}{Dein Volk ist mehr wert, als das dunkle Gold. Trage es mit ebensolcher Vorsicht.}
 {490}{}{Diejenigen, die Geister zu sein scheinen, es aber nicht sind, haben viele Geheimnisse.}
 {491}{}{Wie bei einer Zwiebel gibt es viele, meist verdeckte, Schalen.}
@@ -167,7 +167,7 @@
 {706}{slk29a}{Wir zeigen euch, wie man macht in unserem Stamm.}
 {707}{slk29b}{Wir kennen Erde und Winde gut. Wir kümmern uns darum.}
 {708}{slk29c}{Knochengeister uns helfen.}
-{709}{slk30a}{Wir sein häßlich... neben dir.}
+{709}{slk30a}{Wir sein hässlich... neben dir.}
 {710}{slk30b}{Ja, du brauchen uns in deiner Nähe. Dich schützen vor Ärger.}
 {711}{slk30c}{Wir bleiben nah bei dir, wenn du versprechen, in nächster Stadt Seife zu kaufen.}
 {712}{slk31a}{Machen wir.}
@@ -176,7 +176,7 @@
 {715}{slk32a}{Kein Problem.}
 {716}{slk32b}{Gute Idee. Wahrscheinlich irgendwann sowieso einer auf dich schießen.}
 {717}{slk32c}{Wir und meine Nase lassen danken.}
-{718}{slk33a}{Eh mal wieder Zeit für ein bißchen Superkraut. Mehr für uns.}
+{718}{slk33a}{Eh mal wieder Zeit für ein bisschen Superkraut. Mehr für uns.}
 {719}{slk33b}{Klingt gut. Böse Dinge dir immer auf den Fersen.}
 {720}{slk33c}{Viel Glück, Freund. Wir denken, du es brauchen.}
 {721}{slk34a}{Wir sein hier.}
@@ -208,10 +208,10 @@
 {747}{slk41c}{Meins auch deins, Freund.}
 {750}{slk42}{Wir dir danken. Du es gut meinen, nur haben nicht genug Kies. Vielleicht du können auftreiben?}
 {751}{}{Oh.}
-{752}{}{Tut mir leid, ich muß mich verzählt haben. Wiedersehn.}
+{752}{}{Tut mir leid, ich muss mich verzählt haben. Wiedersehn.}
 {753}{}{Ich dachte, ich hätte genug. Tut mir leid. Kann ich dich was fragen?}
-{754}{slk43a}{Ja. Wir es geben Maida. Dann wir sein frei. Du wollen, daß wir gehen Seite an Seite?}
-{755}{slk43b}{Ja. Du vielleicht häßlich aussehen, aber Du toller Typ. Wir jetzt frei sein zu suchen nach Schwester.}
+{754}{slk43a}{Ja. Wir es geben Maida. Dann wir sein frei. Du wollen, dass wir gehen Seite an Seite?}
+{755}{slk43b}{Ja. Du vielleicht hässlich aussehen, aber Du toller Typ. Wir jetzt frei sein zu suchen nach Schwester.}
 {756}{slk43c}{Oh, ja. Super. Wir würden mitgehen, aber Ihr schon genug.}
 {757}{}{Nah-ah.}
 {758}{}{A-ha.}
@@ -227,18 +227,18 @@
 {769}{}{Würdest du gerne mitkommen? Im Laufe der Reise finden wir vielleicht auch deine Schwester.}
 {770}{}{Im Moment brauche ich glaub ich keine weiteren Informationen.}
 {771}{slk45}{Heimat von Stamm ist neben Großes Salzwasser. Zwei Monde von hier, mein Freund.}
-{772}{}{Ich möcht dich noch was andres fragen.}
+{772}{}{Ich möchte dich noch was anderes fragen.}
 {773}{}{Zwei Monde? Das ist ganz schön weit. Wie konntest du eine so lange Reise unbeschadet überstehen?}
 {774}{}{Mehr brauche ich jetzt nicht. Wiedersehen.}
 {775}{slk46}{Geckos. Kleine Kerle sein nicht so bissig. Aber die Goldenen. Die dein Bein glatt durchbeißen.}
 {776}{slk47}{Händler Vic sollen sein hier. Er sagen, er wissen von Sklavenhändler. Wir hinkommen, nix sehen, böse werden.}
-{777}{}{Vic ist hier, aber ich glaube nicht, daß er viel über Sklaven weiß. Abgesehen davon, daß er in Den als einer gehalten wurde. Erzähl mir noch was.}
-{778}{}{Tschüß.}
+{777}{}{Vic ist hier, aber ich glaube nicht, dass er viel über Sklaven weiß. Abgesehen davon, dass er in Den als einer gehalten wurde. Erzähl mir noch was.}
+{778}{}{Tschüss.}
 {779}{slk48a}{Sklavenhändler haben Schwester. Denken, Vic haben Informationen. Er nicht dasein, wir sauer werden und uns zusaufen. Geister von Zorn und Chaos rauskommen und jetzt wir müssen zahlen, um wiedergutzumachen.}
 {780}{slk48b}{Wir herausfinden wollen wo sein Sklavenhändler, der Schwester hat. Vielleicht im Süden.}
 {781}{slk48c}{Wir jetzt wollen Schwester finden. Vielleicht gehen Süden, aber nicht sicher. Du wollen Begleitung?}
 {782}{}{Du suchst den Händler Vic?}
-{783}{}{Du mußt die Schäden bezahlen?}
+{783}{}{Du musst die Schäden bezahlen?}
 {784}{}{Ah! Ah, ah!}
 {785}{}{Ich reise auch Richtung Süden. Du kannst gerne mitkommen.}
 {786}{}{Du suchst deine Schwester?}
@@ -287,12 +287,12 @@
 {835}{slk62f}{Eine Blume öffnet ihre Blüten der Sonne. Such, was wie die Blume ist.}
 {836}{slk62g}{Was eine Tür ist, führt nicht immer irgendwo hin. Aber das, was keine Tür ist schon.}
 {837}{slk62h}{Suche nach deinem Spiegelbild. Der Weg wird sich vor dir auftun.}
-{838}{slk62i}{Das Gras hinter dem Zaun ist grüner, aber zuerst mußt du den Zaun finden.}
+{838}{slk62i}{Das Gras hinter dem Zaun ist grüner, aber zuerst musst du den Zaun finden.}
 {839}{slk62j}{Unter dem Stein sind nicht nur Asseln.}
 {840}{slk63a}{Eine Tür ist nur ein Weg zur anderen Seite.}
 {841}{slk63b}{Es gibt Zeiten, zu sprechen, und Zeiten, zuzuhören.}
 {842}{slk63c}{Die beste Antwort ist nicht immer die lauteste.}
-{843}{slk63d}{Auch im kleinsten Hirn steckt ein bißchen Wissen.}
+{843}{slk63d}{Auch im kleinsten Hirn steckt ein bisschen Wissen.}
 {844}{slk63e}{Was du getötet hast, kann nicht mehr mit dir sprechen.}
 {845}{slk63f}{Wenn es kaputt ist, war es früher mal ganz.}
 {846}{slk63g}{Werkzeuge haben alle möglichen Formen.}
@@ -303,11 +303,11 @@
 {851}{slk63l}{Schlechte Menschen zu töten ist gut für dein Karma - manche Menschen spüren das.}
 {852}{slk63m}{Eine gute Tat wird selten vergessen.}
 {860}{slk64a}{Grün wird dir Glück bringen.}
-{861}{slk64b}{Jetzt ein bißchen sachter.}
+{861}{slk64b}{Jetzt ein bisschen sachter.}
 {862}{slk64c}{Augen auf, bevor du fällst.}
 {863}{slk64d}{Ein Stachelschwein ist kein Ruhekissen.}
 {864}{slk64e}{Wohin geht ein Schatten in der Dunkelheit?}
-{865}{slk64f}{Jetzt ein bißchen lauter.}
+{865}{slk64f}{Jetzt ein bisschen lauter.}
 {866}{slk64g}{Pilze verderben den Brei.}
 {867}{slk64h}{Es ist leicht, ein Geist zu werden.}
 {868}{slk64i}{Ruf' laut.}
@@ -316,7 +316,7 @@
 {880}{slk65}{Was du wollen?}
 {881}{}{Geh mir aus dem Weg.}
 {882}{}{Ich will die Kampftaktik ändern.}
-{883}{}{Du mußt hier warten.}
+{883}{}{Du musst hier warten.}
 {884}{}{Du solltest dich selbst heilen.}
 {885}{}{Erzähl mir, wie's dir geht.}
 {886}{}{Das wär's erst mal, Sulik.}
@@ -324,14 +324,14 @@
 {890}{slk66}{Was sein Kampfstrategie?}
 {891}{}{Ändere deinen Abstand.}
 {892}{}{Benutz deine beste Waffe.}
-{893}{}{Ich möchte, daß du deine beste Rüstung verwendest.}
-{894}{}{Ich möchte, daß du deine Aggressivität änderst.}
+{893}{}{Ich möchte, dass du deine beste Rüstung verwendest.}
+{894}{}{Ich möchte, dass du deine Aggressivität änderst.}
 {895}{}{Macht nichts.}
 {900}{slk67}{Welchen Abstand sollen wir halten?}
-{901}{}{Ich möchte, daß du einen kurzen Abstand einhältst.}
-{902}{}{Ich möchte, daß du einen mittleren Abstand einhältst.}
-{903}{}{Ich möchte, daß du einen großen Abstand einhältst.}
-{904}{}{Du mußt vorne alles auskundschaften.}
+{901}{}{Ich möchte, dass du einen kurzen Abstand einhältst.}
+{902}{}{Ich möchte, dass du einen mittleren Abstand einhältst.}
+{903}{}{Ich möchte, dass du einen großen Abstand einhältst.}
+{904}{}{Du musst vorne alles auskundschaften.}
 {905}{slk68}{Wie sollen wir kämpfen?}
 {906}{}{Kämpf erst mal defensiv.}
 {907}{}{Kämpf normal.}
@@ -345,7 +345,7 @@
 {916}{slk70a}{Hier zugehen wie in Ameisenhaufen. Zu voll für uns.}
 {917}{slk70b}{Unser Stamm ja kleiner als das hier. Zu viele Leute für Trip.}
 {918}{slk70c}{Du haben deine Armee. Du nicht brauchen unser Hilfe.}
-{919}{slk71}{Wir traurig zu sehen Dich an dieser Stelle. Vielleicht deine Seele werden dunkel. Muß jetzt gehen. Tschüß.}
+{919}{slk71}{Wir traurig zu sehen Dich an dieser Stelle. Vielleicht deine Seele werden dunkel. Muss jetzt gehen. Tschüss.}
 {920}{slk72}{Du denken, Menschen besitzen sein OK? Schöner Freund! Wir gehen.}
 {921}{slk73a}{Du haben Problem mit Menschen. Wir gehen, bis du gelernt haben.}
 {922}{slk73b}{Du sein wie Alptraum. Wir müssen gehen.}
@@ -353,17 +353,17 @@
 {924}{slk75}{Wir glauben, du machen großen Fehler, aber gut.}
 {925}{slk76}{Wir hören, du helfen Torr. Wenn er verlieren noch mehr Brahmin, haben großes Problem.}
 {926}{}{Uh?}
-{927}{}{Ah. Tschüß.}
+{927}{}{Ah. Tschüss.}
 {928}{}{Na, auf jeden Fall sah er aus, als könnte er Hilfe gebrauchen. Ich hab da noch ein paar Fragen.}
 {929}{}{Der brauchte auf jeden Fall Hilfe. Ich brauch ein paar Informationen über die Gegend.}
 {930}{}{Torr braucht Hilfe. Ich mach mich mal lieber auf den Weg. Wiedersehn.}
 {931}{slk77}{Wir hören, du nicht können helfen Torr. Schade, Kerl sein arm dran.}
 {932}{}{Tja, kann vorkommen. Ich brauch aber ein paar Informationen über die Gegend hier.}
-{933}{}{Ich hab wirklich alles versucht. Tut mir leid, daß ich nichts ausrichten konnte. Wiedersehn.}
+{933}{}{Ich hab wirklich alles versucht. Tut mir leid, dass ich nichts ausrichten konnte. Wiedersehn.}
 {934}{}{Och, der war ja eh ein Idiot, also was soll's. Wiedersehen.}
 {935}{slk78}{Hoffentlich du finden Torr. Er brauchen Hilfe.}
 {936}{}{Wo ist Torr denn hin?}
-{937}{}{Tut mir leid, daß Torr verschwunden ist. Ich hab aber noch ein paar Fragen.}
+{937}{}{Tut mir leid, dass Torr verschwunden ist. Ich hab aber noch ein paar Fragen.}
 {938}{}{Ich würde Torr ja gerne helfen, aber im Moment hab ich keine Zeit. Wiedersehn.}
 {939}{}{Torr ist doch nicht mehr ganz richtig im Kopf. Da kann ihm keiner von uns helfen. Wiedersehn.}
 {940}{slk79}{Wir hören ihn sprechen von töten wandelnden Geist. Versuchen, mutig zu sein.}
@@ -400,12 +400,12 @@
 {1021}{}{Du haben Problem mit Menschen. Wir gehen, bis du gelernt haben.}
 {1023}{}{Wir auf keinen Fall Freunde sein mit Mörder.}
 {1025}{}{Du wirst in Klamath Ärger anrichten. Wir sind weg.}
-{2300}{}{De spirits be movin' us.}
-{2301}{}{We and I be movin'.}
+{2300}{}{Die Geister bewegen uns.}
+{2301}{}{Wir gehen jetzt.}
 {2302}{}{OK, mach's gut.}
-{2303}{}{Don' worry, We an' I be movin'.}
-{2304}{}{Wir denken, du Zeit brauchen, um alles zu verstehen. Großvater Knochen sagen, du zu hektisch. Mußt Dingen im Leben Zeit lassen.}
-{2305}{}{We be movin' an' groovin'.}
+{2303}{}{Keine Sorge, wir gehn jetzt.}
+{2304}{}{Wir denken, du Zeit brauchen, um alles zu verstehen. Großvater Knochen sagen, du zu hektisch. Musst Dingen im Leben Zeit lassen.}
+{2305}{}{Wir geh'n und fet'n.}
 {2306}{}{Wir jetzt hierhin gehen.}
 {2307}{}{Ganz ruhig bleiben, wir gehen jetzt.}
 {3000}{}{Nach Norden.}
@@ -416,7 +416,7 @@
 {3005}{}{Nach Südosten.}
 {3006}{}{In Richtung Sonnenaufgang.}
 {3007}{}{Nach Nordosten.}
-{3008}{}{We don't know anything about that.}
+{3008}{}{Wir wissen darüber rein gar nichts.}
 {3009}{}{Ja.}
 {3010}{}{Nein.}
 {3011}{}{Was erwartest du von uns?}
@@ -427,7 +427,7 @@
 {3016}{}{Wir haben ein gutes Gefühl dabei.}
 {3017}{}{Wir haben kein gutes Gefühl dabei.}
 {3018}{}{Diese Leute sind ja verrückt.}
-{3020}{}{Es muß noch einen anderen Weg geben.}
+{3020}{}{Es muss noch einen anderen Weg geben.}
 {3021}{}{Folge uns.}
 {3022}{}{Versuch es damit.}
 {3023}{}{Wir hier gehen jetzt.}
@@ -441,31 +441,31 @@
 {3031}{}{Kein sicherer Lagerplatz.}
 {3032}{}{Hier können wir ausruhen.}
 {3033}{}{Wir haben ja Glück.}
-{3034}{}{Du mußt das reparieren.}
-{3035}{}{Du mußt das einschalten.}
-{3036}{}{Du mußt das entriegeln.}
-{3037}{}{Du mußt das öffnen.}
+{3034}{}{Du musst das reparieren.}
+{3035}{}{Du musst das einschalten.}
+{3036}{}{Du musst das entriegeln.}
+{3037}{}{Du musst das öffnen.}
 {3038}{}{Vielleicht sollten wir noch mal hierher zurückkommen.}
-{3039}{}{We don't understand.}
-{3040}{}{We don't know.}
-{3050}{slk86}{Daheimsein ganz nett, aber Ort jetzt werden scheinen klein. Wir vermissen Reise mit so ein Superkumpel wie du. Du wollen, daß wir wieder gehen Seite an Seite.}
+{3039}{}{Wir verstehen nicht.}
+{3040}{}{Wir wissen es nicht.}
+{3050}{slk86}{Daheimsein ganz nett, aber Ort jetzt werden scheinen klein. Wir vermissen Reise mit so ein Superkumpel wie du. Du wollen, dass wir wieder gehen Seite an Seite.}
 {3051}{}{Das wär toll.}
 {3052}{}{Tut mir leid, im Moment nicht.}
-{3053}{slk87}{Wir sagen Tschüß und holen dich später ein.}
+{3053}{slk87}{Wir sagen Tschüss und holen dich später ein.}
 {3054}{}{OK.}
 {3055}{slk88}{Das sein schade. Aber du brauchen das Zeug nötiger als wir. Gute Reise.}
 {3056}{}{Wenn ich's mir recht überlege, solltest du vielleicht doch mitkommen. Tut mir leid, aber ich wollte dich nicht so bald wieder von zu Hause wegreißen.}
 {3057}{slk89}{Schön sein zu Hause, aber nicht, wenn Schwester noch fort. Wir wollen bleiben bei dir, OK?}
 {3058}{}{Ja.}
-{3059}{}{Nein, jetzt ist es an der Zeit, daß du allein nach ihr suchst.}
+{3059}{}{Nein, jetzt ist es an der Zeit, dass du allein nach ihr suchst.}
 {3060}{slk90}{Na gut. Wir aber dich vermissen. Gute Geister sein mit dir, Freund.}
-{3061}{}{Thanks, Sulik. Goodbye.}
-{3062}{}{Vielleicht solltest du ja weiter mit mir reisen. Es ist ja immer noch möglich, daß wir deine Schwester finden.}
+{3061}{}{Danke Sulik. Auf Wiedersehn.}
+{3062}{}{Vielleicht solltest du ja weiter mit mir reisen. Es ist ja immer noch möglich, dass wir deine Schwester finden.}
 {3063}{slk91a}{Du doch wollen gute Gesellschaft?}
 {3064}{slk91b}{Es sein schön, wieder zu Hause sein.}
 {3065}{slk91c}{Wir müssen sprechen mit Superkraut. Lassen Welt an uns vorbeiziehen.}
 {3066}{slk91d}{So viele Jungfrauen, die von unseren Abenteuern hören wollen - so wenig Zeit.}
-{3067}{slk91e}{Komisch. Wir sein froh, zu sein daheim, aber sein schon wieder ein bißchen reiselustig.}
+{3067}{slk91e}{Komisch. Wir sein froh, zu sein daheim, aber sein schon wieder ein bisschen reiselustig.}
 {3068}{}{Ja, allerdings.}
 {3069}{}{Nö, hab ich nicht.}
 {3070}{}{Sulik, kannst du die Geister für mich befragen?}

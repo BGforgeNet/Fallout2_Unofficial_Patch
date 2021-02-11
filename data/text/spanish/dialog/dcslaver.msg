@@ -13,7 +13,7 @@
 {308}{}{Es bueno tenerte con nosotros.}
 {309}{}{Hola. ¿Cómo te va?}
 {310}{}{¿Aún no le has dado de palos a ningún esclavo?}
-{311}{}{Hola de nuevo.}
+{311}{}{Hola otra vez.}
 {312}{}{¿Te marchas a otra cacería de esclavos?}
 {313}{}{Las cosas están muy calmadas por aquí.}
 {314}{}{¿Cuando voy a ver algo de acción?}

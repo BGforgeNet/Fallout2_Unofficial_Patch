@@ -99,7 +99,7 @@
 {194}{}{Encuentras una trampa en el cajón.}
 {195}{}{No logras encontrar ninguna trampa en el cajón.}
 {196}{}{Hábilmente desactivas una trampa de la tumba.}
-{198}{}{No consigues desactivar la trampa.}
+{198}{}{No consigues desarmar la trampa.}
 {199}{}{ encuentra una trampa en el cajón.}
 {200}{}{ no logra encontrar ninguna trampa en el cajón.}
 {201}{}{ hábilmente desactiva la trampa.}
@@ -115,3 +115,6 @@
 {211}{}{ no consigues colocar correctamente la trampa en el cajón.}
 {212}{}{Ves un frigorífico.}
 {400}{}{Abres el cajón.}
+{601}{}{It is open, dummy.}
+{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{611}{}{ fails spectacularly, and the exposive goes off prematurely.}

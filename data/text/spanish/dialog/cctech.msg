@@ -6,7 +6,7 @@
 {105}{}{Saludos, soldado.}
 {106}{}{¿Quién eres tú? ¡¡Guardias!}
 {107}{}{¿Qué demonios pasa aquí? ¡Intruso en la base!}
-{108}{}{¡Mierda! ¿Dónde está mi arma?}
+{108}{}{¡Mierda! ¿¡Dónde está mi arma!?}
 {109}{}{Mira, ya buscaron aquí y no encontraron nada.}
 {110}{}{Joder, estas falsas alarmas me dan unos sustos de muerte.}
 {111}{}{Genial, otra falsa alarma. Ahora tendremos que arrancar todo el sistema y volverlo a restablecer.}

@@ -1,2 +1,2 @@
-1:El ataque mutante a Necropólis no deja vivo ninguno de sus habitantes necrófagos.
-2:Tras el avance de los ejércitos mutantes, queda atrás una ciudad verdaderamente muerta.
+1:El ataque mutante sobre Necrópolis no perdona a ninguno de los habitantes necrófagos.
+2:Tras el avance de los ejércitos mutantes queda una auténtica ciudad muerta.

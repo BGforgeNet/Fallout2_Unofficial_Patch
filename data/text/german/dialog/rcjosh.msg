@@ -24,21 +24,21 @@
  für alle Gelegenheiten. Mit der Flasche ins Grab, das ist unser Motto.}
 {122}{}{Das scheint mir eine bizarre Kombination, Josh.}
 {123}{}{Lucrezia Borgia hätte ihre Freude an dir, Josh.}
-{124}{}{Was muß ich tun, wenn ich einen Sarg kaufen will?}
+{124}{}{Was muss ich tun, wenn ich einen Sarg kaufen will?}
 {125}{}{Wie kann ich ein Begräbnis arrangieren?}
 {126}{}{Ich werd lieber die Finger von deinem Badewannen-Gin lassen.}
 {127}{}{Natürlich. Das macht dann $5.}
 {128}{}{Hier ist dein Geld.}
-{129}{}{Ich glaub, ich will jetzt doch kein Bier. Aber laß mich dich noch etwas fragen.}
+{129}{}{Ich glaub, ich will jetzt doch kein Bier. Aber lass mich dich noch etwas fragen.}
 {130}{}{Das ist großzügig von dir. Das macht $50 für eine Runde Bier für alle hier. Hey, ich bin
- ein Dichter und wußte es nicht einmal.}
+ ein Dichter und wusste es nicht einmal.}
 {131}{}{Autsch! Knittelverse können tödlich sein, Josh. Nur eine freundliche Warnung. Hier ist
  dein Geld.}
-{132}{}{Hmm, dieses Wortspielchen hat scheint mir den ganzen Spaß an der Sache genommen. Laß mich
+{132}{}{Hmm, dieses Wortspielchen hat scheint mir den ganzen Spaß an der Sache genommen. Lass mich
  dich statt dessen noch was fragen.}
 {133}{}{Du bist genau der richtige Freund, den man so braucht. Das macht }
 {134}{}{Das ist es mir wert. Hier hast du.}
-{135}{}{Wenn ich's mir recht überlege, möchte ich doch lieber alle nüchtern halten. Laß mich dich
+{135}{}{Wenn ich's mir recht überlege, möchte ich doch lieber alle nüchtern halten. Lass mich dich
  statt dessen noch etwas fragen.}
 {136}{}{Wenn du das Geschäft so belebst, sehe ich rosigen Zeiten entgegen. Mach nur weiter so.
  Gibt mir auf jeden Fall was zu tun.}
@@ -52,10 +52,10 @@
 {141}{}{Äh, verdirbt es den Leuten nicht den Appetit, all diese Leichen hier rumliegen zu sehen?}
 {142}{}{Ich glaube, noch ein Wortspiel verkrafte ich nicht. Ich gehe. Wiedersehn.}
 {143}{}{Würd es wohl, wenn die alle echt wären. Aber das sind sie nicht. Wenigstens nicht alle.
- Außerdem scheinen die Bergarbeiter das zu mögen. Da denken sie, daß sie Glück haben, noch am
+ Außerdem scheinen die Bergarbeiter das zu mögen. Da denken sie, dass sie Glück haben, noch am
  Leben zu sein.}
 {144}{}{Ich finde es gruselig. Du bist ein ganz schön gestörter Fall.}
-{145}{}{Ach so. Laß mich dich noch etwas fragen.}
+{145}{}{Ach so. Lass mich dich noch etwas fragen.}
 {146}{}{Manche denken wahrscheinlich wirklich so. Ich gehöre aber nicht zu dieser Sorte. Mir wird davon einfach nur irgendwie
  übel. Wiedersehn.}
 {147}{}{Du nennst *mich* gruselig? Mann, ich hab gehört, die Sippen essen ihre Toten sogar!}
@@ -64,27 +64,27 @@
 {150}{}{Das ist doch lächerlich. Wo hast du das denn her?}
 {151}{}{Weiß nicht genau. Aber das ist eine bombensichere Tatsache. Warum sonst würdet ihr euch
  alle die Zähne spitz feilen? Hä? Sag mir das mal!}
-{152}{}{Ich feile mir die Zähne nicht... ach, laß gut sein. Laß mich dich noch etwas fragen.}
+{152}{}{Ich feile mir die Zähne nicht... ach, lass gut sein. Lass mich dich noch etwas fragen.}
 {153}{}{Vielen herzlichen Dank. Sonst noch irgend etwas?}
 {154}{}{Tatsächlich, da war noch etwas.}
 {155}{}{Nein, das ist im Moment alles. Danke, Josh.}
 {156}{}{Was meinst du damit?}
-{157}{}{Ich meinte einfach nur, daß das eine ziemlich, hmm, *ungewöhnliche* Kombination zu sein
+{157}{}{Ich meinte einfach nur, dass das eine ziemlich, hmm, *ungewöhnliche* Kombination zu sein
  scheint.}
-{158}{}{Nichts, gar nichts. Laß mich dich noch etwas fragen, Josh.}
-{159}{}{Ich meine einfach nur, daß ich lieber in einer weniger steifen Bar trinke. Äh, ich meine
+{158}{}{Nichts, gar nichts. Lass mich dich noch etwas fragen, Josh.}
+{159}{}{Ich meine einfach nur, dass ich lieber in einer weniger steifen Bar trinke. Äh, ich meine
  natürlich in einer weniger förmlichen Bar. Wiedersehn.}
 {160}{}{Ich verbringe 'ne Menge Zeit damit, die Toten auf dem Friedhof nebenan wieder
  einzubuddeln. Irgend jemand - oder etwas - gräbt sie ständig wieder aus. Keine Ahnung warum.
  Ich mein, es ist ja nicht so, als ob die Toten Wertsachen dabei hätten.}
 {161}{}{Die Gräber werden geschändet?}
-{162}{}{Woher weißt du, daß sie nichts Wertvolles dabei haben?}
-{163}{}{Wahrscheinlich Ratten. Laß mich dich noch etwas fragen.}
+{162}{}{Woher weißt du, dass sie nichts Wertvolles dabei haben?}
+{163}{}{Wahrscheinlich Ratten. Lass mich dich noch etwas fragen.}
 {164}{}{Tja, ich weiß es nicht ganz genau...Äh, ähem. Ich habe wohl einfach geraten. Ja, genau.
  Hey, ich geb dir ein Bier aus.}
 {165}{}{Ich weiß nicht, worauf du anspielst, aber ich glaube, es gefällt mir nicht.}
 {166}{}{Danke für das Bier. Was meinst du damit, jemand gräbt sie wieder aus?}
-{167}{}{Naja, sag mir halt, was du damit meinst, wenn du sagst, daß etwas sie wieder ausgräbt.}
+{167}{}{Naja, sag mir halt, was du damit meinst, wenn du sagst, dass etwas sie wieder ausgräbt.}
 {168}{}{Naja, ich seh davon nie was, aber jede Woche oder so ist irgend eins der Gräber ganz
  angebuddelt und so, na, halb ausgegraben. Weiß ja nicht so recht, wer oder was so etwas tun
  würde.}
@@ -95,7 +95,7 @@
  die hübscheren hier drin zu behalten, aber doch nicht jeden. Ich weiß auch nicht, was das alles
  soll.}
 {171}{}{Das ist ja ein nettes Bild. Ich bin sicher, ich werde schweißgebadet aufwachen, wenn ich
- darüber nachdenke. Laß mich dich noch etwas fragen.}
+ darüber nachdenke. Lass mich dich noch etwas fragen.}
 {172}{}{Das ist wirklich ein Rätsel. Naja, man sieht sich, Josh. Wiedersehn.}
 {173}{}{Naja, solange ihr sie kocht... Wart mal ein Momentchen. Das ist immer noch Kannibalismus!
  Du bist echt krank, sogar für einen Sippentyp.}
@@ -103,26 +103,26 @@
  von ihnen.}
 {175}{}{Teile, was? Und welche Teile genau?}
 {176}{}{Wen kümmert's. (Du zuckst mit den Schultern.) Teile sind Teile.}
-{177}{}{Ich habe dich nur auf den Arm genommen, Josh. Laß mich dich noch etwas fragen.}
+{177}{}{Ich habe dich nur auf den Arm genommen, Josh. Lass mich dich noch etwas fragen.}
 {178}{}{Naja, das macht wohl irgendwie Sinn.}
-{179}{}{Klar tut es das. Hey, laß mich dich noch etwas fragen.}
-{180}{}{Was mich daran erinnert, daß ich Hunger habe. Man sieht sich. Josh. Wiedersehn.}
+{179}{}{Klar tut es das. Hey, lass mich dich noch etwas fragen.}
+{180}{}{Was mich daran erinnert, dass ich Hunger habe. Man sieht sich. Josh. Wiedersehn.}
 {181}{}{Blöde Marsmenschen. Und ich dachte, du wärst so ein blöder Sippentyp. Tja, jetzt komm ich
- mir ein bißchen blöd vor. Trotzdem, so wie ich das sehe, sind Kannibalen immer noch Kannibalen.}
+ mir ein bisschen blöd vor. Trotzdem, so wie ich das sehe, sind Kannibalen immer noch Kannibalen.}
 {182}{}{Hey, wir kochen sie erst. Wir sind doch keine Wilden.}
-{183}{}{Laß mein Bein los, du Kannibale! Ich brauche es noch eine ganz Weile. Such dir
- einen anderen Imbiß.}
+{183}{}{Lass mein Bein los, du Kannibale! Ich brauche es noch eine ganz Weile. Such dir
+ einen anderen Imbiss.}
 {184}{}{Entspann dich, du siehst ohnehin ganz verspannt und nervös aus. Hä, hä. Habe nur Spaß
- gemacht...größtenteils. Laß mich dich noch etwas fragen, Josh.}
+ gemacht...größtenteils. Lass mich dich noch etwas fragen, Josh.}
 {185}{}{Ich werde mich umschauen. Aber wenn ich nichts Besseres finde, komm ich wieder.
  Wiedersehn...erst mal.}
-{186}{}{Erst muß ich die Farm kaufen. Planst du vielleicht, demnächst irgendwelchen Grund und
+{186}{}{Erst muss ich die Farm kaufen. Planst du vielleicht, demnächst irgendwelchen Grund und
  Boden zu erwerben?}
-{187}{}{Äh, jedenfalls keine Farm. Laß mich dich noch etwas fragen.}
+{187}{}{Äh, jedenfalls keine Farm. Lass mich dich noch etwas fragen.}
 {188}{}{Ich helf vielleicht ein, zwei anderen Leuten, hier in der Gegend eine Farm zu kaufen. Man
  sieht sich, Josh.}
 {189}{}{Tja, ich denke, man beginnt, indem man jemandem das Licht ausbläst. Aber das würde ich
  dir nicht raten. Sheriff Marion ist nicht so scharf auf solches Verhalten.}
-{190}{}{Ich werde versuchen, mich zusammenzureißen. Laß mich dich noch etwas fragen, Josh}
-{191}{}{Ach so...Naja, wenigstens weiß ich, an wen ich mich wenden muß, wenn es irgendwelche
+{190}{}{Ich werde versuchen, mich zusammenzureißen. Lass mich dich noch etwas fragen, Josh}
+{191}{}{Ach so...Naja, wenigstens weiß ich, an wen ich mich wenden muss, wenn es irgendwelche
  unvorhergesehenen *Unfälle* gibt. Wiedersehn, Josh.}

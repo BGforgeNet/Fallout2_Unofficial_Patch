@@ -31,7 +31,7 @@
 {310}{}{Soy Keith Wright, de la familia Wright. Y ahora, ¿vas a decirme qué haces aquí?}
 {312}{}{Chris me dijo que echara un vistazo. Busco trabajo. ¿Puedes ayudarme?}
 {313}{}{Keith Wright, ¿eh? Me encontré con tu madre.}
-{315}{}{¿Qué es este lugar?}
+{315}{}{¿Qué lugar es éste?}
 {325}{}{Esta es la CASA de la familia Wright. Y ahora, ¿vas a decirme qué haces aquí?}
 {335}{}{Chris te envió, ¿eh?}
 {336}{}{Efectivamente. Dijo que quizá tuvierais algo de trabajo para mí.}

@@ -27,14 +27,14 @@
 {121}{}{Du schmutziger Sklavenhändler! Was hindert mich daran, dich zu töten?}
 {122}{}{Ich hab da von diesen Typen gehört, den New California Rangern. Hattest du
  irgendwelchen Ärger mit denen?}
-{123}{}{Stört es, wenn ich mich ein bißchen hier umschaue?}
+{123}{}{Stört es, wenn ich mich ein bisschen hier umschaue?}
 {124}{}{Arbeit? Ich... ich hätte da eventuell was für dich. Schon mal was von den
  New California Rangern gehört?}
 {125}{}{Ja.}
 {126}{}{Nein.}
 {127}{}{Drecksack. Leute, schafft mir diesen Quälgeist aus den Augen.}
-{128}{}{Laß mich in Ruh'!}
-{129}{}{Vault 13! Raus hier. Alles erstunken und erlogen. Vault 13, daß ich nicht lache!}
+{128}{}{Lass mich in Ruh'!}
+{129}{}{Vault 13! Raus hier. Alles erstunken und erlogen. Vault 13, dass ich nicht lache!}
 {130}{}{Noch eine Frage...}
 {131}{}{Besten Dank für nichts.}
 {132}{}{Wie bitte? Was immer das sein soll, ich hab's nicht.}
@@ -43,7 +43,7 @@
 {135}{}{New California Republic - alles nur Enthaltsamkeitsspinner und Kaufleute. Haben was
  gegen Sklavenhändler und Sklaverei. Zum Teufel, was soll's, ich mach dadurch meine Geschäfte.}
 {136}{}{Noch eine Frage...}
-{137}{}{Danke, muß gehen.}
+{137}{}{Danke, muss gehen.}
 {138}{}{Da hat dich jemand aufs Glatteis geführt. Ich hab keine Probleme mit niemandem und schon
  gar nicht mit irgendwelchen Rangern. Was ich hier tue, ist völlig legal. Mir kann keiner was
  anhaben.}
@@ -55,7 +55,7 @@
 {144}{}{Nein, du schnüffelst mir hier nicht rum, Vollidiot! Ist doch kein Museum hier!}
 {145}{}{Noch eine Frage...}
 {146}{}{Mit dir komm ich nicht klar. Ich gehe.}
-{147}{}{Also gut. Du mußt wissen, daß es Leute gibt, die sie als mögliches Problem ansehen. Es
+{147}{}{Also gut. Du musst wissen, dass es Leute gibt, die sie als mögliches Problem ansehen. Es
  wäre ausgesprochen gut, wenn wir eine Karte hätten, auf der ihre geheimen Unterschlupfe im
  Norden verzeichnet sind - New Reno, Klamath und so. Ich wäre bereit, sagen wir, 500 Dollar für
  so was zu zahlen. Meinst du, du kannst mir so eine Karte beschaffen?}
@@ -65,7 +65,7 @@
  und die Sklavenhändler auszurotten - mit Gewalt. Das wird allmählich zu einem echten Problem
  für Leute wie mich, die nur ihren Geschäften nachgehen wollen.}
 {151}{}{Sie arbeiten im verborgenen, besonders oben im Norden.}
-{152}{}{Heiliger Bimbam, dir muß man wohl alles haarklein auseinandersetzen! Sie überfallen die
+{152}{}{Heiliger Bimbam, dir muss man wohl alles haarklein auseinandersetzen! Sie überfallen die
  Sklavenhändler und schmuggeln die Ware in in Süden, in das Gebiet der NCR, wo Sklaverei verboten
  ist. Also, wie steht's, bist du interessiert?}
 {153}{}{Da gibt es kein "Und"! Willst du den Job, oder willst du ihn nicht?}
@@ -75,20 +75,20 @@
 {157}{}{Wo finde ich denn so eine Karte?}
 {158}{}{Na gut. Aber ich hätte da noch ein paar Fragen.}
 {159}{}{Geht schon los. Wir sehen uns.}
-{160}{}{Woher zum Teufel soll ich das wissen? Wenn ich's wüßte, dann hätte ich die Karte schon
- längst! In der Stadt gibt es angeblich eine Zelle. Die mußt du erst mal finden. Dann kannst du
+{160}{}{Woher zum Teufel soll ich das wissen? Wenn ich's wüsste, dann hätte ich die Karte schon
+ längst! In der Stadt gibt es angeblich eine Zelle. Die musst du erst mal finden. Dann kannst du
  weitersehn.}
 {161}{}{Nur noch ein paar kleine Fragen.}
 {162}{}{Also gut, es geht los.}
 {163}{}{Da bist du ja schon wieder! Hast du die Karte?}
 {164}{}{Ja.}
 {165}{}{Nein.}
-{166}{}{Ich warte immer noch drauf, daß du den ersten Auftrag zu Ende bringst!}
+{166}{}{Ich warte immer noch drauf, dass du den ersten Auftrag zu Ende bringst!}
 {167}{}{Ach ja, das hatte ich ganz vergessen.}
 {168}{}{Nicht mehr, seit du deinen Auftrag ausgeführt hast. Danke.}
 {169}{}{Nur noch ein, zwei Fragen.}
-{170}{}{Kein Problem. Tschüß.}
-{171}{}{Gute Arbeit. Ich würde dir raten, dich ein bißchen im Hintergrund zu halten, falls diese
+{170}{}{Kein Problem. Tschüss.}
+{171}{}{Gute Arbeit. Ich würde dir raten, dich ein bisschen im Hintergrund zu halten, falls diese
  Ranger jemals dahinterkommen.}
 {172}{}{So machen die Geschäfte richtig Spaß.}
 {173}{}{Häng hier nicht rum, du Trottel, sonst schöpft noch jemand Verdacht.}

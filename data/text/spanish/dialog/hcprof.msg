@@ -42,7 +42,7 @@
 {141}{}{Ya veo. ¿Has creado algo que funcione?}
 {142}{}{Me gustaría hacer la prueba.}
 {143}{}{Eso es todo lo que quería saber.}
-{144}{}{Yes, I have, thank you very much! You ever hear of "Mentats"? I helped develop a method for easy mass-production of that drug! And others! Lots of others!}
+{144}{}{Sí, tengo, muchas gracias! Usted ha oído hablar de "Mentats"? Me ha ayudado a desarrollar un método para facilitar la producción en masa de esa droga! Y a los demás! Muchos de los otros!}
 {145}{}{De acuerdo, de acuerdo. Oye, me gustaría probar mis habilidades contra tu escorpión.}
 {146}{}{De acuerdo, te creo. Ya me iba.}
 {147}{}{¿Cómo... cómo pudiste matar así a mi escorpión? Estaba cerca... estaba tan cerca...}

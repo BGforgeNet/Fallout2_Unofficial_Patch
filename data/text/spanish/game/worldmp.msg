@@ -14,8 +14,8 @@
 {232}{}{Casino}
 {240}{}{Base}
 {250}{}{Hotel}
-{251}{}{Salón}
-{252}{}{Acuifero}
+{251}{}{Sala}
+{252}{}{Almacén de Agua}
 {260}{}{Entrada}
 {261}{}{Centro Ciudad}
 {262}{}{Alturas}

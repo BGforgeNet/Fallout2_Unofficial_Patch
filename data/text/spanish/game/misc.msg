@@ -5,7 +5,7 @@
 {4}{}{Cargado rápido cargado con éxito.}
 {5}{}{Guardado rápido guardado con éxito.}
 {6}{}{Límite de tiempo de la demo excedido.}
-{7}{}{Pip-Boy not available in combat!}
+{7}{}{Pip-Boy no está disponible en el combate!}
 {8}{}{Error guardando la captura.}
 {9}{}{INTRO}
 {10}{}{NUEVO JUEGO}
@@ -43,7 +43,7 @@
 {5001}{}{Se queda sin munición para la}
 {5002}{}{recarga la}
 {6000}{}{¿Sobre qué quieres preguntarme?}
-{7000}{}{You aren't wearing the Pip-Boy!}
+{7000}{}{Usted no está usando el Pip-Boy!}
 {8000}{}{Llevas demasiado peso.}
 {8001}{}{%s está sobrecargado.}
 {8500}{}{Ganas %d puntos de experiencia por el uso con éxito de Supervivencia.}

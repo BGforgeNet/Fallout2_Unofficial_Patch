@@ -58,8 +58,8 @@
 {317}{}{Le das una patada con la bota que ha escupido.}
 {318}{}{Te alejas. }
 {319}{}{Le dejas tranquilo y te alejas. Esta vez. }
-{325}{}{Well... I...I mean, the Wright family... my family... might have an opening. I ain't promising nothing, but go to the mansion
- south of here, find my brother Keith and tell him I sent you. Name's Chris. Chris Wright.}
+{325}{}{Bueno… yo… quiero decir, la Familia Wright… mi familia… podría tener una vacante. No te prometo nada, pero vete a la mansión
+ al sur de aquí, busca mi hermano Keith y dile que vas de mi parte. Me llamo Chris. Chris Wright.}
 {326}{}{Eh, ¿Familia Wright? ¿Quiénes sois?}
 {327}{}{Wright, ¿eh? Me encontré con tu madre.}
 {328}{}{¿Puedes contarme qué le pasó a tu hermano Richard?}
@@ -84,16 +84,16 @@
 {380}{}{Siempre está predicando acerca del pecado y todo eso, pero en realidad ni siquiera sabe lo que papá hace.
  O eso, o prefiere ignorarlo.}
 {381}{}{¿Qué es lo que hace tu padre?}
-{382}{}{Hmmmm. Say, I had some other questions...}
+{382}{}{Hmmmm. Decir, que yo tenía algunas otras preguntas...}
 {383}{}{Interesante. Bien, he de irme. }
 {390}{}{Fabricar alcohol, venta de armas, se carga a quién le jode… lo típico de la familia. Mamá se cabrearía
  si supiera realmente lo que pasa. Y sobre todo si encontrase esta destilería.}
 {391}{}{¿Cómo de cabreada?}
-{392}{}{Hmmmm. Say, I had some other questions...}
+{392}{}{Hmmmm. Decir, que yo tenía algunas otras preguntas...}
 {393}{}{Interesante. Bien, he de irme. }
 {400}{}{Probablemente lo bastante cabreada como para destruir este lugar… por lo menos. Después nos daría una buena reprimenda y unos cuantos días
  de sermoneo constante. Je.}
-{401}{}{Interesting. Say, I had some other questions...}
+{401}{}{Interesante. Decir, que yo tenía algunas otras preguntas...}
 {402}{}{Hmmmmm. Gracias. }
 {410}{}{Rich? Aw, you know, he was found like one of those Jet crashers, dead in one of the gutters. Near as we can
  figure, someone pumped him with drugs until he was dead.}
@@ -104,13 +104,13 @@
 {420}{}{Porque estaba limpio… mamá le enseñó BIEN. Y si te apetece opinar algo diferente, quizá tú y yo
  debamos resolverlo aquí y ahora.}
 {421}{}{No quise decir algo así. Lamento haberlo planteado.}
-{422}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{422}{}{No se ciega a sí mismo a la posibilidad de que podría haber estado tomando. Jet es extremadamente adictivo.}
 {423}{}{OYE, chico, si sabes lo que te conviene, dejarás de darle vueltas todo el tiempo a cualquier verdad que te
  muerde el culo de cerca que está.}
 {424}{}{¿Quién supones que podría haberlo hecho?}
 {425}{}{No busco problemas. Será mejor que me vaya. }
 {435}{}{Sí, bueno, sólo ten cuidado. Se están diciendo cosas que no se deben de los Wright, así que no dispares así por la boca, ¿de acuerdo?}
-{436}{}{Don't blind yourself to the possibility he might have been taking it. Jet is extremely addictive.}
+{436}{}{No se ciega a sí mismo a la posibilidad de que podría haber estado tomando. Jet es extremadamente adictivo.}
 {437}{}{OYE, chico, no me vengas con esas. Si sabes lo que te conviene, dejarás de darle vueltas todo el tiempo
   a cualquier verdad que te muerde el culo de cerca que está.}
 {438}{}{Lo siento, no quería ofender. Oye, tenía algunas preguntas más…}

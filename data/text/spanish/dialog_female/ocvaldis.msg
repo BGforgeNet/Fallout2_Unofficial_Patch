@@ -16,7 +16,7 @@
 {115}{}{Oye, yo soy el que hace las preguntas aquí.}
 {116}{}{Me tengo que ir.}
 {117}{}{Encantado de conocerte, soy}
-{118}{}{Entiendo.}
+{118}{}{Entendido.}
 {119}{}{Actualmente protejo esta zona del Refugio de personal no autorizado.}
 {120}{}{¿P-persona-nal no auto-torizado?}
 {121}{}{Eh... desde luego.}

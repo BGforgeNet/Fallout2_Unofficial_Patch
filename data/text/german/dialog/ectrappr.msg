@@ -5,7 +5,7 @@
 {104}{}{Haste ein paar Geckohäute zu verkaufen?}
 {105}{}{Bin nur auf der Durchreise.}
 {106}{}{Agh.}
-{107}{}{Hm, ich denk schon, daß ich dir meine Häute verkaufen könnt. Dann bräucht ich nicht in die Stadt.}
+{107}{}{Hm, ich denk schon, dass ich dir meine Häute verkaufen könnt. Dann bräucht ich nicht in die Stadt.}
 {108}{}{Was hast du denn?}
 {109}{}{Macht nichts.}
 {110}{}{Agh.}
@@ -13,18 +13,18 @@
 {112}{}{normale Geckohäute.}
 {113}{}{goldene Geckohäute.}
 {114}{}{Ich nehm alle.}
-{115}{}{Vielleicht nächstes Mal. Tschüß.}
+{115}{}{Vielleicht nächstes Mal. Tschüss.}
 {116}{}{War nett, mit dir Geschäfte zu machen. Bis dann.}
-{117}{}{Tschüß.}
-{118}{}{Bist wohl knapp bei Kasse. Wie wär's, wenn du mich fünf Minuten mit deiner Frau allein läßt. Es wird sich für dich lohnen.}
-{119}{}{Bist wohl knapp bei Kasse. Wie wär's, wenn du mich fünf Minuten mit deinem Mann allein läßt. Ich brauch mal was richtig Hartes. Ich geb dir dafür Häute.}
+{117}{}{Tschüss.}
+{118}{}{Bist wohl knapp bei Kasse. Wie wär's, wenn du mich fünf Minuten mit deiner Frau allein lässt. Es wird sich für dich lohnen.}
+{119}{}{Bist wohl knapp bei Kasse. Wie wär's, wenn du mich fünf Minuten mit deinem Mann allein lässt. Ich brauch mal was richtig Hartes. Ich geb dir dafür Häute.}
 {120}{}{Bist wohl knapp bei Kasse. Sag dir was. Ich bin schon SEHR lang hier draußen in den Wäldern, falls Du verstehst, was ich meine. Es wird sich für dich lohnen.}
 {121}{}{Sicher.}
-{122}{}{Keine Chance. Tschüß.}
+{122}{}{Keine Chance. Tschüss.}
 {123}{}{[Miria wird dir vergeben...irgendwann. Sieh's positiv: Der Fallensteller hat dir Häute gegeben.]}
 {124}{}{[Davin scheint diese Erfahrung nicht weiter geschadet zu haben. Er wird in ein paar Tagen sicherlich wieder normal gehen.]}
 {125}{}{[Du fühlst dich durch und durch schmutzig. Aber dafür hast du Geckohäute.]}
-{126}{}{Tschüß.}
+{126}{}{Tschüss.}
 {127}{}{[Er hält seine rechte Hand hoch und sagt] Hugh! Ich mächtiger Fallensteller. Fange große Geckos. Ich nicht widerrechtlich betreten dein Land. Gehn in Frieden. [Er gibt dir eine Geckohaut als Geschenk.]}
 {128}{}{[Ende]}
 {129}{}{Sonst gibt's keinen Handel mehr.}
@@ -35,6 +35,6 @@
 {134}{}{Eine normale Geckohaut: $}
 {135}{}{Eine goldene Geckohaut: $}
 {136}{}{OK, Aufseher. Du gewinnst.}
-{137}{}{Dein Glück. Ich muß mal meine Fallen prüfen.}
+{137}{}{Dein Glück. Ich muss mal meine Fallen prüfen.}
 {138}{}{Ich glaub, meine Mama ruft mich.}
 {200}{}{Du siehst eine dreckige, ausgezehrte Frau.}

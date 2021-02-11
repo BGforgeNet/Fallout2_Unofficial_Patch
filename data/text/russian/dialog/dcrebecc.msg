@@ -153,10 +153,8 @@
 {532}{}{Спасибо огромное.}
 {533}{}{Пасиб!}
 {534}{}{Уг! Тетя добрая.}
-{540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
- world a great service.}
-{541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
- world a great service.}
+{540}{}{Вы чудесный человек. Хотя я и не одобряю ваших методов. Вы сослужили миру великую службу.}
+{541}{}{Вы чудесная женщина. Хотя я и не одобряю ваших методов. Вы сослужили миру великую службу.}
 {542}{}{Спасибо.}
 {550}{}{Пожалуйста, уходите. Вас здесь не обслужат.}
 {551}{}{Уходите.}

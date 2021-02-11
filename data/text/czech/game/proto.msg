@@ -138,10 +138,10 @@
 {596}{}{Zásobník auta je už plný.}
 {597}{}{Vchod je zablokován.}
 {620}{}{Získáváš %d zkušenostních bodù za zabití nepøítele: %s.}
-{621}{}{%s získáváš %d zkušenostních bodù.}
+{621}{}{%s you gain %d experience points.}
 {622}{}{Za poražení nepøátel}
 {623}{}{Za likvidaci svých protivníkù}
-{624}{}{Za vítìzství v boji}
+{624}{}{For being victorious in combat,}
 {625}{}{Za rozdrcení svých nepøátel}
 {626}{}{Za znièení svých nepøátel bez jediného utrpìného škrábnutí}
 {650}{}{[KONEC]}

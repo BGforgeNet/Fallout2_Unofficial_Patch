@@ -1,7 +1,7 @@
 {100}{}{Du siehst Morlis, eine deiner Tanten - sie mochte dich noch nie.}
-{101}{}{Warum störst du mich, Neffe? Siehst du nicht, daß ich beschäftigt bin?}
+{101}{}{Warum störst du mich, Neffe? Siehst du nicht, dass ich beschäftigt bin?}
 {102}{}{Ähm, OK. Tut mir leid.}
-{103}{}{Was ist los? Du weißt, daß ich viel zu tun habe.}
+{103}{}{Was ist los? Du weißt, dass ich viel zu tun habe.}
 {104}{}{Ähm, Mynoc sagte...}
 {105}{}{Mynoc sagte was? Raus mit der Sprache!}
 {106}{}{Er sagte, du hättest vielleicht etwas Feuerstein.}
@@ -19,7 +19,7 @@
 {118}{}{Äh, Tante Morlis, ich hab drei Portionen hier.}
 {150}{}{Tante Morlis, meine Suche nach Rettung für unser Dorf ist ein äußerst gefährliches Unterfangen. Meine Chancen auf Erfolg wären weitaus höher, wenn ich das Heilpulver selbst behalte, und du mir trotzdem den Feuerstein gibst. Bist du nicht auch der Meinung?}
 {151}{}{Was glaubst du denn, was du da tust, Kind? Das ist doch keine Art für den Auserwählten! Und jetzt geh mir aus den Augen!}
-{152}{}{Wenn dieser Feuerstein so wichtig ist, daß du sogar bereit bist, den Namen des Auserwählten Wesens zu entehren, dann nimm ihn. Nimm den Feuerstein und geh mir aus den Augen.}
+{152}{}{Wenn dieser Feuerstein so wichtig ist, dass du sogar bereit bist, den Namen des Auserwählten Wesens zu entehren, dann nimm ihn. Nimm den Feuerstein und geh mir aus den Augen.}
 {153}{}{Ja, Tante Morlis.}
 {154}{}{Tja... ähm, naja. Hier hast du den Feuerstein. Ich wünsche dir eine gute Reise, mein Kind.}
 {155}{}{Durchaus nicht. Und jetzt verschwende nicht länger meine Zeit und verschwinde!}
@@ -30,10 +30,10 @@
 {203}{}{Ja, Tante Morlis.}
 {204}{}{Da bist du ja wieder. Hast du bei deiner Aufgabe wieder versagt?}
 {205}{}{Ja, Tante Morlis, aber...}
-{206}{}{Dann verschwinde hier und laß dich hier nicht wieder blicken, bevor du Erfolg hattest! Warum verschwendest du die Zeit damit, hierher zurückzukommen? Du solltest die Zeit nutzen, weiter zu suchen.}
+{206}{}{Dann verschwinde hier und lass dich hier nicht wieder blicken, bevor du Erfolg hattest! Warum verschwendest du die Zeit damit, hierher zurückzukommen? Du solltest die Zeit nutzen, weiter zu suchen.}
 {207}{}{Ja, Tante Morlis.}
-{208}{}{Daß du hier stehst, zeigt, daß du deine Suche erfolgreich beendet hast. Du würdest keine kostbare Zeit verschwenden und mit leeren Händen zurückkommen, oder?}
-{209}{}{Ja, Tante Morlis, ich meine, nein, Tante Morlis. Äh, ich muß jetzt gehn, Tante Morlis.}
+{208}{}{Dass du hier stehst, zeigt, dass du deine Suche erfolgreich beendet hast. Du würdest keine kostbare Zeit verschwenden und mit leeren Händen zurückkommen, oder?}
+{209}{}{Ja, Tante Morlis, ich meine, nein, Tante Morlis. Äh, ich muss jetzt gehn, Tante Morlis.}
 {210}{}{Also, Kind. Du bist schon wieder da. Wieder mit leeren Händen?}
 {211}{}{Ja, Tante Morlis.}
 {212}{}{Hör zu, }
@@ -42,7 +42,7 @@
 {215}{}{Dann verschwinde und such das GECK! Die Menschen hier sind auf dich angewiesen!}
 {216}{}{Ja, Tante Morlis.}
 {300}{}{Hm, anscheinend habe ich den Feuerstein verlegt. Naja, zumindest habe ich mein Pulver. Und nun verschwinde! Ich hab keine Zeit zum plaudern.}
-{301}{}{Warum störst du mich, Nichte? Siehst du nicht, daß ich beschäftigt bin?}
+{301}{}{Warum störst du mich, Nichte? Siehst du nicht, dass ich beschäftigt bin?}
 {302}{}{Hm, ich kann den Feuerstein nirgends finden. Ich bin sicher, dass du ihn genommen hast als ich gerade nicht hinsah. Früher oder später erwischte ich dich. Und nun verschwinde! Ich habe keine Zeit zum plaudern.}
 {303}{}{Hm...oh, tut mir leid, aber anscheinend habe ich den Feuerstein verlegt. Ich wünsche dir eine sichere Reise, Kind. }
 {304}{}{Ich hab dir den Feuerstein schon gegeben, Dummkopf. Jetzt hör auf, meine Zeit zu vergeuden, und verschwinde von hier!}

@@ -9,7 +9,7 @@
 {108}{}{Hat irgend jemand meine Zähne gesehen?}
 {109}{}{Wo ist mein Fuß?}
 {110}{}{Tod! Ich bin der, den Du haben willst! Komm hier her!}
-{111}{}{Hallo, Billy! Ich bin so froh, daß Du zurückgekommen bist, um mich zu besuchen.}
+{111}{}{Hallo, Billy! Ich bin so froh, dass Du zurückgekommen bist, um mich zu besuchen.}
 {112}{}{Alt werden ist kein Picknick.}
 {113}{}{Huch! Meine Gedärme!}
 {114}{}{Hat irgend jemand eine Windel?}
@@ -27,7 +27,7 @@
 {126}{}{Du bist nicht aus Vault City, nicht wahr?}
 {127}{}{Ich erinner mich noch, wie wir gegen die Glowin' Ones gekämpft haben unter Necropolis...
  das waren noch Zeiten...}
-{128}{}{Laßt mich mal davon erzählen, wie wir die Vault geöffnet haben...}
+{128}{}{Lasst mich mal davon erzählen, wie wir die Vault geöffnet haben...}
 {129}{}{...was wollte ich sagen?}
 {130}{}{::gähn::}
 {131}{}{::pffffft::}

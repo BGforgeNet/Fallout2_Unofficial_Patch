@@ -12,15 +12,15 @@
 {230}{}{Was haben sie vor? Siehst du sie?}
 {235}{}{Es ist noch nicht Zeit zu gehen.}
 {236}{}{Nehmt euch die letzten von denen vor, die sich wehren.}
-{237}{}{Laßt die Unbewaffneten in Ruhe. Nehmt euch die anderen vor.}
+{237}{}{Lasst die Unbewaffneten in Ruhe. Nehmt euch die anderen vor.}
 {238}{}{Es wartet noch mehr Blutvergießen auf uns.}
 {245}{}{Das war eine furchtbare Jagd.}
 {246}{}{Das hat sich kaum gelohnt. Wir stehen mit leeren Händen da.}
 {247}{}{Nehmt euch beim nächsten Mal nur die vor, die sich wehren. Wir machen das hier nicht zum
  Vergnügen.}
 {248}{}{Metzger wird sich ärgern.}
-{255}{}{Nicht schlecht - aber laßt beim nächsten Mal die unbewaffneten in Ruhe, wenn Ihr wollt,
- daß wir bezahlt werden.}
+{255}{}{Nicht schlecht - aber lasst beim nächsten Mal die unbewaffneten in Ruhe, wenn Ihr wollt,
+ dass wir bezahlt werden.}
 {256}{}{Das war gar nicht so schlecht. Wir haben ein paar brauchbare Sklaven erwischt.}
 {257}{}{Ich hab schon bessere gesehen, aber wir kriegen wenigstens unser Honorar.}
 {265}{}{Hey, das war gar nicht schlecht. Wir haben fast alle erwischt.}
@@ -31,12 +31,12 @@
  geben.}
 {276}{}{Das war genial. Heute Abend gebe ich mir die Kante.}
 {277}{}{Verdammt, haben wir da aufgeräumt!}
-{278}{}{So muß das gemacht werden!}
+{278}{}{So muss das gemacht werden!}
 {285}{}{Waren sie dort?}
 {286}{}{Ich hol mir jetzt 'n Mädchen.}
 {287}{}{Ich wette, ich dieses Mal hab ich mehr Abschüsse als du.}
 {288}{}{Hier, Miezekätzchen.}
-{295}{}{Die andern von euch sind alle tot, ihr wißt es nur noch nicht.}
+{295}{}{Die andern von euch sind alle tot, ihr wisst es nur noch nicht.}
 {296}{}{Ihr könnt euch nicht vor uns verstecken!}
 {297}{}{Komm raus, oder ich puste dir den Kopf weg.}
 {298}{}{Ah, das war gut! Wo sind die anderen?}
@@ -47,10 +47,10 @@
 {309}{}{Mist... und ich wollte mich heute Abend abfüllen.}
 {310}{}{Hauen wir ab, das ist Mist hier.}
 {320}{}{Nicht schlecht.}
-{321}{}{Hoffentlich haben wir genug. Ich muß meinen Jet-Vorrat auffüllen.}
+{321}{}{Hoffentlich haben wir genug. Ich muss meinen Jet-Vorrat auffüllen.}
 {322}{}{Dann lass uns mal Tyler kalt stellen.}
 {323}{}{Ich habe schon bessere gesehen, aber Geld ist Geld.}
-{324}{}{Metzger müßte mit denen eigentlich zufrieden sein.}
+{324}{}{Metzger müsste mit denen eigentlich zufrieden sein.}
 {325}{}{Ganz gut.}
 {326}{}{Schnell, hauen wir ab.}
 {327}{}{Das sollte genügen.}

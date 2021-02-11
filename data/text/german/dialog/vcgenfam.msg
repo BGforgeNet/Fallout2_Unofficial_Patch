@@ -29,10 +29,10 @@ Vaultbewohner-Overall, aber ohne Nummer auf dem Rücken.}
 {125}{}{Du darfst gerne solange bleiben, wie Du möchtest, Held.}
 {126}{}{Du solltest Deine Heldentaten gegen die Enklave in einer schönen, ordentlichen Liste festhalten.}
 {127}{}{*Gähn*...Hmmmmm? Ja? Was gibt's?}
-{128}{}{Bißchen spät für einen Besuch.}
+{128}{}{Bisschen spät für einen Besuch.}
 {129}{}{Die MEISTEN Bürger würden zu dieser Stunde schlafen.}
 {130}{}{Schlafen? Nein, nicht mehr.}
-{131}{}{Bitte... komm am Morgen wieder. Morgen wird es ein langer Tag, weil ich die Listen machen muß.}
+{131}{}{Bitte... komm am Morgen wieder. Morgen wird es ein langer Tag, weil ich die Listen machen muss.}
 {132}{}{Guten Tag, Hauptmann.}
 {133}{}{Vault City wird bestehen, Hauptmann.}
 {134}{}{Möchtest du mit uns zu Abend essen, Hauptmann? Unser Diener macht gerade ein wunderbares
@@ -74,5 +74,5 @@ Vaultbewohner-Overall, aber ohne Nummer auf dem Rücken.}
 {165}{}{Die Diener? Die machen bei uns die Dreckarbeit.}
 {166}{}{Hmmmm. Ich brauche einen Diener, um den Lagerraum sauberzumachen.}
 {167}{}{Ein Diener sollte nachher kommen und im Garten Unkraut jäten.}
-{168}{}{Ja, ich kann riechen... äh, sehen, daß Du ein Outsider bist.}
+{168}{}{Ja, ich kann riechen... äh, sehen, dass Du ein Outsider bist.}
 {169}{}{Du bist ein Outsider? Wie putzig.}

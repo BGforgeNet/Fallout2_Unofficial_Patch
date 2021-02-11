@@ -86,7 +86,7 @@
 {613}{}{Tres, pase inglés.}
 {614}{}{12, pase inglés.}
 {620}{}{Apostado a 7}
-{621}{}{Prop bet double 3s}
+{621}{}{Apostado a doble 4}
 {622}{}{Apostado a doble 4}
 {623}{}{Apostado a doble 5}
 {624}{}{Apostado a doble 2}

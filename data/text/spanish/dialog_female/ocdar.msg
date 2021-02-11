@@ -17,7 +17,7 @@
 {116}{}{Yo }
 {117}{}{Ya veo. Bien, ahora he de irme.}
 {118}{}{Soy }
-{119}{}{Entiendo.}
+{119}{}{Entendido.}
 {120}{}{¡Guerrero! ¡Ja! Ese ha sido uno bueno. ¿Sabes alguno más?}
 {121}{}{Dar protege la entrada y mantiene la paz. Nada más.}
 {122}{}{Escuchar antes.}
@@ -31,7 +31,7 @@
 {130}{}{La anciana en el poblado dice igual para yo.}
 {131}{}{Ah.}
 {132}{}{Gruthar tiene razón; todos tendríais que educaros.}
-{133}{}{Entiendo.}
+{133}{}{Entendido.}
 {134}{}{Así que sois tan estúpidos que otro os tiene que obligar a educaros. Qué bien.}
 {135}{}{Hola. Tú amigo de manada.}
 {136}{}{Grrrrrrrrr! Argggggghhhh.}

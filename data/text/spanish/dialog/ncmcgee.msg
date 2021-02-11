@@ -71,7 +71,7 @@
 {318}{}{Te lo enseñaré...}
 {319}{}{Oh, oh...}
 {320}{}{Lo tomé cuando no te veías.}
-{321}{}{Uh...}
+{321}{}{Eh...}
 {325}{}{¡De forma justa mis peludos cojones! Mozalbete, lo que has hecho es firmar tu propia sentencia de muerte!}
 {326}{}{¡De forma justa mis peludos cojones! Muchachita, lo que has hecho es firmar tu propia sentencia de muerte!}
 {335}{}{¿Qué? (parpadea) ¿Estás hablando de devolverme mis ganancias? ¿Las 500 fichas?}

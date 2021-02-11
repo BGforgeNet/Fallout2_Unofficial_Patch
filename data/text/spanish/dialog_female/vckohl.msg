@@ -15,7 +15,7 @@
 {114}{}{Oh... ¡hola! ¿Te puedo ayudar en algo?}
 {115}{}{¡Frazz-urb-luuw!}
 {116}{}{Dejas de balbucear}
-{117}{}{¿Qué es este lugar?}
+{117}{}{¿Qué lugar es éste?}
 {118}{}{Nada. Perdón por molestarte.}
 {119}{}{Eh... ¿perdóname?}
 {120}{}{Cripple-cripple creep}
@@ -34,7 +34,7 @@
 {132}{}{Quizá debería mirar allí, entonces.}
 {133}{}{Hola otra vez. ¿Necesitas ayuda para encontrar algo?}
 {134}{}{Desde luego. ¿Qué preguntas tienes?}
-{135}{}{¿Qué es este lugar?}
+{135}{}{¿Qué lugar es éste?}
 {136}{}{¿Sabes dónde puedo encontrar un GECK?}
 {137}{}{¿Sabes dónde podría encontrar el Refugio?}
 {138}{}{Hoy nada, gracias.}

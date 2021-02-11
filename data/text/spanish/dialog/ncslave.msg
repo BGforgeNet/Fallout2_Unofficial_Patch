@@ -71,7 +71,7 @@
 {261}{}{Por favor, déjame. Ya me han comprado.}
 {262}{}{Te lo ruego: ¿has visto a dos niños, de pelo oscuro…? Se los llevaron otros esclavistas hace dos años y los vendieron en el norte.}
 {263}{}{Por favor… no se me permite hablar con nadie.}
-{264}{}{Please... let me be. My master will be back soon.}
+{264}{}{Por favor... déjame ser. Mi maestro estará de regreso pronto.}
 {265}{}{Si mi amo me pilla hablando con un esclavista, me golpeará.}
 {266}{}{Ya tengo una ama. Ella no se alegrará si sigues hablando conmigo.}
 {267}{}{No puedo hablar contigo. Tengo tareas que hacer.}
@@ -88,7 +88,7 @@
 {287}{}{Si mi amo me pilla hablando contigo, me castigará.}
 {288}{}{Mi amo es bueno. No me golpea a menudo.}
 {289}{}{No hecho de menos a mi familia. Mi amo es ahora mi familia.}
-{290}{}{I was taken from a tribal village north of here. Life is much... better here.}
+{290}{}{Yo estaba tomado de una aldea tribal del norte de aquí. La vida es mucho... mejor aquí.}
 {291}{}{Me capturaron en La Guarida.}
 {292}{}{No puedo hablar contigo. Tengo trabajo que hacer.}
 {293}{}{Debo terminar mis tareas antes de que mi amo regrese.}

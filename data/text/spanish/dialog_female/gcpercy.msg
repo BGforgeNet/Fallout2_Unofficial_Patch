@@ -41,7 +41,7 @@
 {135}{}{Genial, un trabajo fácil y una buena recompensa. Justo como me gusta.}
 {136}{}{Pues ya verás, tenía un amigo que se llama Woody. El tal Woody puede dormirse como nadie que haya visto. Y aún peor, adora
  viajar. Vaya que si le encanta patear el polvo del camino.}
-{137}{}{De acuerdo.}
+{137}{}{Vale.}
 {138}{}{Bueno, pues no es que sea un problema así grande, si es que anda por aquí. Pero lo último que oí de Woody es que se marchaba de paseo
  hasta La Guarida. ¿Sabes dónde está?}
 {139}{}{Sí, sé dónde está La Guarida. Continúa.}

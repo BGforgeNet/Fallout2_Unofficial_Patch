@@ -13,9 +13,9 @@
 {231}{}{...Dios mio...}
 {232}{}{...moje srdce...}
 {233}{}{hurrkkkk}
-{240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes.}
-{241}{}{(He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
-{242}{}{(He's staring at you; it looks like he's waiting for you to speak.)}
+{240}{}{(The man turns to face you. He looks sick with fever: Sweat trickles down his face and stains his clothes. }
+{241}{}{He's ignoring you and staring at Myron; it looks like he's waiting for Myron to speak.)}
+{242}{}{He's staring at you; it looks like he's waiting for you to speak.)}
 {243}{}{[Stare back at him with your meanest stare.]}
 {244}{}{[Stare back at him with mild disinterest.]}
 {245}{}{[Stare back at him with a sneering gaze.]}

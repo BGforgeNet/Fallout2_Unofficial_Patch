@@ -10,7 +10,7 @@
 {108}{}{¿Qué quieres?}
 {109}{}{¿Quién tú?}
 {110}{}{¿Tú prisionero?}
-{111}{}{Marcho ahora.}
+{111}{}{Yo irme ahora.}
 {112}{}{¿Quién eres?}
 {113}{}{¿Eres prisionero aquí?}
 {114}{}{Me iré ahora.}
@@ -21,7 +21,7 @@
 {119}{}{En realidad, no.}
 {120}{}{Sí, de hecho lo estoy. Tropecé con este lugar y fui capturado por las Garras mortales. Me dan libertad de movimientos dentro de los niveles inferiores del Refugio, pero nunca puedo ir al nivel 1, donde está la salida.}
 {121}{}{¿Por qué?}
-{122}{}{De acuerdo.}
+{122}{}{Vale.}
 {123}{}{Me largo.}
 {124}{}{¿Por qué?}
 {125}{}{Ya veo.}
@@ -53,7 +53,7 @@
 {147}{}{Otros aquí. Necesitan comida, agua. ¿No te importan?}
 {148}{}{¿Y qué pasa con los demás que viven aquí? ¿No te importa lo que les ocurra?}
 {149}{}{En el fondo, no. No son más que daños colaterales de la guerra.}
-{150}{}{Marcho ahora.}
+{150}{}{Yo irme ahora.}
 {151}{}{Creo que te disparo ahora.}
 {152}{}{Buen trabajo.}
 {153}{}{Ya veo. Me voy ahora.}

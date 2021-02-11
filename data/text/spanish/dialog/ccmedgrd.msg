@@ -26,4 +26,4 @@
 {125}{}{Yo oigo que llaman a tú 'Caramelito'. Me guuuusta caramelo.}
 {126}{}{He oído que te llaman 'Caramelito'. Creo que es un nombre monísimo.}
 {127}{}{¿Qué... quién te lo ha dicho? Cuando termine mi servicio voy a pegarle una patada en el culo... Circula, soldado. ¡Y borra esa sonrisa de tu cara!}
-{128}{}{De acuerdo.}
+{128}{}{Vale.}

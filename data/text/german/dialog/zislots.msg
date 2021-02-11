@@ -5,7 +5,7 @@
 {130}{}{Der hat drei Augen und einen Arm.}
 {140}{}{Mindesteinsatz beträgt $}
 {141}{}{.}
-{150}{}{Du bist dir sicher, aus dem Augenwinkel zu sehen, daß er dich ansieht. }
+{150}{}{Du bist dir sicher, aus dem Augenwinkel zu sehen, dass er dich ansieht. }
 {151}{}{Der glänzende Rahmen und der goldene Hebel schimmern verführerisch im Licht. }
 {165}{}{Ist für Leute, denen das Geld locker sitzt. }
 {180}{}{Die hohe Gewinnsumme ist verdammt verlockend. }
@@ -95,16 +95,16 @@
 {2176}{}{[Geh]}
 {2185}{}{(Die Anzeige "AUSSER BETRIEB" am Spielautomaten blinkt.)}
 {2186}{}{[Geh]}
-{2200}{}{(Du hörst, daß sie dich auslacht.)}
-{2201}{}{*Hahaha, warum läßt du's nicht lieber bleiben, Kleiner.*}
-{2202}{}{*Vielleicht läßt du lieber jemand andern an meinem Hebel ziehen.*}
-{2203}{}{(A faint maniacal laugh emanates from the machine.)}
-{2204}{}{(Du hörst, daß dich der Spielautomat auslacht.)}
+{2200}{}{(Du hörst, dass sie dich auslacht.)}
+{2201}{}{*Hahaha, warum lässt du's nicht lieber bleiben, Kleiner.*}
+{2202}{}{*Vielleicht lässt du lieber jemand andern an meinem Hebel ziehen.*}
+{2203}{}{(Ein wahnsinniges Lachen entspringt der der Maschine).}
+{2204}{}{(Du hörst, dass dich der Spielautomat auslacht.)}
 {2205}{}{(Der Spielautomat kichert.)}
 {2206}{}{*Komm schon, alter Verlierer, gib uns noch 'ne Chance.*}
 {2207}{}{*Ich hab von dir gekriegt, was ich wollte, Baby. Warum gibste nicht auf?*}
 {2208}{}{*Schund!*}
-{2209}{}{*Paß auf, daß dir die Kasinotür beim Rausgehen nicht auf den Hintern schlägt.*}
+{2209}{}{*Pass auf, dass dir die Kasinotür beim Rausgehen nicht auf den Hintern schlägt.*}
 {2247}{}{*Jiiiiaah! Ja, Baby! Oh Gott, ja! Ja! Ja, noch mal! Schneller! Fester! Worauf wartest
  du?! Noch mal!*}
 {2248}{}{*Ja, Baby... zieh immer weiter am Hebel... schneller, fester, schneller... 
@@ -129,11 +129,11 @@
  flüstert dir eine aufregende männliche Stimme aus dem Einwurfschlitz zu.) *Du bist die
  faszinierendste Frau, die ich je gesehn hab. Willste dein Glück versuchen?*}
 {2282}{}{::Zwick dich selbst::}
-{2283}{}{Uh... hello?}
+{2283}{}{Äh... Hallo?}
 {2284}{}{::Hol tief Luft, geh weiter.:: }
 {2300}{}{*Ich bin immer noch hier, schöne Frau.* (Der Spielautomat senkt seine Stimme.) *Na komm 
  schon...willste 'n Spielchen wagen?*}
-{2301}{}{*Ich bin immer noch hier, Süßer.* (Der Spielautomat senkt seine Stimme.) *Weißte, daß du
+{2301}{}{*Ich bin immer noch hier, Süßer.* (Der Spielautomat senkt seine Stimme.) *Weißte, dass du
  'n faszinierender Typ bist? Hey...Lust, 'n paar Münzen in mich reinzustecken?*}
 {2302}{}{Weeer duuuu *sein*?}
 {2303}{}{Klaaar, ich wagen Spiiieelchen.}
@@ -141,7 +141,7 @@
 {2305}{}{::Hol tief Luft, geh weiter.:: (Du gehst.)}
 {2320}{}{*Ich bin der perfekte Mann für dich.* (Der Spielautomat zwinkert dir zu.) *Gib mir 'n
  paar Münzen, und ich werd dich so befriedigen, wie das noch KEIN Mann geschafft hat.*}
-{2321}{}{*Ich bin die perfekte Frau für dich. Ich brauch nur 'n bißchen Aufmerksamkeit. Kannste
+{2321}{}{*Ich bin die perfekte Frau für dich. Ich brauch nur 'n bisschen Aufmerksamkeit. Kannste
  mir nicht helfen? Komm, nur ein, zwei Münzen.*}
 {2322}{}{Könn' wir nich' einfach reden?}
 {2340}{}{*Klar, Süße, klar.* (Der Spielautomat schaut verständnisvoll.) *Was geht in deinem
@@ -153,7 +153,7 @@
  ...*schnief*}
 {2344}{}{Ich müssen großes Schiff reparieren...und nicht wissen WIE...und mei-mei-meine Mama WEG,
  und....*schnief*}
-{2345}{}{Des Spiel is' aus...un' jetz' lauf ich einfach rum...un' Angst, daß jetz' alles AUS is'
+{2345}{}{Des Spiel is' aus...un' jetz' lauf ich einfach rum...un' Angst, dass jetz' alles AUS is'
  ...*schnief*}
 {2346}{}{Ach, Fhallaut swei unterstützt meine 3D Fxxxx-Karte nich' und ich hab so viel *Moneten*
  dafür ausgegeben und...*schnief*}
@@ -161,9 +161,9 @@
  *falsch* verteilt...un' jetz' hab ich 'ne Mistfigur...un'...*schnief*}
 {2348}{}{Wenn ich schon mit Spiehlautomaten red, mussich echt ziiiemlich üübel dran sein.}
 {2370}{}{*Schon gut...zerbrich dir deinen hübschen kleinen Kopf nicht länger... ich werd mich um
- alles kümmern. Komm, leg deinen Kopf hierher. Schon gut, laß es raus.*}
-{2371}{}{* Schon gut...du mußt dir keine Gedanken mehr machen, Kleiner... ich werd mich um alles
- kümmern. Komm, leg deinen Kopf hierher. Schon gut, laß es raus.*}
+ alles kümmern. Komm, leg deinen Kopf hierher. Schon gut, lass es raus.*}
+{2371}{}{* Schon gut...du musst dir keine Gedanken mehr machen, Kleiner... ich werd mich um alles
+ kümmern. Komm, leg deinen Kopf hierher. Schon gut, lass es raus.*}
 {2372}{}{Danke, Spielautomaat *schnief* du bis' echt klasse}
 {2373}{}{Duu bis' die einsig *nette* Persoon, die mir begegnet is'. Bisheer warn alle andern gans
  gemein un' wollten mir *weh* tun un' mein Gelt ham un'...*schnief*}
@@ -172,11 +172,11 @@
 {2382}{}{* Bist du OK, Kleiner? Mir ist nicht wohl bei dem Gedanken, dich so gehn zu lassen.*}
 {2383}{}{Bin schon OK...Danke förs Geschpräch, Spiiielautomaat, du bis' soooo nett!}
 {2400}{}{*Du bist die einzige Heldin in dieser miesen Welt, in der's nur Bastarde und Diebe gibt.
- Du mußt auf dich aufpassen, hörst du, Kleine?* (Dreht sich weg.) *Geh jetzt besser, bevor ich
+ Du musst auf dich aufpassen, hörst du, Kleine?* (Dreht sich weg.) *Geh jetzt besser, bevor ich
  zur Heulsuse werde.*}
 {2401}{}{[Auf einem der Fenster scheint sich eine Träne zu bilden.]}
 {2402}{}{*Du bist der einzige Held in dieser miesen Welt, in der's nur Bastarde und Diebe gibt.
- Du mußt auf dich aufpassen, hörst du, Kleiner?* (Dreht sich weg.) *Geh jetzt besser, bevor ich
+ Du musst auf dich aufpassen, hörst du, Kleiner?* (Dreht sich weg.) *Geh jetzt besser, bevor ich
  losheul.*}
 {2403}{}{Tschüüüß}
 {3000}{}{Komm schon, }
