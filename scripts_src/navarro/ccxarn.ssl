@@ -432,7 +432,7 @@ procedure Node004 begin
 end
 
 procedure Node005 begin
-   if rep_positive then begin
+   if not rep_negative then begin
       call Node05a;
    end
    else begin
@@ -453,7 +453,7 @@ procedure Node05b begin
 end
 
 procedure Node05c begin
-   if rep_positive then begin
+   if not rep_negative then begin
       Reply(122);
 
       NLowOption(124,Node006);

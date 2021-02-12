@@ -152,11 +152,56 @@ variable tmp_gen_rep := 0; /*added by killap for implementation of karma beacon 
 #define has_rep_scourge         (global_var(GVAR_KARMA_SCOURGE_OF_THE_WASTES) == 1)
 #define has_rep_demon_spawn     (global_var(GVAR_KARMA_DEMON_SPAWN) == 1)
 
-// effective reputation for critter reaction/lines (Reply). NOT for dude resposnses (NOption, etc).
+
+// Proper rep checking functions
+// Evil_Critter is defined in talk_p_proc, while check_general_rep happens in other procedures too, so we build a separate array for them. Fortunately, there aren't many evils.
+procedure i_like_evil begin
+    variable evil_critters := [
+      // grep -R "Evil_Critter:=1" scripts_src/ | awk -F ':' '{print $1}' | xargs grep "#define SCRIPT_REALNAME" | awk '{print $3}' | sort
+      // Can't use SCRIPT_NAME because it's defined in (parentheses) and sfall array syntax won't have it.
+      "bcdardog",
+      "bcdargrd",
+      "bcdarion",
+      "bcgengrd",
+      "bckarla",
+      "bcphil",
+      "fcdaveh",
+      "fcelrind",
+      "fcjuavki",
+      "fclopan",
+      "fcoz7",
+      "fcoz9",
+      "ncbismen",
+      "ncdrgdlr",
+      "ncmormen",
+      "ncramire",
+      "ncsalmen",
+      "ocmatt",
+      "qcfrank",
+      "rchakes",
+      "scbuster",
+      "sclenny",
+      "scmerk",
+      "scmira",
+      "scmrkgrd",
+      "scoswald",
+      "scrawpat",
+      "scskeete",
+      "scslvgrd",
+      "scvortis"
+    ];
+    if is_in_array(SCRIPT_REALNAME, evil_critters) then return true;
+    return false;
+end
+
 procedure effective_rep begin
     variable rep := global_var(GVAR_PLAYER_REPUTATION);
     if has_trait(TRAIT_PERK, dude_obj, PERK_karma_beacon_perk) then rep := rep * 2;
-    if has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality) and rep < 0 then rep = -1 * rep;
+    if has_trait(TRAIT_PERK, dude_obj, PERK_cult_of_personality) then begin
+        variable evil := i_like_evil;
+        if evil and rep > 0 then return -1 * rep;
+        if not evil and rep < 0 then return -1 * rep;
+        end
     return rep;
 end
 
@@ -168,6 +213,10 @@ procedure effective_title(variable title) begin
     if title < 0 and rep <= title then return true;
     return false;
 end
+
+#define rep_positive (effective_rep >= 0) // ok, "almost positive". In line with has_title.
+#define rep_negative (effective_rep < 0)
+
 
 /*-----------------9/16/97 7:40:M-------------------
  The following will add or remove the reputations of champion or berserker
