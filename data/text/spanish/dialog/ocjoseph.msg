@@ -25,7 +25,7 @@
  fueras a una de las ciudades más grandes y buscases a un cirujano. Inténtalo en la República de Nueva California. Está al este de aquí.}
 {121}{}{Vale. Adiós.}
 {122}{}{De acuerdo. Gracias de todos modos.}
-{123}{}{¿Qué querías saber?}
+{123}{}{¿Qué es lo que quieres saber?}
 {124}{}{¿Tú prisionero?}
 {125}{}{¿Puedes irte si quieres?}
 {126}{}{¿Qué sabes de Garras?}

@@ -28,8 +28,7 @@
 #define SCRIPT_REALNAME "wcbrnbot"
 #include "../headers/define.h"
 //#include "../headers/<TownName.h>"
-#include "../headers/depolva.h"
-#include "../headers/depolvb.h"
+#include "../headers/depolvz.h"
 
 #define NAME                    SCRIPT_WCBRNBOT
 
@@ -203,15 +202,9 @@ procedure critter_p_proc begin
        self_walk_to_tile(tile_num_in_direction(dude_tile,random(0,5),random(1,4)));
    end
 
-   /*if ((cur_map_index == MAP_SIERRA_123) and ((local_var(LVAR_Alarm_1) == 0) or (local_var(LVAR_Alarm_2) == 0) or (local_var(LVAR_Alarm_3) == 0))) then begin
-       call Node024;
-   end*/
-
-   //added by killap
-   if ( ((cur_map_index == MAP_SIERRA_123) and ((map_var(MVAR_Security_Level_1) == 1) or (map_var(MVAR_Security_Level_2) == 1) or (map_var(MVAR_Security_Level_3) == 1))) or (cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1) ) then begin
+   if sierra_cur_level_sec_on then begin
        call Node024;
    end
-   //end added
 
    if ((local_var(LVAR_In_Party) == 1) and (not(party_no_follow))) then begin
        if (tile_distance_objs(self_obj,dude_obj) > (2*FOLLOW_DISTANCE_MEDIUM)) then
@@ -690,19 +683,19 @@ procedure Node024 begin
    if (cur_map_index == MAP_SIERRA_123) then begin
       if ((map_var(MVAR_Security_Level_1) == 1) and (self_elevation == 0)) then begin
           set_global_var(GVAR_SIERRA_BASE_ALERT,0);
-          set_global_var(GVAR_SIERRA_BASE_SECURITY,0);
+          sierra_set_security_off;
           floater(204);
           set_map_var(MVAR_Security_Level_1,0);
       end
       else if ((map_var(MVAR_Security_Level_2) == 1) and (self_elevation == 1)) then begin
           set_global_var(GVAR_SIERRA_BASE_ALERT,0);
-          set_global_var(GVAR_SIERRA_BASE_SECURITY,0);
+          sierra_set_security_off;
           floater(205);
           set_map_var(MVAR_Security_Level_2,0);
       end
       else if ((map_var(MVAR_Security_Level_3) == 1) and (self_elevation == 2)) then begin
           set_global_var(GVAR_SIERRA_BASE_ALERT,0);
-          set_global_var(GVAR_SIERRA_BASE_SECURITY,0);
+          sierra_set_security_off;
           floater(206);
           set_map_var(MVAR_Security_Level_3,0);
       end
@@ -710,7 +703,7 @@ procedure Node024 begin
    else if (cur_map_index == MAP_SIERRA_4) then begin
       if (map_var(MVAR_Security_Level_4) == 1) then begin
           set_global_var(GVAR_SIERRA_BASE_ALERT,0);
-          set_global_var(GVAR_SIERRA_BASE_SECURITY,0);
+          sierra_set_security_off;
           floater(207);
           set_map_var(MVAR_Security_Level_4,0);
       end

@@ -21,7 +21,7 @@
 
 /* Include Files */
 #define SCRIPT_REALNAME "wibaydor"
-#include "../headers/depolva.h"
+#include "../headers/depolvz.h"
 
 /* Sets whether the door is locked or trapped or closing */
 #define LOCKED_STATUS                   STATE_ACTIVE

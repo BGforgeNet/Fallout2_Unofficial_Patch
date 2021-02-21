@@ -13,7 +13,7 @@
 {111}{}{Ah. Vale. ¿Hago preguntas?}
 {112}{}{Vale. Adiós.}
 {113}{}{Puedes, ciertamente.}
-{114}{}{¿Qué querías saber?}
+{114}{}{¿Qué es lo que quieres saber?}
 {115}{}{¿Santuario para qué?}
 {116}{}{¿Cuánto tiempo tú aquí?}
 {117}{}{¿Garras malas?}

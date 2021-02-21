@@ -27,7 +27,7 @@
 */
 #define SCRIPT_REALNAME "wsterm3a"
 #include "../headers/define.h"
-#include "../headers/depolva.h"
+#include "../headers/depolvz.h"
 
 #define NAME                    SCRIPT_WSTERM3A
 
@@ -122,7 +122,7 @@ procedure Node010 begin
    Reply(mstr(119)+mstr(120));
 
    NOption(121,Node011,004);
-   NOption(mstr(122)+dude_name,Node012,004);
+   NOption( mstr(122) + dude_name + '.',Node012,004);
    NOption(123,Node013,004);
    NOption(124,Node999,004);
 end
@@ -133,7 +133,7 @@ procedure Node011 begin
    set_map_var(MVAR_Security_Level_3,1);
    set_global_var(GVAR_SIERRA_BASE_ENEMY,1);
    set_global_var(GVAR_SIERRA_BASE_ALERT,1);
-   set_global_var(GVAR_SIERRA_BASE_SECURITY,1);
+   sierra_set_security_on;
 
    Reply(mstr(125));
 

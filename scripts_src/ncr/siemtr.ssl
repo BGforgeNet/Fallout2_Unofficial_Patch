@@ -113,8 +113,6 @@ procedure use_skill_on_p_proc begin
                display_msg(mstr(110));
            if ((local_var(LVAR_Failed_Repair) == 3) and (map_var(LEVEL_MAP_VAR) == 0)) then begin
                set_map_var(LEVEL_MAP_VAR,1);
-//Possibly set a global var to alert the rest of the town that you were doing stuff.
-//               set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
                display_msg(mstr(111));
            end
        end
@@ -164,8 +162,7 @@ procedure use_obj_on_p_proc begin
                display_msg(mstr(110));
            if ((local_var(LVAR_Failed_Repair) == 3) and (map_var(LEVEL_MAP_VAR) == 0)) then begin
                set_map_var(LEVEL_MAP_VAR,1);
-               //Again possible set somthing to alert the whole area
-//               set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+               // Possibly set something to alert the whole area
                display_msg(mstr(111));
            end
        end
@@ -200,6 +197,6 @@ procedure damage_p_proc begin
    end
 
    set_map_var(LEVEL_MAP_VAR,1);
-   set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+   // Possibly set something to alert the whole area
    display_msg(mstr(111));
 end

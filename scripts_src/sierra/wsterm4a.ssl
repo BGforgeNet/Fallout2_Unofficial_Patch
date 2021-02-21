@@ -27,7 +27,6 @@
 */
 #define SCRIPT_REALNAME "wsterm4a"
 #include "../headers/define.h"
-//#include "../headers/depolvb.h"
 
 #define NAME                    SCRIPT_WSTERM4A
 

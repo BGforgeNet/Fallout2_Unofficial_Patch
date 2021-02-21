@@ -27,7 +27,7 @@
 */
 #define SCRIPT_REALNAME "wsterm3b"
 #include "../headers/define.h"
-#include "../headers/depolva.h"
+#include "../headers/depolvz.h"
 
 #define NAME                    SCRIPT_WSTERM3B
 
@@ -319,7 +319,7 @@ procedure Node017 begin
    set_map_var(MVAR_Security_Level_1,0);
    set_map_var(MVAR_Security_Level_2,0);
    set_map_var(MVAR_Security_Level_3,0);
-   set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_OFF);
+   sierra_set_security_off;
 
    Reply(mstr(185));
 
@@ -402,7 +402,7 @@ end
 
 procedure Node998 begin
 // need to set up combat
-   set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+   sierra_set_security_on;
    set_map_var(MVAR_Security_Level_3,1);
    set_map_var(MVAR_Skynet_Battle_3,1);
    set_global_var(GVAR_SIERRA_BASE_ENEMY,1);

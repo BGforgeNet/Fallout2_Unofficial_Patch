@@ -31,7 +31,7 @@
 #define NAME                    SCRIPT_WIBRKBRN
 
 #include "../headers/command.h"
-#include "../headers/depolva.h"
+#include "../headers/depolvz.h"
 
 #define BIOMED_GEL              440
 #define ROBO_MOTIVATOR_PID      364

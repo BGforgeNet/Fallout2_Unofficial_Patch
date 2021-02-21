@@ -27,7 +27,7 @@
 */
 #define SCRIPT_REALNAME "gsalarm"
 #include "../headers/define.h"
-//#include "../headers/depolva.h"
+//#include "../headers/depolvz.h"
 
 //#define NAME                    SCRIPT_WSEMIT1A
 

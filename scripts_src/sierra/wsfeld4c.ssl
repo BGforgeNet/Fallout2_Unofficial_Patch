@@ -27,7 +27,7 @@
 */
 #define SCRIPT_REALNAME "wsfeld4c"
 #include "../headers/define.h"
-#include "../headers/depolvb.h"
+#include "../headers/depolvz.h"
 
 #define NAME                    SCRIPT_WSEMIT1A       // contains all the .msg info
 #define CUR_SCRIPT              SCRIPT_WSFELD4C       // for creating new objects w/ this script

@@ -27,8 +27,7 @@
 */
 #define SCRIPT_REALNAME "wielvdor"
 #include "../headers/define.h"
-#include "../headers/depolva.h"
-#include "../headers/depolvb.h"
+#include "../headers/depolvz.h"
 
 #define NAME                    SCRIPT_WIELVDOR
 

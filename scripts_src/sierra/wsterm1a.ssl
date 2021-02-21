@@ -27,7 +27,7 @@
 */
 #define SCRIPT_REALNAME "wsterm1a"
 #include "../headers/define.h"
-#include "../headers/depolva.h"
+#include "../headers/depolvz.h"
 
 #define NAME                    SCRIPT_WSTERM1A
 
@@ -371,7 +371,7 @@ end
 
 procedure Node013 begin
    set_map_var(MVAR_Security_Level_1,1);
-   set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+   sierra_set_security_on;
 
    Reply(135);
 
@@ -383,7 +383,7 @@ procedure Node014 begin
        Reply(137);
    else begin
        set_map_var(MVAR_Security_Level_1,1);
-       set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+       sierra_set_security_on;
 
        Reply(138);
    end

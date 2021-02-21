@@ -26,7 +26,7 @@
 {119}{}{¿Te importa si te algo algunas preguntas?}
 {120}{}{¡Trato hecho! Me encantaría escuchar cualquier cosa que puedas contarme.}
 {121}{}{Además, no puedo rechazar a un amigo de Gruthar.}
-{122}{}{¿Qué querías saber?}
+{122}{}{¿Qué es lo que quieres saber?}
 {123}{}{¿Qué estás haciendo aquí?}
 {124}{}{¿Eres prisionero aquí?}
 {125}{}{¿Cuánto hace que estás aquí?}

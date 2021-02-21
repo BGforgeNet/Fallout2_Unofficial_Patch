@@ -27,7 +27,7 @@
 */
 #define SCRIPT_REALNAME "wsemit1d"
 #include "../headers/define.h"
-#include "../headers/depolva.h"
+#include "../headers/depolvz.h"
 
 #define NAME                    SCRIPT_WSEMIT1A         // contains all the .msg info
 #define CUR_SCRIPT              SCRIPT_WSEMIT1D         // for creating new objects w/ this script
@@ -107,7 +107,7 @@ procedure use_skill_on_p_proc begin
                display_msg(obj_name(source_obj)+mstr(110));
            if ((local_var(LVAR_Failed_Repair) == 3) and (map_var(LEVEL_MAP_VAR) == 0)) then begin
                set_map_var(LEVEL_MAP_VAR,1);
-               set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+               sierra_set_security_on;
                display_msg(mstr(111));
            end
        end
@@ -152,7 +152,7 @@ procedure use_obj_on_p_proc begin
                display_msg(obj_name(source_obj)+mstr(110));
            if ((local_var(LVAR_Failed_Repair) == 3) and (map_var(LEVEL_MAP_VAR) == 0)) then begin
                set_map_var(LEVEL_MAP_VAR,1);
-               set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+               sierra_set_security_on;
                display_msg(mstr(111));
            end
        end
@@ -193,7 +193,7 @@ procedure damage_p_proc begin
 
       set_map_var(LEVEL_MAP_VAR,1);
       set_global_var(GVAR_SIERRA_BASE_ALERT,SIERRA_ALERT_ON);
-      set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+      sierra_set_security_on;
       display_msg(mstr(111));
    end
 end

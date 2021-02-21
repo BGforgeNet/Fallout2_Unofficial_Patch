@@ -27,8 +27,7 @@
 */
 #define SCRIPT_REALNAME "wiretscn"
 #include "../headers/define.h"
-#include "../headers/depolva.h"
-#include "../headers/depolvb.h"
+#include "../headers/depolvz.h"
 
 #define NAME                    SCRIPT_WIRETSCN
 
@@ -49,7 +48,7 @@ procedure use_p_proc begin
    script_overrides;
 
    set_global_var(GVAR_SIERRA_BASE_ALERT,SIERRA_ALERT_ON);
-   set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
+   sierra_set_security_on;
 
    if (cur_map_index == MAP_SIERRA_123) then begin
        if (dude_elevation == 0) then

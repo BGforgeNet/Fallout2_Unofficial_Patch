@@ -175,6 +175,6 @@
 {501}{}{Parece que antes necesitarás hacer funcionar el generador.}
 {502}{}{Ves: Puerta de ascensor.}
 {503}{}{Parece que necesitas un aparato eléctrico para abrir esta cerradura.}
-{601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{601}{}{Está cerrado, idiota.}
+{610}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
 {611}{}{ fails spectacularly, and the exposive goes off prematurely.}

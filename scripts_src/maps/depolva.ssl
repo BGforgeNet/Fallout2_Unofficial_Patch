@@ -13,7 +13,7 @@
 #define NAME                    SCRIPT_DEPOLV1
 
 #include "../headers/command.h"
-#include "../headers/depolva.h"
+#include "../headers/depolvz.h"
 #include "../headers/newreno.h"
 
 
@@ -96,6 +96,7 @@ procedure map_enter_p_proc begin
        end
    end
    set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   sierra_update_klaxons;
 end
 
 procedure map_update_p_proc begin

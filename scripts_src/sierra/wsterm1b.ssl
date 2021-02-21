@@ -27,7 +27,7 @@
 */
 #define SCRIPT_REALNAME "wsterm1b"
 #include "../headers/define.h"
-#include "../headers/depolva.h"
+#include "../headers/depolvz.h"
 
 #define NAME                    SCRIPT_WSTERM1B
 
@@ -225,34 +225,29 @@ procedure Node002 begin
 end
 
 procedure Node002a begin
-   set_map_var(MVAR_Security_Level_1,1); // Seraph's Fix.  Original Code: set_global_var(MVAR_Security_Level_1,1);
-
+   set_map_var(MVAR_Security_Level_1,1);
+   sierra_set_security_on;
    call Node001;
 end
 
 procedure Node003 begin
    Reply(118);
-
    NOption(120,Node999,004);
 end
 
 procedure Node004 begin
    Reply(122);
-
    NOption(124,Node999,004);
 end
 
 procedure Node010 begin
    set_map_var(MVAR_Security_Level_1,0);
-
    Reply(125);
-
    NOption(126,Node999,004);
 end
 
 procedure Node011 begin
    Reply(127);
-
    NOption(128,Node010,004);
    NOption(129,Node012,004);
    NOption(130,Node001,004);

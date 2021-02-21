@@ -27,7 +27,7 @@
 */
 #define SCRIPT_REALNAME "wsfeld1b"
 #include "../headers/define.h"
-#include "../headers/depolva.h"
+#include "../headers/depolvz.h"
 
 #define NAME                    SCRIPT_WSEMIT1A       // contains all the .msg info
 #define CUR_SCRIPT              SCRIPT_WSFELD1B       // for creating new objects w/ this script

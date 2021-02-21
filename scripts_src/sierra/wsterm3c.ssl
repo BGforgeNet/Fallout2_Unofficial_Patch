@@ -27,7 +27,7 @@
 */
 #define SCRIPT_REALNAME "wsterm3c"
 #include "../headers/define.h"
-#include "../headers/depolva.h"
+#include "../headers/depolvz.h"
 
 #define NAME                    SCRIPT_WSTERM3C
 

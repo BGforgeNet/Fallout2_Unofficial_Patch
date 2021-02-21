@@ -1,36 +1,5 @@
-/*
-	Copyright 1998-2003 Interplay Entertainment Corp.  All rights reserved.
-*/
-
-/*
-        Name:
-        Location:
-        Description:
-
-        Log:
-           Please note any changes that have been made to the file in Updated. Then comment
-           the code which you have changed/altered/commented out. Please, do not delete any
-           code which was written.
-
-           Created:
-
-           Updated:
-*/
-
-/* Include Files */
-
-/* Note, the Following Lines need to be in this order so that
-   the script will be compilable. The define Name is referenced
-   in a module from define.h and used in command.h. Please do
-   not change the ordering.
-        -rwh2   11/13/97
-*/
 #define SCRIPT_REALNAME "wsklaxon"
 #include "../headers/define.h"
-//#include "../headers/depolva.h"
-
-//#define NAME                    SCRIPT_WSEMIT1A
-
 #include "../headers/command.h"
 
 procedure start;
@@ -41,42 +10,5 @@ procedure map_update_p_proc;
 procedure start begin
 end
 
-/*procedure map_update_p_proc begin
-   variable Item;
-
-   if ((global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_ON) and (local_var(LVAR_Once) == 0)) then begin
-       set_local_var(LVAR_Once,1);
-       if (self_pid == PID_NS_LIGHT) then begin
-           item:=create_object(PID_NS_FLASHING_LIGHT,self_tile,self_elevation);
-       end
-       else begin
-           item:=create_object(PID_EW_FLASHING_LIGHT,self_tile,self_elevation);
-       end
-   end
-end*/
-
-//added by killap
 procedure map_update_p_proc begin
-   variable Item;
-
-   if (global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_ON) then begin
-       if (self_pid == PID_NS_LIGHT) then begin
-           item:=create_object_sid(PID_NS_FLASHING_LIGHT,self_tile,self_elevation,SCRIPT_WSKLAXON);
-           destroy_object(self_obj);
-       end
-       else if (self_pid == PID_EW_LIGHT) then begin
-           item:=create_object_sid(PID_EW_FLASHING_LIGHT,self_tile,self_elevation,SCRIPT_WSKLAXON);
-           destroy_object(self_obj);
-       end
-   end else if (global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_OFF) then begin
-       if (self_pid == PID_NS_FLASHING_LIGHT) then begin
-           item:=create_object_sid(PID_NS_LIGHT,self_tile,self_elevation,SCRIPT_WSKLAXON);
-           destroy_object(self_obj);
-       end
-       else if (self_pid == PID_EW_FLASHING_LIGHT) then begin
-           item:=create_object_sid(PID_EW_LIGHT,self_tile,self_elevation,SCRIPT_WSKLAXON);
-           destroy_object(self_obj);
-       end
-   end
 end
-//end added

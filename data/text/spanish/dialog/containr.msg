@@ -115,6 +115,6 @@
 {211}{}{ no consigues colocar correctamente la trampa en el cajón.}
 {212}{}{Ves un frigorífico.}
 {400}{}{Abres el cajón.}
-{601}{}{It is open, dummy.}
-{610}{}{You fail spectacularly, and the exposive goes off prematurely.}
+{601}{}{Está cerrado, idiota.}
+{610}{}{Fallas espectacularmente, y el explosivo detona prematuramente.}
 {611}{}{ fails spectacularly, and the exposive goes off prematurely.}

@@ -38,17 +38,11 @@
 
 #define FLOAT_TIME_MIN                  (20)            // in seconds
 #define FLOAT_TIME_MAX                  (40)            // in seconds
+#define TIMER_FLOAT                     1
 
 #define REQUEST_NONE                    (0)
 #define REQUEST_COMPLETE                (0)
 #define REQUEST_MADE                    (1)
-
-#define ROCKET_MIN                      (2)
-#define ROCKET_MAX                      (3)
-#define BULLETS_MIN                     (1)
-#define BULLETS_MAX                     (3)
-#define SHELLS_MIN                      (1)
-#define SHELLS_MAX                      (3)
 
 procedure start;
 procedure critter_p_proc;
@@ -83,108 +77,19 @@ procedure Set_Map_Info_6;
 #define LVAR_Ammo_5mm                   (6)
 #define LVAR_Ammo_Shells                (7)
 #define LVAR_Initialized_Ammo           (8)
+#include "../headers/robots.h"
 
 variable Ammo_Type;
 variable Ammo_Difference;
 variable Repair_Counter;
 
 procedure start begin
-   variable Ammo1;
-   variable Ammo2;
-   variable Amount1;
-   variable Amount2;
-   variable Weapon1;
-   variable Weapon2;
-
-   set_self_team(TEAM_SIERRA_BASE);
-   set_self_ai(AI_SECURITY_BOT);
-
-   if (local_var(LVAR_Initialized_Ammo) == 0) then begin
-       set_local_var(LVAR_Initialized_Ammo,1);
-       if (self_pid == PID_MISSILE_BOT) then begin
-           if (random(0,1) == 1) then begin
-               Ammo1:=create_object(PID_ROBO_ROCKETS,0,0);
-               Amount1:=random(ROCKET_MIN,ROCKET_MAX);
-
-               Weapon1:=create_object(PID_ROBO_ROCKET_LAUNCHER,0,0);
-
-               set_local_var(LVAR_Ammo_Rocket,Amount1);
-               set_local_var(LVAR_Ammo_5mm,-1);
-               set_local_var(LVAR_Ammo_Shells,-1);
-           end
-           else begin
-               Ammo1:=create_object(PID_5MM_AP,0,0);
-               Amount1:=random(BULLETS_MIN,BULLETS_MAX);
-
-               Weapon1:=create_object(PID_MINIGUN,0,0);
-
-               set_local_var(LVAR_Ammo_Rocket,-1);
-               set_local_var(LVAR_Ammo_5mm,Amount1);
-               set_local_var(LVAR_Ammo_Shells,-1);
-           end
-
-           add_mult_objs_to_inven(self_obj,Ammo1,Amount1);
-           add_mult_objs_to_inven(self_obj,Weapon1,1);
-       end
-       else if (self_pid == PID_TOUGH_MISSILE_BOT) then begin
-           Ammo1:=create_object(PID_ROBO_ROCKETS,0,0);
-           Ammo2:=create_object(PID_5MM_AP,0,0);
-
-           Amount1:=random(ROCKET_MIN,ROCKET_MAX);
-           Amount2:=random(BULLETS_MIN,BULLETS_MAX);
-
-           Weapon1:=create_object(PID_MINIGUN,0,0);
-           Weapon2:=create_object(PID_ROBO_ROCKET_LAUNCHER,0,0);
-
-           add_mult_objs_to_inven(self_obj,Ammo1,Amount1);
-           add_mult_objs_to_inven(self_obj,Ammo2,Amount2);
-           add_mult_objs_to_inven(self_obj,Weapon1,1);
-           add_mult_objs_to_inven(self_obj,Weapon2,1);
-
-           set_local_var(LVAR_Ammo_Rocket,Amount1);
-           set_local_var(LVAR_Ammo_5mm,Amount2);
-           set_local_var(LVAR_Ammo_Shells,-1);
-       end
-       else if (self_pid == PID_ROBOBRAIN) then begin
-           Ammo1:=create_object(PID_SHOTGUN_SHELLS,0,0);
-           Amount1:=random(SHELLS_MIN,SHELLS_MAX);
-
-           Weapon1:=create_object(PID_COMBAT_SHOTGUN,0,0);
-
-           add_mult_objs_to_inven(self_obj,Ammo1,Amount1);
-           add_mult_objs_to_inven(self_obj,Weapon1,1);
-
-           set_local_var(LVAR_Ammo_Rocket,-1);
-           set_local_var(LVAR_Ammo_5mm,-1);
-           set_local_var(LVAR_Ammo_Shells,Amount1);
-       end
-   end
+    call robot_self_arm;
+    set_self_team(TEAM_SIERRA_BASE);
+    set_self_ai(AI_SECURITY_BOT);
 end
 
 procedure critter_p_proc begin
-
-   /*if (cur_map_index == MAP_SIERRA_123) then begin
-       if (tile_in_tile_rect(17910,17890,22310,22290,self_tile)) then begin
-           if ((self_elevation == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 0)) then begin
-               set_self_invisible;      // invis
-           end
-           else if (self_elevation == LEVEL_ONE) then begin
-               set_self_visible;      // vis
-           end
-       end
-       else if (tile_in_tile_rect(16280,16274,19880,19874,self_tile)) then begin
-           if ((self_elevation == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 0)) then begin
-               set_self_invisible;      // invis
-           end
-           else if (self_elevation == LEVEL_THREE) then begin
-               set_self_visible;      // vis
-           end
-       end
-       else begin
-           set_self_visible;      // vis
-       end
-   end*/
-
    //new code - killap
    if (cur_map_index == MAP_SIERRA_123) then begin
        if (tile_in_tile_rect(17910,17890,19110,19090,self_tile) or tile_in_tile_rect(20702,20693,22302,22293,self_tile)) then begin
@@ -220,18 +125,18 @@ procedure critter_p_proc begin
    end
    //end killap
 
-   if ((global_var(GVAR_SIERRA_BASE_ENEMY) == 0) and (tile_in_tile_rect(16280,16274,19880,19874,self_tile)) and ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))) then begin
+   if ((global_var(GVAR_SIERRA_BASE_ENEMY) == 0) and (tile_in_tile_rect(16280,16274,19880,19874,self_tile)) and dude_in_sierra) then begin
    end
    else
        call Security;
 
    Repair_Counter+=1;
-   if (((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4)) and (Repair_Counter == 40)) then begin
+   if (dude_in_sierra and (Repair_Counter == 40)) then begin
        Repair_Counter:=0;
        call RepairMe;
    end
 
-   if ((local_var(LVAR_Initialized_Ammo) != 0) and ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))) then begin
+   if ((local_var(LVAR_Initialized_Ammo) != 0) and dude_in_sierra) then begin
        call AmmoReplacement;
    end
 
@@ -248,95 +153,35 @@ end
 procedure talk_p_proc begin
    script_overrides;
 
-   if ((global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_OFF) or
+   if (sierra_security_off or
        (local_var(LVAR_Active) == 1)) then begin
        display_msg(mstr(104));
    end
-   else if (global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_ON) then begin
+   else if sierra_security_on then begin
        display_msg(mstr(103));
    end
 end
 
 procedure use_skill_on_p_proc begin
-   variable Skill;
-   variable cur_hp;
-   variable max_hp;
-
-   Skill:=action_being_used;
-
-   if (Skill == SKILL_REPAIR) then begin
-       if (skill_success(dude_obj,skill,-40)) then begin
-           script_overrides;
-           display_msg(mstr(150));
-           if (local_var(LVAR_Gave_Exp) == 0) then begin
-               set_local_var(LVAR_Gave_Exp,1);
-               give_xp(EXP_DISABLE_ROBOT);
-           end
-           set_local_var(LVAR_Active,1);
-       end
-       else begin
-           cur_hp:=self_cur_hits;
-           max_hp:=self_max_hits;
-           display_msg(mstr(151));
-           critter_heal(self_obj,max_hp-cur_hp);
-           if (local_var(LVAR_Gave_Exp) == 0) then begin
-               set_local_var(LVAR_Gave_Exp,1);
-               give_xp(EXP_REPAIR_NEG_40);
-           end
-       end
-   end
-
-   else if (Skill == SKILL_STEAL) then begin
-       script_overrides;
-   end
-
+    call robot_use_skill;
 end
 
 procedure use_obj_on_p_proc begin
-   variable Tool;
-   variable cur_hp;
-   variable max_hp;
-
-   //Tool:=obj_being_used_with; //comment out by killap
-   Tool:=obj_pid(obj_being_used_with); //edit by killap
-
-   if ((Tool == PID_MULTI_TOOL) or (Tool == PID_SUPER_TOOL_KIT)) then begin //added super_tool_kit - killap
-       if (skill_success(dude_obj,SKILL_REPAIR,(-20 + ((obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) * 20)))) then begin //edit by killap - + ((obj_pid(obj_being_used_with) == PID_SUPER_TOOL_KIT) * 20)
-           script_overrides;
-           display_msg(mstr(150));
-           if (local_var(LVAR_Gave_Exp) == 0) then begin
-               set_local_var(LVAR_Gave_Exp,1);
-               give_xp(EXP_DISABLE_ROBOT);
-           end
-           set_local_var(LVAR_Active,1);
-       end
-       else begin
-           cur_hp:=self_cur_hits;
-           max_hp:=self_max_hits;
-           display_msg(mstr(151));
-           critter_heal(self_obj,max_hp-cur_hp);
-           if (local_var(LVAR_Gave_Exp) == 0) then begin
-               set_local_var(LVAR_Gave_Exp,1);
-               give_xp(EXP_REPAIR_NEG_40);
-           end
-       end
-   end
+    call robot_use_obj;
 end
 
 procedure combat_p_proc begin
-   //added by killap
-   if ((fixed_param == COMBAT_SUBTYPE_TURN) and (local_var(LVAR_Active) == 1)) then begin
-       script_overrides;
-       ndebug("I am disabled and won't attack!");
-   end
-   //end added
+    if ((fixed_param == COMBAT_SUBTYPE_TURN) and (local_var(LVAR_Active) == 1)) then begin
+        script_overrides;
+        ndebug("I am disabled and won't attack!");
+    end
 end
 
 procedure damage_p_proc begin
    if (local_var(LVAR_Active) == 0) then begin //added check - killap
       set_global_var(GVAR_SIERRA_BASE_SECURITY,SIERRA_SECURITY_ON);
 
-      if ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4)) then begin
+      if dude_in_sierra then begin
          if (self_elevation == LEVEL_ONE) then begin
            set_map_var(MVAR_Security_Level_1,1);
          end
@@ -355,7 +200,7 @@ end
 
 procedure destroy_p_proc begin
 
-   if ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4)) then begin
+   if dude_in_sierra then begin
        if (map_var(MVAR_Repair_Request1) == REPAIR_NONE) then begin
            call Set_Map_Info_1;
            set_map_var(MVAR_Repair_Request1,REPAIR_PICKUP);
@@ -430,7 +275,7 @@ procedure RepairMe begin
 
    call CheckRequest;
 
-   if ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4)) then begin
+   if dude_in_sierra then begin
        if ((max_hp > cur_hp) and (local_var(LVAR_Repair_Request) == REQUEST_NONE) and (map_var(MVAR_Free_Bots) != 0)) then begin
 
            ndebug("Send Repair Bot to section "+self_tile+" on level "+self_elevation+".");
@@ -469,66 +314,16 @@ procedure RepairMe begin
 end
 
 procedure Security begin
-   if ((global_var(GVAR_SIERRA_BASE_SECURITY) == SIERRA_SECURITY_ON) and (local_var(LVAR_Active) == 0)) then begin
-       if ((self_can_see_dude) and ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))) then begin
-           if ((self_elevation == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1)) then begin
-               attack(dude_obj);
-           end
-           else if ((self_elevation == LEVEL_TWO) and (map_var(MVAR_Security_Level_2) == 1)) then begin
-               attack(dude_obj);
-           end
-           else if ((self_elevation == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 1)) then begin
-               attack(dude_obj);
-           end
-           //else if ((cur_map_index == MAP_SIERRA_4) and (global_var(GVAR_SIERRA_BASE_ALERT) == 1)) then begin
-           else if ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) then begin
-               //set_map_var(MVAR_Security_Level_4,1);
-               attack(dude_obj);
-           end
+   if (dude_in_sierra and sierra_security_on and (local_var(LVAR_Active) == 0)) then begin
+       if self_can_see_dude then begin
+           if sierra_cur_level_sec_on then attack(dude_obj);
        end
-       else if ((self_cur_hits == self_max_hits) and
-                ((cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4))) then begin
-           if (self_elevation == dude_elevation) then begin
-               if ((self_elevation == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1)) then
-                   self_walk_to_tile(tile_num_in_direction(dude_tile,random(0,5),random(1,5)));
-               else if ((self_elevation == LEVEL_TWO) and (map_var(MVAR_Security_Level_2) == 1)) then
-                   self_walk_to_tile(tile_num_in_direction(dude_tile,random(0,5),random(1,5)));
-               else if ((self_elevation == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 1)) then
-                   self_walk_to_tile(tile_num_in_direction(dude_tile,random(0,5),random(1,5)));
-               //else if ((cur_map_index == MAP_SIERRA_4) and (global_var(GVAR_SIERRA_BASE_ALERT) == 1)) then
-               else if ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) then
-                   self_walk_to_tile(tile_num_in_direction(dude_tile,random(0,5),random(1,5)));
-           end
-           else if ( (cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4) )then begin //edit by killap - or (cur_map_index == MAP_SIERRA_4)
-               if ((self_elevation == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1)) then
-                   self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,6)));
-               else if ((self_elevation == LEVEL_TWO) and (map_var(MVAR_Security_Level_2) == 1)) then
-                   self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,6)));
-               else if ((self_elevation == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 1)) then
-                   self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,6)));
-               //else if ((cur_map_index == MAP_SIERRA_4) and (global_var(GVAR_SIERRA_BASE_ALERT) == 1)) then
-               else if ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) then
-                   self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,6)));
-           end
-
-           if ( (cur_map_index == MAP_SIERRA_123) or (cur_map_index == MAP_SIERRA_4) ) then begin //edit by killap - or (cur_map_index == MAP_SIERRA_4)
-               if ((self_elevation == LEVEL_ONE) and (map_var(MVAR_Security_Level_1) == 1) and (local_var(LVAR_Timed_Event) == 0)) then begin
-                   set_local_var(LVAR_Timed_Event,1);
-                   add_timer_event(self_obj,game_ticks(random(FLOAT_TIME_MIN,FLOAT_TIME_MAX)),1);
-               end
-               else if ((self_elevation == LEVEL_TWO) and (map_var(MVAR_Security_Level_2) == 1) and (local_var(LVAR_Timed_Event) == 0)) then begin
-                   set_local_var(LVAR_Timed_Event,1);
-                   add_timer_event(self_obj,game_ticks(random(FLOAT_TIME_MIN,FLOAT_TIME_MAX)),1);
-               end
-               else if ((self_elevation == LEVEL_THREE) and (map_var(MVAR_Security_Level_3) == 1) and (local_var(LVAR_Timed_Event) == 0)) then begin
-                   set_local_var(LVAR_Timed_Event,1);
-                   add_timer_event(self_obj,game_ticks(random(FLOAT_TIME_MIN,FLOAT_TIME_MAX)),1);
-               end
-               //else if ((cur_map_index == MAP_SIERRA_4) and (global_var(GVAR_SIERRA_BASE_ALERT) == 1)) then begin
-               else if ((cur_map_index == MAP_SIERRA_4) and (map_var(MVAR_Security_Level_4) == 1)) then begin
-                   set_local_var(LVAR_Timed_Event,1);
-                   add_timer_event(self_obj,game_ticks(random(FLOAT_TIME_MIN,FLOAT_TIME_MAX)),1);
-               end
+       else if self_cur_hits == self_max_hits then begin
+           if sierra_cur_level_sec_on then begin
+               if self_elevation == dude_elevation then self_walk_to_tile(tile_num_in_direction(dude_tile,random(0,5),random(1,5)));
+               else self_walk_to_tile(tile_num_in_direction(self_tile,random(0,5),random(3,6)));
+               set_local_var(LVAR_Timed_Event,1);
+               add_timer_event(self_obj,game_ticks(random(FLOAT_TIME_MIN,FLOAT_TIME_MAX)),TIMER_FLOAT);
            end
        end
    end

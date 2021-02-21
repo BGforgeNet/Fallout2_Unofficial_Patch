@@ -16,7 +16,7 @@
 {115}{}{Oye, lo siento. No tenía intención de ofenderte. Te dejaré con tus cosas.}
 {116}{}{Bien.}
 {117}{}{Encantado de conocerte, }
-{118}{}{¿Qué querías saber?}
+{118}{}{¿Qué es lo que quieres saber?}
 {119}{}{¿Qué haces aquí?}
 {120}{}{Qué hacen maquinas?}
 {121}{}{Refugio tiene supervisor. ¿Esto cuarto de supervisor?}
