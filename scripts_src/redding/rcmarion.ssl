@@ -222,7 +222,7 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   if (dude_iq < 4) then begin
+   if (dude_iq_talk < 4) then begin
        call Node001;
    end
 

@@ -202,7 +202,7 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   if (dude_iq < 4) then
+   if (dude_iq_talk < 4) then
       call Node003;
 
    else if ((fannie == FANNIE_SICK) or (fannie == FANNIE_SICKER)) then begin
