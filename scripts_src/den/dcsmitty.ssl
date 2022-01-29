@@ -177,7 +177,7 @@ end
 procedure talk_p_proc begin
    if ((mom_attacked) or (mom_killed)) then begin
       call Node001;
-   end else if (dude_is_stupid) then begin
+   end else if (dude_is_stupid_talk) then begin
       call Node002;
    end else begin
       move_obj_inven_to_obj(self_obj,generic_temp_box);
