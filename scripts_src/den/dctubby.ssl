@@ -145,7 +145,7 @@ procedure talk_p_proc begin
    ReactToLevel; //added by killap
    start_gdialog(NAME,self_obj,4,-1,-1);
    gSay_Start;
-      if (dude_is_stupid) then begin
+      if (dude_is_stupid_talk) then begin
          call Node007;
       end else if ((hostile) or (REP_ENEMY_DEN) or (mom_attacked) or (mom_dead)) then begin
          call Node001;
