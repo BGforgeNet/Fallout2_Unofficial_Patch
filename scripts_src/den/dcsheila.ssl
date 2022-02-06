@@ -204,7 +204,7 @@ procedure Node995 begin
       call Node002;
    end else if (dude_charisma > 8) then begin
       call Node003;
-   end else if (dude_iq < 4) then begin
+   end else if (dude_iq_talk < 4) then begin
       call Node004;
    end else if (dude_strength > 7) then begin
       call Node005;
