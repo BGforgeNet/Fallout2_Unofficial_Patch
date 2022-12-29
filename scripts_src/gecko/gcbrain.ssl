@@ -457,7 +457,7 @@ procedure Node002 begin
 //save # of times here to determine float
 
    //added by killap
-   set_local_var(LVAR_times_here, local_var(LVAR_times_here_002) + 1);
+   set_local_var(LVAR_times_here_002, local_var(LVAR_times_here_002) + 1);
    if (local_var(LVAR_times_here_002) == 1) then begin
       floater(120);
    end
