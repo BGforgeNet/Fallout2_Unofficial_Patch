@@ -369,7 +369,7 @@ procedure talk_p_proc begin
    else if( ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_SKEEVE_GIVEN_FAKE ) or
             ( global_var( GVAR_VAULT_CITIZEN ) == CITIZEN_GUARD_BELIEVE_FAKE ) ) then
       call Node005;
-   else if( map_var( MVAR_Player_As_Slave ) == SLAVE_SKEEV ) then begin
+   else if( ( map_var( MVAR_Player_As_Slave ) == SLAVE_SKEEV ) and dude_is_stupid ) then begin
       start_gdialog(NAME,self_obj,4,-1,-1);
       gSay_Start;
          call Node035;
