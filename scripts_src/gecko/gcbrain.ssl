@@ -603,21 +603,13 @@ procedure Node013 begin
       Reply(630); //The actions I propose...
       NOption(635,Node030,004);
    end
-
-   //COMMENT OUT BY KILLAP -- lets see what this does
    else if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_REPAIRED) then begin
       Reply(611);
-   /*end
-   if (global_var(GVAR_GECKO_ANKH) != ANKH_GIVEN) then
-      NOption(232,Node016,004);
-   if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_NEED_PART) then//RECENT CHANGE TO FIX BRAIN
-      NOption(234,Node026,004);
-   NOption(233,Node999,004);*/
-
-      giq_option(4, SCRIPT_GCBRAIN, 232, Node016, NEUTRAL_REACTION);
-      giq_option(4, SCRIPT_GCBRAIN, 233, Node999, NEUTRAL_REACTION);
-      if (global_var(GVAR_VAULT_GECKO_PLANT) < 5) then
-         giq_option(4, SCRIPT_GCBRAIN, 234, Node026, NEUTRAL_REACTION);
+      if (global_var(GVAR_GECKO_ANKH) != ANKH_GIVEN) then
+         NOption(232,Node016,004);
+      if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_NEED_PART) then//RECENT CHANGE TO FIX BRAIN
+         NOption(234,Node026,004);
+      NOption(233,Node999,004);
    end
 end
 
