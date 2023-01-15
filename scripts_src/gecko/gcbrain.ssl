@@ -603,7 +603,7 @@ procedure Node013 begin
       Reply(630); //The actions I propose...
       NOption(635,Node030,004);
    end
-   else if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_REPAIRED) then begin
+   else begin
       Reply(611);
       if (global_var(GVAR_GECKO_ANKH) != ANKH_GIVEN) then
          NOption(232,Node016,004);
