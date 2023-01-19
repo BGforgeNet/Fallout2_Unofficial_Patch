@@ -499,14 +499,13 @@ procedure Node003 begin
          Reply(603);
       else
          Reply(600);
-      //NOption(607,Node041,004);
+      NOption(607,Node041,004);
    end
-   else if (global_var(GVAR_VAULT_GECKO_PLANT) == 0) then begin
+   else begin
       Reply(600);
       NOption(604,Node030,004);
+      NOption(610,Node999,004);
    end
-
-   NOption(610,Node999,004);
 end
 
 procedure Node004 begin
