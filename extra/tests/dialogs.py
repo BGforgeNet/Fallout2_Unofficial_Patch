@@ -23,7 +23,7 @@ for script_path in script_paths:
     g_script_messages = []
     with open(script_path) as fscript:
         script_text = fscript.read()
-        lines = re.sub(r"/\*.+\*/", "", script_text, flags=re.DOTALL).split("\n")
+        lines = re.sub(r"/\*.+?\*/", "", script_text, flags=re.DOTALL).split("\n")
         for line in lines:
             if line.lstrip().startswith("//"):
                 continue
