@@ -191,12 +191,11 @@ GVAR_NCR_SCMERK_PERSONAL_ENEMY
    pointers and variables that need not be saved. If a variable
    Needs to be saved, make it a map variable (MVAR_) */
 import variable playerTmpBox;
-import variable playerTmpBox2;  //added by killap
 import variable lenny_obj;
 import variable merk_obj;
 import variable merk_visible;
-import variable merk_guard1_obj; //added by killap
-import variable merk_guard2_obj; //added by killap
+//import variable merk_guard1_obj; //added by killap
+//import variable merk_guard2_obj; //added by killap
 
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once         := 0;
