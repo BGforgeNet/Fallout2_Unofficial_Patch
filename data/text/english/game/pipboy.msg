@@ -897,7 +897,7 @@
 {14066}{}{**END-PAR**}
 {14067}{}{BROKEN HILLS: A mining community to the south of Vault}
 {14068}{}{City that mines uranium ore. The ore is traded to Vault}
-{14069}{}{City in exchange for medical supplies, mostly RadX and}
+{14069}{}{City in exchange for medical supplies, mostly Rad-X and}
 {14070}{}{RadAway. Humans are believed to be forced to live with}
 {14071}{}{mutants and ghouls within the town. Due to the nature}
 {14072}{}{of the inhabitants and the high probability of}
@@ -1113,21 +1113,21 @@
 {20004}{}{**END-PAR**}
 {20005}{}{It is my honor, and happy privilege, to report the near}
 {20006}{}{completion of The Project. After years of work, we've }
-{20007}{}{managed to isolate the most toxic elements of the F.E.V.}
+{20007}{}{managed to isolate the most toxic elements of the FEV}
 {20008}{}{virus. Some of the only recently decoded information}
 {20009}{}{that we retrieved from the abandoned military base on the}
 {20010}{}{mainland has been instrumental in advancing our research.}
 {20011}{}{**END-PAR**}
-{20012}{}{We've discovered that the F.E.V. virus was not originally}
+{20012}{}{We've discovered that the FEV virus was not originally}
 {20013}{}{designed to be used as an agent for the creation of}
-{20014}{}{super-soldiers. Initially, it appears, the F.E.V. was }
-{20015}{}{designed as a virulent toxin. Only later was the F.E.V.}
+{20014}{}{super-soldiers. Initially, it appears, the FEV was }
+{20015}{}{designed as a virulent toxin. Only later was the FEV}
 {20016}{}{virus manipulated in an attempt to create super-soldiers.}
 {20017}{}{**END-PAR**}
 {20018}{}{By backtracking somewhat in our research, and with the}
 {20019}{}{help of the additional information from the military }
 {20020}{}{base's records, we've been able to turn our version of }
-{20021}{}{the F.E.V. (F.E.V. Curling-13) into a far more toxic }
+{20021}{}{the FEV (FEV Curling-13) into a far more toxic }
 {20022}{}{agent.}
 {20023}{}{**END-PAR**}
 {20024}{}{Final tests conducted on the vault-descendant subjects,}
@@ -1139,18 +1139,18 @@
 {20030}{}{one-hour of exposure, with death not occurring, on }
 {20031}{}{average, for another 14.5 hours.}
 {20032}{}{**END-PAR**}
-{20033}{}{In either case, the F.E.V.'s toxicity levels are now }
+{20033}{}{In either case, the FEV's toxicity levels are now }
 {20034}{}{sufficient to insure a "clean-sweep" of all infested }
 {20035}{}{(i.e. non-Enclave) locales. Current releasable levels }
-{20036}{}{of F.E.V. Curling-13 show a 95% probability of .00007%}
+{20036}{}{of FEV Curling-13 show a 95% probability of .00007%}
 {20037}{}{average saturation. While the consensus of the Chemical}
 {20038}{}{Corps is that this would be a sufficient level to insure}
 {20039}{}{the success of the Project, we believe that it is worth}
-{20040}{}{waiting until we can accumulate enough F.E.V. toxin to}
+{20040}{}{waiting until we can accumulate enough FEV toxin to}
 {20041}{}{reach our .0001% saturation and 99.5% extermination }
 {20042}{}{level goal.}
 {20043}{}{**END-PAR**}
-{20044}{}{Current F.E.V. Curling-13 production levels show that}
+{20044}{}{Current FEV Curling-13 production levels show that}
 {20045}{}{we'll reach our release goal, of 250,000 gallons, within}
 {20046}{}{six weeks.}
 {20047}{}{**END-PAR**}

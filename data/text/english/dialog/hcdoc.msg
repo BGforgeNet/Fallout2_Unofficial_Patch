@@ -11,7 +11,7 @@
 {108}{}{What do you do here?}
 {109}{}{Tell me about the town.}
 {110}{}{Any gossip?}
-{111}{}{Just sell me some stimpacks.}
+{111}{}{Just sell me some stimpaks.}
 
 {112}{}{Forget it. Sorry.}
 
@@ -83,9 +83,9 @@ because this is going to cost ::cough:: $200.}
 {157}{}{I'll pay.}
 {158}{}{Forget it.}
 
-{159}{}{Friend, you don't have that kind of money. I can sell you some stimpacks if you like, but with
+{159}{}{Friend, you don't have that kind of money. I can sell you some stimpaks if you like, but with
  the healing you're looking for, you can't afford what I can afford to give you.}
-{160}{}{Give me the stimpacks.}
+{160}{}{Give me the stimpaks.}
 {161}{}{No thanks.}
 
 {162}{}{It's been a pleasure.}

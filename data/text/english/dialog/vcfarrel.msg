@@ -12,7 +12,7 @@
 {109}{}{Vault City prevails, Citizen.}
 {110}{}{A mutant! Guards! Guards!}
 {111}{}{A ghoul! Guards! Guards!}
-{112}{}{Let's see... three stimpacks, one box of Rad-X...}
+{112}{}{Let's see... three stimpaks, one box of Rad-X...}
 {113}{}{Still need to make that inventory list for Officer Randal.}
 {114}{}{Let's see: need to check the stock, list the inventory, check the list, then enter the list
  into the system...}

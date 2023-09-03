@@ -5,7 +5,7 @@
 {104}{}{Owie! Ouch! Owwwwwww!}
 {105}{}{Yeah - I'm hurt and it looks like you're a doctor.}
 {106}{}{Yes. I need a doctor for my friend.}
-{107}{}{Do you have any stimpacks? I'd like to buy some.}
+{107}{}{Do you have any stimpaks? I'd like to buy some.}
 {108}{}{Who are you?}
 {109}{}{I have a friend who's missing a spleen. Can you help him?}
 {110}{}{What can you tell me about this place?}
@@ -43,7 +43,7 @@
 {142}{}{Forget it.}
 
 {158}{}{What? You do not have the money? How do you expect me to survive if you ask me for free healing?}
-{159}{}{Do you have stimpacks?}
+{159}{}{Do you have stimpaks?}
 {160}{}{No thanks.}
 {161}{}{It has been a pleasure doing business with you.}
 {162}{}{Thanks.}

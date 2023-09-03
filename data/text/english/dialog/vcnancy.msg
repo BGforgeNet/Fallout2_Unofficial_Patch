@@ -10,7 +10,7 @@
 {109}{}{Let's see. We have three Servant inoculations scheduled for 1400...}
 {110}{}{All that beeping is driving me crazy...}
 {111}{}{I swear those medical databases are talking amongst themselves...}
-{112}{}{Let's see... three hypodermics, antiseptic, three ampoules of RadX...}
+{112}{}{Let's see... three hypodermics, antiseptic, three ampoules of Rad-X...}
 {113}{}{Better prep Dr. Troy on that seminar for tomorrow...}
 {114}{}{Yeah, they have me working late AGAIN. Mostly making lists.}
 {115}{}{You might want to come back in the morning.}

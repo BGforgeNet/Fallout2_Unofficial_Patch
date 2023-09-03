@@ -29,7 +29,7 @@
 {209}{}{I thought the President was a myth, a boogeyman used to scare children.}
 {210}{}{You look like you've been through hell and back. Relax for a while. You deserve it.}
 {211}{}{You gonna replay the game as a different character? I recommend an Outdoorsman type.}
-{212}{}{F.E.V.? What's that?}
+{212}{}{FEV? What's that?}
 {213}{}{New Reno was designed by Chris Avellone and scripted by Tom French. Tom plays in a band. Chris plays with himself.}
 {214}{}{I hope I get to be a major character in Fallout 3, like Tandi or Ian. Bein' a thug sucks.}
 {215}{}{Heard you busted up that Enclave down South. You're pretty brave.}
