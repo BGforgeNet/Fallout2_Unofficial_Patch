@@ -2,7 +2,7 @@
 {101}{}{Tu vois la personne qui s'occupe du bar.}
 {102}{}{On dirait qu'il a goûté quelques échantillons de ses boissons.}
 {103}{}{Quoi... qui... qu'est-ce que je te sers ? <Hic>}
-{104}{}{Nuka Cola [$6]}
+{104}{}{Nuka-Cola [$6]}
 {105}{}{Bière [$15]}
 {106}{}{Bibine [$30]}
 {107}{}{Rien pour aujourd'hui. Merci.}

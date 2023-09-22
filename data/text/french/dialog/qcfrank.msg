@@ -13,7 +13,7 @@
 {112}{ssa3alt}{T'as été beaucoup trop loin... mais on voit bien que tu n'as encore jamais eu affaire à Frank Horrigan. Ta balade s'arrête ici mutant. C'est l'heure de mourir.}
 {113}{}{Je te passe au nez à la barbe, que ça te plaise ou non.}
 {114}{}{On ne pourrait pas en discuter ?}
-{115}{ssa4a}{Lâcher la toxine F.E.V. dans notre ciel ça n'a rien d'héroïque. Tu n'es qu'un de ces mutants qui mérite qu'on lui fasse la peau.}
+{115}{ssa4a}{Lâcher la toxine FEV dans notre ciel ça n'a rien d'héroïque. Tu n'es qu'un de ces mutants qui mérite qu'on lui fasse la peau.}
 {116}{ssa4b}{Faire fusionner notre réacteur signifie qu'il va bientôt faire très chaud ici. Dommage que tu n'aies plus longtemps à vivre pour voir ça. Tu n'as rien d'héroïque, tu n'es qu'un mort-vivant.}
 {117}{}{Tu causes, tu causes ! Mais tout ça, c'est du vent !}
 {118}{}{Attends une minute ! Attends, on pourrait discuter ?}

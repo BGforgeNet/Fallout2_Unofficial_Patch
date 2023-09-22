@@ -49,13 +49,13 @@
 {401}{}{Voyons... J'ai des nausées... des palpitations... de la fièvre. C'est sûrement un empoisonnement.}
 {402}{}{Oh... je ne... vais... plus... tenir... longtemps... le poison... se répand...}
 {403}{}{Quelqu'un pourrait-il me sucer ce poison ?}
-{410}{}{Is that me glowing? Give me some Rad-X next time we dick around in radiation zones, okay?}
-{411}{}{I need some RadAway before the radiation eats my Gnads-away.}
+{410}{}{Est-ce moi qui rayonne comme ça ? Donne-moi du Rad-X la prochaine fois qu'on ira dans des zones irradiées, Ok ?}
+{411}{}{J'ai besoin d'Anti-Rad avant que les radiations me rongent les gonades.}
 {412}{}{Pourquoi on boit pas directement de la substance collante radioactive la prochaine fois ? Au moins, on mourra plus vite !}
 {413}{}{Je pourrais fournir assez d'énergie à tout New Reno avec les radiations de mon corps. Tu veux voir ma prise ?}
-{414}{}{I'm glowing brighter than New Reno at midnight. Anybody got some RadAway?}
+{414}{}{Je brille plus que New Reno à minuit. Quelqu'un aurait-il de l'Anti-Rad ?}
 {415}{}{Super. Une petite irradiation et je ressemble à un néon humain.}
-{416}{}{Somebody let me hold the RadAway. I won't use all of it. I promise.}
+{416}{}{Que quelqu'un me donne de l'Anti-Rad. J'en laisserai un peu, je le promets.}
 {425}{}{Pourquoi ne retournons-nous pas au premier niveau du donjon où se trouvent tous les kobolds ?}
 {426}{}{Heureusement que j'ai appris à faire preuve de courage en jouant à D&D toutes ces années.}
 {427}{}{Passe-moi le Buffout. Je sens que je vais bientôt en avoir besoin.}

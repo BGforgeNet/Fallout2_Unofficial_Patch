@@ -169,7 +169,7 @@
 {1001}{}{Folie Furieuse !}
 {1002}{}{Champion}
 {1003}{}{Tueur d'enfants}
-{1004}{}{Nuka Cola addiction}
+{1004}{}{Nuka-Cola addiction}
 {1005}{}{Buffout addiction}
 {1006}{}{Mentats addiction}
 {1007}{}{Psycho addiction}
@@ -199,7 +199,7 @@
 {1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
 {1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
 {1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
+{1108}{}{Ton corps est devenu dépendant de l'Anti-Rad. Bien que ta vie ne soit pas en danger, tu dois en prendre régulièrement.}
 {1109}{}{Tu as un problème avec la bouteille. Et ton alcoolisme entraîne beaucoup d'autres problèmes.}
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
 {1111}{}{C'est tragique, tu es accro au jeu de cartes Tragic. Tu es constamment à la recherche de nouvelles cartes.}

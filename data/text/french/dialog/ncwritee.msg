@@ -21,7 +21,7 @@
 {209}{}{J'croyais que le Président était un mythe, un monstre qui servait à faire peur aux enfants.}
 {210}{}{On dirait que t'as traversé l'enfer et que t'en es revenu. Détends-toi un moment. Tu le mérites.}
 {211}{}{Tu vas rejouer au jeu avec un différent personnage ? Je te recommande la caractéristique *survie en plein air*.}
-{212}{}{F.E.V. ? Qu'est-ce que c'est que ça ?}
+{212}{}{FEV ? Qu'est-ce que c'est que ça ?}
 {213}{}{New Reno a été conçue par Chris Avellone et scriptée par Tom French. Tom joue dans un groupe. Chris joue en solo.}
 {214}{}{J'espère devenir le personnage principal dans Fallout 3, comme Tandi ou Ian. Ca craint d'être un voyou.}
 {215}{}{J'ai entendu dire que t'as cramé l'Enclave au Sud. T'es pas mal courageux.}

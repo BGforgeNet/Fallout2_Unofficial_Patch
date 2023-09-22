@@ -27,7 +27,7 @@
 {230}{}{[Cody continue à te fixer.]}
 {231}{}{Hé, tu vas bien, Cody ?}
 {239}{}{Bon, à plus tard, Cody. Fais attention.}
-{251}{}{Hé, Cody. Tu veux du Nuka Cola ?}
+{251}{}{Hé, Cody. Tu veux du Nuka-Cola ?}
 {252}{}{Un petit verre, gamin ? Jamais trop tôt pour commencer, comme disait Maman. Enfin, quand elle était sobre.}
 {253}{}{J'ai un peu de Jet, Cody. Tu veux planer avec Tonton }
 {254}{}{J'ai un peu de Jet, Cody. Tu veux planer avec Tatie }

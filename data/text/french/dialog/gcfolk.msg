@@ -92,7 +92,7 @@
 {280}{}{Je t'aime bien, tu sais.}
 {281}{}{Tu es formidable.}
 {282}{}{Qu'on atomise la Cité de l'Abri jusqu'à ce qu'elle rayonne !}
-{283}{}{./~ 99 syringes of Rad-away on the wall, 99 syringes... /~}
+{283}{}{~ 99 seringues d'Anti-Rad sur le mur, 99 seringues... ~}
 {284}{}{~ J'ai toujours travaillé sur le réacteur, toute ma vie... ~}
 {285}{}{Avant de te connaître, je n'aurais jamais fait confiance à un Peaudouce.}
 {286}{}{Tous les Peaudouces ne sont pas mauvais finalement.}

@@ -102,7 +102,7 @@
 {201}{}{D'accord, maintenant je vois où vous l'avez trouvé mais ça sert à quoi ?}
 {202}{}{A l'origine, le FEV a été conçu comme un virus pour produire des SuperSoldats. Cette expérience a complètement échoué bien que j'aie réussi à appliquer une variante modifiée sur l'un de nos agents des services secrets.}
 {203}{}{Super, mais quel rapport avec tes projets d'extermination ?}
-{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
+{204}{}{Oh, oui, eh bien j'allais justement y venir.... Le virus FEV est lié à une espèce, il ne peut se lier qu'aux glycoprotéines humaines. Il n'a fallu que quelques années pour rendre le virus FEV encore plus dévastateur. Le résultat correspondait exactement aux attentes du docteur, parfait. }
 {205}{}{Parfait ? Dans quel sens ?}
 {206}{}{Tu ne vois donc pas, mutant ? Le FEV est, grâce à moi, une toxine mortelle et grâce à un génie mystérieux appelé, plutôt théâtralement, le Maître, il n'a d'effets que sur les humains, mutants ou non.}
 {207}{}{Et alors ?}
