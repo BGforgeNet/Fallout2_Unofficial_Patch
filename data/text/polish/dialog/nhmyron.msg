@@ -345,7 +345,7 @@
 {1126}{}{Potrafisz sporządzać jeszcze jakieś prochy?}
 {1127}{}{Skoro potrafisz robić stimpaki, to może poradzisz sobie z superstimpakami?}
 {1128}{}{Dobrze. Mam kilka pytań...}
-{1135}{myn152}{Oczywiście, że bym mógł... tylko potrzebuję odpowiednich składników. Trochę tych zmutowanych owoców... setka Nuka Coli... i normalnego stimpaka.}
+{1135}{myn152}{Oczywiście, że bym mógł... tylko potrzebuję odpowiednich składników. Trochę tych zmutowanych owoców... setka Nuka-Coli... i normalnego stimpaka.}
 {1145}{myn153a}{Powtarzaj za mną: Myron to geniusz. Ile sztuk potrzebujesz?}
 {1146}{myn153b}{Mówię ci: nie pakuj się w kłopoty - nie będziesz potrzebować stimpaków. Ile sztuk potrzebujesz tym razem?}
 {1147}{myn153c}{Na kłopoty - Myron, ślicznotko. Ile sztuk?}

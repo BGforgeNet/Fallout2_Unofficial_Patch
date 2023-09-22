@@ -35,15 +35,15 @@
 {266}{}{Vamos encontrar algumas mulheres nesse galinheiro.}
 {267}{}{Podemos ir a algum lugar onde tenham mais mulheres?}
 {268}{}{Você deveria estar feliz por eu estar com você para apontar todos os seus erros estúpidos.}
-{375}{}{Ei, estou morrendo aqui! Me dê um stimpack já!}
+{375}{}{Ei, estou morrendo aqui! Me dê um stimpak já!}
 {376}{}{Este é o meu sangue?}
 {377}{}{Médico!}
 {378}{}{Owwwww. Porra! Owwwww, isso dói!}
 {379}{}{Ai! Que esperteza!}
 {380}{}{Owwwwwwww Owwwww Ow. Ow. Ow?}
 {381}{}{Owwww. Gostaria que ALGUÉM curasse esses machucados.}
-{390}{}{Me dê essa merda de stimpack antes que eu desmaie!}
-{391}{}{Me dê um stimpack logo! Vou entrar em choque!}
+{390}{}{Me dê essa merda de stimpak antes que eu desmaie!}
+{391}{}{Me dê um stimpak logo! Vou entrar em choque!}
 {392}{}{Alguém me dê uns primeiros socorros, rápido! Estou morrendo aqui!}
 {400}{}{Nossa... estou me sentindo um meio fraco...}
 {401}{}{Vejamos... tenho náuseas... palpitações... febre. Isso é provavelmente veneno.}
@@ -84,7 +84,7 @@
 {466}{}{Nada como um regime rigoroso de drogas para manter minha mente ágil.}
 {467}{}{Isso não significa que somos casados, não é?}
 {468}{}{Tem alguma erva?}
-{469}{}{Deixe eu levar os stimpacks, ok?}
+{469}{}{Deixe eu levar os stimpaks, ok?}
 {470}{}{Ahhhhhhhhh.}
 {471}{}{Ooooooohhh. Aaaaaaaah. Mmmmmm.}
 {472}{}{Eu adoro quando você faz isso.}
@@ -128,11 +128,11 @@
 {554}{}{Eu estava aqui primeiro. Mas vamos fazer do seu jeito.}
 {560}{}{Não precisa me dizer duas vezes.}
 {561}{}{Eu poderia usar um pouco de cura feminina, entende?}
-{562}{}{Ahhhhhh. Ainda bem que os stimpacks não são muito viciantes.}
-{563}{}{Oooh, sim. Ainda bem que os stimpacks não são muito viciantes.}
+{562}{}{Ahhhhhh. Ainda bem que os stimpaks não são muito viciantes.}
+{563}{}{Oooh, sim. Ainda bem que os stimpaks não são muito viciantes.}
 {570}{}{Não me injete com essa merda. Eu estou bem, ok?}
 {571}{}{Pare de ficar me mimando, eu estou bem.}
-{572}{}{Ei, não se preocupe, estou bem. Mas pode me deixar levar os stimpacks.}
+{572}{}{Ei, não se preocupe, estou bem. Mas pode me deixar levar os stimpaks.}
 {580}{}{Ei, deixe que eu o acompanho novamente! Vamos lá!}
 {581}{}{Me desculpe, eu estava sendo tão idiota. Me dê outra chance.}
 {582}{}{Estou ficando cansado de ficar te esperando.}
@@ -312,8 +312,8 @@
 {1036}{myn143b}{Ei, não se cansa, hein? Do que você precisa?}
 {1037}{}{Um antídoto para veneno de radscorpion.}
 {1038}{}{Algum jet.}
-{1039}{}{Alguns stimpacks.}
-{1040}{}{Pode me fazer uns super stimpacks?}
+{1039}{}{Alguns stimpaks.}
+{1040}{}{Pode me fazer uns super stimpaks?}
 {1041}{}{Nada não. Eu tenho outras perguntas...}
 {1042}{}{Deixa pra lá.}
 {1050}{myn145a}{Uhm, eu vou precisar de alguns sacos de veneno de radscorpion primeiro. Irônico, né?}
@@ -339,19 +339,19 @@
 {1105}{myn149a}{Pedaço de bolo. Quantos pacotes você quer?}
 {1106}{myn149b}{Ei, gênio. Já te passou pela sua cabeça que pode ser mais fácil ficar longe de problemas, eh? Certo, quantos?}
 {1107}{myn149c}{Apenas me diga quantos e onde você quer, linda.}
-{1111}{}{Faça o máximo de stimpacks que puder com o que temos disponivel.}
-{1113}{}{Pode me fazer uns super stimpacks?}
+{1111}{}{Faça o máximo de stimpaks que puder com o que temos disponivel.}
+{1113}{}{Pode me fazer uns super stimpaks?}
 {1114}{}{Esqueça. eu tinha algumas perguntas...}
-{1125}{myn151}{Desculpe, mas não temos o que preciso para preparar um stimpack. Vejamos: você vai precisar de um pouco de raiz de xander... um pouco de flor de broc... e uma hipodermica vazia.}
+{1125}{myn151}{Desculpe, mas não temos o que preciso para preparar um stimpak. Vejamos: você vai precisar de um pouco de raiz de xander... um pouco de flor de broc... e uma hipodermica vazia.}
 {1126}{}{Você pode fazer algumas outras drogas?}
-{1127}{}{Se você pode fazer stimpacks, não poderia fazer alguns super stimpacks?}
+{1127}{}{Se você pode fazer stimpaks, não poderia fazer alguns super stimpaks?}
 {1128}{}{Tudo bem então. eu tinha algumas perguntas...}
-{1135}{myn152}{Claro que poderia... só que não temos o que é preciso. Um pouco daquela fruta mutante para o ácido cítrico... um tiquinho de Nuka Cola... e um pacote de stimpacks normais.}
+{1135}{myn152}{Claro que poderia... só que não temos o que é preciso. Um pouco daquela fruta mutante para o ácido cítrico... um tiquinho de Nuka-Cola... e um pacote de stimpaks normais.}
 {1145}{myn153a}{Repita comigo: Myron é um gênio. Quantos precisa?}
 {1146}{myn153b}{Que tal: fique-fora-de-problemas? Ah, tanto faz, muito difícil pra voce. Quantos desta vez?}
 {1147}{myn153c}{Myron é o seu homem, linda. Quantos?}
 {1149}{}{Me de dois.}
-{1151}{}{Faça o máximo de stimpacks que puder com o que temos disponivel.}
+{1151}{}{Faça o máximo de stimpaks que puder com o que temos disponivel.}
 {1170}{myn201a}{Quem é você e como conseguir entrar aqui? Onde estão aqueles guardas idiotas?}
 {1171}{myn201b}{Ora, olaaaaaa, linda. O que Myron pode fazer por... uaaau... por você?}
 {1172}{}{Bom. Nuh-uh.}
@@ -571,7 +571,7 @@
 {1736}{}{Você é meio estranho... gostei.}
 {1745}{myrn104a}{Pare de me mimar.}
 {1746}{myn104b}{Owww! Machuca! Doeu - oh, isso. Não. Não, estou bem. Dói um pouco.}
-{1747}{myn104c}{Estou morrendo aqui! Me de um stimpack. Ou dois, ou três.}
+{1747}{myn104c}{Estou morrendo aqui! Me de um stimpak. Ou dois, ou três.}
 {1748}{myn104d}{É você? Não consigo... ver... perdendo... a consciência. *Tosse* *Tosse* Me ajude...}
 {1749}{}{Hmmmm. Cure novamente.}
 {1753}{}{Me de um pouco de distância, Myron.}

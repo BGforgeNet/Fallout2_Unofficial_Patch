@@ -27,7 +27,7 @@
 {230}{}{(Cody nadal się na ciebie gapi.)}
 {231}{}{Uch, wszystko w porządku Cody?}
 {239}{}{No, na razie, Cody. Trzym się.}
-{251}{}{Hej, Cody. Chcesz trochę nuka coli?}
+{251}{}{Hej, Cody. Chcesz trochę Nuka-Coli?}
 {252}{}{Chcesz bimbru? Moja mama zawsze mówiła, że nigdy nie jest za wcześnie, żeby zacząć. Uch, to znaczy, tak mówiła, kiedy była trzeźwa.}
 {253}{}{Mam tu trochę Jetu. Chcesz? Wujek }
 {254}{}{Mam tu trochę Jetu. Chcesz? Cioca }

@@ -2,7 +2,7 @@
 {101}{}{Você vê a festa de bartender.}
 {102}{}{Parece que ele está avaliando algumas de suas mercadorias.}
 {103}{}{Wha ... whas ... o que eu consigo. [Caipira.]}
-{104}{}{Nuka Cola [$6]}
+{104}{}{Nuka-Cola [$6]}
 {105}{}{Cerveja [$15]}
 {106}{}{Bebida [$30]}
 {107}{}{Nada hoje. Obrigado.}

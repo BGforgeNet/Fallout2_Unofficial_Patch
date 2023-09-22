@@ -28,7 +28,7 @@
 {230}{}{(Cody continua a olhar para você.)}
 {231}{}{Uh, você está bem, Cody?}
 {239}{}{Bem, até logo, Cody. Tome cuidado.}
-{251}{}{Eai, Cody. Quer uma nuka cola?}
+{251}{}{Eai, Cody. Quer uma Nuka-Cola?}
 {252}{}{Quer uma cerveja, garoto? Nunca se é jovem demais para começar, mamãe costumava dizer. Uh, quando ela estava sóbria, claro.}
 {253}{}{Tenho Jet aqui, Cody. Você quer voar alto com o tio }
 {254}{}{Tenho Jet aqui, Cody. Você quer voar alto com a tia }

@@ -162,7 +162,7 @@
  fabricando drogas. Suas maneiras e linguagem também deixam MUITO a desejar.}
 {233}{}{Fale-me sobre isso.}
 {234}{}{Você deveria se conter um pouco, doutor. Um pouquinho de droga não machuca ninguém. Bem, exceto pelos
- super stimpacks... e peloos Buffouts... e pelos Psychos. Na verdade, deixa pra lá... Tchau.}
+ super stimpaks... e peloos Buffouts... e pelos Psychos. Na verdade, deixa pra lá... Tchau.}
 {235}{}{Deixa pra lá.}
 {236}{}{Sim, eu posso te pagar mil dólares por uma amostra... e pelo seu silêncio.}
 {237}{}{Eu tenho uma amostra de Jet bem aqui.}
@@ -307,7 +307,7 @@
 {352}{}{Bem, de qualquer forma obrigado.}
 {353}{}{Bem, agradeço mesmo assim. Talvez eu ache outra pessoa que possa realizar a operação.}
 {354}{}{Desculpe. As instalações são apenas para Citizens e uma lista de todos os pacientes é mantida na
- database... [Abaixa a voz.] Entretanto, os simpacks nos armários de suprimento no último andar não iriam se perder
+ database... [Abaixa a voz.] Entretanto, os stimpaks nos armários de suprimento no último andar não iriam se perder
  se você os pegasse para um bom uso.}
 {355}{}{Hmmm. Certo, eu tenho outras perguntas...}
 {356}{}{Vou procurar por eles então.}

@@ -58,7 +58,7 @@
 {157}{}{O Conselheiro McClure disse que você teria um regulador hidroelétrico de magnetosfera em estoque que eu poderia ter.}
 {158}{}{A Primeira Cidadã me enviou aqui para reivindicar minha recompensa.}
 {159}{}{Nada hoje, na verdade.}
-{160}{}{Este é o Gabinete de Serviços. Tem o estoque típico... necessidades básicas de vida, alguns livros, manuais de "como fazer", algumas ferramentas, stimpacks, suprimentos médicos, isso e aquilo.}
+{160}{}{Este é o Gabinete de Serviços. Tem o estoque típico... necessidades básicas de vida, alguns livros, manuais de "como fazer", algumas ferramentas, stimpaks, suprimentos médicos, isso e aquilo.}
 {161}{}{Parece bom. Posso ver o que você tem em estoque?}
 {162}{}{Você tem um GECK?}
 {163}{}{Valerie no galpão de manutenção precisa de uma chave nova e um alicate.}

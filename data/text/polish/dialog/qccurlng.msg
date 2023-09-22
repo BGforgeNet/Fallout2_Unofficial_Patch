@@ -57,7 +57,7 @@
 {156}{}{Nie, nie całkiem. Jesteście odmieńcami, a to was wyklucza. Wasze DNA różni się znacznie od naszego. Nieszczęśliwy efekt silnego promieniowania, jak sądzę.}
 {157}{}{I co z tego, że nasze DNA jest odrobinę inne?}
 {158}{}{Nie do końca pana zrozumiałem, ale te zmiany chyba nie są aż tak poważne?}
-{159}{}{Och, zmiany w waszym DNA nie są *drobne*. Są naprawdę poważne. Gdyby nie to, że ludzie kierujący Projektem dali mi tak mało czasu, chętnie przeprowadziłbym mnóstwo testów, by dokładnie przestudiować zmiany, jakich F.E.V. dokonał w waszych organizmach. Doprawdy fascynujące.}
+{159}{}{Och, zmiany w waszym DNA nie są *drobne*. Są naprawdę poważne. Gdyby nie to, że ludzie kierujący Projektem dali mi tak mało czasu, chętnie przeprowadziłbym mnóstwo testów, by dokładnie przestudiować zmiany, jakich FEV dokonał w waszych organizmach. Doprawdy fascynujące.}
 {160}{}{Czego chciałeś się dowiedzieć?}
 {161}{}{Pod jakimi względami nasze DNA jest odmienne?}
 {162}{}{Prowadzisz testy na moim ludzie?}
@@ -92,27 +92,27 @@
 {191}{}{Twój gatunek nie jest po prostu w stanie zrozumieć tego, co usiłuję ci przekazać. To beznadziejne. Lepiej już odejdź.}
 {192}{}{No cóż, moje próby zawiodły. Czas umierać, fanatyku.}
 {193}{}{W porządku, idę. Jeden z nas ma przerypane - i to nie jestem ja. Żegnam.}
-{194}{}{Toksykologiczne badania nad efektywnością toksyny F.E.V. tak.}
-{195}{}{Toksyna F.E.V.? Co to takiego?}
+{194}{}{Toksykologiczne badania nad efektywnością toksyny FEV tak.}
+{195}{}{Toksyna FEV? Co to takiego?}
 {196}{}{Mogę cię zapytać o coś jeszcze?}
-{197}{}{Toksyna F.E.V. to idealne rozwiązanie wszystkich naszych problemów.}
-{198}{}{Czym jest toksyna F.E.V.?}
+{197}{}{Toksyna FEV to idealne rozwiązanie wszystkich naszych problemów.}
+{198}{}{Czym jest toksyna FEV?}
 {199}{}{Chwileczkę. Pozwól, że zapytam o coś innego.}
-{200}{}{Jeden z naszych patroli odnalazł wyniki badań i kilka próbek wirusa F.E.V. w dawnej bazie wojskowej - obecnie prawie całkowicie zniszczonej.}
+{200}{}{Jeden z naszych patroli odnalazł wyniki badań i kilka próbek wirusa FEV w dawnej bazie wojskowej - obecnie prawie całkowicie zniszczonej.}
 {201}{}{Tak, wiem dobrze gdzie to znaleźliście, ale co to robi?}
-{202}{}{F.E.V. został zaprojektowany jako wirus mający za zadanie zmieniać zwykłych ludzi w super-żołnierzy. Tamten eksperyment zakończył się fiaskiem. Pomimo to dokonałem pewnych modyfikacji i w tej postaci przetestowałem na jednym z naszych agentów - odniosłem nawet częściowy sukces.}
+{202}{}{FEV został zaprojektowany jako wirus mający za zadanie zmieniać zwykłych ludzi w super-żołnierzy. Tamten eksperyment zakończył się fiaskiem. Pomimo to dokonałem pewnych modyfikacji i w tej postaci przetestowałem na jednym z naszych agentów - odniosłem nawet częściowy sukces.}
 {203}{}{Brawo, ale jaki to ma związek z planami eksterminacji kogokolwiek?}
-{204}{}{Ach tak, cóż, właśnie do tego przechodziłem... Wiązanie wirusa F.E.V. jest bardzo specyficzne, powiązuje się tylko z ludzkimi glikoproteinami. Potrzbowałem tylko kilku lat, aby uczynić F.E.V bardziej zabójczym, niż był do tej pory. Rezultat był perfekcyjny w każdym calu.}
+{204}{}{Ach tak, cóż, właśnie do tego przechodziłem... Wiązanie wirusa FEV jest bardzo specyficzne, powiązuje się tylko z ludzkimi glikoproteinami. Potrzbowałem tylko kilku lat, aby uczynić FEV bardziej zabójczym, niż był do tej pory. Rezultat był perfekcyjny w każdym calu.}
 {205}{}{Perfekcyjny? Jak to?}
-{206}{}{Czy to nie oczywiste, mój zmutowany przyjacielu? F.E.V, dzięki mnie, jest śmiertelną trucizną, a dzięki jakiemuś tajemniczemu geniuszowi, nazywającemu się, raczej dramatycznie, Mistrzem, działa tylko na ludzi, zmutowanych lub nie.}
+{206}{}{Czy to nie oczywiste, mój zmutowany przyjacielu? FEV, dzięki mnie, jest śmiertelną trucizną, a dzięki jakiemuś tajemniczemu geniuszowi, nazywającemu się, raczej dramatycznie, Mistrzem, działa tylko na ludzi, zmutowanych lub nie.}
 {207}{}{I co z tego?}
 {208}{}{To znaczy, że mamy doskonałą maszynkę do oczyszczania dla wszystkich prawie ludzkich mutantów infekujących Ziemię. }
 {209}{}{Wciąż nie rozumiem, jak to może być *doskonałe*.}
 {210}{}{Muszę cię spytać o jakieś inne twoje szalone pomysły.}
-{211}{}{Toksyna F.E.V. zaatakuje tylko ludzi, pozostawiając wszystko inne żywe, a nawet lepiej, w ciągu miesiąca wszystkie mutanty będą już martwe, a F.E.V. zniknie, jak tylko zabraknie dla niego nosicieli. }
+{211}{}{Toksyna FEV zaatakuje tylko ludzi, pozostawiając wszystko inne żywe, a nawet lepiej, w ciągu miesiąca wszystkie mutanty będą już martwe, a FEV zniknie, jak tylko zabraknie dla niego nosicieli. }
 {212}{}{Nie może przecież tutaj być wystarczająco lataczy, aby rozprzestrzenić toksynę na cały świat.}
 {213}{}{Za chwilę staniesz się nosicielem wysokoenergetycznych pocisków. Zmów paciorek.}
-{214}{}{Masz rację, nie ma. Ale nie potrzebujemy ich. Mamy system wyprowadzania, który rozpyli F.E.V. prosto z kadzi do atmosfery. Prądy powietrzne zrobią już resztę. Globalne nasycenie nastąpi w ciągu dwóch tygodni.}
+{214}{}{Masz rację, nie ma. Ale nie potrzebujemy ich. Mamy system wyprowadzania, który rozpyli FEV prosto z kadzi do atmosfery. Prądy powietrzne zrobią już resztę. Globalne nasycenie nastąpi w ciągu dwóch tygodni.}
 {215}{}{Dwóch tygodni?}
 {216}{}{Tak, dwa tygodnie dla rozprzestrzenienia się wirusa, kolejny miesiąc na dokonanie swojego dzieła i Stany Zjednoczone będą gotowe na ponowną kolonizację przez prawdziwych ludzi. Nasza rasa zostanie ocalona.}
 {217}{}{Naprawdę sądzisz, że czynisz dobrze, co?}
@@ -134,10 +134,10 @@
 {233}{}{Bardziej drastycznego? To znaczy?}
 {234}{}{Enklawa musi zostać zniszczona. Zniszczona całkowicie. Jeżeli nie, to w końcu i tak się pozbieramy i zaczniemy od początku gdzie indziej.}
 {235}{}{Przykro mi to słyszeć. Ee, doktorze, jaką metodę sugerujesz do zniszczenia Enklawy?}
-{236}{}{Sądzę, że najlepszym sposobem byłoby po prostu wypuszczenie toksyny F.E.V do systemu filtracji powietrza. Ponieważ Enklawa jest zamkniętym systemem, to powinno załatwić sprawę.}
+{236}{}{Sądzę, że najlepszym sposobem byłoby po prostu wypuszczenie toksyny FEV do systemu filtracji powietrza. Ponieważ Enklawa jest zamkniętym systemem, to powinno załatwić sprawę.}
 {237}{}{A co z ludźmi z mojej wioski? Albo ze mną? Albo z tobą, jeżeli o to chodzi?}
 {238}{}{Mogę wypuścić antidotum do systemu wentylacji dla wszystkich cel. Więzienie jest obsługiwane przez osobny system wentylacyjny od całej reszty Enklawy. Wszyscy pomyślą, że po prostu przeprowadzam kolejny test. Zaś ciebie mogę zaszczepić bezpośrednio, tu i teraz. (sięga do ciebie ze strzykawką)}
-{239}{}{Aj, dzięki, doktorze. Co się stanie, gdy toksyna F.E.V. zostanie wypuszczona?}
+{239}{}{Aj, dzięki, doktorze. Co się stanie, gdy toksyna FEV zostanie wypuszczona?}
 {240}{}{Hej, chwila, nie będziesz mi tu tego wtykał!}
 {241}{}{To nie będzie piękny widok. Opuść ten teren tak szybko, jak tylko będzie to możliwe. Ale wolę mieć tysiąc na sumieniu, niż kilkaset tysięcy. Nasz czas jest już tu skończony. Mieliśmy naszą szansę.}
 {242}{}{Jak mogę uwolnić moich ludzi z oddziału zamkniętego?}
@@ -158,7 +158,7 @@
 {257}{}{Nie masz na to czasu!}
 {258}{}{Idź, gdy jeszcze możesz!}
 {259}{}{Czy nie rozumiesz? Bez tego umrzesz w ciągu kilku godzin.}
-{260}{}{Ach, cóż, jeżeli tak się mają sprawy. Wbijaj, doktorze. A co się stanie, gdy toksyna F.E.V. zostanie wypuszczona?}
+{260}{}{Ach, cóż, jeżeli tak się mają sprawy. Wbijaj, doktorze. A co się stanie, gdy toksyna FEV zostanie wypuszczona?}
 {261}{}{Żadnych igieł, w żadnym wypadku. Zaryzykuję.}
 {262}{}{Nigdy nie uda ci się uwolnić swoich ludzi, chyba że cię zaszczepię. Co z tobą? Obawiasz się małego ukłucia?}
-{263}{}{Nie, chyba nie. Tak długo, jak nie będę oglądać, jak to robisz. Ał! A więc co się stanie, gdy wypuścisz już toksynę F.E.V.?}
+{263}{}{Nie, chyba nie. Tak długo, jak nie będę oglądać, jak to robisz. Ał! A więc co się stanie, gdy wypuścisz już toksynę FEV?}

@@ -55,7 +55,7 @@
 {155}{}{Viciado em buffout}
 {156}{}{Viciado em Mentats}
 {157}{}{Viciado em Psycho}
-{158}{}{Viciado em Radaway}
+{158}{}{Viciado em RadAway}
 {159}{}{Arma de longo alcance}
 {160}{}{Precisao da arma}
 {161}{}{Penetracao da arma}

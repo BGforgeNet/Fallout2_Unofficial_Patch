@@ -21,7 +21,7 @@
 {209}{}{Achei que o presidente era um mito, um bicho papão usado para assustar as crianças.}
 {210}{}{Parece que você visitou o inferno e voltou. Relaxe um pouco, você merece isso.}
 {211}{}{Você vai jogar de novo com um personagem diferente? Eu recomendo um do tipo sobrevivente.}
-{212}{}{F.E.V.? O que é isso?}
+{212}{}{FEV? O que é isso?}
 {213}{}{New Reno foi desenhada por Chris Avellone e roteirizado por Tom French. Tom toca em uma banda. Chris toca sozinho mesmo.}
 {214}{}{Queria ser um personagem importante em Fallout 3, como Tandi ou Ian. Ser bandido é uma merda. Menos no Brasil, lá você vira presidente.}
 {215}{}{Ouvi dizer que você destruiu aquela Enclave no sul. Você é bem corajoso.}

@@ -10,7 +10,7 @@
 {108}{}{O que você faz aqui?}
 {109}{}{Me conte sobre a cidade.}
 {110}{}{Alguma fofoca?}
-{111}{}{Preciso que me venda alguns stimpacks.}
+{111}{}{Preciso que me venda alguns stimpaks.}
 {112}{}{Esqueça, desculpe.}
 {113}{}{Deixe-me dar uma olhada nisso. Eu posso te curar, mas vai custar algo.}
 {114}{}{Quanto?}
@@ -65,9 +65,9 @@
  vai precisar de $300.}
 {157}{}{Eu vou pagar.}
 {158}{}{Esqueça.}
-{159}{}{Amigo, você não tem esse dinheiro. Posso te vender alguns stimpacks se quiser, mas esse tipo
+{159}{}{Amigo, você não tem esse dinheiro. Posso te vender alguns stimpaks se quiser, mas esse tipo
  de cura que você está procurando não da para pagar com o que eu posso te oferecer.}
-{160}{}{Me dê uns stimpacks.}
+{160}{}{Me dê uns stimpaks.}
 {161}{}{Não, obrigado.}
 {162}{}{Foi um prazer.}
 {163}{}{Obrigado.}

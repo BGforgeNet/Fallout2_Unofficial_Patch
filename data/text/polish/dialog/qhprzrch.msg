@@ -8,7 +8,7 @@
 {107}{}{Nuch.}
 {108}{}{Pa pa.}
 {109}{prs2a}{Ach, testowane serum tak na ciebie wpłynęło, rozumiem. Hmm, sprowadzę dla ciebie pomoc. Straże!}
-{110}{prs2b}{Chyba wystawiono cię na działanie F.E.V. Biedna duszyczko, sprowadzę ci jakąś pomoc. Straże!}
+{110}{prs2b}{Chyba wystawiono cię na działanie FEV. Biedna duszyczko, sprowadzę ci jakąś pomoc. Straże!}
 {111}{prs2c}{Bądź dobrym mutantem i zostań na swoim miejscu. Straże!}
 {112}{}{W porządku.}
 {113}{}{Y y. Pa pa.}
@@ -99,7 +99,7 @@
 {198}{}{Ta, wiem o tym okresie. Przejdź dalej.}
 {199}{prs26}{Wiceprezydent Bird może wyglądać jak podskakujący idiota, ale musisz wiedzieć, że ten człowiek to bohater narodowy.}
 {200}{}{Dla ciebie pewnie tak.}
-{201}{prs27}{Jest jednym z najodważniejszych ludzi, jakich znam. Zgłosił się na ochotnika, aby wypróbować jedną z wcześniejszych wersji antidotum na toksynę F.E.V. (wzdycha) Niestety, nie zadziałała dokładnie tak, jak tego chcieliśmy.}
+{201}{prs27}{Jest jednym z najodważniejszych ludzi, jakich znam. Zgłosił się na ochotnika, aby wypróbować jedną z wcześniejszych wersji antidotum na toksynę FEV. (wzdycha) Niestety, nie zadziałała dokładnie tak, jak tego chcieliśmy.}
 {202}{}{To znaczy, to nie było to, czego się spodziewaliście?}
 {203}{prs28}{To takie małe, śmieszne móżdżki jak twój ukazują wyższość prawdziwych ludzi nad mutantami.}
 {204}{}{Ale on wciąż jest gadającym brednie idiotą.}
@@ -140,7 +140,7 @@
 {239}{}{Oczyszczenie z mutantów? To brzmi nieco drastycznie. Jak chcecie to zrobić?}
 {240}{prs41}{Odnaleźliśmy kompleks badawczy w działającym stanie sprzed około 70 lat. Była baza wojskowa, której użyto do badań nad specjalnym wirusem.}
 {241}{}{Wirusem?}
-{242}{prs42}{Tak, wirusem F.E.V. Początkowo został on stworzony do zamieniania żołnierzy w super wojowników, ale to się nie udało. Wojownicy byli twardzi i silni, ale o wiele za głupi. Jednakże nasz genialny Oddział Chemiczny zmienił go.}
+{242}{prs42}{Yes, the FEV virus. It was originally developed to turn soldiers into super-warriors but it failed. The warriors were tough and strong, but far too stupid. However, our brilliant Chemical Corps altered it.}
 {243}{}{Zmienił wirusa? Dlaczego?}
 {244}{prs43}{Aby zamienić go w niewyobrażalnie efektywnego zabójcę. Jakikolwiek humanoid, który nie zostanie wcześniej zaszczepiony przeciwko jego działaniu, zostanie zabity. Oto Projekt.}
 {245}{}{To szaleństwo.}
@@ -154,9 +154,9 @@
 {253}{}{Dlaczego?}
 {254}{prs46b}{Niektórzy z członków twojego plemienia wykazują ogromnie interesujące zmiany. Gdyby niebezpieczeństwo dla prawdziwego człowieczeństwa nie było tak duże, pomyślałbym o przestudiowaniu ich. Ale nie to ma się stać.}
 {255}{}{Nie to ma się stać? Dlaczego nie?}
-{256}{prs47}{Och, ale to przecież jedna z zalet wirusa F.E.V. Możemy go wypuścić tutaj, a prądy rozniosą go po całym świecie. Będzie miał mnóstwo czasu, aby oczyścić każdy zakątek na tej planecie.}
+{256}{prs47}{Oh, but that's one of the advantages of the FEV virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
 {257}{}{No dobra. Więc dlaczego musieliście porwać moich współplemieńców i ludzi z Krypty 13?}
-{258}{prs48}{Obiekty do badań. Wszyscy Twoi współplemieńcy pochodzą z zasobów Krypty, a my musieliśmy się upewnić, że toksyna F.E.V. jest wciąż efektywna. Na obiektach z Krypty 13 testujemy i to i szczepienie przeciwko F.E.V.}
+{258}{prs48}{Test subjects. Your villagers are all descended from vault stock and we had to make sure that the FEV toxin was still effective. The subjects from Vault 13 test that and an inoculation against the FEV.}
 {259}{}{Nie testujecie szczepienia na moich ludziach?}
 {260}{prs48a}{To praktycznie nie jest potrzebne. Z pewnością moglibyśmy i to by działało, ale nie ma powodu, aby tak robić.}
 {261}{}{Czy kiedykolwiek wydawało ci się, że to, co robisz, jest złe?}
@@ -167,7 +167,7 @@
 {266}{}{Dlaczego nie zacząć tej wzmianki od twojego nekrologu, Panie Prezydencie?}
 {267}{prs51}{Och, nie jestem najszczęśliwszy z powodu tej decyzji. Gdyby była inna droga... ale nie ma. Żadna cena nie jest za wysoka dla ocalenia rasy ludzkiej. Gdybyś był człowiekiem, też byłoby to dla ciebie pewne.}
 {268}{}{Naprawdę w to wierzysz, co?}
-{269}{prs53}{Tak, wierzę. Nawet zabicie mnie nic ci nie pomoże. Nic nie możesz zrobić, aby powstrzymać wypuszczenie F.E.V.}
+{269}{prs53}{Tak, wierzę. Nawet zabicie mnie nic ci nie pomoże. Nic nie możesz zrobić, aby powstrzymać wypuszczenie FEV.}
 {270}{}{Może znajdę po prostu sposób, aby dać wam posmak waszego własnego medykamentu.}
 {271}{}{Zobaczymy. Mam parę spraw do załatwienia. Do widzenia, Prezydencie Richardson.}
 {272}{}{Nie zgadzam się, Panie Prezydencie. Sądzę, że zabicie ciebie pomoże. Poczuję się wtedy znacznie lepiej.}
@@ -185,8 +185,8 @@
 {284}{prs59}{To rozumiem. Boże błogosław Amerykę. Teraz jednak musisz już wrócić do swojej izolatki.}
 {285}{}{Yy, tak, proszę pana. Cokolwiek pan powie.}
 {286}{}{Och, drogę powrotną znajdę samodzielnie, proszę pana. Do widzenia.}
-{287}{prs60}{Ależ oczywiście przeciwko toksynie F.E.V. Cholernie odważnie poświęcacie się ty i inni członkowie Krypty 13. W imieniu rządu Stanów Zjednoczonych i całej ludzkości, dziękuję wam. A teraz lepiej już wróć na swój oddział.}
-{288}{}{Toksyna F.E.V? O czym ty do cholery mówisz? Co tu się dzieje?}
+{287}{prs60}{Ależ oczywiście przeciwko toksynie FEV. Cholernie odważnie poświęcacie się ty i inni członkowie Krypty 13. W imieniu rządu Stanów Zjednoczonych i całej ludzkości, dziękuję wam. A teraz lepiej już wróć na swój oddział.}
+{288}{}{Toksyna FEV? O czym ty do cholery mówisz? Co tu się dzieje?}
 {289}{}{Yy, tak jest. Cokolwiek pan powie.}
 {290}{}{Och, drogę powrotną znajdę samodzielnie, proszę pana. Do widzenia.}
 {291}{prs61}{Co z tego? Jeżeli pozwolimy waszej rasie rozkwitnąć, będzie to oznaczało koniec rasy ludzkiej takiej, jaką znamy. Nie możemy pozwolić radioaktywnym kreaturom na zmuszenie ludzkości do wymarcia.}

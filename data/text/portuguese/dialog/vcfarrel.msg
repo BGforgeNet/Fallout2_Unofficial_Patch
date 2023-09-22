@@ -12,7 +12,7 @@
 {109}{}{Vault City prevails, Citizen.}
 {110}{}{Um mutante! Guardas! Guardas!}
 {111}{}{Um ghoul! Guardas! Guardas!}
-{112}{}{Vamos ver... três stimpacks, uma caixa de Rad-X...}
+{112}{}{Vamos ver... três stimpaks, uma caixa de Rad-X...}
 {113}{}{Ainda precisa fazer essa lista do inventário para o Oficial Randal.}
 {114}{}{vamos ver: preciso checar o estoque, listar o inventário, checar a lista, então entrar com a lista no sistema...}
 {115}{}{Preciso ver sobre como assgurar mais alguns kits de primeiros socorros...}

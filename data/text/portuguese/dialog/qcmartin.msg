@@ -38,7 +38,7 @@
 {137}{}{Que tipo de vírus?}
 {138}{}{Isso não parece bom. Deixe eu te perguntar outra coisa.}
 {139}{}{Que sorte. Talvez agora você conheça a dor que meu ancestral, o Morador da Vault, sentiu. Espero que todos queimem, tchau.}
-{140}{}{Eles chamam isso de toxina F.E.V.. Ela faz coisas horríveis com as pessoas antes de matá-las. A única coisa *boa* sobre isso é que mata rapidamente, mas claro que parece doloroso.}
+{140}{}{Eles chamam isso de toxina FEV. Ela faz coisas horríveis com as pessoas antes de matá-las. A única coisa *boa* sobre isso é que mata rapidamente, mas claro que parece doloroso.}
 {141}{}{Isso parece terrivel. Por que eles estão usando seu pessoal para um teste?}
 {142}{}{Eles nos tiraram de nossa Vault porque queriam cobaias para o antídoto. Eles precisavam de pessoas de fora da Enclave, e que ainda fossem humanos puros. Então eles nos levaram.}
 {143}{}{Eles levaram vocês? Como, de onde?}

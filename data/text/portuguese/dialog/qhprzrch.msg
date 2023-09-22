@@ -8,7 +8,7 @@
 {107}{}{Nuh.}
 {108}{}{Tchau-tchau.}
 {109}{prs2a}{Ah, afetado pelos soros de teste, entendo. Hum, vou te dar uma ajuda. Guardas!}
-{110}{prs2b}{Acho que você foi exposto ao F.E.V. Pobre alma, vou conseguir uma ajuda. Guardas!}
+{110}{prs2b}{Acho que você foi exposto ao FEV. Pobre alma, vou conseguir uma ajuda. Guardas!}
 {111}{prs2c}{Agora seja um bom mutante e fique parado. Guardas!}
 {112}{}{OK.}
 {113}{}{Uh. Tchauzinho.}
@@ -99,7 +99,7 @@
 {198}{}{Sim, eu sabia dessa parte. Prossiga.}
 {199}{prs26}{O vice-presidente Bird pode parecer ter um parafuso a menos, mas você deve saber que esse homem é um herói nacional.}
 {200}{}{Para você, provavelmente.}
-{201}{prs27}{Ele é um dos homens mais corajosos que conheço. Ele se ofereceu para experimentar uma das primeiras versões do antídoto da toxina F.E.V.(suspiro). Infelizmente, não funcionou como esperávamos.}
+{201}{prs27}{Ele é um dos homens mais corajosos que conheço. Ele se ofereceu para experimentar uma das primeiras versões do antídoto da toxina FEV. (suspiro) Infelizmente, não funcionou como esperávamos.}
 {202}{}{Quer dizer que não era o que você esperava?}
 {203}{prs28}{São pequenas mentes zombeteiras como a sua que provam a superioridade dos humanos reais sobre os mutantes.}
 {204}{}{Ele ainda é um puta dum retardado.}
@@ -140,7 +140,7 @@
 {239}{}{Limpar os mutantes? Isso parece bem drástico. Como você vai fazer isso?}
 {240}{prs41}{Encontramos um centro de pesquisa em funcionamento há cerca de 70 anos. Uma antiga base militar que havia sido usada para pesquisar um vírus especial.}
 {241}{}{Um virus?}
-{242}{prs42}{Sim, o vírus F.E.V.. Foi originalmente desenvolvido para transformar soldados em super-guerreiros, mas falhou. Os guerreiros eram duros e fortes, mas estúpidos. No entanto, nossa brilhante Unidade Química o alterou.}
+{242}{prs42}{Sim, o vírus FEV. Foi originalmente desenvolvido para transformar soldados em super-guerreiros, mas falhou. Os guerreiros eram duros e fortes, mas estúpidos. No entanto, nossa brilhante Unidade Química o alterou.}
 {243}{}{Alterou o vírus? Por que?}
 {244}{prs43}{Para transformá-lo em um assassino incrivelmente eficaz. Qualquer humanóide que não for inoculado contra seus efeitos antes de sua liberação morrerá. Esse é o Projeto.}
 {245}{}{Isso é insanidade.}
@@ -154,9 +154,9 @@
 {253}{}{Por quê?}
 {254}{prs46b}{Alguns dos membros de sua tribo estão apresentando algumas mudanças extremamente interessantes. Se o perigo para a verdadeira humanidade não fosse tão grande, eu pensaria em estudá-los. Mas (suspira) não é bem assim.}
 {255}{}{Não é assim? Por que não?}
-{256}{prs47}{Ah, mas essa é uma das vantagens do vírus F.E.V. Podemos lançá-lo aqui e a corrente o levará para o resto do mundo. Terá muito tempo para alcançar todos os cantos do globo.}
+{256}{prs47}{Ah, mas essa é uma das vantagens do vírus FEV. Podemos lançá-lo aqui e a corrente o levará para o resto do mundo. Terá muito tempo para alcançar todos os cantos do globo.}
 {257}{}{OK. Então por que você teve que sequestrar minha tribo e as pessoas da Vault 13?}
-{258}{prs48}{Assuntos do teste. Sua tribo é toda descendente do grupo antigo da Vault e tivemos que garantir que o F.E.V. ainda era eficaz. Os sujeitos da Vault 13 testam isso e uma vacina contra o FEV.}
+{258}{prs48}{Assuntos do teste. Sua tribo é toda descendente do grupo antigo da Vault e tivemos que garantir que o FEV ainda era eficaz. Os sujeitos da Vault 13 testam isso e uma vacina contra o FEV.}
 {259}{}{Você não está testando uma vacina em meu povo?}
 {260}{prs48a}{Somente é necessário. Tenho certeza de que poderia funcionar, mas não há razão para isso.}
 {261}{}{Você já parou para pensar se o que está fazendo é muito errado?}
@@ -185,8 +185,8 @@
 {284}{prs59}{Esse é o espírito, Deus abençoe a America. Você provavelmente deveria voltar para sua ala de isolamento agora.}
 {285}{}{Sim, senhor. O que quer que o senhor diga, senhor.}
 {286}{}{Oh, consigo encontrar meu caminho de volta, senhor. Adeus.}
-{287}{prs60}{Contra o vírus F.E.V., é claro. Um sacrifício corajoso que você e os outros membros da Vault 13 estão fazendo. Em nome do governo dos Estados Unidos e de toda a humanidade, agradeço. Agora, é melhor levá-lo de volta para sua zona.}
-{288}{}{F.E.V.? Mas de que merda você está falando? O que está acontecendo aqui?}
+{287}{prs60}{Contra o vírus FEV, é claro. Um sacrifício corajoso que você e os outros membros da Vault 13 estão fazendo. Em nome do governo dos Estados Unidos e de toda a humanidade, agradeço. Agora, é melhor levá-lo de volta para sua zona.}
+{288}{}{FEV? Mas de que merda você está falando? O que está acontecendo aqui?}
 {289}{}{Sim, senhor. O que quer que o senhor diga, senhor.}
 {290}{}{Oh, consigo encontrar meu caminho de volta, senhor. Adeus.}
 {291}{prs61}{E daí? Se a sua espécie puder florescer, isso significará o fim da raça humana como conhecemos. Não podemos permitir que aberrações radioativas levem os humanos à extinção.}

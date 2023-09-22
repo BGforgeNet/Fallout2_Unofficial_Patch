@@ -169,7 +169,7 @@
 {1001}{}{Zabijaka}
 {1002}{}{Bohater}
 {1003}{}{Dzieciobójca}
-{1004}{}{Uzależnienie od Nuka Coli}
+{1004}{}{Uzależnienie od Nuka-Coli}
 {1005}{}{Uzależnienie od Wygrzewu}
 {1006}{}{Uzależnienie od Mentatów}
 {1007}{}{Uzależnienie od Psycho}

@@ -169,7 +169,7 @@
 {1001}{}{Possuído}
 {1002}{}{Campeão}
 {1003}{}{Assassino de crianças}
-{1004}{}{Víciado em Nuka Cola}
+{1004}{}{Víciado em Nuka-Cola}
 {1005}{}{Víciado em Buffout}
 {1006}{}{Víciado em Mentats}
 {1007}{}{Víciado em Psycho}

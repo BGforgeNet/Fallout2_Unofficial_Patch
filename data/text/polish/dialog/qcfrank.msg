@@ -13,7 +13,7 @@
 {112}{ssa3alt}{Udało ci się dotrzeć dużo dalej, niż powinno, ale też dotąd nie stanął na twej drodze Frank Horrigan. Koniec jazdy, mutancie. Czas umrzeć.}
 {113}{}{Przejdę po tobie bez względu na to, czy ci się to podoba, czy nie.}
 {114}{}{Nie możemy tego obgadać?}
-{115}{ssa4a}{Władowanie toksyny F.E.V do naszego powietrza nie robi z ciebie bohatera. Jesteś po prostu jeszcze jednym mutantem, którego trzeba uśpić.}
+{115}{ssa4a}{Władowanie toksyny FEV do naszego powietrza nie robi z ciebie bohatera. Jesteś po prostu jeszcze jednym mutantem, którego trzeba uśpić.}
 {116}{ssa4b}{Roztopienie naszego reaktora oznacza, że niedługo zrobi się tu gorąco. Szkoda, że nie przeżyjesz wystarczająco długo, by to zobaczyć. Nie jesteś bohaterem, jesteś chodzącym trupem.}
 {117}{}{Gadasz jak trzeba, ale czy zrobisz, co trzeba? Nie sądzę.}
 {118}{}{Zaczekaj chwilę! Wstrzymaj się! Nie możemy tego obgadać?}

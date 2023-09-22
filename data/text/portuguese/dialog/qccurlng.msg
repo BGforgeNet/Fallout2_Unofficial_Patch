@@ -57,7 +57,7 @@
 {156}{}{Não é bem assim. Na verdade vocês são muito diferentes. Pelo menos o seu DNA é. Presumo que isso se deva à exposição aos vestígios de radiação.}
 {157}{}{E daí que o nosso DNA é um pouco diferente?}
 {158}{}{Eu não sei o que isso significa exatamente, mas e daí se somos um pouco diferentes?}
-{159}{}{Bem, o seu DNA é mais do que um *pouco* diferente. É bem diferente. Se eu não estivesse com tanta pressa por causa do Projeto gostaria muito de fazer testes adicionais no seu povo, outros além do estudo toxicológico de F.E.V, é claro. É realmente um trabalho fascinante.}
+{159}{}{Bem, o seu DNA é mais do que um *pouco* diferente. É bem diferente. Se eu não estivesse com tanta pressa por causa do Projeto gostaria muito de fazer testes adicionais no seu povo, outros além do estudo toxicológico de FEV, é claro. É realmente um trabalho fascinante.}
 {160}{}{O que você quer saber?}
 {161}{}{Como o nosso DNA é diferente?}
 {162}{}{Você está realizando testes na minha tribo?}
@@ -92,27 +92,27 @@
 {191}{}{Está claro que você é incapaz de entender o que estou tentando dizer. É inútil continuar tentando. Você deve se retirar agora.}
 {192}{}{Bem, eu tentei. Hora de morrer, sabichão.}
 {193}{}{Certo, estou indo. Um de nós não está compreendendo a questão e eu não creio que seja eu. Adeus.}
-{194}{}{Estudos toxicológicos da efetividade da toxina F.E.V., sim.}
-{195}{}{Toxina F.E.V.? O que é isso?}
+{194}{}{Estudos toxicológicos da efetividade da toxina FEV, sim.}
+{195}{}{Toxina FEV? O que é isso?}
 {196}{}{Deixa eu te perguntar outra coisa.}
-{197}{}{A toxina F.E.V.. É a solução perfeita para esse difícil problema.}
-{198}{}{O que é a toxina F.E.V.?}
+{197}{}{A toxina FEV. É a solução perfeita para esse difícil problema.}
+{198}{}{O que é a toxina FEV?}
 {199}{}{Espere um minuto. Deixa eu te perguntar outra coisa.}
-{200}{}{Um de nossos patrulheiros acharam os dados da pesquisa e várias amostras sobre o vírus F.E.V. em uma antiga base militar de pesquisas que foi quase totalmente destruída.}
+{200}{}{Um de nossos patrulheiros acharam os dados da pesquisa e várias amostras sobre o vírus FEV em uma antiga base militar de pesquisas que foi quase totalmente destruída.}
 {201}{}{Certo, agora eu sei onde o acharam, mas o que ele faz?}
-{202}{}{O F.E.V. foi inicialmente desenvolvido como um vírus que supostamente transformaria humanos em super-soldados. Esse experimento parece ter fracassado totalmente, no entanto eu tentei uma modificação no vírus em um de nossos agentes do Serviço Secreto com sucesso.}
+{202}{}{O FEV foi inicialmente desenvolvido como um vírus que supostamente transformaria humanos em super-soldados. Esse experimento parece ter fracassado totalmente, no entanto eu tentei uma modificação no vírus em um de nossos agentes do Serviço Secreto com sucesso.}
 {203}{}{Ótimo pra você, mas o que isso tem a ver com a erradicação de todos?}
-{204}{}{Oh sim, correto, eu estava chegando nisso... O vírus F.E.V. é específico da espécie, só se ligará à glicoproteína com os humanos. Demorou apenas alguns anos para ajustar o F.E.V. para torná-lo mais letal do que já era. O resultado foi exatamente o que o médico receitou, perfeito como deve ser. }
+{204}{}{Oh sim, correto, eu estava chegando nisso... O vírus FEV é específico da espécie, só se ligará à glicoproteína com os humanos. Demorou apenas alguns anos para ajustar o FEV para torná-lo mais letal do que já era. O resultado foi exatamente o que o médico receitou, perfeito como deve ser. }
 {205}{}{Perfeito? Como?}
-{206}{}{Não é óbvio, meu caro mutante? O F.E.V. é, graças a mim, uma toxina letal. E graças a um estranho gênio chamado, dramaticalmente, de the Master, ele só age em humanos, mutados ou não.}
+{206}{}{Não é óbvio, meu caro mutante? O FEV é, graças a mim, uma toxina letal. E graças a um estranho gênio chamado, dramaticalmente, de the Master, ele só age em humanos, mutados ou não.}
 {207}{}{Então?}
 {208}{}{Isso significa que nós temos o dispositivo de destruição perfeito para acabar com todos os mutantes quase-humanos que estão infectando o planeta. }
 {209}{}{Eu ainda não entendi como isso é *perfeito*.}
 {210}{}{Eu tenho que te perguntar sobre outras das suas idéias malucas.}
-{211}{}{A toxina F.E.V. só atacará humanos, deixando vivos todos os outros seres, e o melhor: dentro de meses todos os mutantes estarão mortos e a toxina F.E.V. morrerá, já que não terá mais hospedeiros.}
-{212}{}{Não deve haver verti-birds suficientes para liberar a toxina em todo o globo.}
+{211}{}{A toxina FEV só atacará humanos, deixando vivos todos os outros seres, e o melhor: dentro de meses todos os mutantes estarão mortos e a toxina FEV morrerá, já que não terá mais hospedeiros.}
+{212}{}{Não deve haver vertibirds suficientes para liberar a toxina em todo o globo.}
 {213}{}{Eu vou fazer de você um hospedeiro de alguns projéteis super energéticos. Faça suas preces.}
-{214}{}{Você está certo, não há. Mas nós não precisamos deles. Nós temos um sistema de liberação que irá soltar o F.E.V. diretamente para a atmosfera do lado de fora. As correntes de ar tomam conta do resto. Saturação global em duas semanas.}
+{214}{}{Você está certo, não há. Mas nós não precisamos deles. Nós temos um sistema de liberação que irá soltar o FEV diretamente para a atmosfera do lado de fora. As correntes de ar tomam conta do resto. Saturação global em duas semanas.}
 {215}{}{Duas semanas?}
 {216}{}{Sim, duas semanas para que o vírus se espalhe, outro mês para que siga o seu curso e então o Estados Unidos estará pronto para a recolonização por humanos de verdade. Nossa espécie estará salva.}
 {217}{}{Você realmente acha que está fazendo a coisa certa, não acha?}
@@ -134,7 +134,7 @@
 {233}{}{Mais drástico? O que você quer dizer com isso?}
 {234}{}{A Enclave deve ser destruída. Completamente destruída. Se isso não acontecer, eles irão simplesmente pegar as peças e começar de novo em outro lugar.}
 {235}{}{Sinto muito por ouvir isso. Hum... doutor, o que você sugere para que a Enclave seja destruída?}
-{236}{}{Acho que a melhor maneira é liberar o F.E.V. no sistema de filtração de ar. Já que a Enclave é um sistema selado isso deve dar conta de todos.}
+{236}{}{Acho que a melhor maneira é liberar o FEV no sistema de filtração de ar. Já que a Enclave é um sistema selado isso deve dar conta de todos.}
 {237}{}{E quanto ao meu povo? Ou eu? Ou você, aliás?}
 {238}{}{Eu posso liberar um antídoto no sistema de ar das celas deles. O andar de detenção é alimentado por um sistema de ar separado do resto da Enclave. Todos irão pensar que eu só estou realizando outro teste. Você, eu posso aplicar diretamente, aqui e agora. (ele se aproxima de você com uma seringa)}
 {239}{}{Ai. Valeu, doutor. O que acontece quando a toxina for liberada?}

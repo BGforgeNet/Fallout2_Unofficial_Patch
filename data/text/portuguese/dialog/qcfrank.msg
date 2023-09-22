@@ -13,7 +13,7 @@
 {112}{ssa3alt}{Você foi muito mais longe do que deveria, mas ainda não conheceu Frank Horrigan. Seu passeio acabou, mutante. Hora de morrer.}
 {113}{}{Eu vou passar por cima de você, querendo ou não.}
 {114}{}{Não podemos só conversar sobre isso?}
-{115}{ssa4a}{Despejando a toxina F.E.V. em nosso ar não faz de você um herói. Você é apenas mais um mutante que precisa ser aniquilado.}
+{115}{ssa4a}{Despejando a toxina FEV em nosso ar não faz de você um herói. Você é apenas mais um mutante que precisa ser aniquilado.}
 {116}{ssa4b}{Fazer nosso reator derreter significa que as coisas vão ficar bem quentes aqui em breve. Pena que você não viverá o suficiente para ver. Você não é um herói; você é apenas um cadáver ambulante.}
 {117}{}{Você fala muito, mas sabe fazer mais alguma coisa? Acho que não.}
 {118}{}{Espere um minuto! Espere! Não podemos conversar sobre isso?}

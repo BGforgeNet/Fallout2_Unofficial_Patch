@@ -35,7 +35,7 @@
 {503}{}{Quem você quizer}
 {504}{}{Quem estiver mais perto}
 {600}{}{Nada.}
-{601}{}{Stimpacks se estiver ferido}
-{602}{}{Stimpacks se estiver gravemente ferido}
+{601}{}{Stimpaks se estiver ferido}
+{602}{}{Stimpaks se estiver gravemente ferido}
 {603}{}{Qualquer droga algumas vezes}
 {604}{}{Qualquer droga a qualquer momento}

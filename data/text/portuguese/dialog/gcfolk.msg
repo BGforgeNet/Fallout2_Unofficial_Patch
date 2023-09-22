@@ -73,7 +73,7 @@
 {229}{}{O que é uma maçã?}
 {240}{}{Você é muito bom para um pele lisa.}
 {241}{}{Pague outra rodada, pele lisa.}
-{242}{}{./~ Como estou seco, como estou seco ... ./~}
+{242}{}{./~ Como estou seco, como estou seco... ./~}
 {243}{}{Você parece uma ótima pessoa.}
 {244}{}{Ei, cuidado com o rato.}
 {245}{}{Eu me pergunto por que Skeeter nunca da um chego aqui?}
@@ -94,8 +94,8 @@
 {280}{}{Te amo, cara.}
 {281}{}{Você é demais.}
 {282}{}{Bombardeie Vault City até os ares!}
-{283}{}{./~ 99 syringes of Rad-away on the wall, 99 syringes... /~}
-{284}{}{./~ Eu estive trabalhando no re-a-tor, durante todo o longo dia ... ./~}
+{283}{}{./~ 99 garrafas de cerveja na parede, 99 garrafas de cerveja... /~}
+{284}{}{./~ Eu estive trabalhando no re-a-tor, durante todo o longo dia... ./~}
 {285}{}{Antes de você, eu não confiaria em um pele lisa.}
 {286}{}{Acho que alguns de vocês são do bem, quem diria.}
 {287}{}{Devíamos buscar o Chester para tomar uma.}

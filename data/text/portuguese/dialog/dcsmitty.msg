@@ -34,7 +34,7 @@
 {301}{}{Hein?}
 {310}{}{Hmm, isso parece um regulador de célula de combustível. Se eu tivesse um carro que funcionasse, certamente aumentaria a quilometragem.}
 {311}{}{Hein?}
-{320}{}{Esse foi um grande tipo de você. Muito obrigado, compadre. Aqui está um pouco para o seu problema. Vai ser útil por estas peças. (Ele lhe entrega um Stimpack).}
+{320}{}{Esse foi um grande tipo de você. Muito obrigado, compadre. Aqui está um pouco para o seu problema. Vai ser útil por estas peças. (Ele lhe entrega um Stimpak).}
 {321}{}{Obrigado, Smitty. Sem problemas. Até a próxima.}
 {322}{}{Bem, uhh ... Obrigado, mas já me dirigi para a mãe e consegui comer, então não vou precisar disso.}
 {323}{}{Opa, eu não sou a pessoa de entrega habitual. Ele ficou doente hoje. Posso obter alguns pontos de experiência de qualquer maneira?}

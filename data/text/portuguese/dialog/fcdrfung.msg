@@ -42,7 +42,7 @@
 {141}{}{Eu vou pagar.}
 {142}{}{Esqueça.}
 {158}{}{O que? Você não tem o dinheiro? Como você espera que eu sobreviva se você me pedir cura gratuita?}
-{159}{}{Você tem stimpacks?}
+{159}{}{Você tem stimpaks?}
 {160}{}{Não, obrigado.}
 {161}{}{Foi um prazer fazer negócios com você.}
 {162}{}{Obrigado.}

@@ -63,7 +63,7 @@
 {151}{}{É isso por agora.}
 {152}{}{OK, tudo está certo, já costurei tudo. Bora.}
 {153}{}{OK, praticamente tudo já está corrigido.}
-{154}{}{Isso funcionou bem, mas eu poderia usar mais alguns stimpacks.}
+{154}{}{Isso funcionou bem, mas eu poderia usar mais alguns stimpaks.}
 {155}{}{Usei o que pude, mas ainda estou muito confuso. Tem alguns stims com você?}
 {156}{}{Use os primeiros socorros em si mesmo.}
 {157}{}{Deixa pra lá.}

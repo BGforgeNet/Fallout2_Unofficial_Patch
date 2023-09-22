@@ -38,7 +38,7 @@
 {137}{}{Jakiego wirusa?}
 {138}{}{To nie brzmi dobrze. Pozwól, że spytam cię o coś jeszcze.}
 {139}{}{Szczęściarze. Może teraz poznacie ból, jaki odczuwał mój przodek, Przybysz z Krypty. Mam nadzieję, że wszyscy spłoniecie. Żegnaj.}
-{140}{}{Nazywają go toksyną F.E.V. Robi z ludźmi okropne rzeczy, zanim ich zabije. Jedyną "dobrą" stroną jest to, że umiera się szybko. Niestety, bardzo boleśnie.}
+{140}{}{Nazywają go toksyną FEV. Robi z ludźmi okropne rzeczy, zanim ich zabije. Jedyną "dobrą" stroną jest to, że umiera się szybko. Niestety, bardzo boleśnie.}
 {141}{}{To brzmi okropnie. Dlaczego używają was do testów?}
 {142}{}{Zabrali nas z naszej Krypty, ponieważ chcieli przetestować szczepionkę. Potrzebowali ludzi spoza Enklawy, którzy byliby jednak ludźmi czystej krwi. Zabrali więc nas.}
 {143}{}{Zabrali was? Jak, skąd?}

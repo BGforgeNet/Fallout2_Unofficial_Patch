@@ -92,7 +92,7 @@
 {280}{}{Kocham cię.}
 {281}{}{Jesteś najlepszy.}
 {282}{}{Ładować atomówkami w Kryptopolis, dopóki nie zacznie świecić!}
-{283}{}{./~ 99 syringes of Rad-away on the wall, 99 syringes... /~}
+{283}{}{./~99 strzykawek AntyRadu na ścianie, 99 strzykawek.... ./~}
 {284}{}{./~Cały dzień haruję przy reaktorze, calutki dzionek.... ./~}
 {285}{}{Gdyby nie ty, to nie moglibyśmy ufać gładkoskórym.}
 {286}{}{Chyba niektorzy gładcy są jednak w porządku.}

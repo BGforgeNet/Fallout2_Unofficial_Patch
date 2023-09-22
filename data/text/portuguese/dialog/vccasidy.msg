@@ -74,7 +74,7 @@
 {172}{Cas0172}{Sim?}
 {173}{Cas0173}{O que é? Você está com aquele olhar de novo de "vou abusar da minha autoridade".}
 {174}{}{Eu gostaria de lhe fazer algumas perguntas...}
-{175}{}{Parece que você sofreu algum dano. Use alguns stimpacks e cure-se.}
+{175}{}{Parece que você sofreu algum dano. Use alguns stimpaks e cure-se.}
 {176}{}{Cassidy, preciso que espere aqui até eu voltar.}
 {177}{}{Coloque sua arma de distância.}
 {178}{}{Ficar perto de mim.}
@@ -152,7 +152,7 @@
 {328}{}{Broken Hills é uma cidade mineira... principalmente minério de urânio. Pode ser um lugar difícil, então tome cuidado.}
 {329}{}{Eu tenho algum veneno pelo meu corpo. Tem algum antídoto?}
 {330}{}{Estou brilhando como um letreiro de néon aqui. Tem algum remedio anti-radiação?}
-{331}{}{Estou sofrendo muito aqui. Tem algum stimpack?}
+{331}{}{Estou sofrendo muito aqui. Tem algum stimpak?}
 {332}{}{Fique longe de problemas, Myron. Estou te vigilando.}
 {333}{}{Saia da linha, Myron, e eu te quebro.}
 {334}{}{Droga, Lenny, você precisa de um banho. Ou algum desinfetante.}
@@ -163,7 +163,7 @@
 {339}{}{Se esse cachorro robô começar a trepar com a minha perna, vou mata-lo.}
 {340}{}{Ahhhh. Rapaz, estou feliz que eles fizeram milhões dessas coisas antes da bomba cair.}
 {341}{}{Muito obrigado, amigo.}
-{342}{}{Espero que tomar esses stimpacks não machuque meu coração...}
+{342}{}{Espero que tomar esses stimpaks não machuque meu coração...}
 {343}{}{O que...?! Não, meu coração! Eu... *hrrrkk*}
 {344}{}{Desculpe, só estava admirando a vista.}
 {345}{}{Maldição, eu vou ficar aqui, então.}

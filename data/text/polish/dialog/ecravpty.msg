@@ -2,7 +2,7 @@
 {101}{}{Widzisz barmana.}
 {102}{}{Najwyraźniej spróbował trochę własnych trunków.}
 {103}{}{Cccc... ccc-co podać. [Hik.]}
-{104}{}{Nuka Colę [$6]}
+{104}{}{Nuka-Colę [$6]}
 {105}{}{Piwo [$15]}
 {106}{}{Wódkę [$30]}
 {107}{}{Nic, dzięki.}

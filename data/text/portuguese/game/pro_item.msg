@@ -646,7 +646,7 @@
 {32801}{}{Esta esfera preta é algum tipo de dispositivo precognitivo estranho ... uma pequena janela no topo parece ser capaz de prever o futuro! A humanidade de antes da guerra devem ter sido gênios de inventar tal maravilha!}
 {32900}{}{Soro mutagênico}
 {32901}{}{Uma mistura orgânica estranha que poderia reverter a mutação em seres humanos.}
-{33000}{}{Verti-Bird Estragado}
+{33000}{}{Vertibird Estragado}
 {33001}{}{Restos de um vertibird. Parece que bateu aqui meses atrás.}
 {33100}{}{Cat's Paw Issue #5}
 {33101}{}{Este é muito difícil de se encontrar, edição #5 da revista Cat's Paw. As fotos de lado mostram que tem um maravilhoso artigo sobre armas de energia.}
