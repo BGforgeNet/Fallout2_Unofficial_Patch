@@ -38,7 +38,7 @@
 {137}{}{What kind of virus?}
 {138}{}{That doesn't sound good. Let me ask you something else.}
 {139}{}{Lucky you. Maybe now you know the pain my ancestor, the Vault Dweller, felt. I hope you all burn. Goodbye.}
-{140}{}{They call it the F.E.V. toxin. It does horrible things to people, before it kills them. The only *good* thing about it is that it kills so quickly. Sure looks painful though.}
+{140}{}{They call it the FEV toxin. It does horrible things to people, before it kills them. The only *good* thing about it is that it kills so quickly. Sure looks painful though.}
 {141}{}{That sounds nasty. Why are they using your people for a test?}
 {142}{}{They took us all from our vault because they wanted test subjects for the antidote. They needed people from outside the Enclave, and who were still pure-strain-humans. So they took us.}
 {143}{}{They took you? How, from where?}

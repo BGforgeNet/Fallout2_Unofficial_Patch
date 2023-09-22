@@ -57,7 +57,7 @@
 {156}{}{No, not really. You're actually rather different, at least your DNA is. A rather unfortunate effect of generations of background radiation, I assume.}
 {157}{}{So what if our DNA is a little different?}
 {158}{}{I don't know what that means, but so what if we're a little different?}
-{159}{}{Oh, your DNA is more than just a *little* different. It's quite different. If I weren't so pressed for time by the Project I'd be interested in running further tests on your people, other than the F.E.V. toxicological study, of course. Fascinating work really.}
+{159}{}{Oh, your DNA is more than just a *little* different. It's quite different. If I weren't so pressed for time by the Project I'd be interested in running further tests on your people, other than the FEV toxicological study, of course. Fascinating work really.}
 {160}{}{What did you want to know about?}
 {161}{}{How's our DNA different?}
 {162}{}{You're running tests on my tribe?}
@@ -92,27 +92,27 @@
 {191}{}{Your kind clearly isn't capable of understanding what I'm trying to tell you. It's hopeless. You should leave now.}
 {192}{}{Well, I tried. Time to die, bigot.}
 {193}{}{All right, I'm going. One of us is hopeless and I don't think it's me. Goodbye.}
-{194}{}{Toxicological studies on the effectiveness of the F.E.V. toxin, yes.}
-{195}{}{The F.E.V. toxin? What's that?}
+{194}{}{Toxicological studies on the effectiveness of the FEV toxin, yes.}
+{195}{}{The FEV toxin? What's that?}
 {196}{}{Let me ask you about something else.}
-{197}{}{The F.E.V. toxin. It's the perfect solution for this difficult problem.}
-{198}{}{What's the F.E.V. toxin?}
+{197}{}{The FEV toxin. It's the perfect solution for this difficult problem.}
+{198}{}{What's the FEV toxin?}
 {199}{}{Wait a minute. Let me ask you something else.}
-{200}{}{One of our patrols found the research data, and several samples, about the F.E.V. virus in a former military research base that had been almost completely destroyed.}
+{200}{}{One of our patrols found the research data, and several samples, about the FEV virus in a former military research base that had been almost completely destroyed.}
 {201}{}{Okay, now I know where you found it, but what does it do?}
-{202}{}{The F.E.V. was initially designed as a virus that was supposed to turn humans into super-soldiers. That experiment seems to have been an utter failure, although I did try a modification of the virus on one of our Secret Service agents with some success.}
+{202}{}{The FEV was initially designed as a virus that was supposed to turn humans into super-soldiers. That experiment seems to have been an utter failure, although I did try a modification of the virus on one of our Secret Service agents with some success.}
 {203}{}{Great for you, but how does that have anything to do with eradicating everyone?}
-{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
+{204}{}{Oh, yes, well, I was getting to that... The FEV virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the FEV virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
 {205}{}{Perfect? How so?}
-{206}{}{Isn't it obvious, my mutated friend? The F.E.V. is, thanks to me, a lethal toxin, and thanks to some mysterious genius named, rather dramatically, the Master, it only works on humans, mutated or not.}
+{206}{}{Isn't it obvious, my mutated friend? The FEV is, thanks to me, a lethal toxin, and thanks to some mysterious genius named, rather dramatically, the Master, it only works on humans, mutated or not.}
 {207}{}{So?}
 {208}{}{That means that we have the perfect disposal device for all of the near-human mutants infecting the globe.}
 {209}{}{I still don't understand how that's *perfect.*}
 {210}{}{I've got to ask you about some of your other crazy ideas.}
-{211}{}{The F.E.V. toxin will only attack humans, leaving everything else alive. Better still, within a month all the mutants will be dead and the F.E.V. toxin will die out as soon as it runs out of hosts.}
-{212}{}{There can't be enough verti-birds here to spread the toxin all over the globe.}
+{211}{}{The FEV toxin will only attack humans, leaving everything else alive. Better still, within a month all the mutants will be dead and the FEV toxin will die out as soon as it runs out of hosts.}
+{212}{}{There can't be enough vertibirds here to spread the toxin all over the globe.}
 {213}{}{I'm going to make you a host to some high-energy projectiles. Say your prayers.}
-{214}{}{You're right, there aren't. But we don't need them. We have a release system that will spray the F.E.V. toxin straight from the vats to the outside atmosphere. The Jet stream will take care of the rest. Global saturation within two weeks.}
+{214}{}{You're right, there aren't. But we don't need them. We have a release system that will spray the FEV toxin straight from the vats to the outside atmosphere. The Jet stream will take care of the rest. Global saturation within two weeks.}
 {215}{}{Two weeks?}
 {216}{}{Yes, two weeks for the virus to spread, another month or so for it to run its course and then the United States will be ready for recolonization by real humans. Our species will have been saved.}
 {217}{}{You really think you're doing the right thing don't you?}
@@ -134,10 +134,10 @@
 {233}{}{More drastic? What do you mean?}
 {234}{}{The Enclave must be destroyed. Completely destroyed. If we're not, then we'll just pick up the pieces and start over somewhere else.}
 {235}{}{I'm sorry to hear that. Uh, Doctor, how do you suggest that the Enclave be destroyed?}
-{236}{}{I think that the best way is to just release the F.E.V. toxin into the air-filtration system. Since the Enclave is a sealed system that should take care of everyone.}
+{236}{}{I think that the best way is to just release the FEV toxin into the air-filtration system. Since the Enclave is a sealed system that should take care of everyone.}
 {237}{}{What about my people? Or me? Or you, for that matter?}
 {238}{}{I can release the antidote into the air-system for all the cells. The detention level is served by a separate air system from the rest of the Enclave. Everyone will think that I'm just running another test. You, I can inoculate directly, here and now. (he reaches for you with a syringe)}
-{239}{}{Ouch, thanks Doc. What happens when the F.E.V. toxin is released?}
+{239}{}{Ouch, thanks Doc. What happens when the FEV toxin is released?}
 {240}{}{Hey, wait a minute, you're not sticking me with that thing!}
 {241}{}{It's not pretty. You should leave as soon as possible. But I'd rather have the weight of a thousand on my conscience than several hundred-thousand. Our time is through here. We had our chance.}
 {242}{}{How can I free my people from the detention area?}
@@ -158,7 +158,7 @@
 {257}{}{You don't have time for this!}
 {258}{}{Go, while you still can!}
 {259}{}{Don't you understand? Without it you'll be dead in a matter of hours.}
-{260}{}{Oh, well, if that's the case. Stick away, doc. What happens when the F.E.V. toxin is released?}
+{260}{}{Oh, well, if that's the case. Stick away, doc. What happens when the FEV toxin is released?}
 {261}{}{No needles, no way, no how. I'll take my chances.}
 {262}{}{You'll never make it to free your people unless you're inoculated. What's the matter? Afraid of a little prick?}
-{263}{}{No, I guess not. As long as I don't watch you do it. Youch! So, what happens when you release the F.E.V. toxin?}
+{263}{}{No, I guess not. As long as I don't watch you do it. Youch! So, what happens when you release the FEV toxin?}

@@ -42,7 +42,7 @@
 {239}{}{Well, see you later, Cody. Take care.}
 
 # 5. DRINK (2, 4)
-{251}{}{Hey, Cody. Want some nuka cola?}
+{251}{}{Hey, Cody. Want some Nuka-Cola?}
 {252}{}{Want a brewski, kid? Never too young to start, Mom used to say. Uh, when she was sober, that is.}
 {253}{}{I got some Jet here, Cody. You want to fly high with Uncle }
 {254}{}{I got some Jet here, Cody. You want to fly high with Auntie }

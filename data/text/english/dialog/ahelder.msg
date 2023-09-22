@@ -135,7 +135,7 @@
 {231}{eeld11}{(sigh) Go below. Kill. Smash machines. Go now!}
 {232}{eeld12}{Listen this time! Go to the levels below us. Find the machine that makes power. Stop it and we can escape. The men here are not true to the Vault dream. They are evil. Also, if you have not yet found the GECK, seek it here. Our freedom is nothing if our village cannot be saved. Now go!}
 {233}{}{Got it.}
-{234}{eeld13}{That is what they call it. They stick needles into our skin, like stimpacks, but then terrible things happen. Then... (chokes up)}
+{234}{eeld13}{That is what they call it. They stick needles into our skin, like stimpaks, but then terrible things happen. Then... (chokes up)}
 {235}{}{Then what?}
 {236}{}{This is going to make me sick, isn't it?}
 {237}{eeld13a}{Then the skin bubbles like maggots beneath it. Boils grow and burst. Blood runs from your ears and your tongue swells. Those who are lucky choke to death. Those who are not...}
