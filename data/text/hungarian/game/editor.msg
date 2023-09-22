@@ -169,7 +169,7 @@
 {1001}{}{Berzerker}
 {1002}{}{Bajnok}
 {1003}{}{Gyerekgyilkos}
-{1004}{}{Nuka Cola addiction}
+{1004}{}{Nuka-Cola addiction}
 {1005}{}{Buffout addiction}
 {1006}{}{Mentats addiction}
 {1007}{}{Psycho addiction}

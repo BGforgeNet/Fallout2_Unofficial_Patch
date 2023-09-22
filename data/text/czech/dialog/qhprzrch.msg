@@ -8,7 +8,7 @@
 {107}{}{Ne-e.}
 {108}{}{Pá pá.}
 {109}{prs2a}{Aha, vy jste pod vlivem testovacího séra. Počkejte, seženu vám pomoc. Stráže!}
-{110}{prs2b}{Doktore, myslím, že jste byl vystaven účinku působení F.E.V. Nebohá duše, přivolám vám pomoc. Stráže!}
+{110}{prs2b}{Doktore, myslím, že jste byl vystaven účinku působení FEV. Nebohá duše, přivolám vám pomoc. Stráže!}
 {111}{prs2c}{Teď buďte hodný mutant a zůstaňte stát na místě. Stráže!}
 {112}{}{Dobře.}
 {113}{}{E-he. Pá pá.}
@@ -99,7 +99,7 @@
 {198}{}{Jo, o tom vím. Pokračujte.}
 {199}{prs26}{Viceprezident Bird možná vypadá jako slintající idiot, ale můžu vám říct, že ten muž je národní hrdina.}
 {200}{}{Možná pro vás.}
-{201}{prs27}{Je to jeden z nejstatečnějších mužů, které znám. Dobrovolně se přihlásil k vyzkoušení jedné z prvních verzí protijedu na toxin F.E.V. (povzdech) Bohužel to nedopadlo tak úplně přesně, jak jsme doufali.}
+{201}{prs27}{Je to jeden z nejstatečnějších mužů, které znám. Dobrovolně se přihlásil k vyzkoušení jedné z prvních verzí protijedu na toxin FEV. (povzdech) Bohužel to nedopadlo tak úplně přesně, jak jsme doufali.}
 {202}{}{Co myslíte tím, že to nedopadlo tak úplně přesně, jak jste doufali?}
 {203}{prs28}{A přesně takové omezené myšlení, jako je to vaše, dokazuje nadřazenost skutečných lidí nad mutanty.}
 {204}{}{Pořád je to jen blábolící idiot.}
@@ -140,7 +140,7 @@
 {239}{}{Vymítit mutanty? To zní trochu drasticky. Jak to chcete udělat?}
 {240}{prs41}{Asi před 70ti lety jsme našli jedno provozuschopné výzkumné zařízení. Byla to dřívější vojenská základna používaná pro výzkum speciálního viru.}
 {241}{}{Viru?}
-{242}{prs42}{Ano, F.E.V. viru. Byl původně vytvořen, aby přeměnil obyčejné vojáky na super-bojovníky, ale nevyšlo to. Bojovníci byli sice tvrdí a silní, ale příliš hloupí. Nicméně naši skvělí chemici ho pozměnili.}
+{242}{prs42}{Ano, FEV viru. Byl původně vytvořen, aby přeměnil obyčejné vojáky na super-bojovníky, ale nevyšlo to. Bojovníci byli sice tvrdí a silní, ale příliš hloupí. Nicméně naši skvělí chemici ho pozměnili.}
 {243}{}{Pozměnili virus? Proč?}
 {244}{prs43}{Aby se z něj stal enormně účinný zabiják. Každý humanoid, který nebude před jejím vypuštěním naočkován protilátkou, zemře. To je Projekt.}
 {245}{}{To je šílené.}
@@ -154,9 +154,9 @@
 {253}{}{Jak to?}
 {254}{prs46b}{U některých členů vašeho kmene byly zaznamenány některé neobyčejně zajímavé změny. Kdyby nebylo nebezpečí pro skutečné lidstvo tak veliké, popřemýšlel bych o jejich výzkumu. Ale (Povzdech) není to možné.}
 {255}{}{Není to možné? Proč ne?}
-{256}{prs47}{No, ale to je právě jedna z výhod virusu F.E.V. Můžeme ho uvolnit třeba právě tady a vzdušné proudy ho už rozpráší do celého světa. Bude mít dost času na to, aby vymítil každou dírku a skulinku na celé zeměkouli.}
+{256}{prs47}{No, ale to je právě jedna z výhod virusu FEV. Můžeme ho uvolnit třeba právě tady a vzdušné proudy ho už rozpráší do celého světa. Bude mít dost času na to, aby vymítil každou dírku a skulinku na celé zeměkouli.}
 {257}{}{Dobře, ale proč jste unesli mé vesničany a lidi z Vaultu 13?}
-{258}{prs48}{Potřebovali jsme pokusné jedince. Všichni vaši vesničané pochází z vaultu a museli jsme se přesvědčit, že je F.E.V. toxin stále účinný. Jedince z Vaultu 13 testujeme očkovací protilátkou proti F.E.V.}
+{258}{prs48}{Potřebovali jsme pokusné jedince. Všichni vaši vesničané pochází z vaultu a museli jsme se přesvědčit, že je FEV toxin stále účinný. Jedince z Vaultu 13 testujeme očkovací protilátkou proti FEV.}
 {259}{}{Vy netestujete ty protilátky na mých lidech?}
 {260}{prs48a}{To není nutné. Jsem si jist, že bychom mohli vesničany naočkovat a ono by to fungovalo, ale není k tomu žádný důvod.}
 {261}{}{Neměl jste někdy pocit, že to co děláte, je špatné?}
@@ -185,8 +185,8 @@
 {284}{prs59}{To je ono. Bůh žehnej Americe. Ale raději se teď vraťte zpět do izolace.}
 {285}{}{Eh, ano, pane. Jak myslíte, pane.}
 {286}{}{Já už si cestu zpět najdu, pane. Sbohem.}
-{287}{prs60}{No, proti F.E.V. toxinu samozřejmě. Jaká to zatraceně statečná oběť od vás a dalších členů Vaultu 13. Jménem vlády Spojených států a celého lidstva vám děkuji. Nyní bude lepší, když vás vrátíme zpět do vaší cely.}
-{288}{}{F.E.V. toxin? O čem to sakra mluvíte? Co se tady děje?}
+{287}{prs60}{No, proti FEV toxinu samozřejmě. Jaká to zatraceně statečná oběť od vás a dalších členů Vaultu 13. Jménem vlády Spojených států a celého lidstva vám děkuji. Nyní bude lepší, když vás vrátíme zpět do vaší cely.}
+{288}{}{FEV toxin? O čem to sakra mluvíte? Co se tady děje?}
 {289}{}{Eh, ano pane. Jak myslíte, pane.}
 {290}{}{Já už si cestu zpět najdu, pane. Sbohem.}
 {291}{prs61}{A co jako? Pokud bude váš druh i nadále vzkvétat, bude to znamenat konec lidské rasy jak ji známe. Nemůžeme dovolit radioaktivním zrůdám, aby zatlačily lidstvo do záhuby.}

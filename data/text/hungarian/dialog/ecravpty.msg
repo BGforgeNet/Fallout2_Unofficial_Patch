@@ -2,7 +2,7 @@
 {101}{}{A buli csaposát látod.}
 {102}{}{Úgy tűnik, hogy ő is végigkóstolta a saját áruját.}
 {103}{}{Mih... mija... mit adhatok? [Hukk.]}
-{104}{}{Nuka Colát [$6]}
+{104}{}{Nuka-Colát [$6]}
 {105}{}{Sört [$15]}
 {106}{}{Piát [$30]}
 {107}{}{Semmit, kösz.}

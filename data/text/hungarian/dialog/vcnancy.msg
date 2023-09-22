@@ -10,7 +10,7 @@
 {109}{}{Nézzük csak, mi van még!  Három szolgának védőoltást kell adnom 14 órakor, aztán...}
 {110}{}{Ez a sípolás az őrületbe kerget.}
 {111}{}{Esküszöm, ezek az orvosi adatbázisok beszélgetnek egymással...}
-{112}{}{Let's see... three hypodermics, antiseptic, three ampoules of RadX...}
+{112}{}{Lássuk csak... Három fecskendő, fertőtlenítő, három ampullányi Rad-X...}
 {113}{}{Jobb lesz felkészülni Dr.Troy holnapi szemináriumára.}
 {114}{}{A fene egye meg, már MEGINT túlóráztatnak! Agyamra mennek ezek a listák!}
 {115}{}{Gyere vissza holnap!}

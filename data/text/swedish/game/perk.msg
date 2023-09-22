@@ -55,7 +55,7 @@
 {155}{}{Buffout Addiction}
 {156}{}{Mentats Addiction}
 {157}{}{Psycho Addiction}
-{158}{}{Radaway Addiction}
+{158}{}{RadAway Addiction}
 {159}{}{Weapon Long Range}
 {160}{}{Weapon Accurate}
 {161}{}{Weapon Penetrate}

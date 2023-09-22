@@ -21,7 +21,7 @@
 {209}{}{Dřív jsem si myslel, že je Prezident jenom pověra na strašení malejch dětí.}
 {210}{}{Vypadáš jako někdo, kdo se právě vrátil z pekla. Odpočiň si na chvíli. Zasloužíš si to.}
 {211}{}{Budeš hrát hru znova za jinou postavu? Doporučuju zálesáka.}
-{212}{}{F.E.V.? Co je to?}
+{212}{}{FEV? Co je to?}
 {213}{}{New Reno bylo navrženo Chrisem Avellonem a naskriptováno Tomem Frenchem. Tom hraje v kapele a Chris si hraje sám se sebou.}
 {214}{}{Doufám, že ve Falloutu 3 dostanu nějakou hlavní roli jako třeba Tandi nebo Ian. Bejt gangster je o ničem.}
 {215}{}{Prej se ti podařilo zničit Enklávu. Máš velkou odvahu.}

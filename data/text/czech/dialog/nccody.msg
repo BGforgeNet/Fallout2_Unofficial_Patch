@@ -27,7 +27,7 @@
 {230}{}{(Cody na tebe stále zírá.)}
 {231}{}{Eh, jsi v pořádku, Cody?}
 {239}{}{No, uvidíme se později, Cody. Měj se.}
-{251}{}{Ahoj, Cody. Nechceš trochu nuka coly?}
+{251}{}{Ahoj, Cody. Nechceš trochu Nuka-Coly?}
 {252}{}{Nedáš si trochu chlastu, chlapče? Nikdy není moc brzo na to začít, říkávala moje máma. Eh, teda když byla střízlivá.}
 {253}{}{Mám tady trochu Jetu, Cody. Nechceš si trochu zalítat se strejdou }
 {254}{}{Mám tady trochu Jetu, Cody. Nechceš si trochu zalítat s tetou }

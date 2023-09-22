@@ -169,7 +169,7 @@
 {1001}{}{Berserker}
 {1002}{}{Champion}
 {1003}{}{Childkiller}
-{1004}{}{Nuka Cola addiction}
+{1004}{}{Nuka-Cola addiction}
 {1005}{}{Buffout addiction}
 {1006}{}{Mentats addiction}
 {1007}{}{Psycho addiction}

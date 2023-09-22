@@ -37,7 +37,7 @@
 {136}{}{Hej, poslouchá mě někdo?}
 {137}{}{No co, mluvím si pro sebe, aby mi z toho nepřeskočilo.}
 {138}{}{Hej, pamatuje si někdo, z čeho se míchá ledovej čaj Long Island?}
-{139}{}{Jo, vodka, rum, tequila, triple sec, limetka a Nuka Cola.}
+{139}{}{Jo, vodka, rum, tequila, triple sec, limetka a Nuka-Cola.}
 {140}{}{Hele, podívej... rozsvítila se světla. Co se to sakra...}
 {141}{}{Darion říkal, ze nechá ty pitomý světla spravit. Zdá, že se dodržel slib.}
 {142}{}{Ten generátor se asi neopravil sám, co?}

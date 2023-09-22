@@ -163,7 +163,7 @@
  manufacturing drugs. His manners and language also leave MUCH to be desired.}
 {233}{}{Tell me about it.}
 {234}{}{Maybe you should loosen up a little, Doc. A little drug use never hurt anyone. Well, except for
- those super stimpacks... and Buffout... and Psycho. Actually, never mind. I'll be going.}
+ those super stimpaks... and Buffout... and Psycho. Actually, never mind. I'll be going.}
 {235}{}{I'll pass that along.}
 {236}{}{Yes, I'm willing to pay you a thousand dollars for the sample... and your silence.}
 {237}{}{I have a sample of Jet right here.}
@@ -309,7 +309,7 @@
 {352}{}{Well, thanks anyway.}
 {353}{}{Well, thanks anyway. Maybe I can find somebody else to perform the operation.}
 {354}{}{I'm sorry. The facilities are only for Citizens, and a list of all patients is kept in the
- database... [Lowers voice.] However, the stimpacks in the lower level supply lockers would not be missed
+ database... [Lowers voice.] However, the stimpaks in the lower level supply lockers would not be missed
  if you put them to good use.}
 {355}{}{Hmmm. Okay, I had some other questions...}
 {356}{}{Thanks. I'll go look for them.}

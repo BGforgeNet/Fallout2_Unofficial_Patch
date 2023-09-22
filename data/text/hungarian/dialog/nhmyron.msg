@@ -49,13 +49,13 @@
 {401}{}{Nézzük csak... öklendezem... reszketek... lázam van. Valszeg mérgezés.}
 {402}{}{Ööö... már... nem... tudom... sokáig... tartani... magam... a méreg... terjed...}
 {403}{}{Nem tudná valaki kiszívni belőlem a mérget?}
-{410}{}{Is that me glowing? Give me some Rad-X next time we dick around in radiation zones, okay?}
-{411}{}{I need some RadAway before the radiation eats my Gnads-away.}
+{410}{}{Jó ég, én izzok! Ha legközelebb valami sugárzó helyen császkálunk, adj előtte Rad-X-et, oké?}
+{411}{}{Kell egy RadAway, mielőtt a sugárzás széteszi a tökeimet!}
 {412}{}{Legközelebb miért nem egyenesen megisszuk a radioaktív trutyit? Legalább hamarabb megdöglenénk!}
 {413}{}{A testemben lévő sugárzással egész New Renót el tudnám látni árammal.}
-{414}{}{I'm glowing brighter than New Reno at midnight. Anybody got some RadAway?}
+{414}{}{Fényesebben világítok, mint New Reno éjszaka. Nincs valakinél egy kis RadAway?}
 {415}{}{Nagyszerű! Egy kis sugárzás ér, és máris egy kétlábon járó zseblámpa vagyok.}
-{416}{}{Somebody let me hold the RadAway. I won't use all of it. I promise.}
+{416}{}{Hadd legyen nálam a RadAway készlet! Megígérem, hogy nem használom el mindet.}
 {425}{}{Miért nem megyünk vissza a dungeon első szintjére, ahol a koboldok vannak?}
 {426}{}{Azzal, hogy évekig játszottam D&D-t, megtanultam néhány dolgot a bátorságról.}
 {427}{}{Ide egy Buffout-tal! Asszem, hamarosan szükségem lesz rá!}
@@ -128,8 +128,8 @@
 {554}{}{Én voltam itt előbb. Persze ha úgy gondolod...}
 {560}{}{Nem kell kétszer mondanod...}
 {561}{}{El tudnék képzelni egy kis női gyógyírt. Ugye tudod, mire gondolok?}
-{562}{}{Ahhhhhhh. Good thing stimpacks aren't too addictive.}
-{563}{}{Oooooh, yeah. Good thing stimpacks aren't too addictive.}
+{562}{}{Ahhhhhhh. Good thing stimpaks aren't too addictive.}
+{563}{}{Oooooh, yeah. Good thing stimpaks aren't too addictive.}
 {570}{}{Ne nyomd belém azt a szart! Teljesen jól vagyok.}
 {571}{}{Ne babusgass! Jól vagyok!}
 {572}{}{Hé, ne törd magad! Jól vagyok. Viszont hadd legyen nálam a stimpakk készlet.}
@@ -505,7 +505,7 @@
 {1576}{myn232b}{Ahogy gondolod, szépségem. }
 {1577}{myn232c}{Már hogy a francba ne! Rúgjuk fel ezt a városnak nevezett szarostalicskát!}
 {1578}{}{Akkor induljunk.}
-{1579}{}{It's 106 miles to Arroyo, we got a full fusion cell, half a pack of RadAway, it's midnight, and I'm wearing a 50-year old Vault 13 jumpsuit. Let's hit it.}
+{1579}{}{Arroyo csak 106 mérföld, van egy egész fúziós cellánk, egy fél csomag RadAway-ünk, éjfél van, és a 13-as Menedék ötven évesnél is idősebb kezeslábasát hordom. Mehetünk.}
 {1585}{myn233}{Ah! Szóval Myron képességeire van szükséged? Én amolyan tudósféle vagyok. Mindent tudok, mindent látok. Nem is beszélve arról, hogy bármilyen drogot elő tudok állítani, amire szükséged lehet. Persze a megfelelő nyersanyagok függvényében.}
 {1586}{}{All right then, you've passed the interview. The part about the drugs helped. Follow me.}
 {1587}{}{Még gondolkozom rajta. Volna még néhány kérdésem számodra...}

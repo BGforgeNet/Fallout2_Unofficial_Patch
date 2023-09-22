@@ -13,7 +13,7 @@
 {112}{ssa3alt}{Dostal ses mnohem dál, než jsi měl, ale to znamená jenom jediné - dosud jsi nepotkal Franka Horrigana. Tvoje krasojízda skončila, mutante. Je čas zemřít.}
 {113}{}{Dostanu se přes tebe ať už se ti to bude líbit nebo ne.}
 {114}{}{Nemůžeme si o tom promluvit?}
-{115}{ssa4a}{Vypuštění F.E.V. toxinu do naší ventilační soustavy z tebe nedělá hrdinu. Jsi jen další mutant, který musí být odstraněn.}
+{115}{ssa4a}{Vypuštění FEV toxinu do naší ventilační soustavy z tebe nedělá hrdinu. Jsi jen další mutant, který musí být odstraněn.}
 {116}{ssa4b}{Právě dochází k přehřátí jádra reaktoru, což znamená, že tady bude za chvíli dost horko. Ale nemusíš se bát, ty se toho nedožiješ. Nejsi žádný hrdina, jsi jenom chodící mrtvola.}
 {117}{}{Koukám plná huba keců, ale skutek utek.}
 {118}{}{Počkej chvíli! Zadrž! Nemůžeme si o tom promluvit?}

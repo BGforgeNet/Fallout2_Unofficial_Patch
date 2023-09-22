@@ -169,7 +169,7 @@
 {1001}{}{Berserk}
 {1002}{}{Šampión}
 {1003}{}{Vrah dětí}
-{1004}{}{Nuka Cola addiction}
+{1004}{}{Nuka-Cola addiction}
 {1005}{}{Buffout addiction}
 {1006}{}{Mentats addiction}
 {1007}{}{Psycho addiction}
@@ -195,11 +195,11 @@
 {1101}{}{Zabil jsi spoustu lidí. A to není moc dobrý způsob, jak se proslavit. Lidé z podsvětí si tě ale váží a respektují tě.}
 {1102}{}{Tvé činy z tebe udělaly v očích lidí šampióna. Tvůj boj se zlem a hanebností je všeobecně známý. Čestní lidé si tě váží a uznávají tě.}
 {1103}{}{Co ti k tomu mám říct? Zabíjíš nevinné a neozbrojené děti. Chceš opravdu slyšet, co si o tobě myslíme?}
-{1104}{}{Umíš si důkladně vychutnat Nuka Colu, nealko nápoj postnukleárního světa. Možná až moc důkladně. Pokud se chceš závislosti zbavit, pomůže ti jen dlouhá abstinence.}
+{1104}{}{Umíš si důkladně vychutnat Nuka-Colu, nealko nápoj postnukleárního světa. Možná až moc důkladně. Pokud se chceš závislosti zbavit, pomůže ti jen dlouhá abstinence.}
 {1105}{}{You are addicted to the drug Buffout. You must take this drug on an ongoing basis or suffer the effects of withdrawal.}
 {1106}{}{You are suffering from Mentat addiction. You must take this particular drug or suffer withdrawal.}
 {1107}{}{You have a drug addiction. If you do not take Psycho on a regular schedule, you will suffer. If you do, others will suffer.}
-{1108}{}{Your body has become addicted to RadAway. While not life threatening, you must take it regularly.}
+{1108}{}{Tvoje tělo potřebuje stálý přísun chemikálie RadAway. Nijak tě to sice neohrožuje na životě, nicméně ho musíš brát pravidelně. Pokud se chceš závislosti zbavit, pomůže ti jen dlouhá abstinence.}
 {1109}{}{Máš menší problém s alkoholem. No, vlastně je to spíš větší problém. Pokud se chceš závislosti zbavit, pomůže ti jen dlouhá abstinence.}
 {1110}{}{You have a drug addiction. You must take Jet on a regular basis.}
 {1111}{}{Bohužel, už je to tak. Jsi závislý na karetní hře "Tragic the Garnering". Cítíš neustálé nutkání shánět nové a nové sady karet.}

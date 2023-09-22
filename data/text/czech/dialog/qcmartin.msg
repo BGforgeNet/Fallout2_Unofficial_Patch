@@ -38,7 +38,7 @@
 {137}{}{Jakému viru?}
 {138}{}{To nezní moc dobře. Chci se ještě na něco zeptat.}
 {139}{}{To máte tedy štěstí. Možná teď konečně pochopíte jakou bolest můj předek, Zakladatel, cítil. Doufám, že všichni skončíte v pekle. Sbohem.}
-{140}{}{Říkají tomu F.E.V. toxin. Dělá s lidmi strašné věci než je zabije. Jedinou *výhodou* toho toxinu je, že zabíjí okamžitě. Ale vypadá to velmi bolestivě.}
+{140}{}{Říkají tomu FEV toxin. Dělá s lidmi strašné věci než je zabije. Jedinou *výhodou* toho toxinu je, že zabíjí okamžitě. Ale vypadá to velmi bolestivě.}
 {141}{}{To zní strašně. Ale proč používají na testy právě tvoje lidi?}
 {142}{}{Unesli nás všechny z našeho vaultu, protože potřebují pokusné osoby na testování protilátek. Potřebovali lidi, kteří žijí mimo Enklávu a jsou stále nezasažení radiací. A tak si vybrali nás.}
 {143}{}{Vybrali si vás? Jak a odkud?}

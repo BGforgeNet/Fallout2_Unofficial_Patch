@@ -92,7 +92,7 @@
 {280}{}{Miluju tě, člověče.}
 {281}{}{Jsi nejlepší.}
 {282}{}{Pořádně jsi to Vault City nandal!}
-{283}{}{./~ 99 syringes of Rad-away on the wall, 99 syringes... /~}
+{283}{}{./~ 99 stříkaček RadAway na zdi, 99 stříkaček... ./~}
 {284}{}{./~ Pracuju na re-ak-toru celý svůj život... ./~}
 {285}{}{Dokud jsem tě nepoznal, nikdy jsem žádnýmu hezounovi nevěřil.}
 {286}{}{Myslím, že někteří hezouni jsou přece jenom v pohodě.}

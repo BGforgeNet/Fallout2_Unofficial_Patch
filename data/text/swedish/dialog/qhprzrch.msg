@@ -8,7 +8,7 @@
 {107}{}{Nä.}
 {108}{}{Bye-bye.}
 {109}{prs2a}{Ah, affected by the test serums, I see. Um, I'll get you some help. Guards!}
-{110}{prs2b}{Doctor, I think you've been exposed to the F.E.V. Poor soul, I'll get you some help. Guards!}
+{110}{prs2b}{Doctor, I think you've been exposed to the FEV. Poor soul, I'll get you some help. Guards!}
 {111}{prs2c}{Now be a good mutant and stay put. Guards!}
 {112}{}{OK.}
 {113}{}{Uh uh. Bye bye.}
@@ -99,7 +99,7 @@
 {198}{}{Yeah, I knew about that part. Go on.}
 {199}{prs26}{Vice-President Bird may look like a drooling idiot, but I'll have you know that man's a national hero.}
 {200}{}{To you, probably.}
-{201}{prs27}{He's one of the bravest men I know. He volunteered to try one of the early versions of the F.E.V. toxin antidote. (sigh) Unfortunately, it didn't quite work out the way we'd hoped.}
+{201}{prs27}{He's one of the bravest men I know. He volunteered to try one of the early versions of the FEV toxin antidote. (sigh) Unfortunately, it didn't quite work out the way we'd hoped.}
 {202}{}{You mean that wasn't what you'd hoped for?}
 {203}{prs28}{It's tiny mocking minds like yours that prove the superiority of real humans over mutants.}
 {204}{}{He's still a gibbering idiot.}
@@ -140,7 +140,7 @@
 {239}{}{Cleanse the mutants? That sounds a bit drastic. How are you going to do that?}
 {240}{prs41}{We found a research facility in operational shape about 70 years ago. A former military base that had been used to research a special virus.}
 {241}{}{A virus?}
-{242}{prs42}{Yes, the F.E.V. virus. It was originally developed to turn soldiers into super-warriors but it failed. The warriors were tough and strong, but far too stupid. However, our brilliant Chemical Corps altered it.}
+{242}{prs42}{Yes, the FEV virus. It was originally developed to turn soldiers into super-warriors but it failed. The warriors were tough and strong, but far too stupid. However, our brilliant Chemical Corps altered it.}
 {243}{}{Altered the virus? Why?}
 {244}{prs43}{To turn it into a staggeringly effective killer. Any humanoid that isn't inoculated against its effects before its release will die. That is the Project.}
 {245}{}{That's insane.}
@@ -154,9 +154,9 @@
 {253}{}{Varför?}
 {254}{prs46b}{Some of the members of your tribe are showing some extremely interesting changes. If the danger to true humanity weren't so great I would think about studying them. But (sighs) that's not to be.}
 {255}{}{Not to be? Why not?}
-{256}{prs47}{Oh, but that's one of the advantages of the F.E.V. virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
+{256}{prs47}{Oh, but that's one of the advantages of the FEV virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
 {257}{}{OK. Then why did you have to kidnap my villagers and the people from Vault 13?}
-{258}{prs48}{Test subjects. Your villagers are all descended from vault stock and we had to make sure that the F.E.V. toxin was still effective. The subjects from Vault 13 test that and an inoculation against the FEV.}
+{258}{prs48}{Test subjects. Your villagers are all descended from vault stock and we had to make sure that the FEV toxin was still effective. The subjects from Vault 13 test that and an inoculation against the FEV.}
 {259}{}{You're not testing the inoculation on my people?}
 {260}{prs48a}{It's hardly necessary. I'm sure we could and it would work, but there's no reason to do so.}
 {261}{}{Did it ever occur to you that what you're doing is wrong?}
@@ -185,8 +185,8 @@
 {284}{prs59}{That's the spirit. God bless America. You should probably get back to your isolation ward now, though.}
 {285}{}{Uh, yes, sir. Whatever you say, sir.}
 {286}{}{Oh, I'll be able to find my own way back, sir. Goodbye.}
-{287}{prs60}{Why, against the F.E.V. toxin, of course. Damn brave sacrifice you and the other members of Vault 13 are making. On behalf of the United States government, and all humanity, I thank you. Now, we better get you back to your ward.}
-{288}{}{F.E.V. toxin? What the hell are you talking about? What's going on here?}
+{287}{prs60}{Why, against the FEV toxin, of course. Damn brave sacrifice you and the other members of Vault 13 are making. On behalf of the United States government, and all humanity, I thank you. Now, we better get you back to your ward.}
+{288}{}{FEV toxin? What the hell are you talking about? What's going on here?}
 {289}{}{Uh, yes sir. Whatever you say, sir.}
 {290}{}{Oh, I'll be able to find my own way back, sir. Goodbye.}
 {291}{prs61}{So what? If your kind is allowed to flourish it'll mean the end of the human race as we know it. We can't allow radioactive freaks to squeeze humans into extinction.}

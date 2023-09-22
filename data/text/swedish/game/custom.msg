@@ -35,7 +35,7 @@
 {503}{}{Whomever you want}
 {504}{}{Whoever is closest}
 {600}{}{I'm clean}
-{601}{}{Stimpacks when hurt a bit}
-{602}{}{Stimpacks when hurt a lot}
+{601}{}{Stimpaks when hurt a bit}
+{602}{}{Stimpaks when hurt a lot}
 {603}{}{Any drug some of the time}
 {604}{}{Any drug any time}

@@ -38,7 +38,7 @@
 {137}{}{Milyen vírusról van szó?}
 {138}{}{Hát, ez nem hangzik valami jól. Hadd kérdezzek valami mást!}
 {139}{}{Szerencsém van. Most legalább érezhetitek a fájdalmat, amit az ősöm, a Menedéklakó érzett. Remélem, mindannyian megdöglötök. Viszlát!}
-{140}{}{F.E.V toxinnak hívják. Borzalmas dolgokat művel az emberrel, mielőtt megöli őket. Az egyetlen "jó" dolog az benne, hogy relatíve gyorsan öl, de a halál, amit okoz, nagyon rondán fest.}
+{140}{}{FEV toxinnak hívják. Borzalmas dolgokat művel az emberrel, mielőtt megöli őket. Az egyetlen "jó" dolog az benne, hogy relatíve gyorsan öl, de a halál, amit okoz, nagyon rondán fest.}
 {141}{}{Ez elég undorító. Miért csinálnak ilyen teszteket?}
 {142}{}{Elrángattak bennünket a menedékünkből, hogy tesztalanyokat szerezzenek az ellenanyaghoz. Az Enklávén kívülről kellett nekik ember, és mi még "szennyezetlenek" vagyunk, szóval itt kötöttünk ki.}
 {143}{}{Elrángattak? Mégis hogyan, meg honnan?}

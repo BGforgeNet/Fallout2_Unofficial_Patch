@@ -2,7 +2,7 @@
 {101}{}{You see the party bartender.}
 {102}{}{It seems he's been sampling some of his merchandise.}
 {103}{}{Wha... whas..what cans I gets yas. [Hick.]}
-{104}{}{Nuka Cola [$6]}
+{104}{}{Nuka-Cola [$6]}
 {105}{}{Beer [$15]}
 {106}{}{Booze [$30]}
 {107}{}{Nothing today. Thanks.}

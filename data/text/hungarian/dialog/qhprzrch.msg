@@ -8,7 +8,7 @@
 {107}{}{Neh.}
 {108}{}{Viszlát!}
 {109}{prs2a}{Igen, már értem. A tesztszérum hatása allatt áll. Hadd segítsek! Őrség!}
-{110}{prs2b}{Doktor úr, szerintem ön F.E.V. vírustámadásnak volt kitéve. Szegény pára, majd én segítek! Őrség!}
+{110}{prs2b}{Doktor úr, szerintem ön FEV vírustámadásnak volt kitéve. Szegény pára, majd én segítek! Őrség!}
 {111}{prs2c}{Now be a good mutant and stay put. Guards!}
 {112}{}{Oké.}
 {113}{}{Ah - ha. Visz - lát!}
@@ -99,7 +99,7 @@
 {198}{}{Ja, ismerem ezt a részt. Folytassa!}
 {199}{prs26}{Bird alelnök talán egy nyálas idiótának tűnik, de jobb ha tudja, hogy az az ember egy nemzeti hős.}
 {200}{}{Magának talán.}
-{201}{prs27}{Ő az egyik legbátrabb ember, akit ismerek. Önként vállalkozott, hogy kipróbálja az F.E.V. ellenszerének egy korai változatát. (sóhajt) Sajnos nem pontosan úgy működött, ahogy azt reméltük.}
+{201}{prs27}{Ő az egyik legbátrabb ember, akit ismerek. Önként vállalkozott, hogy kipróbálja az FEV ellenszerének egy korai változatát. (sóhajt) Sajnos nem pontosan úgy működött, ahogy azt reméltük.}
 {202}{}{Úgy érti, nem az történt, amiben reménykedett?}
 {203}{prs28}{A maguk pici, gúnyolódó agyacskája bizonyítja az emberek felsőbbrendűségét a mutánsok felett.}
 {204}{}{Ő még mindig csak egy össze-vissza beszélő idióta.}
@@ -140,7 +140,7 @@
 {239}{}{Megtisztítani a mutánsoktól? Ez egy kissé drasztikusnak hangzik. Hogy akarják ezt véghezvinni?}
 {240}{prs41}{Körülbelül 70 éve találtunk egy működő kutatóközpontot. Egy korábbi katonai bázisról van szó, amelyet egy speciális vírus kifejlesztésére használtak.}
 {241}{}{Vírust mondott?}
-{242}{prs42}{Igen. A F.E.V. vírusról van szó. Eredetileg azért fejlesztették ki, hogy katonákat szuper-harcosokká változtasson, de a kísérlet elbukott. A harcosok kemények és erősek lettek, de nagyon buták. Szerencsére, a mi briliáns vegyi osztagunk megváltoztatta.}
+{242}{prs42}{Igen. A FEV vírusról van szó. Eredetileg azért fejlesztették ki, hogy katonákat szuper-harcosokká változtasson, de a kísérlet elbukott. A harcosok kemények és erősek lettek, de nagyon buták. Szerencsére, a mi briliáns vegyi osztagunk megváltoztatta.}
 {243}{}{Megváltoztatta a vírust? Miért?}
 {244}{prs43}{To turn it into a staggeringly effective killer. Any humanoid that isn't inoculated against its effects before its release will die. That is the Project.}
 {245}{}{Ez őrület!}
@@ -154,9 +154,9 @@
 {253}{}{Miért?}
 {254}{prs46b}{Some of the members of your tribe are showing some extremely interesting changes. If the danger to true humanity weren't so great I would think about studying them. But (sighs) that's not to be.}
 {255}{}{Miért nem lesz így?}
-{256}{prs47}{Oh, but that's one of the advantages of the F.E.V. virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
+{256}{prs47}{Oh, but that's one of the advantages of the FEV virus. We can release it right here and the Jet stream will carry it worldwide. It'll have plenty of time to cleanse every nook and cranny of the globe.}
 {257}{}{Oké. Akkor miért kellett elrabolni a törzsemet és a 13-as Menedékbeli embereket?}
-{258}{prs48}{Ők a tesztalanyok. A falubelijei mind Menedéklakók leszármazottai, s biztosnak kellett lennünk, hogy a F.E.V. vírus még mindig hat. A 13-as Menedék lakóin teszteljük a F.E.V.-et és a létrehozandó ellenanyagot.}
+{258}{prs48}{Ők a tesztalanyok. A falubelijei mind Menedéklakók leszármazottai, s biztosnak kellett lennünk, hogy a FEV vírus még mindig hat. A 13-as Menedék lakóin teszteljük a FEV-et és a létrehozandó ellenanyagot.}
 {259}{}{Csak nem az én embereimen tesztelik az oltóanyagot?}
 {260}{prs48a}{Nem szükséges. Biztos vagyok benne, hogy megtehetnénk, s működne a dolog, de nincs rá okunk, hogy megtegyük.}
 {261}{}{Előfordult már magával, hogy nem cselekedett helyesen?}
@@ -178,15 +178,15 @@
 {277}{prs56}{Lehet, hogy keményebb lesz, mint gondolja. Ha viszont megteszi, én, mint hazafi és az emberiség szolgája elnyerem jutalmam.}
 {278}{}{Itt az ideje, hogy átvegye a jutalmát...}
 {279}{}{Most hagyom gondolkozni a közelgő haláláról. Ne nyúljon a riasztóhoz! Viszlát!}
-{280}{prs57}{Very moving. But the radical changes your villagers and other mutants show is a far cry from the gradual changes of natural evolution.}
+{280}{prs57}{Nagyon megható... De a falubelijei és a többi mutáns által mutatott radikális változás nagyon távol áll a természetes evolúció fokozatosságától.}
 {281}{}{Lehetséges, hogy mi egy jobb emberi fajjá változunk. Gondolt erre valaha?}
 {282}{prs58}{Tényleg, ez nagyon valószínű. Ezesetben a mi küldetésünk még életbevágóbb az emberi faj túlélése érdekében.}
 {283}{}{Ha? Mit akar ez jelenteni?}
 {284}{prs59}{Ez a Szellemiség. Isten áldja Amerikát. Most már akár vissza is mehetne az elkülönítő cellájába!}
 {285}{}{Öö, igen, uram. Amit csak mond, uram.}
 {286}{}{Ó, visszatalálok én magamtól is, uram. Viszlát!}
-{287}{prs60}{Miért? A F.E.V. miatt, természetesen. Rohadt bátor önfeláldozás, amit maga és a 13-as Menedék lakói tesznek. Az Egyesült Államok kormánya és az egész emberiség nevében köszönöm. Most jobb ha visszavezetik az elkülönítő cellájába.}
-{288}{}{F.E.V.? Mi a fenéről beszél? Mi folyik itt?}
+{287}{prs60}{Miért? A FEV miatt, természetesen. Rohadt bátor önfeláldozás, amit maga és a 13-as Menedék lakói tesznek. Az Egyesült Államok kormánya és az egész emberiség nevében köszönöm. Most jobb ha visszavezetik az elkülönítő cellájába.}
+{288}{}{FEV? Mi a fenéről beszél? Mi folyik itt?}
 {289}{}{Óh, igen uram. Amit csak mond, uram.}
 {290}{}{Ó, visszatalálok én magamtól is, uram. Viszlát!}
 {291}{prs61}{És akkor? Ha engednénk a fajtáját virágzani, az az ismert emberiség végét jelentené. Nem engedhetjük meg, hogy maguk, radioaktív szörnyszülöttek, kihalásba taszítsák az emberiséget.}

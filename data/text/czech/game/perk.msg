@@ -55,7 +55,7 @@
 {155}{}{Závislost na Buffoutu}
 {156}{}{Závislost na Mentats}
 {157}{}{Závislost na Psycho}
-{158}{}{Závislost na Radaway}
+{158}{}{Závislost na RadAway}
 {159}{}{Zbraň s dlouhým dosahem. Šance na zásah zvýšena o (VN-2)*8}
 {160}{}{Přesnost zbraně. Šance na zásah zvýšena o 20%.}
 {161}{}{Penetrace zbraně. Snižuje TZ o 80%.}

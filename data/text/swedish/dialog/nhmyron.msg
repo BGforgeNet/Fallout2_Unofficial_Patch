@@ -35,15 +35,15 @@
 {266}{}{Let's get more women in this chicken-shit outfit.}
 {267}{}{Could we go somewhere where there's more women?}
 {268}{}{You should be glad I'm with you to point out all your stupid mistakes.}
-{375}{}{Hey, I'm dying over here! Give me a stimpack already!}
+{375}{}{Hey, I'm dying over here! Give me a stimpak already!}
 {376}{}{Is this my blood?}
 {377}{}{Medic!}
 {378}{}{Owwwww. Fuck! Owwwww, that hurts!}
 {379}{}{Ow! That smarts!}
 {380}{}{Owwwwwwww Owwwww Ow. Ow. Ow?}
 {381}{}{Owwww. Wish SOMEONE would patch these wounds.}
-{390}{}{Give me a goddamn stimpack before I pass out!}
-{391}{}{Give me a damn stimpack! I'm going into shock!}
+{390}{}{Give me a goddamn stimpak before I pass out!}
+{391}{}{Give me a damn stimpak! I'm going into shock!}
 {392}{}{Somebody give me some first aid, fast! I'm dying here!}
 {400}{}{Whoa... I'm feeling a little weak...}
 {401}{}{Let's see... I'm nauseous... palpitations... fever. Most likely poison.}
@@ -84,7 +84,7 @@
 {466}{}{Nothing like a strict drug regimen to keep my mind limber.}
 {467}{}{This doesn't mean we're married, does it?}
 {468}{}{Got any weed?}
-{469}{}{Let me hold the stimpacks, okay?}
+{469}{}{Let me hold the stimpaks, okay?}
 {470}{}{Ahhhhhhhhh.}
 {471}{}{Ooooooohhh. Aaaaaaaah. Mmmmmm.}
 {472}{}{I love it when you do that.}
@@ -128,11 +128,11 @@
 {554}{}{I was here first. But have it your way.}
 {560}{}{Don't need to tell me twice.}
 {561}{}{I could use some womanly healing, know what I mean?}
-{562}{}{Ahhhhhhh. Good thing stimpacks aren't too addictive.}
-{563}{}{Oooooh, yeah. Good thing stimpacks aren't too addictive.}
+{562}{}{Ahhhhhhh. Good thing stimpaks aren't too addictive.}
+{563}{}{Oooooh, yeah. Good thing stimpaks aren't too addictive.}
 {570}{}{Don't inject me with that shit. I'm fine, okay?}
 {571}{}{Stop mothering me. I'm all right.}
-{572}{}{Hey, don't sweat it. I'm fine. But let me hold the stimpacks anyway.}
+{572}{}{Hey, don't sweat it. I'm fine. But let me hold the stimpaks anyway.}
 {580}{}{Hey, let me join you again! C'mon!}
 {581}{}{I'm sorry I was being such a jerk. Give me another chance.}
 {582}{}{I'm getting sick of waiting around for you.}
@@ -312,8 +312,8 @@
 {1036}{myn143b}{Hey, can't get enough, huh? Whaddya need?}
 {1037}{}{An antidote for radscorpion venom.}
 {1038}{}{Some Jet.}
-{1039}{}{Some stimpacks.}
-{1040}{}{Can you make super stimpacks?}
+{1039}{}{Some stimpaks.}
+{1040}{}{Can you make super stimpaks?}
 {1041}{}{Nothing. I had some other questions...}
 {1042}{}{Det är inte viktigt.}
 {1050}{myn145a}{Uhm, I'm gonna need some radscorpion venom sacs first. Ironic, in'it?}
@@ -339,19 +339,19 @@
 {1105}{myn149a}{Piece of cake. How many packs you want?}
 {1106}{myn149b}{Hey, genius. Ever cross your mind that it might be easier just to stay outta trouble, huh? OK, how many?}
 {1107}{myn149c}{Just tell me how much and where you want it, beautiful.}
-{1111}{}{Make as many stimpacks as you can from what we're carrying.}
-{1113}{}{Can you make super stimpacks?}
+{1111}{}{Make as many stimpaks as you can from what we're carrying.}
+{1113}{}{Can you make super stimpaks?}
 {1114}{}{Forget it. I had some questions...}
 {1125}{myn151}{Sorry, we just ain't got what I need to whip up a stim. Let's see: You'll need some xander root... some broc flower... and an empty hypo.}
 {1126}{}{Can you make some other drugs?}
-{1127}{}{If you can make stimpacks, couldn't you make some super stimpacks?}
+{1127}{}{If you can make stimpaks, couldn't you make some super stimpaks?}
 {1128}{}{All right then. I had some questions...}
-{1135}{myn152}{Of course I could...'cept we ain't got what I need. Some of that mutated fruit for the citric acid... a splash a' Nuka Cola... and a normal stim pack.}
+{1135}{myn152}{Of course I could...'cept we ain't got what I need. Some of that mutated fruit for the citric acid... a splash a' Nuka-Cola... and a normal stimpak.}
 {1145}{myn153a}{Repeat after me: Myron's a genius. How many packs you want?}
 {1146}{myn153b}{How about. Stay. Out. Of. Trouble? Nevermind, obviously too tough a concept. How many this time?}
 {1147}{myn153c}{Myron's your man, beautiful. How many?}
 {1149}{}{Give me two.}
-{1151}{}{Make as many stimpacks as you can from what we're carrying.}
+{1151}{}{Make as many stimpaks as you can from what we're carrying.}
 {1170}{myn201a}{Who're you an' how the hell did you get in here? Wh-where are those jackass guards?}
 {1171}{myn201b}{Why, helll-ooooo there, beautiful. What can Myron do to, ah-uh, for you?}
 {1172}{}{Gud. Nuh-uh.}
@@ -571,7 +571,7 @@
 {1736}{}{You're kind of weird... I like that.}
 {1745}{myrn104a}{Stop mothering me.}
 {1746}{myn104b}{Owww! Hurts! It hur - oh, it. No. No, I'm pretty much okay. Stings a little.}
-{1747}{myn104c}{I'm dying over here! Gi-give me a stimpack. Or two. Or three.}
+{1747}{myn104c}{I'm dying over here! Gi-give me a stimpak. Or two. Or three.}
 {1748}{myn104d}{Is... that... you? Can't... see... losing... consciousness. *Cough* *Cough* Help... me...}
 {1749}{}{Hmmmm. Heal yourself again.}
 {1753}{}{Give me a little distance, Myron.}

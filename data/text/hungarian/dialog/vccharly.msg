@@ -10,8 +10,8 @@
 {109}{}{Ő Charlie. Már sokkal jobb bőrben van és nem kapkod levegő után.}
 {110}{}{Ez a férfi sugárfertőzött, orvosi kezelésre van szüksége.}
 {111}{}{Ez a férfi rémesen néz ki. Nem tudod, mi lehet a baja.}
-{112}{}{Kösz, de tényleg jól vagyok, komolyan! Az a Rad-Away cucc bejött.}
-{113}{}{You find a vein and inject the Rad-Away into Charlie's system.}
+{112}{}{Kösz, de tényleg jól vagyok, komolyan! Az a RadAway cucc bejött.}
+{113}{}{Találtál egy vénát és benyomod a RadAway-t Charlie testébe.}
 {114}{}{*Öhrkkkk*...}
 {115}{}{3 másodperc}
 {116}{}{Uhhhhh...*köhh* *köhh*...}
@@ -26,9 +26,9 @@
 {125}{}{*Rotty*}
 {126}{}{Most ittam utoljára ebből a mocskos vízből, az tuti.}
 {127}{}{Már nem is világítok. Szuper!}
-{128}{}{Ez a szar Rad-Away jól meghajt. WC-re kell mennem.}
+{128}{}{Ez a szar RadAway jól meghajt. WC-re kell mennem.}
 {129}{}{Kösz idegen, hálás vagyok. Sajnos nem volt pénzem az Auto-dokira.}
 {130}{}{Szeretnék adni valamit, de egy árva buznyákom sincs.}
 {131}{}{Most ittam utoljára ebből a mocskos vízből, az tuti.}
 {132}{}{Már nem is világítok. Szuper!}
-{133}{}{Ez a szar Rad-Away jól meghajt. WC-re kell mennem.}
+{133}{}{Ez a szar RadAway jól meghajt. WC-re kell mennem.}

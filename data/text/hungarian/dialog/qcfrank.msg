@@ -13,7 +13,7 @@
 {112}{ssa3alt}{Messzire jutottál, messzebb, mint szabad lett volna, de még nem találkoztál Frank Horrigan-nel. A történet most befejeződik, apró mutánsom. Itt az idő, hogy meghalj!}
 {113}{}{Átgázolok rajtad, akár tetszik, akár nem!}
 {114}{}{Nem beszélhetnénk ezt át egy kicsit?}
-{115}{ssa4a}{Az F.E.V. toxin légszűrőnkbe való pumpálása nem tesz téged hőssé. Csak egy újabb mutáns vagy, akinek egyetlen lehetséges sorsa van: a pusztulás}
+{115}{ssa4a}{Az FEV toxin légszűrőnkbe való pumpálása nem tesz téged hőssé. Csak egy újabb mutáns vagy, akinek egyetlen lehetséges sorsa van: a pusztulás}
 {116}{ssa4b}{Making our reactor melt-down means that things are going to be pretty hot in here soon. Pity you won't live long enough to see it. You're not a hero; you're just a walking corpse.}
 {117}{}{Vajon van akkora lángod, mint amekkora füstöd? Aligha.}
 {118}{}{Várj egy kicsit! Várj! Nem beszélhetnénk ezt meg?}

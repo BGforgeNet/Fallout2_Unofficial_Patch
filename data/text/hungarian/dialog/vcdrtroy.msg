@@ -141,7 +141,7 @@
  manufacturing drugs. His manners and language also leave MUCH to be desired.}
 {233}{}{Mesélj róla!}
 {234}{}{Maybe you should loosen up a little, Doc. A little drug use never hurt anyone. Well, except for
- those super stimpacks... and Buffout... and Psycho. Actually, never mind. I'll be going.}
+ those super stimpaks... and Buffout... and Psycho. Actually, never mind. I'll be going.}
 {235}{}{Ezt fogom tenni.}
 {236}{}{Hajlandó vagyok ezer dollárt fizetni egy adagért... és a hallgatásáért.}
 {237}{}{Van nálam egy adag Jet.}

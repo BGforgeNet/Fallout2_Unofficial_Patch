@@ -2,7 +2,7 @@
 {101}{}{Vidíš barmana.}
 {102}{}{Zdá se, že už ochutnal něco ze svého zboží.}
 {103}{}{C... cco... cco ssi dáš. (Škyt.)}
-{104}{}{Nuka Cola [$6]}
+{104}{}{Nuka-Cola [$6]}
 {105}{}{Pivo [$15]}
 {106}{}{Chlast [$30]}
 {107}{}{Dnes nic. Díky.}

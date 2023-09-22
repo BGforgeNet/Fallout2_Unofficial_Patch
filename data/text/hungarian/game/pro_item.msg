@@ -647,7 +647,7 @@
 {32900}{}{Mutagén szérum}
 {32901}{}{Egy különös szerves készítmény, mely visszafordíthatja az emberi mutációt.}
 {33000}{}{Lezuhant gépmadár}
-{33001}{}{This is wreckage from a verti-bird. Looks like it crashed here months ago.}
+{33001}{}{Ez egy gépmadár roncsa. Pár hónapja csapódhatott be.}
 {33100}{}{A Cat's Paw 5-ös száma}
 {33101}{}{Egy Cat's Paw magazin, mégpedig a nagyon ritka 5-ös szám. A képek mellett egy rendkívül érdekes cikk található benne az energia-fegyverekről.}
 {33200}{}{M3A1 "Zsírfegyver" GPI}

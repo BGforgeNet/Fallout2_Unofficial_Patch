@@ -49,13 +49,13 @@
 {401}{}{Hmm... zvedá se mi žaludek... zvýšenej tep... horečka. To bude nejspíš jed.}
 {402}{}{Eh... už... dlouho... nevydržím... jed... se... šíří...}
 {403}{}{Může ze mě někdo prosím vysát ten jed?}
-{410}{}{Is that me glowing? Give me some Rad-X next time we dick around in radiation zones, okay?}
-{411}{}{I need some RadAway before the radiation eats my Gnads-away.}
+{410}{}{To svítím já? Příště mi dej nějaký Rad-X, až budeme zase blbnout v radioaktivní zóně, jo?}
+{411}{}{Potřebuju nějaký RadAway, než mi radiace rozežere koule.}
 {412}{}{Co kdybysme se příště toho radioaktivního slizu rovnou napili? Aspoň chcípneme rychleji!}
 {413}{}{Svým tělem bych mohl osvětlovat celý New Reno.}
-{414}{}{I'm glowing brighter than New Reno at midnight. Anybody got some RadAway?}
+{414}{}{Svítím víc než New Reno o půlnoci. Nemá někdo RadAway?}
 {415}{}{No skvělý. Trocha radiace a hned je ze mě lidská baterka.}
-{416}{}{Somebody let me hold the RadAway. I won't use all of it. I promise.}
+{416}{}{Dejte mi někdo RadAway. Nepoužiju je všechny. Slibuju.}
 {425}{}{Co kdybysme se vrátili do prvního patra dungeonu mezi koboldy?}
 {426}{}{Ještě, že jsem hrával Dračí Doupě. Za ty roky jsem se naučil pár věci o odvaze.}
 {427}{}{Podej mi Buffout. Asi ho budu brzo potřebovat.}
@@ -345,7 +345,7 @@
 {1126}{}{Můžeš udělat nějaké jiné drogy?}
 {1127}{}{Když dokážeš udělat Stimpaky, nemohl bys taky udělat nějaké Super-Stimpaky?}
 {1128}{}{Tak dobře. Mám nějaké otázky...}
-{1135}{myn152}{Samozřejmě, že bych mohl... akorát, že na to nemáme suroviny. Potřebuju nějaký zmutovaný ovoce, abych získal kyselinu citrónovou... trochu Nuka Coly... a normální Stimpak.}
+{1135}{myn152}{Samozřejmě, že bych mohl... akorát, že na to nemáme suroviny. Potřebuju nějaký zmutovaný ovoce, abych získal kyselinu citrónovou... trochu Nuka-Coly... a normální Stimpak.}
 {1145}{myn153a}{Opakuj po mně: Myron je génius. Kolik jich chceš?}
 {1146}{myn153b}{Co takhle. Si. Dávat. Pozor? No nic, asi je to pro tebe moc složitý. Kolik jich chceš tentokrát?}
 {1147}{myn153c}{K službám, krásko. Kolik jich chceš?}

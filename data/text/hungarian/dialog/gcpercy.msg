@@ -47,7 +47,7 @@
 {146}{}{Merthogy...?}
 {147}{}{Hát, hiándzik. Azé. (Percy elhomályosult szemmel pislog rád) Aha, látom, tunni akarod, mi gyön le neked ebből!}
 {148}{}{Igen, általában ennél a résznél szoktam egyre növekvő érdeklődést tanúsítani. Folytassa!}
-{149}{}{Hát tudok egy helyet, ahun eccsomó békebeli anyagot halmoztak fel. Rad-X meg Radaway rakásba. Énnekem má' semmit senem ér, de egy simabőrű, mint te, tán hasznát veheti. Elvállalod akkó a munkát? Csak úgy fizetek, ha Woody épségbe' idetojja a képit.}
+{149}{}{Hát tudok egy helyet, ahun eccsomó békebeli anyagot halmoztak fel. Rad-X meg RadAway rakásba. Énnekem má' semmit senem ér, de egy simabőrű, mint te, tán hasznát veheti. Elvállalod akkó a munkát? Csak úgy fizetek, ha Woody épségbe' idetojja a képit.}
 {150}{}{Mégis mennyi az az "eccsomó"?}
 {151}{}{Rendben, elvállalom. Igyekszem mihamarabb visszajönni.}
 {152}{}{Nem, most a legkisebb dolgom is nagyobb annál, hogy ezzel foglalkozzak.}

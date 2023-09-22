@@ -57,7 +57,7 @@
 {156}{}{Nem, nem igazán. Valójában sokban különbözünk, és a DNS változás a legkevesebb. Ez sajnos a háttérsugárzásban eltöltött évek áldásos hatása.}
 {157}{}{És mi van, ha a DNS-ünk egy kicsit különbözik, he?}
 {158}{}{Nem tudom, ez pontosan mit jelent, de akkor mi van, ha kicsit különbözünk?}
-{159}{}{Oh, your DNA is more than just a *little* different. It's quite different. If I weren't so pressed for time by the Project I'd be interested in running further tests on your people, other than the F.E.V. toxicological study, of course. Fascinating work really.}
+{159}{}{Oh, your DNA is more than just a *little* different. It's quite different. If I weren't so pressed for time by the Project I'd be interested in running further tests on your people, other than the FEV toxicological study, of course. Fascinating work really.}
 {160}{}{Miről akarsz kérdezni?}
 {161}{}{Hogy van ez a DNS különbözőségével?}
 {162}{}{Maguk kísérleti nyúlnak használják a törzsemet?}
@@ -92,27 +92,27 @@
 {191}{}{Your kind clearly isn't capable of understanding what I'm trying to tell you. It's hopeless. You should leave now.}
 {192}{}{Hát, legalább megpróbáltam. Pusztuljon!}
 {193}{}{Jól van, megyek. Az egyikünk reménytelen eset, de nem hiszem, hogy én lennék az. Viszlát!}
-{194}{}{Toxikológiai vizsgálatok az F.E.V vírus hatékonyságát illetően, igen.}
-{195}{}{F.E.V. toxin? Az mi?}
+{194}{}{Toxikológiai vizsgálatok az FEV vírus hatékonyságát illetően, igen.}
+{195}{}{FEV toxin? Az mi?}
 {196}{}{Inkább valami más érdekelne.}
-{197}{}{F.E.V. toxin... Egy bonyolult probléma tökéletes megoldása.}
-{198}{}{Mi az az F.E.V. toxin?}
+{197}{}{FEV toxin... Egy bonyolult probléma tökéletes megoldása.}
+{198}{}{Mi az az FEV toxin?}
 {199}{}{Várjunk egy percet! Hadd kérdezzek valami mást!}
 {200}{}{Az egyik őrjáratunk talált rá a kutatási anyagra és a mintákra egy régi katonai bázis mellett, amit a toxin teljesen elpusztított.}
 {201}{}{Oké, most már tudom, hogy honnan származik. De mik a hatásai?}
-{202}{}{Az F.E.V. vírust eredetileg arra tervezték, hogy az embereket szuper-harcosokká változtassa. A kísérlet csúnya kudarcba torkollott, bár néhány változtatással a vírust sikeresen alkalmaztam az egyik titkosszolgálati ügynökön.}
+{202}{}{Az FEV vírust eredetileg arra tervezték, hogy az embereket szuper-harcosokká változtassa. A kísérlet csúnya kudarcba torkollott, bár néhány változtatással a vírust sikeresen alkalmaztam az egyik titkosszolgálati ügynökön.}
 {203}{}{Gratulálok! De hogy jön ez bárkinek a kiirtásához?}
-{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
+{204}{}{Áh, igen, igen, már épp rátértem volna... Az FEV csak néhány fajra fejti ki a hatását, csak az emberi vagy hasonló gén-fehérjékkel rendelkezőkre hat. Néhány évbe került csupán, hogy ezt a tulajdonságát megváltoztassuk. Közben a vírus még erőszakosabbá mutálódott. Az eredmény pontosan az volt, amit az Elnök akart, minden szempontból tökéletes gyilkos.}
 {205}{}{Tökéletes? Hogyhogy?}
-{206}{}{Hát nem nyilvánvaló, mutáns barátom? Az F.E.V. toxin egy halálos vírus, hála nekem, és hála az ismeretlen zseninek, sőt, Mesternek, csak emberekre hat, függetlenül attól, mutáns-e vagy sem.}
+{206}{}{Hát nem nyilvánvaló, mutáns barátom? Az FEV toxin egy halálos vírus, hála nekem, és hála az ismeretlen zseninek, sőt, Mesternek, csak emberekre hat, függetlenül attól, mutáns-e vagy sem.}
 {207}{}{Vagyis?}
-{208}{}{That means that we have the perfect disposal device for all of the near-human mutants infecting the globe.}
+{208}{}{Vagyis a kezünkben van a történelem legtökéletesebb eszköze, hogy megtisztítsuk a bolygót a fél vagy alig emberektől, akik beszennyezik azt.}
 {209}{}{Még mindig nem értem, miért lenne "tökéletes".}
 {210}{}{Kérdeznék még ezt-azt az őrült terveikről.}
-{211}{}{The F.E.V. toxin will only attack humans, leaving everything else alive. Better still, within a month all the mutants will be dead and the F.E.V. toxin will die out as soon as it runs out of hosts.}
+{211}{}{Az FEV toxin csak embereket támad meg, mindenki mást életben hagy. Alig egy hónap múltán minden mutáns halott lesz a Földön, és a vírus egyszerűen magától kihal, amint eltűnik az áldozatokból.}
 {212}{}{Nincs itt elég gépmadár ahhoz, hogy szétszórják a vírust az egész bolygón.}
 {213}{}{Maga viszont áldozatul eshet néhány nagy energiájú lövésnek. Ideje imádkozni!}
-{214}{}{You're right, there aren't. But we don't need them. We have a release system that will spray the F.E.V. toxin straight from the vats to the outside atmosphere. The Jet stream will take care of the rest. Global saturation within two weeks.}
+{214}{}{Igen, igaza van. De nincs is rájuk szükség! Az Enklávénak van egy kibocsátó rendszere, a tartályokból egyszerűen kipermetezzük a vírust egyenesen az atmoszférába. A passzátszél majd elvégzi a többi munkát. A vírus a nagy szélrendszerek révén a világ bármely pontjára két hét alatt eljut.}
 {215}{}{Két hét alatt?}
 {216}{}{Igen, két hét a terjedési idő, és még kétszer ennyi, hogy elvégezze a dolgát. Azután az Egyesült Államok elkezdheti az újranépesítést, az emberi faj pedig megmenekül.}
 {217}{}{Maga meg van győződve arról, hogy jó dolgot cselekszik?}

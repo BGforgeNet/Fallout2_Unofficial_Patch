@@ -13,7 +13,7 @@
 {112}{ssa3alt}{You've gotten a lot farther than you should have, but then you haven't met Frank Horrigan either. Your ride's over, mutie. Time to die.}
 {113}{}{I'm going past you whether you like it or not.}
 {114}{}{Can't we talk this over?}
-{115}{ssa4a}{Dumping the F.E.V. toxin into our air doesn't make you a hero. You're just another mutant that needs to be put down.}
+{115}{ssa4a}{Dumping the FEV toxin into our air doesn't make you a hero. You're just another mutant that needs to be put down.}
 {116}{ssa4b}{Making our reactor melt-down means that things are going to be pretty hot in here soon. Pity you won't live long enough to see it. You're not a hero; you're just a walking corpse.}
 {117}{}{You talk the talk but can you walk the walk? I don't think so.}
 {118}{}{Wait a minute! Hold on! Can't we talk this over?}

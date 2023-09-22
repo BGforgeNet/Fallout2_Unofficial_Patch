@@ -27,7 +27,7 @@
 {230}{}{(Cody egyre csak bámul.)}
 {231}{}{Ööö... jól vagy, Cody?}
 {239}{}{Hát, majd később találkozunk, Cody. Vigyázz magadra!}
-{251}{}{Hé, Cody. Nem akarsz egy kis Nuka Kólát?}
+{251}{}{Hé, Cody. Nem akarsz egy kis Nuka-Kólát?}
 {252}{}{Nem akarsz egy kis sörtöt, kölyök? Nem lehet elég korán kezdeni, mondta az anyám... már amikor épp józan volt.}
 {253}{}{Van egy kis Jetem, Cody. Nem akarsz egyet repülni }
 {254}{}{Van egy kis Jetem, Cody. Nem akarsz egyet repülni }

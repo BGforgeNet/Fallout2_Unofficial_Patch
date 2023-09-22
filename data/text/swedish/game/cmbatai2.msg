@@ -364,11 +364,11 @@
 {1735}{}{Nggg! Solar plexus!}
 {1760}{}{Dammit! My leg!}
 {1761}{}{I don't need two legs to kick your ass.}
-{1762}{}{Gonna need a stimpack for my leg...}
+{1762}{}{Gonna need a stimpak for my leg...}
 {1763}{}{Urggg... leg's... screwed...}
 {1770}{}{Dammit! My leg!}
 {1771}{}{*Ergg* Gonna have a limp after that one...}
-{1772}{}{Gonna need a stimpack for my leg...}
+{1772}{}{Gonna need a stimpak for my leg...}
 {1773}{}{Urggg... leg's... screwed...}
 {1780}{}{Shit! Not the eyes!}
 {1781}{}{Trying to cripple my depth perception, huh?}
@@ -385,15 +385,15 @@
 {1801}{}{What just hit me in the head?}
 {1802}{}{Ngggg}
 {1803}{}{Glad I'm dusted on Jet, or that would have hurt.}
-{1804}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
+{1804}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
 {1810}{}{Hey! Somebody just hit my arm!}
 {1811}{}{Look, my arm is for needles only. Stop attacking it.}
 {1812}{}{Nggggg}
-{1813}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
+{1813}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
 {1820}{}{Hey! Somebody just hit my arm!}
 {1821}{}{Look, my arm is for needles only. Stop attacking it.}
 {1822}{}{Nggggg}
-{1823}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
+{1823}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
 {1830}{}{My spleen!}
 {1831}{}{Ow! Owwww, my stupid chest! Ow!}
 {1832}{}{Hey! What did you hit me in the chest for, asshole?!}
@@ -401,13 +401,13 @@
 {1834}{}{Whoa. My chest. You hit it. Cool.}
 {1835}{}{Nrgggg}
 {1836}{}{*hfff*}
-{1837}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
+{1837}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
 {1860}{}{Hey! Somebody just hit my leg!}
 {1861}{}{Hey! I walk with that leg!}
-{1862}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
+{1862}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
 {1870}{}{Hey! Somebody just hit my leg!}
 {1871}{}{Hey! I walk with that leg!}
-{1872}{}{Owwwww! Somebody get me a stimpack! Or some Jet!}
+{1872}{}{Owwwww! Somebody get me a stimpak! Or some Jet!}
 {1880}{}{That didn't FEEL like a needle in my eye...}
 {1881}{}{Hey! I see with that eye!}
 {1882}{}{My eyes! My eyes! My eyes hurt!}
@@ -835,7 +835,7 @@
 {3204}{}{Aieeeeeee! Don't hurt me! Don't hurt me!}
 {3205}{}{This hallucination just became way too real for me...}
 {3220}{}{Eat this!}
-{3221}{}{You better hope you have some stimpacks... or some Jet.}
+{3221}{}{You better hope you have some stimpaks... or some Jet.}
 {3222}{}{Maybe I can sell your body for some Jet...}
 {3223}{}{Gonna... hit... you... when... I...catch... you.}
 {3224}{}{Maybe killing you will be the fix I need...}
@@ -871,7 +871,7 @@
 {12027}{}{Lock and load!}
 {12028}{}{Rock and roll!}
 {12029}{}{Look who just walked into the free fire zone...}
-{12030}{}{Better hope you packed some stimpacks, tribal...}
+{12030}{}{Better hope you packed some stimpaks, tribal...}
 {12031}{}{Contact!}
 {12032}{}{The area's been breached!}
 {12033}{}{We got us an intruder, boys!}
@@ -888,7 +888,7 @@
 {12045}{}{You want some of this?! YOU WANT SOME OF THIS?!}
 {12046}{}{Hiyaaaaaa!!!}
 {12047}{}{Get some!}
-{12048}{}{Better hope you packed some stimpacks, tribal...}
+{12048}{}{Better hope you packed some stimpaks, tribal...}
 {12049}{}{Kiss your ass good-bye...}
 {12060}{}{You fight like old people fuck!}
 {12061}{}{Ha! Missed!}
@@ -927,9 +927,9 @@
 {12200}{}{Whoa, this shit's getting too heavy.}
 {12201}{}{Time to go get some of the other boys...}
 {12202}{}{I'll get you next time!}
-{12203}{}{You're just lucky I ain't got no stimpacks on me...}
+{12203}{}{You're just lucky I ain't got no stimpaks on me...}
 {12204}{}{Time to get the hell outta Dodge.}
-{12205}{}{Need to find some stimpacks, fast...}
+{12205}{}{Need to find some stimpaks, fast...}
 {12220}{}{I'm gonna roll you like dice.}
 {12221}{}{And here I was, thinking I wasn't gonna get to kill no one today...}
 {12222}{}{Looks like Golgotha just got a new resident...}
@@ -974,11 +974,11 @@
 {12335}{}{Nggg! Solar plexus!}
 {12360}{}{Dammit! My leg!}
 {12361}{}{*Ergg*}
-{12362}{}{Gonna need a stimpack for my leg...}
+{12362}{}{Gonna need a stimpak for my leg...}
 {12363}{}{Urggg... leg's... screwed...}
 {12370}{}{Dammit! My leg!}
 {12371}{}{*Ergg*}
-{12372}{}{Gonna need a stimpack for my leg...}
+{12372}{}{Gonna need a stimpak for my leg...}
 {12373}{}{Urggg... leg's... screwed...}
 {12380}{}{My eye! My beautiful eye!}
 {12381}{}{Trying to cripple my depth perception, huh?}

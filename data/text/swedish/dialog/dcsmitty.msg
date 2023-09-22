@@ -33,7 +33,7 @@
 {301}{}{Vadå?}
 {310}{}{Hmm, that looks jist like a fuel cell regulator. If I had a car that ran, it'd sure improve the mileage on it.}
 {311}{}{Vadå?}
-{320}{}{That was mighty darn kind of you. Thanks mucho, compadre. Here's a little something for your trouble. It'll come in handy 'round these parts. (He hands you a Stimpack.)}
+{320}{}{That was mighty darn kind of you. Thanks mucho, compadre. Here's a little something for your trouble. It'll come in handy 'round these parts. (He hands you a stimpak.)}
 {321}{}{Thanks, Smitty. No problem. See you around.}
 {322}{}{Well, uhhh... Thanks, but I already headed over to Mom's and got some eats myself, so I won't be needin' that anymore.}
 {323}{}{Oops, I'm not the usual delivery person. He called in sick today. Can I get some experience points anyway?}

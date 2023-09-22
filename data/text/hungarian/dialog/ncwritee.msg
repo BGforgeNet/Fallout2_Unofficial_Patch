@@ -21,7 +21,7 @@
 {209}{}{Azt hittem, az Elnök csak legenda, egy mumus, akivel a gyerekeket ijesztgetik.}
 {210}{}{Látszik, hogy megjártad a poklot. Pihenj egyet, megérdemled!}
 {211}{}{Nem akarod újra játszani a játékot egy másik karakterrel? Fektess minél nagyobb hangsúlyt a Túlélés képzettségre!}
-{212}{}{F.E.V.? Az meg mi a szösz?}
+{212}{}{FEV? Az meg mi a szösz?}
 {213}{}{New Renót Chris Avellone tervezte és Tom French szkriptelte. Tom egy zenekarban játszik, Chris meg magával játszik.}
 {214}{}{Remélem, hogy a Fallout 3-ban főszereplő leszek, mint például Tandi vagy Ian. Bűnözőket játszani tök gyíkság.}
 {215}{}{Hallottam, hogy lenyomtad délen az Enklávét. Ez bizony elég bátor tett volt!}

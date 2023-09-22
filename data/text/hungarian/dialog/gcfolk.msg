@@ -92,7 +92,7 @@
 {280}{}{Csíplek ám.}
 {281}{}{Te vagy a legjobb!}
 {282}{}{Addig nukézzuk le Menedékvárost, amíg nem késő!}
-{283}{}{./~ 99 syringes of Rad-away on the wall, 99 syringes... /~}
+{283}{}{/~ Uránízű banán, nincs a banánfán... /~}
 {284}{}{/~ Reddingben születtem, ott is nőttem fel, vannak jobb helyek, de nekem megfelel... /~}
 {285}{}{Amíg nem jöttél ide, sosem bíztam volna egy simabőrűben.}
 {286}{}{Hát el kell ismernem, egy-két simabőrű nem is olyan rossz ember.}

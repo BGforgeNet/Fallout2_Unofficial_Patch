@@ -646,8 +646,8 @@
 {32801}{}{This black sphere is some strange precognitive device... a small window on the top seems to be able to predict the future! Pre-war humanity must have been geniuses to invent such a wonder!}
 {32900}{}{Mutagenic Serum}
 {32901}{}{A strange organic concoction that could possibly reverse the Mutation Factor in humans.}
-{33000}{}{Crashed Verti-Bird}
-{33001}{}{This is wreckage from a verti-bird. Looks like it crashed here months ago.}
+{33000}{}{Crashed Vertibird}
+{33001}{}{This is wreckage from a vertibird. Looks like it crashed here months ago.}
 {33100}{}{Cat's Paw Issue #5}
 {33101}{}{This is the hard to find Issue 5 of Cat's Paw magazine. The pictures aside, this issue has a wonderful article on energy weapons.}
 {33200}{}{M3A1 "Grease Gun" SMG}

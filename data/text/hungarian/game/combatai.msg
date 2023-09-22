@@ -1359,8 +1359,8 @@
 {10127}{}{Veszély van, Bill Williamson, veszély!}
 {10128}{}{Gort! Klaatu Berada Niktu!}
 {10129}{}{Sssszzzzztt *POP*}
-{10130}{}{Would you like cream with that, ma'am?}
-{10131}{}{Yes sir, a Mr. Handy unit, sir.}
+{10130}{}{Kérsz hozzá tejszínt is?}
+{10131}{}{Igen, uram, egy Mr. Handy egység, uram.}
 {10132}{}{Gyakorlott vagyok.}
 {10133}{}{De én fordító-robot vagyok.}
 {10134}{}{Nanu-nanu.}
@@ -1380,7 +1380,7 @@
 {10148}{}{Gort! Klaatu Berada Niktu!}
 {10149}{}{Sssszzzzztt *POP*}
 {10150}{}{Kérsz hozzá tejszínt is?}
-{10151}{}{Igen, Uram, egy Mr. Handy egység, Uram.}
+{10151}{}{Igen, uram, egy Mr. Handy egység, uram.}
 {10152}{}{Gyakorlott vagyok.}
 {10153}{}{De én fordító-robot vagyok.}
 {10154}{}{Nanu-nanu.}
