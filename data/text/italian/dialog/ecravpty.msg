@@ -2,7 +2,7 @@
 {101}{}{Vedi un barista specializzato in ricevimenti.}
 {102}{}{Sembra aver assaggiato un po' della sua merce.}
 {103}{}{Co...Cosh..Cosa possho darti...? [Hick.]}
-{104}{}{Nuka Cola [6$]}
+{104}{}{Nuka-Cola [6$]}
 {105}{}{Birra [15$]}
 {106}{}{Liquore [30$]}
 {107}{}{Per oggi niente. Grazie.}

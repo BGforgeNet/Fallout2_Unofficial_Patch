@@ -131,7 +131,7 @@
 {231}{}{Bene.}
 {232}{}{Potrebbe anche dire a questo piccolo vandalo del suo amico che sta sprecando il suo considerevole intelletto. Il suo comportamento e il suo modo di parlare, inoltre, lasciano MOLTO a desiderare.}
 {233}{}{Ma non mi dica...}
-{234}{}{Forse dovrebbe rilassarsi un po', Doc. Un po' di droga non ha mai fatto male a nessuno. Beh, a parte quei super stimpack... e il Buffout... e la Psycho. Ok, come non detto. Vado.}
+{234}{}{Forse dovrebbe rilassarsi un po', Doc. Un po' di droga non ha mai fatto male a nessuno. Beh, a parte quei super stimpak... e il Buffout... e la Psycho. Ok, come non detto. Vado.}
 {235}{}{Lasciamo perdere.}
 {236}{}{Si', sono disposto a darle mille dollari per un campione... e per il suo silenzio.}
 {237}{}{Ho un campione di Jet proprio qui.}
@@ -250,7 +250,7 @@
 {351}{}{Hmmm. Okay, avrei delle altre domande...}
 {352}{}{Va bene, grazie lo stesso.}
 {353}{}{Va bene, grazie lo stesso..}
-{354}{}{Sono spiacente. Questi strumenti sono ad uso esclusivo dei Cittadini, e una lista di tutti i pazienti e' custodita nel nostro schedario... [Abbassa la voce.] Pero', gli stimpack che si trovano al piano di sotto non sarebbero una grave perdita, se lei li usasse per qualcosa di buono.}
+{354}{}{Sono spiacente. Questi strumenti sono ad uso esclusivo dei Cittadini, e una lista di tutti i pazienti e' custodita nel nostro schedario... [Abbassa la voce.] Pero', gli stimpak che si trovano al piano di sotto non sarebbero una grave perdita, se lei li usasse per qualcosa di buono.}
 {355}{}{Hmmm. Okay, avrei delle altre domande...}
 {356}{}{Grazie. Vado a cercarli.}
 {357}{}{Certamente, Capitano. Mi faccia vedere quello che posso fare per lei e per i suoi amici.}

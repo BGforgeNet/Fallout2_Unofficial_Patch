@@ -21,7 +21,7 @@
 {209}{}{Pensé que el Presidente era un mito, un hombre del saco que se usaba para asustar a los niños.}
 {210}{}{Parece como si hubieras cruzado el infierno y logrado salir. Relájate un poco. Te lo mereces.}
 {211}{}{¿Vas a volver a jugar con un personaje distinto? Te recomiendo uno del tipo superviviente.}
-{212}{}{V.E.F.? ¿Qué es eso?}
+{212}{}{VEF? ¿Qué es eso?}
 {213}{}{Nuevo Reno fue diseñado por Chris Avellone y programado por Tom French. Tom toca en una banda. Chris se toca a sí mismo.}
 {214}{}{Espero convertirme en un personaje principal en Fallout 3, como Tandi o Ian. Ser un criminal es una mierda.}
 {215}{}{He oído que te cargaste a ese Enclave allá por el sur. Eres valiente.}

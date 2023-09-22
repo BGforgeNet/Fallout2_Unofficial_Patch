@@ -58,7 +58,7 @@
 {157}{}{Il Senatore McClure mi ha detto che lei dovrebbe avere un regolatore idroelettrico di magnetosfera e che avrei potuto averlo.}
 {158}{}{Il Primo Cittadino mi manda qui per ricevere la mia ricompensa.}
 {159}{}{Al momento non mi serve nulla, grazie.}
-{160}{}{Questo e' l'Emporio. Abbiamo vari tipi di oggetti... generi di prima necessita', qualche libro, manuali, qualche attrezzo, stimpack, medicinali, un po' di questo e un po' di quello.}
+{160}{}{Questo e' l'Emporio. Abbiamo vari tipi di oggetti... generi di prima necessita', qualche libro, manuali, qualche attrezzo, stimpak, medicinali, un po' di questo e un po' di quello.}
 {161}{}{Bene. Posso vedere quel che avete?}
 {162}{}{Hai un GECK?}
 {163}{}{Valerie, giu' al capanno riparazioni, avrebbe bisogno di una nuova chiave inglese e di un paio di pinze.}

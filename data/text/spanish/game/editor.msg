@@ -173,7 +173,7 @@
 {1005}{}{Adicto a los esteroides}
 {1006}{}{Adicto a los Mentats}
 {1007}{}{Adicto al Psico}
-{1008}{}{Adicto al Rad-Away}
+{1008}{}{Adicto al RadAway}
 {1009}{}{Adicto al alcohol}
 {1010}{}{Adicto al Jet}
 {1011}{}{Adicto al Tragic}
@@ -199,7 +199,7 @@
 {1105}{}{Eres adicto a los esteroides. Debes tomarlos regularmente o sufrirás los efectos de la abstinencia.}
 {1106}{}{Eres adicto a los mentats. Debes tomarlos regularmente o sufrirás los efectos de la abstinencia.}
 {1107}{}{Eres adicto al psico. Si no lo tomas regularmente, sufrirás. Si lo tomas, sufrirán los demás.}
-{1108}{}{Eres adicto al Rad-Away. Si bien no pone en peligro tu vida, debes tomarlo con regularidad.}
+{1108}{}{Eres adicto al RadAway. Si bien no pone en peligro tu vida, debes tomarlo con regularidad.}
 {1109}{}{Tienes un problema con el alcohol. Realmente tienes un grave problema con tus hábitos de bebida.}
 {1110}{}{Eres adicto al Jet. Debes tomarlo regularmente.}
 {1111}{}{Trágicamente, eres adicto al juego Tragic: The Catering. Estás constantemente buscando nuevas cartas.}

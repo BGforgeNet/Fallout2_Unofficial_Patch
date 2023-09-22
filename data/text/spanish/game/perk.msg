@@ -55,7 +55,7 @@
 {155}{}{Adicto a los Esteroides}
 {156}{}{Adicto a los Mentats}
 {157}{}{Adicto al Psico}
-{158}{}{Adicto al Rad-Away}
+{158}{}{Adicto al RadAway}
 {159}{}{Arma de gran distancia}
 {160}{}{Precisión de Arma}
 {161}{}{Penetración de Arma}

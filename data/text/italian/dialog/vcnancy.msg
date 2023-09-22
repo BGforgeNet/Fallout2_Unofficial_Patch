@@ -10,7 +10,7 @@
 {109}{}{Vediamo... Alle 1400 dobbiamo fare le iniezioni a tre Servi...}
 {110}{}{Tutti questi "bip" mi stanno facendo impazzire...}
 {111}{}{Sarei pronta a giurare che i database medici parlino tra di loro...}
-{112}{}{Vediamo un po'... tre siringhe, disinfettante, tre fiale di RadX...}
+{112}{}{Vediamo un po'... tre siringhe, disinfettante, tre fiale di Rad-X...}
 {113}{}{Sara' meglio preparare il dr. Troy per quel seminario che si terra' domani...}
 {114}{}{Esatto, ANCORA una volta mi fanno lavorare fino a tardi. Succede spesso che io debba fermarmi qui per compilare delle liste.}
 {115}{}{Forse farebbe meglio a tornare domattina.}

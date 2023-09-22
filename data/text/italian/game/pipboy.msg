@@ -753,7 +753,7 @@
 {14011}{}{2. Una contatore Geiger. Siate sempre accorti nel monitorare}
 {14012}{}{   i livelli di radioattivita' ambientale ovunque viaggiate!}
 {14013}{}{}
-{14014}{}{3. Almeno due stimpack in ogni momento. La piu' piccola     }
+{14014}{}{3. Almeno due stimpak in ogni momento. La piu' piccola     }
 {14015}{}{   ferita o taglio potrebbe introdurre pericolosi batteri   }
 {14016}{}{   all'interno del vostro organismo!}
 {14017}{}{**END-PAR**}

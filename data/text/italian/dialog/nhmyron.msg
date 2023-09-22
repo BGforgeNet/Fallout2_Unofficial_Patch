@@ -35,27 +35,27 @@
 {266}{}{Non credi che dovremmo avere piu' donne in questo gruppo del cavolo?}
 {267}{}{Possiamo andare da qualche parte dove ci siano piu' donne?}
 {268}{}{Dovresti essere contento che ci sia io a farti notare tutti i tuoi stupidi errori.}
-{375}{}{Ehi, sto morendo! Dammi subito uno stimpack!}
+{375}{}{Ehi, sto morendo! Dammi subito uno stimpak!}
 {376}{}{Questo e' il mio sangue?}
 {377}{}{Un dottore!}
 {378}{}{Owwwww. Cazzo! Owwwww, che male!}
 {379}{}{Ow! Come brucia!}
 {380}{}{Owwwwwwww Owwwww Ow. Ow. Ow?}
 {381}{}{Owwww. QUALCUNO potrebbe gentilmente bendarmi queste ferite?}
-{390}{}{Dammi un dannatissimo stimpack prima che tiri le cuoia!}
-{391}{}{Dammi un dannato stimpack! Sto per andare in shock!}
+{390}{}{Dammi un dannatissimo stimpak prima che tiri le cuoia!}
+{391}{}{Dammi un dannato stimpak! Sto per andare in shock!}
 {392}{}{Qualcuno mi faccia un intervento d'urgenza, presto! Sto morendo!}
 {400}{}{Whoa... mi sento un po' debole...}
 {401}{}{Vediamo un po'... ho la nausea... le palpitazioni... la febbre. Molto probabilmente si tratta di veleno.}
 {402}{}{Uh... non... resistero'... ancora a... lungo... il veleno... si diffonde...}
 {403}{}{Qualcuno potrebbe, per cortesia, succhiarmi via il veleno?}
-{410}{}{Is that me glowing? Give me some Rad-X next time we dick around in radiation zones, okay?}
-{411}{}{I need some RadAway before the radiation eats my Gnads-away.}
+{410}{}{Sono io che brillo? Dammi un po' di Rad-X la prossima volta che entriamo in zone radioattive, okay?}
+{411}{}{Mi serve un po' di RadAway prima che le radiazioni si mangino il mio "reattore".}
 {412}{}{Perche' la prossima volta non lo beviamo direttamente, il liquido radioattivo? Almeno moriremo piu' in fretta!}
 {413}{}{Potrei illuminare New Reno con tutte le radiazioni che ho in corpo.}
-{414}{}{I'm glowing brighter than New Reno at midnight. Anybody got some RadAway?}
+{414}{}{Brillo piu' intensamente di New Reno a mezzanotte. Qualcuno ha un po' di RadAway?}
 {415}{}{Perfetto. Un po' di radiazioni, e divento subito una torcia umana.}
-{416}{}{Somebody let me hold the RadAway. I won't use all of it. I promise.}
+{416}{}{Fatemi tenere il RadAway. Non lo usero' tutto. Prometto.}
 {425}{}{ perche' non ce ne torniamo al primo livello del dungeon dove ci sono solo i coboldi?}
 {426}{}{ per fortuna tutti quegli anni passati a giocare a D&D mi hanno insegnato qualcosa sul coraggio.}
 {427}{}{ passami del Buffout. Credo mi servira' molto presto.}
@@ -84,7 +84,7 @@
 {466}{}{Non c'e' niente di meglio che una rigorosa dieta a base di droghe per mantenere la mia mente elastica.}
 {467}{}{Questo non significa che siamo sposati, vero?}
 {468}{}{Hai dell'erba?}
-{469}{}{Lascia che li tenga io gli stimpack, okay?}
+{469}{}{Lascia che li tenga io gli stimpak, okay?}
 {470}{}{Ahhhhhhhhh.}
 {471}{}{Ooooooohhh. Aaaaaaaah. Mmmmmm.}
 {472}{}{Adoro quando fai cosi'.}
@@ -128,11 +128,11 @@
 {554}{}{C'ero prima io, ma... prego, passa pure.}
 {560}{}{Non serve che tu me lo dica due volte.}
 {561}{}{Non disprezzerei un po' di cure femminili... capisci cosa intendo?}
-{562}{}{Ahhhhhhh. Per fortuna gli stimpack non causano dipendenza.}
-{563}{}{Oooooh, si'. Per fortuna gli stimpack non causano dipendenza.}
+{562}{}{Ahhhhhhh. Per fortuna gli stimpak non causano dipendenza.}
+{563}{}{Oooooh, si'. Per fortuna gli stimpak non causano dipendenza.}
 {570}{}{Non farmi un'iniezione di quella merda. Sto bene, okay?}
 {571}{}{Smettila di farmi da mamma. Sono a posto.}
-{572}{}{Ehi, non preoccuparti. Sto bene. Ma lascia che sia io a tenere gli stimpack.}
+{572}{}{Ehi, non preoccuparti. Sto bene. Ma lascia che sia io a tenere gli stimpak.}
 {580}{}{Ehi, fammi tornare nel tuo gruppo! Dai!}
 {581}{}{Mi spiace di essere stato cosi' stronzo. Dammi un'altra possibilita'.}
 {582}{}{Mi sto stufando di stare qui ad aspettarti.}
@@ -311,8 +311,8 @@
 {1036}{myn143b}{Non ne hai mai abbastanza, eh? Cosa ti serve?}
 {1037}{}{Un antidoto per il veleno di radscorpione.}
 {1038}{}{Un po' di jet.}
-{1039}{}{Qualche stimpack.}
-{1040}{}{Puoi fare dei super stimpack?}
+{1039}{}{Qualche stimpak.}
+{1040}{}{Puoi fare dei super stimpak?}
 {1041}{}{Nulla. Ho delle altre domande...}
 {1042}{}{Lasciamo stare.}
 {1050}{myn145a}{Uhm, mi serviranno delle sacche velenifere di radscorpione. Ironico, non trovi?}
@@ -338,19 +338,19 @@
 {1105}{myn149a}{Facilissimo. Quante dosi vuoi?}
 {1106}{myn149b}{Ehi, genio. Non ti e' mai passato per la mente che sarebbe piu' semplice starsene fuori dai guai, eh? OK, quanti?}
 {1107}{myn149c}{Dimmi solo quanti ne vuoi, bellezza.}
-{1111}{}{Fammi tutti gli stimpack che puoi utilizzando quello che abbiamo.}
-{1113}{}{Puoi fare dei super stimpack?}
+{1111}{}{Fammi tutti gli stimpak che puoi utilizzando quello che abbiamo.}
+{1113}{}{Puoi fare dei super stimpak?}
 {1114}{}{Lasciamo stare. Ho delle altre domande...}
 {1125}{myn151}{Mi spiace, non abbiamo quello che mi serve per mettere insieme uno stim. Vediamo: servirebbe qualche radice di xander... un po' di fiori di brock... e una siringa vuota.}
 {1126}{}{Puoi fabbricare qualche altro medicinale?}
-{1127}{}{Se puoi fare degli stimpack, non potresti fare anche dei super stimpack?}
+{1127}{}{Se puoi fare degli stimpak, non potresti fare anche dei super stimpak?}
 {1128}{}{Ho capito. Avrei delle domande...}
-{1135}{myn152}{Certo che potrei... Peccato che non abbiamo quello che mi serve. Un po' di quei frutti mutanti per l'acido citrico... un goccio di Nuka Cola... e un normale stimpack.}
+{1135}{myn152}{Certo che potrei... Peccato che non abbiamo quello che mi serve. Un po' di quei frutti mutanti per l'acido citrico... un goccio di Nuka-Cola... e un normale stimpak.}
 {1145}{myn153a}{Ripeti con me: Myron e' un genio. Quante dosi ne vuoi?}
 {1146}{myn153b}{Cosa ne pensi di... Startene. Lontano. Dai. Guai? Lasciamo perdere, e' chiaramente un concetto troppo difficile per te. Quanti, questa volta?}
 {1147}{myn153c}{Myron e' l'uomo che fa per te, bellezza. Quanti?}
 {1149}{}{Dammene due.}
-{1151}{}{Fammi tutti gli stimpack che puoi utilizzando quello che abbiamo.}
+{1151}{}{Fammi tutti gli stimpak che puoi utilizzando quello che abbiamo.}
 {1170}{myn201a}{Chi sei tu e come diavolo sei entrato qui dentro? Do-dove sono quelle guardie imbecilli?}
 {1171}{myn201b}{Cavoli, ehilaaaaaaa', bellezza. Cosa puo' farti, ah-uh, fare Myron per te?}
 {1172}{}{Gud. Nuh-uh.}
@@ -569,7 +569,7 @@
 {1736}{}{Sei una tipa strana... mi piace.}
 {1745}{myrn104a}{Smettila di dirmi quello che devo fare, mammina.}
 {1746}{myn104b}{Owww! Fa male! Fa mal- oh. No. No, sono abbastanza a posto. Brucia solo un pochino.}
-{1747}{myn104c}{Sto morendo! Da-dammi uno stimpack. O due. O tre.}
+{1747}{myn104c}{Sto morendo! Da-dammi uno stimpak. O due. O tre.}
 {1748}{myn104d}{Sei... tu? Non...ci...vedo...sto...perdendo...conoscenza. *Cough* *Cough* Aiutami...}
 {1749}{}{Hmmmm. Curati di nuovo.}
 {1753}{}{Non starmi troppo vicino, Myron.}

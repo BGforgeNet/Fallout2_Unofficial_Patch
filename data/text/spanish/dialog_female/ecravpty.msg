@@ -2,7 +2,7 @@
 {101}{}{Ves al camarero de la fiesta.}
 {102}{}{Parece que ha estado degustando algo de su mercancía.}
 {103}{}{¿Que... queee.. te... pon...go? [Hip].}
-{104}{}{Nuka Cola [6 dólares].}
+{104}{}{Nuka-Cola [6 dólares].}
 {105}{}{Cerveza [15 dólares].}
 {106}{}{Licor [30 dólares].}
 {107}{}{Nada. gracias.}

@@ -92,27 +92,27 @@
 {191}{}{E' chiaro che quelli come te non sono in grado di capire cio' che sto cercando di spiegare. E' inutile. Adesso faresti meglio ad andartene.}
 {192}{}{Beh, ci ho provato. E' tempo di morire, bigotto.}
 {193}{}{D'accordo, me ne vado. Uno di noi non riesce a capire, e non credo di essere io. Addio.}
-{194}{}{Studi tossicologici sull'efficacia della tossina F.E.V., si'.}
-{195}{}{La tossina F.E.V.? Di cosa si tratta?}
+{194}{}{Studi tossicologici sull'efficacia della tossina FEV, si'.}
+{195}{}{La tossina FEV? Di cosa si tratta?}
 {196}{}{Lascia che ti chieda qualcos'altro.}
-{197}{}{La tossina F.E.V. E' la soluzione perfetta per questo difficile problema.}
-{198}{}{Cos'e' la tossina F.E.V.?}
+{197}{}{La tossina FEV. E' la soluzione perfetta per questo difficile problema.}
+{198}{}{Cos'e' la tossina FEV?}
 {199}{}{Aspetti un attimo. Lasci che le chieda qualcos'altro.}
-{200}{}{Una delle nostre pattuglie ha trovato le informazioni sul virus F.E.V., oltre a diversi campioni del virus stesso, in una ex base di ricerca militare semidistrutta.}
+{200}{}{Una delle nostre pattuglie ha trovato le informazioni sul virus FEV, oltre a diversi campioni del virus stesso, in una ex base di ricerca militare semidistrutta.}
 {201}{}{Okay, adesso so dove l'avete trovato, ma che cosa fa?}
-{202}{}{Il F.E.V. era stato progettato, in un primo tempo, come un virus in grado di trasformare gli esseri umani in super-soldati. Gli esperimenti in tal senso, pero', sembra che si siano rivelati un completo fallimento, sebbene io stesso abbia provato ad inoculare una versione modificata del virus in uno dei nostri agenti del Servizio Segreto, ottenendo un risultato soddisfacente.}
+{202}{}{Il FEV era stato progettato, in un primo tempo, come un virus in grado di trasformare gli esseri umani in super-soldati. Gli esperimenti in tal senso, pero', sembra che si siano rivelati un completo fallimento, sebbene io stesso abbia provato ad inoculare una versione modificata del virus in uno dei nostri agenti del Servizio Segreto, ottenendo un risultato soddisfacente.}
 {203}{}{Buon per lei, ma cos'ha a che fare tutto questo con la procedura d'estirpamento?}
-{204}{}{Oh, yes, well, I was getting to that... The F.E.V. virus bond is species specific, it will only bond with human glycoprotein. It only took a few years to tweak the F.E.V. virus to make it more lethal than it already was. The result was just what the doctor ordered, perfect in every way. }
+{204}{}{Oh, certo, beh, ci stavo arrivando... Il virus FEV e' specie-specifico, e si lega solamente alle glicoproteine umane. Sono bastati pochi anni per rendere il virus F.E.V. piu' letale di quanto non fosse gia'. Il risultato e' proprio come lo volevamo: perfetto sotto ogni punto di vista. }
 {205}{}{Perfetto? Cioe'?}
-{206}{}{Non e' lampante, mio mutato amico? Il F.E.V. e', grazie a me, una tossina letale e, grazie ad un misterioso genio chiamato - con un certa dose di drammaticita' - il Master, agisce solamente sugli umani, mutati e non.}
+{206}{}{Non e' lampante, mio mutato amico? Il FEV e', grazie a me, una tossina letale e, grazie ad un misterioso genio chiamato - con un certa dose di drammaticita' - il Master, agisce solamente sugli umani, mutati e non.}
 {207}{}{E allora?}
 {208}{}{Cio' significa che abbiamo a disposizione lo strumento perfetto per l'eliminazione totale di tutti i mutanti umanoidi che infestano il pianeta.}
 {209}{}{Ancora non riesco a capire perche' e' "perfetto".}
 {210}{}{Voglio chiederle qualcosa a proposito di qualcun'altra delle sue folli idee.}
-{211}{}{La tossina F.E.V. colpira' soltanto gli umani, lasciando tutto il resto in vita. Meglio ancora, entro un mese tutti i mutanti saranno morti e la tossina F.E.V. scomparira' non appena non ci saranno piu' ospiti viventi.}
+{211}{}{La tossina FEV colpira' soltanto gli umani, lasciando tutto il resto in vita. Meglio ancora, entro un mese tutti i mutanti saranno morti e la tossina FEV scomparira' non appena non ci saranno piu' ospiti viventi.}
 {212}{}{Non credo che abbiate un numero sufficiente di vertibird per diffondere la tossina in tutto il globo.}
 {213}{}{Sto per farti diventare l'ospite di uno dei miei proiettili ad energia. Di' le tue preghiere.}
-{214}{}{Hai ragione, non li abbiamo. Ma non ci servono. Abbiamo un sistema di rilascio che scarichera' la tossina F.E.V. dalle vasche di contenimento direttamente nell'atmosfera esterna. Le correnti faranno il resto. La saturazione globale avra' luogo entro due settimane.}
+{214}{}{Hai ragione, non li abbiamo. Ma non ci servono. Abbiamo un sistema di rilascio che scarichera' la tossina FEV dalle vasche di contenimento direttamente nell'atmosfera esterna. Le correnti faranno il resto. La saturazione globale avra' luogo entro due settimane.}
 {215}{}{Due settimane?}
 {216}{}{Si', due settimane perche' la tossina si diffonda, piu' un mese perche' termini il suo effetto, e a quel punto gli Stati Uniti saranno pronti ad essere nuovamente colonizzati da veri esseri umani. La nostra specie sara' stata salvata.}
 {217}{}{Lei crede davvero di essere nel giusto, eh?}
@@ -134,10 +134,10 @@
 {233}{}{Qualcosa di piu' drastico? Cioe'?}
 {234}{}{L'Enclave deve essere distrutta. Completamente distrutta. Se non venissimo eliminati completamente, saremmo sempre in grado di rimetterci in piedi e di cominciare nuovamente da un'altra parte.}
 {235}{}{Mi dispiace. Uh, dottore, come pensa che si dovrebbe procedere per distruggere l'Enclave?}
-{236}{}{Credo che il modo migliore sia quello di rilasciare la tossina F.E.V. nel sistema di filtraggio dell'aria. Dal momento che l'Enclave e' un sistema a se' stante, la tossina colpira' chiunque si trovi qui dentro.}
+{236}{}{Credo che il modo migliore sia quello di rilasciare la tossina FEV nel sistema di filtraggio dell'aria. Dal momento che l'Enclave e' un sistema a se' stante, la tossina colpira' chiunque si trovi qui dentro.}
 {237}{}{E cosa ne sara' della mia gente? E di me? E di lei, per quel che importa?}
 {238}{}{Posso rilasciare l'antidoto nelle celle tramite i dotti d'aerazione. Il livello detentivo possiede un sistema d'aerazione separato rispetto al resto dell'Enclave. Tutti penseranno che io stia semplicemente conducendo l'ennesimo esperimento. Per quel che riguarda te, posso iniettarti l'antidoto direttamente e immediatamente (si avvicina a te con una siringa)}
-{239}{}{Ahia, grazie Doc. Cosa succedera' quando la tossina F.E.V. verra' rilasciata?}
+{239}{}{Ahia, grazie Doc. Cosa succedera' quando la tossina FEV verra' rilasciata?}
 {240}{}{Ehi, aspetta un secondo, non avvicinarti a me con quel coso!}
 {241}{}{Non sara' un bello spettacolo. Dovresti andartene da qui il piu' presto possibile. Io preferisco avere sulla coscienza il peso della morte di un migliaio di persone, piuttosto che quello della morte di centinaia di migliaia d'esseri umani. Il nostro tempo qui e' scaduto. Abbiamo avuto la nostra chance.}
 {242}{}{Come posso liberare la mia gente dalle celle?}
@@ -158,7 +158,7 @@
 {257}{}{Non c'e' piu' tempo!}
 {258}{}{Va', finche' sei ancora in tempo!}
 {259}{}{Ma non capisci? Senza di questo sarai morto nel giro di poche ore.}
-{260}{}{Oh, beh, se la mettiamo cosi'... Si avvicini pure, doc. Cosa succedera' quando la tossina F.E.V. verra' rilasciata?}
+{260}{}{Oh, beh, se la mettiamo cosi'... Si avvicini pure, doc. Cosa succedera' quando la tossina FEV verra' rilasciata?}
 {261}{}{Niente aghi, senza se, senza ma. Mi prendo le mie responsabilita'.}
 {262}{}{Non ce la farai mai a salvare la tua gente senza l'antidoto. Cos'e'? Hai paura di una piccola puntura?}
-{263}{}{No, credo di no. Sempre che non io la guardi mentre me la fa. Youch! Allora, cosa succedera' quando la tossina F.E.V. verra' rilasciata?}
+{263}{}{No, credo di no. Sempre che non io la guardi mentre me la fa. Youch! Allora, cosa succedera' quando la tossina FEV verra' rilasciata?}

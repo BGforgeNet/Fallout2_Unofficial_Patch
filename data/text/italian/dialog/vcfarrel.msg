@@ -10,7 +10,7 @@
 {109}{}{Vault City prevale, Cittadino.}
 {110}{}{Un mutante! Guardie! Guardie!}
 {111}{}{Un ghoul! Guardie! Guardie!}
-{112}{}{Vediamo un po'... tre stimpack, una scatola di Rad-X...}
+{112}{}{Vediamo un po'... tre stimpak, una scatola di Rad-X...}
 {113}{}{Devo ancora finire di compilare quell'inventario per il Responsabile Randal.}
 {114}{}{Vediamo un po': devo controllare le scorte, compilare l'inventario, controllare la lista e poi inserire la lista nel sistema...}
 {115}{}{Devo ricordare di procurarmi qualche altro kit di pronto soccorso...}

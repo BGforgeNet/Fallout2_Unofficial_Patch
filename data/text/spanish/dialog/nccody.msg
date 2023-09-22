@@ -28,7 +28,7 @@
 {230}{}{(Cody sigue mirándote fijamente).}
 {231}{}{Eh... ¿estás bien, Cody?}
 {239}{}{Bien, nos vemos, Cody. Cuídate.}
-{251}{}{Oye, Cody. ¿Quieres una nuka cola?}
+{251}{}{Oye, Cody. ¿Quieres una Nuka-Cola?}
 {252}{}{¿Una cervecita, chaval? Mi madre solía decir que nunca se es demasiado joven para empezar. Eh, cuando estaba sobria, claro.}
 {253}{}{Tengo algo de Jet por aquí, Cody. ¿Te apetece volar con el tío }
 {254}{}{Tengo algo de Jet por aquí, Cody. ¿Te apetece volar con la tía }

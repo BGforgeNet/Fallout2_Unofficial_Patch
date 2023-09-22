@@ -10,8 +10,8 @@
 {109}{}{Ves a Charlie... parece que ha aumentado de peso, y respira con normalidad.}
 {110}{}{Este hombre está envenenado por la radiación. Tus habilidades no pueden ayudarle. Necesita medicación.}
 {111}{}{Este hombre parece terriblemente enfermo. No estás seguro de lo que le pasa.}
-{112}{}{Gracias, pero estoy bien, de verdad. Ese Rad-Away funcionó.}
-{113}{}{Encuentras una vena e inyectas el Rad-Away en la corriente sanguínea de Charlie.}
+{112}{}{Gracias, pero estoy bien, de verdad. Ese RadAway funcionó.}
+{113}{}{Encuentras una vena e inyectas el RadAway en la corriente sanguínea de Charlie.}
 {114}{}{*Urhkkkk*...}
 {115}{}{3 segundos}
 {116}{}{Unhhhhh...*tose*...}
@@ -26,9 +26,9 @@
 {125}{}{*Urhkkkk*}
 {126}{}{La última vez que bebo la maldita agua de esta ciudad, eso seguro.}
 {127}{}{Me sorprende que todavía no esté brillando...}
-{128}{}{El maldito Rad-Away me produce diarrea...}
+{128}{}{El maldito RadAway me produce diarrea...}
 {129}{}{Gracias, forastero. Agradezco tu ayuda... no podía permitirme el Autodoc.}
 {130}{}{Me gustaría poder recompensarte, pero no tengo donde caerme muerto.}
 {131}{}{La última vez que bebo la maldita agua de esta ciudad, eso seguro.}
 {132}{}{Me sorprende que todavía no esté brillando...}
-{133}{}{El maldito Rad-Away me produce diarrea...}
+{133}{}{El maldito RadAway me produce diarrea...}

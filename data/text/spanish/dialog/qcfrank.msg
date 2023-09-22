@@ -13,7 +13,7 @@
 {112}{ssa3alt}{Has llegado más lejos de lo que deberías, pero hasta ahora no habías conocido a Frank Horrigan. El juego acabó, mutante. Hora de morir.}
 {113}{}{Voy a pasar por encima de ti, quieras o no.}
 {114}{}{¿No podemos simplemente hablarlo?}
-{115}{ssa4a}{Soltar la toxina V.E.F en los conductos de aire no te hace un héroe. Sólo eres otro mutante que debe ser aniquilado.}
+{115}{ssa4a}{Soltar la toxina VEF en los conductos de aire no te hace un héroe. Sólo eres otro mutante que debe ser aniquilado.}
 {116}{ssa4b}{Hacer que nuestro reactor se derrita calentará las cosas por aquí muy pronto. Por desgracia no vivirás lo suficiente para verlo. No eres un héroe, sólo eres un cadáver que camina.}
 {117}{}{Hablas mucho, pero ¿sabes hacer algo más? No lo creo.}
 {118}{}{¡Espera un minuto! ¡Espera! ¿No podemos hablar de esto?}

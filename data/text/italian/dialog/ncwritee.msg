@@ -21,7 +21,7 @@
 {209}{}{Credevo che il Presidente fosse un mito, uno spauracchio usato per spaventare i bambini.}
 {210}{}{Sei appena tornato da un viaggio all'Inferno. Riposati un po'. Te lo meriti.}
 {211}{}{Farai un'altra partita con un personaggio diverso? Io ti consiglio di interpretare un Escursionista.}
-{212}{}{F.E.V.? E cos'e'?}
+{212}{}{FEV? E cos'e'?}
 {213}{}{New Reno e' stata creata da Chris Avellone e gli script sono stati compilati da Tom French. Tom suona in una banda. Chris suona da solo.}
 {214}{}{Spero di essere uno dei personaggi principali di Fallout 3, come Tandi o Ian. Fare il teppista e' una merda.}
 {215}{}{Ho sentito che hai spazzato via quell'Enclave, giu' a sud. Sei piuttosto coraggioso...}

@@ -317,7 +317,7 @@
 {3200}{}{Come non detto, allora. Sei tu quello che ci perde.}
 {3300}{}{Diamine. Magari piu' tardi, allora.}
 {9999}{}{Vorrei farle alcune domande...}
-{10001}{}{Prendi degli altri stimpack e curati.}
+{10001}{}{Prendi degli altri stimpak e curati.}
 {10002}{}{Marcus, voglio che tu rimanga qui finche' non saro' tornato.}
 {10003}{}{Metti via la tua arma.}
 {10004}{}{Stammi vicino.}

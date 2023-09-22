@@ -71,7 +71,7 @@
 {229}{}{¿Qué es una manzana?}
 {240}{}{Eres bastante bueno para ser un piel suave.}
 {241}{}{Invítanos a otra ronda, piel suave.}
-{242}{}{[Canta] Qué seco estoy, qué seco estoy…}
+{242}{}{[Canta] Qué seco estoy, qué seco estoy...}
 {243}{}{Me pareces una gran persona.}
 {244}{}{Oye, cuidado con la rata.}
 {245}{}{Me pregunto por qué Skeeter nunca bebe con nosotros?}
@@ -92,8 +92,8 @@
 {280}{}{Te quiero, amigo.}
 {281}{}{Eres el mejor.}
 {282}{}{¡A bombardear Ciudad Refugio hasta que resplandezca!}
-{283}{}{[Canta] 99 jeringuillas de Rad-Away en el muro, 99 jeringuillas...}
-{284}{}{[Canta] He estado trabajando en el re-ac-tor, todo el santo día…}
+{283}{}{[Canta] 99 jeringuillas de RadAway en el muro, 99 jeringuillas...}
+{284}{}{[Canta] He estado trabajando en el re-ac-tor, todo el santo día...}
 {285}{}{Antes de conocerte jamás habría confiado en un piel suave.}
 {286}{}{Supongo que algunos pieles suaves no son tan malos, después de todo.}
 {287}{}{Deberíamos ir a buscar a Chester para que beba con nosotros.}

@@ -111,7 +111,7 @@
 {231}{eeld11}{(sigh) Va' giu'. Uccidi. Spacca macchine. Va' ora!}
 {232}{eeld12}{Questa volta ascoltami! Raggiungi i livelli sotto di noi. Trova il macchinario che produce energia. Fermalo e potremo scappare. Gli uomini qui sono diversi da quelli del nostro agognato Vault. Sono malvagi. Inoltre, se non hai ancora trovato il GECK, cercalo qui. La nostra liberta' non vale nulla se il nostro villaggio non si salva. Adesso va'!}
 {233}{}{Capito.}
-{234}{eeld13}{Cosi' lo chiamano. Infilano degli aghi sotto la nostra pelle, come gli stimpack, ma poi accadono terribili cose. Poi... (trema)}
+{234}{eeld13}{Cosi' lo chiamano. Infilano degli aghi sotto la nostra pelle, come gli stimpak, ma poi accadono terribili cose. Poi... (trema)}
 {235}{}{Poi cosa?}
 {236}{}{Questo mi fara' sentire male, vero?}
 {237}{eeld13a}{Poi la pelle ribolle come se avesse delle larve sotto di se'. Pustole crescono e scoppiano. Il sangue esce dalle orecchie e la lingua si gonfia. Quelli fortunati muoiono per soffocamento. Quelli che non lo sono...}

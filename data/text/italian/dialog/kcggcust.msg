@@ -15,7 +15,7 @@
 {116}{}{Urp, avrei proprio bisogno di un altro boccale di piscio di gecko.}
 {117}{}{Se hai bisogno di grana, i Dunton stanno cercando un aiutante.}
 {118}{}{Non sei affatto male, per essere uno che arriva da un tribu'.}
-{119}{}{96 pinte di piscia sul muro, 96 pinte di piscia….}
+{119}{}{96 pinte di piscia sul muro, 96 pinte di piscia...}
 {120}{}{Sto per andare a sud, al Den; c'e' un sacco di lavoro laggiu'.}
 {121}{}{Ancora piscia di gecko, Salvadore!}
 {122}{}{La caccia va male ultimamente; ci deve essere un modo piu' facile per fare soldi.}

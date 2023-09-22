@@ -33,7 +33,7 @@
 {301}{}{Eh?}
 {310}{}{Hmm, questo sembra proprio un regolatore di celle di carburante. Se avessi un'auto funzionante, con questo aggeggio sarei in grado di aumentarne il kilometraggio.}
 {311}{}{Eh?}
-{320}{}{Dannatemente gentile da parte tua. Muchas gracias, compadre. Ecco un piccolo ringraziamento per il disturbo. Ti sara' utile da queste parti. (Ti passa uno Stimpack.)}
+{320}{}{Dannatemente gentile da parte tua. Muchas gracias, compadre. Ecco un piccolo ringraziamento per il disturbo. Ti sara' utile da queste parti. (Ti passa uno Stimpak.)}
 {321}{}{Grazie, Smitty. Non c'e' problema. Ci vediamo.}
 {322}{}{Beh, uhhh... Grazie, ma sono gia' andato a mangiare da Mama, percio' quel pranzo non mi serve piu'.}
 {323}{}{Oops, non sono il solito fattorino. Lui si e' preso un giorno di ferie perche e' malato. Posso avere lo stesso qualche punto esperienza?}

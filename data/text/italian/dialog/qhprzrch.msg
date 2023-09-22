@@ -8,7 +8,7 @@
 {107}{}{Nuh.}
 {108}{}{Ciao ciao.}
 {109}{prs2a}{Ah, sotto l'effetto dei sieri sperimentali... capisco. Uhm, faro' venire qualcuno per aiutarti. Guardie!}
-{110}{prs2b}{Temo che lei sia stato contaminato dal F.E.V., dottore. Poveretto, faro' venire qualcuno per aiutarla. Guardie!}
+{110}{prs2b}{Temo che lei sia stato contaminato dal FEV, dottore. Poveretto, faro' venire qualcuno per aiutarla. Guardie!}
 {111}{prs2c}{Ora fa' il bravo mutante e sta' buono. Guardie!}
 {112}{}{OK.}
 {113}{}{Uh uh. Ciaociao.}
@@ -99,7 +99,7 @@
 {198}{}{Si', conoscevo questa parte. Va' avanti.}
 {199}{prs26}{Il Vicepresidente Bird potra' anche sembrare un idiota sbavante, ma voglio che tu sappia che quell'uomo e' un eroe nazionale.}
 {200}{}{Per te, probabilmente.}
-{201}{prs27}{E' uno degli uomini piu' coraggiosi che io conosca. Si e' offerto volontario per sperimentare una delle prime versioni dell'antidoto contro la tossina F.E.V. (sigh) Sfortunatamente, non ha funzionato nel modo che speravamo.}
+{201}{prs27}{E' uno degli uomini piu' coraggiosi che io conosca. Si e' offerto volontario per sperimentare una delle prime versioni dell'antidoto contro la tossina FEV. (sigh) Sfortunatamente, non ha funzionato nel modo che speravamo.}
 {202}{}{Vuoi dire che non era questo che speravate accadesse?}
 {203}{prs28}{Sono le minuscole menti confuse come la tua che dimostrano la superiorita' dei veri umani sui mutanti.}
 {204}{}{Rimane sempre un idiota farfugliante.}
@@ -140,7 +140,7 @@
 {239}{}{Spazzare via i mutanti? Mi sembra un tantino drastico. Come intendete farlo?}
 {240}{prs41}{Circa 70 anni fa abbiamo scoperto un'installazione di ricerca in stato operativo. Una ex base militare che era stata usata per studiare un virus speciale.}
 {241}{}{Un virus?}
-{242}{prs42}{Si', il virus F.E.V. In origine era stato creato per trasformare i soldati in super-guerrieri, ma non funziono'. I guerrieri erano robusti e forti, ma troppo stupidi. Tuttavia, la nostra geniale Divisione Chimica l'ha modificato.}
+{242}{prs42}{Si', il virus FEV. In origine era stato creato per trasformare i soldati in super-guerrieri, ma non funziono'. I guerrieri erano robusti e forti, ma troppo stupidi. Tuttavia, la nostra geniale Divisione Chimica l'ha modificato.}
 {243}{}{Modificato il virus? Perche'?}
 {244}{prs43}{Per trasformarlo in un killer incredibilmente efficiente. Qualunque umanoide che non sia stato vaccinato contro i suoi effetti prima della sua diffusione morira'. Questo e' il Progetto.}
 {245}{}{E' una follia.}
@@ -185,8 +185,8 @@
 {284}{prs59}{Questo e' lo spirito giusto. Dio benedica l'America. Tuttavia, adesso faresti meglio a tornartene nella tua cella d'isolamento.}
 {285}{}{Uh, si', signore. Come vuole, signore.}
 {286}{}{Oh, sapro' trovare la strada da solo, signore. Arrivederci.}
-{287}{prs60}{Beh, ma contro la tossina F.E.V., naturalmente. E' davvero un prode sacrificio quello che tu e gli altri membri del Vault 13 state facendo. Come rappresentante del governo degli Stati Uniti e di tutta l'umanita', ti ringrazio. Adesso sara' meglio farti tornare nella tua cella.}
-{288}{}{Tossina F.E.V.? Di cosa diavolo stai parlando? Cosa sta succedendo qui?}
+{287}{prs60}{Beh, ma contro la tossina FEV, naturalmente. E' davvero un prode sacrificio quello che tu e gli altri membri del Vault 13 state facendo. Come rappresentante del governo degli Stati Uniti e di tutta l'umanita', ti ringrazio. Adesso sara' meglio farti tornare nella tua cella.}
+{288}{}{Tossina FEV? Di cosa diavolo stai parlando? Cosa sta succedendo qui?}
 {289}{}{Uh, si' signore. Come desidera, signore.}
 {290}{}{Oh, sapro' trovare la strada da solo, signore. Arrivederci.}
 {291}{prs61}{E allora? Se permettiamo alla vostra razza di proliferare, cio' significhera' la fine della razza umana come noi la conosciamo. Non possiamo permettere a degli scherzi della natura radioattivi di costringere gli umani all'estinzione.}

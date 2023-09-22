@@ -8,7 +8,7 @@
 {107}{}{No.}
 {108}{}{Adiós.}
 {109}{prs2a}{Ah, afectado por los sueros de prueba, ya veo. Eh, ahora te traigo ayuda. ¡Guardias!}
-{110}{prs2b}{Creo que has sido expuesto al V.E.F. Pobre diablo, te conseguiré ayuda. ¡Guardias!}
+{110}{prs2b}{Creo que has sido expuesto al VEF. Pobre diablo, te conseguiré ayuda. ¡Guardias!}
 {111}{prs2c}{Ahora sé un buen mutante y estate quietecito. ¡Guardias!}
 {112}{}{Vale.}
 {113}{}{Oh, oh. Adiós.}
@@ -99,7 +99,7 @@
 {198}{}{Sí, ya me sé esa parte. Continúe.}
 {199}{prs26}{El vicepresidente Bird puede parecer un baboso idiota, pero he de decirte que es nuestro héroe nacional.}
 {200}{}{Para usted, probablemente.}
-{201}{prs27}{Él es uno de los hombres más valientes que conozco. Fue voluntario para probar una de las primeras versiones del antídoto de la toxina V.E.F. (suspira). Desafortunadamente, no funcionó de la manera en que esperábamos.}
+{201}{prs27}{Él es uno de los hombres más valientes que conozco. Fue voluntario para probar una de las primeras versiones del antídoto de la toxina VEF. (suspira) Desafortunadamente, no funcionó de la manera en que esperábamos.}
 {202}{}{¿Quiere decir que no era lo que esperaban?}
 {203}{prs28}{Son las diminutas mentes burlonas como la tuya las que prueban la gran superioridad de los auténticos humanos sobre los mutantes.}
 {204}{}{Sigue siendo un baboso idiota.}
@@ -140,7 +140,7 @@
 {239}{}{¿Limpiar de mutantes? Eso suena un poco drástico. ¿Cómo vais a hacerlo?}
 {240}{prs41}{Encontramos una instalación de investigación operativa desde hace unos 70 años. Una antigua base militar que había sido utilizada para investigar un virus especial.}
 {241}{}{¿Un virus?}
-{242}{prs42}{Sí, el virus V.E.F. Originalmente fue desarrollado para convertir a los soldados en súper-guerreros, pero falló. Los guerreros eran duros y fuertes, pero demasiado estúpidos. De todos modos, nuestra brillante Unidad de Guerra Química lo alteró.}
+{242}{prs42}{Sí, el virus VEF. Originalmente fue desarrollado para convertir a los soldados en súper-guerreros, pero falló. Los guerreros eran duros y fuertes, pero demasiado estúpidos. De todos modos, nuestra brillante Unidad de Guerra Química lo alteró.}
 {243}{}{¿Lo alteró? ¿Por qué?}
 {244}{prs43}{Para convertirlo en un asesino asombrosamente efectivo. Cualquier humanoide que no esté vacunado contra sus efectos antes de liberarlo, morirá. Ese es el proyecto.}
 {245}{}{Es una locura.}
@@ -154,9 +154,9 @@
 {253}{}{¿Por qué?}
 {254}{prs46b}{Algunos de los miembros de tu tribu muestran cambios extremadamente interesantes. Si el peligro sobre la verdadera humanidad no fuese tan grande me gustaría estudiarlos. Pero (suspira) no va a ser así.}
 {255}{}{¿No va a ser así? ¿Por qué no?}
-{256}{prs47}{Oh, esa es una de las ventajas del virus V.E.F. Podemos liberarlo aquí y la corriente lo transportará a todo el mundo. Tendrá todo el tiempo necesario para limpiar todos los rincones del planeta.}
+{256}{prs47}{Oh, esa es una de las ventajas del virus VEF. Podemos liberarlo aquí y la corriente lo transportará a todo el mundo. Tendrá todo el tiempo necesario para limpiar todos los rincones del planeta.}
 {257}{}{De acuerdo. Entonces, ¿por qué secuestraste a mi tribu y a todos los habitantes del Refugio 13?}
-{258}{prs48}{Sujetos de prueba. Los de tu aldea descienden de un grupo de Refugio y hemos tenido que asegurarnos que la toxina V.E.F. era aún efectiva. Los sujetos del Refugio 13 han probado una vacuna contra la toxina.}
+{258}{prs48}{Sujetos de prueba. Los de tu aldea descienden de un grupo de Refugio y hemos tenido que asegurarnos que la toxina VEF era aún efectiva. Los sujetos del Refugio 13 han probado una vacuna contra la toxina.}
 {259}{}{¿No estáis probando la vacuna en mi gente?}
 {260}{prs48a}{Apenas es necesario. Estoy seguro de que podría funcionar, pero no hay razón para hacerlo.}
 {261}{}{¿Alguna vez te has parado a reflexionar si lo que estáis haciendo está mal?}
@@ -185,8 +185,8 @@
 {284}{prs59}{Ese es el espíritu. Que Dios bendiga a América. Quizá deberías volver ahora a tu zona de aislamiento.}
 {285}{}{Eh, sí, señor. Lo que usted diga, señor.}
 {286}{}{Oh, seré capaz de encontrar mi propio camino, señor. Adiós.}
-{287}{prs60}{Contra la toxina V.E.F., por supuesto. Un sacrificio valiente de cojones, el que tú y los otros miembros del Refugio 13 estáis haciendo. En nombre del gobierno de los Estados Unidos de América, y de toda la humanidad, os lo agradezco. Ahora, es mejor que regreses a tu zona.}
-{288}{}{¿Toxina V.E.F.? ¿De qué mierda hablas? ¿Qué pasa aquí?}
+{287}{prs60}{Contra la toxina VEF, por supuesto. Un sacrificio valiente de cojones, el que tú y los otros miembros del Refugio 13 estáis haciendo. En nombre del gobierno de los Estados Unidos de América, y de toda la humanidad, os lo agradezco. Ahora, es mejor que regreses a tu zona.}
+{288}{}{¿Toxina VEF? ¿De qué mierda hablas? ¿Qué pasa aquí?}
 {289}{}{Eh, sí señor. Lo que usted diga, señor.}
 {290}{}{Oh, seré capaz de encontrar mi propio camino, señor. Adiós.}
 {291}{prs61}{¿Y entonces qué? Si dejamos a los de tu clase florecer significará el fin de la raza humana tal y como la conocemos. No podemos permitir que monstruos radiactivos envíen a los humanos a la extinción.}

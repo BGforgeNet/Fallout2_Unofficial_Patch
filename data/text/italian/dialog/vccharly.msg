@@ -10,8 +10,8 @@
 {109}{}{Vedi Charlie... sembra aver messo su peso e sta respirando normalmente.}
 {110}{}{Quest'uomo ha un avvelenamento da radiazioni. Le tue conoscenze non posso aiutarlo. Ha bisogno di medicine.}
 {111}{}{Quest'uomo sembra terribilmente malato. Non sei sicuro di cosa non vada.}
-{112}{}{Grazie, ma sto bene, davvero. Quel Rad-Away ha fatto il suo dovere.}
-{113}{}{Trovi una vena e inietti il Rad-Away nell'organismo di Charlie.}
+{112}{}{Grazie, ma sto bene, davvero. Quel RadAway ha fatto il suo dovere.}
+{113}{}{Trovi una vena e inietti il RadAway nell'organismo di Charlie.}
 {114}{}{*Urhkkkk*...}
 {115}{}{3 Seconds}
 {116}{}{Unhhhhh...*cough* *cough*...}
@@ -26,9 +26,9 @@
 {125}{}{*Urhkkkk*}
 {126}{}{E' l'ultima volta che bevo la dannata acqua di questa citta', poco ma sicuro.}
 {127}{}{Sono sorpreso di non esser diventato fluorescente...}
-{128}{}{Quel dannato Rad-Away mi fa venire la cacarella...}
+{128}{}{Quel dannato RadAway mi fa venire la cacarella...}
 {129}{}{Grazie, straniero. Ho apprezzato molto il tuo aiuto... Non potevo permettermi l'Autodoc.}
 {130}{}{Vorrei poterti ricompensare, ma non ho nemmeno due dollari che siano due.}
 {131}{}{E' l'ultima volta che bevo la dannata acqua di questa citta', poco ma sicuro.}
 {132}{}{Sono sorpreso di non esser diventato fluorescente...}
-{133}{}{Quel dannato Rad-Away mi fa venire la cacarella...}
+{133}{}{Quel dannato RadAway mi fa venire la cacarella...}

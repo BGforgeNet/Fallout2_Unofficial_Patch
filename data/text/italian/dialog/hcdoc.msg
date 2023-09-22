@@ -9,7 +9,7 @@
 {108}{}{Di che cosa ti occupi?}
 {109}{}{Parlami di questa citta'.}
 {110}{}{Hai qualche pettegolezzo da raccontarmi?}
-{111}{}{Mi accontento di comprare qualche stimpack.}
+{111}{}{Mi accontento di comprare qualche stimpak.}
 {112}{}{Come non detto. Scusami.}
 {113}{}{Lascia che ci dia un'occhiata... Posso curarti, ma ti costera'.}
 {114}{}{Quanto?}
@@ -58,8 +58,8 @@ because this is going to cost ::cough:: $200.}
 {156}{}{Ahia! Dovro' applicare un'ingessatura. Per poter sfruttare le mie estese conoscenze mediche, dovrai pagarmi 300$.}
 {157}{}{Paghero'.}
 {158}{}{Scordatelo.}
-{159}{}{Amico, non hai tutti quei soldi. Posso venderti degli stimpack, se vuoi, ma riguardo alle cure che cerchi, non puoi permetterti quello che posso permettermi di darti.}
-{160}{}{Dammi gli stimpack.}
+{159}{}{Amico, non hai tutti quei soldi. Posso venderti degli stimpak, se vuoi, ma riguardo alle cure che cerchi, non puoi permetterti quello che posso permettermi di darti.}
+{160}{}{Dammi gli stimpak.}
 {161}{}{No, grazie.}
 {162}{}{E' stato un piacere.}
 {163}{}{Grazie.}

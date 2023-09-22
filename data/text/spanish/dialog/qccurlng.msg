@@ -57,7 +57,7 @@
 {156}{}{No, en realidad no. En realidad eres bastante diferente, al menos lo es tu ADN. Un desafortunado efecto de las generaciones expuestas a la radiación de fondo, supongo.}
 {157}{}{¿Y qué si nuestro ADN es un poco diferente?}
 {158}{}{No sé qué significa eso pero, ¿y qué si somos un poco diferentes?}
-{159}{}{Oh, tu ADN es más que un *poco* diferente. Es bastante diferente. Si no estuviera tan presionado por el tiempo para el Proyecto, me interesaría hacer futuros experimentos con tu gente, otros aparte del estudio de la toxina V.E.F, por supuesto. Un trabajo fascinante en verdad.}
+{159}{}{Oh, tu ADN es más que un *poco* diferente. Es bastante diferente. Si no estuviera tan presionado por el tiempo para el Proyecto, me interesaría hacer futuros experimentos con tu gente, otros aparte del estudio de la toxina VEF, por supuesto. Un trabajo fascinante en verdad.}
 {160}{}{¿Que querías saber?}
 {161}{}{¿En qué es nuestro ADN diferente?}
 {162}{}{¿Tú estás haciendo experimentos con mi tribu?}
@@ -92,27 +92,27 @@
 {191}{}{Es obvio que no eres capaz de entender lo que estoy tratando de decir. Es inútil. Deberías irte ahora.}
 {192}{}{Bueno, lo intenté. Hora de morir, fanático.}
 {193}{}{De acuerdo, me voy. Uno de los dos no tiene remedio, y creo que no soy yo. Adiós.}
-{194}{}{Estudios toxicológicos sobre la efectividad de la toxina V.E.F, sí.}
-{195}{}{¿La toxina V.E.F? ¿Qué es eso?}
+{194}{}{Estudios toxicológicos sobre la efectividad de la toxina VEF, sí.}
+{195}{}{¿La toxina VEF? ¿Qué es eso?}
 {196}{}{Déjame preguntarte algo más.}
-{197}{}{La toxina V.E.F es la solución perfecta para nuestro difícil problema.}
-{198}{}{¿Qué es la toxina V.E.F?}
+{197}{}{La toxina VEF es la solución perfecta para nuestro difícil problema.}
+{198}{}{¿Qué es la toxina VEF?}
 {199}{}{Espera un minuto. Déjame preguntarte sobre otra cosa.}
-{200}{}{Una de nuestras patrullas encontró el área de investigación, y muchas muestras del virus V.E.F en una antigua base militar que fue casi completamente destruida.}
+{200}{}{Una de nuestras patrullas encontró el área de investigación, y muchas muestras del virus VEF en una antigua base militar que fue casi completamente destruida.}
 {201}{}{De acuerdo, ahora sé donde lo encontrasteis, pero... ¿qué es lo que hace?}
-{202}{}{Inicialmente el virus V.E.F se diseñó para convertir a humanos en super-soldados. El experimento parece que fue un completo fracaso, aunque yo probé una modificación del virus en uno de nuestros agentes del Servicio Secreto, con cierto éxito.}
+{202}{}{Inicialmente el virus VEF se diseñó para convertir a humanos en super-soldados. El experimento parece que fue un completo fracaso, aunque yo probé una modificación del virus en uno de nuestros agentes del Servicio Secreto, con cierto éxito.}
 {203}{}{Bien por ti pero, ¿qué tiene esto que ver con erradicar a todos?}
-{204}{}{Oh, sí, bueno, yo era llegar a eso... La F. E. V. el virus de la fianza es específica de la especie, sólo vínculo con los humanos de la glicoproteína. Sólo tomó un par de años para ajustar la F. E. V. virus para hacer que sea más letal de lo que ya era. El resultado fue justo lo que recetó el doctor, perfecto en todos los sentidos. }
+{204}{}{Oh, sí, bueno, yo era llegar a eso... La VEF el virus de la fianza es específica de la especie, sólo vínculo con los humanos de la glicoproteína. Sólo tomó un par de años para ajustar la VEF virus para hacer que sea más letal de lo que ya era. El resultado fue justo lo que recetó el doctor, perfecto en todos los sentidos. }
 {205}{}{¿Perfecto? ¿Cómo?}
-{206}{}{¿No es obvio, mi amigo mutante? El V.E.F es, gracias a mí, una toxina letal, y gracias a cierto misterioso genio llamado, de forma bastante melodramática, el Maestro, sólo funciona en humanos, mutados o no.}
+{206}{}{¿No es obvio, mi amigo mutante? El VEF es, gracias a mí, una toxina letal, y gracias a cierto misterioso genio llamado, de forma bastante melodramática, el Maestro, sólo funciona en humanos, mutados o no.}
 {207}{}{¿Y?}
 {208}{}{Eso significa que tenemos el dispositivo perfecto para la eliminación de los cuasi-humanos que infectan el globo. }
 {209}{}{Sigo sin entender cómo eso puede ser "perfecto".}
 {210}{}{Quiero preguntarte sobre tus otras locas ideas.}
-{211}{}{La toxina V.E.F sólo atacará a humanos, dejando todo lo demás vivo. Mejor aún, en menos de un mes todos lo mutantes estarán muertos y la toxina V.E.F se extinguirá tan pronto acabe con sus anfitriones.}
+{211}{}{La toxina VEF sólo atacará a humanos, dejando todo lo demás vivo. Mejor aún, en menos de un mes todos lo mutantes estarán muertos y la toxina VEF se extinguirá tan pronto acabe con sus anfitriones.}
 {212}{}{No puede haber suficientes vertibird para esparcir la toxina por todo el mundo.}
 {213}{}{Voy a hacerte anfitrión de unos cuantos proyectiles de alta energía. Reza tus oraciones.}
-{214}{}{Tienes razón, no los hay. Pero no los necesitamos. Tenemos un sistema de liberación que esparcirá la toxina V.E.F desde las cubas hasta la superficie. La reacción en cadena se encargará de todo lo demás. Saturación global en dos semanas.}
+{214}{}{Tienes razón, no los hay. Pero no los necesitamos. Tenemos un sistema de liberación que esparcirá la toxina VEF desde las cubas hasta la superficie. La reacción en cadena se encargará de todo lo demás. Saturación global en dos semanas.}
 {215}{}{¿Dos semanas?}
 {216}{}{Sí, dos semanas para que el virus se esparza, otro mes para que cumpla su ciclo, y entonces los Estados Unidos estarán listos para la re-colonización con verdaderos humanos. Nuestra especie se habrá salvado.}
 {217}{}{De verdad crees que haces lo correcto, ¿no es así?}
@@ -134,10 +134,10 @@
 {233}{}{¿Más drástico? ¿A qué te refieres?}
 {234}{}{El Enclave debe ser destruido. Por completo. De no ser así, simplemente unirán las piezas y empezarán de nuevo en otro lugar.}
 {235}{}{Lamento oír eso. Eh, doctor: ¿cómo sugieres que el Enclave sea destruido?}
-{236}{}{Creo que la mejor manera sería soltar la toxina V.E.F en el sistema de filtración de aire. Como el Enclave es un sistema sellado, la toxina debería encargarse de todos.}
+{236}{}{Creo que la mejor manera sería soltar la toxina VEF en el sistema de filtración de aire. Como el Enclave es un sistema sellado, la toxina debería encargarse de todos.}
 {237}{}{¿Y qué pasa con mi gente? ¿O conmigo? ¿O contigo, por cierto?}
 {238}{}{Puedo liberar el antídoto en el sistema de aire de las celdas. El área de detención tiene un sistema de ventilación separado del resto del Enclave. Todos pensarán que sólo estoy haciendo otra prueba. En cuanto a ti, te puedo inocular directamente, aquí y ahora (se acerca a ti con una jeringuilla).}
-{239}{}{Caramba, gracias, doctor. ¿Qué sucederá cuando se libere la toxina V.E.F?}
+{239}{}{Caramba, gracias, doctor. ¿Qué sucederá cuando se libere la toxina VEF?}
 {240}{}{¡Oye, espera un minuto, ¡no me vas a pinchar con eso!}
 {241}{}{Nada agradable. Deberías irte lo antes posible. Pero prefiero que en mi conciencia quede el peso de sólo mil antes que de mil millones. Nuestro tiempo se acabó. Tuvimos nuestra oportunidad.}
 {242}{}{¿Cómo puedo liberar a mi gente del área de detención?}
@@ -158,7 +158,7 @@
 {257}{}{¡No tienes tiempo para esto!}
 {258}{}{¡Vete mientras puedas!}
 {259}{}{¿Qué es lo que no entiendes? Sin la vacuna estarás muerto en cuestión de horas.}
-{260}{}{Oh, si es así, de acuerdo. Pínchame, doctor. ¿Qué es lo que ocurrirá cuando la toxina V.E.F se libere?}
+{260}{}{Oh, si es así, de acuerdo. Pínchame, doctor. ¿Qué es lo que ocurrirá cuando la toxina VEF se libere?}
 {261}{}{Sin agujas no hay forma, cómo no. Me arriesgaré.}
 {262}{}{Nunca lograrás salvar a tu pueblo a menos que estés vacunado. ¿Cuál es el problema? ¿Le temes a un pequeño pinchazo?}
-{263}{}{No, supongo que no. Mientras no te vea hacerlo. ¡Caramba! Entonces, ¿qué ocurrirá cuando la toxina V.E.F se libere?}
+{263}{}{No, supongo que no. Mientras no te vea hacerlo. ¡Caramba! Entonces, ¿qué ocurrirá cuando la toxina VEF se libere?}

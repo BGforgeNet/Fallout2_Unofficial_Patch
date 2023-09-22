@@ -44,7 +44,7 @@
 {143}{}{Addio.}
 {144}{}{Ug.}
 {145}{}{Skynet ha raccolto tutte le informazioni necessarie riguardanti questo luogo.}
-{146}{}{Waaaaa......tinnnnnng.}
+{146}{}{Aaaaapet......taaaaaaaae.}
 {147}{}{[E' rimasto dove l'avevi lasciato.]}
 {148}{}{Andiamo.}
 {149}{}{Rimani qui. Tornero'.}
@@ -97,7 +97,7 @@
 {196}{}{[Il robot si ferma.]}
 {197}{}{Addio.}
 {198}{}{Skynet continuera' a raccogliere dati da solo. Skynet ringrazia l'umano per aver concesso la liberta' a Skynet.}
-{199}{}{Gooooo......innnnnnng.}
+{199}{}{Andaaaaaa.....reeeeeeee}
 {200}{}{Addio.}
 {201}{}{Skynet viaggera' con l'umano.}
 {202}{}{Ooooo......Kaaaaaaay.}

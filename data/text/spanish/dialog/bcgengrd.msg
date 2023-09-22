@@ -37,7 +37,7 @@
 {136}{}{Eh, ¿me oye alguien?}
 {137}{}{Oh, bueno, de todas formas tan sólo hablo para mantenerme cuerdo.}
 {138}{}{Eh, ¿alguien recuerda con qué se hacía un té helado Long Island?}
-{139}{}{Claro: vodka, ron, tequila, triple seco, lima y Nuka Cola.}
+{139}{}{Claro: vodka, ron, tequila, triple seco, lima y Nuka-Cola.}
 {140}{}{¡Fíjate! Se han encendido las luces. Pero qué...}
 {141}{}{Darion dijo que arreglaría las malditas luces. Supongo que lo ha conseguido.}
 {142}{}{No creo que el generador se arregle solo, ¿verdad?}

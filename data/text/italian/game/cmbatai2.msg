@@ -385,15 +385,15 @@
 {1801}{}{Che cosa mi ha colpito in testa?}
 {1802}{}{Ngggg}
 {1803}{}{Per fortuna sono fatto di Jet, altrimenti sentirei male.}
-{1804}{}{Owwwww! Qualcuno mi dia uno stimpack! O del Jet!}
+{1804}{}{Owwwww! Qualcuno mi dia uno stimpak! O del Jet!}
 {1810}{}{Ehi! Qualcuno mi ha appena colpito il braccio!}
 {1811}{}{Senti, il mio braccio accetta solo aghi. Smettila di attaccarlo.}
 {1812}{}{Nggggg}
-{1813}{}{Owwwww! Qualcuno mi dia uno stimpack! O del Jet!}
+{1813}{}{Owwwww! Qualcuno mi dia uno stimpak! O del Jet!}
 {1820}{}{Ehi! Qualcuno mi ha appena colpito il braccio!}
 {1821}{}{Senti, il mio braccio accetta solo aghi. Smettila di attaccarlo.}
 {1822}{}{Nggggg}
-{1823}{}{Owwwww! Qualcuno mi dia uno stimpack! O del Jet!}
+{1823}{}{Owwwww! Qualcuno mi dia uno stimpak! O del Jet!}
 {1830}{}{La mia milza!}
 {1831}{}{Ow! Owwww, il mio stupido petto! Ow!}
 {1832}{}{Ehi! Perche' mi hai colpito al petto, stronzo?!}
@@ -401,13 +401,13 @@
 {1834}{}{Whoa. Il mio petto. L'hai colpito. Forte.}
 {1835}{}{Nrgggg}
 {1836}{}{*hfff*}
-{1837}{}{Owwwww! Qualcuno mi dia uno stimpack! O del Jet!}
+{1837}{}{Owwwww! Qualcuno mi dia uno stimpak! O del Jet!}
 {1860}{}{Ehi! Qualcuno mi ha appena colpito la gamba!}
 {1861}{}{Ehi! Ci cammino, con questa gamba!}
-{1862}{}{Owwwww! Qualcuno mi dia uno stimpack! O del Jet!}
+{1862}{}{Owwwww! Qualcuno mi dia uno stimpak! O del Jet!}
 {1870}{}{Ehi! Qualcuno mi ha appena colpito la gamba!}
 {1871}{}{Ehi! Ci cammino, con questa gamba!}
-{1872}{}{Owwwww! Qualcuno mi dia uno stimpack! O del Jet!}
+{1872}{}{Owwwww! Qualcuno mi dia uno stimpak! O del Jet!}
 {1880}{}{Quello che mi e' entrato nell'occhio non SEMBRAVA un ago...}
 {1881}{}{Ehi! Quest'occhio mi serve per vederci!}
 {1882}{}{I miei occhi! I miei occhi! I miei occhi fanno male!}
@@ -835,7 +835,7 @@
 {3204}{}{Aieeeeeee! Non farmi del male! Non farmi del male!}
 {3205}{}{Questa allucinazione sta diventando un po' troppo reale per i miei gusti...}
 {3220}{}{Prendi questo!}
-{3221}{}{Faresti meglio a sperare di avere degli stimpack... o del Jet.}
+{3221}{}{Faresti meglio a sperare di avere degli stimpak... o del Jet.}
 {3222}{}{Forse riusciro' a vendere il tuo corpo per un po' di Jet...}
 {3223}{}{Ti...colpiro'...quando...ti...avro'...preso.}
 {3224}{}{Forse uccidendo te avro' quello che voglio...}
@@ -871,7 +871,7 @@
 {12027}{}{Caricare e puntare!}
 {12028}{}{Rock and roll!}
 {12029}{}{Guarda un po' chi e' entrato nella zona di fuoco libero...}
-{12030}{}{Spero tu abbia con te una scorta di stimpack, selvaggio...}
+{12030}{}{Spero tu abbia con te una scorta di stimpak, selvaggio...}
 {12031}{}{Contatto!}
 {12032}{}{Il perimetro e' stato violato!}
 {12033}{}{Abbiamo un intruso, ragazzi!}
@@ -888,7 +888,7 @@
 {12045}{}{Vuoi un po' di questo?! VUOI UN PO' DI QUESTO?!}
 {12046}{}{Hiyaaaaaa!!!}
 {12047}{}{Prendi un po' di questo!}
-{12048}{}{Spero tu abbia con te una scorta di stimpack, selvaggio...}
+{12048}{}{Spero tu abbia con te una scorta di stimpak, selvaggio...}
 {12049}{}{Preparati a morire...}
 {12060}{}{Hai la forza di un vecchio che fotte!}
 {12061}{}{Ah! Mancato!}
@@ -927,9 +927,9 @@
 {12200}{}{Whoa, questa cazzo di situazione si sta facendo pesante.}
 {12201}{}{Meglio andare a prendere un altro po' di ragazzi...}
 {12202}{}{Ti battero' la prossima volta!}
-{12203}{}{Sei fortunato che io non abbia stimpack con me...}
+{12203}{}{Sei fortunato che io non abbia stimpak con me...}
 {12204}{}{E' ora di alzare il culo e scappare...}
-{12205}{}{Devo trovare degli stimpack, in fretta...}
+{12205}{}{Devo trovare degli stimpak, in fretta...}
 {12220}{}{Ti faro' rotolare come un dado.}
 {12221}{}{E io che me ne stavo qui, pensando che oggi non avrei ucciso nessuno...}
 {12222}{}{Sembra proprio che il Golgotha abbia trovato un nuovo inquilino...}
@@ -1721,7 +1721,7 @@
 {44948}{}{Spero che tu ti stia divertendo quanto mi sto divertendo io!}
 {44949}{}{Ti ha fatto male? Altrimenti posso colpire piu' forte, la prossima volta.}
 {44950}{}{Abbiamo un'emorragia qui!}
-{44951}{}{Ti servira' piu' di uno stimpack per rimetterti in sesto dopo che avro' finito con te.}
+{44951}{}{Ti servira' piu' di uno stimpak per rimetterti in sesto dopo che avro' finito con te.}
 {44952}{}{Spero tu sia assicurato contro gli infortuni. Ne avrai bisogno.}
 {44953}{}{Ecco un taglio, un'altro taglio, tagli dappertutto...}
 {44954}{}{Non mi interessa chi ha cominciato, so solo che voglio finita io!}

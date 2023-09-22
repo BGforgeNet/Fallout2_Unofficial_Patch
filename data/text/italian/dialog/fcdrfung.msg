@@ -5,7 +5,7 @@
 {104}{}{Bua! Ouch! Owwwwwww!}
 {105}{}{Si' - Sto male e mi pare che tu sia un dottore.}
 {106}{}{Si'. Ho bisogno di un dottore per un mio amico.}
-{107}{}{Hai degli stimpack? Vorrei comprarne qualcuno.}
+{107}{}{Hai degli stimpak? Vorrei comprarne qualcuno.}
 {108}{}{Chi sei?}
 {109}{}{Ho un amico cui manca la milza. Puoi aiutarlo?}
 {110}{}{Cosa puoi dirmi di questo posto?}
@@ -42,7 +42,7 @@
 {141}{}{Paghero'.}
 {142}{}{Scordatelo.}
 {158}{}{Cosa? Non hai i soldi? Come credi che io possa sopravvivere se mi chiedi di curarti gratuitamente?}
-{159}{}{Hai degli stimpack?}
+{159}{}{Hai degli stimpak?}
 {160}{}{No, grazie.}
 {161}{}{E' stato un piacere fare affari con te.}
 {162}{}{Grazie.}

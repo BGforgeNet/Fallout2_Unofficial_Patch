@@ -35,7 +35,7 @@
 {503}{}{Chi vuoi}
 {504}{}{Whoever is closest}
 {600}{}{Sono contrario all'uso di droghe}
-{601}{}{Stimpack se ferito leggermente}
-{602}{}{Stimpack se ferito gravemente}
+{601}{}{Stimpak se ferito leggermente}
+{602}{}{Stimpak se ferito gravemente}
 {603}{}{Any drug some of the time}
 {604}{}{Any drug any time}

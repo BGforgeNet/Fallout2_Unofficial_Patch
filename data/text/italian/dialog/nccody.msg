@@ -27,7 +27,7 @@
 {230}{}{(Cody continua a fissarti.)}
 {231}{}{Uh, tutto bene, Cody?}
 {239}{}{Beh, ci vediamo dopo, Cody. Stammi bene.}
-{251}{}{Ehi, Cody. Vuoi un po' di nuka cola?}
+{251}{}{Ehi, Cody. Vuoi un po' di Nuka-Cola?}
 {252}{}{Vuoi un goccetto, ragazzino? Non si e' mai troppo giovani per cominciare, diceva sempre la mia mamma. Uh, quand'era sobria, almeno.}
 {253}{}{Ho un po' di Jet qui con me, Cody. Che ne dici di farti un voletto con lo zio }
 {254}{}{Ho un po' di Jet qui con me, Cody. Che ne dici di farti un voletto con la zia }

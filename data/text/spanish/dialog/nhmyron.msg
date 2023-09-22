@@ -346,7 +346,7 @@
 {1126}{}{¿Puedes hacer algunas otras drogas?}
 {1127}{}{Si puedes fabricar estimulantes, ¿no podrías hacer algún super estimulante?}
 {1128}{}{De acuerdo entonces. Tenía algunas preguntas más...}
-{1135}{myn152}{Por supuesto que puedo… excepto que no tenemos lo que necesito. Algo de esa fruta mutada para el ácido cítrico… un toque de Nuka Cola... y un estimulante normal.}
+{1135}{myn152}{Por supuesto que puedo… excepto que no tenemos lo que necesito. Algo de esa fruta mutada para el ácido cítrico... un toque de Nuka-Cola... y un estimulante normal.}
 {1145}{myn153a}{Repite conmigo: Myron es un genio. ¿Cuántos quieres?}
 {1146}{myn153b}{¿Qué tal si nos mantenemos-lejos-de-los-problemas? No importa, obviamente es un concepto demasiado complejo. ¿Cuántos esta vez?}
 {1147}{myn153c}{Myron es tu hombre, preciosa. ¿Cuántos?}
@@ -507,7 +507,7 @@
 {1576}{myn232b}{De acuerdo, preciosa. }
 {1577}{myn232c}{Demonios, ¿por qué no? Que le den a este basurero.}
 {1578}{}{Larguémonos de aquí.}
-{1579}{}{Arroyo está a 106 millas de distancia, tenemos una célula de fusión cargada, medio paquete de Rad-away, es medianoche, y llevo un uniforme del Refugio 13 de 50 años de antigüedad. Vamos a repartir tortas.}
+{1579}{}{Arroyo está a 106 millas de distancia, tenemos una célula de fusión cargada, medio paquete de RadAway, es medianoche, y llevo un uniforme del Refugio 13 de 50 años de antigüedad. Vamos a repartir tortas.}
 {1585}{myn233}{¡Ah! ¿Qué pasa, necesitas que Myron lo resuma? Soy el tipo científico. Lo sé todo, lo veo todo. Por no mencionar que puedo fabricar cualquier droga que necesites. Con la materia prima adecuada.}
 {1586}{}{De acuerdo entonces, has aprobado la entrevista. La parte acerca de las drogas ayudó. Sígueme.}
 {1587}{}{Pensaré en ello. Tengo un par de preguntas más para ti...}

@@ -212,7 +212,7 @@
 {4300}{Cas4300}{Sono quasi a posto, ma mi farebbe comodo un altro paio di stim.}
 {4400}{Cas4400}{Ho usato quello che potevo, ma sono ancora messo piuttosto male. Se hai ancora qualche stim da darmi, mi farebbero proprio comodo. Riesco ancora camminare, pero'.}
 {9999}{}{Vorrei farle alcune domande...}
-{10001}{}{Prendi degli altri stimpack e curati.}
+{10001}{}{Prendi degli altri stimpak e curati.}
 {10002}{}{Cassidy, voglio che tu rimanga qui finche' non saro' tornato.}
 {10003}{}{Metti via la tua arma.}
 {10004}{}{Stammi vicino.}

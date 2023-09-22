@@ -38,7 +38,7 @@
 {137}{}{¿Qué clase de virus?}
 {138}{}{Eso no suena bien. Deja que te pregunte otra cosa.}
 {139}{}{Mira qué suerte. Quizá ahora comprendas el dolor que sintió mi antepasado, el Morador del Refugio. Espero que todos ardáis en el infierno. Adiós.}
-{140}{}{La llaman toxina V.E.F. Le hace cosas horribles a las personas, antes de matarlas. Lo único "bueno" es que mata con mucha rapidez. Aunque seguro que de forma dolorosa.}
+{140}{}{La llaman toxina VEF. Le hace cosas horribles a las personas, antes de matarlas. Lo único "bueno" es que mata con mucha rapidez. Aunque seguro que de forma dolorosa.}
 {141}{}{Eso es terrible. ¿Por qué os están utilizando a vosotros para una prueba?}
 {142}{}{Nos sacaron a todos nosotros de nuestro Refugio porque querían sujetos de prueba para el antídoto. Necesitaban personas de fuera del Enclave, y que aún fueran humanos puros. Así que se nos llevaron.}
 {143}{}{¿Se os llevaron? ¿Cómo, de dónde?}

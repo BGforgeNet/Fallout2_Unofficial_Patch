@@ -67,11 +67,11 @@
 {225}{}{Il mio lo voglio shakerato, non mischiato.}
 {226}{}{Chiedi a Wooz di raccontarti una storia.}
 {227}{}{Cantiamo una canzone.}
-{228}{}{…E poi le teste cosa fanno? Quel Wooz... non lo capisco proprio.}
+{228}{}{...E poi le teste cosa fanno? Quel Wooz... non lo capisco proprio.}
 {229}{}{Cos'e' una mela?}
 {240}{}{Sei piuttosto gentile per essere un pelle-liscia.}
 {241}{}{Offrici un altro giro, liscetto.}
-{242}{}{./~ Come ho sete, come ho sete… ./~}
+{242}{}{./~ Come ho sete, come ho sete... ./~}
 {243}{}{Sei nel mio libro degli "okay".}
 {244}{}{Ehi, occhio al ratto.}
 {245}{}{Chissa' perche' Skeeter non si unisce mai a noi?}
@@ -92,15 +92,15 @@
 {280}{}{Ti adoro, amico.}
 {281}{}{Sei il migliore.}
 {282}{}{Nuclearizza Vault City finche' brilla!}
-{283}{}{./~ 99 syringes of Rad-away on the wall, 99 syringes... /~}
-{284}{}{./~ I’ve been working on the re-act-or, all the live-long day…. ./~}
+{283}{}{./~ 99 siringhe di RadAway sul muro, 99 siringhe... /~}
+{284}{}{./~ I’ve been working on the re-act-or, all the live-long day... ./~}
 {285}{}{Prima che arrivassi tu, non mi sarei fidato di un pelle-liscia per nulla al mondo.}
 {286}{}{Credo che, dopo tutto, alcuni di voi liscetti non siano poi tanto male.}
 {287}{}{Dobbiamo portare Chester a bere qualcosa con noi.}
 {288}{}{Quando mi saro' Rinnovato, voglio diventare proprio come te.}
 {289}{}{Sono davvero felice che il nostro reattore funzioni.}
 {290}{}{Devo essere ubriaco. Incomincio a capire quello che dice Wooz.}
-{291}{}{Credo di aver visto una mela, una volta… o era una banana?}
+{291}{}{Credo di aver visto una mela, una volta... o era una banana?}
 {300}{}{Il reattore funziona cosi' bene che si puo' quasi sentire il suo greve ronzio.}
 {301}{}{Grazie per aver risolto le cose con Vault City per noi.}
 {302}{}{Avremo cosi' tanta energia, adesso!}
