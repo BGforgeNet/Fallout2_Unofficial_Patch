@@ -91,9 +91,9 @@
 {400}{}{Jesteś z powrotem, hę? Mam nadzieję, że opiekujesz się Sulikiem. Jestem pewna, że jest zagubiony beze mnie mówiącej mu co ma robić.}
 {401}{}{Jestem tu, bo potrzebuję czegoś.}
 {402}{}{Cóż, z pewnością nie umiem tak dobrze opiekować się nim, jak ty to robiłaś, ale staram się jak najlepiej.}
-{420}{}{Well, you'd be better off asking momma about what's going on right here in town.}
-{421}{}{You'd be better off asking momma about things here in town. Have you seen Torr anywhere? It
- seems as though he's run off, and we're sure worried.}
+{420}{}{Cóż, lepiej żebyś zapytał mamę o to, co dzieje się teraz w mieście.}
+{421}{}{Cóż, lepiej żebyś zapytał mamę o sprawy w mieście. Widziałeś gdzieś Torra? Wygląda na to.
+ Wygląda na to, że uciekł. Bardzo się o niego martwimy.}
 {422}{}{Dobrze, porozmawiam o tym z panią Buckner. Pozwól jednak, że spytam jeszcze o coś.}
 {423}{}{Nie, nie było go w pobliżu. Dam ci znać, jeśli go zauważę. Pozwól jednak, że spytam o coś jeszcze.}
 {430}{}{Dziękuję za odnalezienie mojego brata, Torra. Mamusia i ja strasznie się niepokoiłyśmy. Co mogę dla ciebie zrobić?}

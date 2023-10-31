@@ -1,4 +1,4 @@
-{100}{}{You see a medium-size man wearing dusty clothing.}
+{100}{}{Widzisz średniego wzrostu mężczyznę ubranego w przykurzone ubranie.}
 {101}{}{To Bill, Zaopatrzeniowiec.}
 {102}{}{Widzisz średniego wzrostu mężczyznę w przykurzonym ubraniu. Pachnie tak, jakby doglądał bramin.}
 {103}{}{Czołem, partnerze. Co mogę dla ciebie zrobić?}

@@ -37,7 +37,7 @@
 {136}{}{Dobrze.}
 {137}{}{Ty?! Co ty do cholery wyprawiasz? Wynoś się stąd!}
 {138}{}{Teraz odłożysz broń.}
-{139}{}{You again? Do you actually need something?}
+{139}{}{Znowu ty? Naprawdę czegoś potrzebujesz?}
 {140}{}{Tak się tylko rozglądam.}
 {141}{}{Eee... raczej w niczym.}
 {142}{}{Jestem tu, żeby porozmawiać z waszymi więźniami.}

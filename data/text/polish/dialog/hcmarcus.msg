@@ -90,7 +90,7 @@
 {189}{}{Jacob i Aileen poprosili mnie o pomoc w uwolnieniu dwóch ludzi z więzienia. Sądzę, że mają plan jak to zrobić.}
 {190}{}{Jacob i Aileen chcą przy mojej pomocy wysadzić kopalnie. Sądzę, że chciałbyś o tym wiedzieć.}
 {191}{}{Naukowiec z RNK chce wypróbować eksperymentalny lek, który wybije mutantów. Uważajcie na to, co jecie i pijecie.}
-{192}{}{Chad took $6000 from the rep in Gecko. The rep was complaining about the price... said it'd been going up.}
+{192}{}{Chad wziął 6000 dolarów od przedstawiciela w Gecko. Przedstawiciel narzekał na cenę... powiedział, że idzie w górę.}
 {193}{}{Chad zatrzymał sobie około 1000$ z ostatniej dostawy uranu. Zamierza wyfrunąć z miasta.}
 {194}{}{Nic takiego. Nie zawracaj sobie głowy.}
 {195}{mcs24}{Tunele pod miastem? Cóż, nie jest to zaskakujące z tymi kopalniami naokoło. Szukaj dalej tych ludzi, dobra?}

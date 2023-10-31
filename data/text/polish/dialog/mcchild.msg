@@ -47,7 +47,7 @@
 {193}{}{Co masz na sobie?}
 {194}{}{Chcę się przejechać na braminie!}
 {195}{}{Jesteś z daleka?}
-{196}{}{Weeee! Ha ha ha!}
+{196}{}{Łiiiii! Ha, ha, ha!}
 {197}{}{Nie odchodź!}
 {198}{}{Masz coś do jedzenia?}
 {199}{}{Przeszkadzam ci?}

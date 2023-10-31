@@ -20,7 +20,7 @@
 {119}{}{Pręty uranowe?}
 {120}{}{Interesujące. Na razie,}
 {121}{}{GECK? Nie słyszałem. Sądzę też, że nie słyszał o tym również nikt w okolicy. Brzmi to jednak tak, jak zwierzę, lub coś w tym stylu, które ma wredne pazury.}
-{122}{}{No, not really. I have more questions.}
+{122}{}{Nie, niezupełnie. Mam jeszcze kilka pytań...}
 {123}{}{To zupełnie nie to. Na razie.}
 {124}{}{Eric chce więcej mocy? Eric NIE MOŻE mieć więcej mocy. Mamy tu bardzo chwiejną równowagę energetyczną, i jeżeli Eric dostanie więcej mocy, to siądzie szpital. Albo światła. Albo kopalnia. Nie możemy na to pozwolić.}
 {125}{}{Jeżeli ta maszyna ma pręty uranowe, to możesz mieć więcej niż wystarczająco energii na potrzeby tego miasta ORAZ Nowego Reno, i nawet nie zauważysz różnicy. A teraz odkręcaj kurek.}

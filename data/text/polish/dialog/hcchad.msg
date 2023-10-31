@@ -15,7 +15,7 @@
 {131}{}{Po razie!}
 {132}{}{Jestem Chad. }
 {133}{}{Słuchaj, jestem bardzo zajęty. Proszę, idź poprzeszkadzać komuś innemu.}
-{134}{}{I'm the caravan master for the city. I take care of the business on the other end of the trade routes. These days I'm focusing primarily on Gecko.}
+{134}{}{Jestem w tym mieście szefem karawan, pilnuję interesów w punktach docelowych. Ostatnio koncentruję się głównie na Gecko.}
 {135}{}{Oki!}
 {136}{}{Chcę zdobyć u ciebie pracę.}
 {137}{}{Fascynujące.}
@@ -28,9 +28,9 @@
 {142}{}{Mam więcej pytań.}
 {143}{}{Bywaj.}
 {144}{}{Na przykład?}
-{145}{}{He suspects that you are skimming the money that's supposed to go to Broken Hills.}
+{145}{}{Podejrzewa, że podbierasz pieniądze, które powinny trafić do Broken Hills.}
 {146}{}{Właściwie to nic. Cześć.}
-{147}{}{Look, I don't like people to accuse me about something that I don't know anything about. I suggest that you leave.}
+{147}{}{Słuchaj, nie lubię, gdy ludzie oskarżają mnie o coś, o czym nic nie wiem. Sugeruję, żebyś wyszedł.}
 {150}{}{Dowiem się prawdy. Cześć.}
 {156}{}{Porozmawiaj z Billem. On ci pomoże.}
 {157}{}{Mam więcej pytań.}

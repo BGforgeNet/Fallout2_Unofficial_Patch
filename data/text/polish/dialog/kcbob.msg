@@ -59,8 +59,8 @@
 {281}{}{Dzięki tobie nie musiałem kuśtykać tam sam. Warto było zapłacić, nawet te $65. Oto twoje pieniądze. Masz może jakieś pytania, na które mógłbym odpowiedzieć?}
 {282}{}{Tak. Powiedz mi co słychać w mieście.}
 {283}{}{Nie, Bob, dzięki. Chyba nie mam żadnych nowych pytań.}
-{290}{}{All sorts of things going on hereabouts lately. We've got brahmin mutilators, walking spirits,
- gigantical rats, and missing people. Some even say the Den's involved.}
+{290}{}{Od czego by tu zacząć. Mamy tu brahminowych kłusowników, błąkające się duchy,
+ gigantyczne szczury oraz zaginionych ludzi. Ludzie gadają, że Nora może mieć z tym wszystkim coś wspólnego.}
 {291}{}{Opowiedz mi o zabójcach bramin.}
 {292}{}{Opowiedz mi o duchach.}
 {293}{}{Ogromne szczury? Musisz mi o nich opowiedzieć.}

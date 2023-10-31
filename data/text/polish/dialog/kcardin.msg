@@ -107,9 +107,9 @@
 {380}{}{Cóż, jakoś mnie to nie dziwi. Och, tak strasznie nakrzyczałam na tego biednego chłopca, a to nie była jego wina! (szlocha) Jeszcze się policzę z tymi Duntonami. Tym razem posunęli się za daleko.}
 {381}{}{Bardzo mi przykro. Gdzie, pani zdaniem, mógł uciec Torr?}
 {390}{}{W porządku.}
-{400}{}{What? My Smiley is...}
-{401}{}{Who? Did I say Smiley? Oh, uh, no. I don't know where he went. Uh, say, let me ask you about something else.}
-{402}{}{Yes, he's dead. He was eaten by geckos.}
+{400}{}{Co? Mój Smiley jest...}
+{401}{}{O kim? Powiedziałaś Slimey? Umm, nie. Nie wiem co się z nim stało. Eee... Pozwól, że zapytam o coś innego.}
+{402}{}{Tak, nie żyje. Zeżarły go gekony.}
 {403}{}{I was just joking. I, uh, saw him. He said he was running off with another woman. Whoa! Look at the time. I've gotta run.}
 {404}{}{Eee... Ja... to znaczy my... Eee, nie. Ciągle go szukam. Na pewno niedługo się znajdzie. Do widzenia.}
 {410}{}{Eaten by geckos? I just don't believe you. Geckos would never catch my Smiley, he's too good a trapper for that. You must be mistaken.}

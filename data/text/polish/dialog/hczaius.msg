@@ -28,7 +28,7 @@
 {127}{}{Niespecjalnie.}
 {128}{}{Znowu ty, co?}
 {129}{}{Ork! Uuu! Ug ug!}
-{130}{}{Hi! HIIIII! Me }
+{130}{}{Cześć! CZEEEŚĆ! Ja }
 {131}{}{Dałem ci już pieniądze. Idź poprzeszkadzać komuś innemu, co?}
 {132}{}{Witaj ponownie. Czemu nie pójdziesz... umm... do banku w mieście? Jestem pewien, że wielu ludzi z radością z tobą pogada.}
 {133}{}{Jeśli wymyślisz jakiś sposób, daj mi znać.}

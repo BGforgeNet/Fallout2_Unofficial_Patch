@@ -34,7 +34,7 @@
 {181}{}{Jestem pod wrażeniem.}
 {182}{}{Cóż, nie chcę cię zatrzymywać. Do widzenia.}
 {190}{}{Z pewnością przydałaby mi się jakąś pomoc. Ale widzisz, nikt nie jest odpowiednio wykwalifikowany do robienia tego, co ja. Oni nawet nie rozumieją podstaw mojej pracy.}
-{191}{}{How could anyone hope to keep up with you? You're above everyone.}
+{191}{}{Jak ktokolwiek mógłby mieć nadzieję na nadążenie za tobą? Jesteś lepszy od reszty.}
 {192}{}{Jesteś kimś wyjątkowym, bez dwóch zdań. Do widzenia.}
 {200}{}{Zauważasz, że jestem. Widzę, że naprawdę potrafisz zrozumieć takie rzeczy. Gdybym nie był tutaj tak zajęty, rządziłbym Gecko. I, powiem ci, rządziłbym nim dobrze.}
 {201}{}{Rządziłbyś także miastem?}
@@ -75,7 +75,7 @@
 {340}{}{Masz może zbędny Hydroelektryczny Regulator Magnetosfery?}
 {341}{}{Ty naprawdę wiesz co to jest?}
 {342}{}{Jasne, jesteś gotowy go zainstalować?}
-{350}{}{Surprised? I told you that I know all about atomic power plants. You shoulda listened to me.}
+{350}{}{Czemu się dziwisz? Mówiłem ci, że wiem wszystko o elektrowniach atomowych. Na przyszłość słuchaj mnie dokładniej.}
 {351}{}{Cóż, skoro wiesz co to jest, musisz też wiedzieć, jak to zainstalować.}
 {352}{}{Chyba już za długo cię słucham. Żegnam.}
 {360}{}{Oczywiście, że tak. Przecież to takie proste dla kogoś obdarzonego takim doświadczeniem i talentem jak mój. Wychowałem się na Regulatorach Magnetosfery.}
