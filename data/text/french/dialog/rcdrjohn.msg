@@ -227,4 +227,4 @@
 {326}{}{On reprend connaissance, allez... Tu regorges de radiateurs thermiques et de membranes de dissipation. Ces protubérances auront disparu dans quelques semaines, mais ne compte pas non plus gagner un concours de beauté. Essaie de ne pas trop toucher les croûtes de pus près des incisions tant qu'elles n'ont pas cessé de suppurer.}
 {327}{}{Merci du conseil, Doc. C'est super. Eh, est-ce que je peux te demander autre chose ?}
 {328}{}{Merci pour ce travail de pro, Doc. Mieux vaut que je file. Au revoir !}
-{329}{}{Tu as délivré l'antidote au Jet au Doc Johnson.}
+{329}{}{You deliver the Jet antidote to Dr. Johnson.}

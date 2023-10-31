@@ -242,4 +242,4 @@
  either. Try not to pick at the pus-crusts near the drainage incisions until they stop suppurating.}
 {327}{}{Kösz a tanácsot, doki! Ez marha jó! Mit szólnál lazításképp egy-két kérdéshez?}
 {328}{}{Köszönöm a műtétet, doki! Most már jobb lesz, ha indulok. Viszlát!}
-{329}{}{You deliver the Jet antidote to Doc Johnson.}
+{329}{}{You deliver the Jet antidote to Dr. Johnson.}

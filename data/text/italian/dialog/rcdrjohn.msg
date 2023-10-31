@@ -229,4 +229,4 @@
 {326}{}{Ci siamo svegliati, eh? Ti ho appena imbottito di dissipatori termici e membrane dissipatrici. Tra qualche settimana non avrai piu' questo aspetto cosi' bitorzoluto, ma non vincerai mai un concorso di bellezza, questo e' certo. Cerca di non grattare le croste purulente vicino alle incisioni di drenaggio prima che abbiano smesso di suppurare.}
 {327}{}{Grazie del consiglio, Doc. Davvero grandioso. Ehi, lascia che ti chieda qualcos'altro.}
 {328}{}{Grazie del lavoro, Doc. Sara' meglio che vada, adesso. Ci vediamo.}
-{329}{}{Consegni l'antidoto per il Jet al Doc Johnson.}
+{329}{}{You deliver the Jet antidote to Dr. Johnson.}
