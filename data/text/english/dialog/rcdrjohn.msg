@@ -316,4 +316,4 @@
  either. Try not to pick at the pus-crusts near the drainage incisions until they stop suppurating.}
 {327}{}{Thanks for the advice, Doc. This is great. Hey, let me ask you about something else.}
 {328}{}{Thanks for your handiwork, Doc. I better be moving on now. Goodbye.}
-{329}{}{You deliver the Jet antidote to Dr. Johnson.}
+{329}{}{You deliver the Jet antidote to Doc Johnson.}
