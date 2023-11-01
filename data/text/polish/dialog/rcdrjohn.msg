@@ -227,4 +227,4 @@
 {326}{}{Dochodzimy do siebie, co? Twoje ciało napakowane jest rozpraszaczami i membranami rozpraszającymi ciepło. Za kilka tygodni przestaniesz wyglądać jak kloc, ale już raczej nie wygrasz żadnego konkursu piękności. Staraj się nie ruszać ropy z nacięć drenażowych, dopóki nie przestanie wypływać.}
 {327}{}{Dzięki za radę, doktorze. To wspaniałe. Hej, pozwól, że spytam o coś innego.}
 {328}{}{Dzięki za twoją pracę, doktorze. Lepiej już pójdę. Do zobaczenia.}
-{329}{}{You deliver the Jet antidote to Dr. Johnson.}
+{329}{}{Dostarczasz antidotum dla Jet dr Johnsona.}

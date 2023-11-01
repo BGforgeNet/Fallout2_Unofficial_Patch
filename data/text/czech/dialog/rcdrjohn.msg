@@ -229,4 +229,4 @@
 {326}{}{Á, vidím, že jste konečně vzhůru. Právě jste doslova nacpaný rozptylovači tepla a tepelnými membránami. Za pár týdnů už sice nebudete vypadat tak hrbolatě, ale i tak zapomeňte na účast v soutěži krásy. Jo a zkuste se neškrábat kolem drenáží, dokud z nich nepřestane vytékat hnis.}
 {327}{}{Díky za radu, doktore. Je to skvělé. Poslyšte, chci se ještě na něco zeptat.}
 {328}{}{Díky za operaci, doktore. Už musím jít. Sbohem.}
-{329}{}{You deliver the Jet antidote to Dr. Johnson.}
+{329}{}{Protilátka na Jet byla doručena doktoru Johnsonovi.}

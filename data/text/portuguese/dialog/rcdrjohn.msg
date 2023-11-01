@@ -315,4 +315,4 @@
  concurso de beleza. Tente não cutucar as crostas de pus perto das incisões de drenagem até que parem de supurar.}
 {327}{}{Obrigado pelo conselho, doutor. Isso é ótimo. Ei, deixe eu te perguntar sobre outra coisa.}
 {328}{}{Obrigado pelo seu trabalho, doutor. É melhor eu seguir em frente agora. Adeus.}
-{329}{}{You deliver the Jet antidote to Dr. Johnson.}
+{329}{}{You deliver the Jet antidote to Doc Johnson.}
