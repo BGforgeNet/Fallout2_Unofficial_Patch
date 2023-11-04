@@ -83,7 +83,7 @@
 {182}{}{Powiedziałeś, że dasz mi znać, jeśli znajdziesz GECKa. Udało ci się go zlokalizować?}
 {183}{}{Tak, szukam GECKa. Powiedziano mi, że można tu takowy znaleźć. Wiesz, gdzie się znajduje?}
 {184}{}{Nie, dziękuję. Mam wszystko, czego potrzebuję.}
-{185}{}{Yes, there was a geck in the vault storage room. It is yours with many thanks.}
+{185}{}{Tak, w przechowalni skarbca znajdował się gekon. Jest twój i bardzo dziękuję.}
 {186}{}{Tak, w magazynie znajdował się jeden GECK. Niestety, zniknął. Przykro mi, że nie mogę ci go ofiarować jako nagrodę za twoją szczodrą pomoc.}
 {187}{}{Dzięki!}
 {188}{}{Uch... nic nie szkodzi. Spróbuję znaleźć go gdzieś indziej.}

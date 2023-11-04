@@ -1,2 +1,2 @@
-{100}{}{You are running killap's unofficial F2 patch. Version 1.02.31u. English language edition. Thanks for installing!}
-{101}{}{You are running killap's unofficial F2 patch. Version 1.02.31u. English language edition. Thanks for installing!}
+{100}{}{Uruchamiasz nieoficjalną łatkę F2 killapa. Wersja 1.02.31u. Wydanie w języku polskim. Dzięki za instalację!}
+{101}{}{Uruchamiasz nieoficjalną łatkę F2 killapa. Wersja 1.02.31u. Wydanie w języku polskim. Dzięki za instalację!}

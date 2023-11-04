@@ -459,7 +459,7 @@
 {3058}{}{Tak.}
 {3059}{}{Nie, musisz sam jej poszukać.}
 {3060}{slk90}{Może masz rację. My i ja będziemy tęsknić. Niech dobre duchy będą z tobą, kumpel.}
-{3061}{}{Thanks, Sulik. Goodbye.}
+{3061}{}{Dzięki, Sulik. Do zobaczenia.}
 {3062}{}{Cóż, może jednak powinieneś pójść ze mną. Kto wie - może w końcu odnajdziemy twoją siostrę?}
 {3063}{slk91a}{Szukasz w końcu dobrego towarzystwa?}
 {3064}{slk91b}{Dobrze być znowu w domu.}

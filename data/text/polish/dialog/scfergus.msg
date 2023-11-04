@@ -3,7 +3,7 @@
 {102}{}{W tym gościu nie ma nic wyjątkowego. Jest jakby uosobieniem sumiennego biurokraty.}
 {103}{}{Witamy w Domu Kongresu. Jak mogę pomóc?}
 {104}{}{Jak widzę, znowu z powrotem. Jak tym razem mogę pomóc?}
-{105}{}{Now, what can I do for you?}
+{105}{}{Co mogę dla ciebie zrobić?}
 {106}{}{Uuch...}
 {107}{}{Moja widzieć Tandi?}
 {108}{}{Moja widzieć Tandi?}

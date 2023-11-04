@@ -41,7 +41,7 @@
 {140}{}{Pozwól, że zapytam o coś innego.}
 {141}{}{Dzięki, tak zrobię. Na razie.}
 {142}{}{Zazwyczaj szukamy ochraniarzy karawan, ale jeszcze nie jestem gotowy. Będziemy mogli wyruszyć dwudziestego pierwszego. Wróć wtedy, jak nadal będzie cię to interesować.}
-{143}{}{Why on the 21st?}
+{143}{}{Czemu dwudziestego pierwszego?}
 {144}{}{Co transportuje ta karawana?}
 {145}{}{OK, dzięki. Na razie.}
 {146}{}{Słuchaj, trzeba wiedzieć, kiedy powiedzieć nie. A *ja* to wiem. Więc NIE!}

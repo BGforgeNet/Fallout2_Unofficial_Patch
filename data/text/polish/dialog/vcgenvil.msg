@@ -1,15 +1,15 @@
-{100}{}{You see a villager.}
-{101}{}{You see a villager.}
+{100}{}{Widzisz mieszkańca wioski.}
+{101}{}{Widzisz mieszkańca wioski.}
 {102}{}{Cześć.}
 {103}{}{Do widzenia.}
 {104}{}{Witaj w naszej wiosce.}
 {105}{}{Potwory nas bronią.}
-{106}{}{Hurry back.}
-{107}{}{We'll need those guns soon.}
+{106}{}{Wróć szybko.}
+{107}{}{Wkrótce będziemy potrzebować tej broni.}
 {108}{}{Cześć.}
-{109}{}{Leave now!}
-{110}{}{Go back to where you came from!}
+{109}{}{Odejdź, teraz!}
+{110}{}{Wracaj, skąd przychodzisz!}
 {111}{}{Idź do diabła!}
-{112}{}{We're safe now.}
+{112}{}{Teraz jesteśmy bezpieczni.}
 {113}{}{Dziękuję.}
-{114}{}{Bless you, wanderer.}
+{114}{}{Niech Cię Bóg błogosławi, wędrowcze.}

@@ -42,7 +42,7 @@
 {282}{}{JA IŚĆ DAJ MI IŚĆ...}
 {283}{}{Hej, ho, no, ta, no, "droga Jimmy'ego J" brzmi świetnie i w ogóle, i właśnie dlatego mam kilka pyt...}
 {284}{}{Nie, nie sądzę...}
-{290}{}{Knew you'd be back, knew it! Didn't Jagged Jimmy J say that it would be that WAY? Keep 'em happy, and they'll never let you down. So my pilot friend... what can Jagged Jimmy J do for you today?}
+{290}{}{Wiedziałem, że wrócisz, wiedziałem! Czy Szramiasty Jimmy J nie powiedział, że tak BĘDZIE! Uszczęśliwiaj ich, a nigdy cię nie zawiodą. Więc mój przyjacielu pilocie... co Szramiasty Jimmy J może dziś dla ciebie zrobić?}
 {291}{}{Proszę, proszę, toż to mój "pilot"... wracasz, bo POTRZEBUJESZ czegoś od Szramiastego Jimmy'ego J?}
 {292}{}{Um... ja zapomnieć co chcieć mówić. Ja iść.}
 {294}{}{My handel proch? Ja LUBIĆ proch.}

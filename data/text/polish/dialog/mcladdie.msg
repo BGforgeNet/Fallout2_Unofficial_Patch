@@ -1,5 +1,5 @@
 {100}{}{To jest chyba border collie.}
-{101}{}{You see Laddie.}
+{101}{}{Widzisz Laddie.}
 {102}{}{Ten pies wygląda na bardzo inteligentną i czujną bestię.}
 {103}{}{Nie masz wątpliwości, że ten pies jest prawdopodobnie bystrzejszy od ciebie.}
 {150}{}{Hau!}

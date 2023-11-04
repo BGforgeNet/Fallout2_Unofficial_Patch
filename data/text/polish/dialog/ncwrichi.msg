@@ -1,10 +1,10 @@
 {100}{}{Widzisz jedno z dzieci Wrightów.}
 {150}{}{Widzisz małego, czarnowłosego chłopca.}
-{151}{}{You see a black-haired little girl. Her hair is cropped short, so much so that you almost mistook her for a boy.}
+{151}{}{Widzisz czarnowłosą dziewczynkę. Jej włosy są krótko przycięte, tak bardzo, że prawie pomyliłeś ją z chłopcem.}
 {155}{}{Chłopiec pokazuje ci język.}
 {156}{}{Przygląda ci się uważnie.}
 {157}{}{Dziewczynka pokazuje ci język.}
-{158}{}{Her black hair is cropped short so that she can conveniently use the male child character model.}
+{158}{}{Jej czarne włosy są krótko przycięte, aby mogła wygodnie korzystać z męskiego modelu postaci dziecka.}
 {159}{}{Przygląda ci się uważnie.}
 {175}{}{Tę część gry Fallout sponsorowała literka Z.}
 {176}{}{Hej! }

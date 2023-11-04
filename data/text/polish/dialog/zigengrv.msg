@@ -95,7 +95,7 @@
 {376}{}{"Eileen Suh: Bóg jest nieograniczony w swym miłosierdziu. Ona była niemiłosiernie ograniczona."}
 {377}{}{"Sarah Smart: Oratorka, Autorka, Profesorka, De Amicitia."}
 {378}{}{"Tim Winkle - Nie zniosę niczyjej hipokryzji, poza swoją."}
-{379}{}{"Jughead - King of Queen Archie's World."}
+{379}{}{"Jughead – Król Świta Królowej Archie."}
 {380}{}{"R.I.P Casey Donahue. Died 8/6/98. Killed by Mutated Ill-Tempered Sea Bass."}
 {381}{}{"Christopher 'Nietoperz' Jones: zapalony zielarz."}
 {382}{}{"Jay "Kartoflane Stopy" Nielson. Muzyk. Zmarł w wieku 104 lat, podczas solówki na perkusji."}

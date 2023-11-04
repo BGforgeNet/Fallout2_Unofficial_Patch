@@ -89,9 +89,9 @@
 {381}{}{Co się dzieje potem?}
 {390}{}{Udało mi się wydostać na powierzchnię. Wkrótce zauważyłem, że moje ciało zaczyna się zmieniać. Nie tylko ciało! Próbowałem porozumieć się z ludźmi, ale im zależało tylko na zabiciu mnie. Ludzie są zbyt brutalni by przetrwać pod własnymi rządami... ale to już inna historia. Teraz musimy zająć się naprawą reaktora.}
 {391}{}{Naprawą reaktora?}
-{400}{}{Yes. You must get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't,
- then Vault City will no doubt attack Gecko. Of course, by destroying the reactor, they will doom
- themselves in the long run, as well.}
+{400}{}{Tak. Musisz zdobyć hydroelektryczny regulator magnetosfery z Kryptopolis. Przy jego pomocy naprawimy reaktor elektrowni w Gecko. W przeciwnym razie
+ Kryptpolis spróbuje zniszczyć elektrownię i tym samym, z perspektywy lat -
+ przypieczętuje własną zgubę.}
 {401}{}{Własną zgubę? Dlaczego?}
 {402}{}{Dlaczego myślisz, że Kryptopolis zechce pomóc w naprawie elektrowni w Gecko?}
 {410}{}{Musisz im udowodnić, że od tego zależy ich własny dobrobyt. Działanie we własnym interesie to skuteczny środek motywacyjny.}

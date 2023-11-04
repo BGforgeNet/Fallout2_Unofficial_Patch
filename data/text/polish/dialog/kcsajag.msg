@@ -80,14 +80,14 @@
 {282}{}{Cała przyjemność po mojej stronie. Przyjemność i $50!}
 {283}{}{Cóż, dobrze wiedzieć, że Klamath jest bezpieczne od tej jego trucizny.}
 {284}{}{Nie ma o czym mówić.}
-{290}{}{Well, let's see. All sorts of things going on in town lately. (counts on his fingers) There's
- brahmin-mutilating bugmen, rodents of unusual size, a walking spirit, and a missing hunter. Klamath's
- become a real hot spot lately.}
+{290}{}{Cóż, zobaczmy. Ostatnio w mieście dzieją się różne rzeczy. (liczy na palcach) Mamy
+ robale mordujące brhaminy, gryzonie niezwykłych rozmiarów, błąkającego się ducha i zaginiony myśliwy. W Klamath
+ robi się gorąco ostatnimi czasy.}
 {291}{}{Opowiedz mi o robaludach polujących na braminy.}
 {292}{}{Opowiedz mi o tych gryzoniach.}
 {293}{}{Opowiedz mi o duchu.}
-{294}{}{I'm not surprised that a hunter's gone missing with all this excitement, but tell me about him,
- too.}
+{294}{}{Nie dziwię się, że łowca zaginął w tym całym zamieszaniu, ale opowiedz mi też 
+o nim.}
 {295}{}{Chcę cię jeszcze o coś zapytać.}
 {296}{}{Nie mam więcej pytań.}
 {300}{}{Cóż, Duntonowie zawsze chętnie przyjmą kogoś do odwalania za nich brudnej roboty. No i Torr, chłopak Bucknerów, boi się pilnować nocami stada bramin ze względu na robaludy.}

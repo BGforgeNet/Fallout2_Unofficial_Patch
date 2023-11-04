@@ -18,7 +18,7 @@
 {117}{}{Co możesz mi powiedzieć o Franku Westinie?}
 {118}{}{Pragnę spotkać się ze Starym Carlsonem. Znasz kogoś, kto mógłby mi pomóc?}
 {119}{}{Masz może GECK?}
-{120}{}{That's nice, stranger, but I ain't no charity.}
+{120}{}{To miłe, nieznajomy, ale nie jestem instytucją charytatywną.}
 {121}{}{Może. Mógłbym mieć celownik Triveld x10 - akurat pasowałby do karabinu myśliwskiego, gdyby znalazł się ktoś zainteresowany. Puszczę go tanio - 500$.}
 {122}{}{Hej, nic mi już nie zostało.}
 {123}{}{Dobra, umowa stoi.}

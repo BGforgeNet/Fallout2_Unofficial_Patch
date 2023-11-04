@@ -19,7 +19,7 @@
 {118}{}{Prezydent Tandi?}
 {119}{}{Wspaniale. Takie to już moje szczęście. Dzięki.}
 {120}{}{Słuchaj, prowadzę czyste i porządne życie! Nie mam GECKa, ani nic innego.}
-{121}{}{So-rry! What do you know about Vault 13?}
+{121}{}{Prze-praszam! Co wiesz o Krypcie 13?}
 {122}{}{Zapomnijmy o tym pytaniu. Pozostawiam cię teraz samemu.}
 {123}{}{Przychodzi mi do głowy parę rzeczy, jeżeli cię to naprawdę interesuje.}
 {124}{}{Żartujesz, nie? Po tym, co się stało z Jackiem? Sądzę, że potrafiłbym znaleźć ci stałą pracę.}

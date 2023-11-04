@@ -8,7 +8,7 @@
 {231}{}{(Staruszek uśmiecha się, a skóra wokół jego oczu marszczy się) Chcesz zagrać, co?}
 {250}{}{W co? W grę oczywiście!}
 {260}{}{(Wręczasz mu pieniądze. Monte kiwa głową, pokazuje ci karty, potem kładzie je na ziemi i przekłada przez kilka sekund.}
-{280}{}{(Monte turns over the card. It is the two of spades.)}
+{280}{}{(Monte odwraca kartę. To dwójka pik)}
 {300}{}{(Wręczasz mu pieniądze. Monte kiwa głową, pokazuje ci karty i kładzie je na ziemi. W tej samej chwili podmienia kartę tak szybko, że mało brakowało, a by cię zmylił. Potem przekłada je przez kilka sekund.)}
 {320}{}{COŚ ty, kolego powiedział?}
 {330}{}{Słuchaj, nie mam czasu dla płaczków. Płacisz i dostajesz szansę. Jeśli chcesz GRAĆ, w porządku, ale jeśli masz się mazać, gdy przegrywasz, to spadaj!}

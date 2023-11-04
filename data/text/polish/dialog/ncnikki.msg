@@ -5,7 +5,7 @@
 {170}{}{Widzisz jedną z krupierek kasyna.}
 {180}{}{Widzisz jedną z krupierek kasyna. Zaprasza cię gestem do swojego stołu.}
 {200}{}{::Wiwatuje::}
-{210}{}{Hello, [MM]. Can I help you with... anything?}
+{210}{}{Witaj, [MM]. Czy mogę pomóc... w czymkolwiek.}
 {220}{}{Hazard hazardem, ale tak ryzykować własnym życiem...}
 {230}{}{Hej, siłaczu. Chcesz przepuścić trochę żetonów?}
 {250}{}{Witaj, gwiazdorze. Chcesz przepuścić trochę żetonów?}

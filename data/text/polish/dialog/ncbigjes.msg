@@ -120,7 +120,7 @@
 {471}{}{Nie, paczka jeszcze nie jest dostarczona.}
 {472}{}{Tak, paczka została dostarczona do Ramireza, tak jak prosiłeś.}
 {473}{}{Tak, paczka jest już w Stajniach... czy wiesz, co oni tam ROBIĄ z ludźmi? Torturują niewolników narkotykami.}
-{474}{}{Yes, I gave your package to that guard, Ramirez... you know that guy's a jethead? He was REEKING of Jet fumes.}
+{474}{}{Tak, ten strażnik, Ramirez, dostał paczkę... wiesz, że ten facet to jetowiec? Aż się z niego DYMI od Jetu.}
 {480}{}{Więc... czemu tu jesteś? (Duży Jesus przeciera czoło i bierze głęboki wdech) DLACZEGO przesyłka nie została dostarczona?}
 {481}{}{Mam jeszcze kilka pytań...}
 {482}{}{Wyruszam z nią w tej chwili.}
@@ -185,7 +185,7 @@
 {660}{}{Louis Salvatore żyje. Czemu jesteś z powrotem?}
 {661}{}{(Strużka potu ścieka po twarzy Mordina) Czy zrobiono, o co prosiłem? Louis Salvatore jest martwy?}
 {662}{}{Jest martwy. Twoja rodzina została pomszczona, Senor Mordino.}
-{663}{}{No, I shall return when I have killed him.}
+{663}{}{Nie, wrócę, gdy go zabiję.}
 {664}{}{Salvatore jest zbyt dobrze chroniony. Muszę niestety zrezygnować z tej pracy.}
 {670}{}{Jeśli... uciekniesz od tej pracy, każę cię... ZABIĆ.}
 {671}{}{Skoro tak stawiasz sprawę, wrócę, gdy tylko umrze.}

@@ -9,7 +9,7 @@
 {179}{}{Klargggg}
 {180}{}{Oog}
 {200}{}{Ja kumpel Monte. TY kumpel Monte?}
-{201}{}{Me hit people Monte tell me to.}
+{201}{}{Ja bić ludzia Monte kazać.}
 {202}{}{Ja bić ludzia.}
 {203}{}{Ja bić ludzia piąśćmi jak grać na bęben.}
 {204}{}{Ja lubi bić.}

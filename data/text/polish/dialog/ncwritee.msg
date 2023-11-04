@@ -109,7 +109,7 @@
 {374}{}{Czy naprawdę rozmawiasz z Bogiem, kiedy uprawiasz seks przed kamerami?}
 {375}{}{Mama mówi, że jesteś diabelskim nasieniem.}
 {376}{}{Mama mówi, że jesteś kurtyzaną. Zbłąkaną owieczką. Nie mam pojęcia o co jej chodzi.}
-{385}{}{You here to see Dad about business? Well, good luck, I don't think he's hiring any hands now.}
+{385}{}{Masz jakiś interes do Taty? Cóż, powodzenia, ale on raczej nie szuka nowych pomocników.}
 {386}{}{Jeśli szukasz alkoholu, to rozejrzyj się na stacji kolejowej, w północnej części miasta... tutaj nic nie kupisz.}
 {387}{}{Uważaj na siebie, przyjacielu. Jesteś na terenie rodziny Wrightów.}
 {390}{}{Lepiej stąd spadaj... nie przepadamy tu za łowcami niewolników.}
