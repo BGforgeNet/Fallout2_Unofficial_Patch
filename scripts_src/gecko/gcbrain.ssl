@@ -504,8 +504,8 @@ procedure Node003 begin
    else begin
       Reply(600);
       NOption(604,Node030,004);
-      NOption(610,Node999,004);
    end
+   NOption(610,Node999,004);
 end
 
 procedure Node004 begin
@@ -645,19 +645,15 @@ procedure Node017 begin
    else if (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_REPAIRED) then begin
       Reply(230);
       NOption(659,Node015,004);
-      //NOption(641,Node015,004);
    end
    else if (global_var(GVAR_VAULT_GECKO_PLANT) == PLANT_NEED_PART) then begin
       Reply(653);
       NOption(658,Node041,004);
    end
-   else if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_NEED_PART) then begin //edit by killap was == 0
+   else if (global_var(GVAR_VAULT_GECKO_PLANT) < PLANT_NEED_PART) then begin
       Reply(270);
       NOption(654,Node030,004);
    end
-   Reply(270);
-//   NOption(271,Node015,004); comment out by killap - should not ask this yet.
-//   if (local_var(LVAR_brain_friend) == 0) then //added by killap
    NOption(272,Node999,004);
 end
 
@@ -704,7 +700,6 @@ procedure Node020 begin
 //end major edit by killap
 end
 
-
 procedure Node021 begin
    Reply(310);
    NOption(311,Node020,004);
@@ -726,7 +721,6 @@ procedure Node023 begin
          NOption(187,Node014,004);
       else
          NOption(187,Node017,004);
-   //end added
    //end added
    else
       NOption(331,Node032,004);
