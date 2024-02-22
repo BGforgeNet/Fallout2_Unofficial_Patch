@@ -194,8 +194,6 @@ import variable playerTmpBox;
 import variable lenny_obj;
 import variable merk_obj;
 import variable merk_visible;
-//import variable merk_guard1_obj; //added by killap
-//import variable merk_guard2_obj; //added by killap
 
 /* Local variables which do not need to be saved between map changes. */
 variable Only_Once         := 0;
@@ -409,8 +407,6 @@ end
    written by designers are placed in here. Additionally, Reactions are generated and
    stored which affects player interactions. */
 procedure talk_p_proc begin
-   //variable where;
-//display_msg("enetered dialoguenode");
    Evil_Critter:=1;
    Slavery_Tolerant:=SLAVE_TOLERANT;
    Karma_Perception:=KARMA_PERCEPTION1;
@@ -419,29 +415,21 @@ procedure talk_p_proc begin
 
    GetReaction;
 
-   ReactToLevel; //added by killap
+   ReactToLevel;
 
-   //where := whereAmI;
-   set_local_var(LVAR_Where,whereAmI);
+   set_local_var(LVAR_Where, whereAmI);
 
-//   if (obj_is_carrying_obj_pid(dude_obj, PID_DOC_PAPERS)) then
-//
-
-   //This is gettting messy. After the lenny fight and your still in the game
-   //I need to jump to node019 but this is probably the only time I should do it.
-   //It is more of a continuation from the Lenny Fight string in the dialogs.
-
+   // This is gettting messy. After the lenny fight and your still in the game.
+   // I need to jump to node019 but this is probably the only time I should do it.
+   // It is more of a continuation from the Lenny Fight string in the dialogs.
 
    if (global_var(GVAR_NCR_SCMERK_HOSTILE) == 1) then begin
       call Node998;
    end else begin
 
-      //if (doLennyDeadDialog) then begin
       if (local_var(LVAR_doLennyDeadDialog) == 1) then begin
-         //display_msg("lennydeaddialog");
-         set_merk_status(MERK_STATUS_PLEASED); //added by killap
-         set_local_var(LVAR_doLennyDeadDialog, 0); //added by killap
-   //      doLennyDeadDialog := 0;
+         set_merk_status(MERK_STATUS_PLEASED);
+         set_local_var(LVAR_doLennyDeadDialog, 0);
          start_gdialog(NAME,self_obj,4,-1,-1);
          gSay_Start;
             call Node019;
@@ -449,14 +437,10 @@ procedure talk_p_proc begin
          end_dialogue;
          fadeout(1);
          move_to(dude_obj, FIGHTRETURNTILE, 0);
-        // move_to(merk_guard1_obj, 22355, 0); // added by killap
-        // move_to(merk_guard2_obj, 22352, 0); // added by killap
-        // move_to(self_obj, 22354, 0); // added by killap
          call ReturnWeapons;
          call unHideParty;
          fadein(1);
       end else begin
-         //display_msg("NOT_lennydeaddialog");
          ndebug("Current Status: " + local_var(LVAR_Where));
          if (local_var(LVAR_Where) == IN_CARLSON) then begin
             if (merk_status == 0) then
@@ -466,9 +450,7 @@ procedure talk_p_proc begin
          end else if (local_var(LVAR_Where) == IN_HOME) then begin
             call Node001;
          end else if (local_var(LVAR_Where) == IN_RAWHIDE) then begin
-  //          if (merk_seed_status(MSS_DR_HENRY_DONE)) then
-    //           call Node054;
-           /* else */if (merk_seed_status(MSS_DR_HENRY_ACCEPT) and not merk_seed_status(MSS_DR_HENRY_DONE)) then begin
+            if (merk_seed_status(MSS_DR_HENRY_ACCEPT) and not merk_seed_status(MSS_DR_HENRY_DONE)) then begin
                start_gdialog(NAME,self_obj,4,-1,-1);
                gSay_Start;
                   call Node048;
@@ -504,10 +486,9 @@ procedure talk_p_proc begin
             call Node004;
          end
          if (global_var(GVAR_NCR_CAR_JACKED) == 2) then begin
-            //Restore car now.
+            // Restore car now.
          end
-         if (map_var(MVAR_Do_Lenny_Fight) == 1) then begin //added by killap
-         //if (Do_lenny_fight == 1) then begin
+         if (map_var(MVAR_Do_Lenny_Fight) == 1) then begin
             call LennyFight;
          end
       end
@@ -1760,26 +1741,8 @@ procedure LennyFight begin
    call HideParty;
    move_to(lenny_obj, LENNYBOXSTART, 1);
    move_to(dude_obj, PLAYERBOXSTART, 1);
-
-   //move_to(self_obj, 21148, 1); // added by killap
-   //if (obj_is_visible_flag(merk_guard1_obj)) then
-   //   move_to(merk_guard1_obj, 21354, 1); // added by killap
-   //if (obj_is_visible_flag(merk_guard2_obj)) then
-    //  move_to(merk_guard2_obj, 21945, 1); // added by killap
-
-   /* Seraph's Fix: animate_rotation only affects self_obj. Thanks Rob!
-   self_rotate(dude_obj, 2);
-   self_rotate(lenny_obj, 5);
-   */
-   dude_rotate(2); // Seraph's Code
-   obj_rotate(lenny_obj, 5); // Seraph's Code
-
-   //anim(self_obj, ANIMATE_ROTATION, 2); // added by killap
-   //if (obj_is_visible_flag(merk_guard1_obj)) then
-   //   anim(merk_guard1_obj, ANIMATE_ROTATION, 1); // added by killap
-   //if (obj_is_visible_flag(merk_guard2_obj)) then
-   //   anim(merk_guard2_obj, ANIMATE_ROTATION, 3); // added by killap
-
+   dude_rotate(2);
+   obj_rotate(lenny_obj, 5);
    attack_setup(lenny_obj, dude_obj);
    fadein(1);
    ndebug("Lenny Should attack");
