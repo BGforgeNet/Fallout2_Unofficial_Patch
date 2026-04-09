@@ -24,7 +24,7 @@
 {123}{}{Adesso devo andare, Valdis.}
 {124}{}{Capisco.}
 {125}{}{Beh, sembra proprio che tu sappia fare bene il tuo lavoro.}
-{126}{}{Vorresti farmi credere che sei abbastanza intelligente da decidere chi e' "autorizzato" e chi non lo e'?}
+{126}{}{Vorresti farmi credere che sei abbastanza intelligente da decidere chi e' "autorizzato" e chi non lo e?'}
 {127}{}{In effetti, si', lo sono. E sono anche abbastanza intelligente da decidere chi e' un coglione e chi non lo e' -- e sono giunto alla conclusione che tu sei il miglior esemplare di questa categoria! E adesso perche' non te ne vai prima che io cominci a danzare sulla tua faccia per una mezz'oretta?}
 {128}{}{Okay.}
 {129}{}{Cattiva lucertola. Adesso sono costretto ad ucciderti.}

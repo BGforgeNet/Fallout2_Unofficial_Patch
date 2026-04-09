@@ -20,7 +20,7 @@
 {119}{}{Passato brutto, no parlare. Cose bene ora?}
 {120}{}{Wow! Sono davvero felice di non essere te!}
 {121}{}{Ok, ho capito la situazione. Cosa ti affligge adesso?}
-{122}{}{Sono davvero dispiaciuto che tu abbia sofferto cosi' tanto nella tua vita. Spero che le cose siano migliorate...}
+{122}{}{Mi dispiace davvero che tu abbia sofferto così tanto nella vita. Spero che ora le cose vadano meglio.}
 {123}{}{Aspetta un secondo. Dimenticavo che adesso ho qualcos'altro da fare...}
 {124}{}{Certo, beh, le brutte cose succedono -- e quando succedono, succedono a me.}
 {125}{}{Cosa succedere adesso?}

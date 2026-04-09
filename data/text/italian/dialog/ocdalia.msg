@@ -12,7 +12,7 @@
 {111}{}{Ho qualche domanda per te.}
 {112}{}{Niente, grazie. Ma e' stato bello rivederti. Ciao.}
 {113}{}{Cosa vuoi sapere?}
-{114}{}{Tu prigioniera?}
+{114}{}{Tu. Prigioniero.}
 {115}{}{Tu andare via quando volere?}
 {116}{}{Cosa sapere di D'claw?}
 {117}{}{Come tu arrivato qui?}

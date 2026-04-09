@@ -49,7 +49,7 @@
 {148}{}{Questo mi pare il piu' grosso ammasso di stronzate che io abbia mai sentito in vita mia!}
 {149}{}{Incredibile. Sembri essere davvero molto informato a riguardo. Puoi dirmi qualcos'altro?}
 {150}{}{Hmm... Okay.}
-{151}{}{(::sigh::) Sono stati catturati dall'Enclave. Gruthar e il branco furono costretti a prendere parte attiva nella cattura. Non avevano altra scelta, dal momento che a quel tempo erano ancora degli schiavi. Il destino degli umani pesa ancora molto sulla coscienza di Gruthar. Non si e' mai perdonato del tutto per quella faccenda. Gli umani sono stati presi vivi, ma chissa' che ne e' stato di loro...}
+{151}{}{(::sigh::) Sono stati catturati dall'Enclave. Gruthar e il branco furono costretti a prendere parte attiva nella cattura. Non avevano altra scelta, dal momento che a quel tempo erano ancora degli schiavi. Il destino degli umani pesa ancora molto sulla coscienza di Gruthar. Non si e' mai perdonato del tutto per quella faccenda. Gli umani sono stati presi vivi, ma chissa' che ne e' stato di loro da allora?}
 {152}{}{(Sigh) Sono stati catturati da un gruppo chiamato "l'Enclave". Gruthar e il branco furono costretti a prendere parte attiva nella cattura. Non avevano altra scelta, dal momento che a quel tempo erano ancora degli schiavi. Il destino degli umani pesa ancora molto sulla coscienza di Gruthar. Non si e' mai perdonato del tutto per quella faccenda. Gli umani sono stati presi vivi, ma chissa' che ne e' stato di loro...}
 {153}{}{Hmm... devo farti delle altre domande.}
 {154}{}{Lo sapevo che questi dannati Deathclaw dovevano essere in qualche modo responsabili! Ho bisogno di altre informazioni, pero'.}
@@ -63,8 +63,8 @@
 {162}{}{Grazie del consiglio; chiedero' un po' in giro. Posso farti qualche altra domanda, pero'?}
 {163}{}{Hmm... Okay, che ne dici di rispondere a qualche altra domanda?}
 {164}{}{No, solo quello che ti ho gia' detto. Aspetta, c'e' un'altra cosa. L'Enclave ha mostrato dell'interesse per alcune rovine a ovest di qui. Non saprei dirti il motivo. E questo e' tutto.}
-{165}{}{Bene, anche la piu' piccola informazione puo' essermi utile. Grazie!}
-{166}{}{Questo e' un argomento di fondamentale importanza e tu mi deludi cosi'?}
+{165}{}{Ogni informazione è utile, e ti ringrazio.}
+{166}{}{Questo è un argomento molto importante per me, e mi hai deluso!}
 {167}{}{Capisco.}
 {168}{}{Credo che il suo nome sia virus FEV. L'Enclave sta, o stava, eseguendo ampie ricerche su di esso. Mi dispiace, ma non so altro.}
 {169}{}{D'accordo; parliamo di altre cose.}
