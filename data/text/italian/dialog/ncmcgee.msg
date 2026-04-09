@@ -114,7 +114,7 @@
 {416}{}{}
 {417}{}{Tra un po' saranno cinque anni... Sono certo che questa macchinetta è sul punto di cedere. E quando lo fara'... JACKPOT! Eh eh eh!}
 {418}{}{Uh, ti auguro buona fortuna, allora.}
-{419}{}{Caaaaaaaavoli. Ci vediamo dopo, eh?}
+{419}{}{Faaaaantastico. Ci sentiamo dopo, allora.}
 {425}{}{}
 {426}{}{}
 {427}{}{(Sbuffa) Farti toccare la mia slot? E rovinarmi la fortuna?! Diavolo, no! Sparisci da qui!}

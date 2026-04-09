@@ -74,7 +74,7 @@
 {292}{}{Ehi, dolcezza...[sorride]...vuoi mettere alla prova la tua fortuna?}
 {293}{}{Se vuoi vincere dei soldi, sei venuto nel posto giusto.}
 {294}{}{Donna Fortuna e' qui da noi, stasera... vincono tutti!}
-{295}{}{Vieni qui, e vinci!}
+{295}{}{Avanti, avanti… venite a vincere qualche gettone.}
 {296}{}{Vuoi bere qualcosa, tesoro?}
 {297}{}{Benvenuta nel nostro casino', tesoro.}
 {298}{}{Questo tavolo e' libero, se vuoi giocare...}
@@ -85,8 +85,8 @@
 {321}{}{Fate il vostro gioco, signore. La puntata minima e' $}
 {322}{}{Fate il vostro gioco, signora. La puntata minima e' $}
 {323}{}{Fate il vostro gioco, la puntata minima e' $}
-{324}{}{Me no minimo! Me grande!}
-{325}{}{Buoni zuccherini! YUM! (mordi i dadi) Ouch! No buoni!}
+{324}{}{Io… più for-te di te.}
+{325}{}{Io… gioco ai dadi… nei pantaloni.}
 {326}{}{Cosa essere questo gioco? Potere scommettere pelle di gecko? Me ha pelle di...ooooh...luccichini! [Allontanati]}
 {327}{}{[Hai $}
 {328}{}{Punta $}

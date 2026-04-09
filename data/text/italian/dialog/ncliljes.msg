@@ -103,7 +103,7 @@
 {540}{}{}
 {541}{}{}
 {542}{}{Ehi, ehi, ehi! Tu sei }
-{544}{}{Che forza, che forza!}
+{544}{}{Accendilo, accendilo}
 {547}{}{Grazie, Lil' Jesus. Ehi, ho delle domande da farti...}
 {548}{}{Grazie per i complimenti. Sono solo di passaggio; adesso devo andare.}
 {549}{}{Gia', non ho bisogno che tu me lo dica. Sta' attento.}
@@ -138,7 +138,7 @@
 {646}{}{Sai nulla a proposito dell'overdose di Jet che ha ucciso Richard Wright?}
 {647}{}{Puoi insegnarmi a combattere con il coltello?}
 {648}{}{Nulla. Ci vediamo dopo.}
-{660}{}{Io? Se proprio me lo chiedi... heh. Mi chiamo Jesus. Jesus Mordino. Proprio come mio padre: lui e' BIG Jesus, il GRANDE Jesus, il capo di TUTTA la famiglia Mordino di Reno. Per questo motivo, molti mi chiamano Lil' Jesus, Piccolo Jesus. Per evitare di fare confusione, sai com'e'...}
+{660}{}{Io? Se devi chiederlo… eh. Mi chiamo Jesus. Jesus Mordino. Come mio padre: lui è il GRANDE Jesus, il capo di tutta la famiglia Mordino qui a Reno. Per questo la maggior parte mi chiama Jesus il Piccolo. Evita confusioni, capisci.}
 {661}{}{La Famiglia Mordino? Di chi si tratta?}
 {662}{}{Ho sentito parlare della vostra famiglia. Mi hanno detto che siete un'organizzazione non da poco.}
 {663}{}{Sto cercando lavoro. La famiglia Mordino puo' offrirmi qualcosa?}

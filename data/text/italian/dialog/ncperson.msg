@@ -254,7 +254,7 @@
 {520}{}{Sei un nuovo tipo di arcade game deambulante?}
 {521}{}{Sei una di quelle nuove console che stanno per uscire?}
 {522}{}{No, NON ho intenzione di oliarti le giunture.}
-{523}{}{Ti sei per caso perso mentre stavi cercando di entrare in uno di quei giochi per PC con i robottoni?}
+{523}{}{Sembri uno diretto a uno di quei giochi di mech per PC… e ti sei pure perso.}
 {524}{}{Certo, certo, "clank-whirrr-clank" anche a te.}
 {525}{}{Se credi che quella armatura mi faccia paura, hai ragione.}
 {540}{}{Sei disponibile?}

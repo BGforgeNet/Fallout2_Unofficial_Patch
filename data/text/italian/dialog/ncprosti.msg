@@ -8,7 +8,7 @@
 {156}{}{Vedi una prostituta. Ha l'aspetto di una che uccide i suoi amanti e se li mangia.}
 {157}{}{Vedi una prostituta. Ti sta valutando come fossi un gioiello.}
 {158}{}{Vedi una prostituta. I suoi abiti consunti le fasciano sensualmente il corpo.}
-{175}{}{Oh mio... e' lui!}
+{175}{}{Oh mio... e' lui.}
 {176}{}{Sei il piu' grande stallone del mondo.}
 {177}{}{::Sviene::}
 {178}{}{Vai, }

@@ -38,13 +38,13 @@
 {253}{}{Il mio nome e' }
 {254}{}{Sono un semplice viandante.}
 {255}{}{Sono un viandante in cerca del Vault 13. Ne ha mai sentito parlare?}
-{256}{}{Sono un viandante... sa dove potrei trovare un qualcosa chiamato "Kit di Creazione del Giardino dell'Eden"?}
+{256}{}{Sono un viandante... sa dove potrei trovare un qualcosa chiamato "Kit di Creazione del Giardino dell'Eden?"}
 {257}{}{Senta, forse farei meglio ad andare. Addio.}
 {260}{}{Si'?}
 {261}{}{Puo' dirmi qualcosa a proposito del signor Bishop?}
 {262}{}{Puo' dirmi qualcosa a proposito della famiglia Bishop?}
 {263}{}{Ha mai sentito parlare di un posto chiamato Vault 13?}
-{264}{}{Sa dove potrei trovare un qualcosa chiamato "Kit di Creazione del Giardino dell'Eden"?}
+{264}{}{Sa dove potrei trovare un qualcosa chiamato "Kit di Creazione del Giardino dell'Eden?"}
 {265}{}{Non importa. Sara' meglio che vada.}
 {270}{}{Mio marito? E' semplice. E' morto. CHE tragedia. Sto ancora cercando di riprendermi da tutto lo champagne che ho bevuto quando l'ho saputo.}
 {271}{}{Mio marito? E' il capo della famiglia Bishop. In ambito diplomatico, affaristico e criminale, possiede una certa astuzia animale che una persona non puo' che ammirare, anche se disprezza le sue altre qualita'.}
@@ -52,7 +52,7 @@
 {273}{}{Altre qualita'?}
 {275}{}{Mi scuso per averglielo chiesto. Faro' meglio ad andare.}
 {276}{}{Mi dispiace, signora Bishop. Non era mia intenzione essere indiscreto. Me ne andro'.}
-{280}{}{(Aggrotta le sopracciglia.) Lascio a te il compito di immaginarle. (Sembra infastidita.) E' *tutto*?}
+{280}{}{(Aggrotta le sopracciglia.) Lascio a te il compito di immaginarle. (Sembra infastidita.) E' *tutto?*}
 {281}{}{Veramente avrei delle altre domande...}
 {285}{}{Non c'e' molto da dire a proposito della "Famiglia" Bishop. Ah... ci sono i parenti "acquisiti": banditi prezzolati, mercenari, puttane, spacciatori e schiavi, ma la "famiglia" Bishop non conta altri membri.}
 {286}{}{Sembra che il vostro matrimonio non sia cosi' felice come dovrebbe essere.}
@@ -66,7 +66,7 @@
 {300}{}{Sua figlia Angela?}
 {301}{}{Avrei delle altre domande...}
 {305}{}{Si', la stessa Angela con la quale tu hai *dormito*. Sicuramente te lo ricordi, no? (Ti rivolge uno sguardo raggelante.) *Spero* tu abbia usato un profilattico. I suoi ormoni sono cosi' fuori controllo che il solo pronunciare la parola "sperma" la metterebbe incinta.}
-{306}{}{Si', mia figlia Angela. E diventata quasi una piccola vagabonda. (sorride mestamente) Tale madre, tale figlia... (singhiozza di rabbia.) Ora... e' *tutto*?}
+{306}{}{Sì, mia figlia, Angela. E' diventata proprio una piccola sbandata. (Sorride amaramente.) Tale madre, tale figlia… (Sospira, irritato.) Ora, e' *tutto?*}
 {308}{}{Er, prof... prof-i-ter...? Eh, beh, credo che ne abbiamo usato uno... qualunque cosa sia. Sa una cosa? Credo che andro' subito a controllare.}
 {309}{}{Cioe', un goldone? Certo che l'abbiamo usato. Credo. Voglio dire, sono abbastanza sicuro. Forse farei meglio ad andare subito a controllare.}
 {315}{}{"}
@@ -137,7 +137,7 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {441}{}{Okay, allora. Solo un drink.}
 {443}{}{Mi dispiace, ma non posso, signora Bishop. Devo proprio andare.}
 {445}{}{Ah, si'... il tentativo ben congegnato da mio marito di costringere gli altri ad accettare il suo gesto d'amicizia. Avrei preferito che quei predoni venissero inceneriti dai cannoni laser di Vault City.}
-{446}{}{"Gesto d'amicizia"?}
+{446}{}{"Un gesto di buona volonta'?"}
 {447}{}{Capisco. Avrei delle altre domande...}
 {448}{}{Interessante... beh, grazie delle informazioni. Arrivederci.}
 {449}{}{Hmmm... Interessante. Grazie per il suo tempo, signora Bishop.}
