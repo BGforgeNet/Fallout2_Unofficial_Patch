@@ -37,10 +37,10 @@
 {271}{}{Io? Io sono il buon vecchio Babbo Natale. E TU devi essere quello stupido teppista a pagamento che gira per la citta' come un cane affamato in cerca dei suoi escrementi.}
 {272}{}{Io? Io sono il buon vecchio Babbo Natale. E TU devi essere quello stupido pezzo di spazzatura porno che monta come un cavallo ed e' stupido come un asino.}
 {273}{}{Io? Io sono il buon vecchio Babbo Natale. E TU devi essere quello stupido pezzo di spazzatura porno che i vecchi incappottati usano per soddisfare le loro fantasie masturbatorie.}
-{274}{}{Bene, sono felice di non aver bisogno di presentarmi. Cosa ci fai qui, "Natale"?}
+{274}{}{Bene, sono felice di non aver bisogno di presentarmi. Cosa ci fai qui, "Nick?"}
 {275}{}{Babbo Natale? Che diavolo di nome e'?}
 {276}{}{Senti nonnetto, un'altra osservazione come questa e usero' i tuoi denti come collana.}
-{277}{}{Senti, sorvolero' sulle tue osservazioni... per questa volta. Adesso dimmi chi sei.}
+{277}{}{Senti, stavolta lascio correre il tuo commento… stavolta. Ora, chi sei?}
 {278}{}{Un vocabolario davvero impressionante... "Natale". Sei di queste parti?}
 {279}{}{Come non detto. Me ne vado.}
 {290}{}{(Ti guarda, poi sbuffa.) Mi chiamo Renesco. Dimmi che cos'e' che vuoi, tu...beh, qualunque cosa tu sia. (Ti da' un'occhiata.) Sembreresti uno di quei primati adoratori del sole, sotto i vestiti.}
@@ -208,7 +208,7 @@
 {755}{}{Dubito FORTEMENTE che abbia detto questo. Non era "Il canarino ha tirato le cuoia", per caso?}
 {756}{}{Beh, si'.}
 {760}{}{E...?}
-{761}{}{"E"?}
+{761}{}{"E?"}
 {765}{}{E la SECONDA parte e'...?}
 {766}{}{"Seconda parte"? Non ha detto nulla a proposito di una SECONDA parte. Quel brutto bast -!}
 {769}{}{Ti stavo solo mettendo alla prova. Non c'e' nessuna seconda parte. Beh, se e' Zaius che ti manda, CREDO di avere qualche pezzo di ricambio da darti. }
@@ -260,7 +260,7 @@
 {875}{}{Sei diventato sordo, ragazzo? }
 {876}{}{Sei diventata sorda, ragazza? }
 {877}{}{TI HO DETTO CHE HO. GIA'. PAGATO. IL. PIZZO. *Due settimane fa*. Se sei davvero un uomo di Salvatore, dovresti saperlo. Adesso smamma!}
-{878}{}{Senti. Per l'ultima volta: tira fuori i quattrini!}
+{878}{}{Senti. Per l'ultima volta: tira fuori i quattrini.}
 {879}{}{Sei tu quello che e' diventato sordo. Io rappresento Mr. Salvatore e tu pagherai il pizzo.}
 {880}{}{Ti avevo avvertito, nonnetto. Vorra' dire che dovro' procedere con le cattive. E' tempo di morire.}
 {881}{}{Mi informero' con Mr. Salvatore a proposito del pagamento, poi tornero'. }

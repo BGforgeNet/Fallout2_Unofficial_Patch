@@ -117,7 +117,7 @@
 {2305}{}{::Respiri profondamente, te ne vai.:: (Vai via.)}
 {2320}{}{*Sono il tuo uomo ideale.* (La slot machine ti fa l'occhiolino.) *Dammi un po' di monete, e ti faro' provare piacere in modi che nessun uomo ha MAI usato prima.*}
 {2321}{}{*Sono la tua donna ideale, zucchero. Tutto cio' che voglio e' un po' di attenzione. Puoi aiutarmi? Dai, solo una moneta o due?*}
-{2322}{}{Nooon posssciamo sholo ppa..rlaree?}
+{2322}{}{Non possiamo… parla' un attimo}
 {2340}{}{*Certo che possiamo, dolcezza, certo che possiamo.* (La slot machine sembra comprensiva.) *Cosa turba la tua piccola dolce testolina?*}
 {2341}{}{*Certo che possiamo, zucchero, certo che possiamo.* (La slot machine sembra comprensiva.) *Che cosa ti turba, splendore?*}
 {2342}{}{Me manca MAMMA e manca ARROYO e me......no trova GECK e...*sniff*}

@@ -124,7 +124,7 @@
 {453}{}{Uhhh, OK.}
 {454}{}{Oh, mi dispiace. Grazie.}
 {2203}{}{! Benvenuto nel nostro casino', eroe!}
-{2215}{}{. Posso aiutarti in... *qualsiasi* modo?}
+{2215}{}{. Posso aiutarti con… *qualcosa?*}
 {2219}{}{.}
 {2255}{}{. Che ne dici di giocare un po'?}
 {2258}{}{, e vincerai dei soldi.}

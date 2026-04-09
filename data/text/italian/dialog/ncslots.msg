@@ -20,7 +20,7 @@
 {180}{}{*Dingity-ding*}
 {185}{}{Vedi una strana scatola di metallo dorato con tre occhi e un braccio. E' una delle cose piu' carine che tu abbia mai visto.}
 {186}{}{Me }
-{187}{}{ chi tu?}
+{187}{}{ chi tu}
 {188}{}{Me manca MAMMA. }
 {189}{}{ manca ARR-YO. Me vuole andare casa}
 {190}{}{(Le stringi la mano)}
@@ -104,7 +104,7 @@
 {320}{}{::Respiri profondamente, te ne vai.::}
 {325}{}{*Sono il tuo uomo ideale.* (La slot machine ti fa l'occhiolino.) *Dammi un po' di monete, e ti faro' godere come MAI nessun uomo ha fatto prima d'ora.*}
 {326}{}{*Sono la tua donna ideale, zucchero. Tutto cio' che voglio e' un po' di attenzione. Puoi aiutarmi? Dai, solo una moneta o due?*}
-{327}{}{Nooon posssciamo sholo ppa..rlaree?}
+{327}{}{Non possiamo… parla' un attimo}
 {328}{}{Sherto che vojo sgiocarre con teee}
 {329}{}{Penso sia meglio che me ne vada prima di fare qualcosa di cui potrei pentirmi.}
 {330}{}{::Respiri profondamente, te ne vai.::}

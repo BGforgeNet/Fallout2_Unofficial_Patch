@@ -7,7 +7,7 @@
 {210}{}{Guardie! Gu...*cough* *cough*...Guardie!}
 {215}{}{(Salvatore si gira verso di te con un'espressione impietrita. Ti osserva per una frazione di secondo e poi fa uno strano gesto con la sua mano. Subito, un allarme risuona per tutto il casino'.)}
 {216}{}{Owwww! Abbassare suono! Bua a orecchie! BUA A ORECCHIE!}
-{217}{}{ME NO POTERE PARLARE SU SQUILLO. TU SPEGNERE, NOI PARLARE!}
+{217}{}{IO NON PARLA CON QUESTO RUMORE. SPEGNI. POI PARLA.}
 {218}{}{Ti SPEZZO le gambe, vecchio! Non camminerai mai piu'!}
 {219}{}{Lo sapevo che dovevo chiedere l'autorizzazione, prima...}
 {220}{}{Merda!}

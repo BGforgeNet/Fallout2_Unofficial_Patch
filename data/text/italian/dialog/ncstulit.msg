@@ -81,7 +81,7 @@
 {351}{}{Me pronto ora PRONTO FARE DANNI ORA ORA}
 {352}{}{Me fa breve sonnellino poi me pronto combattere ancora.}
 {353}{}{Me vuole gelato.}
-{355}{}{Sono pronto. Al lavoro!}
+{355}{}{Sono pronto. Mettiamoci al lavoro.}
 {356}{}{Lasciami riposare un attimo, poi saro' pronto.}
 {357}{}{Credo di averne avuto abbastanza di questo mondo, Stuart... lassu', sul ring, ho visto la morte e mi ha spaventato. Appendo i guantoni al chiodo.}
 {360}{}{(Il nanerottolo sbatte le palpebre, poi aggrotta le sopracciglia) Gela-CHE?}
@@ -104,7 +104,7 @@
 {404}{}{Hmmmph. Ok. Come ti chiami?}
 {405}{}{Sono }
 {407}{}{Hai mai lavorato in un circo, Stuart?}
-{408}{}{"Stuart Little"?}
+{408}{}{"Stuart Little?"}
 {409}{}{Oltre alle gambe c'e' di piu', Stuart. Quindi fa' il bravo, altrimenti per te sara' ancora piu' difficile avere un appuntamento galante in questa citta'. Siamo intesi?}
 {410}{}{Veramente stavo solo dando un'occhiata in giro. Ci vediamo dopo, Stuart.}
 {411}{}{(Si rimette lo stuzzicadenti in bocca e comincia a morderlo) Hai un nome?}
@@ -162,7 +162,7 @@
 {526}{}{Piacere di conoscerti, Stu. Non ho tempo per parlare, adesso. Ci vediamo dopo.}
 {530}{}{E che cosa ti fa pensare che io abbia mai visto uno spettacolo circense, o, peggio, che io sia stato rapito da un circo?}
 {531}{}{Uh...beh, mi pare che molti dei cittadini di New Reno si comportino come se fossero appena usciti da un circo, e quindi pensavo che...}
-{540}{}{TU pensavi che, poiche' sono una persona di bassa statura, l'unica carriera che potevo intraprendere era quella di essere rinchiuso in un cosiddetto "circo"!}
+{540}{}{Tu pensavi che, solo perché sono di bassa statura, l’unica carriera che potessi ottenere fosse confinata sotto il cosiddetto ‘tendone del circo’.}
 {541}{}{Uh... beh, insomma...}
 {550}{}{Mi hai dato solo una RAPIDA occhiata e hai pensato di conoscere la mia intera vita. Non ti sarebbe mai passato per l'anticamera del cervello che una persona della mia statura potesse far carriera come *agente di pugili*.}
 {551}{}{Mi dispiace, non volevo offenderti.}

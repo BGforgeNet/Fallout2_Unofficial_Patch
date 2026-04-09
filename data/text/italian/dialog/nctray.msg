@@ -9,7 +9,7 @@
 {210}{}{Ho detto a tutti che io e te siamo COSI' (batte insieme i due diti indici). Ho anche detto che quando io chiedo qualcosa, e' come se fossi tu in persona a chiederla.}
 {211}{}{Sei fortunato che ci sia stato io a salvarti il culo, altrimenti l'Enclave ti avrebbe mangiato a COLAZIONE.}
 {212}{}{Yo, eroe. Mi raccomando: di' a tutti che T-Ray e' il tuo migliore amico, okay?}
-{220}{}{Whoa, siamo in presenza di sua maesta'. Eroe in arrivo!}
+{220}{}{Oh, attenzione: siamo alla presenza della nobiltà. L’eroe in persona, fate largo.}
 {221}{}{Sai, se tu fossi venuto qui prima di andare a fare tutto quel casino, ti avrei potuto aiutare ad ammazzare il Presidente.}
 {222}{}{Volevo venire anch'io all'Enclave, ma in quel momento stavo telefonando.}
 {230}{}{Quanti cavalli puo' sprigionare quella cosa che indossi?}
