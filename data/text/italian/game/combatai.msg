@@ -2285,7 +2285,7 @@
 {36505}{}{}
 {36520}{}{Kaga e' pronto ad affrontarti adesso.}
 {36521}{}{Sei un moscerino al confronto di Kaga.}
-{36522}{}{Kaga ti spedira' nei pascoli del cielo.}
+{36522}{}{Kaga ti manderà alla tua prossima vita!}
 {36523}{}{Mancherai a Kaga.}
 {36540}{}{Assaggia l'ira di Kaga!}
 {36541}{}{Kaga diventera' famoso per averti ucciso!}
@@ -2390,7 +2390,7 @@
 {36815}{}{Qualcuno mi aiuti!}
 {36816}{}{In teoria dovrei essere IO a cacciare TE!}
 {36817}{}{Ho dei soldi da parte. Lasciami andare e te li daro'.}
-{36818}{}{L'Inferno s'e' appena congelato!}
+{36818}{}{L’inferno dev’essersi appena congelato.}
 {36819}{}{Dannazione, sei bravo!}
 {36820}{}{Hai un'idea di quanto tempo io sia stato sulle tue tracce?}
 {36821}{}{Sei ricercato... MORTO.}

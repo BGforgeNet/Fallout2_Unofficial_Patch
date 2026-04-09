@@ -190,7 +190,7 @@
 {747}{}{La prossima volta farai meglio a stare attento. Me ne vado.}
 {755}{}{D'accordo, d'accordo... ecco cosa ti propongo: noi possiamo installarle tutti i potenziamenti, "ringalluzzirla" e darla a Mr. Bishop in men che non si dica. Per quanto riguarda il prezzo... (Alza le spalle, sorride) ...la domanda e': come si PUO' mettere un prezzo su una Highwayman come questa?}
 {756}{}{Continua.}
-{757}{}{Non ho TEMPO per le tue stronzate. Vieni al dunque.}
+{757}{}{Non ho TEMPO per le tue stronzate. Qual è il punto?}
 {758}{}{Hai ragione. Non puoi. Prendero' l'auto con me e Mr. Bishop ti permettera' di continuare i tuoi traffici.}
 {759}{}{Non ho tempo da perdere in chiacchiere. Me ne vado.}
 {770}{}{Per come la vedo io, questa Highwayman... molto probabilmente l'ultima del suo tipo ancora funzionante... vale ALMENO 3000 dollari... ma la sai una cosa? (Strizza l'occhio) Sono disposto a separarmi da questa bellezza per soli 2700 considerata la situazione. Certo, dovremmo parlare dei benefici AGGIUNTIVI: privilegi al club, libero accesso al bordello...}

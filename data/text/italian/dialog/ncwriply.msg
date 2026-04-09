@@ -75,7 +75,8 @@
 {341}{}{-Corri un po' con lui, facendo *bzzzzzz* anche tu-}
 {342}{}{-Allontanati-}
 {343}{}{(Te ne vai.)}
-{350}{}{INSETTO, stupido che non sei altro! Ne abbiamo VISTO uno quando stavamo giocando nel deserto! Era grosso... (prende un grosso respiro) ...grosso come una CASA! E aveva delle PERSONE dentro!}
+{350}{}{INSETTO, stupi?do! Ne abbiamo visto uno quando eravamo nel deserto! Era grande… (fa un bel respiro) …grande come una CASA!
+E dentro c’erano persone di METALLO.}
 {351}{}{Nuh-uh}
 {352}{}{No chiamare me stupido}
 {353}{}{No gridare. }
@@ -124,7 +125,7 @@
 {453}{}{No. Rischieresti di spararti un colpo in testa.}
 {454}{}{Beh, ma certo, piccola "testa in padella". Ecco qua. (Gli dai una pistola scarica.)}
 {455}{}{Beh, ma certo, piccola "testa in padella". Ecco qua. (Gli dai una pistola carica.)}
-{456}{}{"Insetti Metallici"?}
+{456}{}{"Insetti Metallici?"}
 {457}{}{Oh, okay. Ero solo curioso.}
 {458}{}{Nooooo... Credo sia meglio che io vada.}
 {470}{}{(Ti fissa.) Eddai, so come usare una pistola come quella! Sono un Wright! Lasciamela vedere! Daaaaai?}
@@ -134,7 +135,7 @@
 {474}{}{Beh, d'accordo. [Gli dai una pistola scarica.]}
 {475}{}{Beh, d'accordo. [Gli dai una pistola carica.]}
 {476}{}{Scordatelo. Va' a giocare con i tuoi amici.}
-{485}{}{Si', insetti metallici! Ne abbiamo VISTO uno quando stavamo giocando nel deserto! Era grosso... (prende un grosso respiro) ...grosso come una CASA! E aveva delle PERSONE dentro!}
+{485}{}{Si', insetti metallici! Ne abbiamo VISTO uno quando stavamo giocando nel deserto! Era grosso... (prende un grosso respiro) ...grosso come una CASA! E dentro c’erano persone di METALLO.}
 {486}{}{Davvero? Wow! Dove l'avete visto?}
 {487}{}{Stai mentendo!}
 {488}{}{Non ci credo. Stai mentendo.}

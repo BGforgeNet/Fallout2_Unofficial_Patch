@@ -74,7 +74,7 @@
 {395}{}{Nah-ah, SCEMO! (Il bambino corre via, mentre la sua risata risuona crudelmente nelle tue orecchie.)}
 {396}{}{Me no vuole parlare con te... *snfff*... me... *snfff*... fa una FESTA... con *snfff* TORTA e GELATO... e TU non venire [Te ne vai.]}
 {405}{}{(Il bambino sbatte gli occhi, apre la bocca e poi la richiude. Sul suo viso si forma una lacrima che subito si trasforma in un pianto a dirotto.)}
-{406}{}{Eh eh, ME vinto!}
+{406}{}{Eh eh, ME vinto}
 {410}{}{Oh. (Ci pensa un attimo, poi ti guarda con sospetto.) Perche' non sei un robot?}
 {411}{}{Uh... perche'... beh, i robot e le persone hanno parti... ehm, diverse.}
 {412}{}{Devo andare.}
@@ -90,7 +90,7 @@
 {460}{}{Di certo non e' comodo. Senti, mi spiace per tuo fratello Richie. Tu sai cosa gli e' successo?}
 {475}{}{Che SCHIFO.}
 {476}{}{Si'! Riciclare vuol dire che ti bevi la tua pipi'!}
-{477}{}{TU SCHIFO, FACCIA di pipi'!}
+{477}{}{TU SCHIFO, FACCIA di pipi'}
 {479}{}{Uh, eh...eheh. Veramente vuol dire che...}
 {485}{}{Tu bevi la pipi'! Tu bevi la pipi'!}
 {486}{}{Uh, eh...eheh...abbassa la voce, piccolo...riciclare non significa che bevo la mia p... beh, non ESATTAMENTE almeno...cioe'...}
