@@ -6,7 +6,7 @@
 {105}{}{Me ferito.}
 {106}{}{Ho bisogno di un dottore.}
 {107}{}{Non potresti semplicemente prendere delle pillole o qualcosa del genere invece di disturbarmi per queste sciocchezze?}
-{108}{}{Diavolo, sanguini appena!}
+{108}{}{Diavolo, non stai quasi neanche sanguinando.}
 {109}{}{Non so. Non penso di poterla salvare. Forse dovremo amputare questa gamba.}
 {110}{}{Stai scherzando.}
 {111}{}{Ah-ah.}

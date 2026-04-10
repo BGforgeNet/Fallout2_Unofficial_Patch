@@ -27,7 +27,7 @@
 {126}{}{La resistenza di quei due e' davvero incredibile! Non si puo' prevedere chi avra' la meglio.}
 {127}{}{Che colpo sui reni! Quello si' che deve far male!}
 {128}{}{Oh yeah! Combattete! Combattete!}
-{129}{}{Credo che non l'abbia nemmeno visto arrivare, quello. Un colpo fortunato!}
+{129}{}{Non credo che l'abbia vista arrivare, mossa fortunata.}
 {130}{}{Ouch! Quello deve aver fatto male!}
 {131}{}{Vedrete che incontro, gente.}
 {132}{}{Bel colpo, davvero un ottimo gioco di zampe.}
@@ -60,7 +60,7 @@
 {159}{}{Venite a vedere il duello del giorno!}
 {160}{}{Creature selvagge si scontrano mentre voi vincete soldi! VI PIACERA'!}
 {161}{}{Portate i vostri grossi portamonete e le vostre ancor piu' grosse speranze! PROPRIO QUA!}
-{162}{}{Voglio uscire da questa dannata prigione!}
+{162}{}{Vattene al diavolo.}
 {163}{}{Non mi interessano i tuoi sporchi affari.}
 {164}{}{Va' da qualche altra parte.}
 {165}{}{Sta' lontano dal mio recinto.}

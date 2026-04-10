@@ -61,4 +61,4 @@
 {160}{}{Sergente Granite, EC Company.}
 {161}{}{EC Company?}
 {162}{}{Enclave Control Company. Siamo i responsabili della difesa del perimetro, *di solito*.}
-{163}{}{Oh, capisco. Cosa vuol dire *di solito*?}
+{163}{}{Oh, capisco. Cosa vuol dire *di solito?*}

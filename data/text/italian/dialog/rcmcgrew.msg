@@ -159,7 +159,7 @@
 {258}{}{Se ne hai un bisogno cosi' disperato, com'e' che non sei andato a prendertelo da solo?}
 {259}{}{Lo faro'. Ci vediamo.}
 {260}{}{Ho una grossa scavatrice pre-bellica pronta per essere usata, ma ha un problema. Non ha cervello.}
-{261}{}{Mi piacerebbe poter dire che non e' certo la sola, in questa citta. Ma mi limitero' ad un semplice: "Che cosa intendi?"}
+{261}{}{Vorrei dire che in questa citta' ha molta compagnia, ma invece diro': Cosa intendi?}
 {262}{}{Non sono quello che si dice un tipo schizzinoso, ma non mi piace il suono che ha la frase "andare a cercare *un po' di cervello*". Addio.}
 {263}{}{Si e' fuso il suo chip di controllo e non posso certo ordinarne uno nuovo. Ma so dove trovarne uno. E sono pronto a pagare 1.000$ per averlo.}
 {264}{}{Dove si trova?}

@@ -809,7 +809,7 @@
 {2136}{}{I tuoi giorni qui sono finiti.}
 {2137}{}{Vai a quel paese, non ho intenzione di perdonarti.}
 {2138}{}{Sono incazzato come un mulo e non ho intenzione di fartela passare liscia!}
-{2139}{}{Voglio uscire da questa dannata prigione!}
+{2139}{}{Vattene al diavolo.}
 {2140}{}{Non avresti dovuto farlo.}
 {2141}{}{Sappiamo badare a noi stessi.}
 {2142}{}{Questo e' cio' che facciamo ai parassiti!}

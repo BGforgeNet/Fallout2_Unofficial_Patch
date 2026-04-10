@@ -61,7 +61,7 @@
 {160}{}{Che cosa ti interessa sapere?}
 {161}{}{Come mai il nostro DNA e' diverso?}
 {162}{}{State svolgendo degli esperimenti sulla mia tribu'?}
-{163}{}{Che cosa diavolo e' "il Progetto"?}
+{163}{}{Che cosa diavolo e' "il Progetto?"}
 {164}{}{Ho sentito abbastanza. Ti meriti d'essere ammazzato come un gecko idrofobo. Addio, rottinculo.}
 {165}{}{Esistono diverse differenze molto sottili, principalmente. Tuttavia, non ho ancora avuto il tempo di studiare le ramificazioni di questi cambiamenti. Inoltre devo isolare il vostro corredo genomico originario, prima di azzardare qualche ipotesi sulla direzione che questi cambiamenti hanno intrapreso. Tutto sommato, pero', le informazioni in nostro possesso sono sufficientemente chiare.}
 {166}{}{Cos'e' sufficientemente chiaro? Quali informazioni?}

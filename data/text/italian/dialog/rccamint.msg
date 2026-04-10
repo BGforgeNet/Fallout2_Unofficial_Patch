@@ -36,7 +36,7 @@
 {135}{}{Hai del fegato, per sbatterci dentro.}
 {136}{}{Ci stavamo solamente divertendo un po'. Facci uscire.}
 {137}{}{Quello che stavamo facendo non erano affari tuoi.}
-{138}{}{Voglio uscire da questa dannata prigione!}
+{138}{}{Vattene al diavolo.}
 {139}{}{Fammi uscire da qui.}
 {140}{}{Ehi, lasciami uscire.}
 {141}{}{Sono innocente.}

@@ -14,7 +14,7 @@
 {113}{}{Salve, Lou. Cosa succede di bello in citta'?}
 {114}{}{Cos'e' un Malamute?}
 {115}{}{In che direzione si trova "SanFran"?}
-{116}{}{Sto aiutando lo Sceriffo. Mi ha detto che una delle tue ragazze e' stata accoltellata.}
+{116}{}{Sto dando una mano allo Sceriffo. Mi ha detto che una delle tue ragazze e' stata tutta tagliuzzata?}
 {117}{}{Scusa, non ho molto tempo ne' pazienza per parlare con gli stupidi. Che cosa vuoi?}
 {118}{}{Pere?}
 {119}{}{'tanza?}

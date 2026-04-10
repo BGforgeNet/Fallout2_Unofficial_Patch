@@ -15,7 +15,7 @@
 {114}{}{C'e' un viso abominevole che ti guarda dall'altra parte dello schermo. Oh, aspetta, questo terminale e' spento.}
 {115}{}{Questo schermo e' una finestra aperta su di una dimensione oscura che trascende lo spazio e il tempo.}
 {116}{}{Questo terminale sta visualizzando una scritta: "Finestre '98: Caricamento in Corso..." Il terminale e' ricoperto da uno spesso strato di polvere. }
-{117}{}{Questo terminale sembra essere di marca Apricot. Sta eseguendo un programma chiamato Fallout 3. Wow, sembra essere un multiplayer in 3D!}
+{117}{}{Questo terminale sembra essere un terminale di marca Apricot. Sta eseguendo qualcosa chiamato Fallout 3. Wow, sembra che sia multiplayer e in 3D.}
 {118}{}{Inserire ID Utente:}
 {119}{}{(Proviamo cosi') Elenco utenti.}
 {120}{}{(Mi domando se questo funzionera'...) Smith, J.}
@@ -32,7 +32,7 @@
 {132}{}{(Piu' tardi faro' un tentativo.) Esci.}
 {133}{}{Scegliere: }
 {134}{}{C. E. A. : Gestione Centrale Atomica, }
-{135}{}{Sicurezza - Situazione.}
+{135}{}{Stato della sicurezza?}
 {136}{}{Scaricare - C. E. A. : Gestione Centrale Atomica.}
 {137}{}{Sicurezza - Situazione.}
 {138}{}{Ritornare a ID utente:}
@@ -40,7 +40,7 @@
 {140}{}{Livello di Sicurezza: Stato Attuale,}
 {141}{}{Divisione Chimica: Rapporto sullo Stato del Progetto,}
 {142}{}{C. E. A. : Gestione Centrale Atomica, }
-{143}{}{Sicurezza - Situazione.}
+{143}{}{Stato della sicurezza?}
 {144}{}{Livello di Sicurezza: Stato Attuale}
 {145}{}{Scaricare - Divisione Chimica: Rapporto sullo Stato del Progetto.}
 {146}{}{Scaricare - C. E. A. : Gestione Centrale Atomica.}
@@ -52,7 +52,7 @@
 {152}{}{Livello di Sicurezza: Stato Attuale,}
 {153}{}{Divisione Chimica: Rapporto sullo Stato del Progetto,}
 {154}{}{C. E. A. : Gestione Centrale Atomica, }
-{155}{}{Sicurezza - Situazione.}
+{155}{}{Stato della sicurezza?}
 {156}{}{Stato della Nazione: Situazione Attuale}
 {157}{}{Scaricare - Lista di Parole.}
 {158}{}{Livello di Sicurezza: Stato Attuale}
@@ -60,7 +60,7 @@
 {160}{}{Scaricare - C. E. A. : Gestione Centrale Atomica.}
 {161}{}{Sicurezza - Situazione}
 {162}{}{Ritornare a ID utente:}
-{163}{}{Scegliere: Sicurezza - Situazione.}
+{163}{}{Seleziono: Stato di sicurezza?}
 {164}{}{Sicurezza - Situazione}
 {165}{}{Logout.}
 {166}{}{Download fallito: file della situazione di sicurezza mancante.}

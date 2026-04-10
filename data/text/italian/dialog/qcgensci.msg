@@ -44,7 +44,7 @@
 {143}{}{Che perdita di tempo.}
 {144}{}{Come se ci potesse essere un intruso, qui dentro.}
 {145}{}{Certo... e da dove mai potrebbe entrare un intruso?}
-{146}{}{Credono forse che se fosse entrato un intruso non ce ne accorgeremmo?}
+{146}{}{Come se non ci accorgessimo di un intruso che si avvicina.}
 {147}{}{Un altro guasto all'allarme. Splendido.}
 {148}{}{Non ho tempo per queste stronzate.}
 {149}{}{Cosa vuoi?}

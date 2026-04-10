@@ -67,7 +67,7 @@
 {166}{prs16}{Ah-ha. Oh, ma certamente, Vostra Eccellenza. Che ne direbbe di un... rinfresco? Possiamo parlare e risolvere la questione - Perche' non possiamo semplicemente essere amici?}
 {167}{}{Mi sembra un'idea davvero grandiosa.}
 {168}{}{Bel tentativo, signor Presidente.}
-{169}{prs17}{Uh, bene... solo un secondo. (all'interfono) Ahh, vorrei un rinfresco per me e per un *ospite inatteso*. Un ospite molto importante e -inatteso-. Subito.}
+{169}{prs17}{Uh, bene... solo un secondo. (all'interfono) Ahh, vorrei un rinfresco per me e per un *ospite inatteso*. Un ospite molto importante e -inatteso-. Subito?}
 {170}{}{Grazie. Dopotutto non credo che tu sia un tipo cattivo.}
 {171}{}{Una mossa stupida. Adesso qualcuno si fara' sicuramente del male.}
 {172}{prs18}{Qui dentro qualcuno e' matto, sicuramente. Oh certo. Oooooh certo.}
@@ -121,7 +121,7 @@
 {220}{prs34}{Beh, no. No... non proprio. Vedi, avevamo gia' pianificato tutto. Eravamo pronti. }
 {221}{}{Che cosa vuoi dire?}
 {222}{prs35}{Noi avevamo dei rifugi che avrebbero permesso alla gloriosa civilta' americana di sopravvivere. Tali installazioni - i vault - facevano parte del grande progetto.}
-{223}{}{Quei dannati vault non funzionarono come avrebbero dovuto! Un sacco di gente e' morta!}
+{223}{}{Quei dannati vault non hanno funzionato come avrebbero dovuto. Molta gente al loro interno e' morta.}
 {224}{prs36}{Veramente hanno funzionato esattamente come avrebbero dovuto. Lo si puo' chiamare un esperimento sociale su larga scala.}
 {225}{}{Un esperimento?}
 {226}{prs36a}{I vault furono progettati per condurre dei test sul genere umano. Alcuni non avevano abbastanza sintetizzatori di cibo, altri al loro interno avevano solo maschi, altri ancora erano impostati per aprirsi dopo 6 mesi. Ognuno di essi aveva le sue specifiche caratteristiche per testare gli occupanti.}
@@ -198,7 +198,7 @@
 {297}{}{Come mai? Cosa sta succedendo qui?}
 {298}{prs64}{Ti assicuro che sono nel pieno delle mie facolta' mentali, cosi' come tutte le persone coinvolte nel Progetto. Siamo votati alla salvezza della razza umana. Il perseguire ossessivamente un ideale si puo' chiamare follia, immagino, ma se questo fosse il caso, sarebbe una follia divina.}
 {299}{}{Di cosa stai parlando? Cosa sta succedendo qui?}
-{300}{}{Anch'io perseguo ossessivamente uno scopo: ucciderti all'istante!}
+{300}{}{Che ne dici della mia assoluta dedizione ad ammazzarti in questo momento?}
 {301}{}{Sei un pazzo. Adesso non ho tempo da perdere con la tua pazzia. Addio.}
 {302}{prs65}{Non credo che questo vecchio e stanco Pianeta sia abbastanza grande per due galli. Se dev'essere un "o noi, o voi"... Beh, io scelgo "noi".}
 {303}{}{Non credo che dovresti essere tu a fare questo genere di scelte.}
