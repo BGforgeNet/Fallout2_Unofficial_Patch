@@ -46,7 +46,7 @@
 {145}{}{E' un piacere conoscerla, }
 {146}{}{. Se dovesse avere bisogno di me, puo' trovarmi qui.}
 {147}{}{Grazie. Arrivederci.}
-{148}{}{Pero' lei non e' nativo di Vault City, vero? Sono certo che mi ricorderei di una persona come lei. Da dove viene? }
+{148}{}{Non sei originaria di Vault City, giusto? Sono sicuro che ricorderei una persona come te. Da dove provieni?}
 {149}{}{Aspetti un secondo... lei e' un Esterno, vero? Da dove viene?}
 {150}{}{Da un piccolo villaggio ad occidente, Arroyo. }
 {151}{}{Perche' lo vuole sapere?}

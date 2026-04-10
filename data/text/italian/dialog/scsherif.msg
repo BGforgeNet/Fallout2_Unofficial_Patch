@@ -48,7 +48,7 @@
 {147}{}{Grazie delle informazioni.}
 {148}{}{Il Presidente di NCR, e chi altri? La situazione la preoccupa a tal punto che mi ha persino chiesto di affidarle uno dei miei agenti per una missione speciale. Mi dispiace molto negarle il mio aiuto, ma al momento ho bisogno di tutti i miei uomini.}
 {149}{}{E se invece lo facessi io? Magari lei potrebbe mettere una buona parola per me.}
-{150}{}{Hmm. La vita e' dura, eh?}
+{150}{}{Hmm. Vita dura, immagino.}
 {151}{}{Tu? Hmmm... non credo di poterlo fare. Non ti conosco nemmeno - ma il Presidente sta cercando un volontario, quindi puoi provare ad andare a parlare direttamente con lei. Il suo ufficio si trova nel Palazzo del Congresso.}
 {152}{}{Grazie. Lo faro'.}
 {153}{}{Sa nulla a proposito di un GECK?}

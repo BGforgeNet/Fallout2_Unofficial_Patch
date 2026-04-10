@@ -104,7 +104,7 @@
 {281}{Cas0281}{Questo lo dici tu. Cerca solo di non chiamarmi selvaggio e andremo d'accordo. }
 {282}{Cas0282}{Non voglio che la gente mi scambi con il vecchio Osso-al-Naso laggiu'. Eh-eh. Non avevo mai visto un selvaggio fare una cosa cosi' stupida come infilarsi un osso nel naso.}
 {283}{Cas0283}{Certo che non c'e' nulla di male! La lancia e' una buona arma. Un sacco di selvaggi miei amici usano le lance.}
-{284}{}{Lo sapevi che io sono un "selvaggio"?}
+{284}{}{Lo sapevi che io sono un "selvaggio?"}
 {285}{}{Hmmm. Senti, avrei delle altre domande...}
 {286}{}{D'accordo. Grazie della spiegazione.}
 {287}{Cas0287}{Aw, adesso non scherzare con il vecchio Cassidy. Tu non sei un selvaggio.}
@@ -195,7 +195,7 @@
 {372}{}{Prima fammi sparare una pillola per il cuore...}
 {1000}{Cas1000}{Beh...d'accordo, allora. Aspettero' qui finche' non sarai tornato. }
 {1100}{Cas1100}{Certo. Non posso prometterti che non la tirero' fuori in caso di problemi, pero'.}
-{1200}{Cas1200}{D'accordo, ti staro' appiccicato, allora. Dai per scontato che ci metteremo nei guai, eh?}
+{1200}{Cas1200}{Bene, allora ti staro' vicino. Devi aspettarti dei guai.}
 {1300}{Cas1300}{D'accordo, staro' un po' a distanza. Avro' una migliore linea di tiro, cosi'.}
 {1400}{Cas1400}{D'accordo, ti guardero' le spalle. Se hai bisogno di me, grida, e io arrivero' di corsa.}
 {2000}{Cas2000}{Senza offesa, ma non mi sembri proprio il tipo adatto per fare il leader. Credo che le Lande potrebbero fare tranquillamente un sol boccone di te.}

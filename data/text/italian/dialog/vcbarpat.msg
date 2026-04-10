@@ -9,7 +9,7 @@
 {108}{}{Beh, che mi venga un colpo se quello non e' il "Capitano"...}
 {109}{}{In guardia, gente. E' appena entrata la legge.}
 {110}{}{Sei venuto a farci visita, Cittadino?}
-{111}{}{Ma il tuo posto non e' all'interno della citta', "Cittadino"?}
+{111}{}{Ma il tuo posto non e' all'interno della citta', "Cittadino?"}
 {112}{}{Quei dannati Cittadini sono liberi di andare e venire quando vogliono...}
 {113}{}{Whoa... quello e' un mutante?!}
 {114}{}{Occhi aperti, ragazzi. C'e' un mutante nel locale.}

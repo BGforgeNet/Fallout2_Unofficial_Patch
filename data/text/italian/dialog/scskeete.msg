@@ -49,7 +49,7 @@
 {148}{}{TAK!}
 {149}{}{Doof? Ganya kulk zar!}
 {150}{}{Giusto - obbedire al gigante, fratello. E' cosi' che le cose devono andare. Cosa devo fare, gigante?}
-{151}{}{Cavoli, e' un sacco di roba. Gigante, mi chiamo Doofus e sono il guardiano delle auto e dovrei fare la guardia alle macchine che la gente porta qui, ma, sai, ho questo... problema, vedi, e talvolta mi serve qualche soldo extra, capisci? }
+{151}{}{Cavoli, e' un sacco di roba. Gigante, mi chiamo Doofus e sono il guardiano delle auto e dovrei fare la guardia alle macchine che la gente porta qui, ma, sai, ho questo... problema, vedi, e talvolta mi serve qualche soldo extra, capisci?}
 {152}{}{Si', esatto. Percio' se a volte sono un po' a corto e ho i miei bisogni, sai, tipo quando comincio a sentirmi male, allora devo recuperare qualche spicciolo, e allora vado a parlare con Merk. }
 {153}{}{Fratello, Merk e' un grande. Ha le mani in pasta un po' dappertutto. A volte mi lascia dormire nel Rawhide, dopo la chiusura. Ma poi vuole che gli faccia dei piccoli favori. }
 {154}{}{Ci sto arrivando - wow, i colori, fratello! Merk a volte vuole la roba che c'e' nelle macchine cui faccio la guardia. Ma io lo frego!}

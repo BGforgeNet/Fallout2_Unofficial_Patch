@@ -74,7 +74,7 @@
 {173}{}{D'accordo. Arrivederci.}
 {174}{}{Si', e' il piu' testardo tra tutti i Servi che abbiamo mai avuto. Se non lo conoscessi, direi che suo padre era un brahmin.}
 {175}{}{Sai, questo tipo di comportamento potrebbe causare delle grane. Cosa succederebbe se gli altri Servi seguissero il suo esempio?}
-{176}{}{Potrei acquistarlo e togliervelo dai piedi. Il Centro accetta... "donazioni"?}
+{176}{}{Potrei acquistarlo e togliervelo dai piedi. Il Centro accetta... "donazioni?"}
 {177}{}{Solo un'altra domanda...}
 {178}{}{D'accordo. Arrivederci.}
 {179}{}{E' la verita'. Sono stato costretto a separarlo dagli altri... e proprio ieri uno dei Servi ha avuto il coraggio di contestare una delle mie richieste.}

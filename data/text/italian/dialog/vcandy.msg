@@ -4,7 +4,7 @@
 {103}{}{Sembra proprio che tu sia rimasto coinvolto in qualche rissa, amico. }
 {104}{}{Whoa... sembra che tu sia rimasto coinvolto in una rissa coi fiocchi, amico. }
 {105}{}{Whoa... sembra che tu sia rimasto coinvolto in una vera e propria azione di guerra, amico. }
-{106}{}{Per tutti i...! Mi stai sporcando di sangue tutto il pavimento! }
+{106}{}{Per tutti i...! Mi stai sporcando di sangue tutto il pavimento!}
 {107}{}{Sei qui per farti rimettere a posto?}
 {108}{}{Possshhtoh.}
 {109}{}{Nup.}
@@ -84,7 +84,7 @@
 {183}{}{Grazie. Senti, mi servirebbe un'altra cosa...}
 {184}{}{Mille grazie. Arrivederci.}
 {185}{}{Questo e' lo "studio medico" del Cortile di Vault City. Io e il vecchio Doc sul retro rimettiamo in sesto chiunque ne abbia bisogno.}
-{186}{}{"Vecchio Doc"?}
+{186}{}{"Vecchio Doc?"}
 {187}{}{Capisco. Senti, avrei delle altre domande da farti...}
 {188}{}{Hmmm. Magari tornero' quando avro' bisogno di te.}
 {189}{}{Si', l'Auto-Doc che si trova nella stanza sul retro. E' un gentile prestito della citta'. }
