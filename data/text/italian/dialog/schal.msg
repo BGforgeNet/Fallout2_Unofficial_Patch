@@ -7,7 +7,7 @@
 {106}{}{No.}
 {107}{}{Occhi aperti.}
 {108}{}{Uomini! State uniti!}
-{109}{}{Forza, ragazzi!}
+{109}{}{Continuate cosi', ragazzi.}
 {110}{}{Perfetto. Muoviamoci! Dirigeteli verso Redding, ragazzi!}
 {111}{}{Beh, e allora non rompere. Ho 500 capi di bestiame da mettere in marcia.}
 {112}{}{Ancora tu? Vattene.}

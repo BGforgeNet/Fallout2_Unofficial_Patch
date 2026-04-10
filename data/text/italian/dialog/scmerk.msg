@@ -23,7 +23,7 @@
 {122}{}{Se vuoi parlare con qualcuno, vatti a trovare un amico.}
 {123}{}{Non do informazioni e non cambio soldi. Smamma.}
 {124}{}{Cos'e' questa - l'ora dedicata alla socializzazione?}
-{125}{}{Sono Merk. Che vuoi? }
+{125}{}{Sono Merk. Che vuoi?}
 {126}{}{Ancora tu?}
 {127}{}{Beh, comportati bene, stronzetto, o finira' male.}
 {128}{}{Oort.}
@@ -148,7 +148,7 @@
 {247}{}{No.}
 {248}{}{Giornate come questa mi rendono davvero felice. Bene, vediamo di concludere il nostro accordo.}
 {249}{}{Mi e' stato riferito che il geniale dottore e' spirato durante la tua visita. Cio' va contro gli ordini che ti avevo impartito. Per rifarmi delle future perdite credo sia necessario che io riceva un indennizzo.}
-{250}{}{Senti, ti daro' 500 bigliettoni e poi potremo dimenticare l'intera faccenda, okay?}
+{250}{}{Guarda, ti do 500 bigliettoni e lasciamo perdere tutta la faccenda.}
 {251}{}{Fottiti.}
 {252}{}{Bene, buona fortuna. Non vedo altra ragione perche' noi si parli ancora.}
 {253}{}{A me sta bene.}

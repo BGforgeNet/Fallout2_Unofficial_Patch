@@ -55,7 +55,7 @@
 {154}{}{Ora la gente sa chi e' Jack, poco ma sicuro.}
 {155}{}{Sta' indietro! Non voglio farti del male!}
 {156}{}{Questo non ti riguarda!}
-{157}{}{Accomodati pure: uccidimi. Non mi interessa piu', ormai.}
+{157}{}{Avanti, uccidetemi. Che mi importa ormai?}
 {158}{}{Questa non e' la tua battaglia. Lasciami in pace.}
 {159}{}{O mi faccio esplodere o tu mi uccidi. Che differenza c'e'?}
 {160}{}{Non sto cercando di farti del male! Voglio solo che si ricordino...}
