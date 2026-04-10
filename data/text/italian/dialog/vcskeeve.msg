@@ -64,7 +64,7 @@
 {163}{}{Beh, duecento sono un pochino troppi. Ho solo 150$ con me.}
 {164}{}{Non ho tutti quei soldi. Magari sara' per un'altra volta.}
 {165}{}{No, grazie. Magari un'altra volta.}
-{166}{}{Semplice. Non ti CREDEREBBERO. Tu sei un Esterno, io sono un Cittadino. Indovina un po' a chi daranno ascolto...}
+{166}{}{Semplice. Non ti CREDEREBBERO. Tu sei un Esterno, io sono un Cittadino. Indovina un po' a chi daranno ascolto?}
 {167}{}{Prendero' i documenti, allora.}
 {168}{}{Prendero' quei documenti... ma per 150$, non 200$.}
 {169}{}{Beh, 200$ e' un prezzo troppo alto per me. Tornero' quando avro' piu' soldi.}

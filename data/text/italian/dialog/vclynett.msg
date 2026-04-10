@@ -357,7 +357,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {455}{lyn066}{Allora non sprecare il mio tempo. Torna quando avrai qualcosa di concreto da dirmi.}
 {456}{}{Va bene. Tornero' piu' tardi.}
 {457}{}{Molto bene. Buona giornata, Primo Cittadino.}
-{458}{lyn067a}{Quindi NON hai risolto il problema? }
+{458}{lyn067a}{Quindi NON hai risolto il problema?}
 {459}{lyn067b}{Se desideri ancora la Cittadinanza, faresti meglio ad occupartene.}
 {460}{}{Se ho capito bene, qui a Vault City voi avete il pezzo necessario per riparare la loro centrale.}
 {461}{}{Va bene. Tornero' piu' tardi.}
@@ -466,7 +466,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {564}{}{Potrebbe revocargli la Cittadinanza, allora.}
 {565}{}{Capisco. Cerchero' di stargli alla larga, allora. Buona giornata.}
 {566}{lyn088}{Cerca costantemente di convincere i Cittadini a trasformare Vault City in una... "democrazia", come la chiama lui, nella quale tutti abbiano voce nelle leggi e nel prendere le decisioni. *IO* la chiamo "governo della massa".}
-{567}{}{"Democrazia"?}
+{567}{}{"Democrazia?"}
 {568}{}{In che modo tenta di convincere i Cittadini?}
 {569}{}{Sembrerebbe un bel problema. Cosa ne direbbe se me ne... occupassi io?}
 {570}{}{Non potete semplicemente cacciarlo dalla citta'?}
@@ -753,7 +753,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {851}{}{Lasciamo stare. Possiamo discutere di questo argomento un'altra volta.}
 {852}{lyn047b}{E anche se lo facessimo? Questa e' solo una soluzione temporanea. }
 {853}{}{Uh, beh, non conosco i dettagli, ma sembra che questo magneto-come-si-chiama potrebbe aiutare sia Gecko sia Vault City. Posso avere questo pezzo?}
-{854}{}{In realta', il regolatore potrebbe far funzionare correttamente la centrale per molti anni. Quindi, se adesso potessi avere il dispositivo...}
+{854}{}{In realta', il regolatore potrebbe far funzionare la centrale in modo pulito per molti anni. Quindi se riuscissi solo a procurarmi il pezzo...?}
 {855}{}{Lasciamo perdere. Forse posso trovare qualcun altro che mi aiuti.}
 {856}{}{Ha ragione, Primo Cittadino. Vedro' di fare il possibile per risolvere questo problema da solo.}
 {857}{}{Non credo di capire. Il problema e' Gecko... o sono i ghoul?}

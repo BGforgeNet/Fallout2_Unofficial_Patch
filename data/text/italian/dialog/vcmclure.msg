@@ -10,7 +10,7 @@
 {109}{}{Buongiorno... Capitano, giusto? Ho sentito parlare molto bene di lei. Posso aiutarla in qualche modo?}
 {110}{}{Buongiorno... Cittadino, giusto? Mi avevano detto che la nostra comunita' si era arricchita di un nuovo membro. Posso aiutarla in qualche modo?}
 {111}{}{Salve... posso aiutarla?}
-{112}{}{Buongiorno, Capitano. Tutto a posto, spero.}
+{112}{}{Buongiorno, Capitano. Tutto bene, spero?}
 {113}{}{Buongiorno, Cittadino. Posso aiutarla?}
 {114}{}{Si'? Ha bisogno di qualcos'altro?}
 {115}{}{San-tah Klass?}

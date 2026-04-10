@@ -243,8 +243,8 @@
 {342}{}{2 Seconds}
 {343}{}{Fade out for 3 Seconds}
 {344}{}{Ehi! Sono felice che tu sia tornato. L'ultima volta che ho avuto tue notizie, stavi girando giu' a sud, guidando una vecchia petroliera e facendo esplodere piattaforme petrolifere. }
-{345}{}{Sei tornato qui per un po' di pace e tranquillita', Mister Grande Eroe? }
-{346}{}{Sei tornato qui per un po' di pace e tranquillita', Miss Grande Eroina? }
+{345}{}{Sei tornato qui per un po' di pace e tranquillita', Mister Grande Eroe?}
+{346}{}{Sei tornato qui per un po' di pace e tranquillita', Miss Grande Eroina?}
 {347}{}{Ero-e'? Eh-eh! Yup!}
 {348}{}{-Allontanati-}
 {349}{}{Ho pensato di tornare e di fermarmi a Vault City per un po'. Un po' di pace e di tranquillita' non fanno certo male. Avrei prima bisogno di qualcosa, pero'...}
