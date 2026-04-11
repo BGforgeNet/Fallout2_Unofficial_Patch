@@ -746,7 +746,7 @@
 {6505}{}{. Mentre la tua testa vola in aria hai una bella vista del tuo corpo}
 {6506}{}{. Sorprendentemente, il danno non fa piu' male del normale}
 {6507}{}{. La violenza del colpo ti stordisce per un secondo}
-{6508}{}{. Che male!}
+{6508}{}{. Senti il dolore}
 {6509}{}{. Il colpo rende il braccio inutilizzabile}
 {6510}{}{. Il colpo si insinua nella tua armatura e spezza le ossa del tuo braccio come fossero legna secca}
 {6511}{}{. Il colpo perfora la tua armatura. Il tuo braccio adesso penzola senza vita al tuo fianco}

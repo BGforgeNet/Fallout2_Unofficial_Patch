@@ -26,7 +26,7 @@
 {1025}{}{Quanto sangue.}
 {1026}{}{Cristo, fate smettere il dolore!}
 {1027}{}{Non le mie dita, tutto ma non questo. Noooooo!}
-{1028}{}{Mi hai staccato il braccio. Oddio, no!}
+{1028}{}{Mi hanno strappato il braccio. Oh Dio, no.}
 {1029}{}{Non uccidermi.}
 {1030}{}{Ow! Fa davvero male!}
 {1031}{}{Sto per svenire.}
