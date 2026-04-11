@@ -3,7 +3,7 @@
 {102}{}{Ha un'espressione distratta.}
 {103}{}{Salve e benvenuto a Vault City, la migliore citta' della Nuova California! Io sono Steve... come posso aiutarla?}
 {104}{}{Quest'area recintata e' la citta'?}
-{105}{}{Cosa intendi per "la migliore"?}
+{105}{}{Cosa intendi per "la migliore?"}
 {106}{}{Sto cercando il Vault. Puoi dirmi dove si trova?}
 {107}{}{Arrivederci.}
 {108}{}{Umm… (Guarda l'opuscolo che ha in mano.) Uh... non era previsto che lei facesse una domanda del genere. Non trovo la risposta, qui dentro.}

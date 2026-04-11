@@ -109,7 +109,7 @@
 {209}{}{Esci.}
 {210}{}{Tu sei il primo ad aver raggiunto questo luogo                       Tu sei il primo cui Skynet abbia domandato                     Tu sei il Primo}
 {211}{}{}
-{212}{}{-Chiedi: cosa?-}
+{212}{}{Chiedere cosa?}
 {213}{}{Esci.}
 {214}{}{Forse tu non sei quello                                             Raggiungi il Bio Deposito - Livello 4                             Recupera il Cervello Cybernetico                                       Ritorna qui per ricevere ulteriori istruzioni                          Oppure vattene                                                         Skynet attendera' un altro}
 {215}{}{}

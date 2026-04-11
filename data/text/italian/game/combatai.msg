@@ -208,7 +208,7 @@
 {1207}{}{Che male.}
 {1208}{}{Hai fottuto la mia bellissima faccia.}
 {1209}{}{Questo lascera' una cicatrice.}
-{1210}{}{Ow, il braccio!}
+{1210}{}{Ahi, il mio braccio.}
 {1211}{}{Hai appena fatto il piu' grosso errore della tua vita.}
 {1212}{}{Il braccio!}
 {1213}{}{Hah, non sono mancino.}
@@ -218,7 +218,7 @@
 {1217}{}{Dannazione, posso dire addio al mio rovescio incrociato.}
 {1218}{}{Posso ancora cancellarti dalla faccia della terra.}
 {1219}{}{Dannazione, il braccio si e' spezzato in due.}
-{1220}{}{Ow, il braccio!}
+{1220}{}{Ahi, il mio braccio.}
 {1221}{}{Hai appena fatto il piu' grosso errore della tua vita.}
 {1222}{}{Il braccio!}
 {1223}{}{Ti posso ammazzare anche usando il braccio sinistro.}
@@ -566,7 +566,7 @@
 {1634}{}{Ora che mi hai sviscerato, sono cosi' snello! Grazie!}
 {1635}{}{./~ Ho lasciato il mio cuore.../~}
 {1636}{}{Mi hai solleticato le costole.}
-{1637}{}{A chi serve un'appendice, comunque?}
+{1637}{}{Chi ne ha bisogno di un'appendice, dopotutto.}
 {1638}{}{Solo un po' piu' in la', dottore.}
 {1639}{}{Arrggghh, la spina dorsale!}
 {1640}{}{Le gambe, non sento piu' le gambe.}

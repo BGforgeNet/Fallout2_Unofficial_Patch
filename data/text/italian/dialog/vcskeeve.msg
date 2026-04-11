@@ -71,7 +71,7 @@
 {170}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
 {171}{}{Hmmm. Beh, okay... oggi mi sento generoso. Ma non dire ai tuoi amici Esterni che te li ho dati per cosi' poco.}
 {172}{}{Okay.}
-{173}{}{E dammi quei dannati documenti, su!}
+{173}{}{Dammi solo i dannati documenti.}
 {174}{}{Okay, ho appena finito di stamparli. Ecco qua... "Cittadino". E non parlare di questo nostro affare con nessuno, e SOPRATTUTTO non parlarne con Wallace, d'accordo?}
 {175}{}{Nessun problema. Non mi passerebbe nemmeno per l'anticamera del cervello di fare una cosa del genere ad un Cittadino onesto come te, specialmente quando ho qui nella mia tasca la prova delle tue attivita' illegali.}
 {176}{}{Certo. Nessun problema.}
@@ -105,8 +105,8 @@
 {204}{}{Hurnh?}
 {205}{}{-Allontanati-}
 {206}{}{Vieni come me un attimo, ritardato. Voglio farti conoscere qualcuno.}
-{207}{}{Gi'!}
-{208}{}{Nuh-uh ME STA!}
+{207}{}{Okee-dokeee}
+{208}{}{No-no IO RESTO}
 {209}{}{Ho trovato questo Esterno che vagava nelle lande, Barkus. Mi pare che possa diventare un buon Servo.}
 {210}{}{Ho trovato questa cricca che vagava nelle lande, Barkus. Questo Esterno mi pare che possa diventare un buon Servo.}
 {211}{}{2 Seconds}

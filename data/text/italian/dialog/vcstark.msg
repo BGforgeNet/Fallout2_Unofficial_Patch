@@ -40,7 +40,7 @@
 {139}{}{Me andare? Me andare!}
 {140}{}{ME NO VA. ADESSO.}
 {141}{}{Ti pentirai di questa risposta.}
-{142}{}{ME NO VA ALLA POSTA!}
+{142}{}{IO NO ANDARE A SINISTRA.}
 {143}{}{Sergente Stark... signore. Le serve qualcosa?}
 {144}{}{Io sono il Cittadino SERGENTE Stark, Cittadino. Posso aiutarla in qualche modo?}
 {145}{}{Io sono il Cittadino SERGENTE Stark, Esterno. Che cosa vuoi?}
