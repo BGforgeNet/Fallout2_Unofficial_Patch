@@ -573,7 +573,7 @@
 {1641}{}{E' una gastroen-ferita, sergente.}
 {1642}{}{I polmoni sono roba da femminucce.}
 {1643}{}{Ehi, ho le costole!}
-{1660}{}{Ow, la gamba!}
+{1660}{}{Ahi, la mia gamba}
 {1661}{}{La pagherai per questo!}
 {1662}{}{Argh! Tu mi hai rotto la gamba, io ti rompero' il collo!}
 {1663}{}{Dannazione, con tutti i soldi che ho speso per imparare il Tango.}
@@ -1184,7 +1184,7 @@
 {3004}{}{Download del programma di fuga in corso.}
 {3005}{}{Iniziata sequenza di ritiro.}
 {3020}{}{Bersaglio acquisito!}
-{3021}{}{Terminare! Terminare}
+{3021}{}{Terminare! Terminare!}
 {3022}{}{L'umanoide non deve scappare!}
 {3023}{}{Terminare l'intruso!}
 {3024}{}{Iniziata sequenza di combattimento.}
@@ -1216,7 +1216,7 @@
 {3108}{}{Sto solo eseguendo un'avanzata all'indietro.}
 {3109}{}{Uh, e' ora di effettuare una ritirata strategica.}
 {3110}{}{Exit.}
-{3111}{}{E' tardissimo!}
+{3111}{}{E' piu' tardi di quanto pensassi.}
 {3112}{}{Devo correre. Ci si vede.}
 {3113}{}{Viaaaaaa!}
 {3114}{}{Devo andare a riattaccare un po' di pezzi.}
@@ -1235,7 +1235,7 @@
 {3127}{}{Mandate altri sbirri!}
 {3128}{}{Mandate altri paramedici!}
 {3129}{}{Avrei bisogno di pezzi freschi.}
-{3130}{}{Una Tartara al tavolo 5!}
+{3130}{}{Bistecca alla tartara in arrivo.}
 {3131}{}{Vieni!}
 {3132}{}{E' pronta la zuppa?}
 {3133}{}{Dov'e' la bistecca?}
@@ -1519,7 +1519,7 @@
 {12381}{}{Cercavi di togliermi la visione a tre dimensioni, eh?}
 {12382}{}{Non...ci...vedo...il...sangue...negli...occhi...}
 {12390}{}{Cosa pensi che fosse questo? Un colpetto da niente?}
-{12391}{}{Le mie palle!!! Vieni qui e lascia che ti restituisca il favore!}
+{12391}{}{Ora non posso farmi sentire come se ne avessi un paio.}
 {12392}{}{Beh, adesso non ho piu' le mie famose palle di bronzo.}
 {12393}{}{Scusami un secondo, ma ho bisogno di vomitare anche l'anima.}
 {12394}{}{Grande. Sto combattendo contro un nemico che ha la fissa per le palle altrui.}
@@ -1771,7 +1771,7 @@
 {26122}{}{Nessuna pieta'!}
 {26123}{}{Quello e' mio!}
 {26124}{}{Khan, all'attacco!}
-{26125}{}{E' qui la festa?}
+{26125}{}{E' ora di far festa!}
 {26126}{}{Qualcuno puo' far fuori questo spreco di carne?}
 {26140}{}{I Khan uccidono!}
 {26141}{}{I Khan sono l'elite delle Lande!}
@@ -1787,7 +1787,7 @@
 {26161}{}{Non mi puoi colpire!}
 {26162}{}{Sono indistruttibile!}
 {26163}{}{Il mio sangue e' piu' forte del tuo!}
-{26164}{}{Forse dovremmo fermarci qualche secondo per permetterti di esercitarti...}
+{26164}{}{Forse dovremmo fermarci un attimo cosi' puoi fare qualche tiro di pratica!}
 {26165}{}{Non sei degno di combattere con me!}
 {26166}{}{Perche' sto sprecando il mio tempo con tipi come te?}
 {32000}{}{La mia faccia! La mia faccia!}
@@ -1809,7 +1809,7 @@
 {32060}{}{Ow, la gamba!}
 {32061}{}{Il mio ginocchio!}
 {32062}{}{Hai beccato l'arteria!}
-{32070}{}{Ow, la gamba!}
+{32070}{}{Ahi, la mia gamba}
 {32071}{}{::hop... hop::}
 {32072}{}{Aaaarrrrggghhh!}
 {32080}{}{Non ci vedo! Bastardo!}
@@ -1926,7 +1926,7 @@
 {32441}{}{Cavoli, deve far male, eh?}
 {32442}{}{Uf-da!}
 {32443}{}{Adoro l'odore di sangue al mattino...}
-{32444}{}{Cavoli se sanguini!}
+{32444}{}{Ragazzo, sei proprio un emorragico, vero?}
 {32445}{}{::::rutta!:::::}
 {32446}{}{Ti si e' rotta la maglietta, amico!!!!}
 {32447}{}{Ecco del bel piombo caldo in arrivo!!}
@@ -3466,7 +3466,7 @@
 {44925}{}{Preparati ad incontrare il tuo destino!}
 {44926}{}{Faresti meglio a dire le preghiere finche' sei ancora in tempo.}
 {44927}{}{Ti dipingero' di rosso!}
-{44928}{}{E' qui la festa?}
+{44928}{}{E' ora di far festa!}
 {44929}{}{Sto arrivando!}
 {44930}{}{Ci vediamo al fronte!}
 {44931}{}{E' ora di raggiungere e colpire qualcuno!}
