@@ -737,7 +737,7 @@
 {2044}{}{Prendi questo!}
 {2045}{}{Bestia!}
 {2046}{}{Non voglio farlo!}
-{2047}{}{Si'! Chi e' che ha paura, adesso?}
+{2047}{}{Si'! Chi e' che ha paura, adesso?!}
 {2048}{}{Non volevo questo scontro, ma...}
 {2049}{}{Canaglia!}
 {2050}{}{Fa-faresti bene a sta-stare attento!}
@@ -890,7 +890,7 @@
 {2244}{}{Ci si vede!}
 {2245}{}{Cominciamo subito!}
 {2246}{}{Feccia piantagrane!}
-{2247}{}{Ti randellero' come un figliastro pel-di-carota!}
+{2247}{}{Ti pestero' come un figliastro dai capelli rossi...}
 {2248}{}{Animale!}
 {2249}{}{Ti pentirai di aver messo piede qui dentro!}
 {2250}{}{Senti come brucia.}
@@ -2542,7 +2542,7 @@
 {40087}{}{Adesso diventiamo molto piu' potenti di quanto tu potere immaginare, amico.}
 {40088}{}{Per la prima volta ci vediamo bene, fratello.}
 {40089}{}{Nonn-osso vedra' per noi adesso.}
-{40090}{}{Unnh!}
+{40090}{}{Unnh!.}
 {40091}{}{Vivremo in capanna di donne, ora.}
 {40092}{}{Aaiiiiiiiiieeeeeeee!}
 {40093}{}{Non ci servivano altri bambini.}
@@ -2771,7 +2771,7 @@
 {40965}{}{Non hai le palle per sconfiggermi.}
 {40966}{}{Sembra proprio che tu sia stupido E cieco.}
 {40967}{}{Mi hai mancato solo per pochi punti percentuali.}
-{40968}{}{Sei uno di quegli stronzi con il prosciutto sugli occhi?}
+{40968}{}{Devi essere uno strabico figlio di puttana}
 {40969}{}{La tua mira e' andata. La prossima volta, sara' il turno della tua testa.}
 {40970}{}{Diavolo, sono praticamente un fossile, eppure riesco a colpire meglio di te.}
 {40971}{}{Che peccato che TU non possa ricaricare il gioco e riprovare...}
@@ -2918,7 +2918,7 @@
 {41332}{}{Siete sicuri che questo sia davvero necessario?}
 {41333}{}{Beh, se questo e' l'unico modo...}
 {41334}{}{Non penso di essere tagliato per questo.}
-{41335}{}{Ehi, si puo' rimanere feriti facendo questo, sapete?}
+{41335}{}{Ehi, sai, uno potrebbe farsi male facendo una cosa del genere.}
 {41336}{}{Non c'e' un altro modo per risolvere la questione?}
 {41337}{}{Non possiamo semplicemente essere amici?}
 {41338}{}{Qualcuno si fara' male... probabilmente io.}
@@ -3158,14 +3158,14 @@
 {42012}{}{IL BRACCIO! il braccio! SONO STATO COLPITO AL BRACCIO! AIUTO! AIUTO!}
 {42013}{}{Non il mio braccio sinistro! E' il mio braccio dominante!}
 {42014}{}{Non la mia mano! Rosie! Rosie Palmer! Parlami, cara!}
-{42015}{}{Aighhh! Il mio osso cubitale!}
+{42015}{}{Aighhh! Il mio osso del gomito! I... Io...Io... devo... resistere... dal... ridere...}
 {42016}{}{Aieeee! Non sento piu' il braccio sinistro!}
 {42017}{}{*Urkkk*...il braccio sinistro...sembra stia andando a fuoco...}
 {42020}{}{Ignora il dolore al braccio ignora il dolore al braccio}
 {42021}{}{Aighh! Il mio braccio e' coperto di sangue! Aiuto! Datemi una cassa di stimpak! Aiuto!}
 {42022}{}{IL BRACCIO! il braccio! SONO STATO COLPITO AL BRACCIO! AIUTO! AIUTO!}
 {42023}{}{Non la mia mano! Rosie! Rosie Palmer! Parlami, cara!}
-{42024}{}{Aighhh! Il mio osso cubitale!}
+{42024}{}{Aighhh! Il mio osso del gomito! I... Io...Io... devo... resistere... dal... ridere...}
 {42025}{}{Aieeee! Non sento piu' il braccio destro!}
 {42026}{}{*Urkkk*...il braccio destro...sembra che stia andando a fuoco...}
 {42027}{}{Non il mio braccio destro! Lo uso nei fine settimana!}
@@ -3220,7 +3220,7 @@
 {42080}{}{...hah-hah-hai colpito il mio oh-oh-occhio...}
 {42081}{}{Il mio occhio! Il mio occhio! Aiuto! Qualcuno mi aiuti!}
 {42082}{}{Aighh! Non ci vedo piu'! Aiuto! Uno stimpak! Aiuto!}
-{42083}{}{IL MIO OCCHIO! IL MIO OCCHIO}
+{42083}{}{IL MIO OCCHIO! IL MIO OCCHIO!}
 {42084}{}{Sono diventato cieco! E non per le masturbazioni!}
 {42085}{}{Owwwww! L'occhio! Il mio occhio!}
 {42086}{}{Aieeeee! Sono stato colpito ad un occhio! Guardatemi tutti!}
@@ -3517,7 +3517,7 @@
 {44976}{}{Inizio a pensare che tu non sia tagliato per questo lavoro.}
 {44977}{}{Stai cercando di farmi morire di risate?}
 {44978}{}{Quel colpo ha centrato in pieno l'aria!}
-{44979}{}{Mi hai mancato, o sbaglio?}
+{44979}{}{Mi hai appena mancato o cosa?!}
 {50000}{}{}
 {50010}{}{}
 {50020}{}{}
