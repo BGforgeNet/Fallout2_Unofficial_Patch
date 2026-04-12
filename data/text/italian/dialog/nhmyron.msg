@@ -447,7 +447,7 @@
 {1428}{}{Perche' hai creato il Jet?}
 {1430}{}{Tua madre dev'essere fiera di te. Me ne vado.}
 {1445}{myn222}{Eccome se l'ho fatto! Ho creato la merda che tutti vogliono e della quale nessuno ha mai abbastanza.}
-{1455}{myn223}{"Perche'"? Perche' potevo. La Famiglia Mordino ha bisogno di un prodotto, Myron crea questo prodotto, i Mordino rendono felice Myron... o almeno, felice quanto nelle loro possibilita'. Una bella storia d'amore, eh?}
+{1455}{myn223}{"Perche'?" Perche' potevo. La famiglia Mordino aveva bisogno di un prodotto, Myron fa un prodotto, Mordino rende Myron felice... almeno quanto sono in grado di farlo. Un bel giretto d'amore, eh?}
 {1456}{}{Come hai creato il Jet?}
 {1457}{}{"Felice quanto nelle loro possibilita'"? Sei felice adesso?}
 {1458}{}{Cosa ne diresti se io ti proponessi un nuova storia? I Mordino non sanno riconoscere il talento quando lo vedono - io si'.}

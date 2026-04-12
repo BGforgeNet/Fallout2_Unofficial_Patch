@@ -194,7 +194,7 @@
 {1100}{}{Questa statistica rappresenta la tua reputazione generale. Piu'alto il valore, piu' sei conosciuto e rispettato. Se la tua reputazione e' negativa, qualcuno ti odia per le tue cattive azioni.}
 {1101}{}{Hai ucciso un gran numero di persone. Di solito non e' molto positivo diventare famosi per questo. Delinquenti e sbandati, tuttavia, ti rispetteranno di piu'.}
 {1102}{}{Le tue azioni ti hanno fatto diventare l'eroe della gente. Notizie della tua guerra contro il male e la delinquenza sono giunte in molti luoghi. Le persone onorevoli ti rispetteranno di piu'.}
-{1103}{}{Hai ucciso dei bambini, la gioventu' di queste lande desolate. Questa e' considerata una cosa molto malvagia. Brutto cattivaccio!}
+{1103}{}{Hai ucciso dei bambini, la gioventu' delle lande desolate Questo e' considerato una cosa davvero brutta. Sei una persona cattiva, cattiva.}
 {1104}{}{Ti sei riempito di Nuka-Cola, la bibita del mondo post-nucleare.}
 {1105}{}{Sei dipendente dalla droga Buffout. Devi assumere questa droga regolarmente oppure soffrirai gli effetti dell'astinenza.}
 {1106}{}{Stai male a causa della dipendenza da Mentat. Devi assumere questa particolare droga oppure soffrirne le crisi d'astinenza.}
