@@ -18,7 +18,7 @@ jobs:
   ScanMsg:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@6
 
       - name: ScanMsg
         run: ./extra/bin/ScanMsg.exe data/text
