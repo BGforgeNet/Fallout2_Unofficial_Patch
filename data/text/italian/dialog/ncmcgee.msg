@@ -44,7 +44,7 @@
 {276}{}{}
 {277}{}{Tu! Tu sei quello che si e' beccato il jackpot della MIA slot! Quella con cui ho giocato per cinque... dannatissimi.. anni e da cui non ho cavato mai neanche una moneta!}
 {278}{}{Ernnhh?}
-{279}{}{Ehi, aspetta un... }
+{279}{}{Ehi, aspetta un...}
 {285}{}{Ci ho versato tutti i risparmi di una vita, in quella puttana con un braccio solo. E mai una volta che mi abbia dato soddisfazione. Poi arrivi TU e ti prendi tutto quanto! }
 {286}{}{Ti ho inquadrato, piccolo succhiacazzi!}
 {287}{}{Ti ho inquadrata, puttanella da quattro soldi!}

@@ -209,7 +209,7 @@
 {727}{}{Ti piace ascoltarti mentre parli, vero?}
 {728}{}{Ti seguo.}
 {729}{}{Intendi ‘verdure’ tipo piante di coca, papaveri da oppio, quella roba lì.}
-{740}{myn114a}{Non potevamo coltivare piante di coca, papaveri da oppio... E cavoli se ci abbiamo provato! Per questo motivo decidemmo di puntare sui funghi.}
+{740}{myn114a}{Non potevamo coltivare piante di coca, papaveri da oppio... E cavoli se ci abbiamo provato! Per questo motivo decidemmo di puntare sui funghi. }
 {741}{myn114b}{Esatto, Sherlock. Ci provammo -- e alla fine decidemmo di puntare tutto sui funghi. }
 {742}{myn114c}{Puoi coltivarli se usi un sacco di merda di brahmin come concime.}
 {743}{}{A proposito di sacchi di merda... Continua.}

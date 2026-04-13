@@ -14,7 +14,7 @@
 {178}{}{Vai, }
 {179}{}{::Applaude::}
 {180}{}{::Cheers::}
-{181}{}{Oh mio... e' lei. }
+{181}{}{Oh mio... e' lei.}
 {182}{}{Vai cosi', ragazza mia!}
 {183}{}{::Ti fa il gesto del pollice alzato::}
 {190}{}{Non basterebbero tutti i tuoi soldi per convincermi a farlo con te mentre indossi QUELLA COSA.}

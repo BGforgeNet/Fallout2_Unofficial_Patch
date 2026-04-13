@@ -66,7 +66,7 @@
 {325}{}{Dove sono i tuoi genitori?}
 {326}{}{(Lascialo giocare.)}
 {330}{}{Beh...okay. (Ti osserva per bene.) Ma l'insetto metallico lo faccio IO!}
-{331}{}{Okee dokee piccola persona ape, }
+{331}{}{Okee dokee piccola persona ape}
 {332}{}{ okay con questo.}
 {333}{}{Che incesto?}
 {334}{}{No! }
@@ -161,7 +161,7 @@ E dentro c’erano persone di METALLO.}
 {543}{}{Okay, okay. Come non detto. Torna pure a giocare.}
 {550}{}{NON ti sto dicendo una bugia! L'abbiamo VISTO nel deserto! Posso DIMOSTRARTELO! (Ti fissa.) Andremo a vederlo quando fara' un po' piu' buio. }
 {551}{}{NON ti sto dicendo una bugia! L'abbiamo VISTO nel deserto! Posso DIMOSTRARTELO! (Ti fissa.) Andremo a vederlo stanotte. }
-{552}{}{Vieni con noi e te lo faro' vedere. (Ridacchia) Se non hai PAURA... }
+{552}{}{Vieni con noi e te lo faro' vedere. (Ridacchia) Se non hai PAURA...}
 {556}{}{No, grazie. Torna pure a giocare.}
 {560}{}{(Prendi la pistola piu' schifosa che hai e la dai al bambino. Lui sorride e la tiene in mano, guardandosela e riguardandosela.) La MIA pistola! Forte! }
 {561}{}{E so anche dove trovare i proiettili!}
@@ -185,8 +185,8 @@ E dentro c’erano persone di METALLO.}
 {630}{}{(Il bambino scuote la testa. Si cala di nuovo la pentola sugli occhi e ricomincia a correre facendo *bzzzzzz*.)}
 {631}{}{Uh, okay.}
 {632}{}{Piccola canaglia... vedrai se salvero' te, quando avro' salvato il mondo...}
-{640}{}{Aspetti finche' non fa un po' piu' buio... }
-{641}{}{Aspetti finche' non fa buio... }
+{640}{}{Aspetti finche' non fa un po' piu' buio...}
+{641}{}{Aspetti finche' non fa buio...}
 {642}{}{[...poi segui i bambini nel deserto.]}
 {700}{}{STA' LONTANO DA ME!}
 {701}{}{Ahhh...}

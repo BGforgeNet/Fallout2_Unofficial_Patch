@@ -22,7 +22,7 @@
 {240}{}{Afferri il suo braccio e lo scuoti calorosamente. Non appena lo fai, si sente un secco rumore di ferraglia!}
 {245}{}{(Vedi una slot machine. Forse e' la piu' brutta slot machine che tu abbia visto a New Reno. La sua leva e' piegata, due finestrelle sono rotte ed e' piena di ammaccature.)}
 {246}{}{La tua mano trema mentre raggiunge le monete che hai in tasca. (La slot machine continua a sussurrarti con la sua voce stridula.) *Su, dai...::cough::...ci sei...*}
-{250}{}{Un rumore assordante di ferraglia accompagna l'incerto ruotare dei cilindri, e... }
+{250}{}{Un rumore assordante di ferraglia accompagna l'incerto ruotare dei cilindri, e...}
 {251}{}{NULLA! (La slot machine ridacchia sarcasticamente.) *Sarai piu' fortunato la prossima volta, giovan -- ::cough:: ::cough:: ::wheeze::}
 {255}{}{(La slot machine continua a sussurrarti.) *Riprovaci, giovanotto... ancora una volta - ::cough:: ::hack:: - la fortuna e' dalla tua.*}
 {260}{}{Tutto d'un tratto, i meccanismi si fermano con un rantolo e... }

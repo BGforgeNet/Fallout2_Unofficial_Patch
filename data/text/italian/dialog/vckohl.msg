@@ -38,7 +38,7 @@
 {137}{}{Sa dove potrei trovare il Vault?}
 {138}{}{Per oggi niente, grazie.}
 {139}{}{Un GECK? Questo nome mi suona familiare. Che cosa fa, esattamente?}
-{140}{}{Veramente... non lo so nemmeno io. A sentire quello che dice l'Anziana del mio villaggio, dovrebbe essere una specie di panacea per il mio villaggio. Io sono un po' piu' scettico. }
+{140}{}{Veramente... non lo so nemmeno io. A sentire quello che dice l'Anziana del mio villaggio, dovrebbe essere una specie di panacea per il mio villaggio. Io sono un po' piu' scettico.}
 {141}{}{Non saprei dirlo.}
 {142}{}{Posso farle qualche altra domanda?}
 {143}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
@@ -65,7 +65,7 @@
 {164}{}{Obsoleta?}
 {165}{}{Oh. Avrei delle altre domande...}
 {166}{}{Mi dispiace. Devo andare.}
-{167}{}{Vuol dire che la mia figura qui non e' piu' necessaria. E' per il bene della comunita'... }
+{167}{}{Vuol dire che la mia figura qui non e' piu' necessaria. E' per il bene della comunita'...}
 {168}{}{Al Consiglio si sta discutendo la possibilita' di installare un terminale informatico in ogni casa. Questi nuovi terminali sarebbero tutti collegati al Server Centrale e agli Archivi Informatici. Una volta fatto cio', il Centro Informazioni... ed io... diventeremo inutili. Ma le cose in citta' miglioreranno, davvero.}
 {169}{}{Ne sei sicura?}
 {170}{}{Oh. Avrei delle altre domande...}

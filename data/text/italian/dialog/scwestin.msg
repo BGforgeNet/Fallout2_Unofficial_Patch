@@ -64,7 +64,7 @@
 {163}{}{Ho delle altre domande.}
 {164}{}{Vabbe'.}
 {165}{}{Un lavoro. Vuoi forse dire--}
-{166}{}{Mi manda Bishop. Ho un breve messaggio da consegnarle. }
+{166}{}{Mi manda Bishop. Ho un breve messaggio da consegnarle.}
 {167}{}{Buonanotte e sogni d'oro, vecchio.}
 {168}{}{dollari per te, allora. Tu esegui il lavoro, e io ti pago. Tu mi dici di no, e tu non esci vivo di qui. D'accordo?}
 {169}{}{Ohh, certo. Beh, avevo un problema con dei predatori, ma non si sono piu' fatti vedere. Mi dispiace. Prova con Felix e vedi se ha qualcosa da farti fare.}

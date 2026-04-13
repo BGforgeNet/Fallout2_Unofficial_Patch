@@ -100,8 +100,8 @@
 {402}{}{Per tutti i diavoli! Sapevo che }
 {403}{}{Come osi disonorare }
 {404}{}{Uh, Jo, potremmo saltare la parte del giuramento?}
-{406}{}{Ragazzo... }
-{407}{}{Ragazza... }
+{406}{}{Ragazzo...}
+{407}{}{Ragazza...}
 {410}{}{Non costringermi a fare di }
 {412}{}{Miria}
 {413}{}{Davin}

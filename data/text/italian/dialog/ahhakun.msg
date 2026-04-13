@@ -103,7 +103,7 @@
 {202}{}{Okay. Grazie.}
 {203}{hak023}{Sono onorato di servire il Prescelto.}
 {204}{hak024}{Cosi' e' la vita. Due creano un terzo. Avrai bisogno della radice di Xander e del fiore di Broc insieme, per la polvere curativa.}
-{205}{}{Oh. Grazie.}
+{205}{}{Oh. Grazie}
 {206}{}{Poo.}
 {207}{hak025}{Possa questa essere di nessun bisogno.}
 {208}{}{Okay. Grazie.}

@@ -54,7 +54,7 @@
 {153}{}{Grazie. Spero di essere un degno erede del mio antenato. Dato che sono qui, lascia che ti chieda qualcos'altro che potrebbe essermi d'aiuto.}
 {154}{}{E' stato un piacere. Lascia che ti chieda qualcos'altro.}
 {155}{}{Beh, e' una cosa normale per me. Adesso devo proprio andare, pero'. Persone da salvare, mostri da trucidare, disastri da prevenire, sai, questo genere di cose. Ci vediamo.}
-{156}{hld14}{Di solito tagli con la parte opposta alla lama, vero? Non hai l'aspetto di una buccia d'arancia lasciata al sole per un giorno intero. La tua pelle e' ancora liscia e morbida.}
+{156}{hld14}{Di solito tagli con la parte opposta alla lama, vero? Non hai l'aspetto di una buccia d'arancia lasciata al sole per un giorno intero. La tua pelle e' ancora liscia e morbida. }
 {157}{}{Uno a zero per te. Spero che la mia prossima domanda sia un po' piu' sensata.}
 {158}{}{Oh. Certo. Ehi, lascia che ti chieda qualcos'altro.}
 {159}{}{Farai meglio a non farti venire strane idee riguardo alla mia pelle morbida.}
@@ -132,7 +132,7 @@
 {231}{hld39}{Davvero? Bene, bene, bene. Questo spiega un paio di cose. Mi domandavo perche' tu mi fossi familiare. Non ho ancora perso i due neuroni che mi rimangono.}
 {232}{}{Ci somigliamo cosi' tanto?}
 {233}{}{Dimmi com'era l'Abitante del Vault.}
-{234}{hld40}{Si', assomigliava proprio a quella. E, ora che ci penso, aveva anch'essa un 13.}
+{234}{hld40}{Si', assomigliava proprio a quella. E, ora che ci penso, aveva anch'essa un 13. }
 {235}{}{Veramente, questo e' il completo del mio antenato, l'Abitante del Vault.}
 {236}{hld41}{C'e' qualche somiglianza. Per quello che posso ricordare, ad ogni modo. Sai, il tuo antenato ci ha salvati tutti.}
 {237}{}{L'Abitante del Vault ha salvato tutti i ghoul?}

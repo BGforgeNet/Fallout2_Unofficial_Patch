@@ -48,8 +48,8 @@
 {147}{}{Bene. Allora... devi sapere che alcune persone li vedono come una potenziale fonte di problemi. Sarebbe davvero una gran cosa se riuscissimo a procurarci una mappa delle loro postazioni nel nord - New Reno, Klamath, ovunque. Sarei disposto a pagare, diciamo, 500$ per una cosa del genere. Credi di potermela procurare?}
 {148}{}{Bene.}
 {149}{}{Non credo proprio.}
-{150}{}{Te ne parlero' io, allora. Questi Ranger si sono messi in testa di eliminare la schiavitu' e gli schiavisti - con la forza. Sono una vera spina nel fianco di tanti lavoratori. }
-{151}{}{Lavorano sotto copertura, soprattutto nel nord. }
+{150}{}{Te ne parlero' io, allora. Questi Ranger si sono messi in testa di eliminare la schiavitu' e gli schiavisti - con la forza. Sono una vera spina nel fianco di tanti lavoratori.}
+{151}{}{Lavorano sotto copertura, soprattutto nel nord.}
 {152}{}{Cavoli, devo farti un disegno? Attaccano gli schiavisti, si appropriano delle nostre "scorte", e le portano giu' a sud, nel territorio di NCR dove la schiavitu' e' considerata illegale. Allora, ti interessa?}
 {153}{}{Non ci sono "e"! Vuoi il lavoro o no?}
 {154}{}{E?}

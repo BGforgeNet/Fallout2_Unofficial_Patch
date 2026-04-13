@@ -93,7 +93,7 @@
 {360}{}{Beh... potresti fare cosi'... forse. Tuttavia, potresti rimanere piuttosto sorpreso. Potrei anche essere piu' coriaceo di quanto pensi. E poi, forse non ti converrebbe neanche. Posso essere piuttosto utile quando si tratta di mettere insieme delle cose. E' sempre bello conoscere qualcuno in grado di farlo, non trovi?}
 {361}{}{Beh, forse hai ragione. Ti lascero' in vita... per adesso. Dimmi un'altra cosa, pero'. }
 {362}{}{Sei un tipo pieno di risposte, eh? Spero che tu sappia anche cosa c'e' nell'aldila', dal momento che ti sto per spedire proprio laggiu' - adesso.}
-{363}{}{Ci dovro' pensare. Addio... per adesso.}
+{363}{}{Dovro' pensarci su. Arrivederci, per ora. }
 {370}{}{Vedo che hai uno splendido set di attrezzi, li' con te. Snap-off, giusto? Ti posso dare questo Combinatore di Celle di Carburante, in cambio di quello.}
 {371}{}{Ehila'! Sei tornato con il mio kit per le riparazioni. Mmm, Snap-off... il migliore. Sei pronto per lo scambio?}
 {372}{}{Affare fatto.}
@@ -136,8 +136,8 @@
 {603}{}{A volte mi piace affrontare i problemi di persona, faccia a faccia. Puoi fare qualcosa per migliorare la mia arma da mischia ad energia?}
 {604}{}{Uh, magari piu' tardi. Lascia che ti chieda qualcos'altro.}
 {605}{}{Non mi serve nient'altro. Ci vediamo.}
-{610}{}{[Vede la tua magnum.] Posso montarti un caricatore rapido, su quella magnum, per }
-{611}{}{Hmm, quella Desert Eagle starebbe proprio bene con un caricatore piu' capiente. Posso farlo per }
+{610}{}{[Vede la tua magnum.] Posso montarti un caricatore rapido, su quella magnum, per $}
+{611}{}{Hmm, quella Desert Eagle starebbe proprio bene con un caricatore piu' capiente. Posso farlo per $}
 {612}{}{Monta il caricatore rapido sulla magnum.}
 {613}{}{Espandi il caricatore della mia Desert Eagle.}
 {614}{}{Veramente avrei un'altra arma in mente...}
@@ -145,14 +145,14 @@
 {616}{}{Credo che ripassero' piu' tardi.}
 {617}{}{E' un po' troppo caro per le mie tasche. Tornero' quando avro' piu' soldi.}
 {620}{}{[Skeeter studia il tuo fucile e annuisce lentamente.]}
-{621}{}{Posso mettere un bel mirino telescopico adatto a tutte le condizioni atmosferiche, su quel fucile da caccia. Bastano }
-{622}{}{Non c'e' niente di meglio che avere un fucile d'assalto con un caricatore piu' capiente. Posso espandere quello del tuo per }
-{623}{}{Quel FN FAL e' una buona arma. Ehi, ho proprio un mirino telescopico ad infrarossi adatto. E' tuo per }
+{621}{}{Posso mettere un bel mirino telescopico adatto a tutte le condizioni atmosferiche, su quel fucile da caccia. Bastano $}
+{622}{}{Non c'e' niente di meglio che avere un fucile d'assalto con un caricatore piu' capiente. Posso espandere quello del tuo per $}
+{623}{}{Quel FN FAL e' una buona arma. Ehi, ho proprio un mirino telescopico ad infrarossi adatto. E' tuo per $}
 {624}{}{D'accordo... monta il mirino su quel Colt da caccia.}
 {625}{}{Aumenta la capienza del caricatore di questo fucile d'assalto AK-112.}
 {626}{}{Monta quel mirino ad infrarossi sul FN FAL.}
 {627}{}{E' un po' troppo caro per le mie tasche. Tornero' quando avro' piu' soldi.}
-{630}{}{Vuoi una bella iniezione di energia in quell'arma da mischia? Io posso "sovraccaricartela" per soli }
+{630}{}{Vuoi una bella iniezione di energia in quell'arma da mischia? Io posso "sovraccaricartela" per soli $}
 {631}{}{Bene.}
 {640}{}{[Skeeter prende cio' che gli hai dato e inizia a guardarlo con uno sguardo strano] Beh, non sara' per niente facile, ma credo proprio di poterci fare un bel lavoretto. Aspetta solo un attimo. [Skeeter mette l'arma sul suo tavolo da lavoro e la fissa con un enorme presa.]}
 {641}{}{Okay.}

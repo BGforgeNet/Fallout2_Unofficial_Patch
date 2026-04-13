@@ -50,7 +50,7 @@
 {149}{}{Il colpo grosso. Saltbeef e' un vecchio cercatore d'uranio - piu' precisamente, un ubriacone. Negli ultimi tempi vive nella proprieta' di Westin.}
 {150}{}{Un'altra domanda...}
 {151}{}{Grazie per la storia.}
-{152}{}{Beh, speravo proprio di ricavarci dei soldi. Te lo lascero' per }
+{152}{}{Beh, speravo proprio di ricavarci dei soldi. Te lo lascero' per $}
 {153}{}{Magari piu' tardi. Un'altra domanda...}
 {154}{}{Magari un'altra volta. Devo andare.}
 {155}{}{Saltbeef e' un vecchio cercatore d'uranio. Negli ultimi tempi vive nella proprieta' di Westin.}
@@ -72,6 +72,6 @@
 {171}{}{Cosa c'e' che non va, signorina?}
 {172}{}{Ecco a te, signorina.}
 {173}{}{Beh, non dovresti preoccuparti, signorina. Se non stressa il suo fisico, probabilmente ci sotterrera' tutti. Naturalmente deve sottoporsi a visite periodiche e prendere sempre la sua medicina.}
-{174}{}{Certo. Ecco i }
+{174}{}{Certo. Ecco i $}
 {175}{}{Grazie; ho cercato di farmi dare i soldi da Saltbeef, ma quel vagabondo non ne ha mai avuti.}
 {176}{}{.}

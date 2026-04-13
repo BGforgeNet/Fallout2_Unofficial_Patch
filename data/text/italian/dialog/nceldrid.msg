@@ -70,8 +70,8 @@
 {343}{}{Puoi fare qualcosa con questo pungolo per il bestiame?}
 {344}{}{Lasciamo perdere. Mi interessa qualcos'altro...}
 {345}{}{Veramente... nulla, al momento.}
-{350}{}{(Vede la tua magnum.) Posso piazzarti un caricatore rapido su quella magnum per }
-{351}{}{Quella Desert Eagle che hai li'... se vuoi posso dotarla di un caricatore piu' capiente per }
+{350}{}{(Vede la tua magnum.) Posso piazzarti un caricatore rapido su quella magnum per $}
+{351}{}{Quella Desert Eagle che hai li'... se vuoi posso dotarla di un caricatore piu' capiente per $}
 {352}{}{Monta il caricatore rapido sulla magnum.}
 {353}{}{Aumenta la capacita' del caricatore della Desert Eagle.}
 {354}{}{Veramente avevo un'altra arma in mente...}
@@ -79,13 +79,13 @@
 {356}{}{In realta' non voglio nulla. Devo andare.}
 {357}{}{E' un po' troppo caro per le mie tasche. Tornero' quando avro' piu' soldi.}
 {365}{}{(Osserva i tuoi fucili. Annuisce.) }
-{366}{}{Posso mettere un mirino telescopico su quel fucile da caccia per }
-{367}{}{Quel fucile d'assalto che hai li'... posso dotarlo di un caricatore piu' capiente per }
-{368}{}{Ho un mirino per la visione notturna che potrei applicare a quel tuo FN FAL per }
+{366}{}{Posso mettere un mirino telescopico su quel fucile da caccia per $}
+{367}{}{Quel fucile d'assalto che hai li'... posso dotarlo di un caricatore piu' capiente per $}
+{368}{}{Ho un mirino per la visione notturna che potrei applicare a quel tuo FN FAL per $}
 {369}{}{D'accordo... monta il mirino su quel Colt da caccia.}
 {370}{}{Aumenta la capienza del caricatore di questo fucile d'assalto AK-112.}
 {371}{}{Monta quel mirino ad infrarossi sul FN FAL.}
-{385}{}{Vuoi spremere a dovere questo pungolo per il bestiame? Posso dargli una carica SUPER per }
+{385}{}{Vuoi spremere a dovere questo pungolo per il bestiame? Posso dargli una carica SUPER per $}
 {386}{}{Bene.}
 {395}{}{(Eldridge prende l'oggetto, lo esamina attentamente.) D'accordo... tu sta' qui buono per un attimo, mentre io vedo cosa posso fare. (scompare nel retro del negozio)}
 {396}{}{Okay.}

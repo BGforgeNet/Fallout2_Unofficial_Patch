@@ -1717,7 +1717,7 @@
 {18150}{}{Colpisci!}
 {18151}{}{Reagisci!}
 {18152}{}{SUPER... NUCLEAR... TORNADO... FIST... }
-{18153}{}{Ti spiezzo in due.}
+{18153}{}{Ti spiezzo in due. }
 {18154}{}{Ti schiaccero' come un insetto...}
 {18160}{}{Troppo lento!}
 {18161}{}{Sei solo chiacchiere...}

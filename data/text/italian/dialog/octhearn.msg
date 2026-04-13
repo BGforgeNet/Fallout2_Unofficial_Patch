@@ -15,7 +15,7 @@
 {114}{}{Me}
 {115}{}{Me va.}
 {116}{}{Devo andare.}
-{117}{}{E' un piacere conoscerti, Thearn. Io sono }
+{117}{}{E' un piacere conoscerti, Thearn. Io sono}
 {118}{}{Capito.}
 {119}{}{Adesso che mi ci fai pensare... non mi frega un accidente sapere chi sei.}
 {120}{}{Io controlla corridoio. Salvezza del branco mio scopo.}

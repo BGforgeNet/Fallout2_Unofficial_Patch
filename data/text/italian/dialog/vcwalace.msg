@@ -83,7 +83,7 @@
 {182}{}{Chi e' il Primo Cittadino?}
 {183}{}{Di cosa si occupa, esattamemte?}
 {184}{}{Grazie per le informazioni. Ci vediamo.}
-{185}{}{Beh, ma certo. Tutti chiedono di poter vedere il Primo Cittadino. Purtroppo, il suo tempo puo' essere dedicato solo a questioni della massima importanza. }
+{185}{}{Beh, ma certo. Tutti chiedono di poter vedere il Primo Cittadino. Purtroppo, il suo tempo puo' essere dedicato solo a questioni della massima importanza.}
 {186}{}{Non sembri abbastanza importante da meritarti il suo tempo, temo.}
 {187}{}{E' per questo che e' di vitale importanza che io parli con lui. Sono certo che potrei mettere una buona parola riguardo all'efficienza dell'Ufficio Doganale e del suo responsabile. Ma se proprio non puo' aiutarmi, allora...}
 {188}{}{Le informazioni in mio possesso sono davvero importanti. Davvero.}

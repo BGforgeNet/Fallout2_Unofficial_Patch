@@ -41,7 +41,7 @@
 {306}{}{Oh, lo faro' subito. Dopo averti ucciso.}
 {307}{}{Grazie, coglionazzo. Mi ricordero' di parlare a Mr. Salvatore dei tuoi modi gentili.}
 {308}{}{D'accordo.}
-{315}{}{(Mason ti ferma.) Ascoltami... (Si avvicina, abbassa la voce.) ...Ecco qualche regola di base, ragazzo.}
+{315}{}{(Mason ti ferma.) Ascoltami... (Si avvicina, abbassa la voce.) ...Ecco qualche regola di base, ragazzo. }
 {316}{}{Ascoltami... (Si avvicina, abbassa la voce.) ...ecco qualche regola di base, ragazza. }
 {317}{}{Non sprecare il tempo di Mr. Salvatore e non raccontargli stronzate, oppure dovrai risponderne a me.}
 {318}{}{Ho capito.}

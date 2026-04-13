@@ -8,14 +8,14 @@
 {205}{}{Lo SO che sei stato tu. Trovero' un modo per farti pagare quello che hai fatto a mio padre.}
 {210}{}{Hmmpph. Che mi venga un colpo se quella non e' la graaaande eroina.}
 {215}{}{Faresti meglio a sperare di non sfondare il pavimento, robottino.}
-{220}{}{Che NOIA. }
+{220}{}{Che NOIA.}
 {221}{}{Ciao.}
 {222}{}{Tu. Parla con me. Subito.}
 {223}{}{Tu. Vieni qui. Subito.}
 {224}{}{Yum.}
 {225}{}{Hmmmm.}
 {226}{}{Bene, bene...}
-{230}{}{Che NOIA. }
+{230}{}{Che NOIA.}
 {231}{}{Sembra proprio una delle nuove puttane di papa'...}
 {232}{}{Ecco una delle sgualdrine da quattro soldi di papa'...}
 {240}{}{Non TI ho mai visto prima. Come ti chiami, straniero? (Fa un sorrisetto "furbo".) In realta'... non m'importa, non voglio saperlo. Non sei stufo? Non la senti anche tu questa noia?}
@@ -45,7 +45,7 @@
 {300}{}{Adesso basta, stupido ritardato! Vattene da qui! ::Idiota.::}
 {310}{}{Sei NUOVO di qui, o cosa? Io sono Angela BISHOP. Il mio papa' e' il CAPO della Famiglia Bishop. }
 {311}{}{Tu lavori per lui, il che significa che tu lavori anche per ME. }
-{312}{}{Faresti meglio a fare quello che ti dico, e io ti dico di venire con me. Subito. }
+{312}{}{Faresti meglio a fare quello che ti dico, e io ti dico di venire con me. Subito.}
 {313}{}{Hai ragione: il tuo papa' E' il capo della Famiglia Bishop. E' proprio per questo che non verro' da nessuna parte.}
 {314}{}{Beh, se la metti su questo piano... andiamo.}
 {315}{}{Non che io non ne sia LUSINGATO, ma...}
@@ -91,7 +91,7 @@
 {400}{}{Oh, davvero? Che razza di uomo sei? Vuoi FARMELO VEDERE?}
 {401}{}{Certo. Andiamo nella tua stanza, principessa, e ti mostrero' cos'e' un vero uomo.}
 {402}{}{Nah, volevo solo vedere quanto puttana tu fossi. A dopo, baby.}
-{410}{}{Certo... e' meglio che tu sappia come vanno le cose da queste parti. (Ti osserva attentamente.) }
+{410}{}{Certo... e' meglio che tu sappia come vanno le cose da queste parti. (Ti osserva attentamente.)}
 {411}{}{Uh...}
 {413}{}{[Rimani fermo e a disagio mentre lei ti osserva.]}
 {420}{}{D'accordo, allora... (Ti osserva attentamente.)}
@@ -169,7 +169,7 @@
 {650}{}{No, io credo che saresti TU a perdere la scommessa. Provaci e vedrai.}
 {651}{}{[Attaccala.]}
 {652}{}{[Lascia perdere.]}
-{660}{}{Stammi lontano. Non ho niente da dirti. }
+{660}{}{Stammi lontano. Non ho niente da dirti.}
 {661}{}{Presto papa' sentira' un sacco di BELLE cose sul tuo conto. Aspetta e vedrai.}
 {670}{}{Non e' solo questo: infatti quando prendo del Jet, perdo del tutto il CONTROLLO e faccio fatica a contenermi. Ho bisogno di avere una persona vicino che mi impedisca di fare qualche... follia.}
 {671}{}{Sono io quella persona. Andiamo.}

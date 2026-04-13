@@ -93,7 +93,7 @@
 {192}{}{Cos'hai da vendermi?}
 {193}{}{Cos'e' successo tra te e tuo padre?}
 {194}{}{Niente. Ti lascio tornare al tuo lavoro.}
-{195}{}{Niente di particolarmente importante. E' arrivato qui venti anni fa durante uno dei suoi viaggi, ha messo incinta mia madre e se ne e' andato. Ormai erano cinque anni che non lo vedevo. Non certo una grossa perdita. }
+{195}{}{Niente di particolarmente importante. E' arrivato qui venti anni fa durante uno dei suoi viaggi, ha messo incinta mia madre e se ne e' andato. Ormai erano cinque anni che non lo vedevo. Non certo una grossa perdita.}
 {196}{}{Mi pare che voi due abbiate alcune cose da chiarire.}
 {197}{}{Oh. Bene, ehm, avrei delle altre domande...}
 {198}{}{Niente. Ti lascio tornare al tuo lavoro.}
@@ -105,7 +105,7 @@
 {204}{}{Senti, ha avuto un casino di problemi con gli schiavisti e adesso sta cercando di recuperare il tempo perduto. Pero' hai ragione, dovrebbe decidersi a perdere un po' di peso.}
 {205}{}{Oh, ehm, okay. Avrei delle altre domande...}
 {206}{}{Niente. Ti lascio tornare al tuo lavoro.}
-{207}{}{Eh-eh. Sai essere davvero sarcastico. Mi piace. Per quanto riguarda il vecchio " Pa' "... beh... hmmm. Cerchero' di essere un po' piu' cortese. Per un po', almeno. }
+{207}{}{Eh-eh. Sai essere davvero sarcastico. Mi piace. Per quanto riguarda il vecchio " Pa' "... beh... hmmm. Cerchero' di essere un po' piu' cortese. Per un po', almeno.}
 {208}{}{Uhm... fa' in modo che resti lontano dai guai, d'accordo?}
 {209}{}{Ottimo. Senti, avrei qualche altra domanda che vorrei farti...}
 {210}{}{Faro' del mio meglio. Avrei qualche altra domanda che vorrei farti...}
@@ -242,7 +242,7 @@
 {341}{}{Si', certo, Papa'.}
 {342}{}{2 Seconds}
 {343}{}{Fade out for 3 Seconds}
-{344}{}{Ehi! Sono felice che tu sia tornato. L'ultima volta che ho avuto tue notizie, stavi girando giu' a sud, guidando una vecchia petroliera e facendo esplodere piattaforme petrolifere. }
+{344}{}{Ehi! Sono felice che tu sia tornato. L'ultima volta che ho avuto tue notizie, stavi girando giu' a sud, guidando una vecchia petroliera e facendo esplodere piattaforme petrolifere.}
 {345}{}{Sei tornato qui per un po' di pace e tranquillita', Mister Grande Eroe?}
 {346}{}{Sei tornato qui per un po' di pace e tranquillita', Miss Grande Eroina?}
 {347}{}{Ero-e'? Eh-eh! Yup!}

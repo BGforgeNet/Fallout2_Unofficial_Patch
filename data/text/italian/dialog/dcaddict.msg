@@ -10,7 +10,7 @@
 {151}{}{Mostri dappertutto!}
 {152}{}{Ho sentito una cosa strana.}
 {153}{}{Sto sanguinando?}
-{154}{}{Di solito non sembra cosi' reale}
+{154}{}{Di solito non sembra cosi' reale.}
 {155}{}{Smettila, cavoli!}
 {156}{}{Nessuno mi aiuta?}
 {157}{}{Aiuto!}

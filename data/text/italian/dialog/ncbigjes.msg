@@ -24,9 +24,9 @@
 {248}{}{Chi sei?}
 {249}{}{Sei tu Jesus Mordino?}
 {250}{}{Scusate. Sono entrato nella stanza sbagliata.}
-{260}{}{Tu. (Mordino fissa Myron non appena entra nella stanza e neri fulmini balenano nei suoi occhi.) Tu hai... lasciato il tuo posto. Non mi sei piu'... UTILE. (Fa un cenno e le sue guardie impugnano le loro armi.) }
-{261}{}{(Lo sguardo dell'uomo si adombra. L'uomo fa un cenno e le sue guardie impugnano le loro armi.) }
-{262}{}{(Lo sguardo di Big Jesus si fa nero. Jesus fa un cenno e le sue guardie impugnano le loro armi.) }
+{260}{}{Tu. (Mordino fissa Myron non appena entra nella stanza e neri fulmini balenano nei suoi occhi.) Tu hai... lasciato il tuo posto. Non mi sei piu'... UTILE. (Fa un cenno e le sue guardie impugnano le loro armi.)}
+{261}{}{(Lo sguardo dell'uomo si adombra. L'uomo fa un cenno e le sue guardie impugnano le loro armi.)}
+{262}{}{(Lo sguardo di Big Jesus si fa nero. Jesus fa un cenno e le sue guardie impugnano le loro armi.)}
 {263}{}{Aieeeeeeee!}
 {264}{}{Giochiamo!}
 {265}{}{Scappare!}

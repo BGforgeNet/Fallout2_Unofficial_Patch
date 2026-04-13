@@ -15,7 +15,7 @@
 {220}{}{Hmm - sembra proprio che il tuo ascensore non arrivi ai piani alti... Perche' non parli con mio fratello Torr? Ha una velocita' piu' simile alla tua. Addio.}
 {230}{}{Il mio nome e' Maida Buckner; mi occupo del negozio e del bar. Non tollero che dei selvaggi facciano casino nel locale della mia famiglia. Quindi, farai meglio a stare molto attento quando ti trovi qui dentro, o finirai come Sulik. Cosa vuoi?}
 {231}{}{Il mio nome e' Maida Buckner; mi occupo del negozio e del bar. Cosa desideri, amico?}
-{232}{}{Ehila', carissimo amico. }
+{232}{}{Ehila', carissimo amico.}
 {233}{}{Come posso aiutarti?}
 {234}{}{Beh, faresti meglio a comportarti in maniera piu' civile, d'ora in poi. Comunque: che cos'e' che vuoi? Come posso aiutarti?}
 {235}{}{Ho qualche domanda per te.}
@@ -84,7 +84,7 @@
 {380}{}{Beh, okay, allora. Se vuoi davvero pagare per i danni che ha fatto... immagino che sia una sorta di solidarieta' tra voi gente di tribu'.}
 {381}{}{Si', voglio pagare. Ho abbastanza denaro per risarcirvi dei danni che ha provocato.}
 {382}{}{Forse sono troppi soldi. Dopotutto non credo di voler pagare per i danni che ha fatto. Arrivederci.}
-{390}{}{Devi essere matto. Saro' davvero felice quando quel dannato (sob) selvaggio (sob) se ne sara' andato (sob) da qui. (sob) }
+{390}{}{Devi essere matto. Saro' davvero felice quando quel dannato (sob) selvaggio (sob) se ne sara' andato (sob) da qui. (sob)}
 {391}{}{(sob) Mi pare uno scambio equo: un fratello stupido per uno stupido (sob) selvaggio. Non mi manchera' per niente.}
 {392}{}{Beh, per certi versi credo che a Sulik potrebbe mancare lo stare qui. Ma sono sicuro che torneremo a farvi visita, qualche volta. In questo momento, pero', ho bisogno di qualcosa.}
 {393}{}{Credo che Sulik stara' molto meglio, lontano da te.}
@@ -132,5 +132,5 @@
 {540}{}{Sembra proprio che tu non abbia abbastanza soldi. }
 {541}{}{Uh, beh, magari chiedero' solo delle informazioni, allora.}
 {542}{}{Oh, magari tornero' quando ne avro' di piu'. Arrivederci.}
-{550}{}{Saro' davvero felice quando quel dannato (sob) selvaggio (sob) se ne sara' andato (sob) da qui. (sob) }
+{550}{}{Saro' davvero felice quando quel dannato (sob) selvaggio (sob) se ne sara' andato (sob) da qui. (sob)}
 {600}{}{[AVANTI]}

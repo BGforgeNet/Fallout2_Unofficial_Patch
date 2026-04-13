@@ -45,7 +45,7 @@
 {195}{}{Grande!}
 {196}{}{OK, abbiamo finito. Ciao.}
 {197}{}{Tutto qui?}
-{198}{}{OK. Ciao.}
+{198}{}{OK. Ciao}
 {199}{}{E' stato bello.}
 {200}{}{Bye bye.}
 {201}{}{Non mi pagano abbastanza.}

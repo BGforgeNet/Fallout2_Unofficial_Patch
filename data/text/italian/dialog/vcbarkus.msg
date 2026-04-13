@@ -111,7 +111,7 @@
 {210}{}{Nelle lande esiste una malattia chiamata Sindrome di }
 {211}{}{. Forse avrai notato che, di recente, i Servi sono sempre piu' stanchi. E cosa mi dici della loro scontrosita'?}
 {212}{}{Assurdita'! Ora, se hai finito di sprecare il mio tempo con le tue bugie...}
-{213}{}{D'accordo, dimentichiamo la "Sindrome di }
+{213}{}{D'accordo, dimentichiamo la "Sindrome di}
 {214}{}{". Ad ogni modo, vorrei comunque trattare il rilascio di Joshua.}
 {215}{}{Come non detto, allora. Avrei delle altre domande...}
 {216}{}{Me ne vado, allora. Arrivederci.}

@@ -175,7 +175,7 @@
 {823}{}{Lasciamo perdere. Avrei delle altre domande...}
 {824}{}{Myron, eh? D'accordo, allora. Grazie per la chiacchierata, Jesus.}
 {840}{}{Il Desperado e' il posto giusto, homes. Abbiamo il Jet, i giochi, il divertimento... e abbiamo tutte le putas che ti servono proprio qua fuori, calde e vogliose. Il Paradiso, homes. Il Pa-ra-di-so.}
-{841}{}{Il Desperado e' il posto giusto, chica. Abbiamo il Jet, i giochi, il divertimento. Non hai bisogno di andare da nessun'altra parte. }
+{841}{}{Il Desperado e' il posto giusto, chica. Abbiamo il Jet, i giochi, il divertimento. Non hai bisogno di andare da nessun'altra parte.}
 {842}{}{E cosi'... ti vuoi rilassare, eh, chica? Eh eh... allora che ne diresti se tu ed io ci dedicassimo ad un po' di dolce amore?}
 {843}{}{Sarei anche tentata, ma adesso non posso dedicarti i dieci secondi che ti servirebbero per il tuo "dolce amore", Little Jesus.}
 {844}{}{Sono lusingata, ma... no, grazie. Senti, avrei delle altre domande...}

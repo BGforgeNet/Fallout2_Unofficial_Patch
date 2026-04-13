@@ -1,7 +1,7 @@
 {100}{}{Vedi un uomo con i capelli grigi che indossa l'uniforme della polizia di NCR.}
 {101}{}{E' lo sceriffo di NCR.}
 {102}{}{Questo tipo ha il tipico aspetto da poliziotto - capelli a spazzola e mascella quadrata: una persona senza grilli per la testa.}
-{103}{}{Benvenuto a NCR, straniero. Mi chiamo Dumont - Sceriffo Dumont. Spero che il tuo soggiorno qui sia tranquillo. }
+{103}{}{Benvenuto a NCR, straniero. Mi chiamo Dumont - Sceriffo Dumont. Spero che il tuo soggiorno qui sia tranquillo.}
 {104}{}{Permetti che lo Sceriffo Dumont ti dia un avvertimento, straniero - questa citta' non tollera i tipi come te. Causa dei problemi e te ne faro' pentire amaramente. Ad ogni modo... c'e' qualcosa che posso fare per te?}
 {105}{}{Bentrovato. Posso fare qualcosa?}
 {106}{}{Sputa il rospo.}

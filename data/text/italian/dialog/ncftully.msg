@@ -1,7 +1,7 @@
 {100}{}{Vedi Padre Tully.}
 {150}{}{Vedi un uomo anziano che indossa una tunica marrone e che ha le tipiche macchie rosse da beone sulle guance. Sembra un pochiiiiiino barcollante.}
 {151}{}{Vedi Padre Tully. Pare si sia scolato un paio di bicchierini.}
-{200}{}{Io sono benedettissimo. }
+{200}{}{Io sono benedettissimo.}
 {201}{}{E le donne dovrebbero salutarmi con un bacio santo.}
 {202}{}{Berro' fino a far uscire il diavolo da me, se ci saro' costretto.}
 {203}{}{Un vero sermone non ha parole...}
@@ -17,7 +17,7 @@
 {221}{}{Nequizia! Peccato! Ehm... cosa fai piu' tardi?}
 {222}{}{Meretrice! Prostituta! Femmina da conio! Ehm... cosa fai piu' tardi?}
 {225}{}{Come va? Ti conoshco? }
-{226}{}{Shaalute... cosha puo' fare Padre Tully per te questa...}
+{226}{}{Shaalute... cosha puo' fare Padre Tully per te questa... }
 {227}{}{Tu shei quello che ha fatto vedere le suore verdi, er, i sorci verdi all'Enclave? Shei un eroooe.}
 {228}{}{Me e-rroe}
 {229}{}{Me ciao-e}

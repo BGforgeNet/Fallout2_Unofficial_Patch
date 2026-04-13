@@ -19,8 +19,8 @@
 {118}{}{Esperimento? Quale esperimento?}
 {119}{}{Cosa mi sai dire della cyber-genetica?}
 {120}{}{E ti aspetti che io creda ad una sola parola che mi hai detto? Sei uno svitato.}
-{121}{}{Oh, e' un campo completamente inesplorato - davvero eccitante. Adesso sto lavorando ad alcuni progetti - sto studiando una soluzione radicale per il problema dei mutanti. Vedi, e' piuttosto semplice - l'esser mutanti non e' una condizione irreversibile. Si puo' curare. }
-{122}{}{Certo, i miei colleghi sempliciotti cercavano di risolvere il problema nella maniera piu' violenta possibile. Una purificazione, in parole povere. Ammetto che, all'inizio, mi sono trovato di fronte a parecchi problemi, ma adesso dovrei averli risolti... o almeno credo. }
+{121}{}{Oh, e' un campo completamente inesplorato - davvero eccitante. Adesso sto lavorando ad alcuni progetti - sto studiando una soluzione radicale per il problema dei mutanti. Vedi, e' piuttosto semplice - l'esser mutanti non e' una condizione irreversibile. Si puo' curare.}
+{122}{}{Certo, i miei colleghi sempliciotti cercavano di risolvere il problema nella maniera piu' violenta possibile. Una purificazione, in parole povere. Ammetto che, all'inizio, mi sono trovato di fronte a parecchi problemi, ma adesso dovrei averli risolti... o almeno credo.}
 {123}{}{}
 {124}{}{Continua}
 {125}{}{A proposito... tu potresti aiutarmi ad effettuare qualche esperimento sul campo. Ti interessa?}

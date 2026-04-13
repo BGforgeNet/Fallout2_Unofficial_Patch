@@ -1,5 +1,5 @@
 {100}{}{E' un tipo muscoloso, con dei pettorali imponenti.}
-{101}{}{E' Hal, il responsabile del trasferimento dei brahmin. }
+{101}{}{E' Hal, il responsabile del trasferimento dei brahmin.}
 {102}{}{Sta masticando un pezzo di qualcosa che speri non decida di sputare da questa parte, dato che puzza da morire.}
 {103}{}{Sei qui per la transumanza?}
 {104}{}{}

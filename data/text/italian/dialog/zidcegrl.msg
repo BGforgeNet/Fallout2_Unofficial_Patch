@@ -10,7 +10,7 @@
 {153}{}{Vedi una delle croupier del casino'. Ha due gambe niente male.}
 {154}{}{Vedi una delle croupier del casino'. Ti fa l'occhiolino.}
 {155}{}{Vedi una delle croupier del casino'. Profuma davveeero di buono.}
-{160}{}{Vedi una bella donna. }
+{160}{}{Vedi una bella donna.}
 {161}{}{Ti fa cenno di avvicinarti.}
 {162}{}{Il suo abito e' davvero ristretto.}
 {163}{}{Ha due gambe niente male.}

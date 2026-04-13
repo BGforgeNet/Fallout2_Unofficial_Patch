@@ -17,7 +17,7 @@
 {16}{}{Punti Vita}
 {17}{}{Il sensore di movimento non e' installato.}
 {18}{}{Il sensore di movimento ha esaurito la carica.}
-{20}{}{Copyright(c) Interplay Productions. Tutti i diritti riservati. }
+{20}{}{Copyright(c) Interplay Productions. Tutti i diritti riservati.}
 {30}{}{Vuoi continuare a giocare?}
 {50}{}{Fallout 2 richiede il CD per funzionare!}
 {100}{}{Errore nel salvataggio della configurazione!}

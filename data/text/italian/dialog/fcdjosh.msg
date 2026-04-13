@@ -22,11 +22,11 @@
 {121}{}{Sai dove potrei trovare un GECK?}
 {122}{}{Sai dove posso trovare il Vault 13?}
 {123}{}{Sto cercando un mercante di nome Vic. Sai dove posso trovarlo?}
-{124}{}{I GECK facevano parte della dotazione standard per tutti i vault. Se la memoria non mi tradisce, erano progettati per essere usati dopo l'apertura del vault al fine di ricostruire la civilta'. Potresti trovare un GECK all'interno di un vault non ancora aperto, ma questa e' soltanto una mia ipotesi. Buona fortuna, }
+{124}{}{I GECK facevano parte della dotazione standard per tutti i vault. Se la memoria non mi tradisce, erano progettati per essere usati dopo l'apertura del vault al fine di ricostruire la civilta'. Potresti trovare un GECK all'interno di un vault non ancora aperto, ma questa e' soltanto una mia ipotesi. Buona fortuna,}
 {125}{}{Grazie.}
-{126}{}{Ho sentito un sacco di storie a proposito del Vault 13 e nessuna faceva riferimento alla sua posizione. Buona fortuna, }
+{126}{}{Ho sentito un sacco di storie a proposito del Vault 13 e nessuna faceva riferimento alla sua posizione. Buona fortuna,}
 {127}{}{Grazie.}
-{128}{}{Vic ha fatto uno sgarro al capo della Gilda degli Schiavisti. Puoi trovarlo li'. Buona fortuna, }
+{128}{}{Vic ha fatto uno sgarro al capo della Gilda degli Schiavisti. Puoi trovarlo li'. Buona fortuna,}
 {129}{}{Aspettare! Dove io trova gilda?}
 {130}{}{Aspetta, puoi dirmi dove si trova la Gilda degli Schiavisti?}
 {131}{}{Spiacente. Non ho nient'altro da dirti.}

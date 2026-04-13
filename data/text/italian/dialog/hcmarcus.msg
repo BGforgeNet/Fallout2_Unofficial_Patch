@@ -48,7 +48,7 @@
 {147}{}{Vengo da un villaggio fondato dal vero Abitante del Vault.}
 {148}{}{Da un villaggio a nord ovest.}
 {149}{}{Oh. Errore mio. Beh, grazie. Ci vediamo.}
-{150}{mcs15a}{Che novita'... che novita'... }
+{150}{mcs15a}{Che novita'... che novita'...}
 {151}{mcs15b}{Beh, uno dei ragazzi delle carovane inizia a preoccuparmi. Chad. Credo faccia la cresta sulle commissioni. Potresti controllare per me?}
 {152}{}{Io cosa ne ricavo?}
 {153}{}{Certo. Lo faro'.}

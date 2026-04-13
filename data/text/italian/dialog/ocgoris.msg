@@ -5,21 +5,21 @@
 {104}{}{Me}
 {105}{}{Me va.}
 {106}{}{Si', e allora?}
-{107}{}{Piacere. Io sono }
-{108}{}{Salve, Goris. Gruthar mi ha consigliato di parlare con te. Credo ti ritenga un uomo in grado di dare risposte a molte domande. }
+{107}{}{Piacere. Io sono}
+{108}{}{Salve, Goris. Gruthar mi ha consigliato di parlare con te. Credo ti ritenga un uomo in grado di dare risposte a molte domande.}
 {109}{}{Posso farti qualche domanda?}
 {110}{}{Scusa, devo andare.}
-{111}{}{E' un piacere conoscerti, }
+{111}{}{E' un piacere conoscerti,}
 {112}{}{E cosi' hai parlato con Gruthar. Esagera sempre quando parla di me. Non conosco la meta' delle cose che lui pensa io sappia. Tuttavia...}
 {113}{}{E cosi' tu sei un esterno! Ho visto pochi esseri come te; alcuni di essi risiedono qui nel vault, ma tu sembri diverso. Sembri essere piu' "stagionato", se capisci quel che voglio dire. Scommetto che hai affrontato un lungo viaggio e hai portato a termine diverse imprese. Ho ragione?}
 {114}{}{Uh... "stagionato"?}
 {115}{}{Me va.}
 {116}{}{Scusa, ma adesso credo di dover andare.}
-{117}{}{Si', la mia vita e' stata alquanto avventurosa. Ascolta, se non ti dispiace rispondere a qualche mia domanda, in cambio io potrei raccontarti qualcuna delle mie avventure. }
+{117}{}{Si', la mia vita e' stata alquanto avventurosa. Ascolta, se non ti dispiace rispondere a qualche mia domanda, in cambio io potrei raccontarti qualcuna delle mie avventure.}
 {118}{}{Non sono affari tuoi.}
 {119}{}{Ti dispiace se ti faccio qualche domanda?}
-{120}{}{D'accordo! Mi piacerebbe molto ascoltare tutte le storie che hai da raccontarmi. }
-{121}{}{Inoltre non potrei mai rifiutarmi di aiutare un amico di Gruthar. }
+{120}{}{D'accordo! Mi piacerebbe molto ascoltare tutte le storie che hai da raccontarmi.}
+{121}{}{Inoltre non potrei mai rifiutarmi di aiutare un amico di Gruthar.}
 {122}{}{Cosa vorresti sapere?}
 {123}{}{Cosa fai qui?}
 {124}{}{Sei un prigioniero?}
@@ -102,7 +102,7 @@
 {201}{}{Uh... me perso. Me va.}
 {202}{}{Son passato solo per salutarti. Ci vediamo.}
 {203}{}{Ehi, sto cercando un compagno di viaggio. Che ne diresti di venire con me?}
-{204}{}{Cosa posso fare per te, }
+{204}{}{Cosa posso fare per te,}
 {205}{}{Tu cosa cattiva! Perche' no detto?}
 {206}{}{Sei un Deathclaw? C'e' un motivo per il quale non me l'hai detto prima?}
 {207}{}{Come posso spiegartelo... Cose cattive te uccidere, no parlare. Me non ha detto te cosi' tu credere me cosa buona. No uccidere me. Okay me stare con te?}
@@ -122,7 +122,7 @@
 {221}{}{Le telecamere di sicurezza hanno registrato quel che e' successo. Dovresti controllare il filmato.}
 {222}{}{Vedi un Deathclaw grigio. E' Goris.}
 {223}{}{Vedi una figura umanoide che indossa un saio con le maniche lunghe e il cappuccio. E' Goris.}
-{1000}{}{Si', }
+{1000}{}{Si',}
 {1001}{}{Tu curare te.}
 {1002}{}{Tu aspettare qui. Me torna e prende te.}
 {1003}{}{Uh... no armi ora. Okay?}
@@ -134,12 +134,12 @@
 {1016}{}{Andiamo.}
 {1017}{}{Sei un Deathclaw? C'e' un motivo per il quale non me l'hai detto prima?}
 {1018}{}{E' tutto, per ora.}
-{1019}{}{Sono in piena forma e pronto ad andare, }
-{1020}{}{Sono quasi del tutto guarito, }
-{1021}{}{Sono piuttosto in salute, ma mi farebbero comodo delle cure aggiuntive, non appena ne avremo la possibilita', }
-{1022}{}{Mi sono curato per quanto mi era possibile, ma sono ancora messo piuttosto male, }
-{1041}{}{Ti aspettero' finche' non sarai tornato, }
-{1060}{}{Faro' del mio meglio per non attirare l'attenzione, }
+{1019}{}{Sono in piena forma e pronto ad andare,}
+{1020}{}{Sono quasi del tutto guarito,}
+{1021}{}{Sono piuttosto in salute, ma mi farebbero comodo delle cure aggiuntive, non appena ne avremo la possibilita',}
+{1022}{}{Mi sono curato per quanto mi era possibile, ma sono ancora messo piuttosto male,}
+{1041}{}{Ti aspettero' finche' non sarai tornato,}
+{1060}{}{Faro' del mio meglio per non attirare l'attenzione,}
 {1064}{}{Tu stare vicino.}
 {1065}{}{No andare troppo lontano.}
 {1066}{}{Tu troppo vicino. Allontanare.}
@@ -147,10 +147,10 @@
 {1074}{}{Non allontanarti troppo.}
 {1075}{}{Dovremmo distanziarci un po'.}
 {1078}{}{E' tutto, per ora.}
-{1079}{}{Ti staro' piu' vicino che posso, }
-{1098}{}{Mi allontanero' un po' per darti modo di respirare, }
-{1117}{}{Mi terro' lontano e ti daro' spazio, }
-{1136}{}{Mi dispiace, }
+{1079}{}{Ti staro' piu' vicino che posso,}
+{1098}{}{Mi allontanero' un po' per darti modo di respirare,}
+{1117}{}{Mi terro' lontano e ti daro' spazio,}
+{1136}{}{Mi dispiace,}
 {1137}{}{Ho imparato molte cose durante i nostri viaggi insieme. Verro' volentieri con te, }
 {1156}{}{? }
 {1157}{}{. }

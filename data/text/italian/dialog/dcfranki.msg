@@ -6,7 +6,7 @@
 {153}{}{Io sono Frankie e tu ti trovi all'interno dell'Hole. Il miglior dannato bar nel raggio di cento miglia! Tutti si trascinano nell'Hole quando e' ora di sciogliersi un po'. Adesso cerca di non fare troppo casino, hai capito?}
 {154}{}{Ho capito.}
 {155}{}{Certo, okay. Come no?}
-{156}{}{E' facile capire perche' hai chiamato questo posto "Hole"...}
+{156}{}{E' facile capire perche' hai chiamato questo posto "Hole."}
 {157}{}{Eh?}
 {158}{}{Cosa vuoi?}
 {159}{}{Whiskey.}

@@ -1,7 +1,7 @@
 {100}{}{Vedi una giovane donna che indossa un'armatura di metallo.}
 {101}{}{Vedi Dalia.}
 {102}{}{Vedi una giovane donna carina, vestita con un'armatura di metallo. Osserva i dintorni molto attentamente.}
-{103}{}{Bene, lo faro'. Come va, }
+{103}{}{Bene, lo faro'. Come va,}
 {104}{}{Tu Dalia. Me ricorda tu aiutato.}
 {105}{}{Cose ok. Me va ora.}
 {106}{}{Dalia! Grazie a te le cose si sono risolte per il meglio.}

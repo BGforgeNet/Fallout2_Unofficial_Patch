@@ -233,6 +233,6 @@
 {1214}{}{I tuoi punti vita sono aumentati un po' di piu' a causa del continuo uso dell'autodoc.}
 {1215}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa del continuo uso dell'autodoc.}
 {1216}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa del continuo uso dell'autodoc.}
-{1217}{}{La tua abilita' nello spalare merda e' leggendaria. }
+{1217}{}{La tua abilita' nello spalare merda e' leggendaria.}
 {1218}{}{Weapon Enhanced Knockout}
 {1219}{}{La cosa positiva e' che tutti intorno a te subiscono un maggior numero di fallimenti critici... la cosa negativa e' che lo stesso succede a te!}

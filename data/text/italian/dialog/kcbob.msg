@@ -46,7 +46,7 @@
 {231}{}{Nessun problema, Bob. Ci vediamo in giornata. }
 {232}{}{Felice di aiutarti. Ma prima vorrei che tu mi dicessi cos'e' successo in citta' ultimamente.}
 {240}{}{Beh, sei davvero abile nel contrattatare, non c'e' dubbio. OK, ti offro 55$. Lo farai?}
-{241}{}{Ci hai provato, ma 50$ e' quanto vale questo lavoro per me. Diamine, non posso permettermi di pagarti un dollaro di piu'.}
+{241}{}{Ci hai provato, ma 50$ e' quanto vale questo lavoro per me. Diamine, non posso permettermi di pagarti un dollaro di piu'. }
 {242}{}{OK, lo faro'.}
 {243}{}{Non ho intenzione di farlo per quei soldi. Il mio tempo vale molto di piu'.}
 {250}{}{Ehila', compare. Sei tornato a trovare Whiskey Bob, eh? Sei pronto a parlare di bevute, di affari e di amenita' simili?}

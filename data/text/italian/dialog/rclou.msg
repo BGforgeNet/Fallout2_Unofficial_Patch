@@ -6,10 +6,10 @@
 {105}{}{Non posso credere che tu abbia lasciato libero il bastardo che ha accoltellato la mia ragazza. Hai del fegato a tornare qui. Cosa diavolo vuoi?}
 {106}{}{Rimani un dannato idiota, ma per noi altri la vita va avanti. Ora: cosa diavolo vuoi?}
 {107}{}{Ricorda cio' che ho detto. Tutti quei soldi non fanno bene a quella ragazza. Di cosa hai bisogno?}
-{108}{}{Ehila'. Io sono Lou. Proprietaria del Malamute Saloon, il miglior locale a nord di SanFran. }
+{108}{}{Ehila'. Io sono Lou. Proprietaria del Malamute Saloon, il miglior locale a nord di SanFran.}
 {109}{}{E adesso cosa c'e'?}
 {110}{}{Ooo?}
-{111}{}{Salve, Lou. Vorrei comprare qualcosa. }
+{111}{}{Salve, Lou. Vorrei comprare qualcosa.}
 {112}{}{Hai mai sentito parlare di un qualcosa chiamato Kit per la Creazione del Giardino dell'Eden?}
 {113}{}{Salve, Lou. Cosa succede di bello in citta'?}
 {114}{}{Cos'e' un Malamute?}
@@ -121,7 +121,7 @@
 {220}{}{Credo che tu sia preoccupata solo perche' stai per perdere una delle tue migliori fonti di reddito. Tu vuoi solo tenere al guinzaglio le tue ragazze.}
 {221}{}{Si', certo. Ho sentito abbastanza. Addio.}
 {222}{}{Aiutarla a raggiungere l'aldila': ecco cosa stanno facendo i tuoi soldi. Lei li usa solo per comprarsi quantita' esagerate di Jet. Uno di questi giorni morira' di overdose, se continui ad accontentarla.}
-{223}{}{Hmm, dovro' pensarci su. }
+{223}{}{Hmm, dovro' pensarci su.}
 {224}{}{Ci pensero' su. Addio.}
 {225}{}{Puoi pensarla come vuoi. Mi pareva giusto dirti chiaro e tondo come stanno le cose. Adesso sta a te decidere se ascoltarmi o meno.}
 {226}{}{Queste cose le ho gia' sentite altre volte. Dedichiamoci ad altro.}

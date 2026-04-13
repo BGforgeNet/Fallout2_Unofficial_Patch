@@ -9,14 +9,14 @@
 {115}{}{Parlami di questo posto.}
 {116}{}{Hai mai sentito parlare di un qualcosa chiamato Kit di Creazione del Giardino dell'Eden?}
 {117}{}{Non voglio niente da te. Addio.}
-{120}{}{Ti ho appena detto che ogni Vault ne aveva uno. Ti sembra un Vault, questo? Sei stupido? Perche' stai cercando un GECK in questo posto? Prova in un Vault.}
+{120}{}{Ti ho appena detto che ogni Vault ne aveva uno. Ti sembra un Vault, questo? Sei stupido? Perche' stai cercando un GECK in questo posto? Prova in un Vault. }
 {121}{}{Dove si trova il Vault piu' vicino?}
 {122}{}{Ti dico io cos'e' stupido. Parlarmi a quel modo, e' stupido. Io sono il Prescelto, sai?}
 {123}{}{Uh, beh, io stavo per... e pensavo che tu... oh, come non detto. Addio.}
 {130}{}{Un Kit di Creazione del Giardino dell'Eden? Intendi forse quel dispositivo presente in ogni Vault che dovrebbe essere usato per ricostruire la civilta'?}
 {131}{}{Si'! Proprio quello! Dove posso trovarne uno?}
 {132}{}{Uh, no, mi riferivo a un altro Kit di Creazione del Giardino dell'Eden.}
-{140}{}{Gestisco questo locale. Sei stupido? Vendo da bere, baratto cose, racconto storie e gioco a Tragic. }
+{140}{}{Gestisco questo locale. Sei stupido? Vendo da bere, baratto cose, racconto storie e gioco a Tragic.}
 {141}{}{Allora, cosa vuoi?}
 {142}{}{Voglio da bere.}
 {143}{}{Voglio barattare.}
@@ -33,7 +33,7 @@
 {160}{}{Non c'e' molto da dire, davvero. Solo un gruppo di ghoul aggrappati tenacemente al bordo piu' esterno dell'esistenza.}
 {161}{}{No, volevo che tu mi parlassi di questo bar.}
 {162}{}{Beh, questa tua descrizione si adatta a un sacco di gente. Non mi hai detto niente di nuovo.}
-{170}{}{Vuoi da bere, eh? Beh, abbiamo la nostra Birra Gamma Gulp a 5$ la bottiglia e, per le occasioni speciali, il nostro Rum Roentgen a 12$ la bottiglia. }
+{170}{}{Vuoi da bere, eh? Beh, abbiamo la nostra Birra Gamma Gulp a 5$ la bottiglia e, per le occasioni speciali, il nostro Rum Roentgen a 12$ la bottiglia.}
 {171}{}{Cosa desideri?}
 {172}{}{Gulp?}
 {173}{}{Vorrei una birra Gamma Gulp. E' normale che sia fosforescente?}
@@ -52,12 +52,12 @@
 {192}{}{Wooz, vecchio compare, voglio offrire da bere a tutti i miei amici qui presenti. Questi ragazzi sono i migliori.}
 {193}{}{Wooz, vieni qua... queshti ragasshi shono i mishgliori amishi che una pershona possha deshiderare. Porta ancora da bere a tuuuutti i miei amishi.}
 {194}{}{Wooz! Vooooglio offriresh un altro gi... giro a tuuuutti i miei comparrrri. Queeeeshti ragaaasshi shono il meglio. VI AMO RAGASSHI! Vi abbrasshio tutti!}
-{195}{}{Ripensandoci, devo essere davvero impazzito per pensare di offrire da bere a un branco di zombie in decomposizione. }
+{195}{}{Ripensandoci, devo essere davvero impazzito per pensare di offrire da bere a un branco di zombie in decomposizione.}
 {196}{}{Credo che prendero' da bere solo per me.}
 {200}{}{Ho un'ottima storiella da raccontarti. E' davvero divertente. Vedi... c'era questa testa, no?}
 {201}{}{Una testa?}
 {202}{}{Ehm, questa credo di averla gia' sentita. Adesso non ho tempo. Ci vediamo.}
-{210}{}{Sei stupido? Tragic l'Accozzaglia e', dopo il Jet, la cosa che da' piu' dipendenza in assoluto. }
+{210}{}{Sei stupido? Tragic l'Accozzaglia e', dopo il Jet, la cosa che da' piu' dipendenza in assoluto.}
 {211}{}{E' proprio come ti dicevo. Tragic l'Accozzaglia e' IL gioco.}
 {212}{}{Dimmi di piu' a proposito di questo Tragic l'Accozzaglia.}
 {213}{}{Cos'e' il Jet?}
@@ -73,7 +73,7 @@ Se non fosse stato per un complotto architettato dalla lobby dei frutticoltori, 
 {241}{}{Tu sei pazzo, vero? Credo che tu abbia assaggiato qualche goccia di troppo della tua birra. Parliamo di qualcos'altro.}
 {242}{}{Oh, si'... le mele sono davvero meravigliose. (ti allontani lentamente) Si', e' proprio cosi'. Buono Wooz, sta' calmo. Addio.}
 {250}{}{Mi pare che alla fine siamo riusciti a raggiungere un accordo. Ti serve qualcos'altro?}
-{251}{}{Si', credo che dovrei comprare anche qualcos'altro.}
+{251}{}{Si', credo che dovrei comprare anche qualcos'altro. }
 {252}{}{Per adesso sono a posto cosi'. In compenso, ho delle domande da farti.}
 {253}{}{Non mi serve nient'altro, per adesso. Ci vediamo.}
 {260}{}{Oh, il Prescelto. Oh cielo, non me n'ero reso conto. Vostra Magnificenza, quest'umile barista provera' a smettere di tremare il tempo necessario per riuscire a dirvi qualcosa. (Wooz sorride) Venite piu' vicino, ve lo diro' in un orecchio.}

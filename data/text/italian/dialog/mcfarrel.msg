@@ -1,4 +1,4 @@
-{100}{}{Vedi un vecchio. Paragonata a lui, una prugna sembrerebbe liscia come una pesca. }
+{100}{}{Vedi un vecchio. Paragonata a lui, una prugna sembrerebbe liscia come una pesca.}
 {101}{}{Vedi Farrel.}
 {102}{}{Ogni volta che si muove, e' come se dei bastoncini secchi venissero spezzati.}
 {150}{}{Ehi, sta' lontano da li'!}

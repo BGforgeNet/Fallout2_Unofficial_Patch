@@ -44,7 +44,7 @@
 {143}{}{Ecco l'ultima risorsa di tutti i primitivi dalla mente ristretta. E' cosi' facile notare cosa vi differenzia dai veri umani come noi.}
 {144}{}{Lei e' cosi' dannatamente sicuro di se', eh?}
 {145}{}{Fottuto bigotto che non sei altro. Qualcuno deve mettere fine alla tua vita... immediatamente.}
-{146}{}{Non credo di aver molto da dire ad un mutante. Presto, quando i veri umani si saranno ripresi il pianeta, tu sarai soltanto un altro degli spiacevoli ricordi della guerra.}
+{146}{}{Non credo di aver molto da dire ad un mutante. Presto, quando i veri umani si saranno ripresi il pianeta, tu sarai soltanto un altro degli spiacevoli ricordi della guerra. }
 {147}{}{Veri umani? Di che cosa sta parlando? Sono umano quanto lei.}
 {148}{}{Ce l'ho io, uno spiacevole ricordo per te... proprio qui, nella mia fondina.}
 {149}{}{Guardie! Aiuto! Guardie!}
@@ -57,7 +57,7 @@
 {156}{}{No, ti sbagli. In realta' sei molto diverso da me, o almeno lo e' il tuo DNA. Un malaugurato effetto di anni di esposizione alla radiazione di fondo, immagino.}
 {157}{}{E queste leggere differenze nel DNA hanno davvero tanta importanza?}
 {158}{}{Non so esattamente di cosa stia parlando, ma queste leggere differenze hanno davvero tanta importanza?}
-{159}{}{Oh, il tuo DNA e' molto piu' che *leggermente* diverso. E' molto diverso. Se il Progetto non avesse dei tempi da rispettare, mi piacerebbe svolgere degli altri esperimenti sulla tua gente... oltre agli esami tossicologici relativi al FEV, naturalmente. Un lavoro davvero interessante. }
+{159}{}{Oh, il tuo DNA e' molto piu' che *leggermente* diverso. E' molto diverso. Se il Progetto non avesse dei tempi da rispettare, mi piacerebbe svolgere degli altri esperimenti sulla tua gente... oltre agli esami tossicologici relativi al FEV, naturalmente. Un lavoro davvero interessante.}
 {160}{}{Che cosa ti interessa sapere?}
 {161}{}{Come mai il nostro DNA e' diverso?}
 {162}{}{State svolgendo degli esperimenti sulla mia tribu'?}

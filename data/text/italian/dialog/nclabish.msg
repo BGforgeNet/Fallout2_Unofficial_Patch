@@ -163,7 +163,7 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {500}{}{Vedi la signora Bishop. E' difficile riuscire a concentrarsi sul suo aspetto mentre sta chiamando le guardie.}
 {510}{}{Mmmmm...oh, }
 {511}{}{Mmmzrrmnmn... ancora, }
-{512}{}{Combinazzzz... cassaforzzz...}
+{512}{}{Combinazzzz... cassaforzzz... }
 {515}{}{Un intruso! Aiuto!}
 {516}{}{Al ladro! Al ladro!}
 {517}{}{Un intruso! Guardie! Guardie!}
@@ -173,7 +173,7 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {525}{}{Hmmmm. Molto bene. Allora rimani pure steso sul letto e io faro' il resto.}
 {526}{}{Me rifiuta me no VUOLE fare me vuole tornare a CASA a Arroyo-yo}
 {527}{}{-Fa' quello che ti dice-}
-{530}{}{(Prende un grande respiro, poi comincia a gridare cosi' forte che ti fanno male le orecchie! Grida qualcosa tipo 'garze' e 'quadro', ma non riesci a capire bene, perche' sta gridando molto forte.) }
+{530}{}{(Prende un grande respiro, poi comincia a gridare cosi' forte che ti fanno male le orecchie! Grida qualcosa tipo 'garze' e 'quadro', ma non riesci a capire bene, perche' sta gridando molto forte.)}
 {531}{}{Shhhh! Se tu no stare tranquilla, George no fare giocare me con conigli! Shhhh!}
 {532}{}{Cosa avere tuo quadro? A cosa te servire garze?}
 {533}{}{No urlare! No urlare!}
@@ -215,12 +215,12 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {586}{}{Fiuuu.}
 {590}{}{(Fate all'amore. Non e' il migliore. Non e' il piu' bello. Ma, per un breve momento delle vostre turbolente vite, tu e la signora Bishop dimenticate le crudelta' del mondo e vi perdete l'uno nell'altra e viceversa...) }
 {591}{}{(Cominciate impetuosamente a fare all'amore. Alla fine della vostra maratona sessuale, la signora Bishop ti abbraccia, sorridendo soddisfatta.) Mmmmm, }
-{592}{}{Sei un vero *uomo*. (Trema.) Quel tuo giochetto con la lingua e' stato -- }
-{593}{}{Sei una vera *donna*. (Trema.) Quel tuo giochetto con la lingua e' stato -- }
+{592}{}{Sei un vero *uomo*. (Trema.) Quel tuo giochetto con la lingua e' stato --}
+{593}{}{Sei una vera *donna*. (Trema.) Quel tuo giochetto con la lingua e' stato --}
 {594}{}{Allora... cosa vuoi fare adesso?}
 {595}{}{Mmmmm, Leslie.}
 {596}{}{Uh, senti, nel CASO in cui, proprio in questo momento, qualcuno ci stesse guardando dall'alto e sentisse tutto quello che facciamo e diciamo, cerchiamo di tenere certi segreti solo per noi. Piuttosto, abbandoniamoci a un po' di rilassanti chiacchiere da letto.}
-{600}{}{(La signora Bishop sospira soddisfatta e si stiracchia.) }
+{600}{}{(La signora Bishop sospira soddisfatta e si stiracchia.)}
 {601}{}{Parlami di tuo marito.}
 {602}{}{Parlami di tua figlia.}
 {603}{}{Parlami della tua famiglia.}
@@ -300,7 +300,7 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {771}{}{Scivola silenziosamente fuori dal letto e vestiti.}
 {780}{}{L'unico "amore" che c'e' tra noi consiste in lui che, entrato con la forza nella mia stanza da letto, mi monta come un brahmin ubriaco. E questa e' forse la sua qualita' meno spregevole, considerate le altre.}
 {781}{}{Le altre?}
-{790}{}{Probabilmente vuole anche che ci sia qualcuno a controllare il mercato della droga nella Repubblica della Nuova California... lui stesso. Sta cercando di truccare le elezioni, giu' a suuuud... *yawn* }
+{790}{}{Probabilmente vuole anche che ci sia qualcuno a controllare il mercato della droga nella Repubblica della Nuova California... lui stesso. Sta cercando di truccare le elezioni, giu' a suuuud... *yawn*}
 {791}{}{Quindi, in realta', sta cercando di far diventare Reno un MEMBRO della Repubblica... hmmmm. Okay, allora, parliamo di qualcos'altro...}
 {792}{}{Interessante. Vorrei sapere delle altre cose a proposito dei piani di John...}
 {800}{}{Le droghe sono illegali a Vault City, naturalmente. Gli altri Cittadini mi scoprirono e mi tolsero la Cittadinanza. John era l'unico al quale potessi rivolgermi... lo sapeva, naturalmente. Aveva progettato tutto.}

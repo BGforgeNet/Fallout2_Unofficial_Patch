@@ -15,7 +15,7 @@
 {114}{}{Oooo! Un luccichino. Me va.}
 {115}{}{Ehi, qui le domande le faccio io.}
 {116}{}{Devo andare.}
-{117}{}{Felice di conoscerti, io sono }
+{117}{}{Felice di conoscerti, io sono}
 {118}{}{Capito.}
 {119}{}{Al momento controllo questa zona del vault per impedire il passaggio al personale non autorizzato.}
 {120}{}{Persona leno n'auto rizza toh?}

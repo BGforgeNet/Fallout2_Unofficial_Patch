@@ -215,7 +215,7 @@
 {841}{}{I Mordino comprano un mucchio di schiavi dagli schiavisti che passano di qua. }
 {842}{}{I Mordino comprano un mucchio di schiavi dagli schiavisti come te che passano per New Reno. }
 {843}{}{E ne comprano davvero un sacco, dato che gli schiavi continuano a stare male, a scappare... o a morire. La maggior parte muore.}
-{860}{}{Solo per migliorarlo, immagino, raffinare il processo, raffinare la droga. Il Jet attuale e' buono, ma se potessero in qualche modo MIGLIORARLO... ci sarebbe la stessa differenza che c'e' tra volare con un deltaplano e volare fino alla luna, credo. }
+{860}{}{Solo per migliorarlo, immagino, raffinare il processo, raffinare la droga. Il Jet attuale e' buono, ma se potessero in qualche modo MIGLIORARLO... ci sarebbe la stessa differenza che c'e' tra volare con un deltaplano e volare fino alla luna, credo.}
 {880}{}{Aspetta un secondo - Se fossi in te non ci PENSEREI nemmeno, amico. I Mordino controllano quel posto come cani rabbiosi. Cavatelo dalla testa e basta.}
 {881}{}{Ci dev'essere un modo per entrare...}
 {886}{}{D'accordo, allora lasciamo perdere. Grazie dell'informazione.}

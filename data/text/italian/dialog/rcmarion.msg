@@ -6,7 +6,7 @@
 {105}{}{Sei un Happy Meal senza le patatine, eh?}
 {106}{}{Vattene, cucciolo.}
 {107}{}{Vattene.}
-{108}{}{Ehila'. Io sono Earl Marion. E sono lo Sceriffo, da queste parti. Ha un che di pittoresco, non trovi? Beh, questo e' il mio lavoro. }
+{108}{}{Ehila'. Io sono Earl Marion. E sono lo Sceriffo, da queste parti. Ha un che di pittoresco, non trovi? Beh, questo e' il mio lavoro.}
 {109}{}{Cosa puo' fare per te lo sceriffo Marion?}
 {110}{}{In quanto Sceriffo, devo chiederti cosa fa qui in citta'?}
 {111}{}{Sono qui per far casino e masticare chewing-gum - e ho appena finito il chewing-gum.}

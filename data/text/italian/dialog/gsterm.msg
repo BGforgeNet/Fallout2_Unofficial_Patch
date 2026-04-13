@@ -76,7 +76,7 @@
 {250}{}{Questo terminale e' bloccato per motivi di sicurezza. Siete pregati di informare il responsabile PoseidoNet.}
 {251}{}{Hmm, sembra proprio che non possa farci nulla.}
 {252}{}{Hmm, chissa' se c'e' un tasto di riavvio locale... Eccone uno. Proviamo un po'.}
-{300}{}{E' stato inserito un Codice di Accesso di Sicurezza Non Corretto. }
+{300}{}{E' stato inserito un Codice di Accesso di Sicurezza Non Corretto.}
 {301}{}{E' stato inserito un Codice di Accesso di Sicurezza Non Corretto. Accesso Negato. Prego inserire codice corretto. Avete ancora due tentativi.}
 {302}{}{E' stato inserito un Codice di Accesso di Sicurezza Non Corretto. Accesso Negato. Avete ancora un tentativo.}
 {303}{}{E' stato inserito un Codice di Accesso di Sicurezza Non Corretto. Accesso Negato. Attivate Procedure Interne di Sicurezza.}

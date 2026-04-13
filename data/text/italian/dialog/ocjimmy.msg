@@ -6,7 +6,7 @@
 {105}{}{Me}
 {106}{}{Uh... Me gironzola. Me va ora.}
 {107}{}{Stavo solo dando un'occhiata in giro.}
-{108}{}{Ciao, Jim. Io sono }
+{108}{}{Ciao, Jim. Io sono}
 {109}{}{Non sono affari tuoi, quattr'occhi. Stammi lontano.}
 {110}{}{Stavo solo facendo un giro. Adesso me ne vado.}
 {111}{}{Guarda pure tutto quello che vuoi, ma per favore non toccare nulla. Qui dentro ci sono degli strumenti delicati.}
@@ -15,7 +15,7 @@
 {114}{}{Sei noioso. Vattene.}
 {115}{}{Ehi, scusa. Non avevo intenzione di pestarti i piedi. Ti lascio ai tuoi affari.}
 {116}{}{Bene.}
-{117}{}{E' un piacere conoscerti, }
+{117}{}{E' un piacere conoscerti,}
 {118}{}{Cosa vorresti sapere?}
 {119}{}{Cosa fare qui dentro?}
 {120}{}{Cosa essere tutte queste macchine?}

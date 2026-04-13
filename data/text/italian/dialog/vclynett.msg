@@ -221,8 +221,8 @@
 {320}{}{Ho fatto un lungo viaggio per arrivare qui. Almeno GUARDALE, donna!}
 {321}{}{Ho fatto un lungo viaggio per arrivare qui. Almeno le GUARDI!}
 {322}{}{Se non sono sufficienti a convincerla, allora non c'e' altro da aggiungere. Buona giornata.}
-{323}{lyn041a}{Hai la benche' minima idea di quanto occupata io sia? Devo governare questa citta' e non posso perdere il mio prezioso tempo con te e con le tue assurde richieste. }
-{324}{lyn041b}{Hai la benche' minima idea di quanto occupata io sia? Devo governare questa citta' e non posso perdere il mio prezioso tempo con te. }
+{323}{lyn041a}{Hai la benche' minima idea di quanto occupata io sia? Devo governare questa citta' e non posso perdere il mio prezioso tempo con te e con le tue assurde richieste.}
+{324}{lyn041b}{Hai la benche' minima idea di quanto occupata io sia? Devo governare questa citta' e non posso perdere il mio prezioso tempo con te.}
 {325}{lyn041c}{Adesso vattene immediatamente, o dovro' chiamare le guardie.}
 {326}{}{Dai, chiamale. Non arriveranno in tempo per salvarti la vita.}
 {327}{}{Bene. Me ne vado.}
@@ -751,7 +751,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {849}{}{La centrale ha bisogno di un idro-magnete-come-si-chiama per funzionare. I ghoul hanno detto che ne avete uno qui, quindi mi basterebbe solo questo dispositivo e loro potrebbero riparare la centrale.}
 {850}{}{Hanno bisogno di un regolatore idroelettrico di magnetosfera per riparare la centrale ed evitare che contamini le falde acquifere. Affermano che voi, qui a Vault City, ne possedete uno. Quindi, se potessi avere quel dispositivo...}
 {851}{}{Lasciamo stare. Possiamo discutere di questo argomento un'altra volta.}
-{852}{lyn047b}{E anche se lo facessimo? Questa e' solo una soluzione temporanea. }
+{852}{lyn047b}{E anche se lo facessimo? Questa e' solo una soluzione temporanea.}
 {853}{}{Uh, beh, non conosco i dettagli, ma sembra che questo magneto-come-si-chiama potrebbe aiutare sia Gecko sia Vault City. Posso avere questo pezzo?}
 {854}{}{In realta', il regolatore potrebbe far funzionare la centrale in modo pulito per molti anni. Quindi se riuscissi solo a procurarmi il pezzo...?}
 {855}{}{Lasciamo perdere. Forse posso trovare qualcun altro che mi aiuti.}

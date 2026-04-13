@@ -3,7 +3,7 @@
 {102}{}{Vedi una scintillante slot machine. }
 {103}{}{Vedi una luccicante slot machine. }
 {130}{}{Ha tre occhi e un braccio.}
-{140}{}{La puntata minima e' }
+{140}{}{La puntata minima e' $}
 {141}{}{.}
 {150}{}{Giureresti di averla beccata, con la coda dell'occhio, che ti stava guardando. }
 {151}{}{La sua struttura lucente e la sua leva dorata scintillano sensualmente sotto le luci. }
@@ -12,9 +12,9 @@
 {200}{}{(La tua mano trema mentre cerchi le monete. La slot machine continua a sussurrarti.) *Vieni, zucchero...ecco...vieni adesso...non scherzare...*}
 {201}{}{Vedi una slot machine. La sua struttura lucente e la sua leva dorata scintillano sensualmente sotto le luci. La sua fessura per le monete ti chiama a se', e senti il sangue fluire al volto per l'eccitazione.}
 {202}{}{(La tua mano trema mentre cerchi le monete. La slot machine continua a sussurrarti.) *Vieni, dolcezza...ecco...impugna il manico...impugnalo saldamente...vieni adesso...*}
-{250}{}{Inserisci }
+{250}{}{Inserisci $}
 {251}{}{. }
-{252}{}{Gioca gli ultimi }
+{252}{}{Gioca gli ultimi $}
 {253}{}{.}
 {254}{}{Smetti di giocare.}
 {255}{}{Sei al verde. Sei costretto a smettere di giocare.}
@@ -31,7 +31,7 @@
 {604}{}{JACKPOT! }
 {605}{}{DOPPIO JACKPOT!!! }
 {613}{}{. }
-{700}{}{La vincita ammonta a }
+{700}{}{La vincita ammonta a $}
 {701}{}{.}
 {1001}{}{ciliegia}
 {1002}{}{arancia}
