@@ -5,7 +5,7 @@
 {104}{}{. Io sono Joshua. Cosa posso fare per te?}
 {105}{}{Come tu sapere nome?}
 {106}{}{Come fai a sapere il mio nome?}
-{107}{}{Le tue ultime azioni hanno attirato dell'attenzione su di te. La gente parla, la gente ascolta e le voci corrono. E' bene che ti ricordi che non sei altro che un piccolo pesce in un oceano di squali, }
+{107}{}{Le tue ultime azioni hanno attirato dell'attenzione su di te. La gente parla, la gente ascolta e le voci corrono. E' bene che ti ricordi che non sei altro che un piccolo pesce in un oceano di squali,}
 {108}{}{.}
 {109}{}{Cosa significare?}
 {110}{}{Che cosa vuoi dire con questo?}
