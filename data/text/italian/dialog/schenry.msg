@@ -4,7 +4,7 @@
 {103}{}{Scusami, sono il Dr. Henry e sono molto occupato. Che cosa vuoi?}
 {104}{}{Ancora tu? Che cosa vuoi?}
 {105}{}{Hurgh.}
-{106}{}{Io sono }
+{106}{}{Io sono}
 {107}{}{Abbiamo chiacchierato abbastanza. Tu hai dei documenti che il signor Merk desidera. Dammeli subito e nessuno si fara' del male.}
 {108}{}{Hai mai sentito parlare di un posto chiamato Enclave?}
 {109}{}{Non sono affari tuoi.}

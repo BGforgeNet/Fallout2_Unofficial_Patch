@@ -38,7 +38,7 @@
 {137}{}{Me sa. Me solo messo te a prova. Uh... tu passato.}
 {138}{}{Sentito qualcuno me chiamare. Me va.}
 {139}{}{Capisco. Riproviamoci, allora. Salve. Io sono Valdis. Qual e' il tuo nome?}
-{140}{}{Me }
+{140}{}{Me}
 {141}{}{Addio.}
 {142}{}{Personale non autorizzato. In parole povere 'persone che non hanno il permesso di stare qui'.}
 {143}{}{Ok. Me capisce.}

@@ -151,7 +151,7 @@
 {250}{}{Sei messo male. Fatti aiutare.}
 {251}{hak102}{Figlio della Natura, come abbiamo potuto mettere un tale fardello sulle tue spalle? (sigh) La tua gente e' stata presa.}
 {252}{}{Uhh?}
-{253}{hak103}{Si'. Andata. Molte anime oscure sono venute, guidando gli uccelli metallici come uno stormo di locuste affamate, nascondendo la loro malvagita' in corazze brillanti.}
+{253}{hak103}{Si'. Andata. Molte anime oscure sono venute, guidando gli uccelli metallici come uno stormo di locuste affamate, nascondendo la loro malvagita' in corazze brillanti. }
 {254}{}{Ooo! Bello brillante!}
 {255}{hak104}{No! Non belle brillanti! Hanno rapito la nostra gente e l'hanno portata a sudovest.}
 {256}{}{Ow.}

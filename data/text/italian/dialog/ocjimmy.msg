@@ -3,7 +3,7 @@
 {102}{}{Vedi un uomo alto e dinoccolato che indossa degli occhiali spessi. Parla da solo girando per la stanza e la sua fronte e' corrugata in profondi pensieri.}
 {103}{}{Oh, salve. Io sono Jim, o Jimmy. Cosa ci fai qui?}
 {104}{}{Me guarda intorno.}
-{105}{}{Me }
+{105}{}{Me}
 {106}{}{Uh... Me gironzola. Me va ora.}
 {107}{}{Stavo solo dando un'occhiata in giro.}
 {108}{}{Ciao, Jim. Io sono }

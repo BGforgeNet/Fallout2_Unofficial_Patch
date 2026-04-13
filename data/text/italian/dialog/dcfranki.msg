@@ -19,7 +19,7 @@
 {166}{}{Oppure cosa?}
 {167}{}{Fa' il tuo lavoro e dammi da bere.}
 {168}{}{Me ne andro', invece.}
-{169}{}{Per il whiskey sono }
+{169}{}{Il whisky costa $}
 {170}{}{ al bicchiere.}
 {171}{}{Eccoti i soldi.}
 {172}{}{Scordatelo! E' troppo!}

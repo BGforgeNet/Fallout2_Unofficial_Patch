@@ -12,7 +12,7 @@
 {111}{}{Senza offesa, ma... quanto intelligente sei?}
 {112}{}{Beh, passavo un po' il tempo.}
 {113}{}{Io Thearn. Chi tu?}
-{114}{}{Me }
+{114}{}{Me}
 {115}{}{Me va.}
 {116}{}{Devo andare.}
 {117}{}{E' un piacere conoscerti, Thearn. Io sono }

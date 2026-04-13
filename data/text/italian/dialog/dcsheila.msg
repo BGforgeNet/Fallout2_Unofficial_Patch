@@ -60,7 +60,7 @@
 {210}{}{Ci vediamo.}
 {211}{}{Addio.}
 {212}{}{Bye bye.}
-{213}{}{Una 'seduta' ti costera' }
+{213}{}{Una 'seduta' ti costera' $}
 {214}{}{ per una prestazione. Paga prima.}
 {215}{}{Seguimi.}
 {216}{}{Sto aspettando.}

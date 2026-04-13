@@ -11,7 +11,7 @@
 {110}{}{Qual e' il tuo nome?}
 {111}{}{Hhhh....I...Jei...K...Lelle...}
 {112}{}{?}
-{113}{}{Me }
+{113}{}{Me}
 {114}{}{-Allontanati-}
 {115}{}{di Arroyo.}
 {116}{}{Harry}
@@ -45,7 +45,7 @@
 {144}{}{Che cosa intendi? Consideri come parte del seguito anche gli incontri speciali oppure sono da intendersi come eventi particolari?}
 {145}{}{Che cosa intendi? PNG alleati o PNG nemici?}
 {146}{}{Quanto peso puo' trasportare una persona con forza pari a sei supponendo che abbia anche la strenna Schiena Robusta?}
-{147}{}{Non saprei dirlo. }
+{147}{}{Non saprei dirlo.}
 {148}{}{Uh...duecento libbre?}
 {149}{}{Uh...duecentoventicinque libbre?}
 {150}{}{Uh...duecentocinquanta libbre?}
@@ -54,7 +54,7 @@
 {153}{}{Uh...trecentoventicinque libbre?}
 {154}{}{Quanti livelli di Schiena Robusta ha questa persona?}
 {155}{}{Qual e' il requisito minimo per la strenna Tasche Rapide?}
-{156}{}{Non saprei dirlo. }
+{156}{}{Non saprei dirlo.}
 {157}{}{Uh...cinque di forza?}
 {158}{}{Uh...cinque di agilita'?}
 {159}{}{Uh...sei di agilita'?}

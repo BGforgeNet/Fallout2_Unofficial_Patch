@@ -2,7 +2,7 @@
 {101}{}{Vedi Goris lo studioso.}
 {102}{}{Vedi una figura umanoide che indossa un saio con le maniche lunghe e il cappuccio. La sua postura ha un qualcosa di innaturale, ma non riesci a capire bene cosa.}
 {103}{}{Salve, il mio nome e' Goris. Non ti riconosco; sei nuovo di qui?}
-{104}{}{Me }
+{104}{}{Me}
 {105}{}{Me va.}
 {106}{}{Si', e allora?}
 {107}{}{Piacere. Io sono }

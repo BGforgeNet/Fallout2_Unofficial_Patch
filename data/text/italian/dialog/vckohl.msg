@@ -39,7 +39,7 @@
 {138}{}{Per oggi niente, grazie.}
 {139}{}{Un GECK? Questo nome mi suona familiare. Che cosa fa, esattamente?}
 {140}{}{Veramente... non lo so nemmeno io. A sentire quello che dice l'Anziana del mio villaggio, dovrebbe essere una specie di panacea per il mio villaggio. Io sono un po' piu' scettico. }
-{141}{}{Non saprei dirlo. }
+{141}{}{Non saprei dirlo.}
 {142}{}{Posso farle qualche altra domanda?}
 {143}{}{Lasciamo perdere. Magari sara' per un'altra volta.}
 {144}{}{Il Vault? Beh, l'entrata si trova proprio alla fine della strada... e' quel grande foro nel fianco della montagna.}
