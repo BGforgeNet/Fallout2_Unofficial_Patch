@@ -126,7 +126,7 @@
 {225}{}{Voglio che tu stia qua finche' non ritorno.}
 {226}{}{Stammi vicino.}
 {227}{}{Non allontanarti troppo.}
-{228}{}{Dovremmo distanziarci un po'.}
+{228}{}{Dovremmo distanziarci un po'}
 {229}{}{Andiamo.}
 {230}{}{E' tutto, per ora.}
 {231}{}{Riduco la distanza tra noi, padrone.}

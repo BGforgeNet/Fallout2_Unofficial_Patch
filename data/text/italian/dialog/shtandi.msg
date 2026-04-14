@@ -42,7 +42,7 @@
 {141}{}{Me ha domande.}
 {142}{}{D'accordo. Vado.}
 {143}{}{Vorrei farvi alcune domande.}
-{144}{tand7a}{Beh, ho poco tempo da dedicarti. }
+{144}{tand7a}{Beh, ho poco tempo da dedicarti.}
 {145}{tand7b}{Che cosa vuoi sapere?}
 {146}{}{Cosa tu dire di Vault 15?}
 {147}{}{Tu no fare accordo con 'busivi?}

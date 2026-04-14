@@ -103,14 +103,14 @@
 {653}{}{La puntata sull'8...}
 {654}{}{La puntata sul 9...}
 {655}{}{La puntata sul 10...}
-{660}{}{La puntata sul Field (2) vince il doppio. }
-{661}{}{La puntata sul Field (3) vince. }
-{662}{}{La puntata sul Field (4) vince. }
-{663}{}{La puntata sul Field (9) vince. }
-{664}{}{La puntata sul Field (10) vince. }
-{665}{}{La puntata sul Field (11) vince. }
-{666}{}{La puntata sul Field (12) vince il triplo. }
-{667}{}{La puntata sul Field perde. }
+{660}{}{La puntata sul Field (2) vince il doppio.}
+{661}{}{La puntata sul Field (3) vince.}
+{662}{}{La puntata sul Field (4) vince.}
+{663}{}{La puntata sul Field (9) vince.}
+{664}{}{La puntata sul Field (10) vince.}
+{665}{}{La puntata sul Field (11) vince.}
+{666}{}{La puntata sul Field (12) vince il triplo.}
+{667}{}{La puntata sul Field perde.}
 {670}{}{Puntata semplice sul 4}
 {671}{}{Puntata semplice sul 5}
 {672}{}{Puntata semplice sul 6}

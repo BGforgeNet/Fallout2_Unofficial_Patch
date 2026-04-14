@@ -80,12 +80,12 @@
 {350}{}{Una volta che sara' cominciata la marchiatura degli schiavi, puoi anche tornare, se vuoi. E' necessario un addestramento speciale, per cui non provare a catturare gli altri da solo. Puoi fare tutto quello che vuoi, purche' le tue azioni non danneggino la merce.}
 {351}{}{Okay.}
 {352}{}{Ah-a.}
-{360}{}{Ah, certo. E' piuttosto carina. Ti daro' }
-{361}{}{Mi pare in salute. Potrei togliertelo dai piedi per, oh, diciamo }
+{360}{}{Ah, si'. E' piuttosto carina. Ti daro' $}
+{361}{}{Si', non e' male. Potrei anche toglierlo dalle tue mani per, uh… diciamo $}
 {362}{}{Fottuto idiota. Cosa diavolo ti fa pensare che io possa volere indietro quell'imbecille? Ci ha impiegato secoli solo per riparare una dannata ricetrasmittente! Una ricetrasmittente! Tientelo. Non lo voglio piu' vedere qui in giro a spaccare qualcos'altro.}
-{363}{}{Non so, questo mi pare un tantino troppo pelle e ossa... e' intelligente, dici? Forse potrebbe valere qualcosa. Ti daro' }
-{364}{}{Questo sembra proprio essere un buon combattente. Hmm... }
-{365}{}{Un altro primitivo. E questo sembra pure un fenomeno da baraccone. Tuttavia, sembra forte e questo aspetto potrebbe dargli un valore extra. }
+{363}{}{Non so, questo mi pare un tantino troppo pelle e ossa... e' intelligente, dici? Forse potrebbe valere qualcosa. Ti daro' $}
+{364}{}{Questo sembra proprio essere un buon combattente. Hmm... $}
+{365}{}{Un altro primitivo. E questo sembra pure un fenomeno da baraccone. Tuttavia, sembra forte e questo aspetto potrebbe dargli un valore extra. $}
 {366}{}{Che ne diresti se ti vendessi qualcos'altro?}
 {367}{}{Beh, allora vorrei farti un'altra domanda.}
 {368}{}{Okay.}
@@ -117,9 +117,9 @@
 {444}{}{Posso vederlo?}
 {445}{}{Perche' lo trattieni qui?}
 {446}{}{Okay, grazie. Ci vediamo.}
-{455}{}{Quello stronzo - mi ha venduto una ricetrasmittente che, a suo dire, mi avrebbe permesso di intercettare certe trasmissioni. Beh, non lo faceva. L'ho beccato mentre cercava di sgattaiolare fuori citta' prima che me ne accorgessi. Madornale errore. Nessuno puo' fregarmi. E' fortunato ad essere ancora vivo. }
-{456}{}{Come ti ho gia' detto, deve prima riparare una cosa. Dopo di che... vedremo. }
-{457}{}{Beh, finalmente e' riuscito a far funzionare quella dannata radio, ma questo non vuol dire che lo lascero' andar via cosi' facilmente. }
+{455}{}{Quello stronzo - mi ha venduto una ricetrasmittente che, a suo dire, mi avrebbe permesso di intercettare certe trasmissioni. Beh, non lo faceva. L'ho beccato mentre cercava di sgattaiolare fuori citta' prima che me ne accorgessi. Madornale errore. Nessuno puo' fregarmi. E' fortunato ad essere ancora vivo.}
+{456}{}{Come ti ho gia' detto, deve prima riparare una cosa. Dopo di che... vedremo.}
+{457}{}{Beh, finalmente e' riuscito a far funzionare quella dannata radio, ma questo non vuol dire che lo lascero' andar via cosi' facilmente.}
 {458}{}{Ha pur sempre cercato di fottermi.}
 {459}{}{Posso vederlo?}
 {460}{}{Di che tipo di trasmissioni stai parlando?}
@@ -132,7 +132,7 @@
 {485}{}{Quelle provenienti dall'Enclave e da New... ehi. Cazzo te ne frega? Questioni di affari. Ho bisogno di sapere se c'e' qualcuno che cerca di fottermi. Questo e' tutto quello che ti serve sapere.}
 {486}{}{Fatti gli affari tuoi.}
 {487}{}{Okay.}
-{495}{}{Certo, ma ti costera' }
+{495}{}{Certo, ma ti costera' $}
 {496}{}{$}
 {497}{}{Non possiamo metterci d'accordo in un altro modo?}
 {498}{}{Okay. Ecco.}
@@ -148,18 +148,18 @@
 {524}{}{Magari piu' tardi.}
 {530}{}{Oh, puoi starne certa.}
 {531}{}{Bene.}
-{540}{}{Ecco }
-{541}{}{Ecco i tuoi }
-{542}{}{Hai fatto un buon lavoro. Ecco }
+{540}{}{Ecco $}
+{541}{}{Ecco i tuoi $}
+{542}{}{Hai fatto un buon lavoro. Ecco $}
 {543}{}{Ecco i tuoi soldi, }
 {544}{}{$}
-{545}{}{Bene, stavolta sono }
-{546}{}{Non e' stata molto dura, no? La prossima volta niente errori. Ecco }
+{545}{}{Bene, stavolta sono $}
+{546}{}{Non e' stata molto dura, no? La prossima volta niente errori. Ecco $}
 {547}{}{$}
-{548}{}{E dai! }
-{549}{}{Ricorda: guarda le spalle agli altri schiavisti e uccidi solo gli schiavi ostili. Ecco }
-{550}{}{Solo }
-{551}{}{Hai intenzione di fare soldi o no? Mi stai facendo incazzare. Quanto potra' mai essere difficile? Adesso prendi i tuoi }
+{548}{}{E dai! $}
+{549}{}{Ricorda: guarda le spalle agli altri schiavisti e uccidi solo gli schiavi ostili. Ecco $}
+{550}{}{Solo $}
+{551}{}{Hai intenzione di fare soldi o no? Mi stai facendo incazzare. Quanto potra' mai essere difficile? Adesso prendi i tuoi $}
 {552}{}{Quale cazzo e' il tuo problema? Non guadagni un cazzo, stavolta. Siamo qui per fare soldi, non per cazzeggiare.}
 {553}{}{La prossima volta faro' meglio.}
 {554}{}{Che generosita'...}
@@ -227,7 +227,7 @@
 {1540}{}{$. Un lavoro niente male.}
 {1541}{}{$. Sei stato grande. Continua cosi'.}
 {1542}{}{.}
-{1543}{}{, }
+{1543}{}{. $}
 {1544}{}{ Non c'e' molto da sorridere, ma non potevi pretendere di piu'.}
 {1545}{}{ per stavolta. Bel lavoro.}
 {1546}{}{.}

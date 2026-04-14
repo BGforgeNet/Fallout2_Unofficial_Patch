@@ -15,7 +15,7 @@
 {114}{}{Oooo! Un luccichino. Me va.}
 {115}{}{Ehi, qui le domande le faccio io.}
 {116}{}{Devo andare.}
-{117}{}{Felice di conoscerti, io sono }
+{117}{}{Felice di conoscerti, io sono}
 {118}{}{Capito.}
 {119}{}{Al momento controllo questa zona del vault per impedire il passaggio al personale non autorizzato.}
 {120}{}{Persona leno n'auto rizza toh?}
@@ -38,7 +38,7 @@
 {137}{}{Me sa. Me solo messo te a prova. Uh... tu passato.}
 {138}{}{Sentito qualcuno me chiamare. Me va.}
 {139}{}{Capisco. Riproviamoci, allora. Salve. Io sono Valdis. Qual e' il tuo nome?}
-{140}{}{Me }
+{140}{}{Me}
 {141}{}{Addio.}
 {142}{}{Personale non autorizzato. In parole povere 'persone che non hanno il permesso di stare qui'.}
 {143}{}{Ok. Me capisce.}

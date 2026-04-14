@@ -99,7 +99,7 @@
 {415}{}{La sto ancora cercando.}
 {416}{}{Non ho voglia di parlarne.}
 {417}{}{Devi sbrigarti. Qui le cose vanno sempre peggio. Presto ci sara' poco cibo e l'Anziana sta pensando di razionare quello che abbiamo. Temo per il futuro di Arroyo.}
-{418}{}{Prescelto! Per favore, dimmi che hai portato a termine la tua missione. Il nostro villaggio sta morendo, cosi' come la nostra gente.}
+{418}{}{Prescelto! Per favore, dimmi che hai portato a termine la tua missione. Il nostro villaggio sta morendo, cosi' come la nostra gente. }
 {419}{}{No, me ancora cercare.}
 {420}{}{No, sto ancora cercando.}
 {421}{}{Come vanno le cose?}

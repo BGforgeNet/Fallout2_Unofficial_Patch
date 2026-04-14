@@ -21,7 +21,7 @@
 {120}{}{Cos'e' l'Enclave, esattamente?}
 {121}{}{Come si fa a far partire questa nave?}
 {122}{}{Addio.}
-{123}{}{Come si fa a far partire questa nave? Riempila con un po' di carburante - prova dagli Hubologisti o dagli Shi, dopo che ti sarai occupato delle altre cose - e premi il pulsante d'avviamento. Il computer si occupera' del resto, se funziona ancora. Si dirigera' esattamente verso la piattaforma petrolifera, e grazie all'emettitore di segnali SIAN non verrai accolto a cannonate. Devi solo fare in modo di avere tutto quel che ti serve: un FOB, un computer funzionante, e il carburante. Piuttosto facile, no? }
+{123}{}{Come si fa a far partire questa nave? Riempila con un po' di carburante - prova dagli Hubologisti o dagli Shi, dopo che ti sarai occupato delle altre cose - e premi il pulsante d'avviamento. Il computer si occupera' del resto, se funziona ancora. Si dirigera' esattamente verso la piattaforma petrolifera, e grazie all'emettitore di segnali SIAN non verrai accolto a cannonate. Devi solo fare in modo di avere tutto quel che ti serve: un FOB, un computer funzionante, e il carburante. Piuttosto facile, no?}
 {124}{}{Gia'... Come fai a sapere tutte queste cose?}
 {125}{}{Cosa sono un emettitore di segnali SIAN e un FOB?}
 {126}{}{Quale piattaforma petrolifera?}
@@ -50,7 +50,7 @@
 {149}{}{Capisco. Com'e' che faccio a far partire questa nave?}
 {150}{}{Grazie. Ciao.}
 {151}{}{Hai fatto un grave errore a metterti contro il Capitano e i suoi amici...}
-{152}{}{Come si fa a far partire questa nave? Beh, vedo che le hai gia' fatto il pieno. Quando ti sarai occupato di tutto il resto, basta che tu prema il pulsante d'avviamento. Il computer fara' il resto, se funziona ancora. Si dirigera' esattamente verso la piattaforma petrolifera, e grazie all'emettitore di segnali SIAN non verrai accolto a cannonate. Devi solo fare in modo di avere tutto quel che ti serve: un FOB, un computer funzionante, e il carburante. Piuttosto facile, no? }
+{152}{}{Come si fa a far partire questa nave? Beh, vedo che le hai gia' fatto il pieno. Quando ti sarai occupato di tutto il resto, basta che tu prema il pulsante d'avviamento. Il computer fara' il resto, se funziona ancora. Si dirigera' esattamente verso la piattaforma petrolifera, e grazie all'emettitore di segnali SIAN non verrai accolto a cannonate. Devi solo fare in modo di avere tutto quel che ti serve: un FOB, un computer funzionante, e il carburante. Piuttosto facile, no?}
 {153}{}{Ah, certo. Devi anche mettere in funzione il computer di navigazione. Scommetto che troverai il pezzo che ti serve in uno dei vecchi vault.}
 {154}{}{Mi fa piacere rivederti. Che cosa ti serve?}
 {155}{}{, e a meno che non mi sbagli, e' li' che si trovano anche i tuoi amici.}

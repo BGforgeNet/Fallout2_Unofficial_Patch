@@ -45,7 +45,7 @@
 {195}{}{Grande!}
 {196}{}{OK, abbiamo finito. Ciao.}
 {197}{}{Tutto qui?}
-{198}{}{OK. Ciao.}
+{198}{}{OK. Ciao}
 {199}{}{E' stato bello.}
 {200}{}{Bye bye.}
 {201}{}{Non mi pagano abbastanza.}
@@ -60,7 +60,7 @@
 {210}{}{Ci vediamo.}
 {211}{}{Addio.}
 {212}{}{Bye bye.}
-{213}{}{Una 'seduta' ti costera' }
+{213}{}{Una 'seduta' ti costera' $}
 {214}{}{ per una prestazione. Paga prima.}
 {215}{}{Seguimi.}
 {216}{}{Sto aspettando.}

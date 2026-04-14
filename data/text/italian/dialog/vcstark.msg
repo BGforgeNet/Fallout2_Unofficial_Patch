@@ -12,8 +12,8 @@
 {111}{}{Un ghoul! Guardie!}
 {112}{}{Devo redigere queste liste di munizioni...}
 {113}{}{Domani devo controllare gli armadietti delle armi, giu' nel Vault...}
-{114}{}{Forse passare qualche giorno in cella ti insegnera' a comportarti bene. }
-{115}{}{E RIMARRAI in quella cella finche' il Primo Cittadino non ti avra' perdonato. }
+{114}{}{Forse passare qualche giorno in cella ti insegnera' a comportarti bene.}
+{115}{}{E RIMARRAI in quella cella finche' il Primo Cittadino non ti avra' perdonato.}
 {116}{}{Sono spiacente, Cittadino, ma a nessuno e' permesso entrare nel Centro Correttivo dopo il tramonto. Ritorni domattina.}
 {117}{}{E' cominciato il coprifuoco. Che cosa ci fai ancora in citta'?}
 {118}{}{Yah!}
@@ -217,9 +217,9 @@
 {316}{}{Nessun problema. Ho gia' esplorato quella zona.}
 {317}{}{D'accordo. Tornero' quando avro' esplorato la zona.}
 {318}{}{Ripensandoci: non contate su di me. Addio.}
-{319}{}{Se i ghoul continuano ad avvelenare le falde acquifere, potremmo essere costretti ad intraprendere un'azione militare contro di loro. }
-{320}{}{Voglio vedere quali danni ha causato l'esplosione della centrale in quella zona. }
-{321}{}{Potremmo essere costretti ad intraprendere un'azione militare contro di loro, in futuro... soprattutto nel caso in cui ricominciassero ad avvelenare le falde acquifere. }
+{319}{}{Se i ghoul continuano ad avvelenare le falde acquifere, potremmo essere costretti ad intraprendere un'azione militare contro di loro.}
+{320}{}{Voglio vedere quali danni ha causato l'esplosione della centrale in quella zona.}
+{321}{}{Potremmo essere costretti ad intraprendere un'azione militare contro di loro, in futuro... soprattutto nel caso in cui ricominciassero ad avvelenare le falde acquifere.}
 {322}{}{Ora: lo vuoi il lavoro o no?}
 {323}{}{Si'. Pero' io ho gia' esplorato la zona.}
 {324}{}{Accetto. Faro' rapporto non appena avro' portato a termine la missione.}

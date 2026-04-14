@@ -21,8 +21,8 @@
 {120}{}{Come hai fatto ad entrare in citta'? Guardie! C'e' qui un Esterno che dev'essere scortato al cancello!}
 {121}{}{Me va no ME VA NO}
 {122}{}{Ahhh... Favoe no va? Me fare buono}
-{123}{}{Certamente, Capitano. }
-{124}{}{Certamente, Cittadino. }
+{123}{}{Certamente, Capitano.}
+{124}{}{Certamente, Cittadino.}
 {125}{}{Cosa vuole sapere?}
 {126}{}{Lei di cosa si occupa?}
 {127}{}{Sto cercando un Kit di Creazione del Giardino dell'Eden.}
@@ -119,7 +119,7 @@
 {218}{}{Posso farti un'altra domanda?}
 {219}{}{Grazie delle risposte. Arrivederci.}
 {220}{}{La vita si e' fatta dura, in questi ultimi due anni. Il governo di NCR si e' fatto piu' aggressivo che mai nei suoi tentativi di annettere Vault City alla Repubblica.}
-{221}{}{Ci mandano a dire che se ci unissimo a loro ci difenderebbero dagli assalti effettuati dai predoni contro la nostra citta'. E ultimamente questi assalti si sono fatti piu' violenti. }
+{221}{}{Ci mandano a dire che se ci unissimo a loro ci difenderebbero dagli assalti effettuati dai predoni contro la nostra citta'. E ultimamente questi assalti si sono fatti piu' violenti.}
 {222}{}{E, come se non bastasse, i ghoul di Gecko contaminano le nostre falde acquifere.}
 {223}{}{Dove si trova Gecko?}
 {224}{}{Cos'e' Gecko?}
@@ -216,8 +216,8 @@
 {315}{}{Mi basterebbe avere accesso al computer di Vault City. In questo modo sarei in grado di ottimizzare i dati sul disco del reattore e potrei far funzionare meglio la centrale.}
 {316}{}{Non ho obiezioni da fare alla sua proposta. Se riesce a trovare un modo per ottimizzare la centrale, me lo faccia sapere.}
 {317}{}{D'accordo. Prima di tutto andro' da Randal a ritirare il dispositivo e poi cerchero' di riparare il reattore.}
-{318}{}{Molto bene, Capitano. }
-{319}{}{Molto bene, Cittadino. }
+{318}{}{Molto bene, Capitano.}
+{319}{}{Molto bene, Cittadino.}
 {320}{}{Ha il mio permesso di usare il computer del Vault e di ottimizzare il disco del reattore. Il mainframe si trova nel terzo livello del Vault, vicino al centro operativo.}
 {321}{}{Magnifico. Grazie, Senatore. Ci vado subito.}
 {322}{}{Ho fatto. Ecco a lei.}

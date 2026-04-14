@@ -11,7 +11,7 @@
 {110}{}{Ehi, Eric e' davvero felice nella sua bella casa fresca. E mi piace notare come non ci siano stati blackout, in citta'.}
 {111}{}{Sono andato a parlare con Eric e mi ha detto che una volta era lui che gestiva questo posto. Mi ha detto anche che c'e' talmente tanta energia nelle pepite di uranio che non si notera' nemmeno il piccolo surplus di energia che richiede per la sua casa. Percio' sputa fuori l'energia.}
 {112}{}{Nulla. Arrivederci.}
-{113}{}{Io? Io sono Brian. Mi occupo del generatore che da' energia a questo posto. }
+{113}{}{Io? Io sono Brian. Mi occupo del generatore che da' energia a questo posto.}
 {114}{}{Allora tu sei il tizio con cui devo parlare. Eric dice che casa sua e' diventata invivibile e che ha bisogno di piu' energia per il suo sistema di condizionamento dell'aria.}
 {115}{}{Capisco. Molto interessante. Dev'essere un lavoro appagante.}
 {116}{}{Ottimo. Ho delle altre domande.}

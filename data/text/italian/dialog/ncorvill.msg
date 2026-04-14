@@ -115,7 +115,7 @@
 {451}{}{Adesso BASTA! Non ne posso piu' delle tue stronzate. Adesso raggiungerai quel drogato di tuo figlio all'inferno.}
 {453}{}{Esci subito di qui.}
 {465}{}{Capita che, non troppo tempo fa, io sia entrato in possesso di una mappa che indica la posizione di una vecchia base dell'esercito nelle montagne, non lontano da qui. Trova il modo per entrarci e io sapro' ricompensarti…}
-{466}{}{Okee Signor Orderville }
+{466}{}{Okee Signor Orderville}
 {467}{}{ va. }
 {468}{}{D'accordo. Andro' a controllare.}
 {469}{}{Perche' dovrei andarci io? Non ha gia' mandato qualcuno?}

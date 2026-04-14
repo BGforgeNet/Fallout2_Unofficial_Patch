@@ -77,7 +77,7 @@
 {3900}{}{Cella a Micro-Fusione}
 {3901}{}{Un'unita' di produzione d'energia di medie dimensioni. Centrale a fusione autonoma.}
 {4000}{}{Stimpak}
-{4001}{}{Un farmaco curativo. Quando iniettato, il farmaco assicura l'immediata guarigione di piccole ferite. }
+{4001}{}{Un farmaco curativo. Quando iniettato, il farmaco assicura l'immediata guarigione di piccole ferite.}
 {4100}{}{Soldi}
 {4101}{}{Valuta corrente nel mondo delle Lande.}
 {4200}{}{Frigo}
@@ -704,7 +704,7 @@
 {35901}{}{Munizioni. Calibro: 4.7mm, senza bossolo.}
 {36000}{}{9mm}
 {36001}{}{Munizioni. Calibro: 9mm.}
-{36100}{}{Cartuccia per SparaAghi HN }
+{36100}{}{Cartuccia per SparaAghi HN}
 {36101}{}{Munizioni. Questa cartuccia sembra essere la munizione per la pistola sparaaghi. Ogni "proiettile" e' una piccola siringa ipodermica progettata per iniettare il suo contenuto nel bersaglio al momento dell'impatto.}
 {36200}{}{Cartuccia per SparaAghi HN AP}
 {36201}{}{Munizioni. Questa cartuccia sembra essere la munizione perfora armature (AP) per la pistola sparaaghi HN. Le punte delle ipodermiche sono fatte con una strana lega e sono incredibilmente appuntite.}

@@ -43,8 +43,8 @@
 {221}{}{Torr amico.}
 {222}{}{Sono felice d'esser stato d'aiuto.}
 {223}{}{Non si era parlato di una ricompensa?}
-{230}{}{Beh, grazie. Credo che tu abbia bisogno di qualcuno con un po' di sale in zucca che ti faccia da balia - un compagno d'avventure. Parlero' con Maida per convincerla a liberare Sulik. }
-{231}{}{Beh, non so proprio cosa fare per ringraziarti. }
+{230}{}{Beh, grazie. Credo che tu abbia bisogno di qualcuno con un po' di sale in zucca che ti faccia da balia - un compagno d'avventure. Parlero' con Maida per convincerla a liberare Sulik.}
+{231}{}{Beh, non so proprio cosa fare per ringraziarti.}
 {232}{}{Torr amico }
 {233}{}{Non e' necessario ringraziarmi. C'era bisogno d'aiuto e io mi trovavo qui...}
 {234}{}{Beh, del denaro e' sempre un bel modo per dire grazie.}

@@ -14,7 +14,7 @@
 {113}{}{Vedi un'immagine formata da vari puntini rossi, verdi e blu che compongono una figura...}
 {114}{}{C'e' un viso abominevole che ti guarda dall'altra parte dello schermo. Oh, aspetta, questo terminale e' spento.}
 {115}{}{Questo schermo e' una finestra aperta su di una dimensione oscura che trascende lo spazio e il tempo.}
-{116}{}{Questo terminale sta visualizzando una scritta: "Finestre '98: Caricamento in Corso..." Il terminale e' ricoperto da uno spesso strato di polvere. }
+{116}{}{Questo terminale sta visualizzando una scritta: "Finestre '98: Caricamento in Corso..." Il terminale e' ricoperto da uno spesso strato di polvere.}
 {117}{}{Questo terminale sembra essere un terminale di marca Apricot. Sta eseguendo qualcosa chiamato Fallout 3. Wow, sembra che sia multiplayer e in 3D.}
 {118}{}{Inserire ID Utente:}
 {119}{}{(Proviamo cosi') Elenco utenti.}
@@ -37,8 +37,8 @@
 {137}{}{Sicurezza - Situazione.}
 {138}{}{Ritornare a ID utente:}
 {139}{}{Scegliere: }
-{140}{}{Livello di Sicurezza: Stato Attuale,}
-{141}{}{Divisione Chimica: Rapporto sullo Stato del Progetto,}
+{140}{}{Livello di Sicurezza: Stato Attuale, }
+{141}{}{Divisione Chimica: Rapporto sullo Stato del Progetto, }
 {142}{}{C. E. A. : Gestione Centrale Atomica, }
 {143}{}{Stato della sicurezza?}
 {144}{}{Livello di Sicurezza: Stato Attuale}
@@ -49,8 +49,8 @@
 {149}{}{Scegliere: }
 {150}{}{Stato della Nazione: Situazione Attuale, }
 {151}{}{Lista di Parole, }
-{152}{}{Livello di Sicurezza: Stato Attuale,}
-{153}{}{Divisione Chimica: Rapporto sullo Stato del Progetto,}
+{152}{}{Livello di Sicurezza: Stato Attuale, }
+{153}{}{Divisione Chimica: Rapporto sullo Stato del Progetto, }
 {154}{}{C. E. A. : Gestione Centrale Atomica, }
 {155}{}{Stato della sicurezza?}
 {156}{}{Stato della Nazione: Situazione Attuale}

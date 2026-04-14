@@ -71,12 +71,12 @@
 {208}{}{Ecclnt}
 {209}{}{Eroico}
 {300}{editor}{Punti Vita}
-{301}{}{Punti Azione}
+{301}{}{Punti Azione }
 {302}{editor}{Classe Armatura}
 {303}{}{Danno Corpo-a-Corpo}
 {304}{}{Danno in Mischia}
-{305}{}{Res. al Danno }
-{306}{}{Res. al Veleno}
+{305}{}{Res. al Danno  }
+{306}{}{Res. al Veleno   }
 {307}{}{Res. a Radiaz.}
 {308}{editor}{Sequenza}
 {309}{editor}{Tasso di Guarigione}

@@ -226,7 +226,7 @@
 {768}{}{Tu non sei il mio capo! Io voglio fottere, il cazzo e' mio, quindi preparatevi tutti a girare questo cazzo di film. ADESSO!}
 {769}{}{Tu non sei il mio capo! Io voglio fottere, la figa e' mia, quindi preparatevi tutti a girare questo cazzo di film. ADESSO!}
 {770}{}{D'accordo. Tornero' quando mi saro', ehm, calmato un po'.}
-{780}{}{I Fratelli Corsican al vostro servizio... (L'uomo alza lo sguardo, sconvolto, poi ti guarda nuovamente.) Cristo... }
+{780}{}{I Fratelli Corsican al vostro servizio... (L'uomo alza lo sguardo, sconvolto, poi ti guarda nuovamente.) Cristo...}
 {781}{}{Me no perte! Me vince!}
 {782}{}{Niente.}
 {783}{}{Cos'e' questo posto?}

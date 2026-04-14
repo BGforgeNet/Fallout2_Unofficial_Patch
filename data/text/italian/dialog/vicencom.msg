@@ -1,5 +1,5 @@
 {100}{}{Vedi un terminale di computer. Sta eseguendo un qualche tipo di programma diagnostico di routine.}
-{101}{}{Vedi il computer centrale di Vault City.}
+{101}{}{Vedi il computer centrale di Vault City. }
 {102}{}{Vedi un terminale di computer. Sta eseguendo un qualche tipo di programma diagnostico di routine.}
 {103}{}{Vedi una scatola di metallo che sta parlando con se stessa con voce femminile.}
 {104}{}{Vedi una scatola di metallo parlante.}
@@ -28,7 +28,7 @@
 {127}{}{Sistemi di Ventilazione 3A... 3B... 3C... 3D... 3E... funzionano al massimo dell'efficienza.}
 {128}{}{Temperatura e umidita' all'interno del Vault si trovano a valori entro la norma.}
 {129}{}{Sistema di Alimentazione...}
-{130}{}{Tutti i livelli energetici si trovano a valori entro la norma.}
+{130}{}{Tutti i livelli energetici si trovano a valori entro la norma. }
 {131}{}{La modalita' risparmio energetico per i livelli due e tre rimane attiva.}
 {132}{}{Attenzione: La porta d'entrata al Vault e' aperta. In caso di emergenza, la porta sara' sigillata.}
 {133}{}{Tutti i valori normali. Diagnostica di Sistema completata. Preparazione a scrittura su disco...}
@@ -48,13 +48,13 @@
 {147}{}{Telecamere di Sicurezza... 1A... 1B... 1C... funzionano al massimo dell'efficienza.}
 {148}{}{Sistemi di Sicurezza... 2A... 2B... 2C... funzionano al massimo dell'efficienza.}
 {149}{}{Sistemi di Sicurezza... 3A... 3B... 3C... funzionano al massimo dell'efficienza.}
-{150}{}{Sistemi Ambientali...}
+{150}{}{Sistemi Ambientali... }
 {151}{}{Sistemi di Ventilazione 1A... 1B... funzionano al massimo dell'efficienza.}
 {152}{}{Sistemi di Ventilazione 2A... 2B... 2C... 2D... funzionano al massimo dell'efficienza.}
 {153}{}{Sistemi di Ventilazione 3A... 3B... 3C... 3D... 3E... funzionano al massimo dell'efficienza.}
 {154}{}{Temperatura e umidita' all'interno del Vault si trovano a valori entro la norma.}
 {155}{}{Sistema di Alimentazione...}
-{156}{}{Tutti i livelli energetici si trovano a valori entro la norma.}
+{156}{}{Tutti i livelli energetici si trovano a valori entro la norma. }
 {157}{}{La modalita' risparmio energetico per i livelli due e tre rimane attiva.}
 {158}{}{Attenzione: La porta d'entrata al Vault e' aperta. In caso di emergenza, la porta sara' sigillata.}
 {159}{}{Tutti i valori normali. Diagnostica di Sistema completata. Preparazione a scrittura su disco...}
@@ -120,7 +120,7 @@
 {219}{}{                             Riformattazione PipBoy in corso...}
 {220}{}{Ehi! Ridammi il mio dannato PipBoy!}
 {221}{}{Cancel! Cancel! }
-{222}{}{L'Archivio Geografico della California Settentrionale sta per essere copiato nel database del PipBoy.}
+{222}{}{L'Archivio Geografico della California Settentrionale sta per essere copiato nel database del PipBoy. }
 {223}{}{Copia dell'archivio in corso... Broken Hills... Gecko... New California Republic... New Reno... Redding... Vault City... Download completato.}
 {224}{}{Continua la ricerca negli archivi per altre informazioni.}
 {225}{}{Spegni il terminale.}

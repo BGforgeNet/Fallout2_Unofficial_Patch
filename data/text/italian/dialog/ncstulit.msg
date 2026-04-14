@@ -70,8 +70,8 @@
 {334}{}{[Ti allontani colmo di rabbia.]}
 {336}{}{[Te ne vai.]}
 {337}{}{(Diventa rosso.) }
-{340}{}{Un'altra possibilita'. A me va il 75%... e niente discussioni.}
-{341}{}{Un'altra possibilita'. A me va sempre il 75%... e niente discussioni.}
+{340}{}{Un'altra possibilita'. A me va il 75%... e niente discussioni. }
+{341}{}{Un'altra possibilita'. A me va sempre il 75%... e niente discussioni. }
 {342}{}{Ci sto. Sono pronto per combattere ancora. Fa' strada, Stuart.}
 {343}{}{Ci sto. Dammi un po' di tempo per riposarmi e saro' pronto per combattere ancora.}
 {344}{}{Non vale la pena soffrire cosi' tanto.}

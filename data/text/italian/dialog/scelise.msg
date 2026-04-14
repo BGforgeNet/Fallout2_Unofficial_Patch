@@ -43,7 +43,7 @@
 {142}{}{C'e' uno schiavista, subito fuori citta'. Forse hai visto casa sua. Libera gli schiavi che sono li' e poi torna a parlare con me.}
 {143}{}{Posso farlo.}
 {144}{}{Assolutamente no. Non voglio fare casino da queste parti.}
-{145}{}{Beh, e' il tuo giorno fortunato. }
+{145}{}{Beh, e' il tuo giorno fortunato.}
 {146}{}{Questo e' il tipo di comportamento che permette l'esistenza dell'atrocita' dello schiavismo . Mi dispiace, ma non c'e' posto per te nella nostra organizzazione.}
 {147}{}{Ok.}
 {148}{}{Allora, hai cambiato idea? Sei pronto a dimostrare il tuo valore?}

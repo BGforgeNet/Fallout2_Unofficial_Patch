@@ -52,12 +52,12 @@
 {151}{}{Capisco. Grazie. Arrivederci.}
 {152}{}{Ah, si'?! Ho visto alcuni dei tuoi film. Tuttavia non credo che questo sia il tuo vero nome... o sbaglio?}
 {153}{}{Certo che e' il mio vero nome.}
-{154}{}{No. Il mio vero nome e' }
+{154}{}{No. Il mio vero nome e'}
 {155}{}{Questo e' l'unico nome che ti serve sapere, vecchio.}
 {156}{}{Credo sia piuttosto improbabile. Buona giornata.}
 {157}{}{[FATTO]}
 {158}{}{Non dovresti sottovalutarmi in questo modo. So come funziona quel "mondo". Ho gia' visitato New Reno, in passato.}
-{159}{}{Okay, mi chiamo }
+{159}{}{Okay, mi chiamo}
 {160}{}{Questo e' il mio vero nome! Adesso lasciami parlare con l'Imperatore!}
 {161}{}{Eccellente. Ecco cos'e' che ti chiedo: c'e' una piccola base militare a nord di qui, chiamata Navarro. Ci sono molti vertibird, laggiu'. Abbiamo bisogno di progetti e di schemi tecnici per riuscire a costruirli anche noi. Portaceli e potrai incontrare l'Imperatore.}
 {162}{}{Va bene.}

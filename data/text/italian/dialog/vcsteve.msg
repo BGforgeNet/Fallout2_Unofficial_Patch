@@ -1,5 +1,5 @@
-{100}{}{Vedi un giovane cordiale. }
-{101}{}{Vedi Steve, Vice-Addetto all'Ufficio Accoglienza di Vault City. }
+{100}{}{Vedi un giovane cordiale.}
+{101}{}{Vedi Steve, Vice-Addetto all'Ufficio Accoglienza di Vault City.}
 {102}{}{Ha un'espressione distratta.}
 {103}{}{Salve e benvenuto a Vault City, la migliore citta' della Nuova California! Io sono Steve... come posso aiutarla?}
 {104}{}{Quest'area recintata e' la citta'?}

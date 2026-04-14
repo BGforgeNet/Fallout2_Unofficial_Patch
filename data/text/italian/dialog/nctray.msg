@@ -100,7 +100,7 @@
 {437}{}{Al diavolo. Ti faro' in talmente tanti pezzi che potrai metter su una macelleria.}
 {445}{}{(I suoi occhi scivolano lungo le curve del tuo corpo.) Non so se vali cosi' TANTO, donna. Stiamo pur sempre parlando di una HIGHWAYMAN...}
 {446}{}{Oh, certo che la valgo. E anche di piu'.}
-{455}{}{Chiamatemi pure pazzo... ma ci sto. Prima io mi diverto un po' e poi tu puoi pure portare quella Highwayman fuori di qui. }
+{455}{}{Chiamatemi pure pazzo... ma ci sto. Prima io mi diverto un po' e poi tu puoi pure portare quella Highwayman fuori di qui.}
 {456}{}{Diamoci dentro, allora.}
 {457}{}{Al diavolo i negoziati. Ridammi la MIA macchina, subito. Altrimenti...}
 {458}{}{Ho cambiato idea. Credo che ti uccidero' e basta.}
