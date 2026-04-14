@@ -124,7 +124,7 @@
 {378}{}{Cosi' puo' bastare. Sara' meglio rimettere in funzione quell'unita' RM&RR.}
 {379}{}{Dannazione, deve avermi tagliato fuori.}
 {380}{}{Regolatore Idroelettrico di Magnetosfera richiesto per dare inizio alla sequenza di Riparazione.}
-{381}{}{Iniziare Manutenzione del Sistema di Raffreddamento.}
+{381}{}{Iniziare Manutenzione del Sistema di Raffreddamento}
 {382}{}{Esci.}
 {390}{}{Regolatore Idroelettrico di Magnetosfera accettato. Scansione in corso... Lo strumento rientra nei limiti standard di qualita'... Trasferimento ad unita' di riparazione completato... Procedere?}
 {391}{}{Si'.}
@@ -181,8 +181,8 @@
 {522}{}{Gira a Sinistra.}
 {524}{}{Gira a Destra.}
 {526}{}{Vai Avanti.}
-{530}{}{Esegui Procedura: Installa Regolatore Idroelettrico di Magnetosfera.}
-{531}{}{Esegui Procedura: Posiziona Valvola Principale Sistema di Raffreddamento - Chiusa.}
+{530}{}{Esegui Procedura: Installa Regolatore Idroelettrico di Magnetosfera}
+{531}{}{Esegui Procedura: Posiziona Valvola Principale Sistema di Raffreddamento - Chiusa}
 {535}{}{Controllo Manuale d'Emergenza Unita' RM&RR:}
 {540}{}{Aggiungi un comando.}
 {541}{}{Visualizza programma.}

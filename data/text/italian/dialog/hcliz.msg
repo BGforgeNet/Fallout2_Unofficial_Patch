@@ -61,7 +61,7 @@
 {160}{}{Bene. Voglio qualcos'altro.}
 {161}{}{Vabbe'. Ci vediamo.}
 {162}{}{Se ti interessa davvero uccidere i mutanti, magari dovresti andare a parlare con Jacob, il farmacista.}
-{163}{}{Jacob, eh? Lo faro'}
+{163}{}{Jacob, eh? Lo faro'.}
 {164}{}{L'avevo pensato. Adesso vattene.}
 {165}{}{Bene.}
 {166}{}{In questo caso, imbocca il passaggio segreto che c'e' nel pavimento della mia stanza e raggiungi la fortezza. Ho un piccolo arsenale, la' sotto. Muoviti.}

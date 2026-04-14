@@ -122,7 +122,7 @@
 {400}{}{V'vuoi che c'combatta in modo d'diverso?}
 {401}{}{Vorrei che tu ti posizionassi ad una distanza diversa.}
 {402}{}{Vorrei che tu usassi la tua arma migliore.}
-{403}{}{Vorrei che tu indossassi la tua armatura migliore.}
+{403}{}{Vorrei che tu indossassi la tua armatura migliore}
 {404}{}{Vorrei che tu combattessi in modo diverso.}
 {405}{}{Nulla.}
 {410}{}{Q'quanto distante vuoi che mi m'metta? Sai che e' difficile per me s'starti dietro.}

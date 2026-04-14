@@ -54,7 +54,7 @@
 {315}{}{(Mordino rimane in silenzio per un momento, poi parla.) Io sono Jesus Mordino. Capo della famiglia Mordino. Tu sei venuto nel mio... casino'. Nella mia casa. Non mi hai mostrato... rispetto. IMPARERAI a non farlo mai piu'.}
 {316}{}{Credo che sarai TU ad imparare un paio di cose...}
 {317}{}{Whoa! Aspetta... parliamone! Dai, su...}
-{318}{}{[Fuggi in direzione della porta]}
+{318}{}{Corri verso la porta.}
 {319}{}{::Cerca un riparo, ed estrai le tue armi al rallentatore mentre i proiettili iniziano a volare in tutte le direzioni::}
 {325}{}{(Mordino aspetta. Mentre lo guardi, un'altra goccia di sudore scende su una guancia.)}
 {326}{}{Vorrei vendere degli schiavi...}
@@ -161,7 +161,7 @@
 {595}{}{Sei venuto da me per un lavoro. Io ti do un... lavoro e tu ti lamenti come un BAMBINO. (Prende un respiro profondo e poi tossisce.) Non... sei piu' il benvenuto... nel mio casino'. Vattene.}
 {596}{}{Sei venuto da me per un lavoro. E poi rifiuti la mia... offerta. (Prende un respiro profondo e poi tossisce.) Non... sei piu' il benvenuto... nel mio casino'. Vattene.}
 {597}{}{Prima che io vada, vorrei farti qualche domanda...}
-{598}{}{Non ho ancora finito di PARLARE con te, "Big Jesus".}
+{598}{}{Non ho ancora finito di PARLARE con te, "Big Jesus."}
 {599}{}{Voglia accettare le mie scuse, Senor Mordino. Me ne vado subito.}
 {600}{}{Perche' non mi sbatti fuori con le TUE mani?}
 {610}{}{Quest'uomo, Louis Salvatore... ha ucciso molti dei miei uomini... molti FIERI uomini della famiglia Mordino. Li ha... massacrati per strada come... cani. (La sua mano si stringe in un pugno.) E' mio desiderio che quest'uomo muoia.}

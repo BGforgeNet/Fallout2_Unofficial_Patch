@@ -112,8 +112,8 @@
 {460}{}{Mi hanno raccontato le tue imprese contro l'Enclave, }
 {462}{}{Bene, bene: }
 {463}{}{DAVVERO notevole. Credo che tu sia proprio la persona adatta a risolvere questo mio... problema. }
-{464}{}{Me ha problemi.}
-{465}{}{Solo tu potere prevenire incendi.}
+{464}{}{Me ha problemi}
+{465}{}{Solo tu potere prevenire incendi}
 {466}{}{-Allontanati-}
 {467}{}{Che tipo di problema?}
 {468}{}{No, non credo proprio. Sara' meglio che vada.}

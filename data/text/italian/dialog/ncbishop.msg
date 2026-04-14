@@ -63,17 +63,17 @@
 {328}{}{Non mi interessa. Si trovi qualcun altro.}
 {335}{}{Fermo. Non ho ancora FINITO di dirti tutto. Voglio vedere questo tipo morto, ma non deve SEMBRARE che sia stato freddato. Non ficcargli un proiettile nel cranio, non pugnalarlo a morte, non fare NULLA che possa assomigliare ad un assassinio.}
 {336}{}{Cosa? Come --}
-{337}{}{Questo le costera' un ex...}
+{337}{}{Questo ti costera' un be--}
 {338}{}{Perche'...?}
 {345}{}{Perche' e' cosi' che BISOGNA fare. Fa' che qualcuno laggiu' s'incazzi, fa' che qualcuno sospetti che io abbia QUALCOSA a che fare con la tirata di cuoia di quello stronzo, e sta' sicuro che faro' in modo che nessuno sia in grado di identificare il tuo cadavere.}
 {346}{}{Come diavolo dovrei fare ad uccidere qualcuno SENZA che sembri un assassinio?}
 {347}{}{Se lo scordi... non e' nel mio stile. Si trovi qualcun altro. Me ne vado.}
 {355}{}{Questo e' un TUO problema, selvaggio, non mio. Fa' qualche macumba, prepara delle piante velenose e versale nel suo drink, soffocalo nel sonno, spingilio giu' da un palazzo... non mi interessa. Solo fa' in modo che non sembri un assassinio.}
 {356}{}{D'accordo... te lo diro' un'altra volta nel caso in cui non fossi stato ASSOLUTAMENTE chiaro: deve sembrare un incidente, altrimenti non serve a niente.}
-{357}{}{Ho capito. Tornero' dopo che Westin avra' avuto il suo... "incidente".}
-{358}{}{L'avevo gia' CAPITO. Tornero' dopo che Westin avra' avuto il suo... "incidente".}
+{357}{}{Ho capito. Tornero' dopo che Westin avra' avuto il suo... "incidente."}
+{358}{}{L'avevo gia' CAPITO. Tornero' dopo che Westin avra' avuto il suo... "incidente."}
 {359}{}{Se non vuole che gli ficchi un proiettile in testa, le costera' un po' di piu'.}
-{360}{}{Vuole che lo faccia sembrare un incidente, eh? Allora mi serve sapere qualcosa di piu' a proposito di questo "Westin".}
+{360}{}{Vuole che lo faccia sembrare un incidente, eh? Allora mi serve sapere qualcosa di piu' a proposito di questo "Westin."}
 {361}{}{Non sono la persona adatta per questo lavoro. Se lo scordi.}
 {370}{}{D'accordo, allora. Aspetto presto tue notizie. E ricorda, selvaggio, tu non mi conosci, e noi non abbiamo mai avuto questa conversazione. Fanne parola con qualcuno e sei morto.}
 {371}{}{Non si preoccupi per ME, Bishop. Piuttosto, veda di avere il denaro per me, quando saro' tornato.}

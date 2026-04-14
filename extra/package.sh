@@ -36,7 +36,7 @@ DAT_FILE="$mod_name.dat"
 mkdir -p "$mods_dir"
 
 cd data
-"$DAT3" a "$mods_dir/$DAT_FILE" ./*
+"$DAT3" a -c 9 "$mods_dir/$DAT_FILE" ./*
 cd ..
 
 # cassidy mod compatibility check

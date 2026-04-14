@@ -37,7 +37,7 @@ for d in *; do
     DAT_FILE="${mod_name}_$d.dat"
     cd "$d"
     # shellcheck disable=SC2154  # from package.sh
-    $DAT3 a "$DAT_FILE" ./*
+    $DAT3 a -c 9 "$DAT_FILE" ./*
     mv "$DAT_FILE" ..
     cd ..
 done
