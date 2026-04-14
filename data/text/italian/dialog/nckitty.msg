@@ -73,7 +73,7 @@
 {355}{}{Jules mi ha detto di venire qui per un po' di... divertimento.}
 {361}{}{Veramente, adesso devo andare.}
 {375}{}{Molto probabilmente saremo in grado di accontentarti. La tua richiesta sarebbe...?}
-{376}{}{Voglio che la mia partner indossi una tuta da Vault aderente, che mi chiami "Abitante del Vault" e che faccia finta che io debba trovare il "Vault SESS-anta".}
+{376}{}{Voglio che la mia partner indossi una tuta da Vault aderente, che mi chiami "Abitante del Vault" e che faccia finta che io debba trovare il "Vault SESS-anta."}
 {377}{}{Mi piacerebbe essere "catturato" da una splendida donna-mutante, ed essere costretto con la forza ad immergermi nella sua "vasca" mutagena.}
 {378}{}{Mi piacerebbe interpretare il ruolo di "Herk", un giovane schiavo celibe strappato dal suo villaggio da una banda di vigorose femmine schiaviste. E qui arriva il bello... Herk puo' comunicare soltanto con il suo CORPO.}
 {379}{}{Mi piacerebbe interpretare il ruolo di "Zena", una giovane schiava nubile strappata dal suo villaggio da una banda di schiavisti. E qui arriva il bello... Zena puo' comunicare soltanto con il suo CORPO.}
@@ -183,7 +183,7 @@
 {704}{}{*Whew*}
 {705}{}{Eh... spero proprio di non averla messa incinta.}
 {710}{}{(Parlate per ore. Le ragazze del Cat's Paw hanno un incredibile intuito per la natura umana).}
-{711}{}{(L'uomo di Mordino arriva, e sembra rimanere colpito da te. Ti conduce a nord, fuori citta', in un posto chiamato "Le Stalle").}
+{711}{}{L'uomo di Mordino arriva, e sembra rimanere colpito da te. Ti conduce a nord, fuori citta', in un posto chiamato "Le Stalle."}
 {720}{}{*fischia*}
 {721}{}{*clap clap clap*}
 {722}{}{Cosi' si fa!}

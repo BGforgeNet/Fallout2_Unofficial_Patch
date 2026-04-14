@@ -33,7 +33,7 @@
 {244}{}{Dipende da quello che hai da vendermi.}
 {250}{}{Bentornato, eroe! Hai fatto davvero un gran bel lavoro, giu' all'Enclave... hai salvato la pelle a tutti e te ne sono grato. }
 {251}{}{Se vedi qualcosa che ti piace, fammelo sapere e ti faro' uno sconto *speciale*, okay?}
-{252}{}{Occhei.}
+{252}{}{Occhei}
 {253}{}{-Allontanati-}
 {254}{}{Ottimo! Posso vedere la tua mercanzia?}
 {255}{}{Non so se sei in grado di aiutarmi... Sto cercando qualcosa di speciale.}
@@ -44,7 +44,7 @@
 {260}{}{Sei in grado di modificare le armi?}
 {261}{}{Tornero' a darci un'occhiata, allora.}
 {262}{}{Magnifico... Posso vedere i tuoi pezzi speciali?}
-{270}{}{Qui al New Reno Arms abbiamo i piu' recenti strumenti di difesa personale necessari per stecchire sul posto qualsiasi smidollato figlio di puttana (sorride diabolicamente).}
+{270}{}{Qui al New Reno Arms abbiamo i piu' recenti strumenti di difesa personale necessari per stecchire sul posto qualsiasi smidollato figlio di puttana (sorride diabolicamente)}
 {272}{}{Bentornato, amico. Cosa posso fare per te?}
 {273}{}{Ovvero?}
 {274}{}{Roba me piace roba tu anche piacere robaaaaaaa?}
@@ -174,5 +174,5 @@
 {1340}{}{Sicuro come il demonio che posso. (Da' uno sguardo al tuo equipaggiamento.) Ma non mi pare che tu abbia qualcosa sul quale io possa lavorare. Portami qualche pistola o fucile vergini... ehm, "normali", e forse saro' in grado di aiutarti.}
 {1345}{}{D'accordo. Mi interessa qualcos'altro...}
 {1346}{}{Lo faro'. Ci vediamo.}
-{5256}{}{... mi ha detto di passare di qui e che tu mi avresti "servito a puntino".}
+{5256}{}{... mi ha detto di passare di qui e che tu mi avresti "servito a puntino."}
 {5500}{}{.}

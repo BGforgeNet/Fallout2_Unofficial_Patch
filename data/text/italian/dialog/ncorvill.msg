@@ -37,7 +37,7 @@
 {260}{}{(Si incupisce.) Sparisci dalla mia vista. Fatti rivedere da queste parti e ti faro' sparare, hai capito?}
 {262}{}{Uh-uh}
 {263}{}{Tu baciare mamma con quella bocca?}
-{264}{}{Tu fare meglio NO sparare me. Sparare me fare ARRABBIARE me.}
+{264}{}{Tu fare meglio NO sparare me. Sparare me fare ARRABBIARE me}
 {265}{}{-Vattene via e cerca qualcuno con cui parlare che sia meno cattivo di questo qui-}
 {275}{}{(Quando ti vede, Wright esplode in un ringhio e comincia a urlare.) }
 {276}{}{(Wright esplode in un ringhio e comincia a urlare.) }

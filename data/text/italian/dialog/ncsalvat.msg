@@ -52,7 +52,7 @@
 {352}{}{Grazie, Mr. Salvatore. Chiedero' a Mason.}
 {360}{}{Allora tu non mi sei... utile. Vattene subito.}
 {361}{}{Uh, aspettaunsecondo... ho cambiato idea. Lo faro'.}
-{362}{}{-Vattene senza dire una parola-}
+{362}{}{Vattene senza dire una parola.}
 {370}{}{(Spalanca gli occhi. Le parole che seguono sono sputate fuori con un sibilo stridulo.) ::Non hai ancora dimostrato la tua LEALTA':: Adesso va' da Mason. Ti dara' i... dettagli riguardanti il tuo lavoro.}
 {371}{}{D'accordo, allora. Lasciamo perdere le pistole, per adesso.}
 {372}{}{Capisco, Mr. Salvatore. Voglia scusare la mia insolenza. Andro' subito da Mason.}

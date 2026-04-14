@@ -36,7 +36,7 @@
 {285}{}{Guarda, forse non l'hai SENTITO, selvaggio, ma questo e' il locale di Salvatore. Il MIO lavoro e' quello di assicurarmi che il boss non venga infastidito da certi cani che abbaiano come te. Adesso tornatene alla tua tribu' e vatti a cucinare uno dei tuoi compagni per cena.}
 {295}{}{Queste pistole? Aw, cavoli, non saprei proprio. Ho come un vuoto di memoria. (Si fa serio.) Ascoltami bene, selvaggio. Se non sparisci immediatamente, ti trasformero' in una torcia umana. Adesso smamma.}
 {298}{}{Okay! Me ne vado, me ne vado.}
-{299}{}{-Vattene senza dire una parola-}
+{299}{}{Vattene senza dire una parola.}
 {305}{}{Ti avevo AVVERTITO, coglione! Adesso sei... (Mason si ferma improvvisamente, e si mette ad ascoltare qualcosa che tu non puoi sentire. Dopo qualche istante, i suoi denti si serrano.) Mr. Salvatore dice che puoi entrare... }
 {306}{}{Oh, lo faro' subito. Dopo averti ucciso.}
 {307}{}{Grazie, coglionazzo. Mi ricordero' di parlare a Mr. Salvatore dei tuoi modi gentili.}
@@ -164,7 +164,7 @@
 {728}{}{Bene, sono pronto. Andiamo.}
 {729}{}{Okay. Dammi un po' di tempo per prepararmi e poi tornero'.}
 {735}{}{(Grugnisce.) Ehila'...}
-{736}{}{-Prendi gli oggetti-}
+{736}{}{Prendi gli oggetti.}
 {745}{}{Inoltre, noi Salvatore abbiamo un... RAPPORTO speciale con Miss Kitty, giu' al Cat's Paw. E con Eldridge del negozio di armi... e con Renesco. (Strizza l'occhio) Divertiti.}
 {746}{}{Grazie, Mason.}
 {747}{}{Gee, Mason, grazie... solo una cosa: la prossima volta, perche' non mi chiami "signore"? Lo gradirei molto. AH AH AH AH AH AH...}
@@ -179,8 +179,8 @@
 {778}{}{Questa conversazione comincia ad annoiarmi. Me ne vado.}
 {785}{}{Vedi di non farti raccontare stronzate da quel vecchio... se lo fa, digli che lavori per Mr. Salvatore. Questo dovrebbe chiarire ogni equivoco. Hai capito?}
 {786}{}{Ho capito. Adesso spostati e lasciami lavorare.}
-{795}{}{Fatti crescere un po' di PALLE, ragazzo, e *occupatene*.}
-{796}{}{Avrei dovuto immaginarlo che sarebbe successo... mandare una donna a fare un lavoro da uomini... Smettila di *brontolare* e vedi di *occupartene*.}
+{795}{}{Fatti crescere un po' di PALLE, ragazzo, e *occupatene.*}
+{796}{}{Avrei dovuto immaginarlo che sarebbe successo... mandare una donna a fare un lavoro da uomini... Smettila di *brontolare* e vedi di *occupartene.*}
 {797}{}{Me ne occupero', allora. Grazie, Mason. Mi sei stato di GRANDE aiuto.}
 {798}{}{Me ne occupero', allora.}
 {799}{}{Oh, adesso mi occupo di tutto. A cominciare da te.}

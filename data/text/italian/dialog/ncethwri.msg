@@ -14,7 +14,7 @@
 {211}{}{(La signora Wright sobbalza.) Oh, cielo! Mi hai fatto davvero paura! (Ti guarda con gli occhi socchiusi.) Beh, bentornato!}
 {212}{}{Chi, chi?}
 {213}{}{Salve, salve!}
-{214}{}{Tu non mamma...Mamma? Mammaaaaaa...?! Mamma! Me va cercare mamma.}
+{214}{}{Tu non mamma...Mamma? Mammaaaaaa...?! Mamma! Me va cercare mamma}
 {215}{}{Chi sei?}
 {216}{}{L'ho vista mentre canticchiava e ho pensato di fermarmi a parlare un po' con lei, signora. Che tempo magnifico, non trova?}
 {217}{}{Scusa. Credevo fossi qualcun altro.}
