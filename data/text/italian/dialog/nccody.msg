@@ -1,5 +1,5 @@
 {125}{}{Vedi Cody.}
-{175}{}{Vedi un orfano cencioso. Su cio' che resta della sua maglietta c'e' scritto "Cody".}
+{175}{}{Vedi un orfano cencioso. Su cio' che resta della sua maglietta c'e' scritto "Cody."}
 {176}{}{Vedi Cody. Ti fissa con aria accigliata.}
 {177}{}{Vedi Cody. Il suo sguardo sarebbe in grado di far spostare le montagne.}
 {178}{}{Vedi Cody. Il nome e' scarabocchiato su cio' che resta della sua maglietta.}
