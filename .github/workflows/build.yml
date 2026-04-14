@@ -26,13 +26,9 @@ jobs:
           scripts_dir: scripts_src
           dialog_dir: data/text/english/dialog
 
-      - name: Install wine
-        uses: devopsx/gha-ubuntu-i386-fix@master
-
       - name: Install packages
         run: |
           sudo DEBIAN_FRONTEND=noninteractive eatmydata apt-get install -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc p7zip
-          WINEARCH=win32 eatmydata wineboot
 
       - name: Build and package
         run: ./extra/full.sh

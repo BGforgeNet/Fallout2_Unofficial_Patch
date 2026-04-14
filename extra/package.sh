@@ -3,13 +3,8 @@
 set -xeu -o pipefail
 
 export comp_dir="components"
-# shellcheck disable=SC2154  #  bin_dir from env.sh
-export dat2="wine $bin_dir/dat2.exe"
-export dat2a="wine $bin_dir/dat2.exe a"
 trans_dir="$(realpath translations)"
 export trans_dir
-file_list="$(realpath dat2.list)"
-export file_list
 
 short_sha="$(git rev-parse --short HEAD)"
 # defaults, local build or github non-tagged
@@ -30,27 +25,18 @@ git checkout -- release
 git clean -fd release
 git clean -fdX release
 
-# wine pollutes the log with "wine: Read access denied for device" if z is linked to /
-z="$(readlink -f ~/.wine/dosdevices/z:)"
-if [[ "$z" == "/" ]]; then
-    rm -f ~/.wine/dosdevices/z:
-    ln -s /home ~/.wine/dosdevices/z:
-fi
-
 # translations packaged first, to get extra text out of the way
 # shellcheck disable=SC2154  # extra_dir from env.sh
 "$extra_dir"/package/translations.sh
 
 # data
 # shellcheck disable=SC2154  # from env.sh
-dat="$mod_name.dat"
+DAT_FILE="$mod_name.dat"
 # shellcheck disable=SC2154  # from env.sh
 mkdir -p "$mods_dir"
 
 cd data
-# I don't know how to pack recursively
-find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort >"$file_list" # replace slashes with backslashes
-$dat2a "$mods_dir/$dat" @"$file_list"
+"$DAT3" a "$mods_dir/$DAT_FILE" ./*
 cd ..
 
 # cassidy mod compatibility check
