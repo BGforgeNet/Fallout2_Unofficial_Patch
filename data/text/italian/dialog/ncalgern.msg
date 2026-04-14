@@ -21,13 +21,13 @@
 {221}{}{(Lo sganasciato ti guarda rivolgendoti un sorriso sdentato. Attaccata alla sua camicia c'e' una targhetta che recita "Algernon" in corsivo.) Boom! }
 {222}{}{(Quando vede le tue armi, comincia a indicarle tutto eccitato.) Boom!}
 {223}{}{Boom!}
-{224}{}{-Stai a distanza di sicurezza-}
+{224}{}{Allontanati.}
 {225}{}{Uh... vuoi vedere una di queste armi?}
 {226}{}{Certo, "boom" anche a te. Algernon, puoi potenziare qualcuna di queste armi che ho qui con me?}
 {227}{}{Uh, niente "boom" per adesso, grazie. Ciao.}
 {230}{}{Hunh! Huh-huh! (Algernon si abbandona ad una risata gorgogliante, poi punta l'indice verso di te a mo' di pistola.) Blam Blam!}
 {231}{}{Mancato, mancato! Prendere questo! (Punta il dito verso di lui a mo' di pistola.) POW! POW!}
-{232}{}{Ugh. Me morto. Me va in posto migliore, ora.}
+{232}{}{Ugh. Me morto. Me va in posto migliore, ora}
 {235}{}{(Il volto di Algernon assume un'espressione scioccata, poi il vecchio guarda lentamente il posto nel quale tu gli hai "sparato". Improvvisamente Algernon comincia a vacillare, poi ribalta gli occhi e cade a terra, morto.)}
 {236}{}{Uh, Al? Tutto okay?}
 {237}{}{Uh-oh.}
@@ -41,7 +41,7 @@
 {254}{}{Dagli una delle tue armi da mischia.}
 {255}{}{Mi spiace, credo di non avere nulla da darti, Al. Sara' per la prossima volta.}
 {256}{}{In realta' non credo che dare un'arma ad una persona chiaramente squilibrata sia un'idea molto furba. Divertente, forse, furba, no. A dopo.}
-{260}{}{(Al prende l'oggetto, e i suoi occhi si illuminano. Ci lavora un po' per qualche minuto, poi per qualche minuto ancora, poi per qualche altro... un'ora dopo, Al te lo restitusice con un cenno del capo e un sorriso diabolico.) *Booooooom*.}
+{260}{}{(Al prende l'oggetto, e i suoi occhi si illuminano. Ci lavora un po' per qualche minuto, poi per qualche minuto ancora, poi per qualche altro... un'ora dopo, Al te lo restitusice con un cenno del capo e un sorriso diabolico.) *Booooooom.*}
 {261}{}{Senti... puoi potenziarmi QUESTO?}
 {262}{}{Grazie, Al.}
 {265}{}{[Quale?]}
@@ -62,4 +62,4 @@
 {292}{}{Ecco qua del carburante per lanciafiamme. Puoi farci qualcosa?}
 {301}{}{Dagli il tuo pungolo per bestiame. Uh... dopo aver fatto attenzione che lo prenda per l'impugnatura.}
 {302}{}{Il tuo Power-Fist BeatCo. "Gran Prepotente".}
-{400}{}{Me ucciso Al. Me meglio andare via da qua.}
+{400}{}{Me ucciso Al. Me meglio andare via da qua}

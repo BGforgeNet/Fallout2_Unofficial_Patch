@@ -12,7 +12,7 @@
 {123}{}{Mi e' parso di vedere delle persone che vivono qui dentro. E' una cosa sicura?}
 {124}{}{Uh, no. Va tutto bene. Sto dando solo un'occhiata in giro. Arrivederci.}
 {130}{}{Oh. Bene, che cosa vuoi che ti aiuti a trovare? La sala di controllo del reattore, il magazzino, la sala di controllo del robot o il pozzo del reattore?}
-{131}{}{La sala di controllo del reattore}
+{131}{}{La sala di controllo del reattore.}
 {132}{}{Il magazzino.}
 {133}{}{La sala di controllo del robot.}
 {134}{}{Il pozzo del reattore.}

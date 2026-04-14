@@ -12,7 +12,7 @@
 {120}{}{Perche' diavolo cammini in punta di piedi?}
 {121}{}{Se vuoi passare inosservato, devi cercare di essere molto piu' silenzioso di cosi'.}
 {122}{}{Oh, ma sei davvero un tipo furtivo.}
-{123}{}{Sei bravo nel tuo lavoro. Gia'}
+{123}{}{Sei bravo nel tuo lavoro. Gia'.}
 {124}{}{Imbecille, cammina normalmente!}
 {125}{}{Un altro esponente del Ministero delle Camminate Stupide.}
 {126}{}{Posso vederti. E infatti adesso ti spacco la testa.}

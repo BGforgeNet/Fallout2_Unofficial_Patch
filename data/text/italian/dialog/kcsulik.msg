@@ -152,7 +152,7 @@
 {521}{slk27rb}{Agisci silenziosamente e imparerai molto.}
 {522}{slk27rc}{Un seme forte e' stato piantato qui. Un buon seme.}
 {530}{slk27sa}{Un guscio vuoto riposa sotto quelli che riposano.}
-{531}{slk27sb}{Gli artigli della morte sono vicini}
+{531}{slk27sb}{Gli artigli della morte sono vicini.}
 {532}{slk27sc}{Piccoli morti ti seguiranno.}
 {540}{slk27ta}{La voce fa piu' rumore del suono di qualsiasi pistola.}
 {541}{slk27tb}{Il male balla qui.}
@@ -186,7 +186,7 @@
 {725}{slk35b}{Scusa, amico.}
 {726}{slk35c}{Ci muoviamo per te, no problem.}
 {727}{slk36a}{Lo faremo.}
-{728}{slk36b}{Nonno-Osso dire noi stessa cosa.}
+{728}{slk36b}{Nonno-Osso dire noi stessa cosa}
 {729}{slk36c}{Molte lotte. Servire arma migliore.}
 {730}{slk37a}{Anche spiriti aiutare. Questo e armatura essere quasi sufficienti.}
 {731}{slk37b}{Buona idea. Tu attiri gente arrabbiata come mosche su torte di brahmin.}
@@ -403,7 +403,7 @@
 {2300}{}{Gli spiriti ci muovono.}
 {2301}{}{Noi e io ci muovere.}
 {2302}{}{OK, calma.}
-{2303}{}{Non preoccuparti, noi e io ci muovere}
+{2303}{}{Non preoccuparti, noi e io ci muovere.}
 {2304}{}{Noi pensa tu avere bisogno di un po' di tempo per annusare i fiori. Nonno-Osso dire che tu essere troppo pressante. Prendere la vita con piu' calma.}
 {2305}{}{Noi ci muoviamo alla grande.}
 {2306}{}{Adesso noi e io andare la'.}

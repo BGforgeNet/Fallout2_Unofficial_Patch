@@ -9,7 +9,7 @@
 {120}{}{Non sei il tipo piu' sveglio sulla piazza, vero? Beh, e' stato comunque bello parlare con te. Ci vediamo.}
 {121}{}{Dolcezza, mi spezzi il cuore ogni volta che apri bocca. Magari prima o poi potrei portarti a Trapper Town e mostrarti le mie acqueforti (heh, heh). Ciao, bambola.}
 {130}{}{Beh, signore, forse ci rivedremo ancora da queste parti. Ciao.}
-{131}{}{Beh, spero di rivederti ancora da queste parti, bambolina. Ciao.}
+{131}{}{Beh, spero di rivederti ancora da queste parti, bambolina. Ciao}
 {140}{}{Humph, non ti voglio come compagno di bevute. Vai a farti fottere.}
 {141}{}{Humph, preferisco andare alla Bath House di Sally piuttosto che spendere del tempo con te. Va' a quel paese.}
 {150}{}{Ehila' straniero, il mio nome e' Whiskey Bob. Qual e' il tuo?}

@@ -67,7 +67,7 @@
 {166}{}{No.}
 {167}{}{Formattazione in corso... formattazione in corso... formattazione completa. Il riavvio richiede l'installazione completa. Spegnimento in corso. Spegnimento... completato...}
 {168}{}{[FATTO]}
-{169}{}{Dati da consultare: - Programma botanico - Programma genetico - Programma Xeno}
+{169}{}{Dati da consultare: - Programma botanico - Programma genetico - Programma Xeno.}
 {170}{}{Programma botanico.}
 {171}{}{Programma genetico.}
 {172}{}{Programma Xeno.}
@@ -80,7 +80,7 @@
 {179}{}{Programma botanico.}
 {180}{}{Programma Xeno.}
 {181}{}{Indietro.}
-{182}{}{"Il soggetto sul quale speravamo di poter eseguire una serie di importanti esperimenti e' scomparso; si presume che sia stato distrutto o rubato dagli Hubologisti. Ulteriori indagini si sono rivelate vane. Finche' non saranno disponibili altri campioni, questo database rimarra' non operativo." - Dr. Sheng}
+{182}{}{"Il soggetto sul quale speravamo di poter eseguire una serie di importanti esperimenti e' scomparso; si presume che sia stato distrutto o rubato dagli Hubologisti. Ulteriori indagini si sono rivelate vane. Finche' non saranno disponibili altri campioni, questo database rimarra' non operativo." - Dr. Sheng.}
 {183}{}{Programma botanico.}
 {184}{}{Programma genetico.}
 {185}{}{Indietro.}

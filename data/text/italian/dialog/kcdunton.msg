@@ -158,7 +158,7 @@
 {390}{}{Chele d'insetto? Umm, err, ah, non sappiamo niente a proposito di chele d'insetto. Di cosa stai parlando?}
 {391}{}{Beh, ho trovato delle enormi chele d'insetto con cinghie e fibbie che le fanno sembrare parti di un costume. Erano sul pavimento.}
 {392}{}{Uh, dimenticate quel che ho detto. Ci vediamo.}
-{400}{}{E' molto semplice. Devi far allontanare Torr}
+{400}{}{E' molto semplice. Devi far allontanare Torr.}
 {401}{}{Molto bene, lo faro'.}
 {402}{}{Neanche per sogno; io mi chiamo fuori, Dunton. Addio.}
 {403}{}{Siete pazzi? Ci sono addosso. Sono qui per dirvi che forse e' meglio non procedere con il piano. Scommetto che ci stanno osservando anche in questo momento.}

@@ -16,7 +16,7 @@
 {115}{}{Indietro.}
 {116}{}{[Dopo aver superato con fatica gli incomprensibili discorsi religiosi, scopri che gli Hubologisti hanno trovato un modo per rendere piu' robuste le Power-Armor. Hanno anche trovato un modo per calcolare traiettorie di lancio, orbite e destinazioni spaziali. In piu', pare stiano concentrando le ricerche sul controllo atmosferico.]}
 {117}{}{Indietro.}
-{118}{}{Disconnetti.}
+{118}{}{Disconnetti}
 {119}{}{[Spendi quasi mezz'ora leggendo gli obiettivi che AHS-9 sta cercando di realizzare. Oltre all'illuminazione e al ricongiungimento col Padre Stellare, sembra che non si faccia nessuno scrupolo a pensare di distruggere gli umani che non sono stati con lui fin dall'inizio. E' un po' toccato.]}
 {120}{}{Indietro.}
 {121}{}{Disconnetti.}
