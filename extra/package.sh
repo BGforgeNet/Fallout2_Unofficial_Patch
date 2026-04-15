@@ -35,9 +35,7 @@ DAT_FILE="$mod_name.dat"
 # shellcheck disable=SC2154  # from env.sh
 mkdir -p "$mods_dir"
 
-cd data
-"$DAT3" a -c 9 "$mods_dir/$DAT_FILE" ./*
-cd ..
+"$DAT3" a -c 9 -C data "$mods_dir/$DAT_FILE" '*'
 
 # cassidy mod compatibility check
 "$extra_dir"/package/cassidy_head.sh
