@@ -35,7 +35,7 @@
 {250}{}{(La donna calva non alza nemmeno lo sguardo dalla sua cartellina.) Si'?}
 {251}{}{No!}
 {252}{}{Si'!}
-{253}{}{Heh-heh. Tu pelata. Tu sembrare uomo.}
+{253}{}{Heh-heh. Tu pelata. Tu sembrare uomo}
 {254}{}{Delenn?}
 {255}{}{-Allontanati-}
 {256}{}{Chi sei?}

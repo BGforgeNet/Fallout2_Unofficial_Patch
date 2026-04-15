@@ -126,7 +126,7 @@
 {2345}{}{Ho fiiinito il sgioco... e ora shto sholo vagabondando e... ho paura shia tutto ffinito e... *sniff*}
 {2346}{}{E' che Fhallowt dueee non s'porta la mia sshcheda 3DFxxxxx e ho shpeso coshi' tanti *shooldi* per comprarla e *sniff*}
 {2347}{}{Ho provato a creare un bbuon pe...personaggio ma... penso di aver shbajato *completamente* la dishtribusshione dei punti... e ora ho un pershonaggio di meeerda... e......*sniff*}
-{2348}{}{Shto parlaando cooon una shlot mmaaashin, devo essher messoooh maleh.}
+{2348}{}{Shto parlaando cooon una shlot mmaaashin, devo essher messoooh maleh}
 {2370}{}{*Su, su... non pensarci piu'... lascia fare tutto a me. Dai, appoggia la tua testa su di me. Ecco. Sfogati pure.*}
 {2371}{}{*Su, su... non pensarci piu', zucchero... lascia fare tutto a me. Dai, appoggia la tua splendida testa su di me. Ecco. Sfogati pure.*}
 {2372}{}{Grascie, shlot mashiiin *sniff* sei la migliore}

@@ -116,7 +116,7 @@
 {340}{}{Ho fiiinito il sgioco... e ora shto sholo vagabondando e... ho paura shia tutto ffinito e... *sniff*}
 {341}{}{E' che Fhallowt dueee non s'porta la mia sshcheda 3DFxxxxx e ho shpeso coshi' tanti *shooldi* per comprarla e *sniff*}
 {342}{}{Ho provato a creare un bbuon pe...personaggio ma... penso di aver shbajato *completamente* la dishtribusshione dei punti... e ora ho un pershonaggio di meeerda... e......*sniff*}
-{343}{}{Shto parlaando cooon una shlot mmaaashin, devo essher messoooh maleh.}
+{343}{}{Shto parlaando cooon una shlot mmaaashin, devo essher messoooh maleh}
 {344}{}{::Respiri profondamente, te ne vai.::}
 {350}{}{*Su, su... non pensarci piu'... lascia fare tutto a me. Dai, appoggia la tua testa su di me. Ecco. Sfogati pure.*}
 {351}{}{*Su, su... non pensarci piu', zucchero... lascia fare tutto a me. Dai, appoggia la tua splendida testa su di me. Ecco. Sfogati pure.*}
@@ -147,7 +147,7 @@
 {391}{}{Smetti di giocare.}
 {392}{}{Smetti di giocare.}
 {400}{}{Gli slot girano, e…non esce nulla.}
-{401}{}{NULLA. NULLA! La senti ridere, e ti infuri…i buttafuori sono costretti a strappare con la forza il tuo corpo urlante dalla slot machine.}
+{401}{}{NULLA. NULLA! La senti ridere, e ti infuri…i buttafuori sono costretti a strappare con la forza il tuo corpo urlante dalla slot machine}
 {402}{}{((La slot machine ridacchia.) *Ho avuto quello che volevo da questa relazione. Mi spiace, dolcezza. Sta' attento che le porte del casino non ti sbattano sul sedere, quando esci. Ah ah ah ah ah ah ah.*}
 {403}{}{Adesso hai }
 {404}{}{ monete. Cerchi di recuperare le perdite e continui a giocare?}

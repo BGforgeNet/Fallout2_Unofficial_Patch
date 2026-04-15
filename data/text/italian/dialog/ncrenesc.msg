@@ -295,7 +295,7 @@
 {972}{}{Tu ne sai qualcosa, vero?}
 {980}{}{Whoa! Aspetta un secondo...!}
 {981}{}{Non fare il furbo con me, Renesco! Prova a fregarmi e andrai a far compagnia a Richard. Capito?}
-{982}{}{Adesso basta. Io e il signor Wright stiamo per fare un bel discorsetto. Buona giornata, Renesco...o forse dovrei dire "addio".}
+{982}{}{Adesso basta. Io e il signor Wright stiamo per fare un bel discorsetto. Buona giornata, Renesco...o forse dovrei dire "addio."}
 {990}{}{Aspetta un secondo! Senti...io non l'ho VENDUTO al ragazzo! Non ha mai comprato NULLA da me! Mi... e' stato CHIESTO di fare un po' di Jet corretto con del veleno di radscorpione, ma... ma io NON l'ho venduto al ragazzo!}
 {991}{}{Ti e' stato CHIESTO di fare del Jet avvelenato? Per chi?}
 {992}{}{A chi l'hai VENDUTO?}
