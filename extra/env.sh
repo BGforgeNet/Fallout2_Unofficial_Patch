@@ -19,6 +19,6 @@ SSLC_VERSION="2026-03-15-12-52-25"
 export SSLC_URL="https://github.com/sfall-team/sslc/releases/download/${SSLC_VERSION}/sslc-linux"
 export COMPILE="$bin_dir/sslc"
 
-DAT3_VERSION="v0.6.1"
+DAT3_VERSION="v0.6.2"
 export DAT3_URL="https://github.com/BGforgeNet/dat3/releases/download/${DAT3_VERSION}/dat3"
 export DAT3="$bin_dir/dat3"
