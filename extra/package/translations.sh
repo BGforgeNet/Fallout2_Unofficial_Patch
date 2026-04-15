@@ -15,7 +15,7 @@ for lang in $(ls $lang_dir); do
     patchinf="$lang_dir/$lang/dialog/patchinf.msg"
     # display current version
     # shellcheck disable=SC2154  # from package.sh
-    sed -i "s|v1\.02\.x|1.02.${version}.|" "$patchinf"
+    sed -i "s|v1\.02\.x|1.02.${version}|" "$patchinf"
 done
 
 # duplicate cuts for english language, otherwise sfall won't display them in english
