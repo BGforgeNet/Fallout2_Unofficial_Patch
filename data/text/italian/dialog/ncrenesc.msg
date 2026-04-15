@@ -179,7 +179,7 @@
 {682}{}{Beh...}
 {683}{}{Okay! Okay! Ti faro' uno sconto! Hmphhh.}
 {684}{}{Dai. Solo un piccolo sconticino. Dai...}
-{687}{}{Ottimo! Vediamo quello che hai, "amico".}
+{687}{}{Ottimo! Vediamo quello che hai, "amico."}
 {688}{}{Splendido! Senti, avrei delle altre domande...}
 {689}{}{Tornero' piu' tardi. }
 {700}{}{Dimmi tutto.}
@@ -195,7 +195,7 @@
 {725}{}{(Socchiude gli occhi.) E allora?}
 {726}{}{Beh, mi servono delle parti per riparare il purificatore d'aria nella loro miniera. Mi e' stato detto che tu potevi aiutarmi.}
 {727}{}{Beh, mi servono delle parti per riparare il purificatore d'aria nella loro miniera. Mi manda Zaius. Ha detto, uhm...detto...uhm...merda.}
-{728}{}{Beh, mi servono delle parti per riparare il purificatore d'aria nella loro miniera. Mi manda Zaius. Ha detto, "Il canarino ha tirato le cuoia".}
+{728}{}{Beh, mi servono delle parti per riparare il purificatore d'aria nella loro miniera. Mi manda Zaius. Ha detto, "Il canarino ha tirato le cuoia."}
 {735}{}{Si', si da' il caso che io abbia alcune parti che potrebbero riparare il purificatore d'aria. 100 verdoni.}
 {736}{}{Le prendo. Ecco a te.}
 {737}{}{Che ne diresti di cinquanta verdoni?}
@@ -277,7 +277,7 @@
 {924}{}{Cerchero' di inventarmi qualcosa... tornero'.}
 {930}{}{Aspetta un secondo, Neanderthaliano...}
 {931}{}{Non discutero' un minuto di piu' con te. La mia pazienza ha raggiunto il limite. Queste sono le mie condizioni.}
-{940}{}{Io...senti, ehm, io...hmmmm...d'accordo, allora. Avrai uno..."sconto".}
+{940}{}{Io...senti, ehm, io...hmmmm...d'accordo, allora. Avrai uno..."sconto."}
 {941}{}{Fammi vedere la tua merce. Faro' i miei "acquisti" adesso.}
 {943}{}{Non voglio niente al momento; ma non temere, tornero'. }
 {950}{}{(Incrocia le braccia.) Soddisfacente. Se ti aspetti qualche elemosina perche' sei un Buon Samaritano, ti sbagli DI GROSSO. Ora... che cosa vuoi?}

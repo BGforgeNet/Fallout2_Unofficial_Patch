@@ -172,7 +172,7 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {522}{}{Nuh-uh}
 {525}{}{Hmmmm. Molto bene. Allora rimani pure steso sul letto e io faro' il resto.}
 {526}{}{Me rifiuta me no VUOLE fare me vuole tornare a CASA a Arroyo-yo}
-{527}{}{-Fa' quello che ti dice-}
+{527}{}{Fa' quello che ti dice.}
 {530}{}{(Prende un grande respiro, poi comincia a gridare cosi' forte che ti fanno male le orecchie! Grida qualcosa tipo 'garze' e 'quadro', ma non riesci a capire bene, perche' sta gridando molto forte.)}
 {531}{}{Shhhh! Se tu no stare tranquilla, George no fare giocare me con conigli! Shhhh!}
 {532}{}{Cosa avere tuo quadro? A cosa te servire garze?}
@@ -188,7 +188,7 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {543}{}{Devo andare.}
 {545}{}{(Ti unisci alla signora Bishop per un drink nelle sue stanze. Voi due parlate per un po', poi lei si avvicina e comincia ad accarezzarti.)}
 {546}{}{[Fatelo.]}
-{547}{}{-Abbracciala...-}
+{547}{}{Abbracciala...}
 {548}{}{Uh, signora Bishop, sono andato a letto con sua figlia. Forse non dovremmo...}
 {549}{}{Prima di "farlo", non e' che aprirebbe la cassaforte a muro come ha fatto sua figl... ehm, com'e' tradizione?}
 {550}{}{Senta, devo proprio andare, signora Bishop.}

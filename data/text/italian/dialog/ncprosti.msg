@@ -69,7 +69,7 @@
 {243}{}{Troietta da marciapiede.}
 {244}{}{::Ti ignora.::}
 {245}{}{::Fa un gesto osceno::}
-{246}{}{Vattene da qui, "Miss Stella del Cinema".}
+{246}{}{Vattene da qui, "Miss Stella del Cinema."}
 {247}{}{Sparisci, puttana.}
 {248}{}{Se provi a fare qualcosa, ti sfregio...}
 {249}{}{Non capisco cosa VEDANO in te i Fratelli Corsican...}
@@ -825,7 +825,7 @@
 {999}{}{Tu hai dei desideri e io so come accontentarli.}
 {1000}{}{Lascia che risvegli il bambino che e' in te.}
 {1001}{}{Sto facendo questo lavoro solo per pagarmi il college.}
-{1002}{}{Senti, per l'ultima volta, non voglio travestirmi da "Abitante del Vault".}
+{1002}{}{Senti, per l'ultima volta, non voglio travestirmi da "Abitante del Vault."}
 {1003}{}{Cerchi un buco dove impiantare il paletto?}
 {1004}{}{Vuoi farmi urlare di piacere?}
 {1005}{}{::Purrrrr::}
@@ -1000,7 +1000,7 @@
 {1174}{}{Lascia che risvegli il bambino che e' in te.}
 {1175}{}{Sto facendo questo lavoro solo per pagarmi il college.}
 {1176}{}{Vuoi ballare, dolcezza?}
-{1177}{}{Senti, per l'ultima volta, non ho intenzione di vestirmi come "l'Abitante del Vault".}
+{1177}{}{Senti, per l'ultima volta, non ho intenzione di vestirmi come "l'Abitante del Vault."}
 {1178}{}{Cerchi un buco dove impiantare il paletto?}
 {1179}{}{Vuoi farmi urlare di piacere?}
 {1180}{}{::Purrrrr::}
@@ -1173,7 +1173,7 @@
 {1347}{}{Lascia che risvegli il bambino che e' in te.}
 {1348}{}{Sto facendo questo lavoro solo per pagarmi il college.}
 {1349}{}{Vuoi ballare, dolcezza?}
-{1350}{}{Senti, per l'ultima volta, non ho intenzione di vestirmi come "l'Abitante del Vault".}
+{1350}{}{Senti, per l'ultima volta, non ho intenzione di vestirmi come "l'Abitante del Vault."}
 {1351}{}{Cerchi un buco dove impiantare il paletto?}
 {1352}{}{Vuoi farmi urlare di piacere?}
 {1353}{}{::Purrrrr::}
@@ -1270,4 +1270,4 @@
 {3212}{}{*Huff*}
 {3213}{}{*Puff*}
 {3214}{}{No, NON ho alcuna intenzione di indossare quelle orecchie da Topolino.}
-{3215}{}{Certo, certo... ce l'hai ENORME.}
+{3215}{}{Sì, sì, hai proprio delle “mostruose palle”.}

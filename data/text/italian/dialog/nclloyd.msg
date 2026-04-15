@@ -159,7 +159,7 @@
 {696}{}{Datti una mossa, Lloyd. Non abbiamo tutto il giorno.}
 {698}{}{Sto arrivando, Lloyd.}
 {706}{}{Normale amministrazione...}
-{715}{}{Giusto, giusto... e' tutto tuo. Nessun problema. Me ne vado. (Si gira e comincia a camminare.)}
+{715}{}{Giusto, giusto... e' tutto tuo. Nessun problema. Me ne vado. (Si gira e comincia a camminare.}
 {716}{}{(Lascialo andare.)}
 {717}{}{(Sparagli alla schiena.)}
 {1000}{}{Dopo una lunga camminata, raggiungi il colle del Golgotha. Una volta li', Lloyd ti conduce a una delle tombe.}
