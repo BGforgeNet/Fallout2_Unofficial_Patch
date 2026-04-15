@@ -32,7 +32,7 @@
 {131}{}{Non riuscirai a farla franca.}
 {132}{}{Vedremo.}
 {133}{}{Perche' no? }
-{134}{}{Una sola parola forse riassume le responsabilita' di ogni Vicepresidente, e quest'unica parola e' "essere pronto".}
+{134}{}{Una sola parola forse riassume le responsabilita' di ogni Vicepresidente, e quest'unica parola e' '.essere pronto.'}
 {135}{}{E per cosa saresti pronto?}
 {136}{}{Ma non sono due parole, queste? "Prontezza" e' una parola sola. Non e' questo che intendevi?}
 {137}{}{Forse cosi' va meglio. Chiaro e conciso. Dopotutto, la prolissita' conduce a situazioni non chiare, inarticolate.}

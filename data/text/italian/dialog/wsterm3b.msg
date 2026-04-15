@@ -34,7 +34,7 @@
 {133}{}{Aspettavi me?}
 {134}{}{Esci.}
 {135}{}{Esci.}
-{136}{}{Procedi.}
+{136}{}{Procedi}
 {137}{}{Cosa vuoi?}
 {138}{}{Perche' hai cercato di uccidermi?}
 {139}{}{Intelligenza artificiale?}

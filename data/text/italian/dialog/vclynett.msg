@@ -258,11 +258,11 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {356}{}{Cosa vuole che faccia?}
 {357}{}{Ripensandoci, non credo che la cosa mi interessi. Addio.}
 {358}{lyn048}{Disattiva la loro centrale, in modo definitivo, cosi' che non possano causare altri danni.}
-{359}{}{Sembra abbastanza facile. Tornero' quando il problema sara'... "risolto".}
+{359}{}{Sembra abbastanza facile. Tornero' quando il problema sara'... "risolto."}
 {360}{}{Esattamente in che modo questa centrale sta rilasciando radiazioni?}
 {361}{}{Lasci che ci pensi. Tornero' da lei.}
 {362}{lyn049}{Quei... "cosi"... stanno usando una centrale atomica danneggiata. Vedi, ESSI sono immuni alle radiazioni... a loro non interessa se ci stanno lentamente avvelenando con i loro veleni.}
-{363}{}{Me ne occupero' io. Tornero' quando il problema sara'... "risolto".}
+{363}{}{Me ne occupero' io. Tornero' quando il problema sara'... "risolto."}
 {364}{}{Mi sembra che stiano facendo un favore al mondo. Trovatevi qualche altro "Esterno" che esegua i vostri sporchi lavori.}
 {365}{}{Dovro' pensarci. Tornero' da lei quando avro' deciso.}
 {366}{lyn050}{Molto bene, vediamo un po'... Questi... questi sono autentici! Incredibile... tu SEI davvero un sopravvissuto proveniente da un altro vault! Benvenuto nella nostra Citta'... Devi aver sofferto le pene dell'inferno nel mondo esterno.}
@@ -373,7 +373,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {471}{}{Muori, Quattrocchiiii!}
 {472}{}{Uh-huh}
 {473}{}{Non ti piace il mio amico, eh? Che peccato. Invece a lui piaci... come CENA.}
-{474}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino".}
+{474}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino."}
 {475}{}{Non c'e' bisogno di chiamare le guardie - Me ne vado spontaneamente.}
 {476}{lyn070}{Cosa? Hai distrutto la centrale?! E le radiazioni?! IDIOTA! Almeno quei ghoul sono morti... Sparisci dalla mia vista.}
 {477}{}{Whoa! E per quella Cittadinanza che mi aveva promesso?}
@@ -420,7 +420,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {518}{}{Fornisce assistenza medica soltanto ai Cittadini.}
 {519}{}{Niente... non volevo dire quello che ho detto. Buona giornata.}
 {520}{lyn079}{Chi sei tu per accusare un Cittadino di tali crimini? Guardie! Scortate questo Esterno ai cancelli!}
-{521}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino".}
+{521}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino."}
 {522}{}{Non c'e' bisogno di chiamare le guardie - Me ne vado spontaneamente.}
 {523}{}{Ma e' la verita'! Lei deve credermi! Ho le pr --!}
 {524}{lyn080}{Questa e' un'accusa molto seria. Dal momento che sei un Cittadino, devo crederti sulla parola... ma ne sei assolutamente sicuro? Se e' vero, gli verra' revocata la Cittadinanza e sara' esiliato.}
@@ -534,7 +534,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {632}{}{D'accordo. Me ne vado.}
 {633}{}{Molto bene, Primo Cittadino. Buona giornata.}
 {634}{lyn101}{Questa non e' la condotta di un Cittadino! Ti revoco la Cittadinanza. Le mie guardie ti condurranno fino al cancello principale.}
-{635}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino".}
+{635}{}{Le tue guardie non arriveranno in tempo per salvarti la vita... "Primo Cittadino."}
 {636}{}{Non c'e' bisogno di chiamare le guardie. Me ne andro' spontaneamente.}
 {637}{lyn102}{Questo farebbe gli interessi di Vault City, ma non posso farlo... Finche' non infrange la legge, Moore puo' dire tutto cio' che vuole.}
 {638}{}{Vuole che... me ne occupi io?}

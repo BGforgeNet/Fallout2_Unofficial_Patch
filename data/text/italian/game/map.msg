@@ -78,7 +78,7 @@
 {212}{}{Villaggio}
 {213}{}{}
 {214}{}{}
-{215}{}{Bridge}
+{215}{}{Ponte}
 {216}{}{Ponte Distrutto}
 {217}{}{}
 {218}{}{Zona Ovest}
@@ -558,7 +558,7 @@
 {1533}{}{Testa Parlante}
 {1534}{}{Shuttle della Federazione}
 {1535}{}{Unwashed Villagers}
-{1536}{}{Bridge}
+{1536}{}{Ponte}
 {1537}{}{Caffe' dei Sogni Infranti}
 {1538}{}{Paladini}
 {1539}{}{Grotta del Ratto Vorpal}

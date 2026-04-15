@@ -52,11 +52,11 @@
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Chosen One}
-{1007}{}{Shaman}
+{1006}{}{l'Eletto}
+{1007}{}{Sciamano}
 {1008}{}{Hakunin}
-{1009}{}{Healing Powder}
-{1010}{}{Bridge}
+{1009}{}{Polvere curativa}
+{1010}{}{Ponte}
 {1011}{}{Mynoc}
 {1100}{}{The Elder is your mother and our leader.}
 {1101}{}{Our great ancestor who gave us knowledge.}

@@ -45,7 +45,7 @@
 {144}{}{Wow, anche tu sei piuttosto nuovo di qui. Se non ti dispiace, ho bisogno di chiederti qualcos'altro.}
 {145}{}{Una risposta molto sintetica. Potresti dirmi di piu'?}
 {146}{}{Capisco. Devo farti ancora un paio di domande.}
-{147}{}{Questi non sono Deathclaw normali, come immagino tu abbia notato. La loro intelligenza e' stata aumentata con mezzi a loro sconosciuti. I responsabili sono degli umani appartenenti a un gruppo noto come "l'Enclave". Pare che all'Enclave servisse un esercito e che abbiano scelto i Deathclaw per la loro ferocia, la loro prestanza fisica, e... beh, credo tu abbia capito. Tuttavia, l'unica cosa che mancava ai Deathclaw era l'intelligenza. Dovevano diventare intelligenti abbastanza da comprendere comandi complessi, ma non abbastanza intelligenti da diventare una minaccia per "i capi".}
+{147}{}{Questi non sono Deathclaw normali, come immagino tu abbia notato. La loro intelligenza e' stata aumentata con mezzi a loro sconosciuti. I responsabili sono degli umani appartenenti a un gruppo noto come "l'Enclave". Pare che all'Enclave servisse un esercito e che abbiano scelto i Deathclaw per la loro ferocia, la loro prestanza fisica, e... beh, credo tu abbia capito. Tuttavia, l'unica cosa che mancava ai Deathclaw era l'intelligenza. Dovevano diventare intelligenti abbastanza da comprendere comandi complessi, ma non abbastanza intelligenti da diventare una minaccia per "i capi."}
 {148}{}{Questo mi pare il piu' grosso ammasso di stronzate che io abbia mai sentito in vita mia!}
 {149}{}{Incredibile. Sembri essere davvero molto informato a riguardo. Puoi dirmi qualcos'altro?}
 {150}{}{Hmm... Okay.}

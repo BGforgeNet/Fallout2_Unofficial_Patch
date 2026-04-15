@@ -206,7 +206,7 @@
 {305}{}{NCR e' la sigla della "New California Republic", nonche' il nome della sua capitale. Il loro scopo dichiarato e' quello di unificare l'intera California sotto un unico governo, ma sappiamo benissimo che si tratta di un patetico stratagemma.}
 {306}{}{"Stratagemma"? Cos'e'? Un'arma che NCR poss--?}
 {307}{}{Uno stratagemma? Ne siete sicuri?}
-{308}{}{Anche se fossero sinceri, dovremmo forse dividere le nostre risorse con i tagliagole e i ladri che vivono all'esterno di queste mura? Io credo di *no*.}
+{308}{}{Anche se fossero sinceri, dovremmo forse dividere le nostre risorse con i tagliagole e i ladri che vivono all'esterno di queste mura? Io credo di *no.*}
 {309}{}{Capisco. Cosa stava dicendo a proposito dei predoni?}
 {310}{}{Che tipo di problemi ha Vault City con Gecko?}
 {311}{}{Posso farle qualche altra domanda?}

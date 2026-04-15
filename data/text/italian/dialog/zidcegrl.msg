@@ -85,8 +85,8 @@
 {321}{}{Fate il vostro gioco, signore. La puntata minima e' $}
 {322}{}{Fate il vostro gioco, signora. La puntata minima e' $}
 {323}{}{Fate il vostro gioco, la puntata minima e' $}
-{324}{}{Io… più for-te di te.}
-{325}{}{Io… gioco ai dadi… nei pantaloni.}
+{324}{}{Io… più for-te di te}
+{325}{}{Io… gioco ai dadi… nei pantaloni}
 {326}{}{Cosa essere questo gioco? Potere scommettere pelle di gecko? Me ha pelle di...ooooh...luccichini! [Allontanati]}
 {327}{}{[Hai $}
 {328}{}{Punta $}
@@ -96,7 +96,7 @@
 {340}{}{Um... Mi hanno detto che qui sul retro stanno distribuendo dei cervelli. Forse dovresti andare a dare un'occhiata.}
 {341}{}{Uh, very well, sir. Come back soon.}
 {342}{}{Uh, molto bene, signora. Torna presto.}
-{343}{}{Ciaooooo.}
+{343}{}{Ciaooooo}
 {344}{}{Beeene. }
 {345}{}{Uh...cervelli...cosa essere?! Me va vedere!}
 {350}{}{Very well, sir. Come back soon.}

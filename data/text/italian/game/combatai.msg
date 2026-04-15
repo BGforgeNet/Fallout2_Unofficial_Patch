@@ -903,14 +903,14 @@
 {2257}{}{Dai amico, vieni a prenderle.}
 {2258}{}{E beccati questo!}
 {2259}{}{Adoro il sapore del sangue.}
-{2260}{}{Non sei poi cosi' bravo come pensavi}
-{2261}{}{Patetico}
-{2262}{}{Sei solo un criminale da strapazzo}
-{2263}{}{Non sei niente di speciale}
-{2264}{}{Non saro' la tua vittima}
+{2260}{}{Non sei poi cosi' bravo come pensavi.}
+{2261}{}{Patetico.}
+{2262}{}{Sei solo un criminale da strapazzo.}
+{2263}{}{Non sei niente di speciale.}
+{2264}{}{Non saro' la tua vittima.}
 {2265}{}{Questo e' stato il tuo ultimo errore.}
 {2266}{}{Questo era il tuo colpo migliore?}
-{2267}{}{E io che pensavo che questo sarebbe stato un combattimento *serio*.}
+{2267}{}{E io che pensavo che questo sarebbe stato un combattimento *serio.*}
 {2268}{}{Prova a mirare nella *mia* direzione, la prossima volta.}
 {2269}{}{Sei solo un fottuto pagliaccio.}
 {2270}{}{Dannati principianti!}
@@ -1204,7 +1204,7 @@
 {3062}{}{Attacco da parte del bersaglio: fallito. Risposta in elaborazione.}
 {3063}{}{L'unita' non e' stata danneggiata dall'attacco.}
 {3064}{}{Ricalcolo delle capacita' offensive del bersaglio.}
-{3065}{}{Analisi: Errore del bersaglio nella scelta tattica. L'unita' non ha subito danni.}
+{3065}{}{Analisi: Errore del bersaglio nella scelta tattica. L'unita' non ha subito danni}
 {3100}{}{Devo andarmene da qui!}
 {3101}{}{Tornero'...}
 {3102}{}{Non mi ammazzerai oggi!}
@@ -1480,7 +1480,7 @@
 {12243}{}{E' ora di mettere la tua fottuta carcassa nella fossa.}
 {12244}{}{Ti faro' sputare il cuore e ci camminero' sopra.}
 {12245}{}{Mi dispiace solo di non avere il tempo di mettere la tua testa in una pressa...}
-{12246}{}{Lascia che ti mostri cosa facciamo alla spazzatura, da queste parti}
+{12246}{}{Lasciatemi mostrare cosa facciamo con i rifiuti qui intorno...}
 {12247}{}{Ti colpiro' cosi' forte che penserai si tratti di un terremoto...}
 {12248}{}{Ne ho abbastanza di questo stronzo...}
 {12249}{}{Saluta gli angeli da parte mia...}

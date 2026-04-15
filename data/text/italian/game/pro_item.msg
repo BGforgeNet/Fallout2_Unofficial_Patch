@@ -55,7 +55,7 @@
 {2800}{}{Mitra Laser}
 {2801}{}{Un mitragliatore laser H&K L30. Progettata per uso militare, tale arma era un prototipo all'inizio della Guerra. Le canne multiple consentono un volume di fuoco maggiore prima del surriscaldamento. Alimentato da Celle a Micro-Fusione. Min FZ: 6.}
 {2900}{}{10mm JHP}
-{2901}{}{Munizioni. Calibro: 10mm, camiciate a punta cava}
+{2901}{}{Munizioni. Calibro: 10mm, camiciate a punta cava.}
 {3000}{}{10mm AP}
 {3001}{}{Munizioni. Calibro: 10mm, perfora armature.}
 {3100}{}{.44 Magnum JHP}
@@ -106,7 +106,7 @@
 {5301}{}{Una confezione di droghe alteranti la mente. Aumenta le funzioni legate alla memoria, e velocizza gli altri processi mentali. Alto rischio di dipendenza.}
 {5400}{}{Stealth Boy}
 {5401}{}{Un meccanismo di occultamento personale RobCo Stealth Boy 3001. Genera un campo modulante che trasmette la luce riflessa da un lato all'altro di un oggetto.}
-{5500}{}{Chip di depurazione dell'acqua.}
+{5500}{}{Chip di depurazione dell'acqua}
 {5501}{}{Questo e' un Water Chip della Vault-Tec. Di solito ogni scatola ne contiene cinque.}
 {5600}{}{Targhette Militari}
 {5601}{}{Targhette militari. Il nome Dickinson e la parola Enclave sono a malapena leggibili.}
@@ -495,7 +495,7 @@
 {25300}{}{Combinatore Celle di Carburante}
 {25301}{}{Questo chip combina il flusso di energia che entra nel motore elettrico di un'automobile. Molti guidatori hanno bruciato velocemente questo chip effettuando frequenti, rapide accelerazioni. E' a tutt'oggi un oggetto prezioso da possedere -- se solo tu avessi una macchina dove installarlo.}
 {25400}{}{Regolatore Celle di Carburante}
-{25401}{}{Alcuni proprietari d'auto installarono questo regolatore, che raddoppia i km/litro tra un rifornimento e l'altro; a molti guidatori, pero', non interessava quanta benzina consumasse la loro macchina, dato che, in fondo, "la benzina e' economica e abbondante, perche' preoccuparsene?".}
+{25401}{}{Alcuni proprietari d'auto installarono questo regolatore, che raddoppia i km/litro tra un rifornimento e l'altro; a molti guidatori, pero', non interessava quanta benzina consumasse la loro macchina, dato che, in fondo, la benzina e' economica e abbondante, perche' preoccuparsene?}
 {25500}{}{Pass Giornaliero}
 {25501}{}{Questo foglietto spiegazzato ti garantisce l'accesso a tutte le zone di Vault City, tranne il Vault stesso, solo per le ore diurne.}
 {25600}{}{Falsi Documenti di Cittadinanza}
@@ -532,7 +532,7 @@
 {27101}{}{L'abbondante fiore usato come base nella creazione della polvere curativa.}
 {27200}{}{Radice di Xander}
 {27201}{}{La rara radice che dona proprieta' di guarigione alla polvere curativa.}
-{27300}{}{Healing Powder}
+{27300}{}{Polvere curativa}
 {27301}{}{Una sostanza magica curativa molto potente - il suo utilizzo portera' con se' una sensazione di sonnolenza nella tua testa.}
 {27400}{}{Missile per Robot}
 {27401}{}{Usato solo da robot attrezzati con missili.}
@@ -802,7 +802,7 @@
 {41200}{}{Lattina d'Olio}
 {41201}{}{Vedi una lattina di Armor-Go. Un lubrificante dell'era spaziale, a polimeri, per armature potenziate.}
 {41300}{}{Tessera d'Identita' per le Stalle}
-{41301}{}{Questa e' una tessera d'identita' temporanea. E' attraversata da una striscia rossa, che sembra indicare il tuo impiego: "Ricercatore delle Stalle".}
+{41301}{}{Questa e' una tessera d'identita' temporanea. E' attraversata da una striscia rossa, che sembra indicare il tuo impiego: "Ricercatore delle Stalle."}
 {41400}{}{Chiave della Baracca del Vault 15}
 {41401}{}{Una normale chiave.}
 {41500}{}{Occhiali}
@@ -857,11 +857,11 @@
 {44000}{}{Gel Biomedico}
 {44001}{}{Un vasetto di BioGel usato in campo biomedico.}
 {44100}{}{Targhette de "il Biondo"}
-{44101}{}{Queste targhette militari hanno il nome del proprietario cancellato e il nome "il Biondo" inciso sul retro. Sotto al nome c'e' il numero "11".}
+{44101}{}{Queste targhette militari hanno il nome del proprietario cancellato e il nome "il Biondo" inciso sul retro. Sotto al nome c'e' il numero "11."}
 {44200}{}{Targhette di Sentenza}
-{44201}{}{Queste targhette militari indentificano il proprietario come "Sentenza". Sotto al nome c'e' il numero "16".}
+{44201}{}{Queste targhette militari indentificano il proprietario come "Sentenza". Sotto al nome c'e' il numero "16."}
 {44300}{}{Targhette di Tuco}
-{44301}{}{Queste targhette militari puzzolenti indentificano il proprietario come "Tuco Benedicto Pacifico Juan Maria Ramirez", seguito dal numero "27".}
+{44301}{}{Queste targhette militari puzzolenti indentificano il proprietario come "Tuco Benedicto Pacifico Juan Maria Ramirez", seguito dal numero "27."}
 {44400}{}{Mappa dei Predoni}
 {44401}{}{Questa e' una mappa spiegazzata del Nord California pre-bellico. Reno e le circostanti piste per carovane sono evidenziati in rosso, e c'e' una "X" rossa lontano ad est di Reno con la scritta "Predoni" scarabocchiata sotto.}
 {44500}{}{Stella dello Sceriffo}
@@ -928,9 +928,9 @@
 {47600}{}{Lettera dell'Illuminata}
 {47601}{}{Un resoconto indirizzato all'AHS-9 di San Francisco. E' assolutamente noioso da leggere: tabelle di aggiustamenti oppressivi, rapporti spese e altre ciarle indegne del tuo tempo.}
 {47700}{}{Olodisco di una Trasmissione}
-{47701}{}{L'etichetta dice: "Galaxy News Network".}
+{47701}{}{L'etichetta dice: "Galaxy News Network."}
 {47800}{}{Olodisco sulla Missione Sierra}
-{47801}{}{L'etichetta dice: "Stato della Missione".}
+{47801}{}{L'etichetta dice: "Stato della Missione."}
 {47900}{}{Componenti NavCom}
 {47901}{}{Questi sono parti di computer da installare all'interno di qualche macchinario. Il fatto che dicano "Poseidon Oil" e "Computer di Navigazione" ti induce a pensare che vadano installati in un Computer di Navigazione della Poseidon Oil.}
 {48000}{}{Bonus: +1 Agilita'}
@@ -996,7 +996,7 @@
 {51600}{}{Amlpificatore Medico PIPboy}
 {51601}{}{Questo amplificatore consiste di un olodisco, un cavo a microfilamenti, una fascia per la testa, e un sensore ottico che va piazzato sull'occhio sx dell'utente. Un lampo ottico trasmette un'intera enciclopedia e altre conoscenze nella memoria, aumentando permanentemente le abilita' mediche.}
 {51700}{}{"Little Jesus"}
-{51701}{}{Questa lama dall'aspetto cattivo un tempo apparteneva a Little Jesus Mordino. Ha molte tacche e tagli sulla sua superficie, ma il suo filo e' tagliente come un rasoio. Sul manico e' inciso "Little Jesus".}
+{51701}{}{Questa lama dall'aspetto cattivo un tempo apparteneva a Little Jesus Mordino. Ha molte tacche e tagli sulla sua superficie, ma il suo filo e' tagliente come un rasoio. Sul manico e' inciso "Little Jesus."}
 {51800}{}{Doppio Mitragliatore}
 {51801}{}{Usato solo da Auto-Cannone.}
 {51900}{}{Tappi di Bottiglia}

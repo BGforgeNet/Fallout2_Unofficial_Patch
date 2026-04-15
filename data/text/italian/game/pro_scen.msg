@@ -1133,7 +1133,7 @@
 {59900}{}{Insegna}
 {59901}{}{Quest'insegna dice: Emporio.}
 {60000}{}{Insegna}
-{60001}{}{Quest'insegna dice: Mercato.}
+{60001}{}{Quest'insegna dice: Mercato}
 {60100}{}{Pozza Verdognola}
 {60101}{}{Sembra poco salutare. Faresti meglio a indossare un costume da bagno corazzato prima di farci un tuffo.}
 {60200}{}{Pozza Verdognola}

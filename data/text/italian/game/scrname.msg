@@ -115,7 +115,7 @@
 {215}{}{Mr. Smith}
 {216}{}{Skeeve}
 {217}{}{il Proconsole Gregory}
-{218}{}{Infermiera Phyllis.}
+{218}{}{Infermiera Phyllis}
 {219}{}{Randal}
 {220}{}{Sostanza Gelatinosa}
 {221}{}{Barkus}

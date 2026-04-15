@@ -37,7 +37,7 @@
 {136}{}{Sembra proprio che ci troviamo di fronte all'ennesima vittima dell'accoppiamento tra consanguinei, cosi' frequente tra gli Esterni... ascolta, subumano, vattene da qui prima di farti del male, okay?}
 {137}{}{ME NO VAH!}
 {138}{}{-Allontanati-}
-{139}{}{Si', "autorizzazione".}
+{139}{}{Si', "autorizzazione."}
 {140}{}{Se vuoi entrare a Vault City, devi parlare con Wallace, il Responsabile della Dogana. Da lui potrai farti rilasciare un Pass Giornaliero.}
 {141}{}{Dove posso trovare Wallace?}
 {142}{}{Un Pass Giornaliero? Cos'e'?}

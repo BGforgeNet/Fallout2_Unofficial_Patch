@@ -7,7 +7,7 @@
 {106}{}{Smamma. Non ho niente da dirti.}
 {107}{}{Oh, uh, ehi, Capitano. E' una bella giornata, vero?}
 {108}{}{Beh, che mi venga un colpo se quello non e' il nuovo Cittadino.}
-{109}{}{Ehila', "Cittadino".}
+{109}{}{Ehila', "Cittadino."}
 {110}{}{Non puoi portare mutanti qui dentro.}
 {111}{}{Non puoi portare ghoul qui dentro.}
 {112}{}{Siamo chiusi per la notte. Torna domani mattina.}
@@ -28,9 +28,9 @@
 {127}{}{Quali altri modi?}
 {128}{}{Grazie. Allora andro' da Wallace.}
 {129}{}{Qualche consiglio? Beh, i consigli costano, Esterno. Hai del denaro con te?}
-{130}{}{-Dagli 50$-}
-{131}{}{-Dagli 75$-}
-{132}{}{-Dagli 100$-}
+{130}{}{Dagli 50$.}
+{131}{}{Dagli 75$.}
+{132}{}{Dagli 100$.}
 {133}{}{Quelli che ho non credo possano stimolare il tuo interesse. Tornero' quando avro' qualche dollaro in piu'.}
 {134}{}{Come non detto. Magari sara' per un'altra volta.}
 {135}{}{Beh, ci sono un paio di cose che potresti fare. Una di queste e' diventare un Cittadino. Non perquisiscono mai i Cittadini. Naturalmente le tue chance di diventare un Cittadino sono praticamente pari a zero.}

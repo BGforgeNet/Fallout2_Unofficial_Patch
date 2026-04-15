@@ -14,7 +14,7 @@
 {113}{}{Don't Comeline.}
 {114}{}{Puntata su combinazioni di numeri...}
 {115}{}{Puntata su numero...}
-{116}{}{Puntata sul Field.}
+{116}{}{Puntata sul Field}
 {118}{}{Tira}
 {119}{}{Puntata sul Passline:}
 {120}{}{Puntata sul don't Passline:}

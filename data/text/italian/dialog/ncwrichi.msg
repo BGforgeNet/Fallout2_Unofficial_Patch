@@ -26,7 +26,7 @@
 {216}{}{Quel cervello dentro al robot e' un cervello veeero?}
 {217}{}{Oooooooh. Guardate il robot!}
 {218}{}{Guardate il mutante! Guardate il mutante!}
-{219}{}{Mutante, mutande, mutante, mutande.}
+{219}{}{Mutante, mutande, mutante, mutande}
 {220}{}{Quello e' un vero mutante? E' "bruttiffimo".}
 {221}{}{Oooooooh. Guardate il mutante!}
 {222}{}{Quel mutante e' GROSSO. Piu' grosso del mio papa'.}
@@ -85,7 +85,7 @@
 {436}{}{Uh...beh...i robot...hanno l'olio, dentro. Gli umani...beh, gli umani...sanguinano.}
 {445}{}{La mia mamma e le mie sorelle grandi sanguinano ogni mese circa. Poi diventano molto scontrose. Vorrei tanto che fossero robot.}
 {446}{}{Uh...certo. Magnifico. Senti, adesso devo andare - non dire a tua madre che hai parlato con me.}
-{456}{}{Me fa pipi' qui dentro. Me deve solo abituarsi a puzza.}
+{456}{}{Me fa pipi' qui dentro. Me deve solo abituarsi a puzza}
 {459}{}{Eh eh. In realta', la pipi' la faccio dentro l'armatura. L'urina viene poi riciclata, come le altre cose. Interessante, no? Tu sai cosa vuol dire "riciclare", eh, piccolo?}
 {460}{}{Di certo non e' comodo. Senti, mi spiace per tuo fratello Richie. Tu sai cosa gli e' successo?}
 {475}{}{Che SCHIFO.}
@@ -94,7 +94,7 @@
 {479}{}{Uh, eh...eheh. Veramente vuol dire che...}
 {485}{}{Tu bevi la pipi'! Tu bevi la pipi'!}
 {486}{}{Uh, eh...eheh...abbassa la voce, piccolo...riciclare non significa che bevo la mia p... beh, non ESATTAMENTE almeno...cioe'...}
-{487}{}{-Lascia che lo stronzetto torni a giocare con i suoi amici-}
+{487}{}{Lascia che lo stronzetto torni a giocare con i suoi amici.}
 {488}{}{(Te ne vai.)}
 {495}{}{Quello e' un robot VERO?}
 {499}{}{Il Robobrain? Beh, si': lo e'.}
@@ -108,7 +108,7 @@
 {530}{}{Beh, si': E' un mutante. Gosh, spero proprio che non abbia fame di bambini...}
 {531}{}{Beh, si'. Un mutante molto AFFAMATO. Ed e' quasi ora del suo spuntino. Una fortunata coincidenza.}
 {532}{}{Si', lo e'. Senti, mi dispiace per tuo fratello Richie. Tu sai cosa gli e' successo?}
-{540}{}{(Il bambino si ferma e ti guarda.)}
+{540}{}{Il bambino si ferma e ti guarda.}
 {541}{}{Ciaooooo}
 {544}{}{Ciao, piccolo.}
 {545}{}{Ehila', piccola.}
@@ -124,8 +124,8 @@
 {575}{}{Conosci "E l'universo intero e' con Lui?"}
 {576}{}{Si'.}
 {580}{}{::Canta:: "E l'universo intero e' con Lui. E l'universo intero e' con Lui." Dai.}
-{581}{}{::Canta:: "E l'universo intero e' con Lui. E l'universo intero e' con Lui."}
-{585}{}{::Cantando insieme:: "E l'universo intero e' con Lui." ::Cantando piu' piano:: "E l'universo intero e' con Lui."}
+{581}{}{::Canta:: E l'universo intero e' con Lui. E l'universo intero e' con Lui.}
+{585}{}{::Cantando insieme:: E l'universo intero e' con Lui. ::Cantando piu' piano:: E l'universo intero e' con Lui.}
 {586}{}{Grazie per aver cantato con me. Magari tornero' piu' tardi... se mi servira' un cappello.}
 {590}{}{(Il bambino ti strizza l'occhio.)}
 {591}{}{D'accordo. Ci vediamo.}
@@ -150,7 +150,7 @@
 {710}{}{Uh-uh. Il papa' e' davvero arrabbiato perche' non sa chi ha ucciso Richie. Dice che se mai dovesse beccarci a farci di Jet, ci prendera' a cinghiate.}
 {711}{}{Tu sai CHI potrebbe aver dato a Richie il Jet che l'ha ucciso?}
 {712}{}{Tu sai DOVE Richie ha preso il Jet che l'ha ucciso?}
-{713}{}{-Lascia che il piccolo torni a giocare-}
+{713}{}{Lascia che il piccolo torni a giocare.}
 {720}{}{Uh-uh.}
 {730}{}{Uh-uh. Passava molto nella zona ovest della citta', vicino alla Zona Commerciale, e papa' ci ha detto di non andare laggiu'.}
 {800}{}{*Shhh* Dovrei gia' essere addormentato.}

@@ -107,7 +107,7 @@
 {206}{}{Non e' lampante, mio mutato amico? Il FEV e', grazie a me, una tossina letale e, grazie ad un misterioso genio chiamato - con un certa dose di drammaticita' - il Master, agisce solamente sugli umani, mutati e non.}
 {207}{}{E allora?}
 {208}{}{Cio' significa che abbiamo a disposizione lo strumento perfetto per l'eliminazione totale di tutti i mutanti umanoidi che infestano il pianeta.}
-{209}{}{Ancora non riesco a capire perche' e' "perfetto".}
+{209}{}{Ancora non riesco a capire perche' e' *perfetto.*}
 {210}{}{Voglio chiederle qualcosa a proposito di qualcun'altra delle sue folli idee.}
 {211}{}{La tossina FEV colpira' soltanto gli umani, lasciando tutto il resto in vita. Meglio ancora, entro un mese tutti i mutanti saranno morti e la tossina FEV scomparira' non appena non ci saranno piu' ospiti viventi.}
 {212}{}{Non credo che abbiate un numero sufficiente di vertibird per diffondere la tossina in tutto il globo.}

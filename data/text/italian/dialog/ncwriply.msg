@@ -60,7 +60,7 @@
 {312}{}{Tu sei una cattiva persona. Faresti meglio ad andartene prima che lo vada a dire ai miei fratelli.}
 {320}{}{(Il bambino smette di fare *bzzzzz* e solleva la pentola per guardarti meglio.)}
 {321}{}{Puo' anche }
-{322}{}{Scusaaaa. Me pensava tu essere pentola. Ciaoooo.}
+{322}{}{Scusaaaa. Me pensava tu essere pentola. Ciaoooo}
 {323}{}{Perche' vai in giro con una pentola in testa?}
 {324}{}{A cosa state giocando?}
 {325}{}{Dove sono i tuoi genitori?}
@@ -72,7 +72,7 @@
 {334}{}{No! }
 {335}{}{Ooooh...cosa essere laggiu'?}
 {340}{}{(Il piccolo ometto si cala di nuovo la pentola sugli occhi e ricomincia a correre facendo *bzzzzzz*.)}
-{341}{}{-Corri un po' con lui, facendo *bzzzzzz* anche tu-}
+{341}{}{Corri un po' con lui, facendo *bzzzzzz* anche tu.}
 {342}{}{-Allontanati-}
 {343}{}{(Te ne vai.)}
 {350}{}{INSETTO, stupi?do! Ne abbiamo visto uno quando eravamo nel deserto! Era grande… (fa un bel respiro) …grande come una CASA!
@@ -86,7 +86,7 @@ E dentro c’erano persone di METALLO.}
 {360}{}{Ah-a! L'abbiamo visto.}
 {362}{}{Ah-ah-ah-ah}
 {363}{}{Noh-oh-oh-oh}
-{364}{}{-Ti allontani e fai "ahhh" a qualcun altro-}
+{364}{}{Ti allontani e fai "ahhh" a qualcun altro.}
 {370}{}{Ah-a! Te lo faro' vedere! Andremo a vederlo quando fara' DAVVEEERO buio. }
 {371}{}{Ah-a! Te lo faro' vedere! Andremo a vederlo stanotte. }
 {372}{}{Vuoi venire? (Il piccolo ometto ti guarda con occhio furbo) Ma devi fare mooooolto silenzio. Moooooolto silenzio.}
@@ -98,7 +98,7 @@ E dentro c’erano persone di METALLO.}
 {383}{}{-Ti copri le orecchie e scappi via-}
 {384}{}{D'accordo...per questa volta. Vacci piano con il Jet, ragazzo.}
 {390}{}{(Ti guarda con occhio furbo.) Fai gli stessi versi che la mamma e il papa' fanno quando vanno a letto.}
-{391}{}{Dove voi visto incesto? Me anche volere vedere.}
+{391}{}{Dove voi visto incesto? Me anche volere vedere}
 {400}{}{Non sto dicendo una bugia, stupido! Andremo a vederlo quando fara' DAVVEEERO buio. }
 {401}{}{Non sto dicendo una bugia, stupido! Andremo a vederlo stanotte. }
 {403}{}{NO chiamare me stupido, STUPIDO}

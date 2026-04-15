@@ -5,14 +5,14 @@
 {104}{}{Oooh. Pelosetti.}
 {105}{}{Pelosi belli.}
 {106}{}{Ah, capisco. Devi essere nuovo di qui. Bene, ascoltami. Piazzero' una scommessa speciale per te, durante gli incontri di domani. Che ne dici, vuoi che lo faccia?}
-{107}{}{(Annuisci) Ook, ook. (e le porgi il portamonete).}
+{107}{}{(Annuisci) Ook, ook. (e le porgi il portamonete)}
 {108}{}{Mook? Gaga. Ciao pelosetti.}
 {109}{}{Bravo. Torna qui domani e se la tua creatura ha vinto il suo incontro, io ti daro' i tuoi soldi. Okay?}
 {110}{}{OK, ottima mossa. Faro' in modo di piazzare una scommessa davvero speciale, con questi. Ci vediamo.}
 {111}{}{Vinto?}
 {112}{}{Okay... ciao ciao.}
 {113}{}{No, mi dispiace. Ma sento che la prossima volta andra' molto meglio. Vuoi che piazzi un'altra scommessa speciale?}
-{114}{}{Okay. Gaie. (annuisci e le porgi il portamonete)}
+{114}{}{Okay. Gaie. (annuisci e le porgi il portamonete).}
 {115}{}{Booo? Ciao.}
 {116}{}{Mi dispiace molto, ma non hai soldi sufficienti per scommettere. Torna quando avrai messo insieme qualche spicciolo.}
 {117}{}{Okay, bello bello. Ciao.}

@@ -2,7 +2,7 @@
 {101}{}{Vedi una donna bruna, vestita con una tuta marrone e un'armatura di metallo. Si direbbe un meccanico.}
 {102}{}{Vedi Val. O Valerie. O quel che e'.}
 {103}{}{Vedi una donna bruna, vestita con una tuta marrone e un'armatura di metallo. Si direbbe un meccanico.}
-{104}{}{Oh, ciao, "Papa'".}
+{104}{}{Oh, ciao, "Papa'."}
 {105}{}{1 Second}
 {106}{}{Valerie. E' bello rivederti.}
 {107}{}{Oh, uh, ciao, Papa'. E' bello rivederti. Davvero.}
@@ -214,7 +214,7 @@
 {313}{}{3 Seconds}
 {314}{}{Cos-?! Non e' vero!}
 {315}{}{2 Seconds}
-{316}{}{Sentiamo cosa dice il tuo "boss".}
+{316}{}{Sentiamo cosa dice il tuo "boss."}
 {317}{}{2 Seconds}
 {318}{}{Beh... sa riparare ricetrasmittenti. E altra roba.}
 {319}{}{Ub nuwb ub}

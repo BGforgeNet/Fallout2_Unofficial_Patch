@@ -40,7 +40,7 @@
 {139}{}{Capisco. Riproviamoci, allora. Salve. Io sono Valdis. Qual e' il tuo nome?}
 {140}{}{Me}
 {141}{}{Addio.}
-{142}{}{Personale non autorizzato. In parole povere 'persone che non hanno il permesso di stare qui'.}
+{142}{}{Personale non autorizzato. In parole povere 'persone che non hanno il permesso di stare qui.'}
 {143}{}{Ok. Me capisce.}
 {144}{}{Me ha di nuovo mal di testa. Me va ora.}
 {145}{}{Il mio scopo e' quello di mantenere la calma il piu' possibile, nonostante la vostra maleducazione. Se non riuscite a comportarvi in maniera piu' civile, andatevene, per cortesia.}

@@ -50,10 +50,10 @@
 {1140}{}{Oof!}
 {1160}{}{Aggghhh! la gamba!}
 {1161}{}{La gamba!}
-{1162}{}{Ecco che il ginocchio va a farsi benedire.}
+{1162}{}{Ecco che il ginocchio va a farsi benedire}
 {1170}{}{Aggghhh! la gamba!}
 {1171}{}{La gamba!}
-{1172}{}{Ecco che il ginocchio va a farsi benedire.}
+{1172}{}{Ecco che il ginocchio va a farsi benedire}
 {1180}{}{Aggghhh! Sono cieco!}
 {1181}{}{Gli occhi! Gli occhi!}
 {1182}{}{Il mio occhio! La pagherai per questo!}
@@ -498,11 +498,11 @@
 {2247}{}{Ti randellero' come un figliastro pel-di-carota.}
 {2248}{}{Animale!}
 {2249}{}{Ti pentirai di aver messo piede qui dentro!}
-{2260}{}{Non sei poi cosi' bravo come pensavi}
-{2261}{}{Patetico}
-{2262}{}{Sei solo un criminale da strapazzo}
-{2263}{}{Non sei niente di speciale}
-{2264}{}{Non saro' la tua vittima}
+{2260}{}{Non sei poi cosi' bravo come pensavi.}
+{2261}{}{Patetico.}
+{2262}{}{Sei solo un criminale da strapazzo.}
+{2263}{}{Non sei niente di speciale.}
+{2264}{}{Non saro' la tua vittima.}
 {2265}{}{Questo e' stato il tuo ultimo errore.}
 {2300}{}{Me ne vado all'estero.}
 {2301}{}{Tornero'!}
@@ -945,7 +945,7 @@
 {12243}{}{E' ora di mettere la tua fottuta carcassa nella fossa.}
 {12244}{}{Ti faro' sputare il cuore e ci camminero' sopra.}
 {12245}{}{Mi dispiace solo di non avere il tempo di mettere la tua testa in una pressa...}
-{12246}{}{Lascia che ti mostri cosa facciamo alla spazzatura, da queste parti}
+{12246}{}{Lasciatemi mostrare cosa facciamo con i rifiuti qui intorno...}
 {12247}{}{Ti colpiro' cosi' forte che penserai si tratti di un terremoto...}
 {12248}{}{Ne ho abbastanza di questo stronzo...}
 {12249}{}{Saluta gli angeli da parte mia...}

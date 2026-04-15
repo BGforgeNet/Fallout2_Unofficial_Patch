@@ -40,7 +40,7 @@
 {139}{}{Fammi uscire da qui.}
 {140}{}{Ehi, lasciami uscire.}
 {141}{}{Sono innocente.}
-{142}{}{Non ho fatto niente.}
+{142}{}{Non ho fatto niente}
 {143}{}{Sceriffo? Devo andare a pisciare.}
 {144}{}{Cosa diavolo vuoi?}
 {145}{}{Non permettero' che vi azzuffiate.}

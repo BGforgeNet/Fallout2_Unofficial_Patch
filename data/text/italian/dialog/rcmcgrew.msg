@@ -197,5 +197,5 @@
 {296}{}{Me ne vado. Non serve che ti fai venire la schiuma alla bocca. Addio.}
 {297}{}{Nessuno dice una cosa del genere a Dan McGrew e la passa liscia.}
 {298}{}{Guarda me.}
-{299}{}{Gia', lo credo... "Dangerous Dan".}
+{299}{}{Gia', lo credo... "Dangerous Dan."}
 {300}{}{Scusami, Dan; non intendevo dire nulla. Stavo solo s-scherzando. Gia', proprio cosi'. Addio.}

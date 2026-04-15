@@ -1,4 +1,4 @@
-{200}{}{Bridge}
+{200}{}{Ponte}
 {201}{}{Villaggio}
 {202}{}{Sagrato del Tempio}
 {203}{}{Selva}
@@ -137,7 +137,7 @@
 {521}{}{la Testa Enorme}
 {530}{}{Luogo dell'Impatto}
 {540}{}{Deserto}
-{550}{}{Bridge}
+{550}{}{Ponte}
 {560}{}{Caffe' dei Sogni Infranti}
 {570}{}{Deserto}
 {580}{}{Caverna}
@@ -328,7 +328,7 @@
 {3518}{}{Un gruppo di nomadi.}
 {3519}{}{Un uomo a guardia di un ponte.}
 {3520}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{3550}{}{Discarica di rifiuti tossici.}
+{3550}{}{Discarica di rifiuti tossici}
 {3551}{}{Un cane solitario.}
 {3552}{}{Una mandria di brahmin.}
 {3553}{}{Un branco di gecki dorati e una famiglia di radscorpioni.}
@@ -366,7 +366,7 @@
 {3585}{}{Uno shuttle precipitato.}
 {3586}{}{Un Portale del Guardian.}
 {3587}{}{I cavalieri di Re Artu'.}
-{3588}{}{Un boscaiolo di latta.}
+{3588}{}{Un boscaiolo di latta}
 {3589}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {3600}{}{Un branco di gecki dorati e una famiglia di radscorpioni.}
 {3601}{}{Alcuni banditi.}

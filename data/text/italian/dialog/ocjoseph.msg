@@ -1,6 +1,6 @@
 {100}{}{Vedi un uomo basso con un libro in mano.}
 {101}{}{Vedi Joseph, l'erborista.}
-{102}{}{Vedi un uomo basso con un libro intitolato "Le erbe e il loro uso in medicina".}
+{102}{}{Vedi un uomo basso con un libro intitolato "Le erbe e il loro uso in medicina."}
 {103}{}{Salve, sono Joseph l'erborista. Come posso aiutarti?}
 {104}{}{Fatto bua. Tu riparare?}
 {105}{}{Tanto vomito. Tu riparare?}

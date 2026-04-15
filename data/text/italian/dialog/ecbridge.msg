@@ -4,7 +4,7 @@
 {103}{}{Vedi un uomo dallo sguardo allucinato con una barba incolta e una voce rauca. Il suo occhio sinistro sembra esser quasi sul punto di saltar fuori dall'orbita.}
 {104}{}{Alt! Chiunque voglia attraversare il Ponte della Morte a tre mie domande deve dar risposta, prima di ricever da me il nulla osta.}
 {105}{}{Cii...Diiii...Eee...Ffff...Gggg}
-{106}{}{-Allontanati-}
+{106}{}{Allontanati.}
 {107}{}{Molto bene.}
 {108}{}{Fammi pure queste domande, guardiano del ponte. Io non ho paura.}
 {109}{}{Magari ripasso piu' tardi.}
@@ -12,7 +12,7 @@
 {111}{}{Hhhh....I...Jei...K...Lelle...}
 {112}{}{?}
 {113}{}{Me}
-{114}{}{-Allontanati-}
+{114}{}{Allontanati.}
 {115}{}{di Arroyo.}
 {116}{}{Harry}
 {117}{}{Hakunin}

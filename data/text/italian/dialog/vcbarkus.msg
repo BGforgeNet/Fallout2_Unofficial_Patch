@@ -29,7 +29,7 @@
 {128}{}{Grazie per le indicazioni. addio.}
 {129}{}{Cosa dia-? Sei per caso uno dei nuovi Servi?}
 {130}{}{Yup}
-{131}{}{Uh-uh me andare via, ora.}
+{131}{}{Uh-uh me andare via, ora}
 {132}{}{Devi essere nuovo di qui. Te lo spieghero'...lentamente.}
 {133}{}{I Cittadini che hanno bisogno di aiuto per lavori umili vengono qui per farsi assegnare un Servo per la giornata.}
 {134}{}{A me questo sembra schiavismo bello e buono.}

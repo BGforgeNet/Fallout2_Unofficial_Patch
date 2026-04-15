@@ -21,8 +21,8 @@
 {120}{}{(Mi domando se questo funzionera'...) Smith, J.}
 {121}{}{Indietro.}
 {123}{}{Credo sia meglio provare a farlo da qualche altra parte.}
-{124}{}{Visualizzazione elenco in corso (il terminale mostra una lista di circa 500 nomi)}
-{125}{}{Visualizzazione elenco in corso (il computer mostra una lista di nomi)}
+{124}{}{Visualizzazione elenco in corso (il terminale mostra una lista di circa 500 nomi).}
+{125}{}{Visualizzazione elenco in corso (il computer mostra una lista di nomi).}
 {126}{}{Selezionare ID Utente o uscire dal programma:}
 {127}{}{(Questo qua ha un livello di accesso non male.) Smith, J.}
 {128}{}{(Questo sembra essere speciale.) Sistemi di Sicurezza - richiesta tessera presidenziale.}
@@ -161,7 +161,7 @@
 {262}{}{Individuata procedura illegale. E' negato ogni ulteriore accesso a questo terminale... Inviata richiesta d'intervento squadra di manutenzione.}
 {263}{}{Dannazione. Non e' proprio quel che volevo.}
 {264}{}{Tessera Presidenziale di Sicurezza riconosciuta. Buongiorno, signor Presidente. (Si'! Ora vediamo cosa riesco a...)}
-{265}{}{Cos'altro posso fare...}
+{265}{}{(Cos'altro posso fare?)}
 {266}{}{Tessera Presidenziale di Sicurezza riconosciuta. Buongiorno, signor Presidente... Protocollo di Emergenza Contro-Sommossa attivato...**Errore** Bersaglio non trovato. Assicurarsi che i sensori stiano lavorando correttamente altrimenti, per autorizzare le riparazioni necessarie, prego inviare il modulo FG-I-106-32-0635. Grazie per aver usato un altro magnifico prodotto Vault-Tec. Buona giornata.}
 {267}{}{(Mmm... Forse funzionera' quando li' ci sara' effettivamente qualcuno. Faro' un tentativo piu' tardi.) Ritornare a ID utente.}
 {268}{}{(Mi chiedo cos'altro potrei provare...) Indietro.}

@@ -73,7 +73,7 @@
 {172}{}{Lo faro'.}
 {173}{}{No, non e' nel mio stile.}
 {174}{}{La conoscenza costa. Sono stato abbastanza chiaro?}
-{175}{}{"La conoscenza non ha prezzo".}
+{175}{}{"La conoscenza non ha prezzo."}
 {176}{}{Ecco 50$.}
 {177}{}{Scordatelo.}
 {178}{}{Oh, sei tu quella persona.}

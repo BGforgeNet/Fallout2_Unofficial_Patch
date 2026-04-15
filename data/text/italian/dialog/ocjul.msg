@@ -5,7 +5,7 @@
 {104}{}{Okay. Me va via.}
 {105}{}{Cosa essere questo posto?}
 {106}{}{Chi tu?}
-{107}{}{D'accordo, me ne vado.}
+{107}{}{D'accordo, me ne vado}
 {108}{}{Io vado dove voglio, alito di lucertola!}
 {109}{}{Cos'e' questo posto?}
 {110}{}{Chi sei?}

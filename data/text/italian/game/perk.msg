@@ -73,7 +73,7 @@
 {173}{}{Armor Charisma}
 {174}{}{Scuoiatura Gecki}
 {175}{}{Armatura Dermica Anti-Impatto}
-{176}{}{Pot. Imp. Dermico d'Assalto}
+{176}{}{Pot. Imp. Dermico d'Assalto.}
 {177}{}{Armatura Dermica Phoenix}
 {178}{}{Potenz. Phoenix d'Assalto}
 {179}{}{Vaccinazioni di Vault City}

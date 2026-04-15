@@ -20,7 +20,7 @@
 {119}{}{L'Emporio e' chiuso. Sto finendo di compilare queste liste prima di andare a casa.}
 {120}{}{Ehila', straniero. E' sempre un piacere vedere qualche faccia nuova. Io sono Randal... sono l'Addetto Responsabile dell'Emporio. Ti serve qualcosa?}
 {121}{}{Gechkk}
-{122}{}{Nooooooooouuu.}
+{122}{}{Nooooooooouuu}
 {123}{}{-Allontanati-}
 {124}{}{Beh, dipende. Cos'e' questo posto?}
 {125}{}{Al momento non mi serve nulla, grazie.}

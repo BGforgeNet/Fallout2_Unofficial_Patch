@@ -1,5 +1,5 @@
 {100}{}{Vedi un vecchio malinconico.}
-{101}{}{Vedi Dave, il "Sig. Depressione".}
+{101}{}{Vedi Dave, il "Sig. Depressione."}
 {102}{}{Vedi un uomo vecchio e burbero alle soglie dei sessant'anni. Ha una faccia consumata e sembra aver subito dei maltrattamenti.}
 {103}{}{Oh. Non avevo visto che eri li'.}
 {104}{}{Come no vedere? Me grande.}

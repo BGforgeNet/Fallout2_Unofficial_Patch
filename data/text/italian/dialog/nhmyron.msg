@@ -227,7 +227,7 @@
 {790}{myn118}{Beh, non fu troppo difficile creare un buon prodotto. Un campione di quell'estratto di proteine pre-bellico, modificato e bam! -- ecco un'anfetamina decente.}
 {791}{}{Spiegami la storia di Redding, ok?}
 {792}{}{Uh, "estratto di proteine?"}
-{800}{myn119}{Redding? Una citta' piena di cercatori d'oro. Mordino vuole averne il controllo assoluto. Percio' e venuto da me, con la sua voce sibilante e ha detto: "Myron, Myron, creami qualcosa che mi dia il controllo su Redding".}
+{800}{myn119}{Redding? Una citta' piena di cercatori d'oro. Mordino vuole averne il controllo assoluto. Percio' e venuto da me, con la sua voce sibilante e ha detto: "Myron, Myron, creami qualcosa che mi dia il controllo su Redding."}
 {801}{}{E tu hai detto...}
 {810}{myn120}{E io dissi: "Okay, per quando lo vuole pronto?" E lui - ovviamente - "Per ieri". 'Sti boss del crimine. Vogliono che sia fatto tutto in fretta e furia. E per fortuna non hanno un dipartimento marketing.}
 {811}{}{Capisco. Torna a parlarmi della produzione del Jet.}
@@ -511,7 +511,7 @@
 {1587}{}{Ci pensero'. Ho ancora un paio di domande da farti...}
 {1588}{}{Bene, ci pensero'... e' solo che, beh, senza offesa, ma i cervelloni hanno la fama di essere praticamente inutili nei combattimenti.}
 {1589}{}{Dovro' pensarci su. Tornero'.}
-{1595}{myn119}{Redding? Una citta' piena di cercatori d'oro. Mordino vuole averne il controllo assoluto. Percio' e venuto da me, con la sua voce sibilante e ha detto: "Myron, Myron, creami qualcosa che mi dia il controllo su Redding".}
+{1595}{myn119}{Redding? Una citta' piena di cercatori d'oro. Mordino vuole averne il controllo assoluto. Percio' e venuto da me, con la sua voce sibilante e ha detto: "Myron, Myron, creami qualcosa che mi dia il controllo su Redding."}
 {1596}{}{E tu hai detto...}
 {1597}{}{Hmmm. Avrei delle altre domande...}
 {1605}{myn120}{E io ho detto, "Okay, per quando lo vuole pronto?" E lui - ovviamente - "Per ieri". 'Sti boss del crimine. Vogliono tutto e subito. E per fortuna non hanno un dipartimento marketing.}

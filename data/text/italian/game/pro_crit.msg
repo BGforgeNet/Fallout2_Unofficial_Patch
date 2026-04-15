@@ -302,7 +302,7 @@
 {28500}{}{la Straniera Mistriosa}
 {28600}{}{la Straniera Mistriosa}
 {28700}{}{la Straniera Mistriosa}
-{28800}{}{il Gorilla del Pres.}
+{28800}{}{il Gorilla del Pres}
 {28900}{}{un Uovo di Deathclaw}
 {29000}{}{Metzger}
 {29100}{}{una Persona}

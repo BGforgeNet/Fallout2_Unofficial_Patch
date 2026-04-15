@@ -35,7 +35,7 @@
 {210}{}{Grim ha finalmente trovato uno scopo - fare il fertilizzante.}
 {211}{}{E' questo che succede ad usare il sapone...}
 {212}{}{Adesso ce ne dobbiamo andare!}
-{213}{}{"Questa casa e' pulita".}
+{213}{}{'Questa casa e' pulita.'}
 {214}{}{Posso toccarlo con un bastone per essere sicuro che sia morto davvero?}
 {215}{}{Non aspettarci!}
 {216}{}{E' un lavoro sporco... e mi piace tantissimo!}

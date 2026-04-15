@@ -54,7 +54,7 @@
 {153}{}{Okay, me chiede altro.}
 {154}{}{Perche'? Voglio dire, non e' strana una cosa del genere?}
 {155}{}{Capisco. Parliamo d'altro.}
-{156}{}{Non conosco l'intera storia, ma ad un certo punto della storia del vault ci fu una ribellione. Il Supervisore fu ucciso o rovesciato, non sono sicuro. Ad ogni modo, i capi della rivoluzione non vollero affidare il destino della gente nelle mani di un altro Supervisore, per cui installarono questo mainframe. Le cronache dicono che fu acquistato da... oh, qual era quel nome... ah, ora ricordo, la "Confraternita d'Acciaio".}
+{156}{}{Non conosco l'intera storia, ma ad un certo punto della storia del vault ci fu una ribellione. Il Supervisore fu ucciso o rovesciato, non sono sicuro. Ad ogni modo, i capi della rivoluzione non vollero affidare il destino della gente nelle mani di un altro Supervisore, per cui installarono questo mainframe. Le cronache dicono che fu acquistato da... oh, qual era quel nome... ah, ora ricordo, la "Confraternita d'Acciaio."}
 {157}{}{Potere tu parlare di Confraternita?}
 {158}{}{Puoi dirmi qualcosa a proposito di questa Confraternita?}
 {159}{}{No, mi dispiace, non ho informazioni su di loro. Tutto e' successo diversi anni fa e non ho mai trovato altri riferimenti a loro oltre a questo. Tuttavia, e' mia opinione che la Confraternita fosse un corpo militare e a ovest di qui ci sono delle vecchie rovine di quella che sembrerebbe essere una base militare. Potrebbe essere cio' che rimane di loro.}

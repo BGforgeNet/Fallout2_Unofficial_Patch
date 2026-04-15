@@ -1,6 +1,6 @@
 {100}{}{OK}
 {101}{}{OPZIONI}
-{102}{}{CANC.}
+{102}{}{CANC}
 {103}{}{STAMPA}
 {104}{}{ETA'}
 {105}{}{SESSO}
@@ -57,7 +57,7 @@
 {156}{}{TRATTI}
 {157}{}{Tutte le caratteristiche devono essere}
 {158}{}{comprese tra 1 e 10 prima di cominciare!}
-{160}{}{Attento: non hai inserito un nome.}
+{160}{}{Attento: non hai inserito un nome}
 {161}{}{Utilizzi lo stesso il personaggio?}
 {175}{}{Pr. Lvl:}
 {200}{}{Pessim}
@@ -111,7 +111,7 @@
 {600}{}{SALVA}
 {601}{}{CARICA}
 {602}{}{STAMPA SU FILE}
-{603}{}{CANC.}
+{603}{}{CANC}
 {604}{}{OK}
 {605}{}{Sei sicuro di voler cancellare}
 {606}{}{questo personaggio?}
