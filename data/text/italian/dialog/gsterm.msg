@@ -109,7 +109,7 @@
 {351}{}{Download procedure per Robot Manutenzione.}
 {352}{}{Procedi.}
 {353}{}{Esci.}
-{360}{}{Postazioni PoseidoNet Attive: Centrale Nucleare #5, Raffineria di Navarro, Postazione di Controllo ENCLAVE, ENCLAVE - Laboratorio di Ricerca sui Vault... Accesso Negato.}
+{360}{}{Postazioni PoseidoNet Attive: Centrale Nucleare #5, Raffineria di Navarro, Postazione di Controllo ENCLAVE, ENCLAVE - Laboratorio di Ricerca sui Vault... Accesso Negato}
 {361}{}{Le luci sono accese, ma in casa non c'e' nessuno. }
 {362}{}{È tutto spento, tranne il Controllo Ricerca dei Vault dell’ENCLAVE. Chissà che cos’è...}
 {363}{}{Hmm, sembra che tutto sia o spento o chiuso. Beh, pazienza.}

@@ -16,7 +16,7 @@
 {2004}{}{Ho gia' detto che i ghoul puzzano?}
 {2005}{}{Uhm, dunque, trovo questo ghoul, cioe', e gli dico, "Voialtri siete invidiosi del fatto che io non puzzo?"}
 {2006}{}{E lui fa, "No. Uhm, perche' me lo chiedi?"}
-{2007}{}{E io gli dico "Perche' siete VERDI!"}
+{2007}{}{Ho detto, perche' sei VERDE.}
 {2008}{}{Uhm…verdi d'invidia. Capito?}
 {2010}{}{Buuu!}
 {2011}{}{}
