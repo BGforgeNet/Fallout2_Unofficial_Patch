@@ -35,7 +35,7 @@ rm -f ./*.dat
 for d in *; do
     # shellcheck disable=SC2154  # from env.sh
     DAT_FILE="${mod_name}_$d.dat"
-    $DAT3 a -c 9 -C "$d" "../$DAT_FILE" '*'
+    $DAT3 a -c 9 -C "$d" "$DAT_FILE" '*'
 done
 cd ..
 
