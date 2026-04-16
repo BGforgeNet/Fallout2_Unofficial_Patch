@@ -231,7 +231,7 @@
 {330}{}{Ci dev'essere un'altra via.}
 {331}{}{Seguimi.}
 {332}{}{Try this.}
-{333}{}{Come here.}
+{333}{}{Vieni qui.}
 {334}{}{Ho trovato qualcosa che forse vorresti vedere.}
 {335}{}{Per quanto ne so, questo e' un posto sicuro dove accamparsi.}
 {336}{}{Non e' sicuro accamparsi qui.}

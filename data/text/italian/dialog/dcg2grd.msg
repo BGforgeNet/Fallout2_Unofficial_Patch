@@ -4,7 +4,7 @@
 {200}{}{Fa' il bravo.}
 {201}{}{Eccoti qua.}
 {202}{}{La pagherai.}
-{203}{}{Come here.}
+{203}{}{Vieni qui.}
 {204}{}{Non te la faro' passare liscia.}
 {205}{}{Troia.}
 {225}{}{Mi domando quanto potranno andare avanti le cose, adesso che Metzger e' morto...}
