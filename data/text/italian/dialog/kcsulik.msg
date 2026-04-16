@@ -54,7 +54,7 @@
 {223}{}{Credo sia tutto, per ora. Arrivederci.}
 {230}{slk8}{Noi e io ti ringraziamo. Mio nome Sulik. Come noi potere ripagare?}
 {231}{}{Uh.}
-{232}{}{Bye bye.}
+{232}{}{Ciao ciao.}
 {233}{}{Chi sono questi "noi?"}
 {234}{}{Felice di aiutarti, Sulik. Parlami di te.}
 {235}{}{Che ne diresti di parlarmi di quello che succede in citta'?}

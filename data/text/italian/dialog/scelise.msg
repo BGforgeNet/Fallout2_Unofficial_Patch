@@ -30,7 +30,7 @@
 {129}{}{Se loro mi lasciano in pace, io lascio in pace loro.}
 {130}{}{Alcuni dei miei migliori amici sono schiavisti.}
 {131}{}{L'unica cosa che ti interessa sono i soldi?}
-{132}{}{Certo che no. Io credo nella verita', nella giustizia e nella lotta a difesa degli oppressi.}
+{132}{}{Certo che no. Io credo nella verita', nella giustizia e nella lotta a difesa degli oppressi,}
 {133}{}{E' un inizio - a meno che qualcuno non mi indichi una causa migliore per la quale combattere.}
 {134}{}{Esiste forse qualcos'altro?}
 {135}{}{Non dire stronzate. Vedo bene che tipo di persona sei. Addio.}

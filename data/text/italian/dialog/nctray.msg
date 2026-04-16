@@ -61,7 +61,7 @@
 {320}{}{Allora, d'accordo...}
 {321}{}{Uh-uh-uh}
 {330}{}{Ah, e cosi' stai GIOCANDO con T-Ray? D'accordo... Sparisci, donna! Posso trovare cagne migliori, senza sprecare il mio tempo con te.}
-{331}{}{Il tempo continua a ticchettare, ticchettare, ticchettare... nel futuuuuro...}
+{331}{}{Il tempo continua a ticchettare, ticchettare, ticchettare... nel futuuuuro}
 {333}{}{Se davvero credi di riuscire a prendere dei cani, poi sei libero di farci tutto quello che vuoi. Addio.}
 {334}{}{Il fatto che tu faccia sesso con dei cani non mi sorprende. Addio.}
 {340}{}{La Highwayman che c'e' qua fuori? Cazzo, CERTO che ti piace. Quella e' una bella macchina, una recente acquisizione... stavamo giusto per darle una ripulita e lavorarci un po' su, prima di venderla al vecchio Bishop.}

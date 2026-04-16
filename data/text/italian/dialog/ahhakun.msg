@@ -162,7 +162,7 @@
 {261}{hak107}{Grazie, antenati. Ora la mia anima puo' unirsi al canto eterno. Buon viaggio, Prescelto.}
 {262}{}{Va?}
 {263}{hak108}{Va'!...}
-{264}{}{Bye bye.}
+{264}{}{Ciao ciao.}
 {265}{hak109}{Anime oscure sono giunte. Hanno preso tutti.}
 {266}{}{Anime oscure? Che cosa vuoi dire?}
 {267}{hak110}{Una grande folata di vento e' arrivata. Su di essa grandi libellule sputavano fiamme. Uomini crudeli sono usciti dalle pance di quelle bestie e hanno portato la morte ai nostri guerrieri.}

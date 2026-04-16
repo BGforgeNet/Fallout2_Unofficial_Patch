@@ -46,8 +46,8 @@
 {202}{}{Ehila', straniero.}
 {203}{}{Attento a quei Dunton; sono pericolosi.}
 {204}{}{Trapper Town e' infestata di ratti.}
-{1000}{}{Elder}
-{1001}{}{Founder}
+{1000}{}{Anziana}
+{1001}{}{Fondatore}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}

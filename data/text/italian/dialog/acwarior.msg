@@ -44,8 +44,8 @@
 {980}{}{I don't know anything about that.}
 {981}{}{Spiacente. Non so nulla.}
 {982}{}{Mai sentito.}
-{1000}{}{Elder}
-{1001}{}{Founder}
+{1000}{}{Anziana}
+{1001}{}{Fondatore}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}

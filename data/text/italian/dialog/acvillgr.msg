@@ -39,8 +39,8 @@
 {301}{}{Prescelto, la nostra gente sta morendo. Devi affrettare la tua ricerca per il sacro GECK. Cosa posso fare per aiutarti in questa santissima missione?}
 {302}{}{Il tempo a nostra disposizione sta finendo, Prescelto. Per favore, porta presto a termine la tua sacra missione. Non possiamo permetterci di aspettare ancora. Se c'e' qualcosa che posso fare per aiutarti a salvarci, fammelo sapere.}
 {303}{}{Prescelto, il nostro villaggio e' quasi morto... sei la nostra unica speranza. Per la nostra salvezza, c'e' niente che possa dire per aiutarti?}
-{1000}{}{Elder}
-{1001}{}{Founder}
+{1000}{}{Anziana}
+{1001}{}{Fondatore}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}

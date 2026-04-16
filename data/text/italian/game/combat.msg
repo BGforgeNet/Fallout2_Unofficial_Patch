@@ -190,11 +190,11 @@
 {1157}{}{alle mammelle}
 {1158}{}{uncalled}
 {1160}{}{alla testa}
-{1161}{}{alla zampa post.}
-{1162}{}{alla zampa post.}
+{1161}{}{alla zampa post}
+{1162}{}{alla zampa post}
 {1163}{}{al corpo}
-{1164}{}{alla zampa ant.}
-{1165}{}{alla zampa ant.}
+{1164}{}{alla zampa ant}
+{1165}{}{alla zampa ant}
 {1166}{}{agli occhi}
 {1167}{}{all'inguine}
 {1168}{}{uncalled}
@@ -238,14 +238,14 @@
 {1221}{}{alla coda}
 {1222}{}{alle chele}
 {1223}{}{al carapace}
-{1224}{}{alle zampe ant.}
-{1225}{}{alle zampe post.}
+{1224}{}{alle zampe ant}
+{1225}{}{alle zampe post}
 {1226}{}{agli occhi}
 {1227}{}{al cervello}
 {1228}{}{uncalled}
 {1230}{}{alla testa}
 {1231}{}{alla bocca}
-{1232}{}{alla bocca ant.}
+{1232}{}{alla bocca ant}
 {1233}{}{al corpo}
 {1234}{}{al sacco fluttuante}
 {1235}{}{alla coda}
@@ -364,8 +364,8 @@
 {1591}{}{alla coda}
 {1592}{}{alle chele}
 {1593}{}{al carapace}
-{1594}{}{alle zampe ant.}
-{1595}{}{alle zampe post.}
+{1594}{}{alle zampe ant}
+{1595}{}{alle zampe post}
 {1596}{}{agli occhi}
 {1597}{}{al cervello}
 {1598}{}{uncalled}
@@ -490,8 +490,8 @@
 {2031}{}{al pungiglione}
 {2032}{}{alle antenne}
 {2033}{}{al torace}
-{2034}{}{alle zampe ant.}
-{2035}{}{alle zampe post.}
+{2034}{}{alle zampe ant}
+{2035}{}{alle zampe post}
 {2036}{}{agli occhi}
 {2037}{}{alle ali}
 {2038}{}{uncalled}
@@ -644,7 +644,7 @@
 {5600}{}{. La violenza del colpo fa contorcere il Radscorpione su se stesso}
 {5601}{}{. La potenza del colpo stacca la testa dal carapace}
 {5602}{}{. La coda ne esce seriamente danneggiata}
-{5603}{}{. Che brutta ferita alle chele..}
+{5603}{}{, Che brutta ferita alle chele}
 {5604}{}{. Il colpo si insinua tra le fessure del carapace del Radscorpione}
 {5605}{}{. Il colpo attraversa il robusto carapace senza fermarsi}
 {5606}{}{. Il colpo passa attraverso la corazza naturale e spedisce al tappeto il Radscorpione}

@@ -18,7 +18,7 @@
 {117}{}{Scusa, non ho molto tempo ne' pazienza per parlare con gli stupidi. Che cosa vuoi?}
 {118}{}{Pere?}
 {119}{}{'tanza?}
-{120}{}{Bye bye.}
+{120}{}{Ciao ciao.}
 {121}{}{Da bere, eh? Bene, per una bella bottiglia di birra fresca sono 25$. Ti sto anche facendo un prezzo speciale e scontato, dal momento che gli stupidi mi fanno pena.}
 {122}{}{Pere? (tieni in mano la borsa dei soldi)}
 {123}{}{'tanza?}

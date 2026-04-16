@@ -47,7 +47,7 @@
 {146}{}{E' stato quel dannato Doofus, vero? Quel tossico ha il vizio di parlare troppo... Ascolta: fallo fuori per me -- consideralo un "favore" -- e poi potremo parlare.}
 {147}{}{D'accordo.}
 {148}{}{Whoa - non ho tutto questo sangue freddo!}
-{149}{}{E adesso ti dira' che sei stato un coglione. Ragazzi...}
+{149}{}{E adesso ti dira' che sei stato un coglione. Ragazzi-}
 {150}{}{Interessante. E chi sarebbe questo uccellino?}
 {151}{}{Non raccontarmi stronzate, grassone. Se non riavro' subito cio' che mi appartiene, qualcuno dovra' andarti a comprare un vestito per il tuo funerale.}
 {152}{}{Carino... Vuoi rispondere alla mia domanda, o no?}

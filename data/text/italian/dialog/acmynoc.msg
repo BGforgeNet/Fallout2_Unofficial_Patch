@@ -113,8 +113,8 @@
 {429}{}{Ne ho abbastanza.}
 {430}{}{Mentre tu passeggi per le lande, qui la nostra gente muore. Forse dovresti cercare da qualche altra parte invece che tornare qui.}
 {500}{}{Hai gia' parlato con l'Anziana?}
-{1000}{}{Elder}
-{1001}{}{Founder}
+{1000}{}{Anziana}
+{1001}{}{Fondatore}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}

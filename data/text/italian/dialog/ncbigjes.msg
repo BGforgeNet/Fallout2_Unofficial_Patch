@@ -5,7 +5,7 @@
 {201}{}{Quello non... ti appartiene.}
 {202}{}{Toccalo ancora, e ti ritroverai... cadavere al Golgotha.}
 {210}{}{::Wheeze::}
-{211}{}{*Cough* *Cough*}
+{211}{}{*Tosse* *Tosse*}
 {212}{}{::Si asciuga il sudore sulla fronte.::}
 {220}{}{Tu sei il... *cough*... migliore dei miei uomini.}
 {221}{}{La gente di Reno di mostra il... *cough*... dovuto rispetto?}

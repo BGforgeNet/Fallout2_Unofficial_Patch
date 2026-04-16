@@ -154,7 +154,7 @@ E cosa, di grazia, pensi che io possa fare per te, "semplice viaggiatore?"}
 {473}{}{Uh, grazie dell'avvertimento. Avrei delle altre domande... piu' prudenti...}
 {474}{}{Lo faro'. Arrivederci.}
 {475}{}{La ringrazio per il suo tempo... e per il suo consiglio, signora Bishop.}
-{480}{}{*Sigh*}
+{480}{}{*Sospiro*}
 {481}{}{Un'altra SPLENDIDA giornata a Reno. Il diavolo stara' facendo baldoria.}
 {482}{}{A giudicare dalla folla al casino', sembra proprio che altri rifiuti umani di fogna siano traboccati a Reno...}
 {483}{}{Reno... "la piu' grande piccola fogna nel mondo". Hmmmph.}

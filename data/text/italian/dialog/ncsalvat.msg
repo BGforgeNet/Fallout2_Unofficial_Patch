@@ -1,9 +1,9 @@
 {100}{}{Vedi Louis Salvatore.}
 {150}{}{Vedi un gentiluomo anziano e ben vestito. Si trascina dietro una bombola di ossigeno e sembra avere difficolta' a respirare.}
 {151}{}{Vedi Louis Salvatore. Si trascina dietro una bombola di ossigeno e sembra avere difficolta' a respirare.}
-{200}{}{*Cough*}
+{200}{}{*Tosse*}
 {201}{}{::Wheeze::}
-{202}{}{*Cough* *Cough*}
+{202}{}{*Tosse* *Tosse*}
 {210}{}{Guardie! Gu...*cough* *cough*...Guardie!}
 {215}{}{(Salvatore si gira verso di te con un'espressione impietrita. Ti osserva per una frazione di secondo e poi fa uno strano gesto con la sua mano. Subito, un allarme risuona per tutto il casino'.)}
 {216}{}{Owwww! Abbassare suono! Bua a orecchie! BUA A ORECCHIE!}

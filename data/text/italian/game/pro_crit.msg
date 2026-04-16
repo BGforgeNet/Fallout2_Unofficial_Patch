@@ -20,7 +20,7 @@
 {1101}{}{Un grosso ratto comune.}
 {1200}{}{Mantis}
 {1201}{}{Una mantide mutante.}
-{1300}{}{Elder}
+{1300}{}{Anziana}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{una Pianta Sporigena}

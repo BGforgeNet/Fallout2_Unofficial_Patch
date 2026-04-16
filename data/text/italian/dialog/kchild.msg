@@ -73,8 +73,8 @@
 {221}{}{A te ti piaccio?}
 {222}{}{Sei sposato?}
 {223}{}{Uno, due, tre... Weee!}
-{1000}{}{Elder}
-{1001}{}{Founder}
+{1000}{}{Anziana}
+{1001}{}{Fondatore}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}

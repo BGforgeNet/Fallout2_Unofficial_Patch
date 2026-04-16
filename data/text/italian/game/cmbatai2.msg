@@ -1466,7 +1466,7 @@
 {36240}{}{Assaggia l'ira di Kaga!}
 {36241}{}{Non scomodarti ad implorare pieta'...}
 {36242}{}{Penso proprio che mi divertiro'!}
-{36243}{}{Oooo, Kaga l'ha sentito da qui.}
+{36243}{}{Oooo, Kaga l'ha sentito da qui,}
 {36244}{}{Riportero' la tua testa all'Anziana!}
 {36245}{}{Ti cavero' il cuore con un cucchiaio!}
 {36246}{}{Spero che tu non muoia cosi' in fretta come gli altri!}

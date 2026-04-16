@@ -26,7 +26,7 @@
 {253}{}{plasma}
 {254}{}{elettrico}
 {255}{}{emp}
-{256}{}{esplos.}
+{256}{}{esplosione}
 {300}{}{No}
 {301}{}{Razzo}
 {302}{}{Gel per Lanciafiamme}

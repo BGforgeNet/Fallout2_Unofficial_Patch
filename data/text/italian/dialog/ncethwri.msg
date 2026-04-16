@@ -3,7 +3,7 @@
 {151}{}{Vedi la signora Wright. Sembra depressa ed e' in preda a singhiozzi di autocommiserazione.}
 {175}{}{Vedi una donna paffuta, con le guance rosa. Sembra essere di buon umore e sta canticchiando tra se' e se'.}
 {176}{}{Vedi la signora Wright. Sembra essere di buon umore e sta canticchiando tra se' e se'.}
-{200}{}{*Sigh*}
+{200}{}{*Sospiro*}
 {201}{}{Come puo' aver fatto una cosa simile a *me*?}
 {205}{}{Un'altra splendida giornata, qui a Reno!}
 {206}{}{::Fischietta mentre lavora...::}
