@@ -55,11 +55,11 @@
 {200}{}{Hai finito di esaminare il database medico di Vault City.}
 {201}{}{Il tuo amico cerca di attirare la tua attenzione verso la finestra colorata che fa BEEP BEEP, ma non riesci a capire come aprirla, per cui alla fine ti annoi e la lasci perdere.}
 {202}{}{Allontanati.}
-{203}{}{*Beep*}
+{203}{}{*Bip*}
 {204}{}{*Beeee-oop*}
 {205}{}{*Dweeee-oop*}
-{206}{}{*Bee-Oop*}
-{207}{}{*Beep*}
+{206}{}{*Bip-Oop*}
+{207}{}{*Bip*}
 {208}{}{PING!}
 {209}{}{Mi dispiace, Dave. Non posso farlo.}
 {210}{}{Allarme! Will Robinson!}

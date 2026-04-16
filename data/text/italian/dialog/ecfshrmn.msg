@@ -13,8 +13,8 @@
 {112}{}{Pistola Laser [$10000]}
 {113}{}{Pali appuntiti [$40]}
 {114}{}{Frutto [$5]}
-{115}{}{Xander [$20]}
-{116}{}{Broc [$10]}
+{115}{}{Radice di Xander [$20]}
+{116}{}{Fiore di Broc [$10]}
 {117}{}{Addio.}
 {118}{}{[Ti dirige in direzione del mare.] Cammina sempre dritto. La Dea vuole vederti personalmente.}
 {119}{}{[Fine]}
