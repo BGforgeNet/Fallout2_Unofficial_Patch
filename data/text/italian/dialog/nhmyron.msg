@@ -118,7 +118,7 @@
 {535}{}{Non sono riuscito a trovare nulla. Per questa volta.}
 {536}{}{Forse con qualche pasticca di Mentat potrei riuscirci. Mmmm... Mentat...}
 {537}{}{La mia abilita' non e' abbastanza elevata. Usa un po' di punti abilita' su di me, e poi ci riprovero'. Ah ah.}
-{538}{}{I didn't learn anything.}
+{538}{}{Non ho imparato nulla.}
 {539}{}{Non posso effettuare un tiro vincente su Scienza, in queste condizioni.}
 {540}{}{Beep. Myron ha usato senza successo l'abilita' SCIENZA.}
 {550}{}{D'accordo, d'accordo! Smettila di spingere!}

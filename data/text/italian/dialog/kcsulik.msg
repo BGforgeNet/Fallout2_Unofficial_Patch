@@ -422,14 +422,14 @@
 {3011}{}{Che cosa ti aspetti da noi?}
 {3012}{}{Non e' carino.}
 {3013}{}{Grazie mille.}
-{3014}{}{This is good.}
-{3015}{}{This isn't good.}
+{3014}{}{Questo è un bene.}
+{3015}{}{Questo non va bene.}
 {3016}{}{Abbiamo un buon presentimento.}
 {3017}{}{Abbiamo un cattivo presentimento.}
-{3018}{}{These people are crazy.}
-{3020}{}{There must be another way.}
+{3018}{}{Queste persone sono pazze.}
+{3020}{}{Ci deve essere un altro modo.}
 {3021}{}{Seguici.}
-{3022}{}{Try this.}
+{3022}{}{Prova questo.}
 {3023}{}{Noi va li', adesso.}
 {3024}{}{E' andato da questa parte.}
 {3025}{}{Sono andati da questa parte.}

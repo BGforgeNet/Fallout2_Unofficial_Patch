@@ -219,21 +219,21 @@
 {318}{}{Ouch}
 {319}{}{(cry of pain)}
 {320}{}{Why are you talking to me like that?}
-{321}{}{I don't know anything about that.}
+{321}{}{Non ne so nulla.}
 {322}{}{You're not very nice.}
 {323}{}{Thank-you. }
-{324}{}{This is good.}
-{325}{}{This isn't good.}
-{326}{}{I have a good feeling about this.}
-{327}{}{I have a bad feeling about this.}
+{324}{}{Questo è un bene.}
+{325}{}{Questo non va bene.}
+{326}{}{Ho un buon presentimento al riguardo.}
+{327}{}{Ho un brutto presentimento.}
 {328}{}{You people are crazy.}
 {329}{}{Di cosa stai parlando?}
-{330}{}{Is everyone else crazy here?}
-{331}{}{There must be another way.}
+{330}{}{Sono tutti pazzi qui?}
+{331}{}{Ci deve essere un altro modo.}
 {332}{}{Vieni qui.}
-{333}{}{I don't understand.}
-{334}{}{I don't know.}
-{335}{}{That hurts.}
-{336}{}{That really hurts.}
-{337}{}{That's got to hurt.}
+{333}{}{Non capisco.}
+{334}{}{Non lo so.}
+{335}{}{Questo fa male.}
+{336}{}{Questo fa davvero male.}
+{337}{}{Deve fare male.}
 {338}{}{Actually, Mr. President, I'm back.}

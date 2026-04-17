@@ -192,7 +192,7 @@
 {670}{}{Mettiamo per un secondo che io ti creda... e non dico che lo STO facendo... allora chi avrebbe AVVELENATO mio figlio? E perche' prendersi il disturbo di imbottirlo di Jet?}
 {671}{}{Si dice che siano stati i Salvatore. L'hanno riempito di Jet mischiato con veleno di radscorpione e poi l'hanno lasciato in un posto dove voi poteste trovarlo.}
 {672}{}{Non so quale dei Salvatore sia stato. Renesco ha adulterato del Jet per loro, non sapendo che l'avrebbero usato per avvelenare suo figlio.}
-{673}{}{I don't know.}
+{673}{}{Non lo so.}
 {680}{}{E perche' diavolo l'avrebbero fatto?}
 {681}{}{Per come la vedo io, i Mordino hanno il controllo del Jet a Reno. Di conseguenza, voi avreste accusato loro per l'overdose... e poi ci sarebbe stata una guerra. Nel remoto caso in cui non vi foste eliminati a vicenda, vi sareste comunque indeboliti entrambi. Questo avrebbe reso piu' facile la vita ai Salvatore... che a quel punto avrebbero dovuto guardarsi soltanto dai Bishop.}
 {682}{}{Non lo so. Forse dovrebbe chiederlo a loro.}

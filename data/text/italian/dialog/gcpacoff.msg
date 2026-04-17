@@ -5,7 +5,7 @@
 {104}{}{Uh, veramente funziona. Posso vederti.}
 {105}{}{E' rotto.}
 {106}{}{Stiamo facendo dei lavori sul collegamento video. Volevo solo fare una prova.}
-{107}{}{(Logoff.)}
+{107}{}{(Disconnessione.)}
 {108}{powr2}{Chi diavolo parla?}
 {109}{}{Uh, stiamo tutti bene, qui. Voi come state?}
 {110}{}{Qui caau, rit, sss, pu-, -entite. Passo.}

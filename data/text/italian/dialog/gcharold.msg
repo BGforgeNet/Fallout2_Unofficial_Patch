@@ -178,39 +178,39 @@
 {277}{}{Mi chiedo se qualcun altro potrebbe dirglielo.}
 {278}{}{Si', immagino. Adesso avrei un'altra domanda.}
 {279}{}{Ehi, non si puo' mai sapere. Ci vediamo piu' tardi.}
-{280}{}{To the north}
-{281}{}{To the northwest}
-{282}{}{To the west}
-{283}{}{To the southwest}
-{284}{}{To the south}
-{285}{}{To the southeast}
-{286}{}{To the east of here}
-{287}{}{To the northeast}
-{288}{}{I don't understand.}
-{289}{}{I don't know.}
-{290}{}{That hurts.}
-{291}{}{That really hurts.}
-{292}{}{That's got to hurt.}
-{293}{}{I don't know anything about that.}
+{280}{}{A nord}
+{281}{}{A nordovest}
+{282}{}{A ovest}
+{283}{}{A sud-ovest}
+{284}{}{A sud}
+{285}{}{A sud-est}
+{286}{}{A est di qui}
+{287}{}{A nord-est}
+{288}{}{Non capisco.}
+{289}{}{Non lo so.}
+{290}{}{Questo fa male.}
+{291}{}{Questo fa davvero male.}
+{292}{}{Deve fare male.}
+{293}{}{Non ne so nulla.}
 {294}{}{Si'}
 {295}{}{No}
-{296}{}{Why do you talk to me this way?}
-{297}{}{You're not nice.}
-{298}{}{Thank you. }
-{299}{}{This is good.}
-{300}{}{This isn't good.}
-{301}{}{I have a good feeling about this.}
-{302}{}{I have a bad feeling about this.}
-{303}{}{These people are crazy.}
-{304}{}{I didn't learn anything.}
-{305}{}{I learned something}
-{306}{}{Is everyone else crazy here?}
-{307}{}{There must be another way.}
+{296}{}{Perché mi parli in questo modo?}
+{297}{}{Non sei gentile.}
+{298}{}{Grazie. }
+{299}{}{Questo è un bene.}
+{300}{}{Questo non va bene.}
+{301}{}{Ho un buon presentimento al riguardo.}
+{302}{}{Ho un brutto presentimento.}
+{303}{}{Queste persone sono pazze.}
+{304}{}{Non ho imparato nulla.}
+{305}{}{Ho imparato qualcosa}
+{306}{}{Sono tutti pazzi qui?}
+{307}{}{Ci deve essere un altro modo.}
 {308}{}{Seguimi.}
-{309}{}{Try this.}
+{309}{}{Prova questo.}
 {310}{}{Vieni qui.}
-{311}{}{I'm scared.}
-{312}{}{I'm worried.}
+{311}{}{Ho paura.}
+{312}{}{Sono preoccupato.}
 {313}{}{I found something.}
 {314}{}{I got lucky.}
 {315}{}{You need to fix this.}

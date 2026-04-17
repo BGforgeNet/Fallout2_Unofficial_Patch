@@ -220,17 +220,17 @@
 {319}{}{Perche' mi parli in quel modo?}
 {320}{}{Non e' molto carino.}
 {321}{}{Grazie. }
-{322}{}{This is good.}
+{322}{}{Questo è un bene.}
 {323}{}{Questo non va bene.}
 {324}{}{Questo mi piace. Un sacco. }
-{325}{}{I have a bad feeling about this.}
+{325}{}{Ho un brutto presentimento.}
 {326}{}{Queste persone sono degli idioti.}
 {327}{}{Non ho imparato nulla.}
 {328}{}{Ho imparato qualcosa.}
 {329}{}{C'e' nessuno sano di mente?}
 {330}{}{Ci dev'essere un'altra via.}
 {331}{}{Seguimi.}
-{332}{}{Try this.}
+{332}{}{Prova questo.}
 {333}{}{Vieni qui.}
 {334}{}{Ho trovato qualcosa che forse vorresti vedere.}
 {335}{}{Per quanto ne so, questo e' un posto sicuro dove accamparsi.}
@@ -242,10 +242,10 @@
 {341}{}{Questa cosa deve essere aperta.}
 {342}{}{Potresti aprire questo?}
 {343}{}{Forse preferisci tornare piu' tardi.}
-{344}{}{I don't understand.}
+{344}{}{Non capisco.}
 {345}{}{Non so.}
 {346}{}{Ow.}
-{347}{}{That really hurts.}
+{347}{}{Questo fa davvero male.}
 {348}{}{Quello non puo' fare bene...}
 {349}{}{Uh... quando al Cat's Paw di New Reno hai detto "spero che non rimanga incinta", che cosa volevi dire?}
 {350}{mcs113}{La tua gente non te l'ha spiegato?}

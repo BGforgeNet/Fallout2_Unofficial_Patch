@@ -48,7 +48,7 @@
 {147}{}{Con un P o un B?}
 {148}{}{Si'.}
 {149}{}{No.}
-{150}{}{I don't know.}
+{150}{}{Non lo so.}
 {151}{}{Avrai la tua dannata armatura quando avro' finito! Adesso rispondi alla domanda.}
 {152}{}{[Nome del giocatore]}
 {153}{}{Pesci?}

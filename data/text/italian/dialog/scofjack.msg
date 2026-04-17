@@ -45,7 +45,7 @@
 {144}{}{Davvero la pensi cosi'?}
 {145}{}{Si', Jack. Lo penso davvero.}
 {146}{}{Certamente. Cosa credi - che stia mentendo?}
-{147}{}{I don't know.}
+{147}{}{Non lo so.}
 {148}{}{Non lasciare che sia lei a vincere, Jack.}
 {149}{}{Questa e' la tua opportunita'. Sii uomo. Mandala al tappeto.}
 {150}{}{Cazzate. Le tue sono solo parole. Non te ne frega niente di me!}

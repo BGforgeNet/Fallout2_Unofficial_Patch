@@ -722,8 +722,8 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {820}{}{Buongiorno, Cittadino.}
 {821}{}{I'll take that.}
 {822}{}{Give me that.}
-{823}{}{I don't know anything about that.}
-{824}{}{I don't know.}
+{823}{}{Non ne so nulla.}
+{824}{}{Non lo so.}
 {825}{}{Si'.}
 {826}{}{No.}
 {827}{}{Certainly.}

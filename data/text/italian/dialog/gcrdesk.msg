@@ -3,7 +3,7 @@
 {102}{}{Vedi una persona la cui pelle sembra aver subito ustioni da radiazioni. Una quantita' simile di radiazioni dovrebbe averla uccisa, ma sembra essere piuttosto in salute. Pare stia facendo la guardia a questo posto.}
 {110}{}{Benvenuto nella centrale nucleare. Un avvertimento: se succede qualcosa mentre ti trovi qua dentro, daremo la colpa a te, pelle-liscia.}
 {111}{}{Ehila', amico. Devo farti sapere che se succede qualcosa, tutti i non-ghoul -- come te -- saranno accusati dell'accaduto.}
-{112}{}{Blook?}
+{112}{}{Aspetto?}
 {113}{}{Staro' attento. Stavo cercando una cosa, e mi domandavo se tu potevi aiutarmi.}
 {114}{}{Immagino sia giusto cosi'. Staro' attento. Arrivederci.}
 {120}{}{Sei tornato, eh? Hai sbagliato strada?}
