@@ -27,9 +27,9 @@
 {311}{}{Frankie's a scum bag. He's mean to Becky for no reason.}
 {312}{}{You a friend of Becky?}
 {313}{}{Grab a drink, friend!}
-{314}{}{Drink up! Drinks are cheap!}
-{315}{}{There's no way these are watered down.}
-{316}{}{That Dyer sure knows her stuff.}
+{314}{}{Drick upp! Drinkar är billiga!}
+{315}{}{Det är inte möjligt att dessa är utspädda.}
+{316}{}{Den där färgaren vet verkligen vad hon håller på med.}
 {317}{}{Nothing like good drinks and good company.}
 {318}{}{Only trouble with Becky's drinks is you tend to drink to many!}
 {319}{}{Becky... I mean Rebecca sure is a sweetheart.}
