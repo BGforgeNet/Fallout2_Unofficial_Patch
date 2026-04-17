@@ -7,7 +7,7 @@
 {106}{}{Per tutti i...! Mi stai sporcando di sangue tutto il pavimento!}
 {107}{}{Sei qui per farti rimettere a posto?}
 {108}{}{Possshhtoh.}
-{109}{}{Nup.}
+{109}{}{No.}
 {110}{}{Si', avrei proprio bisogno di cure mediche.}
 {111}{}{Um, ho bisogno di rimuovere un'escrescenza. Il sesto dito del mio piede.}
 {112}{}{In realta' e' il mio amico ad aver bisogno di cure mediche.}

@@ -441,7 +441,7 @@
 {3031}{}{Non e' sicuro accamparsi qui.}
 {3032}{}{Possiamo riposare qui.}
 {3033}{}{Siamo fortunati.}
-{3034}{}{You need to fix this.}
+{3034}{}{Devi sistemare questa cosa.}
 {3035}{}{You need to turn this on.}
 {3036}{}{You need to unlock this.}
 {3037}{}{You need to open this.}

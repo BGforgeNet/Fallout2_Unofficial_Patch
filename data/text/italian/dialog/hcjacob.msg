@@ -23,7 +23,7 @@
 {122}{}{Allora vattene.}
 {123}{}{[FATTO]}
 {124}{}{Ecco. Abbiamo finito. Grazie per la mancia. Adesso sei pregato di andartene.}
-{125}{}{D'okay!}
+{125}{}{D'accordo!}
 {148}{}{Perche' prima non mi dici cosa ne pensi tu, dei mutanti?}
 {149}{}{Li odio.}
 {150}{}{Non mi fanno ne' caldo ne' freddo.}

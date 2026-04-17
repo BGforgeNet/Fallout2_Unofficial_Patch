@@ -12,7 +12,7 @@
 {111}{}{So che hai delle armi che ti avanzano. Me ne servono un po'.}
 {112}{}{Nulla.}
 {113}{}{Oh, dio... un altro piccolo mutante testa-bacata. Quand'e' che si decideranno a farli fuori, questi cosi?}
-{114}{}{Gurgle.}
+{114}{}{Gorgoglio.}
 {115}{}{Parla lentamente e in modo chiaro e forse potro' aiutarti.}
 {116}{}{Nn! Roba! Me!}
 {117}{}{Annive decci!}

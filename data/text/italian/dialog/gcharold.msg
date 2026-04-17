@@ -211,9 +211,9 @@
 {310}{}{Vieni qui.}
 {311}{}{Ho paura.}
 {312}{}{Sono preoccupato.}
-{313}{}{I found something.}
-{314}{}{I got lucky.}
-{315}{}{You need to fix this.}
+{313}{}{Ho trovato qualcosa.}
+{314}{}{Ho avuto fortuna.}
+{315}{}{Devi sistemare questa cosa.}
 {316}{}{You need to turn this on.}
 {317}{}{You need to unlock this.}
 {318}{}{You need to open this.}

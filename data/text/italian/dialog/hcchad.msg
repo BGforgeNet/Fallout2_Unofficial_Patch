@@ -16,7 +16,7 @@
 {132}{}{Io sono Chad. }
 {133}{}{Guarda, sono molto occupato. Per favore, va' a disturbare qualcun altro.}
 {134}{}{Sono il capo carovaniere della citta'. Mi occupo degli affari all'altro capo delle rotte commerciali. In questo periodo mi sto occupando soprattutto di Gecko.}
-{135}{}{D'okay!}
+{135}{}{D'accordo!}
 {136}{}{Vorrei lavorare con te.}
 {137}{}{Sembra eccitante.}
 {138}{}{Sembra noioso.}

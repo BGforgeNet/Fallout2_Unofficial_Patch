@@ -9,7 +9,7 @@
 {108}{}{Lascio entrare tutte le mosche che voglio. Perdente.}
 {109}{}{Giusto. Addio.}
 {110}{}{Chiudi la porta! Ti prego! Vattene e porta con te quelle dannate mosche!}
-{111}{}{D'okay!}
+{111}{}{D'accordo!}
 {112}{}{Scusami. Sono solo un po' nervoso. Tutte queste mosche e non ho l'aria condizionata. Se solo avessi un po' piu' di elettricita' potrei mandarle via... ma non ce l'ho.}
 {113}{}{Chi sei?}
 {114}{}{Cosa bisogna fare per avere piu' elettricita'?}

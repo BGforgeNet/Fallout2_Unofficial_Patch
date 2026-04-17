@@ -7,7 +7,7 @@
 {151}{}{Non ti vogliamo qui.}
 {152}{}{Tutti i "superficiali" sono uguali.}
 {153}{}{Non ci scapperete.}
-{200}{}{Groan!}
+{200}{}{Gemito!}
 {201}{}{Boo!}
 {202}{}{Moaaaaaaan.}
 {203}{}{*Clank*}

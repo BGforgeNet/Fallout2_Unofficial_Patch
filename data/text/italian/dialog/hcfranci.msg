@@ -76,8 +76,8 @@
 {404}{}{Hagggahhhaaaggga.}
 {405}{}{Hominahominahomina.}
 {406}{}{Eeeeeccchhhh.}
-{407}{}{Grunt!}
-{408}{}{Groan!}
+{407}{}{Grugnito!}
+{408}{}{Gemito!}
 {409}{}{Bua!}
 {410}{}{Ow! Il braccio!}
 {411}{}{Ah ah! Ti ho battuto!}

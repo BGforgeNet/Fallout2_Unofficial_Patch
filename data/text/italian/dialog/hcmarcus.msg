@@ -236,7 +236,7 @@
 {335}{}{Per quanto ne so, questo e' un posto sicuro dove accamparsi.}
 {336}{}{Non e' sicuro accamparsi qui.}
 {337}{}{Possiamo riposare qui.}
-{338}{}{I got lucky.}
+{338}{}{Ho avuto fortuna.}
 {339}{}{Ripara questo, puoi?}
 {340}{}{Accendi questo.}
 {341}{}{Questa cosa deve essere aperta.}
