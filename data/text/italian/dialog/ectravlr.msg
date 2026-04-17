@@ -44,5 +44,5 @@
 {1109}{}{Redding.}
 {1110}{}{Il Den.}
 {1111}{}{San Francisco.}
-{1112}{}{New California Republic.}
+{1112}{}{Nuova Repubblica della California.}
 {1113}{}{Una miniera abbandonata.}
