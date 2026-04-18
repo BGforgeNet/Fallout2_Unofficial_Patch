@@ -15,7 +15,7 @@
 {210}{}{Ptow! Ptow!}
 {211}{}{Phooom!}
 {212}{}{Kablooie!}
-{213}{}{Ratta-tatta-tatta}
+{213}{}{Rattatattatatta}
 {214}{}{Kaa-booom}
 {220}{}{(Algernon ti guarda e ti rivolge un sorriso sdentato.) Boom! }
 {221}{}{(Lo sganasciato ti guarda rivolgendoti un sorriso sdentato. Attaccata alla sua camicia c'e' una targhetta che recita "Algernon" in corsivo.) Boom! }

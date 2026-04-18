@@ -4,14 +4,14 @@
 {151}{}{Vedi la signora Bishop. Sembra distratta e ha lo sguardo perso nel vuoto.}
 {200}{}{(La donna gira il volto verso di te. E' molto attraente, con un corto completo di pelle di gecko dorato. Ti osserva per un momento, poi corruga la fronte.) Si', cosa c'e'?}
 {201}{}{(Aggrotta leggermente le sopracciglia.) Si'? E adesso cosa c'e'?}
-{203}{}{Knock-knock}
+{203}{}{Toc-toc}
 {204}{}{(Fissa il suo seno e sbava.)}
 {205}{}{-Allontanati-}
 {206}{}{Chi sei?}
 {207}{}{Vorrei farle qualche domanda, signora Bishop.}
 {208}{}{Mi scusi, credevo fosse qualcun altro. Addio.}
 {210}{}{*Cosa?*}
-{211}{}{Knock-KNOCK!}
+{211}{}{Toc-TOC!}
 {212}{}{(Fissa il suo seno e sbava.)}
 {215}{}{(Ti fa l'occhiolino.) Chi c'e'?}
 {216}{}{Bu'}

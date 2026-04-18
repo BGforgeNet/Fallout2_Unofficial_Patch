@@ -160,7 +160,7 @@
 {674}{}{Ci provero'.}
 {675}{}{Non posso farlo.}
 {676}{}{Non credo di poterlo fare.}
-{677}{}{Arf!}
+{677}{}{Ouaf!}
 {678}{}{Uff!}
 {700}{}{Non hai abbastanza Punti Azione.}
 {800}{}{Leggi il libro.}

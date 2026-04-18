@@ -4,7 +4,7 @@
 {200}{}{Ehi! }
 {201}{}{Che ganzo, }
 {202}{}{Sei un maranza, }
-{203}{}{::Cheers::}
+{203}{}{::Saluti::}
 {204}{}{::Applaude::}
 {205}{}{::Fischia::}
 {215}{}{Come fai ad andare in bagno con quella roba indosso?}

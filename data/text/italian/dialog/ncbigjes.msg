@@ -4,7 +4,7 @@
 {200}{}{Sta' lontano da li'.}
 {201}{}{Quello non... ti appartiene.}
 {202}{}{Toccalo ancora, e ti ritroverai... cadavere al Golgotha.}
-{210}{}{::Wheeze::}
+{210}{}{::Respiro sibilante::}
 {211}{}{*Tosse* *Tosse*}
 {212}{}{::Si asciuga il sudore sulla fronte.::}
 {220}{}{Tu sei il... *cough*... migliore dei miei uomini.}
@@ -30,7 +30,7 @@
 {263}{}{Aieeeeeeee!}
 {264}{}{Giochiamo!}
 {265}{}{Scappare!}
-{266}{}{Whoa! Whoa...!}
+{266}{}{Wow! Wow...!}
 {267}{}{Ehi! Aspetta un secondo...!}
 {268}{}{Stai sfidando ME, *Grassone*?! Stai SFIDANDO }
 {275}{}{(L'uomo parla con voce rauca.) Io... sono Jesus Mordino. Devi... rivolgerti a me chiamandomi SENOR Mordino. (Una goccia di sudore scende sulla sua fronte.) Cosa... vuoi da me?}

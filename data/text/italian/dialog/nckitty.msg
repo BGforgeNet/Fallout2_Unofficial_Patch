@@ -180,17 +180,17 @@
 {701}{}{Sgodevole.}
 {702}{}{Wow. E' stato... intenso.}
 {703}{}{Wow.}
-{704}{}{*Whew*}
+{704}{}{*Uff*}
 {705}{}{Eh... spero proprio di non averla messa incinta.}
 {710}{}{(Parlate per ore. Le ragazze del Cat's Paw hanno un incredibile intuito per la natura umana).}
 {711}{}{L'uomo di Mordino arriva, e sembra rimanere colpito da te. Ti conduce a nord, fuori citta', in un posto chiamato "Le Stalle."}
 {720}{}{*fischia*}
-{721}{}{*clap clap clap*}
+{721}{}{*applausi*}
 {722}{}{Cosi' si fa!}
 {723}{}{Wahoo.}
-{730}{}{*sob sob sob*}
+{730}{}{*singhiozzo*}
 {731}{}{Mi sento cosi'... cosi'... truffata...}
-{740}{}{*Grunt*}
+{740}{}{*Grugnito*}
 {750}{}{*Aaawoooo*}
 {760}{}{*Bzzzt*}
 {770}{}{Cosi' si fa, Boss! Anch'io non faccio sesso da mooooooooooooolto tempo.}

@@ -9,7 +9,7 @@
 {203}{}{Ho sentito che i Fratelli ti stanno cercando. Vogliono fare un film basato sulle tue avventure.}
 {204}{}{Vai, }
 {205}{}{::Applaude::}
-{206}{}{::Cheers::}
+{206}{}{::Saluti::}
 {207}{}{Oh mio... e' lei. }
 {208}{}{Vai cosi', ragazza mia!}
 {209}{}{::Ti fa il gesto del pollice alzato::}
@@ -37,7 +37,7 @@
 {257}{}{E' massiccio come un carro armato. E guardate quel cannone.}
 {258}{}{Guarda il cannone di quel carro armato...}
 {259}{}{E' tutto mio...}
-{260}{}{::Sigh::}
+{260}{}{::Sospiro::}
 {261}{}{Quel ragazzo mi fa bagnare ogni volta che lo vedo.}
 {262}{}{Hai proprio un bel cobra inguinale.}
 {270}{}{Oh mio... e' lei. }

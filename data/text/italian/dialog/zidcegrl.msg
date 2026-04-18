@@ -24,7 +24,7 @@
 {185}{}{Il gioco sembra abbastanza equilibrato.}
 {186}{}{Non puoi regolare con certezza le probabilita' di uscita dei numeri.}
 {187}{}{Il gioco non sembra essere molto equilibrato.}
-{200}{}{::Cheers::}
+{200}{}{::Saluti::}
 {201}{}{::Applaude::}
 {202}{}{::Fischia::}
 {203}{}{}

@@ -13,7 +13,7 @@
 {177}{}{::Sviene::}
 {178}{}{Vai, }
 {179}{}{::Applaude::}
-{180}{}{::Cheers::}
+{180}{}{::Saluti::}
 {181}{}{Oh mio... e' lei.}
 {182}{}{Vai cosi', ragazza mia!}
 {183}{}{::Ti fa il gesto del pollice alzato::}
@@ -81,7 +81,7 @@
 {255}{}{E' massiccio come un carro armato. E guardate quel cannone.}
 {256}{}{Guarda il cannone di quel carro armato...}
 {257}{}{E' tutto mio...}
-{258}{}{::Sigh::}
+{258}{}{::Sospiro::}
 {259}{}{Che forza.}
 {260}{}{Quel ragazzo mi fa sentire cosi' inerme.}
 {261}{}{Ecco il Re dalla Mazza d'Oro...}

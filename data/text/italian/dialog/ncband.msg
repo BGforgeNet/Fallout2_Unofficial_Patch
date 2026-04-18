@@ -31,22 +31,22 @@
 {603}{}{Passala di mano...}
 {605}{}{}
 {700}{}{Row Row Row}
-{701}{}{Yer Boat}
+{701}{}{La tua barca}
 {702}{}{Gently Down the Stream}
-{703}{}{Merrily}
+{703}{}{Allegramente}
 {706}{}{Life is but a dream...}
 {707}{}{}
 {800}{}{We don't need another hero...}
 {801}{}{We don't needta know the way home...}
 {802}{}{All we need is whaz beyond...}
-{803}{}{Methadone}
+{803}{}{Metadone}
 {804}{}{}
-{900}{}{Give me}
+{900}{}{Dammi}
 {901}{}{A kiss to build a dream on}
 {902}{}{And my imagination}
 {903}{}{Will thrive upon that kiss}
 {904}{}{Mmmmm}
-{905}{}{Sweetheart,}
+{905}{}{Tesoro,}
 {906}{}{I ask no more than this:}
 {910}{}{A kiss before you leave me}
 {912}{}{Will feed my hungry heart}

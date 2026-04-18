@@ -12,7 +12,7 @@
 {164}{}{Vedi una donna dall'aspetto rozzo. Ti rivolge un'occhiata contrariata e poi ti ignora.}
 {165}{}{Vedi una donna dall'aspetto rozzo. Quando incrocia il tuo sguardo, ridacchia.}
 {200}{}{::Applaude::}
-{201}{}{::Cheers::}
+{201}{}{::Saluti::}
 {202}{}{Sei stato grande ad incenerire il culo a quei bastardi dell'Enclave! Cosi' si fa!}
 {203}{}{Sei stato grande a distruggere l'Enclave, }
 {204}{}{Congratulazioni per aver schiacciato l'Enclave, }

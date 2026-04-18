@@ -12,7 +12,7 @@
 {160}{}{Vedi una delle clienti del casino'. Ti strizza vistosamente l'occhio, poi si allontana barcollando.}
 {161}{}{Vedi una delle clienti del casino'. Sta cercando di attirare l'attenzione del cameriere.}
 {200}{}{::Applaude::}
-{201}{}{::Cheers::}
+{201}{}{::Saluti::}
 {202}{}{Sei stato grande ad incenerire il culo a quei bastardi dell'Enclave! Cosi' si fa!}
 {203}{}{Sei stato grande a distruggere l'Enclave, }
 {204}{}{Congratulazioni per aver schiacciato l'Enclave, }

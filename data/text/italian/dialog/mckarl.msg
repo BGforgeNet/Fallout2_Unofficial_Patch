@@ -89,7 +89,7 @@
 {252}{}{Zzzzzzzzz}
 {253}{}{Zzzzzzzzzzzz}
 {254}{}{Zzzzzzzzzzzzzzz}
-{255}{}{*snort* *grunt* *snort*}
+{255}{}{*sbuffo* *grugnito* *sbuffo*}
 {260}{}{Oh, capperi. Devo aver perso dei soldi per la strada. Ecco $}
 {261}{}{$. E' tutto quel che ho.}
 {262}{}{Oh, capperi. Devo aver perso i soldi per la strada. Mi dispiace... e' stato bello pero'.}

@@ -37,7 +37,7 @@
 {216}{}{::Sorride senza denti::}
 {217}{}{::Si gratta::}
 {218}{}{::Gonfia i muscoli::}
-{219}{}{Grunt}
+{219}{}{Grugnito}
 {220}{}{Tu combattere me?}
 {221}{}{Arrabbiati arrabbiati arrabbiati.}
 {222}{}{Con-centrati, Con-centrati.}

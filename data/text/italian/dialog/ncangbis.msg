@@ -36,7 +36,7 @@
 {270}{}{Puoi scommetterci. "Come on".}
 {271}{}{Me viene}
 {272}{}{Me piace giocare. Me gioca solo solo pero'}
-{280}{}{Exactly...}
+{280}{}{Esattamente...}
 {281}{}{[Seguila.]}
 {290}{}{Aw, dai! Ti preeeego! Vorrei tanto mostrarti la mia stanza. E' questione di un secondo, prometto.}
 {291}{}{No va! Me no va! No fare me va! No portare me brutto posto! No!}
