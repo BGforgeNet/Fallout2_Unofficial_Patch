@@ -59,7 +59,7 @@
 {920}{}{Oh, give me your lips for just a moment}
 {921}{}{And my imagination will make that moment live…}
 {923}{}{Give me what you alone can give}
-{925}{}{::Mouth Trumpet::}
+{925}{}{::Tromba a bocca::}
 {930}{}{Saro'... con teeee}
 {933}{}{Ohhhh}
 {935}{}{lips for just a moment}

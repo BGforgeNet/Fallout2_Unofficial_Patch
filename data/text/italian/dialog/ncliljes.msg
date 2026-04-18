@@ -97,7 +97,7 @@
 {523}{}{Eeeeeeehi...come va, amigo? Cosa ti passa per la testa?}
 {524}{}{Me da sotto dove}
 {525}{}{Ay-mi-go?}
-{526}{}{Cheee-ka Cheeek-aaaah}
+{526}{}{kee-ka cheek-aaah}
 {529}{}{Ho delle domande...}
 {530}{}{Come non detto. Scusa il disturbo.}
 {540}{}{}
