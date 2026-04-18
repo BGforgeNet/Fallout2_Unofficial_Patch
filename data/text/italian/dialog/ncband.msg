@@ -51,7 +51,7 @@
 {910}{}{Un bacio prima che tu mi lasci}
 {912}{}{Nutrira' il mio cuore affamato}
 {913}{}{Leave me one thing before we part…}
-{915}{}{When I'm alone}
+{915}{}{Quando sono solo}
 {916}{}{With my fancies}
 {917}{}{I'lllll be with yoooou}
 {918}{}{Weaving ro-mances}
