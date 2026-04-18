@@ -81,7 +81,7 @@
 {409}{}{Bua!}
 {410}{}{Ow! Il braccio!}
 {411}{}{Ah ah! Ti ho battuto!}
-{500}{}{Over the top, Francis! Over the top!}
+{500}{}{Esagerato, Francis! Esagerato!}
 {501}{}{Cavoli, avreste proprio bisogno di un po' spinaci! Ahahahah!}
 {502}{}{Geez, perche' non andate a fare i BRACCIanti. Har Har Har!}
 {503}{}{Vorrei quasi abBRACCIarti, amico. Devi avere un coraggio DI FERRO per affrontare Francis!}

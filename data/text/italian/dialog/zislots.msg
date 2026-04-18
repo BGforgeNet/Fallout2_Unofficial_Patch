@@ -55,8 +55,8 @@
 {2005}{}{*Bing*}
 {2006}{}{*Kaaa-ching*}
 {2007}{}{*Zzzzzzz*}
-{2008}{}{*Ring-a-ling*}
-{2009}{}{*Dingity-ding*}
+{2008}{}{*Driin-dir*}
+{2009}{}{Ding dong ding}
 {2010}{}{*Ehila', bellezza. Vieni a giocare con me.*}
 {2011}{}{*Ehila', bellezza.*}
 {2012}{}{*Sei proprio una cosettina carina. Perche' non vieni a giocare con me?*}

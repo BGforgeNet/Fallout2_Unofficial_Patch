@@ -36,7 +36,7 @@
 {291}{}{Level 1}
 {300}{}{Adytum}
 {301}{}{Downtown}
-{302}{}{Library}
+{302}{}{Biblioteca}
 {303}{}{Fortress}
 {304}{}{Warehouse}
 {310}{}{Entrance}

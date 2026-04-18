@@ -132,7 +132,7 @@
 {232}{}{Gordon}
 {233}{}{Hank}
 {234}{}{Jeremy}
-{235}{}{Lumpy}
+{235}{}{Bitorzoluto}
 {236}{}{Skeeter}
 {237}{}{Zomak}
 {238}{}{Wooz}
@@ -340,7 +340,7 @@
 {440}{}{un'Attrice Porno}
 {441}{}{un'Assistente}
 {442}{}{Map Script}
-{443}{}{Wolf}
+{443}{}{Lupo}
 {444}{}{Generatore}
 {445}{}{Porta}
 {446}{}{Super mutanti}
@@ -1176,7 +1176,7 @@
 {1276}{}{Scatola}
 {1277}{}{Seymour}
 {1278}{}{John Sullivan}
-{1279}{}{Lumpy}
+{1279}{}{Bitorzoluto}
 {1280}{}{}
 {1281}{}{}
 {1282}{}{}

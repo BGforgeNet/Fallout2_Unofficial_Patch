@@ -24,7 +24,7 @@
 {227}{}{Muori, faccia da Enclave!}
 {228}{}{Aighhhhhhhh...mi hanno colpito...}
 {240}{}{Guardatemi, sono l'insetto metallico! Bzzzzzz}
-{241}{}{Blam blam!}
+{241}{}{Bla bla!}
 {242}{}{Attenti, sta arrivando l'insetto metallico!}
 {243}{}{Prendi questo!}
 {244}{}{Tu fai SEMPRE l'insetto metallico!}

@@ -214,9 +214,9 @@
 {313}{}{Ho trovato qualcosa.}
 {314}{}{Ho avuto fortuna.}
 {315}{}{Devi sistemare questa cosa.}
-{316}{}{You need to turn this on.}
-{317}{}{You need to unlock this.}
-{318}{}{You need to open this.}
-{319}{}{Maybe we should come back here.}
+{316}{}{Devi accendere questo.}
+{317}{}{Devi sbloccarlo.}
+{318}{}{Devi aprire questo.}
+{319}{}{Forse dovremmo tornare qui.}
 {320}{}{Non mento. Faro' in modo che il reattore sia riparato. In un modo o nell'altro. Hmm, mi domando se posso convincere Festus a farlo. Oh beh, ci vediamo.}
 {321}{}{Ehi, Harold. Ho qui con me il dispositivo che vi serve per riparare il vostro reattore. Vado a provare ad installarlo. Tornero' a riferire quando ho fatto. Ci vediamo.}

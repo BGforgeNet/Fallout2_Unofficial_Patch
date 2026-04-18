@@ -109,7 +109,7 @@
 {9700}{}{Sulik}
 {9800}{}{Maida Buckner}
 {9900}{}{Torr}
-{10000}{}{Lumpy}
+{10000}{}{Bitorzoluto}
 {10100}{}{un Luminoso del Reattore}
 {10200}{}{un Ghoul del Reattore}
 {10300}{}{una Guardia del Reattore}

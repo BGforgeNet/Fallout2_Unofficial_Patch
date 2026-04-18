@@ -146,7 +146,7 @@ qualcosa per te.}
 {653}{}{...no...Io...*hurrkkk*}
 {654}{}{...aiuto...*gasp*...ti...*cough*...prego...}
 {655}{}{...abbi...pieta'...}
-{656}{}{*wheeze*}
+{656}{}{*respiro affannoso*}
 {657}{}{...Io...}
 {658}{}{...Io...}
 {659}{}{::Smette di respirare.::}

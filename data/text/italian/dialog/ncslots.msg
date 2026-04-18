@@ -16,8 +16,8 @@
 {176}{}{*Bing*}
 {177}{}{*Kaaa-ching*}
 {178}{}{*Zzzzzzz*}
-{179}{}{*Ring-a-ling*}
-{180}{}{*Dingity-ding*}
+{179}{}{*Driin-dir*}
+{180}{}{Ding dong ding}
 {185}{}{Vedi una strana scatola di metallo dorato con tre occhi e un braccio. E' una delle cose piu' carine che tu abbia mai visto.}
 {186}{}{Me }
 {187}{}{ chi tu}
@@ -181,9 +181,9 @@
 {442}{}{Smetti di giocare.}
 {443}{}{Smetti di giocare.}
 {1000}{}{Il gioco non sembra essere molto equilibrato.}
-{1001}{}{Odds look right.}
+{1001}{}{Le probabilità sembrano a favore.}
 {1005}{}{Non puoi regolare con certezza le probabilita' di uscita dei numeri.}
-{1006}{}{Odds seem to be about right.}
+{1006}{}{Le probabilità sembrano essere corrette.}
 {1010}{}{The odds seem right.}
 {1011}{}{The odds don't seem right.}
 {1015}{}{The odds seem right.}

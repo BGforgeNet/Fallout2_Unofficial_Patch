@@ -442,10 +442,10 @@
 {3032}{}{Possiamo riposare qui.}
 {3033}{}{Siamo fortunati.}
 {3034}{}{Devi sistemare questa cosa.}
-{3035}{}{You need to turn this on.}
-{3036}{}{You need to unlock this.}
-{3037}{}{You need to open this.}
-{3038}{}{Maybe we should come back here.}
+{3035}{}{Devi accendere questo.}
+{3036}{}{Devi sbloccarlo.}
+{3037}{}{Devi aprire questo.}
+{3038}{}{Forse dovremmo tornare qui.}
 {3039}{}{Noi non capiamo.}
 {3040}{}{Noi non sappiamo.}
 {3050}{slk86}{Essere a casa e' bello, ma questo posto sembra troppo piccolo adesso. Ci manca la strada e la compagnia di un cosi' caro amico come te. Noi volere unire a te di nuovo.}

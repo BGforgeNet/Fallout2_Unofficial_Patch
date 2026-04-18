@@ -13,40 +13,40 @@
 {223}{}{il Desperado}
 {224}{}{}
 {300}{}{}
-{301}{}{Whisper}
-{302}{}{Spider}
-{303}{}{Measle}
-{304}{}{Teacher}
-{305}{}{Mover}
-{306}{}{Bull}
+{301}{}{Sussurro}
+{302}{}{Ragno}
+{303}{}{Morbillo}
+{304}{}{Insegnante}
+{305}{}{Spostatore}
+{306}{}{Toro}
 {307}{}{Skipper}
-{308}{}{Shush}
-{309}{}{Lefty}
-{310}{}{Righty}
-{311}{}{Eyebrows}
+{308}{}{Sssh}
+{309}{}{Mancino}
+{310}{}{Destro}
+{311}{}{Sopracciglia}
 {312}{}{Tornado}
 {313}{}{Moulty}
-{314}{}{Monkey Boy}
-{315}{}{Lumpy}
-{316}{}{Mitts}
+{314}{}{Scimmiotto}
+{315}{}{Bitorzoluto}
+{316}{}{Zampe}
 {317}{}{Gooch}
-{318}{}{Meat Cleaver}
+{318}{}{Mannaia}
 {319}{}{Brocco}
-{320}{}{Two-Times}
+{320}{}{Due Volte}
 {321}{}{Romeo}
 {322}{}{Vinnie}
-{323}{}{Rook}
-{324}{}{Silencer}
+{323}{}{Pivello}
+{324}{}{Silenziatore}
 {325}{}{Hammer}
 {326}{}{Knuckles}
 {327}{}{Bender}
 {328}{}{Grocer}
 {329}{}{Snake Eyes}
-{330}{}{Wolf}
+{330}{}{Lupo}
 {331}{}{Hatchetman}
 {332}{}{Smiley}
 {333}{}{Fats}
-{334}{}{Pearl}
+{334}{}{Perla}
 {335}{}{Reno Jimmy}
 {336}{}{Jade}
 {337}{}{Scarface}
@@ -76,7 +76,7 @@
 {361}{}{Coffinmaker}
 {362}{}{Little Joe}
 {363}{}{Ice Queen}
-{364}{}{Switch}
+{364}{}{Interruttore}
 {365}{}{Bucks}
 {366}{}{Chips}
 {367}{}{Lucky}
@@ -291,7 +291,7 @@
 {701}{}{Tony Gunn}
 {702}{}{"Steel" Mark Torrance}
 {703}{}{Xander "the Sure Thing" Holyland}
-{704}{}{Spider}
+{704}{}{Ragno}
 {705}{}{Slim}
 {706}{}{Sweet Jones}
 {707}{}{Il Roche}
