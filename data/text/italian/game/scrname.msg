@@ -606,7 +606,7 @@
 {706}{}{il Supervisore}
 {707}{}{Zaius}
 {708}{}{Jacob}
-{709}{}{Chemistry Set}
+{709}{}{Kit di chimica}
 {710}{}{Prop}
 {711}{}{Porta}
 {712}{}{Computer}
@@ -644,7 +644,7 @@
 {744}{}{Bess}
 {745}{}{un Brahmin}
 {746}{}{Angela Bishop}
-{747}{}{Tommy "The Balls"}
+{747}{}{Tommy "Palle d’Acciaio"}
 {748}{}{Safe}
 {749}{}{Safe}
 {750}{}{Safe}
@@ -742,7 +742,7 @@
 {842}{}{uno Sciacallo}
 {843}{}{un Mercante}
 {844}{}{un Contadino}
-{845}{}{Arroyo Temple}
+{845}{}{Tempio di Arroyo}
 {846}{}{un Lavoratore del Porto}
 {847}{}{un Contadino}
 {848}{}{una Guardia}

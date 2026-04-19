@@ -38,7 +38,7 @@
 {212}{}{Non e' una star, e' solo spazzatura tribale...}
 {213}{}{Mi stupisco che permettano alle pornostar di diventare COSI' grasse...}
 {214}{}{E' orripilante.}
-{215}{}{Ha lo stesso sex appeal di un sacchetto di carta bagnata...}
+{215}{}{Ha lo stesso Fascino Sessuale di un sacchetto di carta bagnata...}
 {216}{}{Brutta come il peccato...}
 {217}{}{Sara' anche una star, ma si muove con la grazia di un mutante.}
 {218}{}{Se prova a fare qualcosa, la sfregio...}

@@ -104,7 +104,7 @@
 {5201}{}{Un contatore Geiger Wattz Electronics modello C-Radz. Rileva la presenza e l'intensita' di campi di radioattivita'.}
 {5300}{}{Mentat}
 {5301}{}{Una confezione di droghe alteranti la mente. Aumenta le funzioni legate alla memoria, e velocizza gli altri processi mentali. Alto rischio di dipendenza.}
-{5400}{}{Stealth Boy}
+{5400}{}{Mimetizzatore}
 {5401}{}{Un meccanismo di occultamento personale RobCo Stealth Boy 3001. Genera un campo modulante che trasmette la luce riflessa da un lato all'altro di un oggetto.}
 {5500}{}{Chip di depurazione dell'acqua}
 {5501}{}{Questo e' un Water Chip della Vault-Tec. Di solito ogni scatola ne contiene cinque.}
@@ -408,7 +408,7 @@
 {20801}{}{Un sensore di movimento Wattz Electronics modello C-U. Rileva il movimento di materiale biologico su una distanza espressa in metri usando un dispositivo radar appostiamente tarato. E' acceso.}
 {20900}{}{Esplosivo al Plastico}
 {20901}{}{Un pezzo di Cordex, una marca militare di esplosivi al plastico. Altamente stabile, molto distruttivo. E' provvisto di un timer, che sta ticchettando.}
-{21000}{}{Stealth Boy}
+{21000}{}{Mimetizzatore}
 {21001}{}{Un meccanismo di occultamento personale RobCo Stealth Boy 3001. Genera un campo modulante che trasmette la luce riflessa da un lato all'altro di un oggetto.}
 {21100}{}{Ossa}
 {21101}{}{Vedi Ed. Ed e' morto.}
