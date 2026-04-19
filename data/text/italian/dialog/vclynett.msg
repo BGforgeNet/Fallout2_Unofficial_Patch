@@ -40,7 +40,7 @@
 {139}{}{Hunh?}
 {140}{}{Valt! Valt!}
 {141}{}{Testa giraaaaaaa.}
-{142}{}{Bye-bye}
+{142}{}{Ciao-ciao}
 {143}{}{Non e' questo il Vault dal quale proviene il mio antenato?}
 {144}{}{Non lo so. Vengo da un villaggio ad occidente.}
 {145}{}{Non lo so. Sto cercando di trovare il Vault dal quale proviene il mio antenato... lei puo' aiutarmi?}
@@ -285,7 +285,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {383}{}{Hunh?}
 {384}{}{Valt! Valt!}
 {385}{}{Straniiiii occhi!!}
-{386}{}{Bye-bye}
+{386}{}{Ciao-ciao}
 {387}{}{Avrei delle domande che vorrei porle.}
 {388}{}{Avrei delle domande che vorrei porle.}
 {389}{}{In che modo una persona puo' diventare Cittadino di Vault City?}
@@ -701,14 +701,14 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {799}{}{Northeast}
 {800}{}{Southwest}
 {801}{}{Southeast}
-{802}{}{To the North}
-{803}{}{To the South}
+{802}{}{A Nord}
+{803}{}{A Sud}
 {804}{}{To the East}
-{805}{}{To the West}
-{806}{}{To the Northwest}
-{807}{}{To the Northeast}
-{808}{}{To the Southwest}
-{809}{}{To the Southeast}
+{805}{}{A Ovest}
+{806}{}{A Nordovest}
+{807}{}{A Nordest}
+{808}{}{A Sudovest}
+{809}{}{A Sudest}
 {810}{}{I don't want that.}
 {811}{}{Grazie.}
 {812}{}{Thanks for your time.}

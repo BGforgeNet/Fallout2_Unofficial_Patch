@@ -82,7 +82,7 @@
 {182}{}{Sally}
 {183}{}{Sorridente}
 {184}{}{Jenny}
-{185}{}{Slim}
+{185}{}{Magro}
 {186}{}{Torr}
 {187}{}{uno dei due Dunton}
 {188}{}{un Cittadino}
@@ -1100,7 +1100,7 @@
 {1200}{}{Miniera}
 {1201}{}{Pit}
 {1202}{}{Cal}
-{1203}{}{Slim}
+{1203}{}{Magro}
 {1204}{}{Jenna}
 {1205}{}{}
 {1206}{}{}

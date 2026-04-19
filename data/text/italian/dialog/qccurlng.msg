@@ -144,10 +144,10 @@
 {243}{}{Dovresti disattivare il generatore di energia. Il reattore e' controllato da un grande computer situato nelle immediate vicinanze del reattore stesso. Non so esattamente cosa dovrai fare, pero'.}
 {244}{}{La ringrazio per le informazioni che mi ha dato. Il suo sacrificio verra' ricordato da tutti i popoli della terra.}
 {245}{}{Era ora che tornassi in te, vecchio tacchino. Adesso sbrighiamoci.}
-{246}{}{When the stars threw down their spears,}
-{247}{}{                      And water'd heaven with their tears,}
-{248}{}{                            Did he smile his work to see?}
-{249}{}{                                  Did he who made the Lamb make thee?}
+{246}{}{Quando le stelle gettarono le loro lance,}
+{247}{}{                      E bagnarono il cielo con le loro lacrime,}
+{248}{}{                            Sorrise egli vedendo la sua opera?}
+{249}{}{                                  Colui che fece l'Agnello fece anche te?}
 {250}{}{Eh?}
 {251}{}{Oh, e' solo una cosa che ricordo di un poeta morto da molto tempo. Mi chiedo se c'e' ancora posto per quelli che hanno cosi' a lungo operato per raggiunere una fine cosi' tetra. Il nostro tempo si e' concluso, il vostro e' appena cominciato. Sbrigati!}
 {252}{}{Oh, okay, grazie dell'aiuto, dottore. Lei e' un uomo valoroso.}

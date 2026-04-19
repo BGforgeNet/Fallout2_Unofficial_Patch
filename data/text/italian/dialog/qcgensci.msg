@@ -27,8 +27,8 @@
 {126}{}{Dovrebbero avvertirci quando hanno intenzione di verificare i sistemi d'emergenza.}
 {127}{}{Mi bruciano i polmoni.}
 {128}{}{Non ci vedo! Chi ha spento la luce?}
-{129}{}{(Cough, hack, cough)}
-{130}{}{(Splutter, cough)}
+{129}{}{(Tosse, ack, tosse)}
+{130}{}{(Starnuti, colpi di tosse)}
 {131}{}{La mia gola sta sanguinando!}
 {132}{}{Ho gli occhi in fiamme!}
 {133}{}{Mi sento male.}

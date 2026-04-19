@@ -14,7 +14,7 @@
 {1013}{}{Cristo, non ho piu' il braccio!}
 {1014}{}{Oh Dio, non il braccio.}
 {1015}{}{Basta, ti prego, basta.}
-{1016}{}{(Sob, sob)}
+{1016}{}{(Sniff, sniff)}
 {1017}{}{Il mio braccio e' davvero messo male.}
 {1018}{}{Come mi guadagnero' da vivere, adesso?}
 {1019}{}{L'hai rotto.}

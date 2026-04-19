@@ -209,13 +209,13 @@
 {519}{}{Mr. Pink}
 {520}{}{Ricky Rachtman}
 {521}{}{Cuthbert}
-{522}{}{Dave Handy}
+{522}{}{Dave Manolesta}
 {523}{}{Harry Canyon}
 {524}{}{Richie Cunning Linguist}
 {525}{}{Bret Bulge}
 {526}{}{El Douche}
 {527}{}{Johnson Long}
-{528}{}{Ebineezer Screws}
+{528}{}{Ebineezer Viti}
 {529}{}{Buck Fitch}
 {530}{}{Arnold Swollenmember}
 {531}{}{}
@@ -261,43 +261,43 @@
 {571}{}{Bunny LaJoya}
 {572}{}{Madame Butterfly}
 {573}{}{Jenny X}
-{574}{}{Sweet Jane}
-{575}{}{Darlin' Nikki}
+{574}{}{Dolce Jane}
+{575}{}{Cara Nikki}
 {576}{}{Sharonna}
 {577}{}{Suzy Q}
 {578}{}{Corvega Sally}
 {579}{}{Pokeahotass}
 {580}{}{Dominatrish}
-{581}{}{Princess X}
+{581}{}{Principessa X}
 {582}{}{Carlotta}
-{583}{}{Kissing Mary}
-{584}{}{April Wine}
+{583}{}{Mary la Baciona}
+{584}{}{Vino d'Aprile}
 {585}{}{Ruby Red}
 {586}{}{Christie Chipps}
 {587}{}{Lisa Lix}
 {588}{}{Oppio}
 {589}{}{Gatto Randagio}
 {590}{}{Lady Chatterfly}
-{591}{}{The Postwoman}
-{592}{}{Missus Holmes}
-{593}{}{Debbie Dare}
+{591}{}{La Postina}
+{592}{}{Signora Holmes}
+{593}{}{Debbie l'Ardita}
 {594}{}{Jessica Long}
 {595}{}{Mynx}
 {596}{}{Sascha}
 {597}{}{Valerie Vixen}
-{598}{}{Ruth Less}
+{598}{}{Ruth la Spietata}
 {599}{}{}
 {700}{}{Mal Fisto}
-{701}{}{Tony Gunn}
-{702}{}{"Steel" Mark Torrance}
-{703}{}{Xander "the Sure Thing" Holyland}
+{701}{}{Tommy Pistola}
+{702}{}{"Acciaio" Mark Torrance}
+{703}{}{Xander "la Cosa Sicura" Holyland}
 {704}{}{Ragno}
-{705}{}{Slim}
-{706}{}{Sweet Jones}
+{705}{}{Magro}
+{706}{}{Dolce Jones}
 {707}{}{Il Roche}
 {708}{}{Tito}
 {709}{}{Rudy}
-{710}{}{Big George}
+{710}{}{Grande George}
 {711}{}{Gooch}
 {712}{}{Fat Johnny}
 {713}{}{Nicki}
@@ -310,7 +310,7 @@
 {750}{}{Joqq}
 {751}{}{Pete McKneely}
 {752}{}{Evan Holyfeld}
-{753}{}{The Masticator}
+{753}{}{Il Masticatore}
 {1000}{}{Jules ti conduce in un vecchio quartiere alla periferia di New Reno. Non credi che saresti riuscito a trovare questo luogo da solo. Appena arrivati, Jules sparisce.}
 {1100}{}{Le tracce ti conducono in un vecchio quartiere alla periferia di New Reno.}
 {1200}{}{Scopri una piccola scatola di metallo. Non l'avresti mai trovata se tu non l'avessi cercata.}

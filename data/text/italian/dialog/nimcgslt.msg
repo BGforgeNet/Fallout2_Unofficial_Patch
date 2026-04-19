@@ -3,14 +3,14 @@
 {200}{}{*Ehila', giovan...::cough:: ::cough:: ::wheeze:: ...vieni a...::hack::...giocare un po' con me.*}
 {201}{}{*Ehila', giovan- ::cough:: ::cough::*}
 {202}{}{*Ehila', giovanot- ::cough:: ::hack:: ::wheeze:: ...perche'...::hack::...non vieni a giocare?*}
-{203}{}{*Rattle*}
+{203}{}{*Cling cling*}
 {204}{}{*Clink*}
-{205}{}{*Thwunk*}
+{205}{}{*Tunk*}
 {206}{}{*Ker-chunka-chunka*}
 {207}{}{*Zzzztttt*}
 {208}{}{*Ka-dink-thunk-snap*}
 {209}{}{*Ka-chuuuunk-snap-creeeeeak*}
-{210}{}{*Clunk*}
+{210}{}{*Clonk*}
 {211}{}{*Tink-tinkety-tink*}
 {212}{}{*Effetto sonoro stupido*}
 {213}{}{*Ehila', bellez...::cough:: ::cough:: ::wheeze:: ...vieni a...::hack::...giocare un po' con me.*}

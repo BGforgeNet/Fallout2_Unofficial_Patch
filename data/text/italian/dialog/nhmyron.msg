@@ -357,7 +357,7 @@
 {1173}{}{Ehilaaaaaa' Nylon. Me }
 {1174}{}{Gud. Ded.}
 {1175}{}{Persone deboli che guardava porta smesso di respirare quando me colpito loro}
-{1176}{}{Bye-bye}
+{1176}{}{Ciao-ciao}
 {1177}{}{Le tue guardie sono troppo occupate a fare i cadaveri per sorvegliare la porta.}
 {1178}{}{Ho usato questo pass. Mi manda Marjorie.}
 {1179}{}{Chi sei?}
