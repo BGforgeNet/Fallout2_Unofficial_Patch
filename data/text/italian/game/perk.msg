@@ -102,7 +102,7 @@
 {202}{}{Piromane}
 {203}{}{Recupero Veloce}
 {204}{}{Venditore}
-{205}{}{Stonewall}
+{205}{}{Muro di Pietra}
 {206}{}{Ladro}
 {207}{}{Maneggiare le Armi}
 {208}{}{Addestramento di Vault City}

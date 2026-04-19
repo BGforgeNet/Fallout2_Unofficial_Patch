@@ -627,7 +627,7 @@
 {727}{}{Schiavista}
 {728}{}{uno Schiavo}
 {729}{}{un Partecipante al Party}
-{730}{}{Mantis}
+{730}{}{Mantide}
 {731}{}{un Brahmin}
 {732}{}{un Cane Selvatico}
 {733}{}{Computer}

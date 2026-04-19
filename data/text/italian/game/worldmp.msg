@@ -15,7 +15,7 @@
 {240}{}{Base}
 {250}{}{Hotel}
 {251}{}{Hall}
-{252}{}{Watershed}
+{252}{}{Impianto Idrico}
 {260}{}{Entrance}
 {261}{}{Downtown}
 {262}{}{Heights}

@@ -37,62 +37,62 @@
 {322}{}{Vinnie}
 {323}{}{Pivello}
 {324}{}{Silenziatore}
-{325}{}{Hammer}
-{326}{}{Knuckles}
+{325}{}{Martello}
+{326}{}{Nocche}
 {327}{}{Bender}
-{328}{}{Grocer}
-{329}{}{Snake Eyes}
+{328}{}{Il Droghiere}
+{329}{}{Occhi di Serpe}
 {330}{}{Lupo}
-{331}{}{Hatchetman}
+{331}{}{L'Accettaro}
 {332}{}{Sorridente}
-{333}{}{Fats}
+{333}{}{Ciccio}
 {334}{}{Perla}
-{335}{}{Reno Jimmy}
+{335}{}{Jimmy di Reno}
 {336}{}{Jade}
-{337}{}{Scarface}
+{337}{}{Faccia Sfregiata}
 {338}{}{Diamond}
-{339}{}{Ace}
-{340}{}{One-Eyed Jack}
+{339}{}{Asso}
+{340}{}{Jack l'Occhio Solo}
 {341}{}{Nikki}
-{342}{}{Iceman}
-{343}{}{Sly}
-{344}{}{Slick}
+{342}{}{Uomo di Ghiaccio}
+{343}{}{Furbo}
+{344}{}{Scivoloso}
 {345}{}{Charlie}
-{346}{}{Opium}
-{347}{}{Dagger}
+{346}{}{Oppio}
+{347}{}{Pugnale}
 {348}{}{Sentenza}
-{349}{}{Fixer}
+{349}{}{Sistematore}
 {350}{}{Shark}
-{351}{}{Hound}
-{352}{}{Reverend}
+{351}{}{Segugio}
+{352}{}{Reverendo}
 {353}{}{Magnum}
 {354}{}{Iceberg}
 {355}{}{Gina}
 {356}{}{Vicki}
-{357}{}{Chase}
-{358}{}{Guillotine}
-{359}{}{Frost}
+{357}{}{Cacciatore}
+{358}{}{Ghigliottina}
+{359}{}{Gelo}
 {360}{}{Valentino}
-{361}{}{Coffinmaker}
-{362}{}{Little Joe}
-{363}{}{Ice Queen}
+{361}{}{Becchino}
+{362}{}{Joe il Piccolo}
+{363}{}{Regina di Ghiaccio}
 {364}{}{Interruttore}
-{365}{}{Bucks}
-{366}{}{Chips}
-{367}{}{Lucky}
+{365}{}{Dollari}
+{366}{}{Fiches}
+{367}{}{Fortunato}
 {368}{}{Saint}
-{369}{}{Numbers}
-{370}{}{Mantis}
-{371}{}{Scorpio}
-{372}{}{Fat Man}
+{369}{}{Numeri}
+{370}{}{Mantide}
+{371}{}{Scorpione}
+{372}{}{Ometto}
 {373}{}{Sam}
 {374}{}{Blue Lou}
-{375}{}{Tommy the Gun}
-{376}{}{Crazy Jane}
-{377}{}{Widow}
-{378}{}{Trashman}
+{375}{}{Tommy la Pistola}
+{376}{}{Jane la Pazza}
+{377}{}{Vedova}
+{378}{}{Spazzino}
 {379}{}{Nine Inch Nick}
-{380}{}{Rainmaker}
+{380}{}{Portapioggia}
 {381}{}{Re}
 {382}{}{Killer}
 {383}{}{Santana}
@@ -107,7 +107,7 @@
 {392}{}{X}
 {393}{}{}
 {400}{}{}
-{401}{}{Jabby}
+{401}{}{Pugnettoso}
 {402}{}{Spinning Jenny}
 {403}{}{Pistone}
 {404}{}{Hurricane}
@@ -115,31 +115,31 @@
 {406}{}{l'Eletto}
 {407}{}{Toro Furioso}
 {408}{}{LaMotta}
-{409}{}{Sledge}
-{410}{}{Glass Joe}
+{409}{}{Mazza}
+{410}{}{Joe di Vetro}
 {411}{}{Nancy New Reno}
 {412}{}{Toro Calvo}
 {413}{}{Principessa}
 {414}{}{Duke}
 {415}{}{Machoman}
 {416}{}{Iron Maiden}
-{417}{}{Ripper}
+{417}{}{Sventratore}
 {418}{}{Valkyrie}
 {419}{}{Hook}
-{420}{}{Sidewinder}
-{421}{}{Bad Grrrl}
-{422}{}{Rockjaw}
-{423}{}{Stonewall}
-{424}{}{Chainsaw}
-{425}{}{Helen Wheels}
-{426}{}{Tommy Gunn}
-{427}{}{Black Widow}
-{428}{}{Smash}
+{420}{}{Serpente a Sonagli}
+{421}{}{Ragazza Cattiva}
+{422}{}{Mandibola di Roccia}
+{423}{}{Muro di Pietra}
+{424}{}{Motosega}
+{425}{}{Helen Ruote}
+{426}{}{Tommy Pistola}
+{427}{}{Vedova Nera}
+{428}{}{Spacca}
 {429}{}{Delilah}
-{430}{}{Lightning}
+{430}{}{Fulmine}
 {431}{}{Jocco}
-{432}{}{Sister Steel}
-{433}{}{Super Sledge}
+{432}{}{Sorella Acciaio}
+{433}{}{Super martello}
 {434}{}{Apollo}
 {435}{}{Scrapiron}
 {436}{}{Tigre}
@@ -153,7 +153,7 @@
 {444}{}{Luke Mano di Ferro}
 {445}{}{Faith}
 {446}{}{Dottor Pugno}
-{447}{}{Flying Nun}
+{447}{}{La Suora Volante}
 {448}{}{Balboa}
 {449}{}{Floyd Ray Willis}
 {450}{}{Calamity Jane}
@@ -163,27 +163,27 @@
 {454}{}{Treno Merci}
 {455}{}{Super Volpe}
 {456}{}{Jim New Reno}
-{457}{}{Crusher}
+{457}{}{Il Tritaossa}
 {458}{}{Rico}
-{459}{}{Hammerhand}
-{460}{}{Widowmaker}
+{459}{}{Mano di Martello}
+{460}{}{La Vedovaia}
 {461}{}{Ufficiale Giudiziario}
 {462}{}{Butch Coolidge}
-{463}{}{Alley Cat}
+{463}{}{Gatto Randagio}
 {464}{}{Bad Mojo}
 {465}{made_man_name}{Tank}
-{466}{}{Bruiser}
+{466}{}{Il Picchiatore}
 {467}{}{Mynx}
 {468}{}{Scorpione}
-{469}{}{Punchy}
+{469}{}{Pugno Facile}
 {470}{}{Cheetah}
-{471}{}{Verdict}
-{472}{}{Judge Jury}
+{471}{}{Il Verdetto}
+{472}{}{Giudice e Giuria}
 {473}{}{Piledriver}
 {474}{}{Athena}
-{475}{}{Mad Dog}
+{475}{}{Cane Pazzo}
 {476}{}{}
-{496}{}{Big Stu}
+{496}{}{Grande Stu}
 {497}{}{Miami}
 {498}{}{X}
 {499}{}{Il tuo nome}
@@ -199,9 +199,9 @@
 {509}{}{Kurt Loader}
 {510}{}{Rick Dripps}
 {511}{}{Dick Seamen}
-{512}{}{"The Polish Hammer"}
+{512}{}{"Il Martello Polacco"}
 {513}{}{Doug Holes}
-{514}{}{Cock of the Walk}
+{514}{}{Gallo Spaccone}
 {515}{}{Vinnie LaJoya}
 {516}{}{Sir Lance-a-lot}
 {517}{}{Dick Smothers}
@@ -275,8 +275,8 @@
 {585}{}{Ruby Red}
 {586}{}{Christie Chipps}
 {587}{}{Lisa Lix}
-{588}{}{Opium}
-{589}{}{Alley Cat}
+{588}{}{Oppio}
+{589}{}{Gatto Randagio}
 {590}{}{Lady Chatterfly}
 {591}{}{The Postwoman}
 {592}{}{Missus Holmes}
@@ -303,9 +303,9 @@
 {713}{}{Nicki}
 {714}{}{LaMotta}
 {715}{}{Ivan}
-{716}{}{Glass Joe}
+{716}{}{Joe di Vetro}
 {717}{}{Drago}
-{718}{}{Tommy Gunn}
+{718}{}{Tommy Pistola}
 {719}{}{Apollo}
 {750}{}{Joqq}
 {751}{}{Pete McKneely}

@@ -18,7 +18,7 @@
 {1001}{}{Una mucca mutante bicipite.}
 {1100}{}{un Ratto}
 {1101}{}{Un grosso ratto comune.}
-{1200}{}{Mantis}
+{1200}{}{Mantide}
 {1201}{}{Una mantide mutante.}
 {1300}{}{Anziana}
 {1400}{}{Hakunin}
@@ -230,7 +230,7 @@
 {21300}{}{una Donna Bandito}
 {21400}{}{una Contadina}
 {21500}{}{una Contadina}
-{21600}{}{Mantis}
+{21600}{}{Mantide}
 {21700}{}{Schiavista}
 {21800}{}{Schiavista}
 {21900}{}{un Brahmin Selvatico}

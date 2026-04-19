@@ -226,9 +226,9 @@
 {11301}{}{Vesti consunte.}
 {11400}{}{Mano di Tangler}
 {11401}{}{Un manipolatore cybernetico, dall'aspetto e dalla forma di una mano. Danneggiata a causa della natura maldestra del processo di rimozione.}
-{11500}{}{Super Sledge}
+{11500}{}{Super martello}
 {11501}{}{Un Super Martello da Guerra, costruito dalla Confraternita d'Acciaio, utilizzando le migliori tecniche di costruzione disponibili. Include un dispositivo di stoccaggio di energia cinetica, per aumentare la violenza del colpo. Min FZ: 5.}
-{11600}{}{Ripper}
+{11600}{}{Sventratore}
 {11601}{}{Una lama a vibrazione modello "Ripper"(tm). Alimentata da una piccola cella a energia, questa specie di motosega taglia e macella il suo bersaglio. Min FZ: 4.}
 {11700}{}{Flower}
 {11701}{}{Uno splendido fiore.}

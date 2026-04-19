@@ -99,22 +99,22 @@
 {343}{}{Ciaooooo}
 {344}{}{Beeene. }
 {345}{}{Uh...cervelli...cosa essere?! Me va vedere!}
-{350}{}{Very well, sir. Come back soon.}
+{350}{}{Benissimo, signore. Torni presto.}
 {351}{}{Molto bene, signore. Tornate presto.}
 {352}{}{[La croupier alza un sopracciglio.] $}
 {354}{}{Lo faro', grazie.}
 {355}{}{Forse hai ragione.}
 {400}{}{Mi spiace. Ritenta, sarai piu' fortunato.}
-{401}{}{Sorry, sir. Better luck next time.}
+{401}{}{Mi dispiace, signore. Piu' fortuna la prossima volta.}
 {402}{}{Mi spiace, signore. Ritentate, sarete piu' fortunata.}
 {410}{}{Hai vinto cio' che avevi puntato.}
 {411}{}{Avete vinto cio' che avevate puntato. Volete provare ancora, signore?}
 {412}{}{Avete vinto cio' che avevate puntato. Volete provare ancora, signora?}
 {420}{}{Hai vinto! Prendi il doppio dei soldi che avevi puntato!}
-{421}{}{Winner! You've doubled your money! Well done, sir!}
+{421}{}{Vincitore! Ha raddoppiato i suoi soldi! Complimenti, signore!}
 {422}{}{Avete vinto! Prendete il doppio dei soldi che avevate puntato. Ben fatto, signora!}
 {430}{}{Hai vinto! Prendi il triplo dei soldi che avevi puntato!}
-{431}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
+{431}{}{Vincitore! Ha triplicato i suoi soldi! La fortuna e' con noi stanotte! Complimenti, signore!}
 {432}{}{Avete vinto! Prendete il triplo dei soldi che avevate puntato. La Fortuna ci ha fatto visita, stanotte! Ben fatto, signora!}
 {440}{}{Smetti di giocare.}
 {441}{}{Smetti di giocare.}

@@ -184,7 +184,7 @@
 {1001}{}{Le probabilità sembrano a favore.}
 {1005}{}{Non puoi regolare con certezza le probabilita' di uscita dei numeri.}
 {1006}{}{Le probabilità sembrano essere corrette.}
-{1010}{}{The odds seem right.}
-{1011}{}{The odds don't seem right.}
-{1015}{}{The odds seem right.}
-{1016}{}{The odds don't seem right.}
+{1010}{}{Le probabilita' sembrano giuste.}
+{1011}{}{Le probabilita' non sembrano giuste.}
+{1015}{}{Le probabilita' sembrano giuste.}
+{1016}{}{Le probabilita' non sembrano giuste.}

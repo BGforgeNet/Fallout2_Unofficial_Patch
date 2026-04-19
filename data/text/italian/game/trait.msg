@@ -1,5 +1,5 @@
 {100}{}{Metabolismo Rapido}
-{101}{}{Bruiser}
+{101}{}{Il Picchiatore}
 {102}{}{Mingherlino}
 {103}{}{Destro o Mancino}
 {104}{}{Finezza}

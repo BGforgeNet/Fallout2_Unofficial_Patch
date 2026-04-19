@@ -150,14 +150,14 @@
 {318}{}{Ben}
 {320}{}{Stumpy}
 {321}{}{Shredder}
-{322}{}{Ripper}
+{322}{}{Sventratore}
 {323}{}{Skree}
 {324}{}{Buban}
 {325}{}{Bongo}
 {326}{}{One-eye}
 {327}{}{Spot}
 {328}{}{Lord Wiggler}
-{330}{}{Lucky}
+{330}{}{Fortunato}
 {331}{}{Zoroaster the Great}
 {332}{}{Shub}
 {333}{}{Usuthu}
@@ -166,7 +166,7 @@
 {336}{}{Precious}
 {337}{}{Fraggle}
 {338}{}{Captain Midnight}
-{340}{}{Hammer}
+{340}{}{Martello}
 {341}{}{Secretariat}
 {342}{}{Man o' War}
 {343}{}{Sancho Panza}
@@ -175,7 +175,7 @@
 {346}{}{Grendel}
 {347}{}{Lady Penelope}
 {348}{}{Mr. Baggins}
-{350}{}{Lightning}
+{350}{}{Fulmine}
 {351}{}{Percy}
 {352}{}{Flower}
 {353}{}{Rumplestiltskin}
