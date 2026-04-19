@@ -118,8 +118,8 @@
 {409}{}{Sledge}
 {410}{}{Glass Joe}
 {411}{}{Nancy New Reno}
-{412}{}{Bald Bull}
-{413}{}{Princess}
+{412}{}{Toro Calvo}
+{413}{}{Principessa}
 {414}{}{Duke}
 {415}{}{Machoman}
 {416}{}{Iron Maiden}
@@ -142,39 +142,39 @@
 {433}{}{Super Sledge}
 {434}{}{Apollo}
 {435}{}{Scrapiron}
-{436}{}{Tigress}
+{436}{}{Tigre}
 {437}{}{Tyson}
 {438}{}{Lady J}
 {439}{}{Drago}
 {440}{}{Clubber Lang}
-{441}{}{Duchess}
+{441}{}{Duchessa}
 {442}{}{Bulldozer}
-{443}{}{Grace}
-{444}{}{Ironhand Luke}
+{443}{}{Adornare}
+{444}{}{Luke Mano di Ferro}
 {445}{}{Faith}
-{446}{}{Doctor Fist}
+{446}{}{Dottor Pugno}
 {447}{}{Flying Nun}
 {448}{}{Balboa}
 {449}{}{Floyd Ray Willis}
 {450}{}{Calamity Jane}
-{451}{}{Cobra}
-{452}{}{Bloody Murder}
-{453}{}{Executioner}
-{454}{}{Freight Train}
-{455}{}{Super Vixen}
-{456}{}{New Reno Jim}
+{451}{}{Kobra}
+{452}{}{Omicidio Sanguinario}
+{453}{}{Boia}
+{454}{}{Treno Merci}
+{455}{}{Super Volpe}
+{456}{}{Jim New Reno}
 {457}{}{Crusher}
 {458}{}{Rico}
 {459}{}{Hammerhand}
 {460}{}{Widowmaker}
-{461}{}{Baliff}
+{461}{}{Ufficiale Giudiziario}
 {462}{}{Butch Coolidge}
 {463}{}{Alley Cat}
 {464}{}{Bad Mojo}
 {465}{made_man_name}{Tank}
 {466}{}{Bruiser}
 {467}{}{Mynx}
-{468}{}{Scorpion}
+{468}{}{Scorpione}
 {469}{}{Punchy}
 {470}{}{Cheetah}
 {471}{}{Verdict}
@@ -186,7 +186,7 @@
 {496}{}{Big Stu}
 {497}{}{Miami}
 {498}{}{X}
-{499}{}{Your Name}
+{499}{}{Il tuo nome}
 {500}{}{}
 {501}{}{Rodd Rokks}
 {502}{}{Randy Mercury}

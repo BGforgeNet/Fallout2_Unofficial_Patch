@@ -11,7 +11,7 @@
 {222}{}{Brahmin Pen}
 {230}{}{Entrance}
 {231}{}{Crash House}
-{232}{}{Casino}
+{232}{}{Casino'}
 {240}{}{Base}
 {250}{}{Hotel}
 {251}{}{Hall}
@@ -38,7 +38,7 @@
 {301}{}{Downtown}
 {302}{}{Biblioteca}
 {303}{}{Fortress}
-{304}{}{Warehouse}
+{304}{}{Magazzino}
 {310}{}{Entrance}
 {311}{}{Interior}
 {500}{}{Hai guadagnato 10,000 punti esperienza!}

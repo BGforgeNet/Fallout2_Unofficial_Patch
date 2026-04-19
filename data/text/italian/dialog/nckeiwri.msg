@@ -62,7 +62,7 @@
 {431}{}{Sospetti di qualche spacciatore in particolare?}
 {432}{}{Potresti parlarmi un po' di Richard?}
 {440}{}{Penso che sia stato uno di questi: Jimmy J lo Sfregiato sulla seconda strada, quel vecchio figlio di puttana di Renesco nella Zona Ovest... e anche Jules spaccia vicino all'entrata della citta', ma di solito vende la roba soltanto ai turisti idioti. Poi c'e' Little Jesus Mordino.}
-{441}{}{Little Jesus Mordino?}
+{441}{}{Piccolo Gesù Mordino?}
 {442}{}{Puoi dirmi qualcos'altro a proposito di Richard?}
 {443}{}{Grazie delle informazioni, Keith.}
 {450}{}{Un Ragazzo tranquillo, un ragazzo pulito. Stava lontano dai guai, e per un Wright è già qualcosa. L’abbiamo seppellito nelle pianure di Golgotha un po’ di tempo fa, ma nonostante tutto, mamma non vuole ancora che la sua stanza venga toccata. Le costa lasciarlo andare, capisci?}

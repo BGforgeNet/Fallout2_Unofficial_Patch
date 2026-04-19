@@ -299,7 +299,7 @@
 {399}{}{Vortis}
 {400}{}{un'Inserviente della Bath House}
 {401}{}{uno Schiavo}
-{402}{}{Scorpion}
+{402}{}{Scorpione}
 {403}{}{un Brahmin}
 {404}{}{Automobile}
 {405}{}{Tavolo}
@@ -1197,7 +1197,7 @@
 {1297}{}{Croce}
 {1298}{}{Aratro}
 {1299}{}{Aratro}
-{1300}{}{Scorpion}
+{1300}{}{Scorpione}
 {1301}{}{Generatore}
 {1302}{}{Porta}
 {1303}{}{Porta}

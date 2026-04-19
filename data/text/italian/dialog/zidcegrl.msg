@@ -4,8 +4,8 @@
 {111}{}{Vedi un tavolo.}
 {140}{}{Vedi un tavolo per il gioco dei dadi.}
 {141}{}{Vedi un tavolo con sopra della roba.}
-{150}{}{You see one of the casino dealers.}
-{151}{}{You see one of the casino dealers. She motions for you to come over and play.}
+{150}{}{Vedi una delle croupier del casinò.}
+{151}{}{Vedi Darlin' Nikki. Ti fa cenno di avvicinarti a giocare.}
 {152}{}{Vedi una delle croupier del casino'. I suoi abiti coprono a malapena il suo corpo.}
 {153}{}{Vedi una delle croupier del casino'. Ha due gambe niente male.}
 {154}{}{Vedi una delle croupier del casino'. Ti fa l'occhiolino.}
@@ -38,14 +38,14 @@
 {221}{}{Salve, signora. Me lo dica se posso esserle utile per qualcosa.}
 {222}{}{Vuole giocare, signora?}
 {223}{}{Sembra cosi'...[trema]...pericolosa.}
-{235}{}{Looks like this one's already gambling with his life.}
+{235}{}{Sembra che questo stia già giocando con la propria vita.}
 {236}{}{Uh, credo che sia entrato nel casino' sbagliato...}
 {237}{}{Se non se ne va prima che lo vedano i ragazzi...}
 {238}{}{Uh-oh. Guai in arrivo...}
 {239}{}{Sembra che questa qui stia gia' giocando d'azzardo con la sua vita.}
 {240}{}{Uh, credo che sia entrata nel casino' sbagliato...}
 {241}{}{Se non se ne va prima che la vedano i ragazzi...}
-{250}{}{Hey, muscles. You looking to spend some chips?}
+{250}{}{Ehi, muscoloso. Vuoi spendere qualche fiche?}
 {251}{}{Ehi, campione...[strizza l'occhio]...Che ne dici di giocare un po'?}
 {252}{}{Ehi, campione...[sorride]...vuoi mettere alla prova la tua fortuna?}
 {253}{}{Se cerchi un po' di compagnia per dopo...}
@@ -59,7 +59,7 @@
 {261}{}{Salve, }
 {262}{}{Vuoi giocare, }
 {263}{}{Benvenuto nel nostro casino', }
-{270}{}{Hey there, movie man. You looking to spend some chips?}
+{270}{}{Ehi, bell'attore. Vuoi spendere qualche fiche?}
 {271}{}{Ehi, }
 {272}{}{Ehi, }
 {273}{}{Se vuoi vincere dei soldi, }
@@ -69,7 +69,7 @@
 {277}{}{Benvenuto nel nostro casino', }
 {278}{}{Ehila', miss Stella del Cinema. Sei qui per spendere i tuoi soldi?}
 {279}{}{Farai uno spettacolo qui, stanotte?}
-{290}{}{Hey there, sweetie. You looking to spend some chips?}
+{290}{}{Ehi, tesoro. Vuoi spendere qualche fiche?}
 {291}{}{Ehi, dolcezza...[strizza l'occhio]...Che ne dici di giocare un po'?}
 {292}{}{Ehi, dolcezza...[sorride]...vuoi mettere alla prova la tua fortuna?}
 {293}{}{Se vuoi vincere dei soldi, sei venuto nel posto giusto.}
@@ -94,7 +94,7 @@
 {330}{}{Niente giocate oggi, grazie.}
 {331}{}{Uhhh, mi spiace, non so come si gioca a questi folli giochi...}
 {340}{}{Um... Mi hanno detto che qui sul retro stanno distribuendo dei cervelli. Forse dovresti andare a dare un'occhiata.}
-{341}{}{Uh, very well, sir. Come back soon.}
+{341}{}{Ehm, va benissimo, signore. Tornate presto.}
 {342}{}{Uh, molto bene, signora. Torna presto.}
 {343}{}{Ciaooooo}
 {344}{}{Beeene. }
