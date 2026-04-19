@@ -252,7 +252,7 @@
 {3381}{}{Un Portale del Guardian.}
 {3382}{}{I cavalieri di Re Artu'.}
 {3383}{}{Un boscaiolo di latta.}
-{3384}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{3384}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {3400}{}{Un gruppo di guerrieri.}
 {3401}{}{Un gruppo di cannibali.}
 {3402}{}{Un gruppo di piante sporigene e qualche gecko argentato.}
@@ -306,7 +306,7 @@
 {3475}{}{Un Portale del Guardian.}
 {3476}{}{I cavalieri di Re Artu'.}
 {3477}{}{Un boscaiolo di latta.}
-{3478}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{3478}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {3500}{}{Una banda di reietti.}
 {3501}{}{Un gruppo di uomini di chiesa.}
 {3502}{}{Alcuni cacciatori di taglie.}
@@ -367,7 +367,7 @@
 {3586}{}{Un Portale del Guardian.}
 {3587}{}{I cavalieri di Re Artu'.}
 {3588}{}{Un boscaiolo di latta}
-{3589}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{3589}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {3600}{}{Un branco di gecki dorati e una famiglia di radscorpioni.}
 {3601}{}{Alcuni banditi.}
 {3602}{}{Un gruppo di senzatetto.}
@@ -434,7 +434,7 @@
 {3681}{}{Un Portale del Guardian.}
 {3682}{}{I cavalieri di Re Artu'.}
 {3683}{}{Un boscaiolo di latta.}
-{3684}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{3684}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {3700}{}{Discarica di rifiuti tossici.}
 {3701}{}{Un cane solitario.}
 {3702}{}{Una mandria di brahmin.}
@@ -467,7 +467,7 @@
 {3729}{}{Un Portale del Guardian.}
 {3730}{}{I cavalieri di Re Artu'.}
 {3731}{}{Un boscaiolo di latta.}
-{3732}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{3732}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {3750}{}{Una banda di rapinatori.}
 {3751}{}{Una banda di ladri.}
 {3752}{}{Una banda di ladri e rapinatori.}
@@ -524,7 +524,7 @@
 {3828}{}{Un Portale del Guardian.}
 {3829}{}{I cavalieri di Re Artu'.}
 {3830}{}{Un boscaiolo di latta.}
-{3831}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{3831}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {3850}{}{Un gruppo di schiavisti e schiavi.}
 {3851}{}{Un gruppo di rapinatori.}
 {3852}{}{Una banda di ladri.}
@@ -650,7 +650,7 @@
 {4078}{}{Un Portale del Guardian.}
 {4079}{}{I cavalieri di Re Artu'.}
 {4080}{}{Un boscaiolo di latta.}
-{4081}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{4081}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4100}{}{Alcuni gecki dorati.}
 {4101}{}{Uno sciame di mantidi.}
 {4102}{}{Alcuni radscorpioni.}
@@ -700,7 +700,7 @@
 {4175}{}{Un Portale del Guardian.}
 {4176}{}{I cavalieri di Re Artu'.}
 {4177}{}{Un boscaiolo di latta.}
-{4178}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{4178}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4200}{}{Discarica di rifiuti tossici.}
 {4201}{}{Un cane solitario.}
 {4202}{}{Una mandria di brahmin.}
@@ -730,7 +730,7 @@
 {4226}{}{Un Portale del Guardian.}
 {4227}{}{I cavalieri di Re Artu'.}
 {4228}{}{Un boscaiolo di latta.}
-{4229}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{4229}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4250}{}{Alcuni ratti-talpa mutanti.}
 {4251}{}{Alcuni ratti-porco mutanti.}
 {4252}{}{Alcune piante sporigene.}
@@ -802,7 +802,7 @@
 {4375}{}{Un Portale del Guardian.}
 {4376}{}{I cavalieri di Re Artu'.}
 {4377}{}{Un boscaiolo di latta.}
-{4378}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{4378}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4400}{}{Un grosso gruppo di sciacalli.}
 {4401}{}{Alcuni ghoul sciacalli.}
 {4402}{}{Un gruppo di matti.}
@@ -858,7 +858,7 @@
 {4478}{}{Un Portale del Guardian.}
 {4479}{}{I cavalieri di Re Artu'.}
 {4480}{}{Un boscaiolo di latta.}
-{4481}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{4481}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4500}{}{Alcuni cannibali.}
 {4501}{}{Alcuni selvaggi.}
 {4502}{}{Un gruppo di guerrieri.}
@@ -910,7 +910,7 @@
 {4579}{}{Un Portale del Guardian.}
 {4580}{}{I cavalieri di Re Artu'.}
 {4581}{}{Un boscaiolo di latta.}
-{4582}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{4582}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4600}{}{Alcuni cannibali.}
 {4601}{}{Alcuni reietti.}
 {4602}{}{Alcuni selvaggi.}
@@ -966,7 +966,7 @@
 {4677}{}{Un Portale del Guardian.}
 {4678}{}{I cavalieri di Re Artu'.}
 {4679}{}{Un boscaiolo di latta.}
-{4680}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{4680}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4700}{}{Una carovana del Den.}
 {4701}{}{Alcuni rapinatori e ladri.}
 {4702}{}{Alcuni rapinatori.}
@@ -1020,7 +1020,7 @@
 {4777}{}{Un Portale del Guardian.}
 {4778}{}{I cavalieri di Re Artu'.}
 {4779}{}{Un boscaiolo di latta.}
-{4780}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{4780}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {4800}{}{Alcuni gecki dorati e alcuni lupi.}
 {4801}{}{Alcuni cacciatori di concessioni.}
 {4802}{}{Alcuni lupi.}
@@ -1114,7 +1114,7 @@
 {4975}{}{Un Portale del Guardian.}
 {4976}{}{I cavalieri di Re Artu'.}
 {4977}{}{Un boscaiolo di latta.}
-{4978}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{4978}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5000}{}{Una banda di predoni che guida alcuni lupi.}
 {5001}{}{Alcune piante sporigene e alcuni lupi.}
 {5002}{}{Una banda di predoni.}
@@ -1156,7 +1156,7 @@
 {5071}{}{Un Portale del Guardian.}
 {5072}{}{I cavalieri di Re Artu'.}
 {5073}{}{Un boscaiolo di latta.}
-{5074}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{5074}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5100}{}{Discarica di rifiuti tossici.}
 {5101}{}{Un cane solitario.}
 {5102}{}{Una mandria di brahmin.}
@@ -1176,7 +1176,7 @@
 {5116}{}{Un Portale del Guardian.}
 {5117}{}{I cavalieri di Re Artu'.}
 {5118}{}{Un boscaiolo di latta.}
-{5119}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{5119}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5120}{}{Il Caffe' dei Sogni Infranti.}
 {5150}{}{Una pattuglia dell'Enclave.}
 {5151}{}{Alcuni cacciatori di taglie.}
@@ -1227,7 +1227,7 @@
 {5274}{}{Un Portale del Guardian.}
 {5275}{}{I cavalieri di Re Artu'.}
 {5276}{}{Un boscaiolo di latta.}
-{5277}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{5277}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5278}{}{Il Caffe' dei Sogni Infranti.}
 {5300}{}{Alcuni alieni e deathclaw.}
 {5301}{}{Un manipolo di fluttuanti e centauri.}
@@ -1288,7 +1288,7 @@
 {5418}{}{Un Portale del Guardian.}
 {5419}{}{I cavalieri di Re Artu'.}
 {5420}{}{Un boscaiolo di latta.}
-{5421}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{5421}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5422}{}{Il Caffe' dei Sogni Infranti.}
 {5450}{}{Un branco di gecki di fuoco.}
 {5451}{}{Un branco di gecki di fuoco.}
@@ -1344,7 +1344,7 @@
 {5575}{}{Un Portale del Guardian.}
 {5576}{}{I cavalieri di Re Artu'.}
 {5577}{}{Un boscaiolo di latta.}
-{5578}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{5578}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5600}{}{Un branco di deathclaw.}
 {5601}{}{Un branco di gecki di fuoco.}
 {5602}{}{Una carovana che respinge deathclaw.}
@@ -1391,7 +1391,7 @@
 {5672}{}{Un Portale del Guardian.}
 {5673}{}{I cavalieri di Re Artu'.}
 {5674}{}{Un boscaiolo di latta.}
-{5675}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{5675}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5676}{}{Il Caffe' dei Sogni Infranti.}
 {5700}{}{Alcuni yakuza.}
 {5701}{}{Una banda.}
@@ -1453,7 +1453,7 @@
 {5823}{}{Un Portale del Guardian.}
 {5824}{}{I cavalieri di Re Artu'.}
 {5825}{}{Un boscaiolo di latta.}
-{5826}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{5826}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {5850}{}{Una banda di furfanti e alcuni lupi.}
 {5851}{}{Una banda di furfanti.}
 {5852}{}{Un branco di lupi.}
@@ -1552,7 +1552,7 @@
 {6073}{}{Un Portale del Guardian.}
 {6074}{}{I cavalieri di Re Artu'.}
 {6075}{}{Un boscaiolo di latta.}
-{6076}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{6076}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6077}{}{Il Caffe' dei Sogni Infranti.}
 {6100}{}{Discarica di rifiuti tossici.}
 {6101}{}{Un cane solitario.}
@@ -1582,7 +1582,7 @@
 {6125}{}{Un Portale del Guardian.}
 {6126}{}{I cavalieri di Re Artu'.}
 {6127}{}{Un boscaiolo di latta.}
-{6128}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{6128}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6129}{}{Il Caffe' dei Sogni Infranti.}
 {6150}{}{Una banda di mercenari.}
 {6151}{}{Un branco di deathclaw.}
@@ -1625,7 +1625,7 @@
 {6219}{}{Un Portale del Guardian.}
 {6220}{}{I cavalieri di Re Artu'.}
 {6221}{}{Un boscaiolo di latta.}
-{6222}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{6222}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6223}{}{Il Caffe' dei Sogni Infranti.}
 {6250}{}{Una pattuglia dell'Enclave.}
 {6251}{}{Resti dell'Esercito del Master.}
@@ -1666,7 +1666,7 @@
 {6321}{}{Un Portale del Guardian.}
 {6322}{}{I cavalieri di Re Artu'.}
 {6323}{}{Un boscaiolo di latta.}
-{6324}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{6324}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6325}{}{Il Caffe' dei Sogni Infranti.}
 {6350}{}{Una carovana che respinge alcuni resti dell'Esercito del Master.}
 {6351}{}{Una carovana che respinge alcuni resti dell'Esercito del Master.}
@@ -1720,7 +1720,7 @@
 {6468}{}{Un Portale del Guardian.}
 {6469}{}{I cavalieri di Re Artu'.}
 {6470}{}{Un boscaiolo di latta.}
-{6471}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{6471}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6472}{}{Il Caffe' dei Sogni Infranti.}
 {6500}{}{Discarica di rifiuti tossici.}
 {6501}{}{Un cane solitario.}
@@ -1752,7 +1752,7 @@
 {6527}{}{Un Portale del Guardian.}
 {6528}{}{I cavalieri di Re Artu'.}
 {6529}{}{Un boscaiolo di latta.}
-{6530}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{6530}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6531}{}{Il Caffe' dei Sogni Infranti.}
 {6550}{}{Una banda di razziatori.}
 {6551}{}{Un branco di lupi.}
@@ -1822,7 +1822,7 @@
 {6673}{}{Un Portale del Guardian.}
 {6674}{}{I cavalieri di Re Artu'.}
 {6675}{}{Un boscaiolo di latta.}
-{6676}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{6676}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6677}{}{Il Caffe' dei Sogni Infranti.}
 {6700}{}{Resti dell'Esercito del Master che combattono contro ratti-talpa mutanti.}
 {6701}{}{Resti dell'Esercito del Master.}
@@ -1863,5 +1863,5 @@
 {6770}{}{Un Portale del Guardian.}
 {6771}{}{I cavalieri di Re Artu'.}
 {6772}{}{Un boscaiolo di latta.}
-{6773}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
+{6773}{}{Paesani Sudici all'inseguimento di uno spammer.}
 {6774}{}{Il Caffe' dei Sogni Infranti.}

@@ -21,7 +21,7 @@
 {227}{}{Quell'arma? E' in grado di fare un buco in un muro di metallo, te lo posso assicurare.}
 {228}{}{Quel ragazzo e' un genio... a vederlo non si direbbe...}
 {229}{}{Sara' meglio portare i cani a fare un giretto, prima che comincino a pisciare dappertutto.}
-{230}{}{Gli "Unwashed Villagers" stanno accumulando altre armi... sono davvero tosti.}
+{230}{}{Quei Paesani Sudici stanno accumulando altre armi... sono davvero tosti.}
 {231}{}{Vorrei tanto che qualcuno mi derubasse... cosi' potrei sparargli!}
 {232}{}{Devo decidermi a pulire gli scaffali...}
 {233}{}{Non vedo l'ora di andare a caccia di furfanti, la prossima settimana...}

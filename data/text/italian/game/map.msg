@@ -557,7 +557,7 @@
 {1532}{}{Uomo di Latta}
 {1533}{}{Testa Parlante}
 {1534}{}{Shuttle della Federazione}
-{1535}{}{Unwashed Villagers}
+{1535}{}{Paesani Sudici}
 {1536}{}{Ponte}
 {1537}{}{Caffe' dei Sogni Infranti}
 {1538}{}{Paladini}
