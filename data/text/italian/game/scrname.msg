@@ -80,7 +80,7 @@
 {180}{}{Maida}
 {181}{}{Sajag}
 {182}{}{Sally}
-{183}{}{Smiley}
+{183}{}{Sorridente}
 {184}{}{Jenny}
 {185}{}{Slim}
 {186}{}{Torr}
@@ -551,7 +551,7 @@
 {651}{}{V15 map Script}
 {652}{}{Phil}
 {653}{}{Bill}
-{654}{}{Butcher}
+{654}{}{Macellaio}
 {655}{}{Dalia}
 {656}{}{John}
 {657}{}{Jones}

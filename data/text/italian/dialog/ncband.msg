@@ -52,7 +52,7 @@
 {912}{}{Nutrira' il mio cuore affamato}
 {913}{}{Leave me one thing before we part…}
 {915}{}{Quando sono solo}
-{916}{}{With my fancies}
+{916}{}{Con le mie fantasie}
 {917}{}{I'lllll be with yoooou}
 {918}{}{Weaving ro-mances}
 {919}{}{Making believe they're true}

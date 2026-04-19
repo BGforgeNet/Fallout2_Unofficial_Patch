@@ -44,7 +44,7 @@
 {329}{}{Snake Eyes}
 {330}{}{Lupo}
 {331}{}{Hatchetman}
-{332}{}{Smiley}
+{332}{}{Sorridente}
 {333}{}{Fats}
 {334}{}{Perla}
 {335}{}{Reno Jimmy}
@@ -93,15 +93,15 @@
 {378}{}{Trashman}
 {379}{}{Nine Inch Nick}
 {380}{}{Rainmaker}
-{381}{}{King}
+{381}{}{Re}
 {382}{}{Killer}
 {383}{}{Santana}
 {384}{}{Joey}
 {385}{}{Caesar}
 {386}{}{Mickey}
-{387}{}{Drifter}
+{387}{}{Vagabondo}
 {388}{}{Giuseppe}
-{389}{}{Butcher}
+{389}{}{Macellaio}
 {390}{}{Red}
 {391}{}{Ruby}
 {392}{}{X}
@@ -109,15 +109,15 @@
 {400}{}{}
 {401}{}{Jabby}
 {402}{}{Spinning Jenny}
-{403}{}{Piston}
+{403}{}{Pistone}
 {404}{}{Hurricane}
-{405}{}{Big Bad Muthuh}
+{405}{}{Gran Brutto Bastardone}
 {406}{}{l'Eletto}
-{407}{}{Raging Bull}
+{407}{}{Toro Furioso}
 {408}{}{LaMotta}
 {409}{}{Sledge}
 {410}{}{Glass Joe}
-{411}{}{New Reno Nancy}
+{411}{}{Nancy New Reno}
 {412}{}{Bald Bull}
 {413}{}{Princess}
 {414}{}{Duke}
