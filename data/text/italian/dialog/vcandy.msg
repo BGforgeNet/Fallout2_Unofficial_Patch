@@ -34,7 +34,7 @@
 {133}{}{No, grazie. Sara' per un'altra volta.}
 {134}{}{Beh... d'accordo. Puo' andare.}
 {135}{}{Cominciamo subito, allora. Devo solo collegare il vecchio Doc... metti le tue braccia qui dentro, e io stringero' le cinghie e assicurero' i morsetti...}
-{136}{}{Fade out for 3 Seconds}
+{136}{}{Dissolvenza in uscita per 3 secondi}
 {137}{}{Perfetto! Sapevo che il vecchio Doc non mi avrebbe deluso.}
 {138}{}{Me vuole fare altro giro! Ancora!}
 {139}{}{Cia'ciao.}
@@ -44,12 +44,12 @@
 {143}{}{Nel database medico di Vault City ho trovato degli schemi che descrivono l'impianto di innesti da combattimento. Saresti in grado di eseguire l'operazione?}
 {144}{}{Mi sento molto meglio, grazie.}
 {145}{}{Uh, vediamo un po'... non credo sia la cosa piu' sicura del mondo, amico. Dal modo in cui parli, direi che ti sei fatto gia' qualche giro di troppo sul vecchio Doc. Ma se proprio insisti...}
-{146}{}{Fade out for 3 Seconds}
+{146}{}{Dissolvenza in uscita per 3 secondi}
 {147}{}{Uh...come ti senti? Meglio? Peggio?}
 {148}{}{Ancora! Ancora! Ancora!}
 {149}{}{Me sente come se punti vita masssssimi aumentati cosi' me sta ok per ora. Ciauuuuo.}
 {150}{}{Uh, bene, io ti ho avvertito...}
-{151}{}{Fade out for 3 Seconds}
+{151}{}{Dissolvenza in uscita per 3 secondi}
 {152}{}{Uh-oh. Pare che il vecchio Doc si sia preso una libbra di carne, stavolta.}
 {153}{}{Urrrhkkk...me dolore...dentro...me no vuole piu' fare giro su quello coso...}
 {154}{}{Beh, io non sono un meccanico, percio' non posso fare nulla per quel Robo-come-si-chiama che ti porti dietro. Mi dispiace, amico.}
@@ -79,7 +79,7 @@
 {178}{}{Ho cambiato idea. Sara' per un'altra volta.}
 {179}{}{Beh... d'accordo. Puo' andare.}
 {180}{}{Cominciamo subito, allora. Devo solo collegare il vecchio Doc, stringere le cinghie e assicurare i morsetti...}
-{181}{}{Fade out for 3 Seconds}
+{181}{}{Dissolvenza in uscita per 3 secondi}
 {182}{}{Ecco fatto, tutti rattoppati! Sapevo che il vecchio Doc era ancora in grado di fare certe cose.}
 {183}{}{Grazie. Senti, mi servirebbe un'altra cosa...}
 {184}{}{Mille grazie. Arrivederci.}
@@ -196,17 +196,17 @@
 {295}{}{Uh...okay. Cioe', l'Auto-Doc viene sottoposto periodicamente a revisione, giusto? Eh eh. Perche' mai dovrebbe succedere qualcosa di spiacevole?}
 {296}{}{Sai una cosa? Scordatelo. Non voglio correre il rischio che il "vecchio Doc" non ce la faccia.}
 {297}{}{Aieeeeeeeeeee!}
-{298}{}{Wait 2 Seconds.}
+{298}{}{Attendi 2 secondi.}
 {299}{}{Uh-oh.}
-{300}{}{Player explodes in gruesome death animation.}
-{301}{}{Wait 2 Seconds.}
+{300}{}{Il giocatore esplode in una raccapricciante animazione di morte.}
+{301}{}{Attendi 2 secondi.}
 {302}{}{Sembra proprio che il vecchio Doc non ce l'abbia fatta, dopotutto...}
-{303}{}{Wait 2 Seconds}
+{303}{}{Attendi 2 secondi}
 {304}{}{Pero'... belli questi stivali. Magari posso venderli...}
-{305}{}{Goto Death Screen}
+{305}{}{Vai alla schermata di morte}
 {306}{}{Beh... mi sembra equo.}
 {307}{}{D'accordo, lascia che ti colleghi al vecchio Doc, ecco... spero che la riserva di anestetico non si sia otturata di nuovo... forse e' meglio che tu morda questo pezzo di cuoio di brahmin, non si sa mai.}
-{308}{}{Fade out for 3 Seconds}
+{308}{}{Dissolvenza in uscita per 3 secondi}
 {309}{}{Beh, ce l'abbiamo fatta, credo. Uh, per quanto riguarda il gonfiore e il dolore, quasi sicuramente si tratta di effetti collaterali temporanei. Oh, quella sensazione di fastidio che senti quando muovi le braccia e le gambe dovrebbe scomparire dopo qualche settimana.}
 {310}{}{Riesci a sentirmi? Fiuuuu. Non pensavo ci fosse ancora spazio dove mettere queste placche corazzate, ma sono riuscito a togliere un bel po' di tessuto muscolare e di cartilagine. Li puoi trovare in quel barattolo laggiu', se vuoi un souvenir.}
 {311}{}{Santi numi... questo e' stato un perfetto esempio di chirurgia sperimentale. Sono stato costretto ad amputare alcune delle tue terminazioni nervose... e' questa la causa della sensazione di bruciore e prurito che stai provando in questo momento. Probabilmente scomparira' tra qualche settimana.}
@@ -215,7 +215,7 @@
 {314}{}{Graffie, Adrew. Fiao.}
 {315}{}{Beh... d'accordo. Puo' andare.}
 {316}{}{Cominciamo subito, allora. Devo solo collegare il vecchio Doc... dammi un attimo per assicurare le cinghie e fissare i morsetti...}
-{317}{}{Fade out for 3 Seconds}
+{317}{}{Dissolvenza in uscita per 3 secondi}
 {318}{}{Hmmph. Sembra proprio che il vecchio Doc si sia imballato di nuovo. Che ammasso di ferraglia... fortunatamente sono riuscito a staccare i morsetti prima che cominciasse l'esecuzione del programma autoptico. Forse funzionera' meglio la prossima volta.}
 {319}{}{Cos...? Rivoglio indietro i miei soldi!}
 {320}{}{Oh, beh, speriamo. Ascolta, avrei bisogno di un'altra cosa...}
@@ -236,7 +236,7 @@
 {335}{}{Lasciamo perdere. Non ho tutti quei soldi, al momento. Magari un'altra volta.}
 {336}{}{Beh... d'accordo. Puo' andare.}
 {337}{}{Cominciamo subito, allora. Devo solo collegare il vecchio Doc, stringere le cinghie e assicurare i morsetti...}
-{338}{}{Fade out for 3 Seconds}
+{338}{}{Dissolvenza in uscita per 3 secondi}
 {339}{}{Il tuo piccolo amico dovrebbe essersene andato per sempre. O almeno spero. Non e' facile spremere tutto quel pus mutante fuori dal midollo osseo. Comunque, ecco fatto.}
 {340}{}{Sono felice di essermene liberato. Ascolta, avrei bisogno di un'altra cosa...}
 {341}{}{Questa volta fara' meglio a non ricrescere. Dico sul serio.}

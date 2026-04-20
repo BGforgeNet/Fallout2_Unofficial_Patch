@@ -691,30 +691,30 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {789}{}{Mi fa piacere. Tuttavia, per aver scoperto tutte 'ste robe su New Reno e NCR, mi domandavo se ci fosse una ricom -- }
 {790}{}{Guardie!}
 {791}{}{Please go see the Proconsole. He will have what you need.}
-{792}{}{Please go see Senior Councilman McClure. He will have what you need.}
-{793}{}{Please go see my assistant. He will have what you need.}
-{794}{}{North}
-{795}{}{South}
-{796}{}{East}
-{797}{}{West}
+{792}{}{Si rechi dal Consigliere Anziano McClure. Avra' cio' di cui ha bisogno.}
+{793}{}{Si rechi dal mio assistente. Avra' cio' di cui ha bisogno.}
+{794}{}{Nord}
+{795}{}{Sud}
+{796}{}{Est}
+{797}{}{Ovest}
 {798}{}{Northwest}
-{799}{}{Northeast}
-{800}{}{Southwest}
-{801}{}{Southeast}
+{799}{}{Nordest}
+{800}{}{Sudovest}
+{801}{}{Sudest}
 {802}{}{A Nord}
 {803}{}{A Sud}
-{804}{}{To the East}
+{804}{}{A Est}
 {805}{}{A Ovest}
 {806}{}{A Nordovest}
 {807}{}{A Nordest}
 {808}{}{A Sudovest}
 {809}{}{A Sudest}
-{810}{}{I don't want that.}
+{810}{}{Non voglio morire.}
 {811}{}{Grazie.}
-{812}{}{Thanks for your time.}
+{812}{}{Grazie per il tuo tempo.}
 {813}{}{Guardie!}
-{814}{}{I love Scott Rodenhiser.}
-{815}{}{My little dreadlocks are cute.}
+{814}{}{Adoro Scott Rodenhiser.}
+{815}{}{I miei piccoli dreadlock sono carini.}
 {816}{}{T-Ray thinks a little too highly of himself.}
 {817}{}{This is good news.}
 {818}{}{Molto bene.}

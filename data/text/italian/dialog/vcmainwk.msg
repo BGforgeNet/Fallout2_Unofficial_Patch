@@ -199,7 +199,7 @@
 {298}{}{Oh. Io... beh, Io...}
 {299}{}{2 Seconds}
 {300}{}{Non preoccuparti. Era gia' messa male anche prima. Era solo questione di tempo.}
-{301}{}{3 Seconds}
+{301}{}{3 Secondi}
 {302}{}{Sono comunque dispiaciuto di non aver avuto la possibilita' di rivederla ancora una volta.}
 {303}{}{2 Seconds}
 {304}{}{No, non lo sei. Eri solito chiamarla "vipera del deserto", o sbaglio?}
@@ -207,11 +207,11 @@
 {306}{}{Beh... si'. Ma non dovresti chiamare tua madre in quest--}
 {307}{}{2 Seconds}
 {308}{}{Perche' no? Era la verita'. Sapeva essere una vera cagna rabbiosa, quando voleva.}
-{309}{}{3 Seconds}
+{309}{}{3 Secondi}
 {310}{}{Uh... sembra che tu te la sia cavata bene anche da sola. Hai ereditato l'abilita' di tuo padre a riparare le cose, mi pare.}
 {311}{}{4 Seconds}
 {312}{}{Papa'... riesci a malapena ad allacciarti le scarpe, e ancor meno riesci a riparare qualcosa senza usare pezzi di ricambio.}
-{313}{}{3 Seconds}
+{313}{}{3 Secondi}
 {314}{}{Cos-?! Non e' vero!}
 {315}{}{2 Seconds}
 {316}{}{Sentiamo cosa dice il tuo "boss."}
@@ -236,12 +236,12 @@
 {335}{}{2 Seconds}
 {336}{}{State zitti! State zitti tutti e due! Questa storia e' andata avanti ABBASTANZA! Su, Vic, andiamo.}
 {337}{}{UGRGHH! VIA! NO ANCORA PARLARE! NOI ANDARE!}
-{338}{}{3 Seconds}
+{338}{}{3 Secondi}
 {339}{}{Parleremo piu' tardi, Val.}
 {340}{}{2 Seconds}
 {341}{}{Si', certo, Papa'.}
 {342}{}{2 Seconds}
-{343}{}{Fade out for 3 Seconds}
+{343}{}{Dissolvenza in uscita per 3 secondi}
 {344}{}{Ehi! Sono felice che tu sia tornato. L'ultima volta che ho avuto tue notizie, stavi girando giu' a sud, guidando una vecchia petroliera e facendo esplodere piattaforme petrolifere.}
 {345}{}{Sei tornato qui per un po' di pace e tranquillita', Mister Grande Eroe?}
 {346}{}{Sei tornato qui per un po' di pace e tranquillita', Miss Grande Eroina?}

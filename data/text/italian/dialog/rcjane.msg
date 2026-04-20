@@ -165,7 +165,7 @@
 {335}{}{Puggsly}
 {336}{}{Precious}
 {337}{}{Fraggle}
-{338}{}{Captain Midnight}
+{338}{}{Capitano Midnight}
 {340}{}{Martello}
 {341}{}{Secretariat}
 {342}{}{Man o' War}

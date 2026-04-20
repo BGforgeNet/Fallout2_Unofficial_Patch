@@ -27,8 +27,8 @@
 {126}{}{Ovvero?}
 {127}{}{Non ti credo.}
 {128}{}{Fa' fuori Bishop, invece. Ti paghero' in contanti: qualsiasi cifra ti abbia offerto, piu' il 50%. Quanto era?}
-{129}{}{(need info from Chris)}
-{130}{}{(Avellone, that is)}
+{129}{}{(serve info da Chris)}
+{130}{}{(Avellone, intendo)}
 {131}{}{Bene.}
 {132}{}{D'accordo.}
 {133}{}{E' un vero peccato per te, vecchio.}
