@@ -55,5 +55,5 @@
 {154}{}{Ottimo. Sono pronto. Andiamo.}
 {155}{}{Posso trovare modi migliori di passare il mio tempo piuttosto che mangiare la polvere dei brahmin per tutto il giorno. Addio.}
 {156}{}{Beh, hai avuto pasti gratuiti e un passaggio sicuro fino a qui. Adesso smamma, imbecille.}
-{157}{}{Gerg? Bye bye.}
+{157}{}{Gerg? Ciao ciao.}
 {158}{}{Grrrr! Me vuole sangue!}

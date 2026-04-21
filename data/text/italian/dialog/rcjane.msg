@@ -141,33 +141,33 @@
 {308}{}{Boss}
 {310}{}{Tanker}
 {311}{}{Muttley}
-{312}{}{Spud}
+{312}{}{Patata}
 {313}{}{Larry}
 {314}{}{Joe}
 {315}{}{Kong}
 {316}{}{Gorgo}
 {317}{}{Willard}
 {318}{}{Ben}
-{320}{}{Stumpy}
-{321}{}{Shredder}
+{320}{}{Tarchiato}
+{321}{}{Trituratore}
 {322}{}{Sventratore}
 {323}{}{Skree}
 {324}{}{Buban}
 {325}{}{Bongo}
-{326}{}{One-eye}
-{327}{}{Spot}
+{326}{}{Guercio}
+{327}{}{Brufolo}
 {328}{}{Lord Wiggler}
 {330}{}{Fortunato}
-{331}{}{Zoroaster the Great}
+{331}{}{Zoroastro il Grande}
 {332}{}{Shub}
 {333}{}{Usuthu}
-{334}{}{Growler}
-{335}{}{Puggsly}
-{336}{}{Precious}
-{337}{}{Fraggle}
+{334}{}{Ringhio}
+{335}{}{Furfante}
+{336}{}{Tesoro}
+{337}{}{Sbruffone}
 {338}{}{Capitano Midnight}
 {340}{}{Martello}
-{341}{}{Secretariat}
+{341}{}{Segreteria}
 {342}{}{Man o' War}
 {343}{}{Sancho Panza}
 {344}{}{Loki}
@@ -177,8 +177,8 @@
 {348}{}{Mr. Baggins}
 {350}{}{Fulmine}
 {351}{}{Percy}
-{352}{}{Flower}
-{353}{}{Rumplestiltskin}
+{352}{}{Fiore}
+{353}{}{Tremotino}
 {354}{}{Shagrat}
 {355}{}{Muktar}
 {356}{}{McComb}

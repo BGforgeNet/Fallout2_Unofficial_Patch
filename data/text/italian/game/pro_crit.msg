@@ -371,7 +371,7 @@
 {35400}{}{la Regina Aliena}
 {35500}{}{un Radscorpione Nero}
 {35600}{}{un Radscorpione Nero}
-{35700}{}{Spud}
+{35700}{}{Patata}
 {35800}{}{il Capitano dei Mercenari}
 {35900}{}{un Mercenario}
 {36000}{}{un Mercenario}

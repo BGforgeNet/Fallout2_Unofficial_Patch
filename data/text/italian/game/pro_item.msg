@@ -230,7 +230,7 @@
 {11501}{}{Un Super Martello da Guerra, costruito dalla Confraternita d'Acciaio, utilizzando le migliori tecniche di costruzione disponibili. Include un dispositivo di stoccaggio di energia cinetica, per aumentare la violenza del colpo. Min FZ: 5.}
 {11600}{}{Sventratore}
 {11601}{}{Una lama a vibrazione modello "Ripper"(tm). Alimentata da una piccola cella a energia, questa specie di motosega taglia e macella il suo bersaglio. Min FZ: 4.}
-{11700}{}{Flower}
+{11700}{}{Fiore}
 {11701}{}{Uno splendido fiore.}
 {11800}{}{Fucile Laser}
 {11801}{}{Un fucile laser Wattz 2000. Utilizza celle a Micro-Fusione per colpi piu' potenti, e una lunga canna per una gittata maggiore. Min FZ: 6.}

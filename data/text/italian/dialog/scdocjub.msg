@@ -44,7 +44,7 @@
 {143}{}{E allora... dov'e'?}
 {144}{}{Dove vault?}
 {145}{}{Non saprei dirtelo. Saltbeef ha sempre detto di avere una mappa, ma nessuno l'ha mai vista.}
-{146}{}{Saltbeef?}
+{146}{}{Carne salata?}
 {147}{}{Un'altra cosa...}
 {148}{}{Beh, e' piu' di quanto non avessi prima.}
 {149}{}{Il colpo grosso. Saltbeef e' un vecchio cercatore d'uranio - piu' precisamente, un ubriacone. Negli ultimi tempi vive nella proprieta' di Westin.}
