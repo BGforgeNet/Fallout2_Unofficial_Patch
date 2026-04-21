@@ -697,7 +697,7 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {795}{}{Sud}
 {796}{}{Est}
 {797}{}{Ovest}
-{798}{}{Northwest}
+{798}{}{Nordovest}
 {799}{}{Nordest}
 {800}{}{Sudovest}
 {801}{}{Sudest}
@@ -715,35 +715,35 @@ sostanziale. Come Esterno, sei in una posizione unica per risolvere una situazio
 {813}{}{Guardie!}
 {814}{}{Adoro Scott Rodenhiser.}
 {815}{}{I miei piccoli dreadlock sono carini.}
-{816}{}{T-Ray thinks a little too highly of himself.}
-{817}{}{This is good news.}
+{816}{}{T-Ray ha un'opinione di sé un po' troppo elevata.}
+{817}{}{Questa e' una buona notizia.}
 {818}{}{Molto bene.}
 {819}{}{Buona giornata.}
 {820}{}{Buongiorno, Cittadino.}
-{821}{}{I'll take that.}
-{822}{}{Give me that.}
+{821}{}{La prendo.}
+{822}{}{Dammi quello.}
 {823}{}{Non ne so nulla.}
 {824}{}{Non lo so.}
 {825}{}{Si'.}
 {826}{}{No.}
-{827}{}{Certainly.}
+{827}{}{Certamente.}
 {828}{}{Certamente.}
-{829}{}{Correct.}
-{830}{}{Exactly.}
+{829}{}{Esatto.}
+{830}{}{Esattamente.}
 {831}{}{Right.}
 {832}{}{Hmpphhh.}
-{833}{}{Explain to me again why Fallout 2 doesn't have any black hero models?}
-{834}{}{Vault City prevails. }
+{833}{}{Spiegami di nuovo perché Fallout 2 non ha modelli di eroi neri?}
+{834}{}{Vault City trionfa. }
 {835}{}{Vault City prevale, Cittadino.}
-{836}{}{Oh, boy! Sleep! That's where I'm a Viking!}
-{837}{}{Degenerate!}
-{838}{}{Outsider}
-{839}{}{Outsider filth...}
-{840}{}{*Snorts*}
+{836}{}{Oh, cielo! Dormire! Li' si' che sono un Vichingo!}
+{837}{}{Degenerato!}
+{838}{}{Straniero}
+{839}{}{Feccia straniera...}
+{840}{}{*Sbuffa*}
 {841}{}{*Zzzzzzzzzzz*}
 {842}{}{What is contained on the disk should put a stop to them; the raiders have been exposed, and if the contents of the disk were to get out to NCR's outer districts they would never be trusted again.}
 {843}{}{My sources at Gecko assure me that there are still ghouls within the city. Your Citizenship depends on resolving this situation...completely. Am I making myself clear?}
-{844}{}{Sorry, thought I'd killed them all.}
+{844}{}{Scusa, pensavo di averli uccisi tutti.}
 {845}{}{That's a good start, but our ground water is still being contaminated. You need to disable their plant.}
 {846}{}{That does help, but that doesn't stop our primary problem: the contamination of the groundwater. You need to stop the plant from leaking radiation.}
 {847}{}{L'Anziana del mio villaggio mi ha consegnato una borraccia, ma non l'ho con me. Comunque, le leggende che l'Anziana ci ha raccontato affermavano che il mio antenato era originario di un Vault.}

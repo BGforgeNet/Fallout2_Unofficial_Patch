@@ -109,21 +109,21 @@
 {208}{}{No-no IO RESTO}
 {209}{}{Ho trovato questo Esterno che vagava nelle lande, Barkus. Mi pare che possa diventare un buon Servo.}
 {210}{}{Ho trovato questa cricca che vagava nelle lande, Barkus. Questo Esterno mi pare che possa diventare un buon Servo.}
-{211}{}{2 Seconds}
+{211}{}{2 Secondi}
 {212}{}{Stai scherzando, VERO? Si vede lontano un miglio che e' un mentecatto.}
-{213}{}{1 Second, don't remove Barkus' float yet.}
+{213}{}{1 Secondo, non rimuovere ancora il float di Barkus.}
 {214}{}{Cacco! Pupu'!}
-{215}{}{2 Seconds}
+{215}{}{2 Secondi}
 {216}{}{Dai. Non ti serve qualcuno che lavori al Vault?}
-{217}{}{1 Second, don't remove Barkus' float yet.}
+{217}{}{1 Secondo, non rimuovere ancora il float di Barkus.}
 {218}{}{Valt! Gechkk!}
-{219}{}{2 Seconds}
+{219}{}{2 Secondi}
 {220}{}{Beh...hmmm. Immagino tu voglia una ricompensa, giusto?}
-{221}{}{2 Seconds}
+{221}{}{2 Secondi}
 {222}{}{E gli Esterni si mangiano le loro feci? CERTO che voglio una ricompensa.}
-{223}{}{1 Second, Don't remove Skeev's float}
+{223}{}{1 Secondo, non rimuovere il float di Skeev}
 {224}{}{Pessa? Pissaaaaaa!}
-{225}{}{1 Second}
+{225}{}{1 Secondo}
 {226}{}{Molto bene. Vorra' dire che lo mandero' al Vault. FORSE potra' pulire i magazzini.}
 {227}{}{Whoa. Come hai fatto a scappare?}
 {228}{}{Whoa. Come hai fatto a scappare? Faresti meglio a tornare dentro prima che Barkus s'arrabbi. Forza...}
