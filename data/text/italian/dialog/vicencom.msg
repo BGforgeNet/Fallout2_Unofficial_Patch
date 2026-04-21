@@ -119,7 +119,7 @@
 {218}{}{Inizio procedura di inizializzazione...}
 {219}{}{                             Riformattazione PipBoy in corso...}
 {220}{}{Ehi! Ridammi il mio dannato PipBoy!}
-{221}{}{Cancel! Cancel! }
+{221}{}{Cancella! Cancella! }
 {222}{}{L'Archivio Geografico della California Settentrionale sta per essere copiato nel database del PipBoy. }
 {223}{}{Copia dell'archivio in corso... Broken Hills... Gecko... New California Republic... New Reno... Redding... Vault City... Download completato.}
 {224}{}{Continua la ricerca negli archivi per altre informazioni.}

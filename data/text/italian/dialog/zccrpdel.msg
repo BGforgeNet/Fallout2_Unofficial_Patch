@@ -123,7 +123,7 @@
 {683}{}{Puntata sul numero di gioco 8}
 {684}{}{Puntata sul numero di gioco 9}
 {685}{}{Puntata sul numero di gioco 10}
-{700}{}{No Point odds returned.}
+{700}{}{Nessuna quota Point restituita.}
 {701}{}{Partita}
 {702}{}{Don't}
 {710}{}{Dado1:}
