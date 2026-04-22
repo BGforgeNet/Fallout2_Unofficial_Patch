@@ -56,7 +56,7 @@
 {201}{}{Il tuo amico cerca di attirare la tua attenzione verso la finestra colorata che fa BEEP BEEP, ma non riesci a capire come aprirla, per cui alla fine ti annoi e la lasci perdere.}
 {202}{}{Allontanati.}
 {203}{}{*Bip*}
-{204}{}{*Beeee-oop*}
+{204}{}{\Biiip?oop\**}
 {205}{}{*Dweeee-oop*}
 {206}{}{*Bip-Oop*}
 {207}{}{*Bip*}

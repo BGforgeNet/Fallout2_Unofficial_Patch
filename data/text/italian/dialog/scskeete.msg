@@ -20,7 +20,7 @@
 {119}{}{Che cosa vuoi da Doofus, fratello?}
 {120}{}{Whoa, ci conosciamo? Cosa posso fare per te?}
 {121}{}{Certo, fratello.}
-{122}{}{Squa?}
+{122}{}{Eh?}
 {123}{}{Fratello? Io non sono un uomo!}
 {124}{}{Che cosa fai?}
 {125}{}{Cos'e' questo posto?}

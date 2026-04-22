@@ -48,14 +48,14 @@
 {147}{lyn009}{Quello che hai sulla schiena dev'essere il tuo QI, non il numero di un Vault.}
 {148}{}{Hrnnnn?}
 {149}{}{Nuuu-mero}
-{150}{}{Har funeee!}
+{150}{}{Che divertenteee!}
 {151}{}{-Allontanati-}
 {152}{lyn010}{Non so dove tu abbia trovato le capacita' mentali necessarie per entrare in citta', ma faro' in modo che tu non ci entri mai piu'... guardie! Scortate questo imbecille all'esterno delle mura!}
 {153}{}{NO!}
 {154}{}{ sta con gente di metallo}
 {155}{lyn011}{Salute a te, straniero. Io sono il Primo Cittadino, Lynette. Posso chiederti quali sono i tuoi affari qui?}
 {156}{}{Afffffffrari? Affa-raru?}
-{157}{}{Eer!}
+{157}{}{Ehm!}
 {158}{}{Ciao ciao.}
 {159}{}{Sto cercando un Kit per la Creazione del Giardino dell'Eden. Ne avete uno?}
 {160}{}{Sono alla ricerca di un Kit per la Creazione del Giardino dell'Eden, Primo Cittadino. Per caso la vostra citta' ne possiede uno che potrei acquistare?}

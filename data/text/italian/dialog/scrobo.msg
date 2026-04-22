@@ -25,17 +25,17 @@
 {124}{}{Come stai?}
 {125}{}{Voglio che tu stia qua finche' non ritorno.}
 {126}{}{E' tutto, per ora.}
-{127}{}{<click> whimper}
+{127}{}{<click> guaisce}
 {128}{}{Nulla.}
 {129}{}{OK}
 {130}{}{PV:}
 {131}{}{Robodog non puo' essere riparato ulteriormente, per il momento.}
 {132}{}{Robodog e' stato riparato parzialmente.}
 {133}{}{Robodog e' stato completamente riparato.}
-{1000}{}{Woof! Wo-wo-wo-<click>woof?}
+{1000}{}{Bau! Ba-ba-ba-<click>bau?}
 {1100}{}{Arf! <clic> Bau!}
 {1200}{}{Rowf? <boing> Raggy?}
-{1300}{}{<click> whimper.}
+{1300}{}{<click> guaisce}
 {1400}{}{Auu?uuuu! <clic?clic> Auu?uuu!}
 {1500}{}{Ee-bee-dee-bee-ee-bee-dee-bee!}
 {1600}{}{Certo, la metto via.}
@@ -44,5 +44,5 @@
 {1900}{}{Arf-arf distanza settata: lontana.}
 {2000}{}{...whirrrrr...non sono un Daggit.}
 {2100}{}{GRRR-ROWF!}
-{2200}{}{Woof! Wo-wo-wo-<click>woof?}
+{2200}{}{Bau! Ba-ba-ba-<click>bau?}
 {2204}{}{Ok sei ad una buona distanza, per il momento.}
