@@ -42,10 +42,10 @@
 {141}{}{Hub}
 {142}{}{Bagliore}
 {143}{}{Bagliore}
-{144}{}{Boneyard}
-{145}{}{Boneyard}
-{146}{}{Boneyard}
-{147}{}{Cathedral}
+{144}{}{Cimitero}
+{145}{}{Cimitero}
+{146}{}{Cimitero}
+{147}{}{Cattedrale}
 {148}{}{Zona Militare}
 {149}{}{Montagne}
 {150}{}{Montagne}

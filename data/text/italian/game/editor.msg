@@ -79,9 +79,9 @@
 {306}{}{Res. al Veleno   }
 {307}{}{Res. a Radiaz.}
 {308}{editor}{Sequenza}
-{309}{editor}{Tasso di Guarigione}
+{309}{editor}{Tass. Guarigione}
 {310}{editor}{% Colpi Critici}
-{311}{editor}{Massimo Peso Trasportabile}
+{311}{editor}{Cap. Trasporto}
 {312}{}{Avvelenato}
 {313}{}{Irradiato}
 {314}{}{Danno agli Occhi}
@@ -180,7 +180,7 @@
 {1012}{}{THIS GOES WITH THE TEMPORARY ONE FOR DESCRIPTIONS #1112: DON'T TRANSLATE THIS}
 {1013}{}{Sexperto}
 {1014}{}{Campione}
-{1015}{}{Gigolo}
+{1015}{}{Gigolo'}
 {1016}{}{Tombarolo}
 {1017}{}{Picciotto: Salvatore}
 {1018}{}{Sposato}

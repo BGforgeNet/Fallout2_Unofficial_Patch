@@ -3129,7 +3129,7 @@
 {41763}{}{Prendi un numero.}
 {41764}{}{Bzzt! Bersaglio mancato!}
 {41765}{}{Ma voi non la smettete mai?}
-{41766}{}{Yawn.}
+{41766}{}{Sbadiglia.}
 {41767}{}{Pivellini.}
 {41768}{}{Torna al poligono di tiro, ragazzo.}
 {41769}{}{Continua cosi'. Forse un giorno riuscirai a colpirmi.}
@@ -3306,7 +3306,7 @@
 {42174}{}{Mi serviranno delle mutande nuove, una volta finita questa battaglia.}
 {42175}{}{Non possiamo discuterne amichevolmente?}
 {42176}{}{Ah! Mi hai mancato, merdaccia!}
-{42177}{}{Zoiks!}
+{42177}{}{Ouh!}
 {44000}{}{Bzzzt!}
 {44010}{}{Zzzzzzt!}
 {44020}{}{Fizzzzzzzzt!}
@@ -3533,5 +3533,5 @@
 {60000}{}{Sistemi offensivi ignorati.}
 {60020}{}{Sistemi offensivi attivati.}
 {60040}{}{Whrrr. Click. Click. Woof!}
-{60041}{}{Arg! Click. Woof!}
+{60041}{}{Arg! Clic. Bau!}
 {60060}{}{Azione offensiva evitata.}
