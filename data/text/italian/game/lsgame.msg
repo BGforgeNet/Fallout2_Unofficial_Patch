@@ -38,5 +38,5 @@
 {137}{}{Mappa}
 {140}{}{Gioco Salvato.}
 {141}{}{Gioco Caricato.}
-{200}{}{Sorry you can't save or load}
+{200}{}{Spiacente, non puoi salvare o caricare}
 {201}{}{in the demo version.}

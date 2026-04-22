@@ -203,7 +203,7 @@
 {1109}{}{Hai un problema di alcolismo. In realta', hai molti problemi causati dalle tue abitudini nel bere.}
 {1110}{}{Sei tossicodipendente. Devi assumere Jet con regolarita'.}
 {1111}{}{Tragicamente, sei dipendente da "L'Accozzaglia". Sei continuamente alla ricerca di nuove espansioni.}
-{1112}{}{TEMPORARY - What is this?}
+{1112}{}{TEMPORANEO - Cos'e' questo?}
 {1113}{}{Conosci il sesso. Conosci le tecniche. Sai come far godere una persona di sesso opposto e lasciarla con una voglia matta di rifarlo.}
 {1114}{}{Sei il campione dei pesi massimi del Nord California. Hai ottenuto fama, rispetto, l'amore delle folle... e un bonus per la resistenza fisica e l'abilita' Disarmato.}
 {1115}{}{Siamo onesti: vai a letto con qualsiasi cosa cammini su due gambe. Talvolta, non sei neanche cosi' pignolo.}
@@ -244,11 +244,11 @@
 {4001}{}{Dipendenze}
 {4100}{}{Rappresenta la tua reputazione in una data locazione.}
 {4101}{}{Le cose per le quali sei diventato dipendente.}
-{5000}{}{Sorry, you can only print your}
-{5001}{}{character in the full version.}
-{5002}{}{Sorry, you can only save your}
-{5003}{}{character in the full version.}
-{5004}{}{Sorry, you can only load a saved}
-{5005}{}{character in the full version.}
+{5000}{}{Spiacente, puoi stampare il tuo}
+{5001}{}{personaggio solo nella versione completa.}
+{5002}{}{Spiacente, puoi salvare il tuo}
+{5003}{}{personaggio solo nella versione completa.}
+{5004}{}{Spiacente, puoi caricare un salvataggio}
+{5005}{}{personaggio solo nella versione completa.}
 {5006}{}{CHEAT MODE}
-{5007}{}{Not available in demo.}
+{5007}{}{Non disponibile nella demo.}

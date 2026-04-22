@@ -6,7 +6,7 @@
 {210}{}{Zona Ovest}
 {211}{}{Zona Est}
 {212}{}{Zona Residenziale}
-{220}{}{Downtown}
+{220}{}{Centro citta'}
 {221}{}{Trapper Town}
 {222}{}{Grotte dei Ratti}
 {223}{}{Territorio di Caccia}
@@ -26,7 +26,7 @@
 {251}{}{Centrale Energetica}
 {252}{}{Discarica}
 {253}{}{Tunnel d'Accesso}
-{260}{}{Downtown}
+{260}{}{Centro citta'}
 {261}{}{Zona Residenziale}
 {270}{}{Virgin Street}
 {271}{}{2da Strada}
@@ -47,7 +47,7 @@
 {294}{}{Entrata Est}
 {300}{}{Bazaar}
 {301}{}{Consiglio 2}
-{302}{}{Downtown}
+{302}{}{Centro citta'}
 {303}{}{Sala del Consiglio}
 {304}{}{Ranch Westin}
 {305}{}{Pascoli}
@@ -58,7 +58,7 @@
 {322}{}{Level 2}
 {323}{}{Level 3}
 {324}{}{Level 4}
-{330}{}{Downtown}
+{330}{}{Centro citta'}
 {331}{}{Miniera del Grande Wanamingo}
 {332}{}{Wanamingo Mine}
 {333}{}{Campo Minerario}

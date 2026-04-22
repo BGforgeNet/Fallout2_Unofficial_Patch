@@ -35,7 +35,7 @@
 {1000}{}{Bau! Ba-ba-ba-<click>bau?}
 {1100}{}{Arf! <clic> Bau!}
 {1200}{}{Rowf? <boing> Raggy?}
-{1300}{}{<click> guaisce}
+{1300}{}{<click> guaisce.}
 {1400}{}{Auu?uuuu! <clic?clic> Auu?uuu!}
 {1500}{}{Ee-bee-dee-bee-ee-bee-dee-bee!}
 {1600}{}{Certo, la metto via.}

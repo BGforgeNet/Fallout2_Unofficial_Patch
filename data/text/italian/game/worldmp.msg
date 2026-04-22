@@ -17,7 +17,7 @@
 {251}{}{Hall}
 {252}{}{Impianto Idrico}
 {260}{}{Entrance}
-{261}{}{Downtown}
+{261}{}{Centro citta'}
 {262}{}{Heights}
 {263}{}{Old Town}
 {264}{}{Merchants}
@@ -35,7 +35,7 @@
 {290}{}{Crater}
 {291}{}{Level 1}
 {300}{}{Adytum}
-{301}{}{Downtown}
+{301}{}{Centro citta'}
 {302}{}{Biblioteca}
 {303}{}{Fortress}
 {304}{}{Magazzino}
