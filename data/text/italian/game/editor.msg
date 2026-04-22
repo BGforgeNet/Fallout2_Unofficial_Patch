@@ -72,7 +72,7 @@
 {209}{}{Eroico}
 {300}{editor}{Punti Vita}
 {301}{}{Punti Azione }
-{302}{editor}{Classe Armatura}
+{302}{editor}{Clas. Armatura}
 {303}{}{Danno Corpo-a-Corpo}
 {304}{}{Danno in Mischia}
 {305}{}{Res. al Danno  }
@@ -80,7 +80,7 @@
 {307}{}{Res. a Radiaz.}
 {308}{editor}{Sequenza}
 {309}{editor}{Tasso di Guarigione}
-{310}{editor}{% di Colpi Critici}
+{310}{editor}{% Colpi Critici}
 {311}{editor}{Massimo Peso Trasportabile}
 {312}{}{Avvelenato}
 {313}{}{Irradiato}
