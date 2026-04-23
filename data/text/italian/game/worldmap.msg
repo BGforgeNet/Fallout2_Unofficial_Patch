@@ -28,11 +28,11 @@
 {253}{}{Tunnel d'Accesso}
 {260}{}{Centro citta'}
 {261}{}{Zona Residenziale}
-{270}{}{Virgin Street}
+{270}{}{Via delle Vergini}
 {271}{}{2da Strada}
 {272}{}{Zona Commerciale}
 {273}{}{Zona Est}
-{274}{}{Chop Shop}
+{274}{}{Officina dei Ladri}
 {275}{}{Palestra di Boxe}
 {276}{}{Area del Vertibird}
 {280}{}{Campo di Battaglia}

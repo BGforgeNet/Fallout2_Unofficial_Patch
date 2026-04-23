@@ -217,7 +217,7 @@
 {317}{}{Pozzo}
 {318}{}{Gruthar}
 {319}{}{Map Script}
-{320}{}{Doofus}
+{320}{}{Skeeter}
 {321}{}{Nagor}
 {322}{}{Smoke}
 {323}{}{Ncr Area 1}

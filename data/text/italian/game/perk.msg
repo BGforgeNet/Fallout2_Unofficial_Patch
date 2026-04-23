@@ -43,7 +43,7 @@
 {143}{}{Figlio dei Fiori}
 {144}{}{Trova-Piste}
 {145}{}{Amico degli Animali}
-{146}{}{Scout}
+{146}{}{Esploratore}
 {147}{}{la Straniera Mistriosa}
 {148}{}{Ranger}
 {149}{}{Tasche Rapide}

@@ -158,9 +158,9 @@
 {14200}{}{una Gran Maestra Mercante}
 {14300}{}{una Gran Maestra Mercante}
 {14400}{}{Tandi}
-{14500}{}{Merc}
+{14500}{}{Mercenario}
 {14600}{}{Ratch}
-{14700}{}{Doofus}
+{14700}{}{Skeeter}
 {14800}{}{Mikey}
 {14900}{}{il Barista di NCR}
 {15000}{}{un Negoziante}
@@ -190,7 +190,7 @@
 {17400}{}{Dar}
 {17500}{}{Dalia}
 {17600}{}{Gordon}
-{17700}{}{test (don't use)}
+{17700}{}{test (non utilizzare)}
 {17800}{}{un Ghoul del Reattore}
 {17900}{}{un Ghoul Generico}
 {18000}{}{Matt}
@@ -270,7 +270,7 @@
 {25300}{}{un Membro della Squadra di Arruolamento}
 {25400}{}{un Mercenario}
 {25500}{}{un Mercenario}
-{25600}{}{Nightkin}
+{25600}{}{Notturni}
 {25700}{}{un Nightkin Tenace}
 {25800}{}{un Ghoul Tenace}
 {25900}{}{un Gangster}

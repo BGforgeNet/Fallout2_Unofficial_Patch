@@ -109,12 +109,12 @@
 {9171}{}{Ho imparato qualcosa di nuovo!}
 {9180}{}{Ho imparato qualcosa di nuovo!}
 {9181}{}{Ho imparato qualcosa di nuovo!}
-{9190}{}{Woof WOOF!}
-{9191}{}{Woof WOOF WOOOOF!}
-{9192}{}{Woof WOOF WOOOOF!}
-{9193}{}{Woof WOOF WOOOOF!}
-{9194}{}{Woof WOOF WOOOOF!}
-{9195}{}{Wa-WOOOOF!}
+{9190}{}{Bau BAU!}
+{9191}{}{Bau BAU BAAAAUUUU!}
+{9192}{}{Bau BAU BAAAAUUUU!}
+{9193}{}{Bau BAU BAAAAUUUU!}
+{9194}{}{Bau BAU BAAAAUUUU!}
+{9195}{}{Ba-BAAUU!!}
 {9200}{}{}
 {9210}{}{}
 {9220}{}{}
