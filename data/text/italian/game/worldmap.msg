@@ -53,7 +53,7 @@
 {305}{}{Pascoli}
 {310}{}{Entrata della Grotta}
 {311}{}{Vault 13}
-{320}{}{Entrance}
+{320}{}{Ingresso}
 {321}{}{Level 1}
 {322}{}{Level 2}
 {323}{}{Level 3}

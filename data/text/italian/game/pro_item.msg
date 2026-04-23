@@ -872,8 +872,8 @@
 {44701}{}{Questo Olodisco contiene informazioni che svelano l'accordo segreto tra Bishop e NCR. Pare che Bishop abbia assoldato mercenari per attaccare Vault City nella speranza che Vault City si rivolgesse a NCR per aiuto militare. L'Olodisco e' solo audio e non ha testo. Vault City potrebbe esserne interessata.}
 {44800}{}{Libro Contabile}
 {44801}{}{Questo libro contabile elenca una serie di pagamenti mensili versati alla banda di mercenari da parte della Famiglia Bishop di New Reno. La portata dei pagamenti dipendeva molto dalla "pressione" esercitata su Vault City dai mercenari. Vault City potrebbe trovarlo interessante.}
-{44900}{}{Unused}
-{44901}{}{Unused}
+{44900}{}{Inutilizzato}
+{44901}{}{Inutilizzato}
 {45000}{}{Foglio Strappato 1}
 {45001}{}{Vedi un foglio di carta con delle scritte. Sembra fare parte di una specie di codice. Sfortunatamente il codice e' incompleto. Se solo tu potessi trovare tutti e tre i pezzi. Riesci a cavarci il seguente: 1. Fisica, Password KSLJ, 2. Chimica, Password TIU, 3. Biologia, Password INTL}
 {45100}{}{Foglio Strappato 2}
@@ -923,8 +923,8 @@
 {47301}{}{Vedi il tuo sesto dito. E' una piccola parte mutante di te. Per qualche ragione, senti un terribile senso di vuoto mentre guardi il tuo piccolo dito amputato.}
 {47400}{}{Margherite}
 {47401}{}{Un vaso di margherite. Non sono carine?}
-{47500}{}{Unused}
-{47501}{}{Unused}
+{47500}{}{Inutilizzato}
+{47501}{}{Inutilizzato}
 {47600}{}{Lettera dell'Illuminata}
 {47601}{}{Un resoconto indirizzato all'AHS-9 di San Francisco. E' assolutamente noioso da leggere: tabelle di aggiustamenti oppressivi, rapporti spese e altre ciarle indegne del tuo tempo.}
 {47700}{}{Olodisco di una Trasmissione}

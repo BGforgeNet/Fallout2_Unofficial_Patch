@@ -125,7 +125,7 @@
 {11300}{}{un Ratto-porco Tenace}
 {11400}{}{un Brahmin Debole}
 {11401}{}{Una mucca mutante bicipite.}
-{11500}{}{A.Pwr.Armor (don't use)}
+{11500}{}{A.Pwr.Armor (non usare)}
 {11600}{}{un Ratto Mutante}
 {11601}{}{Un tenace ratto mutante.}
 {11700}{}{un Ratto-talpa Mutante}
@@ -135,18 +135,18 @@
 {11900}{}{un Super Mutante}
 {12000}{}{Mutante Potente}
 {12100}{}{Melchior}
-{12200}{}{Hero Andro (don't use)}
-{12300}{}{Hero Andro (don't use)}
-{12400}{}{Hero Male (don't use)}
-{12500}{}{Hero Female (don't use)}
-{12600}{}{Hero Male (don't use)}
-{12700}{}{Hero Female (don't use)}
-{12800}{}{Hero Male (don't use)}
-{12900}{}{Hero Female (don't use)}
-{13000}{}{Hero Male (don't use)}
-{13100}{}{Hero Female (don't use)}
-{13200}{}{Hero Male (don't use)}
-{13300}{}{Hero Female (don't use)}
+{12200}{}{Eroe Andro (non usare)}
+{12300}{}{Eroe Andro (non usare)}
+{12400}{}{Eroe Maschio (non usare)}
+{12500}{}{Eroe Femmina (non usare)}
+{12600}{}{Eroe Maschio (non usare)}
+{12700}{}{Eroe Femmina (non usare)}
+{12800}{}{Eroe Maschio (non usare)}
+{12900}{}{Eroe Femmina (non usare)}
+{13000}{}{Eroe Maschio (non usare)}
+{13100}{}{Eroe Femmina (non usare)}
+{13200}{}{Eroe Maschio (non usare)}
+{13300}{}{Eroe Femmina (non usare)}
 {13400}{}{una Guardia di Vault City}
 {13500}{}{una Guardia di Vault City}
 {13600}{}{un Cybercane}

@@ -56,21 +56,21 @@
 {156}{}{Dipendenza da Mentat}
 {157}{}{Dipendenza da Psycho}
 {158}{}{Dipendenza da RadAway}
-{159}{}{Weapon Long Range}
-{160}{}{Weapon Accurate}
-{161}{}{Weapon Penetrate}
-{162}{}{Weapon Knockback}
+{159}{}{Arma a lungo raggio}
+{160}{}{Arma precisa}
+{161}{}{Penetrazione dell'arma}
+{162}{}{Rinculo dell'arma}
 {163}{}{Powered Armor}
 {164}{}{Armatura da Combattimento}
-{165}{}{Weapon Scope Range}
-{166}{}{Weapon Fast Reload}
-{167}{}{Weapon Night Sight}
-{168}{}{Weapon Flameboy}
-{169}{}{Armor Advanced I}
-{170}{}{Armor Advanced II}
+{165}{}{Portata con Mirino}
+{166}{}{Ricarica rapida dell'arma}
+{167}{}{Puntamento Notturno}
+{168}{}{Arma incendiaria}
+{169}{}{Armatura avanzata I}
+{170}{}{Armatura avanzata II}
 {171}{}{Dipendenza da Jet}
 {172}{}{Dipendenza da Tragic}
-{173}{}{Armor Charisma}
+{173}{}{Armatura Carisma}
 {174}{}{Scuoiatura Gecki}
 {175}{}{Armatura Dermica Anti-Impatto}
 {176}{}{Pot. Imp. Dermico d'Assalto.}
@@ -115,7 +115,7 @@
 {215}{}{Punti Vita Diminuiti dall'Autodoc}
 {216}{}{Punti Vita Diminuiti dall'Autodoc II}
 {217}{}{Spalatore di Letame Esperto}
-{218}{}{Weapon Enhanced Knockout}
+{218}{}{Colpo da KO potenziato}
 {219}{}{Iettatore}
 {1101}{}{Con la Consapevolezza, ti vengono date informazioni dettagliate su ogni creatura da te esaminata. Puoi vedere i loro punti vita esatti e varie informazioni sull'arma da loro impugnata.}
 {1102}{}{Hai imparato le arti segrete dell'Oriente, o semplicemente sai dare pugni piu' velocemente. In ogni caso, i tuoi attacchi Corpo a Corpo richiedono 1 PA in meno.}
@@ -175,21 +175,21 @@
 {1156}{}{Ti senti intontito.}
 {1157}{}{Hai la testa vuota.}
 {1158}{}{Ti viene da vomitare.}
-{1159}{}{Weapon Long Range}
-{1160}{}{Weapon Accurate}
-{1161}{}{Weapon Penetrate}
-{1162}{}{Weapon Knockback}
+{1159}{}{Arma a lungo raggio}
+{1160}{}{Arma precisa}
+{1161}{}{Penetrazione dell'arma}
+{1162}{}{Rinculo dell'arma}
 {1163}{}{Powered Armor}
 {1164}{}{Armatura da Combattimento}
-{1165}{}{Weapon Scope Range}
-{1166}{}{Weapon Fast Reload}
-{1167}{}{Weapon Night Sight}
-{1168}{}{Weapon Flameboy}
-{1169}{}{Armor Advanced I}
-{1170}{}{Armor Advanced II}
+{1165}{}{Portata con Mirino}
+{1166}{}{Ricarica rapida dell'arma}
+{1167}{}{Puntamento Notturno}
+{1168}{}{Arma incendiaria}
+{1169}{}{Armatura avanzata I}
+{1170}{}{Armatura avanzata II}
 {1171}{}{Tutto si muove cosi' lentamente... *devi* avere un altro po' di Jet, SUBITO!}
 {1172}{}{Senti l'ardente desiderio di aprire un altro mazzo di carte Tragic.}
-{1173}{}{Armor Charisma}
+{1173}{}{Armatura Carisma}
 {1174}{}{Conosci il modo corretto per scuoiare i gecki senza rovinare le loro pelli.}
 {1175}{}{Hai una protezione interna contro gli attacchi fisici.}
 {1176}{}{Hai una protezione interna extra contro gli attacchi fisici.}
@@ -234,5 +234,5 @@
 {1215}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa del continuo uso dell'autodoc.}
 {1216}{}{I tuoi punti vita sono diminuiti un po' di piu' a causa del continuo uso dell'autodoc.}
 {1217}{}{La tua abilita' nello spalare merda e' leggendaria.}
-{1218}{}{Weapon Enhanced Knockout}
+{1218}{}{Colpo da KO potenziato}
 {1219}{}{La cosa positiva e' che tutti intorno a te subiscono un maggior numero di fallimenti critici... la cosa negativa e' che lo stesso succede a te!}

@@ -28,7 +28,7 @@
 {122}{}{Influenza velocita' giocatore}
 {123}{}{Voce del PipBoy}
 {201}{}{On}
-{202}{}{Off}
+{202}{}{Spento}
 {203}{}{Facile}
 {204}{}{Normale}
 {205}{}{Difficile}
@@ -53,5 +53,5 @@
 {224}{}{Largo}
 {300}{}{OK}
 {301}{}{PAUSA}
-{1000}{}{Sorry, the preferences menu is not}
-{1001}{}{available in the demo version.}
+{1000}{}{Spiacente, il menu delle preferenze non e'}
+{1001}{}{disponibile nella versione demo.}

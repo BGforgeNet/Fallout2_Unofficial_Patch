@@ -99,7 +99,7 @@
 {233}{}{Grotte dei Ratti}
 {234}{}{Grotte dei Ratti}
 {235}{}{Grotte dei Ratti}
-{236}{}{Entrance}
+{236}{}{Ingresso}
 {237}{}{Tunnel con Scorie Radioattive}
 {238}{}{Magazzini}
 {239}{}{Territorio di Caccia}
@@ -216,7 +216,7 @@
 {350}{}{Level 3}
 {351}{}{Level 4}
 {352}{}{}
-{353}{}{Entrance}
+{353}{}{Ingresso}
 {354}{}{}
 {355}{}{}
 {356}{}{Deserto}
@@ -299,7 +299,7 @@
 {433}{}{Costa}
 {434}{}{Centro citta'}
 {435}{}{Scantinato}
-{436}{}{Unused}
+{436}{}{Inutilizzato}
 {437}{}{Zona Residenziale}
 {438}{}{Sottoterra}
 {439}{}{Miniera}
@@ -516,7 +516,7 @@
 {650}{}{Deserto}
 {651}{}{Deserto}
 {652}{}{Deserto}
-{653}{}{Entrance}
+{653}{}{Ingresso}
 {654}{}{Piano Inferiore}
 {655}{}{Deserto}
 {656}{}{}
@@ -532,7 +532,7 @@
 {1507}{}{New Reno}
 {1508}{}{Deposito Militare Sierra}
 {1509}{}{Vault 15}
-{1510}{}{New California Republic}
+{1510}{}{Nuova Repubblica della California}
 {1511}{}{Vault 13}
 {1512}{}{Base Militare}
 {1513}{}{Redding}

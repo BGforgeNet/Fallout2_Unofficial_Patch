@@ -1,33 +1,33 @@
 {200}{}{Entrata della Caverna}
-{201}{}{Entrance}
+{201}{}{Ingresso}
 {202}{}{Alloggi}
 {203}{}{Centro di Comando}
 {210}{}{Entrata dal Deserto}
 {211}{}{Caverne/Entrata}
 {212}{}{Alloggi}
 {213}{}{Centro di Comando}
-{220}{}{Entrance}
+{220}{}{Ingresso}
 {221}{}{Garden}
 {222}{}{Brahmin Pen}
-{230}{}{Entrance}
+{230}{}{Ingresso}
 {231}{}{Crash House}
 {232}{}{Casino'}
 {240}{}{Base}
 {250}{}{Hotel}
 {251}{}{Hall}
 {252}{}{Impianto Idrico}
-{260}{}{Entrance}
+{260}{}{Ingresso}
 {261}{}{Centro citta'}
 {262}{}{Heights}
 {263}{}{Old Town}
 {264}{}{Merchants}
-{265}{}{Cave}
-{270}{}{Entrance}
+{265}{}{Grotta}
+{270}{}{Ingresso}
 {271}{}{Level 1}
 {272}{}{Level 2}
 {273}{}{Level 3}
 {274}{}{Level 4}
-{280}{}{Entrance}
+{280}{}{Ingresso}
 {281}{}{Stronghold Level 1}
 {282}{}{Stronghold Level 2}
 {283}{}{Vats Level 1}
@@ -39,7 +39,7 @@
 {302}{}{Biblioteca}
 {303}{}{Fortress}
 {304}{}{Magazzino}
-{310}{}{Entrance}
+{310}{}{Ingresso}
 {311}{}{Interior}
 {500}{}{Hai guadagnato 10,000 punti esperienza!}
 {501}{}{Rovine}
