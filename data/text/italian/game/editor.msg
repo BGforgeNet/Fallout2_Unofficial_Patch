@@ -74,7 +74,7 @@
 {301}{}{Punti Azione }
 {302}{editor}{Clas. Armatura}
 {303}{}{Danno Corpo-a-Corpo}
-{304}{}{Danno in Mischia}
+{304}{editor}{Melee Damage}
 {305}{}{Res. al Danno  }
 {306}{}{Res. al Veleno   }
 {307}{}{Res. a Radiaz.}
