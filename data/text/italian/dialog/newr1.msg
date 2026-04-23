@@ -132,7 +132,7 @@
 {423}{}{Muro di Pietra}
 {424}{}{Motosega}
 {425}{}{Helen Ruote}
-{426}{}{Tommy Pistola}
+{426}{}{Tommy il Cannone}
 {427}{}{Vedova Nera}
 {428}{}{Spacca}
 {429}{}{Delilah}
@@ -288,7 +288,7 @@
 {598}{}{Ruth la Spietata}
 {599}{}{}
 {700}{}{Mal Fisto}
-{701}{}{Tommy Pistola}
+{701}{}{Tony il Cannone}
 {702}{}{"Acciaio" Mark Torrance}
 {703}{}{Xander "la Cosa Sicura" Holyland}
 {704}{}{Ragno}
@@ -305,7 +305,7 @@
 {715}{}{Ivan}
 {716}{}{Joe di Vetro}
 {717}{}{Drago}
-{718}{}{Tommy Pistola}
+{718}{}{Tommy il Cannone}
 {719}{}{Apollo}
 {750}{}{Joqq}
 {751}{}{Pete McKneely}

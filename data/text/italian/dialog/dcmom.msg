@@ -44,11 +44,11 @@
 {346}{}{Filetto.}
 {347}{}{Ratto-talpa ben cotto.}
 {348}{}{Fluttuante in fricassea.}
-{349}{}{Filet mignon.}
+{349}{}{Filetto mignon.}
 {350}{}{Medaglioni di gecko alla griglia.}
 {351}{}{Mantide al Marsala.}
 {352}{}{Manicotti di ratto-talpa.}
-{353}{}{Brahmin en brochette.}
+{353}{}{Brahmin allo spiedo.}
 {354}{}{Radscorpione en croute.}
 {355}{}{E' Smeat!}
 {356}{}{Uh, non ne sono sicura, ma sa un po' di pollo.}

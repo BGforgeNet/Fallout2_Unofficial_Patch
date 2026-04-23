@@ -541,12 +541,12 @@
 {641}{}{Scatola}
 {642}{}{Valdis}
 {643}{}{Computer Terminal}
-{644}{}{Metal Locker}
+{644}{}{Armadietto Metallico}
 {645}{}{Contenitore}
 {646}{}{una Guardia Deathclaw}
 {647}{}{Goris}
 {648}{}{Scatola}
-{649}{}{Metal Locker}
+{649}{}{Armadietto Metallico}
 {650}{}{un Imbroglione}
 {651}{}{V15 map Script}
 {652}{}{Phil}
@@ -818,7 +818,7 @@
 {918}{}{uno Slag}
 {919}{}{uno Slag}
 {920}{}{Lo Pan}
-{921}{}{Badger}
+{921}{}{Tasso}
 {922}{}{Josh}
 {923}{}{Caminetto}
 {924}{}{Bette}
@@ -909,7 +909,7 @@
 {1009}{}{Schiavista}
 {1010}{}{Lara}
 {1011}{}{Tyler}
-{1012}{}{Marc}
+{1012}{}{Mark}
 {1013}{}{Bacheca degli Annunci}
 {1014}{}{Schiavista}
 {1015}{}{Schiavista}
@@ -974,7 +974,7 @@
 {1074}{}{Cassa}
 {1075}{}{il Tipo che Piscia}
 {1076}{}{Curtis}
-{1077}{}{Marc}
+{1077}{}{Mark}
 {1078}{}{Computer}
 {1079}{}{AHS-9}
 {1080}{}{una Guardia}
@@ -1092,7 +1092,7 @@
 {1192}{}{Holodisk}
 {1193}{}{Holodisk}
 {1194}{}{Note}
-{1195}{}{Dogmeat}
+{1195}{}{Polpetta}
 {1196}{}{Cat's Paw Magazine #5}
 {1197}{}{Mappa dei Predoni}
 {1198}{}{Cane Paria}

@@ -97,7 +97,7 @@
 {4900}{}{Antidoto}
 {4901}{}{Una bottiglia contenente un antidoto fatto in casa. Un liquido latteo con pezzi di radscorpione in sospensione.}
 {5000}{}{Reserved Item}
-{5001}{}{This is a reserved item. DO NOT USE.}
+{5001}{}{Questo e' un elemento riservato. NON USARE.}
 {5100}{}{Dinamite}
 {5101}{}{Un potente esplosivo, a base di nitroglicerina mischiata con del kieselgur, una sostanza assorbente. E' provvista di un timer.}
 {5200}{}{Contatore Geiger}
@@ -552,7 +552,7 @@
 {28101}{}{Un piccolo vasetto contenente un occhio umano sospeso in una specie di liquido. L'etichetta dice: Caporale Dixon.}
 {28200}{}{Occhio di Clifton}
 {28201}{}{Un piccolo vasetto contenente un occhio umano sospeso in una specie di liquido. L'etichetta dice: Generale Clifton.}
-{28300}{}{Tommy Gun}
+{28300}{}{Mitragliatore}
 {28301}{}{Il mitra Thompson M1928 e' un'arma dall'aspetto sinistro; ogni volta che lo impugni, senti il bisogno di indossare un fedora e di far scrocchiare le dita. Il Thompson e' alimentato da un grosso caricatore a tamburo da 50 colpi. Min FZ: 6.}
 {28400}{}{Carne Affumicata}
 {28401}{}{Questi pezzi di carne animale affumicati ed essiccati rimangono stoppacciosi e persino nutrienti (per certi versi) per anni, e anni, e anni....}
@@ -650,7 +650,7 @@
 {33001}{}{Questo e' il luogo dove un vertibird e' precipitato. Dev'essersi schiantato molti mesi fa.}
 {33100}{}{Cat's Paw #5}
 {33101}{}{Questo e' il rarissimo Numero 5 della rivista Cat's Paw. A parte le foto, questo numero ha uno splendido articolo sulle armi a energia.}
-{33200}{}{M3A1 "Grease Gun" SMG}
+{33200}{}{Mitragliatrice M3A1}
 {33201}{}{Questa mitraglietta e' andata a riempire gli arsenali della Guardia Nazionale dopo che l'esercito l'ha sostituita con armi piu' nuove. Tuttavia, la "Grease Gun" era facile ed economica da costruire e percio' ce ne sono ancora un discreto numero in uso. Min FZ: 4.}
 {33300}{}{Pillole per il Cuore}
 {33301}{}{Queste pillole sono usate da persone con problemi cardiaci.}
@@ -690,7 +690,7 @@
 {35201}{}{Questa e' un'arma rivoluzionaria. Spara una cartuccia senza bossolo, consistente di un blocco di propellente con un proiettile affogato al suo interno. Tale risparmio di peso e spazio consente a quest'arma di avere un caricatore molto capiente. Min FZ: 5.}
 {35300}{}{XL70E3}
 {35301}{}{Ai tempi della Guerra questa era un'arma sperimentale. Costruita con polimeri ad alta resistenza, e' praticamente indistruttibile. E' leggera, veloce, accurata, e puo' essere smontata senza l'uso di attrezzi. Min FZ: 5.}
-{35400}{}{Pancor Jackhammer}
+{35400}{}{Pancor Martellone}
 {35401}{}{Il Jackhammer, nonostante il suo nome, e' un fucile a pompa facile da controllare, anche quando si spara in automatico completo. Il design bullpup, che colloca il caricatore dietro il grilletto, rende quest'arma ben bilanciata e facile da controllare. Min FZ: 5.}
 {35500}{}{Arma Leggera da Supporto}
 {35501}{}{Arma leggera da supporto tipo "squad", design bullpup. Difficile da usare quando stesi a terra. Per questo motivo e' stata inviata alle unita' della G.N. Si e' tuttavia guadagnata la fama di arma affidabile che rilascia un bel po' di potenza per la sua taglia. Min FZ: 6.}
@@ -741,13 +741,13 @@
 {38101}{}{Armatura ad alta tecnologia, costruita con polimeri difensivi avanzati.}
 {38200}{}{Carburante per Lanciafiamme Ver.II}
 {38201}{}{Questo carburante per lanciafiamme usa una miscela super-infiammabile avanzata.}
-{38300}{}{Shiv}
+{38300}{}{Punteruolo}
 {38301}{}{Questo coltello fatto in casa e' molto pericoloso in quanto facilmente celabile. La sua presenza non puo' essere notata dagli altri. Min FZ: 1.}
 {38400}{}{Chiave Inglese}
 {38401}{}{Tipica chiave utilizzata dai meccanici. Min FZ: 3.}
 {38500}{}{Fucile a Canne Mozze}
 {38501}{}{Qualcuno ha trovato il tempo per tagliare via gli ultimi centimetri della canna e del calcio di questo fucile. Ora, l'ampio sventagliamento dei colpi di questo cannone da braccio a canne corte lo rende perfetto per il controllo a corto raggio della folla. Min FZ: 4.}
-{38600}{}{Louisville Slugger}
+{38600}{}{Mazza di Louisville}
 {38601}{}{Questa americanissima, dura, mazza da baseball fara' vedere le stelle a chiunque. Min FZ: 4.}
 {38700}{}{M60}
 {38701}{}{Questa mitragliatrice relativamente leggera era apprezzata dai militari di tutto il mondo per il suo alto ritmo di fuoco. Questo modello affidabile, testato sui campi di battaglia, era usato su veicoli e come supporto armato per operazioni di squadra. Min FZ: 7.}

@@ -310,7 +310,7 @@
 {29300}{}{il Presidente}
 {29400}{}{il Vicepresidente}
 {29500}{}{un Tecnico}
-{29600}{}{Badger}
+{29600}{}{Tasso}
 {29700}{}{il Dr. Fung}
 {29800}{}{un Bambino}
 {29900}{}{un Bambino}
@@ -324,50 +324,50 @@
 {30700}{}{un Lavoratore del Porto}
 {30800}{}{un Mercante Shi}
 {30900}{}{il Reeh Rat'to}
-{31000}{}{Sulik - Stage 1}
-{31100}{}{Sulik - Stage 2}
-{31200}{}{Sulik - Stage 3}
-{31300}{}{Sulik - Stage 4}
-{31400}{}{Sulik - Stage 5}
-{31500}{}{Sulik - Stage 6}
-{31600}{}{Lenny - Stage 1}
-{31700}{}{Lenny - Stage 2}
-{31800}{}{Lenny - Stage 3}
-{31900}{}{Goris - Stage 1}
-{32000}{}{Goris - Stage 2}
-{32100}{}{Goris - Stage 3}
-{32200}{}{Goris - Stage 4}
-{32300}{}{Goris - Stage 5}
-{32400}{}{Goris - Stage 6}
-{32500}{}{Myron - Stage 1}
-{32600}{}{Myron - Stage 2}
-{32700}{}{Myron - Stage 3}
-{32800}{}{Myron - Stage 4}
-{32900}{}{Marcus - Stage 1}
-{33000}{}{Marcus - Stage 2}
-{33100}{}{Marcus - Stage 3}
-{33200}{}{Marcus - Stage 4}
-{33300}{}{Marcus - Stage 5}
+{31000}{}{Sulik - Livello 1}
+{31100}{}{Sulik - Livello 2}
+{31200}{}{Sulik - Livello 3}
+{31300}{}{Sulik - Livello 4}
+{31400}{}{Sulik - Livello 5}
+{31500}{}{Sulik - Livello 6}
+{31600}{}{Lenny - Livello 1}
+{31700}{}{Lenny - Livello 2}
+{31800}{}{Lenny - Livello 3}
+{31900}{}{Goris - Livello 1}
+{32000}{}{Goris - Livello 2}
+{32100}{}{Goris - Livello 3}
+{32200}{}{Goris - Livello 4}
+{32300}{}{Goris - Livello 5}
+{32400}{}{Goris - Livello 6}
+{32500}{}{Myron - Livello 1}
+{32600}{}{Myron - Livello 2}
+{32700}{}{Myron - Livello 3}
+{32800}{}{Myron - Livello 4}
+{32900}{}{Marcus - Livello 1}
+{33000}{}{Marcus - Livello 2}
+{33100}{}{Marcus - Livello 3}
+{33200}{}{Marcus - Livello 4}
+{33300}{}{Marcus - Livello 5}
 {33400}{}{Cybercane - Stage 1}
 {33500}{}{Cybercane - Stage 2}
 {33600}{}{Cybercane - Stage 3}
 {33700}{}{Cybercane - Stage 4}
-{33800}{}{Cassidy - Stage 1}
-{33900}{}{Cassidy - Stage 2}
-{34000}{}{Cassidy - Stage 3}
-{34100}{}{Cassidy - Stage 4}
-{34200}{}{Dogmeat}
-{34300}{}{Dogmeat - Stage 1}
-{34400}{}{Dogmeat - Stage 2}
-{34500}{}{Dogmeat - Stage 3}
-{34600}{}{Dogmeat - Stage 4}
-{34700}{}{Dogmeat - Stage 5}
-{34800}{}{Dogmeat - Stage 6}
-{34900}{}{Robobrain - Stage 1}
-{35000}{}{Robobrain - Stage 2}
-{35100}{}{Robobrain - Stage 3}
-{35200}{}{Robobrain - Stage 4}
-{35300}{}{Robobrain - Stage 5}
+{33800}{}{Cassidy - Livello 1}
+{33900}{}{Cassidy - Livello 2}
+{34000}{}{Cassidy - Livello 3}
+{34100}{}{Cassidy - Livello 4}
+{34200}{}{Polpetta}
+{34300}{}{Dogmeat - Livello 1}
+{34400}{}{Dogmeat - Livello 2}
+{34500}{}{Dogmeat - Livello 3}
+{34600}{}{Dogmeat - Livello 4}
+{34700}{}{Dogmeat - Livello 5}
+{34800}{}{Dogmeat - Livello 6}
+{34900}{}{Robobrain -Livello 1}
+{35000}{}{Robobrain - Livello 2}
+{35100}{}{Robobrain - Livello 3}
+{35200}{}{Robobrain - Livello 4}
+{35300}{}{Robobrain - Livello 5}
 {35400}{}{la Regina Aliena}
 {35500}{}{un Radscorpione Nero}
 {35600}{}{un Radscorpione Nero}
@@ -378,7 +378,7 @@
 {36100}{}{Ombra-che-cammina}
 {36200}{}{una Punk}
 {36300}{}{una Punk}
-{36400}{}{Marc}
+{36400}{}{Mark}
 {36500}{}{Dave H.}
 {36600}{}{il Capit. A. Ron Meyers}
 {36700}{}{Chip}
@@ -387,12 +387,12 @@
 {37000}{}{una Guardia Hubologist}
 {37100}{}{Juan}
 {37200}{}{Vikki}
-{37300}{}{Vic - Stage 1}
-{37400}{}{Vic - Stage 2}
-{37500}{}{Vic - Stage 3}
-{37600}{}{Vic - Stage 4}
-{37700}{}{Vic - Stage 5}
-{37800}{}{Vic - Stage 6}
+{37300}{}{Vic - Livello 1}
+{37400}{}{Vic - Livello 2}
+{37500}{}{Vic - Livello 3}
+{37600}{}{Vic - Livello 4}
+{37700}{}{Vic - Livello 5}
+{37800}{}{Vic - Livello 6}
 {37900}{}{Robobrain - Scimpanze'}
 {38000}{}{Robobrain - Anormale}
 {38100}{}{Robobrain - Umano}
@@ -408,9 +408,9 @@
 {39100}{}{Jobe}
 {39200}{}{Smitty}
 {39300}{}{Rube}
-{39400}{}{Master Krall}
+{39400}{}{Maestro Krall}
 {39500}{}{Ziggy}
-{39600}{}{Master Khung}
+{39600}{}{Maestro Khung}
 {39700}{}{John Bishop}
 {39800}{}{Angela Bishop}
 {39900}{}{la Signora Bishop}
@@ -426,15 +426,15 @@
 {40900}{}{un Uomo di Mordino 3}
 {41000}{}{una Guardia di Myron 1}
 {41100}{}{una Guardia di Myron 2}
-{41200}{}{Mr. Wright}
-{41300}{}{Mrs. Wright}
+{41200}{}{Signor Wright}
+{41300}{}{Signora Wright}
 {41400}{}{Chris Wright}
 {41500}{}{Keith Wright}
 {41600}{}{un Figlio di Wright 1}
 {41700}{}{un Figlio di Wright 2}
 {41800}{}{una Figlia di Wright 1}
 {41900}{}{una Figlia di Wright 2}
-{42000}{}{Mr. Salvatore}
+{42000}{}{Don Salvatore}
 {42100}{}{Mason}
 {42200}{}{un Gangster di Salvatore 1}
 {42300}{}{un Gangster di Salvatore 2}
@@ -487,16 +487,16 @@
 {47000}{}{una Torretta Armata}
 {47001}{}{Questa e' una torretta automatica armata con un Cannone a Doppio Plasma.}
 {47100}{}{K-9 (base)}
-{47200}{}{K-9 (stage 1)}
-{47300}{}{K-9 (stage 2)}
-{47400}{}{K-9 (stage 3)}
-{47500}{}{K-9 (stage 4)}
+{47200}{}{K-9 (livello 1)}
+{47300}{}{K-9 (livello 2)}
+{47400}{}{K-9 (livello 3)}
+{47500}{}{K-9 (livello 4)}
 {47600}{}{un Cybercane Generico}
 {47700}{}{un Uovo di Wanamingo}
 {47800}{}{una Guardia di Lo Pan}
 {47900}{}{Marjorie}
 {48000}{}{una Mitragliatrice}
 {48100}{}{un Gecko Speciale}
-{48200}{}{Grim Reaper}
+{48200}{}{Il Mietitore}
 {48300}{}{Frank Horrigan}
 {48301}{}{La Guardia del Corpo del Presidente.}

@@ -94,8 +94,8 @@
 {4701}{}{Un monitor di computer; sta mostrando vari bit di dati.}
 {4800}{}{Monitor}
 {4801}{}{Un monitor di computer; sta mostrando vari bit di dati.}
-{4900}{}{Exit Grid Map Marker}
-{4901}{}{Exit Grid Map Marker}
+{4900}{}{Marcatore Uscita Mappa}
+{4901}{}{Marcatore Uscita Mappa}
 {5000}{}{Unita' di Processazione dell'Aria}
 {5001}{}{Un'UPA pulisce l'aria vecchia e fornisce aria nuova al complesso. Questa e' rotta.}
 {5100}{}{Sedia}
@@ -122,15 +122,15 @@
 {6101}{}{E' un tavolo. Prima dell'invenzione dei tavoli, la gente era costretta a tenere le proprie cose sul pavimento.}
 {6200}{}{Tavolo}
 {6201}{}{E' sicuramente un tavolo.}
-{6300}{}{Tumbleweed}
+{6300}{}{Rotolacampo}
 {6301}{}{E' un tumbleweed, uno di quegli ammassi di sterpi rotolanti. Certo, tu non hai mai visto dal vivo un vero tumbleweed. Faresti meglio a guardarlo attentamente.}
-{6400}{}{Cactus}
+{6400}{}{Kaktus}
 {6401}{}{Non vedi niente di speciale in questo cactus.}
-{6500}{}{Cactus}
+{6500}{}{Kaktus}
 {6501}{}{Non vedi niente di importante in questo cactus.}
 {6600}{}{Albero}
 {6601}{}{Un albero morto. Qui niente cresce bene.}
-{6700}{}{Secret Blocking Hex}
+{6700}{}{Cella di Blocco Segreta}
 {6701}{}{Se vedi questo, prenditela con il designer tecnico.}
 {6800}{}{Scale}
 {6801}{}{Delle scale.}
@@ -252,7 +252,7 @@
 {12601}{}{Un'erbaccia del deserto.}
 {12700}{}{Erbaccia}
 {12701}{}{Un'erbaccia del deserto.}
-{12800}{}{Blocking Hex (NoLight)}
+{12800}{}{Cella di Blocco (Senza Luce)}
 {12900}{}{Parete}
 {13000}{}{Parete}
 {13100}{}{Parete}
@@ -651,7 +651,7 @@
 {34201}{}{Questo era un cartello per regolare il flusso del traffico.}
 {34300}{}{Cartello Precedenza}
 {34301}{}{Il cartello e' sbiadito, ma riesci a leggere la parola PRECEDENZA.}
-{34400}{}{Block Hex Auto Inviso}
+{34400}{}{Cella di Blocco Auto Inviso}
 {34401}{}{Se vedi questo, prenditela con il designer tecnico.}
 {34500}{}{Pavimento}
 {34600}{}{Porta}
@@ -1048,12 +1048,12 @@
 {55501}{}{Un qualche tipo di apparato medico o sperimentale; sembra in grado di contenere un corpo umano o di dimensioni maggiori.}
 {55600}{}{Serbatoio di Sospensione Rotto}
 {55601}{}{Un pezzo di equipaggiamento rotto. Non e' riparabile.}
-{55700}{}{Mainframe}
+{55700}{}{Calcolatore Centrale}
 {55701}{}{Un enorme super computer. Probabilmente il computer dall'aspetto piu' potente che tu abbia mai visto.}
 {55800}{}{Piattaforma di Supporto}
 {55801}{}{Questa piattaforma sostiene l'enorme super computer al di sopra dei serbatoi di raffreddamento.}
-{55900}{}{Don't use}
-{56000}{}{Don't use}
+{55900}{}{Non usare}
+{56000}{}{Non usare}
 {56100}{}{Letto}
 {56101}{}{Un letto a castello stile militare. Sembra molto scomodo. Sembra anche che potresti rimbalzare per mezzo metro, se ci saltassi sopra.}
 {56200}{}{Letto}

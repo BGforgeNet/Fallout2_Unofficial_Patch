@@ -177,7 +177,7 @@
 {620}{}{Beh, sono felice che tu sia riuscito a tornare.}
 {621}{}{Si', e' stato un raid molto duro.}
 {622}{}{Grazie. Le cose si sono messe piuttosto male, laggiu'.}
-{623}{}{Agra Moo ne!}
+{623}{}{Agra Mu' ne!}
 {630}{}{Oh, vuoi dei soldi? Vuoi essere pagato?}
 {631}{}{Yah.}
 {632}{}{Ugh.}

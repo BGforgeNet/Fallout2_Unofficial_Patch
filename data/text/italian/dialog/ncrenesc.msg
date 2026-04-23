@@ -188,7 +188,7 @@
 {703}{}{Si'?}
 {704}{}{Ti ho mai parlato di Arroyo, il mio villaggio?}
 {706}{}{Hai venduto del Jet a Richard Wright?}
-{707}{}{Sono venuto a prendere il tributo per Mr. Salvatore.}
+{707}{}{Sono venuto a prendere il tributo per Don Salvatore.}
 {710}{}{Sto cercando dei pezzi di ricambio per la miniera di Broken Hills...}
 {711}{}{Hai un vocabolario interessante... sei di queste parti?}
 {712}{}{Lasciamo perdere. }
@@ -253,17 +253,17 @@
 {855}{}{NON ne ho idea. Non conoscevo il ragazzo, per cui non conosco i suoi amici O le sue abitudini. L'unico che potrebbe dirtelo con certezza e' troppo occupato a fare il morto al Golgotha per dirtelo.}
 {856}{}{Golgotha?}
 {858}{}{Ci pensero'. Addio. }
-{865}{}{Allora hai fatto un viaggio per niente. Ho PAGATO a Mr. Salvatore il suo "omaggio" *due settimane fa*, come da programma. Io non so chi tu sia, o cosa tu creda di fare, ma non avrai un cent da me. Fuori!}
+{865}{}{Allora hai fatto un viaggio per niente. Ho PAGATO a Don Salvatore il suo "omaggio" *due settimane fa*, come da programma. Io non so chi tu sia, o cosa tu creda di fare, ma non avrai un cent da me. Fuori!}
 {866}{}{Senti, nonnetto. Smettila di farmi perdere tempo. Sputa fuori i soldi o ti ritroverai a sputare sangue.}
-{867}{}{Io rappresento Mr. Salvatore. Tu mi darai il tributo che ti ho chiesto, e lo farai subito.}
-{868}{}{Andro' ad informarmi da Mr. Salvatore riguardo al programma, poi tornero'. }
+{867}{}{Io rappresento Don Salvatore. Tu mi darai il tributo che ti ho chiesto, e lo farai subito.}
+{868}{}{Andro' ad informarmi da Don Salvatore riguardo al programma, poi tornero'. }
 {875}{}{Sei diventato sordo, ragazzo? }
 {876}{}{Sei diventata sorda, ragazza? }
 {877}{}{TI HO DETTO CHE HO. GIA'. PAGATO. IL. PIZZO. *Due settimane fa*. Se sei davvero un uomo di Salvatore, dovresti saperlo. Adesso smamma!}
 {878}{}{Senti. Per l'ultima volta: tira fuori i quattrini.}
-{879}{}{Sei tu quello che e' diventato sordo. Io rappresento Mr. Salvatore e tu pagherai il pizzo.}
+{879}{}{Sei tu quello che e' diventato sordo. Io rappresento Don Salvatore e tu pagherai il pizzo.}
 {880}{}{Ti avevo avvertito, nonnetto. Vorra' dire che dovro' procedere con le cattive. E' tempo di morire.}
-{881}{}{Mi informero' con Mr. Salvatore a proposito del pagamento, poi tornero'. }
+{881}{}{Mi informero' con Don Salvatore a proposito del pagamento, poi tornero'. }
 {890}{}{Dimostrami che sei un uomo di Salvatore, e PRENDERO' in considerazione la possibilita' di darti la grana. Altrimenti non avrai un cazzo da me.}
 {891}{}{Non ho bisogno di dimostrare un bel nulla. Io sono il suo rappresentante, e questo e' tutto quello che ti serve sapere.}
 {892}{}{Cosa? Credi che questa pistola laser ce l'abbia per bellezza?}
@@ -271,8 +271,8 @@
 {900}{}{Vattene via, delinquente da quattro soldi! Fa' vedere la tua faccia qui dentro un'altra volta e ti uccidero' con le mie mani!}
 {901}{}{Ti avevo avvisato. Preparati a morire.}
 {910}{}{Hmmmph. Non ha importanza, non posso pagare. L'ultima 'donazione' mi ha lasciato praticamente a secco.}
-{911}{}{Questo non mi interessa. Tu mi darai quei soldi adesso. Mr. Salvatore non ha voglia di sentire le tue scuse.}
-{920}{}{Minacciarmi non ti sara' d'aiuto. Mr. Salvatore vuole i suoi soldi. Io non li ho. S'incazzera' con me, ma anche con te. A Salvatore non PIACCIONO le persone che lo deludono...farai meglio ad escogitare in fretta qualcosa.}
+{911}{}{Questo non mi interessa. Tu mi darai quei soldi adesso. Don Salvatore non ha voglia di sentire le tue scuse.}
+{920}{}{Minacciarmi non ti sara' d'aiuto. Don Salvatore vuole i suoi soldi. Io non li ho. S'incazzera' con me, ma anche con te. A Salvatore non PIACCIONO le persone che lo deludono...farai meglio ad escogitare in fretta qualcosa.}
 {921}{}{L'ho gia' fatto. Paghero' la tua parte, per questa volta. In cambio, tu mi farai degli sconti nel tuo negozio.}
 {924}{}{Cerchero' di inventarmi qualcosa... tornero'.}
 {930}{}{Aspetta un secondo, Neanderthaliano...}

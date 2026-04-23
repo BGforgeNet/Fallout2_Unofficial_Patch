@@ -34,7 +34,7 @@
 {181}{}{Cosa vuoi?}
 {182}{}{Whiskey.}
 {183}{}{Niente. Me ne stavo andando.}
-{184}{}{Wahdo a peedee!}
+{184}{}{Wahdo un pideo!}
 {185}{}{E rimanici, la' fuori!}
 {186}{}{[ESCI]}
 {187}{}{Non voglio tipi come te nel mio locale! Fuori di qui!}
