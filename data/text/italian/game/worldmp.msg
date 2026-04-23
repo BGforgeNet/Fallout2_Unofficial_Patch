@@ -8,9 +8,9 @@
 {213}{}{Centro di Comando}
 {220}{}{Ingresso}
 {221}{}{Giardino}
-{222}{}{Brahmin Pen}
+{222}{}{Recinto dei Brahmin}
 {230}{}{Ingresso}
-{231}{}{Crash House}
+{231}{}{Topaia}
 {232}{}{Casino'}
 {240}{}{Base}
 {250}{}{Hotel}
@@ -18,9 +18,9 @@
 {252}{}{Impianto Idrico}
 {260}{}{Ingresso}
 {261}{}{Centro citta'}
-{262}{}{Heights}
+{262}{}{Alture}
 {263}{}{Old Town}
-{264}{}{Merchants}
+{264}{}{Mercanti}
 {265}{}{Grotta}
 {270}{}{Ingresso}
 {271}{}{Level 1}
@@ -28,19 +28,19 @@
 {273}{}{Level 3}
 {274}{}{Level 4}
 {280}{}{Ingresso}
-{281}{}{Stronghold Level 1}
-{282}{}{Stronghold Level 2}
-{283}{}{Vats Level 1}
-{284}{}{Vats Level 2}
-{290}{}{Crater}
+{281}{}{Fortezza - Livello 1}
+{282}{}{Fortezza - Livello 2}
+{283}{}{Vats Livello 1}
+{284}{}{Vats Livello 2}
+{290}{}{Cratere}
 {291}{}{Level 1}
 {300}{}{Adytum}
 {301}{}{Centro citta'}
 {302}{}{Biblioteca}
-{303}{}{Fortress}
+{303}{}{Fortezza}
 {304}{}{Magazzino}
 {310}{}{Ingresso}
-{311}{}{Interior}
+{311}{}{Interno}
 {500}{}{Hai guadagnato 10,000 punti esperienza!}
 {501}{}{Rovine}
 {1000}{}{Deserto}

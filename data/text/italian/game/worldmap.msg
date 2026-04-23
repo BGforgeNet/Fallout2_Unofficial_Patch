@@ -7,7 +7,7 @@
 {211}{}{Zona Est}
 {212}{}{Zona Residenziale}
 {220}{}{Centro citta'}
-{221}{}{Trapper Town}
+{221}{}{Città dei Trapper}
 {222}{}{Grotte dei Ratti}
 {223}{}{Territorio di Caccia}
 {224}{}{Pascolo}
@@ -60,7 +60,7 @@
 {324}{}{Level 4}
 {330}{}{Centro citta'}
 {331}{}{Miniera del Grande Wanamingo}
-{332}{}{Wanamingo Mine}
+{332}{}{Miniera di Wanamingo}
 {333}{}{Campo Minerario}
 {334}{}{Tunnel del Centro}
 {335}{}{Tunnel della Miniera}
