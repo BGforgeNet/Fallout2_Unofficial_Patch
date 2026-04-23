@@ -121,8 +121,8 @@
 {547}{}{ e impugna %s con %d/%d munizioni %s.}
 {548}{}{L'automobile non sembra funzionare.}
 {549}{}{L'automobile ha il %d%% di carburante.}
-{550}{}{\nError: lookup_val out of range!}
-{551}{}{\nError: obj_examine: proto_ptr failed!}
+{550}{}{\nErrore: lookup_val fuori intervallo!}
+{551}{}{\nErrore: obj_examine: proto_ptr non riuscito!}
 {580}{}{Usi %s.}
 {581}{}{Usi %s su %s.}
 {582}{}{Non ha effetto.}

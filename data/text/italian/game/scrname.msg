@@ -13,7 +13,7 @@
 {113}{}{Porta}
 {114}{}{Generico}
 {115}{}{Baule}
-{116}{}{Lockbox}
+{116}{}{Cassaforte}
 {117}{}{un Brahmin}
 {118}{}{una Pianta Sporigena}
 {119}{}{}
@@ -167,8 +167,8 @@
 {267}{}{BrainBot}
 {268}{}{Ascensore}
 {269}{}{Ascensore}
-{270}{}{Lockbox}
-{271}{}{Lockbox}
+{270}{}{Cassaforte}
+{271}{}{Cassaforte}
 {272}{}{Tandi}
 {273}{}{Trappola-Lancia}
 {274}{}{Trappola-Lancia}
@@ -309,13 +309,13 @@
 {409}{}{Map Script}
 {410}{}{Corvega}
 {411}{}{Map Script}
-{412}{}{Metal Door}
+{412}{}{Porta in Metallo}
 {413}{}{Map Script}
 {414}{}{Map Script}
 {415}{}{Map Script}
-{416}{}{Lockbox}
-{417}{}{Lockbox}
-{418}{}{Lockbox}
+{416}{}{Cassaforte}
+{417}{}{Cassaforte}
+{418}{}{Cassaforte}
 {419}{}{Ratch}
 {420}{}{un Pugile}
 {421}{}{Pete McKneely}
@@ -664,7 +664,7 @@
 {764}{}{Porta}
 {765}{}{Map Script}
 {766}{}{Trap Door}
-{767}{}{Lockbox}
+{767}{}{Cassaforte}
 {768}{}{Room}
 {769}{}{Thomas Moore}
 {770}{}{Porta}

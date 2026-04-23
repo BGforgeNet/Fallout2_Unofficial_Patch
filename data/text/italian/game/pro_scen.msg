@@ -1239,7 +1239,7 @@
 {65500}{}{Tubatura}
 {65600}{}{Generatore Elettrico}
 {65601}{}{Un generatore elettrico Wattz ElectroBox. Il tipo di generatore ausiliario piu' usato prima della Guerra.}
-{65700}{}{Tank}
+{65700}{}{Cisterna}
 {65701}{}{Una grande cisterna d'acqua. Sembra ben conservata, il che e' probabilmente una buona cosa.}
 {65800}{}{Cassetta della Polizia}
 {65801}{}{Una cassetta della polizia dal Regno Unito, 1960 circa.}
@@ -2028,7 +2028,7 @@
 {117000}{}{Porta}
 {117100}{}{Tubature}
 {117101}{}{Un gruppo di tubi che entrano nel reattore.}
-{117200}{}{Tank}
+{117200}{}{Cisterna}
 {117300}{}{Gazie}
 {117400}{}{Gazie}
 {117500}{}{Gazie}
@@ -2047,7 +2047,7 @@
 {118800}{}{Carbone}
 {118900}{}{Macchina}
 {118901}{}{Un pezzo di equipaggiamento generico per il reattore.}
-{119000}{}{Tank}
+{119000}{}{Cisterna}
 {119100}{}{Fuoco}
 {119200}{}{Acqua}
 {119300}{}{Cartello: Trapper Town}
@@ -2442,21 +2442,21 @@
 {154900}{}{Campo di Forza}
 {155000}{}{Unita' di Estrazione Organi}
 {155001}{}{L'ultimo modello della serie chirurgica "Fallo da Solo" della Vault-Tec. Rimuove automaticamente gli organi con la semplice pressione di un tasto.}
-{155100}{}{Shuttle}
-{155200}{}{Shuttle}
-{155300}{}{Shuttle}
-{155400}{}{Shuttle}
-{155500}{}{Shuttle}
-{155600}{}{Shuttle}
-{155700}{}{Shuttle}
-{155800}{}{Shuttle}
-{155900}{}{Shuttle}
-{156000}{}{Shuttle}
-{156100}{}{Shuttle}
-{156200}{}{Shuttle}
-{156300}{}{Shuttle}
-{156400}{}{Shuttle}
-{156500}{}{Shuttle}
+{155100}{}{Navetta}
+{155200}{}{Navetta}
+{155300}{}{Navetta}
+{155400}{}{Navetta}
+{155500}{}{Navetta}
+{155600}{}{Navetta}
+{155700}{}{Navetta}
+{155800}{}{Navetta}
+{155900}{}{Navetta}
+{156000}{}{Navetta}
+{156100}{}{Navetta}
+{156200}{}{Navetta}
+{156300}{}{Navetta}
+{156400}{}{Navetta}
+{156500}{}{Navetta}
 {156600}{}{Ombra}
 {156700}{}{Ombra}
 {156800}{}{Ombra}

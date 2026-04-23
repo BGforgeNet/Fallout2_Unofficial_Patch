@@ -7,7 +7,7 @@
 {212}{}{Alloggi}
 {213}{}{Centro di Comando}
 {220}{}{Ingresso}
-{221}{}{Garden}
+{221}{}{Giardino}
 {222}{}{Brahmin Pen}
 {230}{}{Ingresso}
 {231}{}{Crash House}

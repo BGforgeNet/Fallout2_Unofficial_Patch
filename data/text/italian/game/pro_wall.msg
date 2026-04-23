@@ -87,7 +87,7 @@
 {8200}{}{Tubature}
 {8300}{}{Tubatura}
 {8400}{}{Tubatura}
-{8500}{}{Gizmo}
+{8500}{}{Aggeggio}
 {8600}{}{Palizzata in Legno}
 {8700}{}{Palizzata in Legno}
 {8800}{}{Palizzata in Legno}
