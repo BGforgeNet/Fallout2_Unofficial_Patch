@@ -80,7 +80,7 @@
 {306}{}{Res. al Veleno   }
 {307}{}{Res. a Radiaz.}
 {308}{editor}{Sequenza}
-{309}{editor}{Tass. Guarigione}
+{309}{editor}{Tas. Guarigione}
 {310}{editor}{% Colpi Critici}
 {311}{editor}{Cap. Trasporto}
 {312}{}{Avvelenato}
