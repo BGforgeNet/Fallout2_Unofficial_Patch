@@ -44,7 +44,7 @@
 {144}{}{Trova-Piste}
 {145}{}{Amico degli Animali}
 {146}{}{Esploratore}
-{147}{}{la Straniera Mistriosa}
+{147}{}{Straniero Misterioso}
 {148}{}{Ranger}
 {149}{}{Tasche Rapide}
 {150}{}{Fine Dicitore}

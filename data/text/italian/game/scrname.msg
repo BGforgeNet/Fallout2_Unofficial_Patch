@@ -729,7 +729,7 @@
 {829}{}{il Figuro Incappucciato}
 {830}{}{un Compratore di Bestiame}
 {831}{}{Script Mappa}
-{832}{}{la Straniera Mistriosa}
+{832}{}{Straniero Misterioso}
 {833}{}{Brahmin Pazzo}
 {834}{}{un Membro della Yakuza}
 {835}{}{una Selvaggia}

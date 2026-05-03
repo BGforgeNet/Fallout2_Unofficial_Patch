@@ -284,8 +284,8 @@
 {26700}{}{un Uomo del Vault 13}
 {26800}{}{una Donna del Vault 13}
 {26900}{}{il Guardiano del Ponte}
-{27000}{}{la Straniera Mistriosa}
-{27100}{}{la Straniera Mistriosa}
+{27000}{}{Straniero Misterioso}
+{27100}{}{Straniero Misterioso}
 {27200}{}{Hakeswill}
 {27300}{}{Big Jesus Mordino}
 {27400}{}{Dumar}
@@ -294,14 +294,14 @@
 {27700}{}{Lo Pan}
 {27800}{}{una Hubologista}
 {27900}{}{una Hubologista}
-{28000}{}{la Straniera Mistriosa}
-{28100}{}{la Straniera Mistriosa}
-{28200}{}{la Straniera Mistriosa}
-{28300}{}{la Straniera Mistriosa}
-{28400}{}{la Straniera Mistriosa}
-{28500}{}{la Straniera Mistriosa}
-{28600}{}{la Straniera Mistriosa}
-{28700}{}{la Straniera Mistriosa}
+{28000}{}{Straniero Misterioso}
+{28100}{}{Straniero Misterioso}
+{28200}{}{Straniero Misterioso}
+{28300}{}{Straniero Misterioso}
+{28400}{}{Straniero Misterioso}
+{28500}{}{Straniero Misterioso}
+{28600}{}{Straniero Misterioso}
+{28700}{}{Straniero Misterioso}
 {28800}{}{il Gorilla del Pres}
 {28900}{}{un Uovo di Deathclaw}
 {29000}{}{Metzger}
