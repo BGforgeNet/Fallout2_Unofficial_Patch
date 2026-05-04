@@ -20,11 +20,11 @@
 {201}{}{...si', fai BENE ad andartene...}
 {202}{}{...Giovane Marmotta dei miei stivali...}
 {203}{}{...si', signore! Fottiti, signore!...}
-{300}{}{Aspetta un attimo. Cosa pensi di fare con quel vertibird? Non c'è nessun volo in programma nei prossimi giorni.}
+{300}{}{Aspetta un attimo. Cosa pensi di fare con quel vertibird? Non c'e' nessun volo in programma nei prossimi giorni.}
 {301}{}{Nrg?}
 {302}{}{Lo so.}
 {303}{}{Ah, scusa. Stavo solo dando un'occhiata. Me ne vado subito.}
-{304}{}{C'è stato un cambio di programma. Questo lo prendo io.}
+{304}{}{C'e' stato un cambio di programma. Questo lo prendo io.}
 {310}{}{Come? Oh, capisco. Guardare, ma non toccare. Okay? Toccalo un'altra volta e sei morto.}
 {311}{}{(Sorridi poi attacca.)}
 {312}{}{(Allontanati.)}
