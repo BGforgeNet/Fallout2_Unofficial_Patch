@@ -15,7 +15,7 @@
 {115}{}{Tiratore Scelto}
 {116}{}{Corsa Silenziosa}
 {117}{}{Corso di Sopravvivenza}
-{118}{}{una Maestra Mercante}
+{118}{}{Maestro Mercante}
 {119}{}{Istruito}
 {120}{}{Guaritore}
 {121}{}{Cacciatore di Tesori}
@@ -44,7 +44,7 @@
 {144}{}{Trova-Piste}
 {145}{}{Amico degli Animali}
 {146}{}{Esploratore}
-{147}{}{la Straniera Mistriosa}
+{147}{}{Straniero Misterioso}
 {148}{}{Ranger}
 {149}{}{Tasche Rapide}
 {150}{}{Fine Dicitore}

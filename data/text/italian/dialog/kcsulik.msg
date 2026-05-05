@@ -48,7 +48,7 @@
 {201}{}{Ehi, fino adesso ho sentito parlare solo te.}
 {210}{slk6h}{Noi andremo proprio d'accordo.}
 {211}{}{Magari ne riparliamo piu' tardi, ok? Ciao.}
-{220}{slk7}{Vic il traditore, tu dire. Viene a villaggio, dice che sa di schiavisti, dice di andare a trovarlo. Noi andati, lui non c'Ã¨.}
+{220}{slk7}{Vic il traditore, tu dire. Viene a villaggio, dice che sa di schiavisti, dice di andare a trovarlo. Noi andati, lui non c'e'.}
 {221}{}{Tua sorella e' stata presa dagli schiavisti?}
 {222}{}{Lascia che ti chieda qualcos'altro.}
 {223}{}{Credo sia tutto, per ora. Arrivederci.}

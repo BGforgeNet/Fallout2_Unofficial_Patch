@@ -337,7 +337,6 @@ Jeffrey Jones
 @Wszelkie prawa zastrzeżone. Chronione międzynarodowym prawem autorskim.
 @Użycie za zgodą.
 
-
 @OSTRZEŻENIE: Kopiowanie, powielanie lub reprodukowanie
 @tego Programu albo jakichkolwiek jego części bez pisemnej
 @zgody właściciela jest naruszeniem prawa autorskiego.
@@ -395,21 +394,6 @@ Paul Naftalis
 
 @Fallout 2 został dla was stworzony przez Interplay Productions,
 @Team Fallout 2, literkę Q oraz numerki 42 i 20.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

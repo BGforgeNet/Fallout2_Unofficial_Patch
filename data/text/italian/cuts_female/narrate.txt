@@ -13,11 +13,11 @@
 13:Alcuni sono stati abbastanza fortunati da raggiungere la salvezza, rintanandosi in grandi vault sotterranei.
 14:Quando la grande oscurità passò, i vault si aprirono e i loro abitanti emersero per iniziare nuovamente le loro vite.
 15:Una delle tribu' del nord reclama la discendenza dalla gente di uno di questi Vault.
-16:Credono che il loro fondatore e antenato, colui che è ricordato come il “Abitante del Vault”, abbia un tempo salvato il mondo da un grande male.
+16:Credono che il loro fondatore e antenato, colui che e' ricordato come il “Abitante del Vault”, abbia un tempo salvato il mondo da un grande male.
 17:Secondo le loro leggende, questo Male sorse dal profondo sud.
 18:Ha corrotto tutto cio' che ha toccato, stravolgendo gli uomini dall'interno, trasformandoli in bestie.
-19:Solo grazie al coraggio di questo abitante del Vault il male è stato sconfitto.
-20:Ma così facendo perse molti dei suoi amici e soffrì enormemente, sacrificando gran parte di sé pur di salvare il mondo.
+19:Solo grazie al coraggio di questo abitante del Vault il male e' stato sconfitto.
+20:Ma cosi' facendo perse molti dei suoi amici e soffri' enormemente, sacrificando gran parte di se' pur di salvare il mondo.
 21:Quando alla fine torno' alla casa per cui aveva combattuto cosi' duramente, fu scacciato.
 22:Esiliato.
 23:Affrontando ciò che temevano, ai loro occhi era diventato qualcos’altro… e non più il loro campione.
