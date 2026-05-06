@@ -25,6 +25,9 @@ git checkout -- release
 git clean -fd release
 git clean -fdX release
 
+# Drop json dumps from data if any
+find data -name "*.json" -delete
+
 # translations packaged first, to get extra text out of the way
 # shellcheck disable=SC2154  # extra_dir from env.sh
 "$extra_dir"/package/translations.sh
