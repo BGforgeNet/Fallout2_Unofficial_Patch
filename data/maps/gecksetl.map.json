@@ -26223,7 +26223,7 @@
                       "fid": 41,
                       "flags": -1610612728,
                       "elevation": 0,
-                      "pid": 305,
+                      "pid": 223,
                       "cid": -1,
                       "lightDistance": 0,
                       "lightIntensity": 0,
@@ -26240,7 +26240,7 @@
                       "dataFlags": 0
                     },
                     "subtypeData": {
-                      "subType": 5,
+                      "subType": 6,
                       "values": [
                         -858993460
                       ]
