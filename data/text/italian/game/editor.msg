@@ -17,7 +17,7 @@
 {116}{}{PUNTI CARISMA}
 {117}{}{ABILITA'}
 {118}{}{Devi usare tutti i punti personaggio}
-{119}{}{comprese tra 1 e 10 prima di cominciare!}
+{119}{}{prima di iniziare il gioco!}
 {120}{}{Punti personaggio}
 {121}{}{Ammontare di punti personaggio gratuiti che possono essere aggiunti a una delle tue caratteristiche di base.}
 {122}{}{Prossimo Livello}
@@ -41,7 +41,7 @@
 {140}{}{Hai gia' un massimo di}
 {141}{}{tre "Scelte"!}
 {142}{}{Devi selezionare tutte le "Scelte"}
-{143}{}{comprese tra 1 e 10 prima di cominciare!}
+{143}{}{prima di iniziare il gioco!}
 {144}{}{"Scelte"}
 {145}{}{Le "Scelte" sono abilita' nelle quali il tuo personaggio si specializza. Ogni abilita' "Scelta" prende un bonus +20% e aumenta al doppio della velocita'. Devi selezionare tre "Scelte".}
 {146}{}{Tratti Opzionali}
@@ -56,7 +56,7 @@
 {155}{}{SCEGLI UN NUOVA "SCELTA"}
 {156}{}{TRATTI}
 {157}{}{Tutte le caratteristiche devono essere}
-{158}{}{comprese tra 1 e 10 prima di cominciare!}
+{158}{}{prima di iniziare il gioco!}
 {160}{}{Attento: non hai inserito un nome}
 {161}{}{Utilizzi lo stesso il personaggio?}
 {175}{}{Pr. Lvl:}

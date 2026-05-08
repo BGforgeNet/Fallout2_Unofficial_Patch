@@ -217,7 +217,7 @@
 {317}{}{Pozzo}
 {318}{}{Gruthar}
 {319}{}{Script Mappa}
-{320}{}{Skeeter}
+{320}{}{Doofus}
 {321}{}{Nagor}
 {322}{}{Smoke}
 {323}{}{Ncr Area 1}
@@ -502,7 +502,7 @@
 {602}{}{un Ladro di Bestiame}
 {603}{}{un Abusivo}
 {604}{}{un Abolizionista}
-{605}{}{un Donna Contrabbandiere}
+{605}{}{una Contrabbandiera}
 {606}{}{Super mutanti}
 {607}{}{un Pescatore}
 {608}{}{Schiavista}
@@ -1291,7 +1291,7 @@
 {1391}{}{}
 {1392}{}{}
 {1393}{}{}
-{1394}{}{un Donna Contrabbandiere}
+{1394}{}{una Contrabbandiera}
 {1395}{}{}
 {1396}{}{}
 {1397}{}{un ragazzetto}

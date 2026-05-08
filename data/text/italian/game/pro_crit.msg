@@ -160,7 +160,7 @@
 {14400}{}{Tandi}
 {14500}{}{Mercenario}
 {14600}{}{Ratch}
-{14700}{}{Skeeter}
+{14700}{}{Doofus}
 {14800}{}{Mikey}
 {14900}{}{il Barista di NCR}
 {15000}{}{un Negoziante}
@@ -248,8 +248,8 @@
 {23100}{}{una Pescatrice}
 {23200}{}{una Selvaggia}
 {23300}{}{una Selvaggia}
-{23400}{}{un Donna Contrabbandiere}
-{23500}{}{un Donna Contrabbandiere}
+{23400}{}{una Contrabbandiera}
+{23500}{}{una Contrabbandiera}
 {23600}{}{una Cercatrice}
 {23700}{}{una Cercatrice}
 {23800}{}{una Predone}
