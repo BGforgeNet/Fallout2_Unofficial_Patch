@@ -746,7 +746,7 @@
 {846}{}{un Lavoratore del Porto}
 {847}{}{un Contadino}
 {848}{}{una Guardia}
-{849}{}{Guerriero}
+{849}{}{Cameron}
 {850}{}{Porta}
 {851}{}{Klint}
 {852}{}{Coltivazioni}
