@@ -3386,13 +3386,13 @@
 {44547}{}{Wznawianie ataku}
 {44548}{}{Przeprowadzanie ataku.}
 {44549}{}{Próba eliminacji zagrożenia}
-{44560}{}{Engaging evasive maneuvers.}
+{44560}{}{Rozpoczynam manewry wymijające.}
 {44561}{}{Protokół obronny Beta rozpoczęty}
 {44562}{}{Wrogie zdolności strzeleckie poniżej oczekiwań. Rewaluacja poziomu zagrożenia.}
-{44563}{}{Enemy missed. Recalculating enemy's offensive capability.}
+{44563}{}{Wróg chybił. Ponowna kalkulacja potencjału bojowego celu.}
 {44564}{}{Analiza: efektywność wroga minimalna.}
-{44565}{}{Analysis: evasive maneuvers successful.}
-{44566}{}{Unit is undamaged.}
+{44565}{}{Analiza. Manewry wymijające - wykonane.}
+{44566}{}{Cel nieuszkodzony.}
 {44800}{}{Może mam twardą czaszkę, ale i tak mnie bolało.}
 {44801}{}{Mam teraz niezłą migrenę.}
 {44802}{}{Uch. Tylko nie w głowę!}

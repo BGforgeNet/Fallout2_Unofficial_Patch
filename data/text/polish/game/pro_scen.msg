@@ -1454,7 +1454,7 @@
 {76400}{}{monitory}
 {76401}{}{Nic nie widzisz - monitory są dokumentnie zachlapane jakimś świństwem.}
 {76500}{}{podłoga}
-{76501}{}{You would swear that there is something moving on the floor.}
+{76501}{}{Mógłbyś przysiąc, że coś porusza się po podłodze.}
 {76600}{}{piedestał}
 {76601}{}{Piedestał sprawia wrażenie jakby powoli robił wdech i wydech.}
 {76700}{}{podłoga}
@@ -2264,9 +2264,9 @@
 {137700}{}{Latacz}
 {137701}{}{Duży samolot wojskowy.}
 {137800}{}{zniszczone wrota}
-{137801}{}{The power station door is destroyed.}
+{137801}{}{Drzwi do elektrowni zostały zniszczone.}
 {137900}{}{zniszczone wrota}
-{137901}{}{The power station door is destroyed.}
+{137901}{}{Drzwi do elektrowni zostały zniszczone.}
 {138000}{}{ściana}
 {138100}{}{ściana}
 {138200}{}{ściana}

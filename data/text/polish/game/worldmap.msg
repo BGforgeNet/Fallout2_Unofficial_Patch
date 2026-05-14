@@ -80,9 +80,9 @@
 {364}{}{Kwatery prezydenta}
 {365}{}{Reaktor}
 {366}{}{Pokój pułapek}
-{370}{}{Error:Blank}
-{380}{}{Error:Blank}
-{390}{}{Error:Blank}
+{370}{}{Błąd w trakcie wczytywania}
+{380}{}{Błąd w trakcie wczytywania}
+{390}{}{Błąd w trakcie wczytywania}
 {400}{}{Miasto Duchów}
 {401}{}{Główna grota}
 {402}{}{Podziemne jezioro}

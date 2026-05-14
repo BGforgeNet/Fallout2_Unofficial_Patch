@@ -22,7 +22,7 @@
 {121}{}{Zostaw nas.}
 {122}{}{Jesteśmy pokojowym plemieniem.}
 {200}{}{Oh, podróżnik. Wybacz, że nie mamy namiotu aby móc ci użyczyć jego cienia przed palącym słońcem pustkowi. Proszę odpocznij trochę, abyśmy mogli porozmawiać.}
-{201}{}{Thank you; I graciously accept your offer.}
-{202}{}{How unfortunate. Rest a moment then; you are welcome among us.}
-{203}{}{I do hope you found what you needed. Anything else?}
-{204}{}{Not today. I must be going.}
+{201}{}{Dzięki ci; z wdzięcznością przyjmuje twoją ofertę.}
+{202}{}{Co za pech. Odpocznij więc; jesteś mile widziany wśród nas.}
+{203}{}{Mam nadzieję że znalazłeś to czego szukałeś. Coś jeszcze?}
+{204}{}{Nie dzisiaj. Muszę iść.}
