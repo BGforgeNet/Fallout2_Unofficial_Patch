@@ -33,74 +33,46 @@
 /* Penalties for Lock difficulty based on whether or not you are using lockpicks. */
 #define Lock_Bonus                      (-80)
 
-#define CHECK_REPAIR                    (2)
-import variable repair_bot1;
-import variable repair_bot2;
-import variable repair_bot3;
+procedure Check_Repair(variable Cur_Var);
 
-#define custom_timed_event_p_proc
-#define custom_map_enter_p_proc
+#define custom_map_update_p_proc
 #include "../headers/doors.h"
 
+/**************************************************************************************
+   This procedure gets called roughly every 30 seconds of real time. It is used to make
+   sure that the door does not lock on it's own and that the player will be able to get
+   through once he has unlocked the door. Once more, this is so that locking and
+   unlocking do not need to be done in Mapper.
+**************************************************************************************/
 
-
-procedure timed_event_p_proc begin
-   //added by killap - expansion
-   if (fixed_param == CHECK_REPAIR) then begin
-      if (repair_bot1 > 0 or repair_bot2 > 0 or repair_bot3 > 0) then begin
-         if ( (map_var(MVAR_Repair_Request1) > REPAIR_NONE) or (map_var(MVAR_Repair_Request2) > REPAIR_NONE) or (map_var(MVAR_Repair_Request3) > REPAIR_NONE) or
-            (map_var(MVAR_Repair_Request4) > REPAIR_NONE) or (map_var(MVAR_Repair_Request5) > REPAIR_NONE) or (map_var(MVAR_Repair_Request6) > REPAIR_NONE) or
-            (map_var(MVAR_Repair_Request7) > REPAIR_NONE) or (map_var(MVAR_Repair_Request8) > REPAIR_NONE) or (map_var(MVAR_Repair_Request9) > REPAIR_NONE) or
-            (map_var(MVAR_Repair_Request10) > REPAIR_NONE) or (map_var(MVAR_Repair_Request11) > REPAIR_NONE) or (map_var(MVAR_Repair_Request12) > REPAIR_NONE) ) then begin
-
-            if ( (self_elevation == 0 and (map_var(MVAR_Security_Level_1) == 1)) or (self_elevation == 1 and (map_var(MVAR_Security_Level_2) == 1)) or (self_elevation == 2 and ((map_var(MVAR_Security_Level_3) == 1) or (global_var(GVAR_SIERRA_BASE_ENEMY) == 1))) ) then begin
-
-
-               if ((self_elevation == 0 and ((elevation(repair_bot1) == 0 or elevation(repair_bot2) == 0  or elevation(repair_bot3) == 0)) and
-               ((tile_in_box(tile_num(repair_bot1), 19326, 19319, 21119, 21126)) or
-               (tile_in_box(tile_num(repair_bot2), 19326, 19319, 21119, 21126)) or
-               (tile_in_box(tile_num(repair_bot3), 19326, 19319, 21119, 21126)))) or
-
-               ((self_elevation == 2) and ((elevation(repair_bot1) == 2 or elevation(repair_bot2) == 2  or elevation(repair_bot3) == 2)) and
-               ((tile_in_box(tile_num(repair_bot1), 20143, 20137, 21937, 21944)) or
-               (tile_in_box(tile_num(repair_bot2), 20143, 20137, 21937, 21944)) or
-               (tile_in_box(tile_num(repair_bot3), 20143, 20137, 21937, 21944)))) or
-
-               ((((elevation(repair_bot1) == 1 and self_elevation == 1) or (elevation(repair_bot2) == 1 and self_elevation == 1) or (elevation(repair_bot2) == 1 and self_elevation == 1)) and map_var(MVAR_Security_Level_2) == 1) or ((tile_distance(self_tile,tile_num(repair_bot1)) < 5 and is_visible(repair_bot1) and elevation(repair_bot1) == self_elevation) or (tile_distance(self_tile,tile_num(repair_bot2)) < 5 and is_visible(repair_bot2) and elevation(repair_bot2) == self_elevation) or (tile_distance(self_tile,tile_num(repair_bot3)) < 5 and is_visible(repair_bot3) and elevation(repair_bot3) == self_elevation)))) then begin
-                  obj_unlock(self_obj);
-               end else begin
-                  if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-                     obj_lock(self_obj);
-                  end
-               end
-            end
-         end else begin
-            if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-               obj_lock(self_obj);
-            end
-         end
-         add_timer_event(self_obj, 1, CHECK_REPAIR);
-      end
+procedure map_update_p_proc begin
+   if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+       obj_close(self_obj);
+       obj_lock(self_obj);
    end
-   //end added
 
-   if (obj_is_open(self_obj)) then begin
-     if not combat_is_initialized then begin
-       if ((tile_distance_objs(dude_obj, self_obj) > DOOR_CLOSE_DIST) and
-       (checkPartyMembersNearDoor == false) and
-       ((tile_distance_objs(self_obj, last_source_obj) > DOOR_CLOSE_DIST) or
-       (critter_state(last_source_obj) == CRITTER_IS_DEAD))) then begin
-         obj_close(self_obj);
-       end else begin
-         add_timer_event(self_obj, 10, TIMER_CLOSE);
-       end
-     end else begin
-       add_timer_event(self_obj, 10, TIMER_CLOSE);
-     end
+   else begin
+       obj_unlock(self_obj);
    end
+
+   call Check_Repair(MVAR_Repair_Request1);
+   call Check_Repair(MVAR_Repair_Request2);
+   call Check_Repair(MVAR_Repair_Request3);
+   call Check_Repair(MVAR_Repair_Request4);
+   call Check_Repair(MVAR_Repair_Request5);
+   call Check_Repair(MVAR_Repair_Request6);
 end
 
-procedure map_enter_p_proc begin
-   call map_enter_p_proc_vanilla;
-   add_timer_event(self_obj, 1, CHECK_REPAIR); //added by killap
+/***************************************************************************
+   This procedure will check against the roll_vs_lockpick to see if the
+   source_object will unlock the door and display the appropriate messages
+***************************************************************************/
+
+procedure Check_Repair(variable Cur_Var) begin
+   if (cur_map_index == MAP_SIERRA_123) then begin
+       if ((map_var(Cur_Var) != 0) and (self_tile == 20118)) then begin
+           obj_unlock(self_obj);
+           ndebug("unlocking door for repair bot");
+       end
+   end
 end
