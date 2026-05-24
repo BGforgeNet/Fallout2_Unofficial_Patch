@@ -22,11 +22,10 @@
 
 
 /* Include Files */
-#ifndef SCRIPT_REALNAME //kivicdoor includes this file, need to avoid warning
-#define SCRIPT_REALNAME "ziwoddor"
+#ifndef SCRIPT_REALNAME // kivicdoor includes this file, need to avoid warning
+  #define SCRIPT_REALNAME "ziwoddor"
 #endif
 #include "../headers/define.h"
-
 #include "../sfall/define_extra.h"
 
 #define NAME                    SCRIPT_DOOR
