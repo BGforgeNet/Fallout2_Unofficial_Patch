@@ -110,6 +110,7 @@ procedure Super_Set_Lockpick_Lock;
 procedure trap_search_result(variable found_trap, variable who);
 procedure real_explosion(variable explosive);
 procedure roll_critical;
+procedure map_enter_p_proc_vanilla;
 /*****************************************************************
 Local Variables which are saved. All Local Variables need to be
 prepended by LVAR_
@@ -1214,6 +1215,28 @@ on your lockpick and traps skills and perception to notice things.
   end
 #endif
 
+/**
+ * Standard door/container map_enter_p_proc, full body split for easy reuse in customized scripts
+ */
+procedure map_enter_p_proc_vanilla begin
+  /* Don't change state when player is already on the map */
+  if is_loading_game then return;
+
+  /* Set up the state vars when the player first enters the map */
+  if (local_var(LVAR_Set_Door_Status) == 0) then begin
+    set_local_var(LVAR_Set_Door_Status, 1);
+    set_local_var(LVAR_Locked, LOCKED_STATUS);
+    set_local_var(LVAR_Trapped, TRAPPED_STATUS);
+  end
+
+  /* Set up the state when the player enters the map */
+  if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
+    call close_and_lock_self;
+  end else begin
+    obj_unlock(self_obj);
+  end
+end
+
 /***************************************************************************************
 Whenever the map is first entered, this procedure will be called. The main purpose of
 this procedure is to lock the door from the outset, rather than having to worry about
@@ -1222,24 +1245,10 @@ the player locks it once more.
 ***************************************************************************************/
 #ifndef custom_map_enter_p_proc
   procedure map_enter_p_proc begin
-    /* Set up the door state when the player first enters the map */
-    if (local_var(LVAR_Set_Door_Status) == 0) then begin
-      set_local_var(LVAR_Set_Door_Status,1);
-      set_local_var(LVAR_Locked,LOCKED_STATUS);
-      set_local_var(LVAR_Trapped,TRAPPED_STATUS);
-    end
-    if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-      // Ensure that we don't have objects "locked open"
-      if obj_is_open(self_obj) then begin
-        obj_close(self_obj);
-      end
-      // Ensure locked status
-      obj_lock(self_obj);
-    end else begin
-      obj_unlock(self_obj);
-    end
+    call map_enter_p_proc_vanilla;
   end
 #endif
+
 /**************************************************************************************
 This procedure gets called roughly every 30 seconds of real time. It is used to make
 sure that the door does not lock on it's own and that the player will be able to get

@@ -474,24 +474,26 @@ this procedure is to lock the door from the outset, rather than having to worry 
 it through Mapper. After the door has been unlocked, it will remain as such, unless
 the player locks it once more.
 ***************************************************************************************/
-
 procedure map_enter_p_proc begin
-  /* Set up the door state when the player first enters the map */
-  if (is_loading_game == false) then begin
+    /* Don't change state when player is already on the map */
+    if is_loading_game then return;
+
+    /* Set up the state vars when the player first enters the map */
     if (local_var(LVAR_Set_Door_Status) == 0) then begin
-      set_local_var(LVAR_Set_Door_Status,1);
+      set_local_var(LVAR_Set_Door_Status, 1);
       obj_unlock(self_obj);
-      set_local_var(LVAR_Trapped,TRAPPED_STATUS);
+      set_local_var(LVAR_Trapped, TRAPPED_STATUS);
     end
 
+    // Repeating setup runs on every map enter (not game load to the same map)
+    // Some doors, like Rebecca's basement door, have dynamic LOCKED_STATUS. Active when she's alive, inactive when dead.
+    // Same for Eldrige, etc. They re-lock on re-entering the map.
     if (LOCKED_STATUS == STATE_ACTIVE) then begin
-      obj_lock(self_obj);
+      call close_and_lock_self;
     end else begin
       obj_unlock(self_obj);
     end
-  end
 end
-
 
 /**************************************************************************************
 This procedure gets called roughly every 30 seconds of real time. It is used to make
