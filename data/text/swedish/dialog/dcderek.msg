@@ -6,7 +6,7 @@
 {202}{}{Get out of my place.}
 {203}{}{Get your own place to sleep.}
 {204}{}{Stop bothering me.}
-{205}{}{I'm bushed.}
+{205}{}{Jag är helt slut.}
 {206}{}{Doh!}
 {207}{}{Hey, what are you doing here?}
 {220}{}{Håll dig borta från Metzger, stammedlem.}
@@ -60,4 +60,4 @@
 {313}{}{Hej då.}
 {314}{}{Ingenting.}
 {320}{}{Hey! Get away from me!}
-{321}{}{Don't touch me!}
+{321}{}{Rör mig inte!}
