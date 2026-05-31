@@ -46,18 +46,18 @@
 {290}{}{What? You! Screw you buddy! I'm not... Ow! Fuck.}
 {291}{}{What? You! Screw you lady! I'm not... Ow! Fuck.}
 {292}{}{Förbannat.}
-{293}{}{Nuf Said.}
-{300}{}{Oh yeah. I didn't like it. Too much kissing. I threw it in the corner of that building... no that building... no... was it a building? Maybe I dropped it somewhere else... or did I throw it? Ow! My head!}
-{301}{}{Book? Oh, that book. Who sent you? I'm not sure if that's the proper side. Don't forget the tissue.}
-{302}{}{I can't! They're... oh crap... Do you have the cheese? Hide!}
-{303}{}{Hey! Not my problem. What was I supposed to do? Fight them? Little green men, big pointy teeth! Fuck! Ouch! Stop that!}
-{304}{}{My head hurts! What... who said that?}
-{305}{}{That helps a lot.}
+{293}{}{Så e de'.}
+{300}{}{Jaha. Jag tyckte inte om den. För mycket kyssar. Jag slängde den i hörnet i den där byggnaden... nä den där byggnaden... nej... var det en byggnad? Kanske tappade jag den någon annanstans... eller kastade jag den? Aj! Mitt huvud!}
+{301}{}{Boken? Åh, den boken. Vem skickade dig? Jag är inte säker på om du står på rätt sida. Glöm inte näsduken.}
+{302}{}{Jag kan inte! De är... åh nej... Har du osten? Göm dig!}
+{303}{}{Hallå! Det är inte mitt problem. Vad skulle jag ha gjort? Slåss mot dem? Små gröna män med stora spetsiga tänder! Fan! Aj! Sluta med det där!}
+{304}{}{Mitt huvud gör ont! Vad... vem sa det där?}
+{305}{}{Det där hjälper verkligen.}
 {306}{}{Eh.}
-{310}{}{What? Are you mocking me! Screw you! I'm not unstable! I can cook! I don't have voices in my head!}
-{311}{}{I'm gonna- shit! Fuck! Damn it! Stop that. Be quiet! What?... Okay.}
-{312}{}{Hey! Sto- do... fuck.}
+{310}{}{Va? Driver du med mig! Dra åt helvete! Jag är inte instabil! Jag kan laga mat! Jag hör inga röster i huvudet!}
+{311}{}{Jag ska - fan! Skit också! Förbannat! Sluta med det där. Var tyst! Vadå?... Okej.}
+{312}{}{Hörru! Vänt- åh... fan.}
 {313}{}{Hej då.}
 {314}{}{Ingenting.}
-{320}{}{Hey! Get away from me!}
+{320}{}{Hallå! Lämna mig ifred!}
 {321}{}{Rör mig inte!}
