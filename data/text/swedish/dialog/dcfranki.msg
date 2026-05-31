@@ -86,9 +86,9 @@
 {231}{}{Go talk to Sheila. Hey, Sheila, you got a customer!}
 {232}{}{Wait, that's not what I want!}
 {233}{}{Tack. Hej då.}
-{234}{}{Yeah, I bet. You must have the damnedest time getting men. Try your luck somewhere else, sister. I ain't into no charities.}
-{235}{}{Fine! Something else then.}
-{236}{}{Why, you little...}
+{234}{}{Ja, det tror jag verkligen. Det måste vara en upplevelse för dig att försöka få tag på män. Leta vidare någon annanstans, syster. Välgörenhet är inte för mig.}
+{235}{}{Okej! Något annat då.}
+{236}{}{Åh, din lilla...}
 {237}{}{I don't need this from you!}
 {238}{}{Jag har ett rum där borta. Du och jag kan använda det.}
 {239}{}{OK.}
@@ -100,10 +100,10 @@
 {246}{}{Okej, vi ses senare.}
 {247}{}{Hej då.}
 {248}{}{Ja, ja, hur som helst. Städa upp efter dig den här gången, okej?}
-{249}{}{Hey, everyone! Let's hear it for Billy. He's actually getting some!}
-{250}{}{You need a mop?}
-{251}{}{See ya in five.}
-{252}{}{Sheila! Watch the bar!}
+{249}{}{Hej, allihop! En stor applåd för Billy. Han får faktiskt till det!}
+{250}{}{Behöver du en mopp?}
+{251}{}{Ses om fem.}
+{252}{}{Sheila! Håll koll på baren!}
 {253}{}{Hey, Billy, get outta here!}
 {254}{}{Now where were we?}
 {255}{}{Where are you, woman?}
