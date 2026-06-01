@@ -6,10 +6,10 @@
 {200}{}{I'm going to make it big some day.}
 {201}{}{Oh, leave me alone. I'm busy.}
 {202}{}{The master plan...}
-{203}{}{Going to figure it out some day...}
-{204}{}{Why do I always lose?}
-{205}{}{Tables must be rigged.}
-{206}{}{...I'll own my own place some day.}
+{203}{}{En dag kommer jag nog att lista ut det...}
+{204}{}{Varför förlorar jag alltid?}
+{205}{}{Borden måste vara riggade.}
+{206}{}{...En dag ska jag ha ett eget ställe.}
 {207}{}{Going to get nice clothes.}
 {220}{}{Hey, man! It's late. Leave me alone.}
 {221}{}{No, I don't need any company.}
