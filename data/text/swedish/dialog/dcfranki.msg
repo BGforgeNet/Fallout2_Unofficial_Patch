@@ -104,10 +104,10 @@
 {250}{}{Behöver du en mopp?}
 {251}{}{Ses om fem.}
 {252}{}{Sheila! Håll koll på baren!}
-{253}{}{Hey, Billy, get outta here!}
-{254}{}{Now where were we?}
-{255}{}{Where are you, woman?}
-{256}{}{Kan du komma in här?}
+{253}{}{Hörru, Billy, stick härifrån!}
+{254}{}{Var var vi nu igen?}
+{255}{}{Var är du, kvinna?}
+{256}{}{Kan du komma in hit?}
 {257}{}{Kom igen, älskling.}
 {258}{}{Follow me.}
 {259}{}{Ingen kvinna lämnar mig i sticket. Dra härifrån!}
