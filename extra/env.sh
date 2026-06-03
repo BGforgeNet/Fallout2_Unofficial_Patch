@@ -8,9 +8,9 @@ export bin_dir="$extra_dir/bin"
 release_dir="$(realpath release)"
 export release_dir
 export mods_dir="$release_dir/mods"
-export mpack_version=${mpack_version:-4.4.9}
+export mpack_version=${mpack_version:-4.5}
 export mpack_7z="mpack.7z"
-export sfall_version=${sfall_version:-4.4.9.1}
+export sfall_version=${sfall_version:-4.5}
 export mod_name=upu
 trans_dir="$(realpath translations)"
 export trans_dir
