@@ -4,7 +4,7 @@
 {200}{}{Draa hääifrån, din idiot.}
 {201}{}{Hörru, köttbullen! Ja, du. Draa hääirån.}
 {202}{}{Är du dum elle'?}
-{203}{}{Whatchur problem, eh?}
+{203}{}{Vad e de' me' dig, då?}
 {204}{}{Draa hääifrån, fö' i helvette}
 {220}{}{Hallå dä', jag ä' Flick. Vad i helvete vill du, va?}
 {221}{}{Now what? You wastin' my time heeya.}

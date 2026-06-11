@@ -45,38 +45,38 @@
 {290}{}{Okay, fuck. It's not like I really care. Like you would know what to do with any of that shit anyway.}
 {291}{}{Grrrr.}
 {292}{}{Tack.}
-{300}{}{Beat it, tough guy, before I get angry on Your face.}
-{301}{}{Beat it, bitch. Metzger wouldn't have sent a woman anyhow, so take a hike.}
-{302}{}{Bitch? I'll show you what this bitch can do.}
+{300}{}{Stick iväg, tuffing, innan jag blir arg på Ditt ansikte.}
+{301}{}{Stick härifrån, din subba. Metzger skulle ändå aldrig ha skickat en kvinna, så dra åt helvete.}
+{302}{}{"Subba"? Jag ska visa dig vad den här "Subban" går för.}
 {303}{}{Fan ta dig.}
 {304}{}{[Lämna]}
 {310}{}{Stick härifrån.}
-{320}{}{That's nice. Me Tyler. Me go bye bye.}
-{321}{}{Ur.}
+{320}{}{Vad trevligt. Jag Tyler. Jag hejdå nu.}
+{321}{}{Ör.}
 {322}{}{Eh...}
-{330}{}{Beat it, freak.}
+{330}{}{Stick iväg, miffo.}
 {331}{}{Sukyu!}
 {332}{}{Arug!}
-{340}{}{I don't think so. Now beat it.}
+{340}{}{Det tror jag inte. Stick nu.}
 {341}{}{Okej.}
 {342}{}{Men!}
 {343}{}{Bra.}
-{350}{}{Yeah, I bet you are. Who sent you?}
-{351}{}{Yeah, you said that already, fuck head. Who sent you?}
-{352}{}{Who do you think, moron? Now stop dicking around and let me in.}
-{353}{}{The pink panther.}
-{354}{}{Okay, you'll regret that.}
-{360}{}{The what? Get outta here!}
+{350}{}{Ja, det tror jag att du är. Vem skickade dig?}
+{351}{}{Ja, det har du redan sagt, rövhatt. Vem har skickat dig?}
+{352}{}{Vem tror du det är, din idiot? Sluta nu att jävlas med mig och släpp in mig.}
+{353}{}{Den rosa pantern.}
+{354}{}{Okej, det där kommer du att ångra.}
+{360}{}{Vadå för något? Stick härifrån!}
 {361}{}{Men...}
 {362}{}{Bra.}
-{370}{}{Now what the hell does the boss want? Another stupid fucking inspection?}
+{370}{}{Vad fan är det chefen vill nu? Ännu en jävla inspektion?}
 {371}{}{Ja?}
-{372}{}{What now?}
+{372}{}{Vad nu då?}
 {373}{}{Hur går det?}
-{374}{}{Sorry, gotta go.}
+{374}{}{Ursäkta, måste dra.}
 {375}{}{Uk.}
 {376}{}{Lub?}
-{380}{}{Actually, great! Almost forgot - a buddy of mine won it big at the tables and he's sharing the wealth, if you know what I mean.}
+{380}{}{Det är faktiskt toppen! Jag glömde nästan – en kompis till mig har vunnit stort vid spelborden och han delar med sig av vinsten, om du förstår vad jag menar.}
 {381}{}{Pretty fucking bored. I hate guarding - but, hey, things can't be that bad. A buddy of mine won it big at the tables and he's sharing the wealth, if you know what I mean.}
 {382}{}{Big plans, then?}
 {383}{}{Det låter kul.}

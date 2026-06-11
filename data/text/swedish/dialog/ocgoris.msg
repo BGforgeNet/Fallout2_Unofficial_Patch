@@ -10,7 +10,7 @@
 {108}{}{Hello, Goris. Gruthar said I should look you up. He seems to think you're the man with the
  answers.}
 {109}{}{Can I ask you some questions?}
-{110}{}{Sorry, gotta go.}
+{110}{}{Ursäkta, måste dra.}
 {111}{}{It's a pleasure to meet you,}
 {112}{}{So you've talked with Gruthar. He has a rather inflated opinion of me. I don't really know half
  as much as he thinks I do. Anyway...}

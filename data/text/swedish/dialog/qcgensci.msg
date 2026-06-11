@@ -15,7 +15,7 @@
 {114}{}{Excellent work.}
 {115}{}{The Project is going according to plan.}
 {116}{}{Excellent results here.}
-{117}{}{What now?}
+{117}{}{Vad nu då?}
 {118}{}{Radiation is really going to screw up my work.}
 {119}{}{Just another drill.}
 {120}{}{I can't leave my work now.}

@@ -9,7 +9,7 @@
  want?}
 {107}{}{Remember what I said. Too much money ain't good for that gal. Now whattya need?}
 {108}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.}
-{109}{}{What now?}
+{109}{}{Vad nu då?}
 {110}{}{Ooo?}
 {111}{}{Hello, Lou. I'm interested in getting something here.}
 {112}{}{Have you heard of something called a Garden of Eden Creation Kit?}
