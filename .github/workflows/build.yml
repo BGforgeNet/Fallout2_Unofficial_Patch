@@ -13,13 +13,13 @@ jobs:
     if: github.actor != 'bgforge-hive' && github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
 
       - name: ShellCheck
-        uses: ludeeus/action-shellcheck@master
+        uses: ludeeus/action-shellcheck@00cae500b08a931fb5698e11e79bfbd38e612a38 # 2.0.0
 
       - name: Fallout tests
-        uses: BGforgeNet/fallout-tests@main
+        uses: BGforgeNet/fallout-tests@67a424fd4fc46cf1dd1eea24dad8a4f211d4c6bb # main
         with:
           scripts_h: scripts_src/headers/scripts.h
           scripts_lst: data/scripts/scripts.lst
@@ -34,14 +34,14 @@ jobs:
         run: ./extra/full.sh
 
       - name: Upload artifacts - exe
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           name: upu.exe
           path: upu*.exe
 
       - name: Upload artifacts - translations zip
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           name: upu_translations.zip
@@ -53,14 +53,14 @@ jobs:
         run: rm -f upu*_translations.zip
 
       - name: Upload artifacts - main zip
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           name: upu.zip
           path: upu*.zip
 
       - name: Release
-        uses: softprops/action-gh-release@v3
+        uses: softprops/action-gh-release@b4309332981a82ec1c5618f44dd2e27cc8bfbfda # v3.0.0
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
@@ -73,7 +73,7 @@ jobs:
       # Create torrents
       - name: Release torrents
         if: startsWith(github.ref, 'refs/tags/')
-        uses: devopsx/action-torrent@v1
+        uses: devopsx/action-torrent@18d1dfef495e73cb94093731e9e5c845653fbc11 # v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           local: false

@@ -13,11 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
 
       - name: Poify/Unpoify run
         if: github.ref == 'refs/heads/master' && github.event_name == 'push'
-        uses: BGforgeNet/msg2po@master
+        uses: BGforgeNet/msg2po@e4d1960bb871c9f0b3b4a2fcd4dd197f8ee25d5f # v1.6.0
         with:
           poify: true
           unpoify: true
@@ -25,7 +25,7 @@ jobs:
 
       - name: Poify/Unpoify test
         if: (github.ref != 'refs/heads/master' && github.event_name == 'push') || github.event_name == 'pull_request'
-        uses: BGforgeNet/msg2po@master
+        uses: BGforgeNet/msg2po@e4d1960bb871c9f0b3b4a2fcd4dd197f8ee25d5f # v1.6.0
         with:
           poify: true
           unpoify: true
