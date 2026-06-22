@@ -1,7 +1,7 @@
-{100}{}{You see the owner of The Hole.}
-{101}{}{You see Frankie, owner of The Hole.}
-{150}{}{This appears to be the owner of this place.}
-{151}{}{This is Frankie. He owns this joint.}
+{100}{}{Du ser ägaren till Hålet.}
+{101}{}{Du ser Frankie, ägaren till Hålet.}
+{150}{}{Det här verkar vara ägaren till det här stället.}
+{151}{}{Det här är Frankie. Han äger det här stället.}
 {152}{}{[TALA]}
 {153}{}{I'm Frankie and yer standing in 'The Hole.' Best damn bar for
  a hundred miles! Everyone crawls into The Hole when it's time to let loose.
