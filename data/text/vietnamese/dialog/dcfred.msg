@@ -81,12 +81,12 @@
 {384}{}{Yum.}
 {390}{}{Đây. [Fred đưa bạn $2000, 5 Pin Hợp Hạch, 5 Pin Năng Lượng và một quả lựu đạn Plasma]. Tôi hi vọng mấy thứ này sẽ có ích, dù chỉ một chút thôi.}
 {391}{}{Thứ lỗi, tôi không thể nhận được.}
-{392}{}{Thank you very much.}
+{392}{}{Cám ơn nhiều lắm.}
 {393}{}{Không có gì, nhưng tôi sẽ nhận.}
 {394}{}{Yum.}
-{400}{}{What? Well, okay, if you insist. Thank you so very much. Take good care of yourself.}
+{400}{}{Sao? Ồ, okay nếu cậu nhất định thế. Cám ơn nhiều lắm. Bảo trọng đấy.}
 {401}{}{Chào.}
-{410}{}{What? You doing some strange drug? You don't look like a jethead. Get away from me you freak.}
+{410}{}{Hả? Mày bú phải cỏ dại à? Trông thì cứ tưởng không nghiện ngập gì. Tránh xa tao ra.}
 {411}{}{Beat it!}
 {412}{}{Hực.}
 {420}{}{What are you talking about? I don't owe anyone anything. Who the hell are you talking about?}

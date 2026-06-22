@@ -170,7 +170,7 @@
 {530}{}{Oh, a thank you would be enough. I know this isn't right but... here, take this
  money. [Becky gives you 1000 dollars]}
 {531}{}{Keep your money, Rebecca.}
-{532}{}{Thank you very much.}
+{532}{}{Cám ơn nhiều lắm.}
 {533}{}{Tank!}
 {534}{}{Ug! Perdy lady.}
 {540}{}{You are a wonderful man. Even though I don't condone your actions. You did the
