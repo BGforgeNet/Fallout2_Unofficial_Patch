@@ -15,7 +15,7 @@
 {126}{}{Thanks for dealing with those bigots in Vault City for us.}
 {127}{}{If you didn't help us, Vault City would have destroyed us.}
 {128}{}{You're our hero.}
-{129}{}{Thanks again.}
+{129}{}{Cám ơn lần nữa.}
 {130}{}{Cám ơn đã giúp đỡ.}
 {131}{}{You're the best. Thanks.}
 {132}{}{Pretty good, for a smoothskin.}

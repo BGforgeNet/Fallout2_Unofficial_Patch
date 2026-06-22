@@ -58,7 +58,7 @@
 {340}{}{Right through the back door there.}
 {341}{}{Cám ơn.}
 {350}{}{Sorry, I don't understand.}
-{351}{}{Hmph.}
+{351}{}{Hừm.}
 {360}{}{Sorry, Vic doesn't get visitors.}
 {361}{}{Yeah, that's Vic.}
 {362}{}{Seve?}

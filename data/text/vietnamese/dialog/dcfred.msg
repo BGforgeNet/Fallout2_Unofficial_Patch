@@ -1,88 +1,88 @@
 {100}{}{Bạn thấy một cư dân của khu The Den.}
 {101}{}{Bạn thấy Fred.}
 {102}{}{Bạn thấy Fred ăn mặc rất bảnh.}
-{150}{}{He seems to be busy thinking about something.}
-{151}{}{He seems pretty happy with his fine new threads.}
-{200}{}{I'm going to make it big some day.}
-{201}{}{Oh, leave me alone. I'm busy.}
-{202}{}{The master plan...}
-{203}{}{Going to figure it out some day...}
-{204}{}{Why do I always lose?}
-{205}{}{Tables must be rigged.}
-{206}{}{...I'll own my own place some day.}
-{207}{}{Going to get nice clothes.}
-{220}{}{Hey, man! It's late. Leave me alone.}
-{221}{}{No, I don't need any company.}
-{222}{}{Do you know what time it is?}
-{223}{}{I don't have anything.}
-{224}{}{Bug me in the morning. I'm tired.}
+{150}{}{Ông ta có vẻ đang mải nghĩ về việc gì đó.}
+{151}{}{Ông ta có vẻ rất hạnh phúc với bộ cánh xịn mới.}
+{200}{}{Một ngày nào đó nhất định sẽ trúng to.}
+{201}{}{Ồ, để tôi yên nào, đang bận.}
+{202}{}{Kế hoạch tổng thể...}
+{203}{}{Phải tính ra được...}
+{204}{}{Sao lần đéo nào cũng thua thế nhỉ?}
+{205}{}{Mấy cái bàn này giở trò chắc rồi.}
+{206}{}{... một ngày nào đó tôi sẽ có nhà riêng.}
+{207}{}{Đi kiếm quần áo hịn nào.}
+{220}{}{Này, muộn lắm rồi. Để tôi yên.}
+{221}{}{Không, tôi không cần bạn bè gì hết.}
+{222}{}{Có biết mấy giờ rồi không?}
+{223}{}{Tôi chẳng có gì cả.}
+{224}{}{Sáng quay lại. Tôi mệt rồi.}
 {225}{}{Thôi đi.}
-{226}{}{No one's home.}
-{227}{}{Can't talk. I'm getting ready for bed.}
-{228}{}{Hey, lady! It's late. Leave me alone.}
-{240}{}{No more money! Leave me alone.}
-{241}{}{There's no work. What am I going to do?}
-{242}{}{Don't tell me I owe someone else! Ahh!}
-{243}{}{I'm never going to make it big now.}
-{244}{}{I'm so broke.}
-{245}{}{Oh man, I need some cash.}
-{246}{}{I'll never get to buy new clothes now.}
-{247}{}{Got to get a new master plan...}
-{260}{}{Thanks for covering for me!}
-{261}{}{You're a real life saver.}
-{262}{}{I'll have the money for you soon.}
-{263}{}{I'll win it big anytime soon!}
-{264}{}{You're the first person I'll see when I win big.}
-{275}{}{Master plan is in action!}
-{276}{}{Thanks for the loan! Your money's in good hands!}
-{277}{}{Those tables sure are rough, but don't worry.}
-{278}{}{I'll win big some day, thanks to you.}
-{279}{}{I'm due any day! I can feel it.}
-{280}{}{I'm going to pay you back, I swear!}
-{281}{}{I'm going to win it big soon. I can smell it.}
-{295}{}{Huh? Do I know you? What do you want?}
-{296}{}{Why do you keep bothering me? I don't even know you. Go bug someone else.}
-{297}{}{I'm here to collect some money you owe someone.}
+{226}{}{Đéo có ai ở nhà đâu.}
+{227}{}{Đéo nói. Tôi sắp ngủ rồi.}
+{228}{}{Này, quý cô! Muộn rồi đấy, để tôi yên.}
+{240}{}{Hết tiền rồi! Để tôi yên.}
+{241}{}{Chẳng có việc gì cả. Làm gì bây giờ?}
+{242}{}{Đừng có nói là tôi còn nợ ai nữa! Ahh!}
+{243}{}{Thế này thì trúng quả to thế nào giờ.}
+{244}{}{Nghèo vl.}
+{245}{}{Ôi má ơi, cần tiền mặt.}
+{246}{}{Chả bao giờ mua được quần áo mới nữa.}
+{247}{}{Cần phải lên một kế hoạch mới...}
+{260}{}{Cám ơn đã trả giúp tôi!}
+{261}{}{Cậu đúng là cứu tinh đấy.}
+{262}{}{Tôi sẽ sớm có tiền trả thôi.}
+{263}{}{Chả mấy nữa mà tôi sẽ trúng to!}
+{264}{}{Cậu sẽ là người đầu tiên biết tin tôi trúng lớn đấy.}
+{275}{}{Kế hoạch tổng thể nói chung là ổn!}
+{276}{}{Cám ơn đã cho vay! Tiền vào đây thì chắc như đinh đóng cột ấy!}
+{277}{}{Mấy cái bàn này khó nhai thật, nhưng đừng lo.}
+{278}{}{Có ngày tôi sẽ trúng lớn, nhờ cậu đấy.}
+{279}{}{Thời sắp đến rồi! Tôi có thể sờ được rồi đấy.}
+{280}{}{Hứa sẽ trả mà, thề!}
+{281}{}{Tôi sẽ sớm thắng quả thật to. Mùi tiền xóc lên tận óc rồi đây này.}
+{295}{}{Hả? Quen biết à? Muốn gì?}
+{296}{}{Sao cứ làm phiền tôi thế? Quen biết đéo gì. Đi chỗ khác chơi đi.}
+{297}{}{Tôi đến để thu tiền ông nợ người ta.}
 {298}{}{Không có gì.}
 {299}{}{Uk!}
 {300}{}{Chào.}
-{310}{}{HEY! There you are! I've been looking all over for you! Check out these threads!}
-{311}{}{Thanks again.}
-{312}{}{Looking very nice.}
-{313}{}{You look like crap!}
+{310}{}{NÀY! Cậu đây rồi! Tìm mãi đấy! Xem bộ cánh mới này đi!}
+{311}{}{Cám ơn lần nữa.}
+{312}{}{Nhìn đẹp đấy.}
+{313}{}{Trông như mứt ấy!}
 {314}{}{Yuk!}
 {315}{}{Hực.}
-{320}{}{Thank you. Thank you very much! Thanks to you, I have four sets just like these!}
-{321}{}{So you won it big after all?}
-{322}{}{So, where's my money?}
-{330}{}{You don't like my threads? You know, I think you're right. I don't like them either. Time for some new ones - I can afford it!}
-{331}{}{So, you won it big after all?}
-{332}{}{Where's my money?}
-{333}{}{Hmph.}
-{340}{}{I was getting there! Won't even let me bask in my glory? I worked hard for this you know.}
-{341}{}{I know, I'm sorry.}
-{342}{}{Screw that. Where's the money I covered you for?}
-{343}{}{I don't give a crap. Where's my money?}
-{350}{}{Fine. Here. [Fred gives you $500] There's a little extra for trusting me. Well, see you later. Thanks again.}
+{320}{}{Cám ơn, cám ơn nhiều lắm! Nhờ cậu mà tôi có đến bốn bộ như này!}
+{321}{}{Vậy ông trúng lớn thật à?}
+{322}{}{Thế tiền của tôi đâu?}
+{330}{}{Cậu không thích bộ đồ mới của tôi à? Mà biết gì không, chắc vậy thật. Chính tôi cũng không thích. Đến lúc mua bộ khác rồi, bố giàu mà!}
+{331}{}{Vậy ông trúng lớn thật à?}
+{332}{}{Thế tiền của tôi đâu?}
+{333}{}{Hừm.}
+{340}{}{Sắp có rồi! Không để tôi tận hưởng chiến thắng à? Tôi phải cố mãi mới được đấy.}
+{341}{}{Biết rồi, xin lỗi.}
+{342}{}{Mẹ nó. Tiền tôi trả nợ hộ ông đâu rồi?}
+{343}{}{Đéo quan tâm. Tiền của tôi đâu?}
+{350}{}{Rồi. Đây. [Fred đưa bạn $500] Thêm một chút gọi là cảm ơn đã tin tưởng. Gặp lại sau nha. Cám ơn lần nữa.}
 {351}{}{Cám ơn!}
-{352}{}{What ever.}
-{360}{}{Thanks a lot for covering for me. It really meant a lot to me, to be trusted by a complete stranger. Let me give you this.}
+{352}{}{Sao cũng được.}
+{360}{}{Cám ơn nhiều vì đã trả giúp tôi. Việc đó thật sự có ý nghĩa với tôi đấy, được một người xa lạ tin tưởng. Để tôi đưa thứ này.}
 {361}{}{Okay.}
-{362}{}{You shouldn't have.}
+{362}{}{Không cần đâu.}
 {363}{}{Ừ.}
-{370}{}{I owe you a lot. You trusted me when I was down on my luck. As a small gesture of gratitude I have something for you.}
+{370}{}{Tôi mắc nợ mà. Cậu giúp tôi khi tôi đang vận đen. Để thay lời cảm ơn, tôi có thứ này cho cậu.}
 {371}{}{Okay.}
-{372}{}{You shouldn't have.}
+{372}{}{Không cần đâu.}
 {373}{}{Ừ.}
-{380}{}{Here. [Fred give you $1000.] I hope this helps. I'm sure you'll find someplace to spend it.}
-{381}{}{Sorry, I can't accept this.}
+{380}{}{Đây. [Fred đưa bạn $1000]. Hi vọng chỗ tiền này sẽ có ích. Tôi chắc là cậu sẽ tìm được chỗ để tiêu đấy.}
+{381}{}{Thứ lỗi, tôi không thể nhận được.}
 {382}{}{Cám ơn.}
-{383}{}{Not really, but I'll take it.}
+{383}{}{Không có gì, nhưng tôi sẽ nhận.}
 {384}{}{Yum.}
-{390}{}{Here. [Fred gives you $2000, 5 Fusion Cells, 5 Energy Cells, and a Plasma Grenade.] I hope this helps, at least a little.}
-{391}{}{Sorry, I can't accept this.}
+{390}{}{Đây. [Fred đưa bạn $2000, 5 Pin Hợp Hạch, 5 Pin Năng Lượng và một quả lựu đạn Plasma]. Tôi hi vọng mấy thứ này sẽ có ích, dù chỉ một chút thôi.}
+{391}{}{Thứ lỗi, tôi không thể nhận được.}
 {392}{}{Thank you very much.}
-{393}{}{Not really, but I'll take it.}
+{393}{}{Không có gì, nhưng tôi sẽ nhận.}
 {394}{}{Yum.}
 {400}{}{What? Well, okay, if you insist. Thank you so very much. Take good care of yourself.}
 {401}{}{Chào.}

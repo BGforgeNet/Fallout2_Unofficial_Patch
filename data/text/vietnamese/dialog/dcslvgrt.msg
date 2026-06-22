@@ -50,7 +50,7 @@
 {290}{}{Ya don't say. Beat it!}
 {291}{}{Dumb bitch.}
 {292}{}{Oook?}
-{293}{}{Hmph.}
+{293}{}{Hừm.}
 {300}{}{Not likely. That dumbass Vic pissed Metzger off about some radio or something. I doubt that he'd sell'm. You'll have to talk ta him yourself.}
 {301}{}{Well, I hear he finally fixed the radio. You should ask Metzger. He's not much use now, not very good trade quality.}
 {302}{}{Metzger là ai?}
