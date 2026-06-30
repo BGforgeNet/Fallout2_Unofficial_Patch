@@ -366,7 +366,7 @@ end
 
 
 procedure has_head begin
-   variable file = fs_copy(head_frm, head_frm);
+   variable file := art_frame_data(head_frm, 0, 0);
    if file == -1 then return false;
    return true;
 end
