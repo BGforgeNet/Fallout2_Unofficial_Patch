@@ -53,5 +53,5 @@
 {152}{}{Jak se tahle bárka ovládá? Koukám, že už je naplněná palivem. Až budeš mít všechno ostatní hotový, zmáčkni knoflík. Počítač se postará o všechno ostatní, tedy jestli to ještě bude fungovat. Loď popluje přímo k ropný plošině, nebudou střílet, protože máš IFF odpovídač. Jen se ujisti, že máš všechno, co potřebuješ k přístupu: FOB, funkční navigační počítač a palivo. Jasný jako facka, ne?}
 {153}{}{Jo a musíš ještě zprovoznit navigační počítač. Vsadím se, že pro něj najdeš nějaký součástky v jednom z těch starejch vaultů.}
 {154}{}{Rád tě zase vidím. Co potřebuješ?}
-{155}{}{ a moc bych za to nedal, že tam jsou i tví přátelé.}
+{155}{}{, a moc bych za to nedal, že tam jsou i tví přátelé.}
 {156}{}{.}

@@ -218,7 +218,7 @@
 {751}{}{Jdi do prdele.}
 {752}{}{Eh, dobře.}
 {800}{}{Podařilo se ti zabít vůdce Cechu otrokářů.}
-{1360}{}{. Co ty na to?}
+{1360}{}{ Co ty na to?}
 {1361}{}{?}
 {1363}{}{.}
 {1364}{}{.}
