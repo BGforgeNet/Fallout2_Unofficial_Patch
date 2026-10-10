@@ -180,7 +180,7 @@ procedure use_obj_on_p_proc begin
          if (obj_pid(obj_being_used_with) == PID_CATS_PAW_ISSUE_5) then begin
             script_overrides;
             gfade_out(ONE_GAME_SECOND);
-               critter_mod_skill(dude_obj, SKILL_ENERGY_WEAPONS, 10);
+               call dude_mod_skill( SKILL_ENERGY_WEAPONS, 10);
                display_msg(message_str(SCRIPT_NICATPW5, 100));
             gfade_in(ONE_GAME_SECOND);
             script_overrides;
