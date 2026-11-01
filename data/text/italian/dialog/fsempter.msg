@@ -72,11 +72,11 @@
 {171}{}{Programma genetico.}
 {172}{}{Programma Xeno.}
 {173}{}{Indietro.}
-{174}{}{(Dopo circa venti minuti, scopri queste informazioni: I risultati iniziali degli esperimenti sull'eliminazione botanica delle radiazioni si rivelano insoddisfacenti. Il dr. Sheng crea una forma di vita vegetale resistente alle radiazioni - seguono spiacevoli effetti collaterali. Forma di vita vegetale ritenuta troppo pericolosa. Sheng insiste nella sua linea e cerca di integrare il programma botanico con quello genetico.)}
+{174}{}{(Dopo circa venti minuti, scopri queste informazioni: I risultati iniziali degli esperimenti sull'eliminazione botanica delle radiazioni si rivelano insoddisfacenti. Il Dr. Sheng crea una forma di vita vegetale resistente alle radiazioni - seguono spiacevoli effetti collaterali. Forma di vita vegetale ritenuta troppo pericolosa. Sheng insiste nella sua linea e cerca di integrare il programma botanico con quello genetico.)}
 {175}{}{Programma genetico.}
 {176}{}{Programma Xeno.}
 {177}{}{Indietro.}
-{178}{}{(Dopo circa venti minuti riesci a mettere insieme queste informazioni: Studiando le basi del virus FEV, il dr. Long Wang si convince della possibilita' di creare soldati mutanti. Crea un siero che da' risultati interessanti negli esperimenti sui roditori. Si inietta il siero e si dissolve, diventando un ammasso di gelatina. Il dr. Sheng interrompe questa linea di ricerca. Con la morte del dr. Long, il dr. Sheng diventa capo del progetto. Sheng chiede di concentrare le ricerche sulle forme di vita vegetali in grado di eliminare le radiazioni.)}
+{178}{}{(Dopo circa venti minuti riesci a mettere insieme queste informazioni: Studiando le basi del virus FEV, il Dr. Long Wang si convince della possibilita' di creare soldati mutanti. Crea un siero che da' risultati interessanti negli esperimenti sui roditori. Si inietta il siero e si dissolve, diventando un ammasso di gelatina. Il Dr. Sheng interrompe questa linea di ricerca. Con la morte del Dr. Long, il Dr. Sheng diventa capo del progetto. Sheng chiede di concentrare le ricerche sulle forme di vita vegetali in grado di eliminare le radiazioni.)}
 {179}{}{Programma botanico.}
 {180}{}{Programma Xeno.}
 {181}{}{Indietro.}
@@ -84,12 +84,12 @@
 {183}{}{Programma botanico.}
 {184}{}{Programma genetico.}
 {185}{}{Indietro.}
-{186}{}{Database chimico: Carburante e derivati - Polimeri}
+{186}{}{Database chimico: Combustibile e derivati - Polimeri}
 {187}{}{Combustibile e derivati.}
 {188}{}{Polimeri.}
 {189}{}{Indietro.}
 {190}{}{(Dopo aver esaminato le complesse formule chimiche e le note di laboratorio, giungi alla conclusione che gli Shi hanno creato un tipo di combustibile a base di estratti di piante terrestri e marine. Pare che gli Shi si siano agganciati a tubature pre-esistenti in modo tale da poter trasferire il combustibile verso varie destinazioni.)}
-{191}{}{(Ti imbatti in una vasta serie di formule chimiche complesse e note di laboratorio. Non sei molto sicuro di cosa possano significare.)}
+{191}{}{(Ti imbatti in una vasta serie di formule chimiche complesse e note di laboratorio. Non e' molto chiaro cosa possano significare.)}
 {192}{}{Inviare il combustibile alla petroliera Poseidon.}
 {193}{}{Inviare il combustibile agli Hubologisti.}
 {194}{}{Indietro.}
@@ -118,7 +118,7 @@
 {217}{}{Attaccare l'intruso!}
 {218}{}{E' giunto il tempo di pagare per le tue azioni, lao wai!}
 {219}{}{C'e' un traditore tra le nostre fila!}
-{220}{}{Geo-puntamento.}
+{220}{}{Geo-localizzazione.}
 {221}{}{Cosa desiderate localizzare?}
 {222}{}{Gli abitanti del mio villaggio.}
-{223}{}{Probabilita' complessive: 97% - Gli abitanti si trovano alle coordinate del complesso Enclave.}
+{223}{}{Probabilita' complessiva: 97% - Gli abitanti si trovano alle coordinate del complesso Enclave.}

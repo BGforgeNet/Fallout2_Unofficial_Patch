@@ -7,7 +7,7 @@
 {106}{}{Vault City prevale... signora.}
 {107}{}{Buongiorno, Cittadina.}
 {108}{}{Vault City prevale, Cittadina.}
-{109}{}{Ti faro' desiderare d'esser rimasto fuori dalla citta'... Guardie!}
+{109}{}{Ti faro' desiderare d'esser rimasta fuori dalla citta'... Guardie!}
 {110}{}{Un mutante! Guardie!}
 {111}{}{Un ghoul! Guardie!}
 {112}{}{Devo redigere queste liste di munizioni...}
@@ -36,18 +36,18 @@
 {135}{}{Chi sei?}
 {136}{}{Niente, scusa se ti ho disturbato.}
 {137}{}{Vieni con me, ragazzo. ADESSO.}
-{138}{}{Vieni con me, ragazza. ADESSO.}
+{138}{}{Vieni con me, signorina. ADESSO.}
 {139}{}{Me andare? Me andare!}
 {140}{}{ME NO VA. ADESSO.}
-{141}{}{Ti pentirai di questa risposta.}
-{142}{}{IO NO ANDARE A SINISTRA.}
+{141}{}{Ti pentirai di non aver levato le tende.}
+{142}{}{IO NO AVERE TENDE.}
 {143}{}{Sergente Stark... signora. Le serve qualcosa?}
 {144}{}{Io sono il Cittadino SERGENTE Stark, Cittadina. Posso aiutarla in qualche modo?}
-{145}{}{Io sono la Cittadina SERGENTE Stark, Esterna. Che cosa vuoi?}
+{145}{}{Io sono il Cittadino SERGENTE Stark, Esterna. Che cosa vuoi?}
 {146}{}{Di che cosa ti occupi?}
 {147}{}{Puo' dirmi dove si trova il Vault?}
 {148}{}{Niente, scusa se ti ho disturbato.}
-{149}{}{Faccio il SUO STESSO lavoro, signore.}
+{149}{}{Faccio il SUO lavoro, signore.}
 {150}{}{Sono il responsabile del Centro Correttivo. Ed eseguo i suoi ordini, signora.}
 {151}{}{Sono il responsabile del Centro Correttivo. Tengo in riga gli Esterni. Mi assicuro che i Servi si comportino bene. Pianifico i pattugliamenti. Cerco di proteggere la citta' dai predoni.}
 {152}{}{Ha qualche problema, Sergente?}
@@ -56,7 +56,7 @@
 {155}{}{Pattugliamenti?}
 {156}{}{Predoni?}
 {157}{}{A proposito di quei Predoni...}
-{158}{}{Posso farti qualche domanda?}
+{158}{}{Posso farle qualche domanda?}
 {159}{}{Grazie. Arrivederci.}
 {160}{}{Vorrei il permesso di parlare liberamente, signora.}
 {161}{}{Concesso.}
@@ -91,13 +91,13 @@
 {190}{}{Ecco a lei, SIGNORA.}
 {191}{}{Adesso vorrei farle qualche domanda, Sergente.}
 {192}{}{Molto bene, Sergente. Continui cosi'.}
-{193}{}{Certo, si tratta di quell'Esterno ubriaco che ha colpito una delle mie guardie durante l'irruzione allo Spittoon. Adesso si trova al Centro di Collocamento Servi dove lo stanno... educando. E' in fondo a questa strada.}
+{193}{}{Certo, si tratta di quell'Esterno ubriaco che ha colpito una delle mie guardie durante la rissa allo Spittoon. Adesso si trova al Centro di Collocamento Servi dove lo stanno... educando. E' in fondo a questa strada.}
 {194}{}{Avrei un'altra domanda...}
 {195}{}{Hmmm. Ci vado subito.}
 {196}{}{Il Vault si trova proprio qua fuori... signore.}
 {197}{}{Il Vault si trova proprio qua fuori. Basta che dica alle guardie che lei e' una Cittadina, e loro la lasceranno passare.}
 {198}{}{Il Vault si trova proprio qua fuori. Solo ai Cittadini e' permesso l'ingresso, percio' non voglio nemmeno vederti a discutere con le guardie.}
-{199}{}{Posso chiederle qualcos'altro?}
+{199}{}{Posso chiederti qualcos'altro?}
 {200}{}{Ma io sono una Cittadina.}
 {201}{}{Come si diventa Cittadini?}
 {202}{}{Grazie. Arrivederci.}
@@ -109,7 +109,7 @@
 {208}{}{Toccami e te ne pentirai.}
 {209}{}{Mi muovo, mi muovo. Smettila di spingere.}
 {210}{}{Io sono NATO Cittadino. Sei interessata a diventare una Cittadina? Allora parla con un membro del Consiglio.}
-{211}{}{Posso chiederle qualcos'altro?}
+{211}{}{Posso chiederti qualcos'altro?}
 {212}{}{Lo faro', grazie. Arrivederci.}
 {213}{}{Si', cosa vuoi dirmi?}
 {214}{}{Ho trovato la loro base.}
@@ -132,16 +132,16 @@
 {231}{}{D'accordo. Vado subito da lei.}
 {232}{}{Esatto, predoni. I loro attacchi sono stati piuttosto pesanti, ultimamente. (Aggrotta le sopracciglia) Perche' vuoi che ti parli di loro?}
 {233}{}{Vorrei provare a scoprire dove si trova la loro base, e magari mettere fine ai loro attacchi, se posso.}
-{234}{}{Ero semplicemente curioso.}
+{234}{}{Ero semplicemente curiosa.}
 {235}{}{Come non detto. Avrei delle altre domande...}
 {236}{}{Lasciamo perdere. Magari possiamo parlarne un'altra volta.}
-{237}{}{Sei una specie di buon Samaritano, o cosa? Non la bevo.}
-{238}{}{Non sono un Samaritano. In realta' sono nativo di Arroyo - un villaggio che si trova a ovest di qui.}
+{237}{}{Sei una specie di buona Samaritana, o cosa? Non la bevo.}
+{238}{}{Non sono una Samaritana. In realta' sono nativa di Arroyo - un villaggio che si trova a ovest di qui.}
 {239}{}{Mi piacerebbe aiutare, se possibile.}
 {240}{}{Ascolti, conosco abbastanza il mondo per sapere che aiutare le persone presto o tardi si rivelera' essere d'aiuto anche per me.}
 {241}{}{Come non detto. Avrei delle altre domande...}
 {242}{}{Lasciamo perdere. Magari possiamo parlarne un'altra volta.}
-{243}{}{Sei venuto qua per fare lo spiritoso, o cosa? E' cosi'?}
+{243}{}{Sei venuta qua per fare la spiritosa, o cosa? E' cosi'?}
 {244}{}{Oh, davvero? Beh, affrontare questa banda di predoni potrebbe rivelarsi un'impresa piu' grande di quanto immagini.}
 {245}{}{No, ma se avete bisogno di aiuto, sarei felice di aiutarvi.}
 {246}{}{Vorrei comunque provare ad aiutarvi.}
@@ -158,7 +158,7 @@
 {257}{}{Io non so nulla. E' per questo che chiedo a lei.}
 {258}{}{Come non detto. Avrei delle altre domande...}
 {259}{}{Lasciamo perdere. Magari possiamo parlarne un'altra volta.}
-{260}{}{Non sai nulla? Magari potrei tenerti qui nel Centro Correttivo fino a quando non ti sarai RICORDATO qualcosa.}
+{260}{}{Non sai nulla? Magari potrei tenerti qui nel Centro Correttivo fino a quando non ti sarai RICORDATA qualcosa.}
 {261}{}{Vorrei provare a scoprire dove si trova la loro base, e magari mettere fine ai loro attacchi, se posso.}
 {262}{}{Mi ha beccato. E' chiaro che sono in combutta con i predoni. Mi arresti.}
 {263}{}{Ascolti, adesso io me ne vado. Se prova a fermarmi, ci saranno guai.}
@@ -169,9 +169,9 @@
 {268}{}{D'accordo... d'accordo...}
 {269}{}{Whoa! Whoa! Io non --}
 {270}{}{Fatti sotto, morto ambulante.}
-{271}{}{Non credo che dovremmo lasciar cadere l'argomento cosi' facilmente. Ora... che cosa sai a proposito dei predoni?}
+{271}{}{Non credo che lasceremo cadere l'argomento cosi' facilmente. Ora... che cosa sai a proposito dei predoni?}
 {272}{}{Vorrei provare a scoprire dove si trova la loro base, e magari mettere fine ai loro attacchi, se posso.}
-{273}{}{Ero semplicemente curioso.}
+{273}{}{Ero semplicemente curiosa.}
 {274}{}{Ascolti, adesso io me ne vado. Se prova a fermarmi, ci saranno guai.}
 {275}{}{Non saprei. Quei predoni sono piuttosto strani. SE si tratta davvero di predoni.}
 {276}{}{Che cosa vuoi dire?}
@@ -193,7 +193,7 @@
 {292}{}{Probabilmente io saprei trovarli.}
 {293}{}{Avrei delle altre domande...}
 {294}{}{Hmmm. Me ne ricordero'. Arrivederci.}
-{295}{}{Accomodati pure. In credo che l'unico modo per trovarli sia sperare che ci diano una mappa.}
+{295}{}{Accomodati pure. Scommetto che l'unico modo per trovarli e' sperare che ci diano una mappa.}
 {296}{}{Avrei delle altre domande...}
 {297}{}{Se l'unica soluzione e' questa... grazie dell'informazione.}
 {298}{}{Certo, abbiamo un piccolo gruppo di pattuglie. Abbiamo gia' pochi uomini per proteggere Vault City, figurarsi se posso mandare delle guardie ad effettuare le perlustrazioni necessarie.}
@@ -206,19 +206,19 @@
 {305}{}{Potrei fare un po' di esplorazioni per conto vostro, se siete a corto di uomini.}
 {306}{}{Lasciamo perdere. Avrei delle altre domande...}
 {307}{}{Come non detto, allora. Arrivederci.}
-{308}{}{No, ti servirebbe un Pip Boy per fare bene questo lavoro, e non posso dartene uno, al momento.}
-{309}{}{Sono gia' in possesso di un Pip Boy. E' vecchio... e scassato... e mancano un sacco di cavi e di pulsanti... ma funziona.}
+{308}{}{No, ti servirebbe un Pip-Boy per fare bene questo lavoro, e non posso dartene uno, al momento.}
+{309}{}{Sono gia' in possesso di un Pip-Boy. E' vecchio... e scassato... e mancano un sacco di cavi e di pulsanti... ma funziona.}
 {310}{}{Bene, d'accordo. Avrei delle altre domande...}
 {311}{}{Come non detto, allora. Arrivederci.}
 {312}{}{Davvero? Ha in memoria la mappa della California settentrionale?}
-{313}{}{Si'. Beh, almeno a giudicare da quanto riesco a vedere attraverso tutta questa dannata "fog of war".}
-{314}{}{Allora ho un lavoro per te. Mi serve che qualcuno esplori i terreni intorno a Gecko... l'insediamento ghoul a nordest. Tocca gli otto settori che circondano la citta', e poi torna qui per il rapporto.}
+{313}{}{Si'. Beh, almeno da quel che riesco a vedere attraverso la "nebbia di guerra" di questo dannato aggeggio.}
+{314}{}{Allora ho un lavoro per te. Mi serve che qualcuno esplori i terreni intorno a Gecko... l'insediamento ghoul a nordest. Passa per gli otto settori della mappa intorno alla citta', e poi torna qui a fare rapporto.}
 {315}{}{Perche'?}
 {316}{}{Nessun problema. Ho gia' esplorato quella zona.}
 {317}{}{D'accordo. Tornero' quando avro' esplorato la zona.}
-{318}{}{Ripensandoci: non contate su di me. Addio.}
+{318}{}{Ripensandoci: non contate su di me. Arrivederci.}
 {319}{}{Se i ghoul continuano ad avvelenare le falde acquifere, potremmo essere costretti ad intraprendere un'azione militare contro di loro.}
-{320}{}{Voglio vedere quali danni ha causato l'esplosione della centrale in quella zona.}
+{320}{}{Voglio vedere quali danni ha causato alla zona la fusione del reattore della centrale.}
 {321}{}{Potremmo essere costretti ad intraprendere un'azione militare contro di loro, in futuro... soprattutto nel caso in cui ricominciassero ad avvelenare le falde acquifere.}
 {322}{}{Ora: lo vuoi il lavoro o no?}
 {323}{}{Si'. Pero' io ho gia' esplorato la zona.}
@@ -226,17 +226,17 @@
 {325}{}{Accetto. Prima avrei delle domande da farle, pero'...}
 {326}{}{No, grazie. Magari un'altra volta.}
 {327}{}{Davvero? Eh. Beh... d'accordo allora.}
-{328}{}{Ben fatto. Scarica le informazioni da te raccolte nel mio Pip Boy e io le inseriro' nei computer delle pattuglie.}
+{328}{}{Ben fatto. Scarica le informazioni da te raccolte nel mio Pip-Boy e io le inseriro' nei computer delle pattuglie.}
 {329}{}{D'accordo...}
 {330}{}{Queste informazioni sembrano buone. Ben fatto. Ecco la tua ricompensa... trecento dollari.}
 {331}{}{D'accordo, allora... avete dell'altro da farmi fare?}
 {332}{}{Ottimo. Avrei delle altre domande...}
-{333}{}{Grazie. E' stato un piacere fare affari con te.}
+{333}{}{Grazie. E' stato un piacere fare affari con lei.}
 {334}{}{Veramente si'... Mi serve che qualcuno vada fino a NCR. Da alcuni rapporti recenti pare che la Repubblica stia potenziando il suo esercito. Che questo sia vero o no, mi serve che qualcuno tracci un percorso fino a NCR e che torni a fare rapporto.}
 {335}{}{Nessun problema. L'ho gia' fatto.}
 {336}{}{Basta arrivare a NCR e poi tornare indietro?}
 {337}{}{Lasciamo perdere. Avrei delle altre domande...}
-{338}{}{No, grazie. Addio.}
+{338}{}{No, grazie. Arrivederci.}
 {339}{}{Questo e' tutto quello che chiedo. Mi interessa soprattutto il percorso, piu' che la Repubblica in se', ma comunque e' necessario che tu entri in citta', una volta giuntovi.}
 {340}{}{Nessun problema. L'ho gia' fatto.}
 {341}{}{Accetto. Faro' rapporto non appena avro' portato a termine la missione.}
@@ -244,18 +244,18 @@
 {343}{}{No grazie. Avrei delle altre domande, pero'...}
 {344}{}{Non credo di volere questo lavoro. Magari un'altra volta.}
 {345}{}{Davvero? Eh.}
-{346}{}{D'accordo, allora. Scarica le informazioni da te raccolte nel mio Pip Boy e io le inseriro' nei computer delle pattuglie.}
+{346}{}{D'accordo, allora. Scarica le informazioni da te raccolte nel mio Pip-Boy e io le inseriro' nei computer delle pattuglie.}
 {347}{}{Okay.}
 {348}{}{Queste informazioni sembrano buone. Ben fatto. Ecco la ricompensa per il lavoro svolto: cinquecento dollari... in piu', forse questo ti tornera' utile.}
-{349}{}{Cosa?}
-{350}{}{E' un sensore di movimento Vault-Tec. Volevamo ricavarne pezzi di ricambio, dal momento che e' troppo vecchio per i nostri Pip Boy, ma sembra essere compatibile con il tuo modello.}
+{349}{}{Cos'e'?}
+{350}{}{E' un sensore di movimento Vault-Tec. Volevamo ricavarne pezzi di ricambio, dal momento che e' troppo vecchio per i nostri Pip-Boy, ma sembra essere compatibile con il tuo modello.}
 {351}{}{Come funziona?}
-{352}{}{Basta tenerlo in mano e, quando usato, identifichera' i bersagli ostili nelle immediate vicinanze. Oppure puoi accedere normalmente alla funzione Automappa del Pip Boy, e premere il pulsante "scanner" e i bersagli ostili si illumineranno come un'insegna al neon.}
+{352}{}{Basta tenerlo in mano e, quando usato, identifichera' i bersagli ostili nelle immediate vicinanze. Oppure puoi accedere normalmente alla funzione Automappa del Pip-Boy, e premere il pulsante "scanner" e i bersagli ostili si illumineranno come un'insegna al neon.}
 {353}{}{Grazie, potrebbe tornarmi utile. Senta, posso farle qualche altra domanda?}
 {354}{}{Grazie mille. Vado subito a provarlo.}
 {355}{}{Salve... Capitano. Desidera qualcosa?}
-{356}{}{Benritrovato, Cittadina. Posso aiutarla?}
-{357}{}{Sei tornato? Ti sei perso, o vuoi qualcosa?}
+{356}{}{Benritrovata, Cittadina. Posso aiutarla?}
+{357}{}{Sei tornata? Ti sei persa, o vuoi qualcosa?}
 {358}{}{Ad esempio... signora?}
 {359}{}{Si', Cittadina. Che cosa desidera sapere?}
 {360}{}{Ad esempio?}
@@ -275,7 +275,7 @@
 {374}{}{Vault City prevale... signora.}
 {375}{}{Capitano... Posso aiutarla... signora?}
 {376}{}{Sergente Stark... signora. Le serve qualcosa?}
-{377}{}{Faccio il SUO STESSO lavoro, signora.}
+{377}{}{Faccio il SUO lavoro, signora.}
 {378}{}{Sono il responsabile del Centro Correttivo. Ed eseguo i suoi ordini, signora.}
 {379}{}{Vorrei il permesso di parlare liberamente, signora.}
 {380}{}{Lei non MERITA di ricoprire questo incarico. Io sono nato e vissuto a Vault City. Gli uomini e le donne sotto il MIO comando si fidano di me e rispettano me, non lei... signora.}

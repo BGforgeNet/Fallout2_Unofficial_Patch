@@ -7,7 +7,7 @@
 {106}{}{Me zoppo, tu riparare?}
 {107}{}{Me ha domande. Okay?}
 {108}{}{Scusa, me va.}
-{109}{}{Sono ferito. Puoi aiutarmi?}
+{109}{}{Ho delle ferite. Puoi aiutarmi?}
 {110}{}{Mi sento male. Puoi aiutarmi?}
 {111}{}{Mi hanno ferito un arto. Puoi aiutarmi?}
 {112}{}{Vorrei farti delle domande.}
@@ -17,7 +17,7 @@
 {116}{}{Grazie, Doc. Mi sento molto meglio.}
 {117}{}{Beh, certo. Ecco, devi bere questo -- tutto... so che ha un brutto sapore. Adesso stenditi su quel letto; ti svegliero' domattina.}
 {118}{}{Me sta meglio. Ciao.}
-{119}{}{Grazie Doc, il tuo trucchetto ha funzionato.}
+{119}{}{Grazie Doc, ha fatto effetto.}
 {120}{}{Mi spiace, ma non ho le attrezzature necessarie per eseguire operazioni chirurgiche. Ti suggerisco di andare in una delle citta' piu' grandi e di visitare un chirurgo. Prova Vault City. E' a nord di qui.}
 {121}{}{Okay. Ciao}
 {122}{}{D'accordo. Grazie lo stesso.}
@@ -50,7 +50,7 @@
 {149}{}{Uh... essere come tu dire.}
 {150}{}{Deve andare ora.}
 {151}{}{Uh-huh. Beh, ora devo andare.}
-{152}{}{Wow; sono stupito dalla tua conoscenza.}
+{152}{}{Wow; sei davvero ben informato.}
 {153}{}{Sembra proprio il mio tipo.}
 {154}{}{Sono stato rapito. Stavo viaggiando da Vault City a New Reno per una ben meritata vacanza. Una notte mi sono accampato e la mattina dopo mi sono risvegliato legato e imbavagliato. Una settimana circa dopo, mi sono ritrovato qui. E qui mi trovo da allora.}
 {155}{}{Ugh.}
@@ -64,6 +64,6 @@
 {163}{}{Capisco. Beh, grazie dell'avvertimento.}
 {164}{}{Ah. Beh, ora devo andare.}
 {165}{}{Non aiutero' una persona come te. Vattene.}
-{166}{}{Okay, beh, stai attento... e torna, se ti serve qualcosa.}
+{166}{}{Okay, beh, abbi cura di te... e torna, se ti serve qualcosa.}
 {167}{}{Fatto.}
 {168}{}{Adesso e' paranoico. Crede che Tandi sia ancora sulle sue tracce. E' ossessionato dalla vendetta, e vorrebbe vedere Tandi morta. E' tormentato dal rimorso, dato che lui preferi' nascondersi e sopravvivere, invece di morire con la sua banda... e la lista potrebbe continuare.}

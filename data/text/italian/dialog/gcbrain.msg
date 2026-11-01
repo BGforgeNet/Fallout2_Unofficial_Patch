@@ -8,7 +8,7 @@
 {123}{}{Adesso basta. Zomak! Uccidilo per me!}
 {130}{}{Il Rinnovamento e' a portata di mano. Ma non s'avvicinera' d'un passo se non ti sbrighi a riparare il nostro Reattore Nucleare. (a se stesso) Umani... una delusione continua.}
 {131}{}{Riparare il Reattore Nucleare?}
-{132}{}{Oh, certo. Beh, adesso devo proprio andare. Addio.}
+{132}{}{Oh, certo. Beh, adesso devo proprio andare. Arrivederci.}
 {140}{}{Sento su di te l'odore di uno dei miei Talismani, ma non ricordo di avertene mai dato uno.}
 {141}{}{L'ho trovato.}
 {142}{}{Uhm... te lo sarai sicuramente scordato.}
@@ -19,11 +19,11 @@
 {152}{}{A diventare un ratto gigante?}
 {153}{}{Non voglio avere nulla a che fare con voi.}
 {154}{}{Ehm... e chi saremmo "noi"... ehm... cioe', voi?}
-{160}{}{Per sopravvivere, sia Gecko che Vault City dovranno collaborare. Vault City ha bisogno dell'energia prodotta dal nostro Reattore Nucleare per potersi espandere, mentre noi abbiamo bisogno della tecnologia medica di Vault City. Se non collaboreremo, entrambe le citta' ristagneranno. Vault City deve aiutarci a ripare la nostra centrale.}
+{160}{}{Per sopravvivere, sia Gecko che Vault City dovranno collaborare. Vault City ha bisogno dell'energia prodotta dal nostro Reattore Nucleare per potersi espandere, mentre noi abbiamo bisogno della tecnologia medica di Vault City. Se non collaboreremo, entrambe le citta' ristagneranno. Vault City deve aiutarci a riparare la nostra centrale.}
 {161}{}{In che modo pensi di riuscire a convincerli?}
 {170}{}{Sono noto semplicemente come "il Prof". Un tributo al mio genio. Poche cose all'interno di Gecko, e solo poche di piu' all'esterno, si sottraggono al mio sguardo.}
 {171}{}{Ma sei soltanto un ratto gigante.}
-{172}{}{Hai detto qualcosa a proposti di unirmi a te?}
+{172}{}{Hai detto qualcosa a proposito di unirmi a te?}
 {180}{}{Non m'interessa dove tu l'abbia preso. La vera domanda e' se hai intenzione di unirti a noi e indossarlo con sincerita'. }
 {181}{}{Unirmi a voi? Cosa vuoi dire?}
 {182}{}{Preferirei pulire la tua gabbietta piuttosto che unirmi a voi.}
@@ -42,12 +42,12 @@
 {222}{}{Ne ho abbastanza delle tue maldestre intromissioni. Zomak! Uccidi questo pazzo per me.}
 {230}{}{Riparare il reattore e' stato un ottimo primo passo. Ma bisogna fare un altro sforzo per assicurare la sopravvivenza di Gecko e Vault City.}
 {231}{}{Un altro sforzo?}
-{232}{}{Guarda un po’, adesso fai il cittadino premuroso.}
-{233}{}{Credo di aver sentito piu' che abbastanza. Addio.}
+{232}{}{Guarda un po', adesso fai il cittadino premuroso.}
+{233}{}{Credo di aver sentito piu' che abbastanza. Arrivederci.}
 {234}{}{Perche' un ratto gigante parlante si interessa cosi' tanto di tutto questo?}
 {240}{}{Hai fatto un buon lavoro. Sia Vault City che Gecko hanno motivo di gioire. Adesso che il nostro reattore funziona a massimo regime, il mio piano di conquista del mondo potrebbe essere vicino alla sua realizzazione. Adesso puoi andartene. Ho del lavoro da fare.}
-{241}{}{Beh, di certo non l'ho fatto per te. Addio.}
-{242}{}{Per fare un piano grande ci vuole un ratto grande... o era un cinghiale? Addio.}
+{241}{}{Beh, di certo non l'ho fatto per te. Arrivederci.}
+{242}{}{Per fare un piano grande ci vuole un ratto grande... o era un cinghiale? Arrivederci.}
 {250}{}{Beh, il reattore funziona -- ma non molto bene. Abbiamo bisogno che il computer centrale di Vault City analizzi i dati relativi al rendimento del reattore.}
 {251}{}{Il computer centrale di Vault City... Sono sicuro che quelle persone di larghe vedute saranno ben felici di aiutare un ratto mutante gigante e una citta' piena di ghoul.}
 {252}{}{Come intendi farlo?}
@@ -55,7 +55,7 @@
 {261}{}{Un ratto che trama per la conquista del mondo?}
 {270}{}{Beh, nonostante la tua opinione riguardo ad un ratto che domina il mondo, le azioni che propongo porteranno benefici a migliaia di abitanti di Vault City e di Gecko. Potranno non interessarti me o le mie ragioni, ma i risultati valgono comunque gli sforzi fatti per raggiungerli.}
 {271}{}{Perche' non mi parli di questo ultimo sforzo? Potrei anche decidere di aiutarti.}
-{272}{}{Il solo fatto di averti gia' aiutato in qualche modo mi fa venire la pelle d'oca. Me ne vado. Addio.}
+{272}{}{Il solo fatto di averti gia' aiutato in qualche modo mi fa venire la pelle d'oca. Me ne vado. Arrivederci.}
 {280}{}{Beh, lo faranno se tu mostrerai loro i possibili benefici. Abbiamo un rapporto economico che dimostra che l'ottimizzazione della centrale atomica di Gecko portera' vantaggi diretti a Vault City. Informero' i nostri compagni qui a Gecko della tua missione.}
 {281}{}{Ti consegneranno il Regolatore Idroelettrico di Magnetosfera se dimostrerai loro che fare cio' portera' dei benefici a Vault City. Ho preparato un rapporto economico che espone dettagliatamente i vantaggi per Vault City conseguenti alla riparazione della nostra centrale. Informero' i nostri compagni qui a Gecko della tua missione.}
 {282}{}{Ottimo, ma a quale Cittadino di Vault City potrebbe mai venire in mente di leggere una cosa del genere?}
@@ -68,8 +68,8 @@
 {301}{}{Che talismano?}
 {310}{}{Sei sicuro di voler condannare tutti gli abitanti di entrambe le citta' ad una lenta morte?}
 {311}{}{Beh, credo di no. Okay, dimmi dove posso recuperare il rapporto.}
-{312}{}{Meglio una morte lenta che esser dominati da un ratto. Addio.}
-{320}{}{(Sniff, sniff) Hmmm, sento su di te l'incofondibile aroma dei bocconcini al formaggio. Non e' che ne avresti un po' da offirmi? Adoro i bocconcini al formaggio.}
+{312}{}{Meglio una morte lenta che esser dominati da un ratto. Arrivederci.}
+{320}{}{(Sniff, sniff) Hmmm, sento su di te l'inconfondibile aroma dei bocconcini al formaggio. Non e' che ne avresti un po' da offrirmi? Adoro i bocconcini al formaggio.}
 {321}{}{Hmm, no. Niente bocconcini al formaggio.}
 {322}{}{Credo di poterti dare un po' di bocconcini al formaggio...}
 {330}{}{Adesso sei uno di noi. Presto io conquistero' il mondo e tutti voi sarete Rinnovati.}
@@ -77,7 +77,7 @@
 {332}{}{Basta. Hai superato il limite. Questa storia finisce qui. Qualcuno deve eliminarti dalla faccia della terra... e quel qualcuno sono io.}
 {340}{}{Bene. Allora credo che non abbiamo piu' nulla da dirci. Ma devi sapere che, se non diventi uno di noi, non ti lascero' uscire vivo da qui.}
 {341}{}{Preferisco morire che unirmi a voi.}
-{342}{}{Hmm, forse sono stato affrettato nella mia decisione.}
+{342}{}{Hmm, forse ho giudicato troppo in fretta.}
 {343}{}{Fatti sotto, Willard.}
 {350}{}{Folle. Zomak! Uccidi questo intruso per me.}
 {360}{}{Voi umani siete cosi' poco resistenti. Sarei rimasto un ratto normale, se voi umani non aveste fatto del vostro meglio per distruggere il mondo. Se non fosse stato per le radiazioni, adesso non sarei quello che sono.}
@@ -87,13 +87,13 @@
 {372}{}{Mi hai convinto, okay. Convinto che devo andarmene immediatamente da questo manicomio.}
 {380}{}{Una volta ero solo uno dei tanti ratti normali che si trovavano in un laboratorio di ricerca avanzata. Poi, un giorno, ci furono delle esplosioni. Le nostre gabbie si aprirono e noi fummo ricoperti da un qualche tipo di fluido fuoriuscito da un'enorme vasca.}
 {381}{}{Poi cosa?}
-{390}{}{Sono strisciato fuori. Mentre cominciavo a riprendermi, notai che ero cambiato. Provavo a comunicare con le persone, ma tutti cercavano di uccidermi. Gli umani sono troppo violenti per sopravvivere senza una guida forte -- ma questa e' un'altra storia. Il primo passo e' riparare il reattore.}
+{390}{}{Sono strisciato fuori. Mentre cominciavo a riprendermi, notai che ero cambiato. Provavo a comunicare con le persone, ma tutti cercavano di uccidermi. Gli umani sono troppo violenti per sopravvivere governandosi da soli -- ma questa e' un'altra storia. Il primo passo e' riparare il reattore.}
 {391}{}{Riparare il reattore?}
 {400}{}{Si'. Per riparare il reattore di Gecko devi prima recuperare un Regolatore Idroelettrico di Magnetosfera da Vault City. Se non lo farai, Vault City attacchera' sicuramente Gecko. Certo, distruggendo il reattore alla fine saranno condannati anch'essi.}
 {401}{}{Condannati anch'essi? Cosa intendi dire?}
 {402}{}{Perche' mai Vault City dovrebbe dare proprio a me un dispositivo per la centrale nucleare di Gecko?}
 {410}{}{Dovrai dimostrare che e' nel loro miglior interesse farlo. E' cosi' facile manipolare le persone con la promessa di un guadagno...}
-{411}{}{Non credo che gli abitanti di Vault City mi daranno il pezzo che serve alla vostra centrale elettronucleare.}
+{411}{}{Non credo che gli abitanti di Vault City mi daranno il pezzo che serve alla vostra centrale nucleare.}
 {420}{}{Ma non hai qualcosa da fare in questo momento?}
 {421}{}{Uhm, credo che faro' meglio ad occuparmi di quel problema con la centrale nucleare. A dopo.}
 {422}{}{Certo che ce l'ho. Devo andarmene subito da questo posto.}
@@ -105,7 +105,7 @@
 {442}{}{(crunch, munch, crunch) Mmmm, adoro i bocconcini al formaggio, sono cosi', beh, uhm, formaggiosi.}
 {443}{}{(crunch, munch, crunch) Mmmm, adoro i bocconcini al formaggio, sono cosi', beh, uhm, formaggiosi.}
 {444}{}{Okay.}
-{450}{}{Questo e' troppo. Zomak! Uccidi questo pazzo per me. Ma fa' attenzione ai bocconcini al formaggio!}
+{450}{}{E sia. Zomak! Uccidi questo pazzo per me. Ma fa' attenzione ai bocconcini al formaggio!}
 {460}{}{Devi usare il disco contenente i dati del reattore nel computer centrale di Vault City. Hai due possibilita': infiltrarti all'interno e usare il computer, oppure, se hai il rapporto economico, puoi andare da McClure.}
 {461}{}{Rapporto economico?}
 {462}{}{Oh, okay.}
@@ -113,9 +113,9 @@
 {464}{}{Beh, una volta ottenuto un Regolatore Idroelettrico di Magnetosfera da Vault City, portalo al reattore. A questo punto puoi provare a convincere quel borioso fannullone di Festus a installare il pezzo, oppure puoi usare il robot per le riparazioni. Puoi anche decidere di installare il pezzo con le tue mani, naturalmente - l'importante e' che qualcuno lo faccia, non importa chi.}
 {465}{}{Come faccio a prendere quel pezzo a Vault City?}
 {466}{}{Oh, capisco. Bene, grazie per le informazioni. Ci vediamo.}
-{467}{}{Festus e' il bacucco che dirige la centrale nucleare. E' vecchio, lunatico e brontolone, ma ne sa qualcosa su come si manda avanti una centrale. Il suo officio e' nella parte sudest della centrale. Portagli il disco: lui sapra' come usarlo.}
+{467}{}{Festus e' il bacucco che dirige la centrale nucleare. E' vecchio, lunatico e brontolone, ma ne sa qualcosa su come si manda avanti una centrale. Il suo ufficio e' nella parte sudest della centrale. Portagli il disco: lui sapra' come usarlo.}
 {468}{}{Oh, ho capito. Okay. Grazie. A presto.}
-{500}{}{(meditando tra se' e se') Cosi' tante cose svaniscono. Non e' piu' come una volta. (sigh) Sento che l'ultimo mio simile rimasto e' morto. Matto, sebben lo fosse, avrei voluto che lo fosse un po' meno. Speravo riuscisse a trovare un po' di felicita' nonostante il suo rimbambimento. (rivolto a te) Beh, basta pensieri tristi.}
+{500}{}{(meditando tra se' e se') Cosi' tante cose svaniscono. Non e' piu' come una volta. (sigh) Sento che l'ultimo mio simile rimasto e' morto. Pazzo com'era, avrei voluto che non fosse andata cosi'. Speravo riuscisse a trovare un po' di felicita' nonostante il suo rimbambimento. (rivolto a te) Beh, basta pensieri tristi.}
 {501}{}{Uh, okay.}
 {504}{}{Un Regolatore Idroelettrico di Magnetosfera. Questo e' il pezzo che devi recuperare a Vault City. Poi devi portarlo qui a Gecko e fare in modo che venga installato nel reattore.}
 {505}{}{Installato nel reattore? Come posso farlo?}
@@ -132,12 +132,12 @@
 {606}{}{Devo darlo a Festus?}
 {607}{}{Un Regolatore Idro-CHE? Eh?}
 {608}{}{Il reattore?}
-{609}{}{Darli a chi?}
-{610}{}{Oh, certo. Beh, adesso devo proprio andare. Addio.}
+{609}{}{Darlo a chi?}
+{610}{}{Oh, certo. Beh, adesso devo proprio andare. Arrivederci.}
 {611}{}{Devi fare in modo che quel Regolatore Idroelettrico di Magnetosfera venga installato prima che la centrale diventi di nuovo operativa.}
 {620}{}{Sono noto semplicemente come "il Prof". Un tributo al mio genio. Poche cose all'interno di Gecko, e solo poche di piu' all'esterno, si sottraggono al mio sguardo.}
 {621}{}{Ma sei soltanto un ratto gigante.}
-{622}{}{Hai detto qualcosa a proposti di unirmi a te?}
+{622}{}{Hai detto qualcosa a proposito di unirmi a te?}
 {630}{}{Le azioni che propongo porteranno benefici a migliaia di abitanti di Vault City e di Gecko. Potro' non interessarti io o le mie ragioni, ma i risultati valgono comunque gli sforzi fatti per raggiungerli.}
 {631}{}{Il disco con i dati relativi al reattore ti e' stato consegnato, adesso devi usarlo.}
 {632}{}{Hai fatto analizzare il disco con i dati relativi al reattore, adesso devi farci qualcosa.}
@@ -148,7 +148,7 @@
 {637}{}{Beh, questo l'avevo capito anch'io... ma cosa?}
 {638}{}{Un dispositivo? Che tipo di dispositivo?}
 {639}{}{Perche' non mi parli di questo ultimo sforzo? Potrei anche decidere di aiutarti.}
-{640}{}{Darli a chi?}
+{640}{}{Darlo a chi?}
 {641}{}{Un altro sforzo?}
 {650}{}{Beh, nonostante la tua opinione riguardo ad un ratto che domina il mondo, le azioni che propongo porteranno benefici a migliaia di abitanti di Vault City e di Gecko. Potranno non interessarti le mie ragioni o io, ma i risultati valgono comunque gli sforzi fatti per raggiungerli.}
 {651}{}{Il disco con i dati relativi al reattore ti e' stato consegnato, adesso devi farci qualcosa.}
@@ -159,11 +159,11 @@
 {656}{}{Beh, questo l'avevo capito anch'io... ma cosa?}
 {657}{}{Ad esempio?}
 {658}{}{Un dispositivo? Che tipo di dispositivo?}
-{659}{}{Perche' non mi spieghi quest’ultimo passaggio e poi vedro' se aiutarti.}
+{659}{}{Perche' non mi spieghi quest'ultimo passaggio e poi vedro' se aiutarti.}
 {670}{}{Il reattore, sempre il reattore (sigh). Torna quando avrai ottenuto qualche risultato con il reattore.}
 {671}{}{Torna piu' tardi. Sto comunicando con un potere superiore, o qualcosa del genere (sheesh).}
 {700}{}{Non ho nient'altro da dirti.}
 {701}{}{Sembra che Gordon ti abbia gia' consegnato questo rapporto economico di cui parlo. Portalo subito a Vault City.}
-{702}{}{Lo faro'.}
+{702}{}{Ci penso io.}
 {703}{}{Umm... Si', forse piu' tardi.}
 {4211}{}{Uh, credo che faro' meglio ad andare da Gordon a prendere quel disco. A dopo.}

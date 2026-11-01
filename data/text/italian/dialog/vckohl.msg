@@ -6,17 +6,17 @@
 {105}{}{Perdiana! Un intruso! Aiuto! Guardie!}
 {106}{}{Per Giove! Un mutante a Vault City! Guardie! Guardie!}
 {107}{}{Per Bacco! Un ghoul a Vault City! Guardie! Guardie!}
-{108}{}{L'Ufficio Informazioni e' chiuso di sera. Tornate domattina.}
-{109}{}{L'Ufficio Informazioni e' chiuso di sera. Tornero' a casa non appena avro' finito di catalogare tutte queste liste.}
+{108}{}{L'Ufficio Informazioni e' chiuso per stasera. Tornate domattina.}
+{109}{}{L'Ufficio Informazioni e' chiuso per stasera. Tornero' a casa non appena avro' finito di catalogare tutte queste liste.}
 {110}{}{Shhhhh.}
 {111}{}{Camminate in silenzio, per cortesia.}
 {112}{}{Shhhhh.}
-{113}{}{Il Silenzio E' una virtu'.}
+{113}{}{Il silenzio E' una virtu'.}
 {114}{}{Oh... salve! C'e' qualcosa che posso fare per voi?}
 {115}{}{Frazz-urb-luuw!}
 {116}{}{-Allontanati-}
 {117}{}{Cos'e' questo posto?}
-{118}{}{Niente. Scusa se ti ho disturbata.}
+{118}{}{Niente. Scusa se ti ho disturbato.}
 {119}{}{Uh... come avete detto?}
 {120}{}{Mozza-mozza mo'...}
 {121}{}{-Allontanati-}
@@ -31,7 +31,7 @@
 {130}{}{Tutti i libri sono spariti?}
 {131}{}{Oh. Ho qualche domanda da farle...}
 {132}{}{Magari faro' un salto laggiu', allora.}
-{133}{}{Bentornato. Avete bisogno di aiuto? State cercando qualcosa?}
+{133}{}{Rieccovi. Avete bisogno di aiuto? State cercando qualcosa?}
 {134}{}{Certamente. Avete qualche domanda?}
 {135}{}{Cos'e' questo posto?}
 {136}{}{Sai dove potrei trovare un GECK?}
@@ -66,8 +66,8 @@
 {165}{}{Oh. Avrei delle altre domande...}
 {166}{}{Mi dispiace. Devo andare.}
 {167}{}{Vuol dire che la mia figura qui non e' piu' necessaria. E' per il bene della comunita'...}
-{168}{}{Al Consiglio si sta discutendo la possibilita' di installare un terminale informatico in ogni casa. Questi nuovi terminali sarebbero tutti collegati al Server Centrale e agli Archivi Informatici. Una volta fatto cio', il Centro Informazioni... ed io... diventeremo inutili. Ma le cose in citta' miglioreranno, davvero.}
-{169}{}{Ne sei sicura?}
+{168}{}{Al Consiglio si sta discutendo la possibilita' di installare un terminale informatico in ogni casa. Questi nuovi terminali sarebbero tutti collegati al Server Liste e agli Archivi Informatici. Una volta fatto cio', il Centro Informazioni... ed io... diventeremo inutili. Ma le cose in citta' miglioreranno, davvero.}
+{169}{}{Ne sei sicuro?}
 {170}{}{Oh. Avrei delle altre domande...}
 {171}{}{Mi dispiace. Devo andare.}
 {172}{}{Oh cielo, si'. Il Primo Cittadino non sbaglia quasi mai quando si tratta di prendere simili decisioni. Tuttavia, mi dispiacera' lasciare questo posto. Ho sentito che mi hanno gia' preparato un posto all'Ufficio Liste.}
@@ -83,10 +83,10 @@
 {182}{}{Mi farebbe molto piacere averli. Grazie.}
 {183}{}{Vado a prenderli...}
 {184}{}{Okay.}
-{185}{}{Ecco qua. Spero che siano di vostro gradimento. Sono alcuni dei miei favoriti... un po' tecnici, forse, ma comunque piuttosto buoni.}
+{185}{}{Ecco qua. Spero che siano di vostro gradimento. Sono alcuni dei miei preferiti... un po' tecnici, forse, ma comunque piuttosto buoni.}
 {186}{}{Grazie. Le dispiace se le faccio qualche altra domanda?}
 {187}{}{Magnifico. Li leggero' subito.}
-{188}{}{I libri sono trasferiti in uno dei terminali-biblioteca che si trovano nel terzo livello del Vault. Non mi ricordo quale... non e' uno di quelli nel blocco centrale, pero'.}
+{188}{}{I libri sono trasferiti in uno dei terminali-biblioteca che si trovano al terzo livello del Vault. Non mi ricordo quale... non e' uno di quelli nel blocco centrale, pero'.}
 {189}{}{Perche' si stanno trascrivendo tutti i libri?}
 {190}{}{Come posso fare per entrare nel Vault?}
 {191}{}{Capisco. Le dispiace se le faccio qualche altra domanda?}

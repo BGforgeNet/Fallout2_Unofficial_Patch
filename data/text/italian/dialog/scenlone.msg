@@ -61,7 +61,7 @@
 {160}{}{Stato d'oppressione?}
 {161}{}{Come funziona questa purificazione? E' dolorosa?}
 {162}{}{Non e' dolorosa. Devi semplicemente sottoporti ad una scansione zeta. Posso eseguirne una su di te anche adesso, se vuoi.}
-{163}{}{Bene.}
+{163}{}{Certo.}
 {164}{}{Scordatelo!}
 {165}{}{La Chiesa dell'Hubologia esiste per liberare l'umanita' dalle catene che imprigionano il potenziale spirituale di ogni uomo.}
 {166}{}{E come fate?}
@@ -70,7 +70,7 @@
 {169}{}{Credo che un Allineamento mi farebbe bene.}
 {170}{}{Mi servono delle informazioni. Vault 13 - cosa ne sai?}
 {171}{}{Come vanno le cose?}
-{172}{}{Lasciamo stare. Niente pensieri negativi. Tutto qui.}
+{172}{}{Lasciamo stare. Senza rancore. Tutto qui.}
 {173}{}{}
 {174}{}{Si'!}
 {175}{}{}
@@ -80,10 +80,10 @@
 {179}{}{Quindi tu stai dicendo che esiste un qualche potere supremo che prima ci crea con uno scopo e che poi ci abbandona a noi stessi? Non posso credere che esista un essere cosi' insensibile. Vieni, abbraccia la fede della Chiesa dell'Hubologia. Lasciati guidare da noi per la giusta via.}
 {180}{}{Quale giusta via?}
 {181}{}{No, grazie.}
-{182}{}{Se non hai il controllo della tua stessa vita, pero', perche' sei vivo? Nulla di cio' che fai ha un valore. Hai deciso tu di alzarti, questa mattina? No, tu sei soltanto uno schiavo della tua filosofia. Noi della Chiesa dell'Hubologia, invece, abbiamo la vera risposta.}
+{182}{}{Se non hai il controllo della tua stessa vita, pero', perche' sei vivo? Nulla di cio' che fai ha un valore. Hai deciso tu di alzarti, questa mattina? No, secondo la tua stessa filosofia, sei soltanto un burattino. Noi della Chiesa dell'Hubologia, invece, abbiamo la vera risposta.}
 {183}{}{E sarebbe?}
 {184}{}{Non ne dubito.}
-{185}{}{Oh, che filosofia di vita triste e vuota! Anche se fosse vera, l'unico percorso da intraprendere sarebbe lo sviluppo di te stesso. Sarebbe l'unica cosa sulla quale avresti un qualche controllo. La Chiesa dell'Hubologia puo' esserti d'aiuto.}
+{185}{}{Oh, che filosofia di vita triste e vuota! Anche se fosse vera, l'unica strada per te sarebbe cercare di crescere come persona. Sarebbe l'unica cosa sulla quale avresti un qualche controllo. La Chiesa dell'Hubologia puo' esserti d'aiuto.}
 {186}{}{Come?}
 {187}{}{Oh, ma piantala.}
 {188}{}{Vault 13? I nostri scienziati l'hanno cercato a lungo nella zona ad ovest di qui. Questo e' tutto cio' che so. Sei sicuro di non volere un Allineamento?}
@@ -91,7 +91,7 @@
 {190}{}{No, grazie. Sto bene cosi'.}
 {191}{}{Ti dico una cosa: diffondere il verbo dell'Hubologia da queste parti e' piu' duro di quanto tu possa immaginare! AHS-9 non sa quali difficolta' io sia costretta ad affrontare. Per questo motivo ho compilato per lui un elenco completo di queste difficolta'. Senti, saresti cosi' gentile da consegnarlo ad AHS-9, a San Francisco? Non posso prometterti una ricompensa, ma so che AHS-9 apprezzera' molto il tuo gesto.}
 {192}{}{Certo, perche' no?}
-{193}{}{No, grazie. Preferisco non essere coinvolto.}
+{193}{}{No, grazie. Preferisco non immischiarmi.}
 {194}{}{Magnifico. Ecco la lettera. Ora... posso fare qualcos'altro per te? Una scansione zeta, magari?}
 {195}{}{Una scansione? Perche' no?}
 {196}{}{Hai gia' fatto abbastanza. Ci vediamo.}

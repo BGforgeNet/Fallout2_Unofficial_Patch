@@ -4,9 +4,9 @@
 {103}{}{Arroyo}
 {104}{}{Arroyo}
 {105}{}{Arroyo}
-{106}{}{Il Den}
-{107}{}{Il Den}
-{108}{}{Il Den}
+{106}{}{Den}
+{107}{}{Den}
+{108}{}{Den}
 {109}{}{Klamath}
 {110}{}{Klamath}
 {111}{}{Klamath}
@@ -73,7 +73,7 @@
 {207}{}{}
 {208}{}{}
 {209}{}{Tempio: Entrata}
-{210}{}{Tempio: Vestibolo}
+{210}{}{Tempio: Corridoio}
 {211}{}{Tempio: Santuario Interno}
 {212}{}{Villaggio}
 {213}{}{}
@@ -183,9 +183,9 @@
 {317}{}{Entrata Est}
 {318}{}{}
 {319}{}{}
-{320}{}{Level 1}
-{321}{}{Level 2}
-{322}{}{Level 3}
+{320}{}{Livello 1}
+{321}{}{Livello 2}
+{322}{}{Livello 3}
 {323}{}{Caverna}
 {324}{}{}
 {325}{}{}
@@ -210,11 +210,11 @@
 {344}{}{Canyon}
 {345}{}{Canyon}
 {346}{}{Canyon}
-{347}{}{Level 1}
-{348}{}{Level 2}
+{347}{}{Livello 1}
+{348}{}{Livello 2}
 {349}{}{}
-{350}{}{Level 3}
-{351}{}{Level 4}
+{350}{}{Livello 3}
+{351}{}{Livello 4}
 {352}{}{}
 {353}{}{Ingresso}
 {354}{}{}
@@ -225,12 +225,12 @@
 {359}{}{Deserto}
 {360}{}{}
 {361}{}{}
-{362}{}{Via delle Vergini}
+{362}{}{Virgin Street}
 {363}{}{Scantinato del Desperado}
-{364}{}{Desperado, 2do Piano}
-{365}{}{2da Strada}
-{366}{}{Shark Club, 2do Piano}
-{367}{}{Shark Club, 3zo Piano}
+{364}{}{Desperado, Secondo Piano}
+{365}{}{Seconda Strada}
+{366}{}{Shark Club, Secondo Piano}
+{367}{}{Shark Club, Terzo Piano}
 {368}{}{Zona Commerciale}
 {369}{}{Scantinato New Reno Arms}
 {370}{}{}
@@ -523,7 +523,7 @@
 {657}{}{}
 {658}{}{}
 {1500}{}{Arroyo}
-{1501}{}{Il Den}
+{1501}{}{Den}
 {1502}{}{Klamath}
 {1503}{}{Modoc}
 {1504}{}{Vault City}
@@ -532,7 +532,7 @@
 {1507}{}{New Reno}
 {1508}{}{Deposito Militare Sierra}
 {1509}{}{Vault 15}
-{1510}{}{Nuova Repubblica della California}
+{1510}{}{Repubblica della Nuova California}
 {1511}{}{Vault 13}
 {1512}{}{Base Militare}
 {1513}{}{Redding}
@@ -553,7 +553,7 @@
 {1528}{}{Citta' in Rovina}
 {1529}{}{Costa}
 {1530}{}{Golgotha}
-{1531}{}{Balena Arenata}
+{1531}{}{Balena Precipitata}
 {1532}{}{Uomo di Latta}
 {1533}{}{Testa Parlante}
 {1534}{}{Shuttle della Federazione}
@@ -562,7 +562,7 @@
 {1537}{}{Caffe' dei Sogni Infranti}
 {1538}{}{Paladini}
 {1539}{}{Grotta del Ratto Vorpal}
-{1540}{}{Guardiano del Persempre}
+{1540}{}{Guardiano dell'Eternita'}
 {1541}{}{Discarica di Rifiuti Tossici}
 {1542}{}{I Paria}
 {1543}{}{Brahmin Pazzo}

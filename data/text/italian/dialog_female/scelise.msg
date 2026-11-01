@@ -4,10 +4,10 @@
 {103}{}{Cosa vuoi?}
 {104}{}{Ancora tu?}
 {105}{}{Mi manda Karl.}
-{106}{}{Il dottor Jubilee ha detto che avrei fatto bene a parlare con te.}
+{106}{}{Doc Jubilee ha detto che avrei fatto bene a parlare con te.}
 {107}{}{Chi sei?}
 {108}{}{Guh?}
-{109}{}{Sto cercando un gruppo di persone. Persone che odiano lo schiavismo. Si fanno chiamare New California Ranger.}
+{109}{}{Sto cercando un gruppo di persone. Persone che odiano lo schiavismo. Si fanno chiamare Ranger della Nuova California.}
 {110}{}{Potete riparare la mia macchina?}
 {111}{}{Uh - Credevo che questo posto fosse abbandonato.}
 {112}{}{Davvero? Che cosa ti ha detto?}
@@ -40,23 +40,23 @@
 {139}{}{Non cosi' in fretta. Devi superare un esame prima di diventare un Ranger.}
 {140}{}{Bene. Dimmi di cosa si tratta.}
 {141}{}{Un esame? Ma cos'e' - siamo a scuola?}
-{142}{}{C'e' uno schiavista, subito fuori citta'. Forse hai visto casa sua. Libera gli schiavi che sono li' e poi torna a parlare con me.}
+{142}{}{C'e' uno schiavista, subito fuori citta'. Forse hai visto casa sua. Libera gli schiavi che sono li' e poi torna a parlare con noi.}
 {143}{}{Posso farlo.}
 {144}{}{Assolutamente no. Non voglio fare casino da queste parti.}
 {145}{}{Beh, e' il tuo giorno fortunato.}
-{146}{}{Questo e' il tipo di comportamento che permette l'esistenza dell'atrocita' dello schiavismo . Mi dispiace, ma non c'e' posto per te nella nostra organizzazione.}
+{146}{}{Questo e' il tipo di comportamento che permette l'esistenza dell'atrocita' dello schiavismo. Mi dispiace, ma non c'e' posto per te nella nostra organizzazione.}
 {147}{}{Ok.}
 {148}{}{Allora, hai cambiato idea? Sei pronta a dimostrare il tuo valore?}
-{149}{}{Bene.}
+{149}{}{Certo.}
 {150}{}{Che cosa volevi che facessi?}
 {151}{}{Non dovresti fare qualcosa? Non tornare qui finche' non avrai portato a termine il lavoro.}
 {152}{}{Mi e' gia' arrivata la notizia. Hai liberato gli schiavi. Un buon lavoro! Allora, sei pronta a diventare un Ranger?}
 {153}{}{Si'.}
 {154}{}{No.}
-{155}{}{Mi hanno detto che tu sei quello che ha liberato tutti gli schiavi fuori dai cancelli della citta'. Quella che hai fatto e' stata una bella cosa e vorrei stringerti la mano.}
+{155}{}{Mi hanno detto che tu sei quella che ha liberato tutti gli schiavi fuori dai cancelli della citta'. Quella che hai fatto e' stata una bella cosa e vorrei stringerti la mano.}
 {156}{}{Grazie.}
 {157}{}{Semplice. Noi crediamo che lo schiavismo sia sbagliato e faremo quello che dobbiamo per combatterlo. A NCR abbiamo un sacco di amici altolocati. Grazie a loro abbiamo gia' bandito la schiavitu' nel sud della Repubblica, ma adesso speriamo di diffondere il verbo anche a nord.}
-{158}{}{Quello dei Ranger sembra un gruppo del quale sarei fiero di far parte. Consideratemi uno di voi.}
+{158}{}{Quello dei Ranger sembra un gruppo del quale sarei fiera di far parte. Consideratemi una di voi.}
 {159}{}{Interessante... Dovro' pensarci un po' su.}
 {160}{}{Giuri di combattere lo schiavismo ogniqualvolta si presenti la possibilita' e di aiutare i tuoi compagni Ranger ogniqualvolta ne abbiano bisogno?}
 {161}{}{Si'.}
@@ -66,18 +66,18 @@
 {165}{}{Bene, siamo sempre in cerca di brave persone che appoggino la nostra causa. Se cambi idea, fammi una visita. Sei sicura di non voler diventare subito un Ranger?}
 {166}{}{Sono sicura.}
 {167}{}{Beh, adesso che me l'hai detto, credo proprio che mi piacerebbe diventare una Ranger.}
-{168}{}{Capisco. Beh, io rappresento un gruppo chiamato New California Ranger. Qualcuno con un punto di vista come il tuo potrebbe essere adatto a diventare un membro. Sei interessato?}
-{169}{}{Ottimo! Consideratemi uno di voi.}
+{168}{}{Capisco. Beh, io rappresento un gruppo chiamato Ranger della Nuova California. Qualcuno con un punto di vista come il tuo potrebbe essere adatto a diventare un membro. Ti interessa?}
+{169}{}{Ottimo! Consideratemi una di voi.}
 {170}{}{Sembra interessante. Che cosa puoi dirmi a proposito dei Ranger?}
 {171}{}{Capisco. Beh, grazie per averci fatto visita, ma non credo che abbiamo altro da dirci. Se cambi idea, torna qui.}
 {172}{}{Ok.}
 {173}{}{Se e' cosi', devo chiederti di sparire dalla mia vista. Subito!}
 {174}{}{Ok.}
 {175}{}{Una schiavista! Vattene da qui prima che rimuova quel tuo tatuaggio con un proiettile!}
-{176}{}{Bene.}
+{176}{}{Certo.}
 {177}{}{Provaci!}
 {178}{}{Abbiamo agenti e simpatizzanti in alcune citta' su a nord. Stiamo diffondendo il verbo e colpendo gli schiavisti ovunque ne abbiamo la possibilita'.}
-{179}{}{Bentornato. Hai cambiato idea e vuoi diventare uno di noi?}
-{180}{}{Nulla.}
+{179}{}{Bentornata. Hai cambiato idea e vuoi diventare una di noi?}
+{180}{}{Lascia perdere.}
 {181}{}{Quello non ti appartiene. Adesso vattene, oppure diventero' violenta.}
 {182}{}{Non so cosa tu abbia fatto a Gond, ma la pagherai!}

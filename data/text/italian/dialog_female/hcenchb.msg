@@ -7,7 +7,7 @@
 {106}{}{Chi sei?}
 {107}{}{Cosa puoi dirmi a proposito di Chad?}
 {108}{}{Non ho tempo da perdere con gli idioti. Spiacente, amica, ma dovrai cercare qualcun altro con cui giocare.}
-{109}{}{::sniff::}
+{109}{}{::tira su col naso::}
 {110}{}{Io sono Max. Sono una delle guardie della carovana.}
 {111}{}{Cosa puoi dirmi a proposito di Chad?}
 {112}{}{Grazie. Ciao.}
@@ -15,7 +15,7 @@
 {114}{}{Beh, Marcus sospetta che Chad stia facendo la cresta sul denaro destinato a Broken Hills.}
 {115}{}{Grazie. Ciao.}
 {116}{}{Grazie. Sono davvero felice che sia finita. Tu pero' faresti bene a guardarti le spalle.}
-{117}{}{Addio.}
+{117}{}{Ciao.}
 {118}{}{La nemica! Muori!}
 {119}{}{Oops.}
 {120}{}{(Abbassa la voce e si guarda attorno) Dev'essere proprio cosi'. Una volta l'ho visto con i miei occhi prendere una "parte" del denaro che aveva ottenuto da una spedizione di uranio a Gecko.}

@@ -11,9 +11,9 @@
 {110}{}{D'accordo. Lo prendo.}
 {111}{}{Eh, ottocento? Tornero'... con i soldi.}
 {112}{}{Scordatelo. Gli Smith possono anche morire di fame.}
-{113}{}{E' tuo. [incassa il denaro.] Lo prendi subito, o desideri che venga recapitato da qualche parte?}
+{113}{}{E' tuo. [Intasca il denaro.] Lo prendi subito, o desideri che venga recapitato da qualche parte?}
 {114}{}{Consegnalo agli Smith.}
-{115}{}{Spiacente, amico. Ti costera' ottocento monete.}
+{115}{}{Spiacente, amica. Ti costera' ottocento.}
 {119}{}{Hai bisogno dei soldi per pagarmi, amica.}
 {120}{}{Tornero' con i soldi.}
 {121}{}{Nessun problema. Lo faro' consegnare immediatamente.}

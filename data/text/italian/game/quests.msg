@@ -65,7 +65,7 @@
 {807}{}{Snida Pretty Boy Lloyd, recupera i soldi rubati, e infliggigli una... punizione esemplare.}
 {808}{}{Va' da Renesco e incassa i 1000$ per Mr. Salvatore.}
 {809}{}{Fa' la guardia ad una transazione segreta che avverra' nel deserto.}
-{810}{}{Trova degli inibitori di endorfina per creare un'antidoto contro il Jet.}
+{810}{}{Trova degli inibitori di endorfina per creare un antidoto contro il Jet.}
 {811}{}{Fa' scoppiare la distilleria di Wright sotto la stazione ferroviaria.}
 {812}{}{Uccidi Westin a NCR facendo in modo che non sembri un assassinio.}
 {813}{}{Ammazza Carlson a NCR.}
@@ -113,7 +113,7 @@
 {1515}{}{Prendi qualche Power-Armor rinforzata da Crockett.}
 {1516}{}{Recupera i piani per un vertibird per la Confraternita d'Acciaio.}
 {1600}{}{Occupati del Deathclaw.}
-{1601}{}{Ripara K9.}
+{1601}{}{Ripara K-9.}
 {1602}{}{Recupera il FOB dal comandante della base.}
 {1700}{}{}
 {1800}{}{}

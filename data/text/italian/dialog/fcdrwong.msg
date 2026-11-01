@@ -17,27 +17,27 @@
 {116}{}{Che cosa state progettando?}
 {117}{}{Come si fa ad accedere alla rete informatica?}
 {118}{}{Ho delle altre domande.}
-{119}{}{Capisco. Arrivederci.}
+{119}{}{Capisco. Ciao.}
 {120}{}{Ah, ma se io le rivelassi i nostri progetti, tutti li conoscerebbero. Mi dispiace, ma i nostri progetti sono segreti, per il momento.}
 {121}{}{D'accordo, d'accordo. Ho delle altre domande.}
 {122}{}{Grazie. Ciao.}
-{123}{}{Cosa ne diresti se ti piantassi una pistola nel naso e ti obbligassi a rivelarmeli?}
+{123}{}{Cosa ne diresti se ti piantassi una pistola sotto il naso e ti obbligassi a rivelarmeli?}
 {124}{}{Beh, per farlo, una persona dovrebbe scoprire o come violare il sistema o come farsi amico uno dei miei sottoposti. Sto scherzando, ovviamente, a proposito di violare il sistema - se lei tentasse di farlo, manderei qualcuno ad ucciderla. [Sorride per indicare che non sta minacciando.]}
 {125}{}{Davvero mi farebbe uccidere?}
 {126}{}{Dunque lei non porrebbe nessuna reale opposizione se io tentassi di accedere al computer?}
 {127}{}{Ho delle altre domande.}
-{128}{}{Certo che lo farei. Arrivederci.}
+{128}{}{Certo, come no. Arrivederci.}
 {129}{}{A quel punto io dovrei considerarla come una minaccia e dovrei avvertirla che un tale comportamento potrebbe essere dannoso per la sua salute.}
 {130}{}{Facciamo una prova.}
 {131}{}{Stavo solo scherzando. Ho delle altre domande.}
 {132}{}{[Sorride] Dobbiamo difendere il nostro onore, straniero.}
 {133}{}{Err, giusto. Dunque lei non porrebbe nessuna reale opposizione se io tentassi di accedere al computer?}
 {134}{}{Giussssto. Ho delle altre domande.}
-{135}{}{Posso immaginarlo. Addio.}
+{135}{}{Ci scommetto. Arrivederci.}
 {136}{}{Solo se lei riuscisse a convincere uno dei miei sottoposti a farlo. Ma io di certo non lo farei.}
-{137}{}{E se ficcassi una pistola nel tuo naso?}
+{137}{}{E se ti piantassi una pistola sotto il naso?}
 {138}{}{Ottimo. Beh, ho delle altre domande.}
-{139}{}{Hmm. Capisco. Beh, addio.}
+{139}{}{Hmm. Capisco. Beh, arrivederci.}
 {140}{}{Ahh, si'! E' vero. La preparero' con un contorno di fave e un buon Chianti.}
 {141}{}{Ce l'ha ancora? Bene. Chip la rivuole.}
 {142}{}{Quella e' una milza umana, pazzo bastardo!}

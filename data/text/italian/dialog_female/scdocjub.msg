@@ -10,7 +10,7 @@
 {109}{}{Non so. Non penso di poterla salvare. Forse dovremo amputare questa gamba.}
 {110}{}{Stai scherzando.}
 {111}{}{Ah-ah.}
-{112}{}{Ecco a te, figliuola.}
+{112}{}{Ecco a te, figliola.}
 {113}{}{Ancora.}
 {114}{}{Grazie, Doc. Forse potresti rispondere a qualche domanda.}
 {115}{}{Arrivederci.}
@@ -44,8 +44,8 @@
 {143}{}{E allora... dov'e'?}
 {144}{}{Dove vault?}
 {145}{}{Non saprei dirtelo. Saltbeef ha sempre detto di avere una mappa, ma nessuno l'ha mai vista.}
-{146}{}{Carne salata?}
-{147}{}{Un'altra cosa...}
+{146}{}{Saltbeef?}
+{147}{}{Chiedere altro.}
 {148}{}{Beh, e' piu' di quanto non avessi prima.}
 {149}{}{Il colpo grosso. Saltbeef e' un vecchio cercatore d'uranio - piu' precisamente, un ubriacone. Negli ultimi tempi vive nella proprieta' di Westin.}
 {150}{}{Un'altra domanda...}
@@ -56,7 +56,7 @@
 {155}{}{Saltbeef e' un vecchio cercatore d'uranio. Negli ultimi tempi vive nella proprieta' di Westin.}
 {156}{}{Un'altra domanda...}
 {157}{}{Grazie per la storia.}
-{158}{}{Faresti meglio ad andare a parlare con il Presidente Tandi. Ho sentito dire che sta cercando una persona speciale.}
+{158}{}{Faresti meglio ad andare a parlare con la Presidente Tandi. Ho sentito dire che sta cercando una persona speciale.}
 {159}{}{Un'altra domanda...}
 {160}{}{Grazie.}
 {161}{}{Forse... Esiste un gruppo che ha come obiettivo la scomparsa della schiavitu' e - beh, di praticamente tutte le altre cattiverie. Puoi trovarli in quel grande negozio, che lavorano su qualche automobile.}
@@ -65,9 +65,9 @@
 {164}{}{Ehi, giu' le mani da li', ragazzaccia!}
 {165}{}{Fa' attenzione! Basta poco di quello per farti male.}
 {166}{}{Mettilo a posto! Potresti farti male sul serio con quella roba.}
-{167}{}{Quelle medicine sono per Mr. Westin, non per te. Mettile giu'.}
-{168}{}{Sta' lontano da li'. Devo stare attento. Non vorrei che Mr. Westin assumesse la medicina sbagliata.}
-{169}{}{Occhio! Ho appena preparato la medicina per Mr. Westin.}
+{167}{}{Quelle medicine sono per il signor Westin, non per te. Rimettile a posto.}
+{168}{}{Sta' lontano da li'. Devo stare attento. Non vorrei che il signor Westin assumesse la medicina sbagliata.}
+{169}{}{Occhio! Ho appena preparato la medicina per il signor Westin.}
 {170}{}{Sono Doc Jubilee. Cosa c'e' che non va, signorina?}
 {171}{}{Cosa c'e' che non va, signorina?}
 {172}{}{Ecco a te, signorina.}

@@ -2,24 +2,24 @@
 {101}{}{Vedi un terminale ad interfaccia vocale.}
 {102}{}{E' un normale terminale di computer, modificato per riconoscere comandi vocali.}
 {103}{}{Esamini il terminale, ma non riesci a trovare nulla di chiaramente rotto. Cosa fai?}
-{104}{}{Gli dai un pugno in quel modo 'speciale'.}
-{105}{}{Gli dai un calcio in quel posto 'speciale'.}
+{104}{}{Dagli un pugno in quel modo 'speciale'.}
+{105}{}{Dagli un calcio in quel punto 'speciale'.}
 {106}{}{Esegui il programma diagnostico.}
-{107}{}{Lo apri e guardi all'interno.}
-{108}{}{Lo lasci stare.}
+{107}{}{Aprilo e guarda all'interno.}
+{108}{}{Lascialo stare.}
 {109}{}{Osservi la console per un po' e decidi il posto migliore dove piazzare un pugno. Dopo avergli dato il tuo miglior pugno 'riparatutto', il monitor lampeggia un paio di volte e poi si stabilizza. Non succede nient'altro. Cosa fai?}
-{110}{}{Gli dai un calcio in quel posto 'speciale'.}
+{110}{}{Dagli un calcio in quel punto 'speciale'.}
 {111}{}{Esegui il programma diagnostico.}
-{112}{}{Lo apri e guardi all'interno.}
-{113}{}{Lo lasci stare.}
+{112}{}{Aprilo e guarda all'interno.}
+{113}{}{Lascialo stare.}
 {114}{}{Questo arcinoto metodo di riparazione produce due risultati. Primo: il monitor sembra andare in tilt per alcuni secondi e poi si stabilizza. Secondo: senti il rumore di qualcosa di metallico che si rompe e il pannello al quale hai dato un calcio cade sul pavimento. Cosa fai?}
 {115}{}{Esegui il programma diagnostico.}
 {116}{}{Il dannato aggeggio e' aperto. Tanto vale dare un'occhiata al suo interno.}
-{117}{}{Lo lasci stare.}
-{118}{}{Sei sicuro che il sistema sia fornito di una serie di routine diagnostiche. Tuttavia, gli input da tastiera sembra siano stati disabilitati. Il terminale accetta solamente comandi vocali. Cosa fai?}
+{117}{}{Lascialo stare.}
+{118}{}{Il sistema deve per forza avere una serie di routine diagnostiche. Tuttavia, gli input da tastiera sembra siano stati disabilitati. Il terminale accetta solamente comandi vocali. Cosa fai?}
 {119}{}{L'unica cosa rimasta da fare e' guardare all'interno.}
-{120}{}{Lo lasci stare.}
-{121}{}{Osservando l'ammasso di cavi e circuiti stampati, scopri che il sistema e' stato deliberatamente sabotato. Uno dei circuiti stampati, il modulo di riconoscimento vocale e' irreparabilmente danneggiato e deve essere sostituito. Tutto quello che ti serve adesso e' un modulo di ricambio.}
+{120}{}{Lascialo stare.}
+{121}{}{Osservando l'ammasso di cavi e circuiti stampati, scopri che il sistema e' stato deliberatamente sabotato. Uno dei circuiti stampati, il modulo di riconoscimento vocale, e' irreparabilmente danneggiato e deve essere sostituito. Tutto quello che ti serve adesso e' un modulo di ricambio.}
 {122}{}{Fatto.}
 {123}{}{Fatto.}
 {124}{}{Installi il modulo nel terminale. Il sistema e' riparato.}

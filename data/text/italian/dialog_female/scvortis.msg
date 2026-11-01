@@ -33,12 +33,12 @@
 {132}{}{Un che? Beh, qualunque cosa sia, non ce l'ho.}
 {133}{}{Un'altra domanda...}
 {134}{}{Beh, davvero molto gentile.}
-{135}{}{La New California Republic - nient'altro che un ammasso di tipi moderati e di mercanti. Hanno qualche problema con gli schiavisti e la schiavitu', ma - che diavolo! - io ci campo con queste cose.}
+{135}{}{La Repubblica della Nuova California - nient'altro che un ammasso di bacchettoni e di mercanti. Hanno qualche problema con gli schiavisti e la schiavitu', ma - che diavolo! - io ci campo con queste cose.}
 {136}{}{Un'altra domanda...}
 {137}{}{Grazie, devo andare.}
-{138}{}{Qualcuno ti ha detto male. Non ho mai avuto problemi con nessuno - e soprattutto non con i Ranger. Quello che faccio e' tutto legale, non c'e' nulla contro di me.}
+{138}{}{Qualcuno ti ha dato informazioni sbagliate. Non ho mai avuto problemi con nessuno - e soprattutto non con i Ranger. Quello che faccio e' tutto legale, non c'e' nulla contro di me.}
 {139}{}{Un'altra domanda...}
-{140}{}{Proprio cosi'. Devo andare.}
+{140}{}{Come dici tu. Me ne vado.}
 {141}{}{Si'... puo' anche darsi che io abbia qualche problema con i Ranger. Stai cercando lavoro?}
 {142}{}{Si'.}
 {143}{}{No.}
@@ -46,7 +46,7 @@
 {145}{}{Un'altra domanda...}
 {146}{}{Sei troppo permaloso per i miei gusti. Me ne vado.}
 {147}{}{Bene. Allora... devi sapere che alcune persone li vedono come una potenziale fonte di problemi. Sarebbe davvero una gran cosa se riuscissimo a procurarci una mappa delle loro postazioni nel nord - New Reno, Klamath, ovunque. Sarei disposto a pagare, diciamo, 500$ per una cosa del genere. Credi di potermela procurare?}
-{148}{}{Bene.}
+{148}{}{Certo.}
 {149}{}{Non credo proprio.}
 {150}{}{Te ne parlero' io, allora. Questi Ranger si sono messi in testa di eliminare la schiavitu' e gli schiavisti - con la forza. Sono una vera spina nel fianco di tanti lavoratori.}
 {151}{}{Lavorano sotto copertura, soprattutto nel nord.}
@@ -61,17 +61,17 @@
 {160}{}{E cosa diavolo vuoi che ne sappia io!? Se lo sapessi ne avrei gia' una, non credi? Ascolta: dovrebbe esserci una loro squadra in citta'. Trovali e vedi quello che riesci a fare.}
 {161}{}{Ancora un paio di domande.}
 {162}{}{D'accordo. Tornero'.}
-{163}{}{Sei tornato. L'hai presa quella mappa?}
+{163}{}{Sei tornata. L'hai presa quella mappa?}
 {164}{}{Si'.}
 {165}{}{No.}
 {166}{}{Sto ancora aspettando che tu porti a termine il tuo primo incarico!}
-{167}{}{Oh, certo! Me n'ero dimenticato.}
+{167}{}{Oh, certo! Me n'ero dimenticata.}
 {168}{}{Da quando hai fatto il tuo lavoro, no. Grazie.}
 {169}{}{Solo una domanda o due.}
-{170}{}{Nessun problema. Addio.}
+{170}{}{Nessun problema. Ciao.}
 {171}{}{Ottimo lavoro. Adesso sara' meglio che tu diventi uccel di bosco, casomai i Ranger dovessero capire cos'e' successo.}
 {172}{}{E' stato un piacere fare affari con te.}
-{173}{}{Beh, non startene qui imbambolato, imbecille! Qualcuno potrebbe insospettirsi.}
+{173}{}{Beh, non startene qui imbambolata, imbecille! Qualcuno potrebbe insospettirsi.}
 {174}{}{D'accordo, ho capito l'antifona.}
 {175}{}{Cosa cazzo...? Guardie! Abbiamo un ospite indesiderato!}
 {176}{}{Prova ad entrare li' dentro e ti faro' saltare la testa. Hai capito?}

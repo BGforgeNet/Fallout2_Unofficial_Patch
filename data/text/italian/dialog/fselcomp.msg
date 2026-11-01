@@ -17,14 +17,14 @@
 {116}{}{[Dopo aver superato con fatica gli incomprensibili discorsi religiosi, scopri che gli Hubologisti hanno trovato un modo per rendere piu' robuste le Power-Armor. Hanno anche trovato un modo per calcolare traiettorie di lancio, orbite e destinazioni spaziali. In piu', pare stiano concentrando le ricerche sul controllo atmosferico.]}
 {117}{}{Indietro.}
 {118}{}{Disconnetti}
-{119}{}{[Spendi quasi mezz'ora leggendo gli obiettivi che AHS-9 sta cercando di realizzare. Oltre all'illuminazione e al ricongiungimento col Padre Stellare, sembra che non si faccia nessuno scrupolo a pensare di distruggere gli umani che non sono stati con lui fin dall'inizio. E' un po' toccato.]}
+{119}{}{[Passi quasi mezz'ora leggendo gli obiettivi che AHS-9 sta cercando di realizzare. Oltre all'illuminazione e al ricongiungimento col Padre Stellare, sembra che non si faccia nessuno scrupolo a pensare di distruggere gli umani che non sono stati con lui fin dall'inizio. E' un po' toccato.]}
 {120}{}{Indietro.}
 {121}{}{Disconnetti.}
 {122}{}{[La Chiesa Hubologista sembra essere enormemente facoltosa. L'approccio standard consiste nel chiedere ad ogni nuova recluta la donazione spontanea di tutte le sue proprieta' terrene alla Chiesa come segno di buona fede. Quando a qualcuno non viene chiesta la suddetta donazione, spesso vuol dire che gli Hubologisti non hanno intenzione di comportarsi onestamente. Hanno un enorme bottino nascosto da qualche parte nel deserto. Non riesci pero' a scoprire la sua posizione.]}
 {123}{}{Indietro.}
 {124}{}{Disconnetti.}
 {125}{}{Accesso ai controlli concesso. Selezionare operazione.}
-{126}{}{Formattazione l'hard disk.}
+{126}{}{Formattare l'hard disk.}
 {127}{}{Analisi del sistema.}
 {128}{}{Indietro.}
 {129}{}{Disconnetti.}
